@@ -1,0 +1,10 @@
+{{ $dataJ := getJSON "https://www.toptal.com/developers/feed2json/convert?url=https://azurecomcdn.azureedge.net/en-us/updates/feed/" }}
+{{ with $dataJ }}
+    {{ range .items }}
+        <strong>{{ .title | plainify | htmlUnescape }}</strong><br />
+        <p>{{ .summary | plainify | htmlUnescape }}</p>
+        {{ $url := .url | plainify | htmlUnescape }}
+        <a href="{{ $url }}">{{ $url }}</a><br />
+        <hr>
+    {{ end }}
+{{ end }}
