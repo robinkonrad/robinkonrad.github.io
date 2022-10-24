@@ -5,3 +5,6 @@ draft: false
 ---
 
 Testpage
+
+## Certifications
+{{< credlybadges name="robin-konrad.1eb10cec" >}}

@@ -4,7 +4,7 @@ baseURL = "https://robinkonrad.github.io"
 theme = "LoveIt"
 
 # website title
-title = "Robin Konrads Page"
+title = "Robin Konrad"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -45,14 +45,6 @@ languageName = "English"
     # title will be shown when you hover on this menu link
     title = ""
   [[menu.main]]
-    weight = 5
-    identifier = "azure-updates"
-    pre = ""
-    post = ""
-    name = "Azure Updates"
-    url = "/azure-updates/"
-    title = ""
-  [[menu.main]]
     weight = 6
     identifier = "about"
     pre = ""
@@ -80,9 +72,9 @@ languageName = "English"
   # date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "Robin Konrads Page"
+  title = "Robin Konrad"
   # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Robin Konrads Page"
+  description = "Robin Konrad"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -107,7 +99,7 @@ languageName = "English"
   # App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Robin Konrads Page"
+    title = "Robin Konrad"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -172,7 +164,7 @@ languageName = "English"
     # ICP info only in China (HTML format is supported)
     icp = ""
     # license info (HTML format is supported)
-    license= ''
+    license= '<a href="/imprint">Imprint / Impressum</a>'
 
 # Home page config
   [params.home]
@@ -205,77 +197,9 @@ languageName = "English"
     GitHub = "robinkonrad"
     Linkedin = "robin-konrad-51a256b2"
     Twitter = "robin_konrad_"
-    Instagram = ""
-    Facebook = ""
-    Telegram = ""
-    Medium = ""
-    Gitlab = ""
-    Youtubelegacy = ""
-    Youtubecustom = ""
-    Youtubechannel = ""
-    Tumblr = ""
-    Quora = ""
-    Keybase = ""
-    Pinterest = ""
-    Reddit = ""
-    Codepen = ""
-    FreeCodeCamp = ""
-    Bitbucket = ""
-    Stackoverflow = ""
-    Weibo = ""
-    Odnoklassniki = ""
-    VK = ""
-    Flickr = ""
     Xing = "Robin_Konrad"
-    Snapchat = ""
-    Soundcloud = ""
-    Spotify = ""
-    Bandcamp = ""
-    Paypal = ""
-    Fivehundredpx = ""
-    Mix = ""
-    Goodreads = ""
-    Lastfm = ""
-    Foursquare = ""
-    Hackernews = ""
-    Kickstarter = ""
-    Patreon = ""
-    Steam = ""
-    Twitch = ""
-    Strava = ""
-    Skype = ""
-    Whatsapp = ""
-    Zhihu = ""
-    Douban = ""
-    Angellist = ""
-    Slidershare = ""
-    Jsfiddle = ""
-    Deviantart = ""
-    Behance = ""
-    Dribbble = ""
-    Wordpress = ""
-    Vine = ""
-    Googlescholar = ""
-    Researchgate = ""
-    Mastodon = ""
-    Thingiverse = ""
-    Devto = ""
-    Gitea = ""
-    XMPP = ""
-    Matrix = ""
-    Bilibili = ""
-    Discord = ""
-    DiscordInvite = ""
-    Lichess = ""
-    ORCID = ""
-    Pleroma = ""
-    Kaggle = ""
-    MediaWiki= ""
-    Plume = ""
-    HackTheBox = ""
-    RootMe= ""
-    Email = ""
-    RSS = ""
+    Email = "hello@robinkonrad.de"
+    Credly = "robin-konrad.1eb10cec"
   [params.page.share]
     enable = true
     Twitter = true

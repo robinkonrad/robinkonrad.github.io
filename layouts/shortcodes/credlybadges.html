@@ -1,0 +1,9 @@
+{{ $credlyBaseUrl := "https://www.credly.com/users/USERNAME/badges.json"}}
+{{ $credlyUrl := replace $credlyBaseUrl "USERNAME" (.Get "name") }}
+{{ $credlyData := getJSON $credlyUrl }}
+
+{{ with $credlyData }}
+    {{ range .data }}
+        <a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank"><img style="width: 100px;" src="{{ .image.url | plainify | htmlUnescape }}"></img></a>
+    {{ end }}
+{{ end }}

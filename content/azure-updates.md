@@ -8,6 +8,8 @@ Whats new on Microsoft Azure? We are just mirroring the RSS Feed provided by Mic
 
 Source: <https://azurecomcdn.azureedge.net/en-us/updates/feed/>
 
+***
+
 **RSS Feed**
 
 {{< azureupdatesrssfeed >}}
