@@ -6,10 +6,79 @@ theme = "LoveIt"
 # website title
 title = "Robin Konrad"
 
-# language code ["en", "zh-CN", "fr", "pl", ...]
-languageCode = "en"
-# language name ["English", "简体中文", "Français", "Polski", ...]
-languageName = "English"
+[languages]
+  [languages.en]
+    weight = 1
+    title = "My New Hugo Site"
+    languageCode = "en"
+    languageName = "English"
+    [[languages.en.menu.main]]
+      weight = 1
+      identifier = "home"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Home"
+      url = "/"
+      # title will be shown when you hover on this menu link
+      title = ""
+    [[languages.en.menu.main]]
+      weight = 2
+      identifier = "posts"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Posts"
+      url = "/posts/"
+      # title will be shown when you hover on this menu link
+      title = ""
+    [[languages.en.menu.main]]
+      weight = 6
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "About"
+      url = "/about/"
+      title = ""
+  [languages.de]
+    weight = 2
+    title = "My New Hugo Site"
+    languageCode = "de"
+    languageName = "Deutsch"
+    [[languages.de.menu.main]]
+      weight = 1
+      identifier = "home"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Home"
+      url = "/"
+      # title will be shown when you hover on this menu link
+      title = ""
+    [[languages.de.menu.main]]
+      weight = 2
+      identifier = "posts"
+      # you can add extra information before the name (HTML format is supported), such as icons
+      pre = ""
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      name = "Posts"
+      url = "/posts/"
+      # title will be shown when you hover on this menu link
+      title = ""
+    [[languages.de.menu.main]]
+      weight = 6
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "Über"
+      url = "/about/"
+      title = ""
+
+defaultContentLanguage = "en"
 
 # Author config
 [author]
@@ -19,39 +88,6 @@ languageName = "English"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-# Menu config
-[menu]
-  [[menu.main]]
-    weight = 1
-    identifier = "home"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Home"
-    url = "/"
-    # title will be shown when you hover on this menu link
-    title = ""
-  [[menu.main]]
-    weight = 2
-    identifier = "posts"
-    # you can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
-    # you can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-    name = "Posts"
-    url = "/posts/"
-    # title will be shown when you hover on this menu link
-    title = ""
-  [[menu.main]]
-    weight = 6
-    identifier = "about"
-    pre = ""
-    post = ""
-    name = "About"
-    url = "/about/"
-    title = ""
 
 # Markup related configuration in Hugo
 [markup]
@@ -147,6 +183,9 @@ languageName = "English"
       post = ""
       # whether to use typeit animation for title name
       typeit = false
+
+  [params.cookieconsent] 
+    enable = true
 
   # Footer config
   [params.footer]
