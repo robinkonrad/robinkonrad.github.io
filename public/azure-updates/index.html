@@ -1,0 +1,1343 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="robots" content="noodp" />
+        <title>Azure Updates - Robin Konrad</title><meta name="Description" content="Robin Konrad"><meta property="og:title" content="Azure Updates" />
+<meta property="og:description" content="Whats new on Microsoft Azure? We are just mirroring the RSS Feed provided by Microsoft.
+Source: https://azurecomcdn.azureedge.net/en-us/updates/feed/
+RSS Feed
+General availability: Stream Analytics no-code editor in Event Hubs
+Stream Analytics no-code editor enables you to develop a Stream Analytics job in minutes with drag and drop experience. Now, it is generally available with several new capabilities added.
+https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/
+Generally available: Auto Extension upgrade for Arc enabled Servers
+Azure Arc can now provide high availability and automatic protection against zero-day or critical vulnerabilities in Azure extensions to your Arc enabled Servers" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://robinkonrad.github.io/azure-updates/" /><meta property="og:image" content="https://robinkonrad.github.io/logo.png"/><meta property="article:section" content="" />
+<meta property="article:published_time" content="2022-10-18T21:13:58+02:00" />
+<meta property="article:modified_time" content="2022-10-18T21:13:58+02:00" /><meta property="og:site_name" content="Robin Konrad" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://robinkonrad.github.io/logo.png"/>
+
+<meta name="twitter:title" content="Azure Updates"/>
+<meta name="twitter:description" content="Whats new on Microsoft Azure? We are just mirroring the RSS Feed provided by Microsoft.
+Source: https://azurecomcdn.azureedge.net/en-us/updates/feed/
+RSS Feed
+General availability: Stream Analytics no-code editor in Event Hubs
+Stream Analytics no-code editor enables you to develop a Stream Analytics job in minutes with drag and drop experience. Now, it is generally available with several new capabilities added.
+https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/
+Generally available: Auto Extension upgrade for Arc enabled Servers
+Azure Arc can now provide high availability and automatic protection against zero-day or critical vulnerabilities in Azure extensions to your Arc enabled Servers"/>
+<meta name="application-name" content="Robin Konrad">
+<meta name="apple-mobile-web-app-title" content="Robin Konrad"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://robinkonrad.github.io/azure-updates/" /><link rel="prev" href="https://robinkonrad.github.io/about/" /><link rel="next" href="https://robinkonrad.github.io/imprint/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Azure Updates",
+        "inLanguage": "en",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/robinkonrad.github.io\/azure-updates\/"
+        },"genre": "page","wordcount":  6022 ,
+        "url": "https:\/\/robinkonrad.github.io\/azure-updates\/","datePublished": "2022-10-18T21:13:58+02:00","dateModified": "2022-10-18T21:13:58+02:00","publisher": {
+            "@type": "Organization",
+            "name": ""},"author": {
+                "@type": "Person",
+                "name": "Robin Konrad"
+            },"description": ""
+    }
+    </script></head>
+    <body data-header-desktop="fixed" data-header-mobile="auto"><script type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('auto' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'auto' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+        <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/" title="Robin Konrad"><span class="header-title-pre">👨‍💻</span>Robin Konrad</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/"> Home </a><a class="menu-item" href="/posts/"> Posts </a><a class="menu-item" href="/about/"> About </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="Search">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a><a href="javascript:void(0);" class="menu-item language" title="Select Language">
+                    <i class="fa fa-globe" aria-hidden="true"></i>                      
+                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/azure-updates/" selected>English</option></select>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/" title="Robin Konrad"><span class="header-title-pre">👨‍💻</span>Robin Konrad</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="Search titles or contents..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="Search">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        Cancel
+                    </a>
+                </div><a class="menu-item" href="/" title="">Home</a><a class="menu-item" href="/posts/" title="">Posts</a><a class="menu-item" href="/about/" title="">About</a><a href="javascript:void(0);" class="menu-item theme-switch" title="Switch Theme">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="Select Language">
+                    <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/azure-updates/" selected>English</option></select>
+                </a></div>
+    </div>
+</header><div class="search-dropdown desktop">
+        <div id="search-dropdown-desktop"></div>
+    </div>
+    <div class="search-dropdown mobile">
+        <div id="search-dropdown-mobile"></div>
+    </div><main class="main">
+                <div class="container"><div class="page single special"><h1 class="single-title animate__animated animate__pulse animate__faster">Azure Updates</h1><div class="content" id="content"><p>Whats new on Microsoft Azure? We are just mirroring the RSS Feed provided by Microsoft.</p>
+<p>Source: <a href="https://azurecomcdn.azureedge.net/en-us/updates/feed/" target="_blank" rel="noopener noreffer ">https://azurecomcdn.azureedge.net/en-us/updates/feed/</a></p>
+<hr>
+<p><strong>RSS Feed</strong></p>
+
+
+    
+        <strong>General availability: Stream Analytics no-code editor in Event Hubs</strong><br />
+        <p>Stream Analytics no-code editor enables you to develop a Stream Analytics job in minutes with drag and drop experience. Now, it is generally available with several new capabilities added.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/">https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/</a><br />
+        <hr>
+    
+        <strong>Generally available: Auto Extension upgrade for Arc enabled Servers</strong><br />
+        <p>Azure Arc can now provide high availability and automatic protection against zero-day or critical vulnerabilities in Azure extensions to your Arc enabled Servers</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/auto-extension-upgrade-for-arc-servers/">https://azure.microsoft.com/en-us/updates/auto-extension-upgrade-for-arc-servers/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure savings plan for compute</strong><br />
+        <p>Today, we’re officially announcing the general availability for Azure savings plan for compute.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-savings-plan-for-compute/">https://azure.microsoft.com/en-us/updates/general-availability-azure-savings-plan-for-compute/</a><br />
+        <hr>
+    
+        <strong>General availability: Zone-redundant storage support by Azure Backup</strong><br />
+        <p>Azure Backup enables you to configure cost-efficient backups while meeting your data residency requirements.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azurebackupzrssupport/">https://azure.microsoft.com/en-us/updates/azurebackupzrssupport/</a><br />
+        <hr>
+    
+        <strong>Public preview: Exactly once delivery for Azure Data Lake Storage Gen2</strong><br />
+        <p>Stream Analytics now supports end-to-end exactly once semantics when writing to Azure Data Lake Storage Gen2.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-exactly-once-adlsgen2/">https://azure.microsoft.com/en-us/updates/asa-exactly-once-adlsgen2/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Stream Analytics in one new region</strong><br />
+        <p>Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-one-new-region/">https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-one-new-region/</a><br />
+        <hr>
+    
+        <strong>In development: Introducing ExpressRoute Metro</strong><br />
+        <p>ExpressRoute Metro enables dedicated, private network connections between Azure datacenters and on-premises using Service providers or directly connecting to Microsoft backbone at two different edge sites in single metropolitan area.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/">https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/</a><br />
+        <hr>
+    
+        <strong>Generally available: Kusto Trender</strong><br />
+        <p>Kusto Trender is a new JavaScript client library for Kusto focused on IoT scenarios. It is now available on GitHub.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/kustotrender/">https://azure.microsoft.com/en-us/updates/kustotrender/</a><br />
+        <hr>
+    
+        <strong>Public preview: Enhanced soft delete for Azure Backup</strong><br />
+        <p>Enhanced soft delete helps you recover your backup data after it has been deleted, giving you protection against data loss scenarios like ransomwares, malicious actors, and accidental deletes.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-preview/">https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-preview/</a><br />
+        <hr>
+    
+        <strong>Public preview: Multi-user authorization for Backup vaults</strong><br />
+        <p>Multi-user authorization provides enhanced protection for your backup data against unauthorized critical operations.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-preview/">https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-preview/</a><br />
+        <hr>
+    
+        <strong>Public preview: Immutable vaults for Azure Backup</strong><br />
+        <p>Immutable vaults helps you protect your backups against threats like ransomware attacks and malicious actors by ensuring that your backup data cannot be deleted before its intended expiry time.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-backup-immutable-vaults-preview/">https://azure.microsoft.com/en-us/updates/azure-backup-immutable-vaults-preview/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure NetApp Files application volume group for SAP HANA</strong><br />
+        <p>With Azure NetApp Files application volume group (AVG) for SAP HANA, you are able to deploy all volumes required to install and operate an SAP HANA system according to best practices.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-application-volume-group-for-sap-hana/">https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-application-volume-group-for-sap-hana/</a><br />
+        <hr>
+    
+        <strong>Generally available: Windows Admin Center for Azure Virtual Machines</strong><br />
+        <p>Windows Admin Center for Azure Virtual Machines is now generally available for you to manage the Operating System of your Windows Server infrastructure in Azure.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/windows-admin-center-for-azure-virtual-machines/">https://azure.microsoft.com/en-us/updates/windows-admin-center-for-azure-virtual-machines/</a><br />
+        <hr>
+    
+        <strong>General availability: Static IP configurations of private endpoints</strong><br />
+        <p>Azure private endpoint support of statically defined IP addresses is now generally available allowing you to provide static IP addresses when configuring your private endpoints.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-static-ip-configurations-of-private-endpoints/">https://azure.microsoft.com/en-us/updates/general-availability-static-ip-configurations-of-private-endpoints/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Sphere OS version 22.10 expected on October 25</strong><br />
+        <p>Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210-expected-on-october-25/">https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210-expected-on-october-25/</a><br />
+        <hr>
+    
+        <strong>General availability: Custom network interface name configurations of private endpoints</strong><br />
+        <p>Azure private endpoint (PE) support of custom network interface (NIC) names is now generally available. With this feature you can now deploy PE NICs without the GUID suffix.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-custom-nic-name-configurations-of-private-endpoints/">https://azure.microsoft.com/en-us/updates/general-availability-custom-nic-name-configurations-of-private-endpoints/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Monitor predictive autoscale for Azure Virtual Machine Scale Sets</strong><br />
+        <p>Predictive autoscale manages and scales your virtual machine scale sets by observing and learning from historical CPU usage patterns.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets/">https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Site Recovery update rollup 64 - October 2022</strong><br />
+        <p>This update provides the improvements for the latest version of Azure Site Recovery components.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-64-october-2022/">https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-64-october-2022/</a><br />
+        <hr>
+    
+        <strong>Public preview: Computer Vision Image Analysis 4.0</strong><br />
+        <p>Get results from all Image Analysis visual features including Read (OCR) with only need one API call.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-computer-vision-image-analysis-40/">https://azure.microsoft.com/en-us/updates/public-preview-computer-vision-image-analysis-40/</a><br />
+        <hr>
+    
+        <strong>Public preview: Microsoft Azure Deployment Environments</strong><br />
+        <p>Azure Deployment Environments has entered public preview and helps dev teams create and manage all types of environments throughout the application lifecycle.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-deployment-environments/">https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-deployment-environments/</a><br />
+        <hr>
+    
+        <strong>Generally available: Service Bus Explorer for the Azure portal</strong><br />
+        <p>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/">https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</a><br />
+        <hr>
+    
+        <strong>Public preview: Support for HANA System Replication in Azure Backup for HANA</strong><br />
+        <p>Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/">https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/</a><br />
+        <hr>
+    
+        <strong>Generally available: Control the minimum TLS version used with Azure Service Bus</strong><br />
+        <p>Configure your Service Bus namespace to require that clients send and receive data with a minimal version of transport layer security (TLS).</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/announcing-policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-ga/">https://azure.microsoft.com/en-us/updates/announcing-policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-ga/</a><br />
+        <hr>
+    
+        <strong>Public preview: Job diagram simulator in VS Code</strong><br />
+        <p>The job diagram simulator provides a capability to visualize your Stream Analytics job’s topology and help you improve the query’s parallelism as you develop your streaming query.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-job-diagram-simulator-in-azure-stream-analytics-extension-for-vs-code/">https://azure.microsoft.com/en-us/updates/public-preview-job-diagram-simulator-in-azure-stream-analytics-extension-for-vs-code/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Active Directory for Azure Database for PostgreSQL – Flexible Server</strong><br />
+        <p>Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server/">https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server/</a><br />
+        <hr>
+    
+        <strong>Azure Machine Learning—Public preview updates for October 2022/Ignite</strong><br />
+        <p>Features include functionality to promote pipelines and models across workspaces, perform data wrangling at scale, shorten training times, and lower set-up costs with Azure Container for PyTorch.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-october-2022ignite/">https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-october-2022ignite/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Database for MySQL - Flexible Server with AMD compute</strong><br />
+        <p>Take advantage of AMD compute for Azure Database for MySQL – Flexible Server general purpose and business critical tiers, with tuned performance out of the box.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-with-amd-compute/">https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-with-amd-compute/</a><br />
+        <hr>
+    
+        <strong>Public preview: MySQL extension for Azure Data Studio</strong><br />
+        <p>Connect to, query, and develop for MySQL hosted on-premises or in the cloud with the MySQL extension for Azure Data Studio.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-mysql-extension-for-azure-data-studio/">https://azure.microsoft.com/en-us/updates/public-preview-mysql-extension-for-azure-data-studio/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Database for MySQL - Flexible Server auto scale IO</strong><br />
+        <p>Use auto scale IO to automatically scale the IO on an instance of Azure Database for MySQL - Flexible Server to efficiently adapt for workload needs without manual intervention.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-auto-scale-io/">https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-auto-scale-io/</a><br />
+        <hr>
+    
+        <strong>Public preview: Infrastructure encryption using customer managed key for PostgreSQL – Flexible Server</strong><br />
+        <p>Infrastructure encryption with customer managed keys adds a second layer of encryption for your data at rest using customer managed keys.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-infrastructure-encryption-using-customer-managed-key-for-postgresql-flexible-server/">https://azure.microsoft.com/en-us/updates/public-preview-infrastructure-encryption-using-customer-managed-key-for-postgresql-flexible-server/</a><br />
+        <hr>
+    
+        <strong>General availability: 16MB limit per document in Azure Cosmos DB for MongoDB</strong><br />
+        <p>Develop your applications with more flexibility with a higher 16MB document limit in Azure Cosmos DB for MongoDB.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-16mb-limit-per-document-in-azure-cosmos-db-for-mongodb/">https://azure.microsoft.com/en-us/updates/general-availability-16mb-limit-per-document-in-azure-cosmos-db-for-mongodb/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Advisor score across all Azure regions</strong><br />
+        <p>Azure Advisor score enables you to quickly prioritize the Azure Advisor recommendations that will have the greatest impact on your workload health.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-advisor-score-across-all-azure-regions/">https://azure.microsoft.com/en-us/updates/generally-available-azure-advisor-score-across-all-azure-regions/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Cosmos DB for PostgreSQL</strong><br />
+        <p>Build distributed PostgreSQL applications that scale globally with cross-region read replicas with Azure Cosmos DB for PostgreSQL.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql/">https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Resource Topology</strong><br />
+        <p>Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-topology/">https://azure.microsoft.com/en-us/updates/public-preview-azure-resource-topology/</a><br />
+        <hr>
+    
+        <strong>Public preview: ExpressRoute Traffic Collector</strong><br />
+        <p>ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-expressroute-traffic-collector/">https://azure.microsoft.com/en-us/updates/public-preview-expressroute-traffic-collector/</a><br />
+        <hr>
+    
+        <strong>Public preview: Integration of Azure Monitor Agent with Connection Monitor</strong><br />
+        <p>Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity to ARC enabled endpoints.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-integration-of-azure-monitor-agent-with-connection-monitor/">https://azure.microsoft.com/en-us/updates/public-preview-integration-of-azure-monitor-agent-with-connection-monitor/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Migrate - SQL Server migration assessment for migration or modernization</strong><br />
+        <p>Save cost in Azure for your SQL estate through the new unified discovery and assessment feature in Azure Migrate.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-migrate-sql-server-migration-assessment-for-migration-or-modernization/">https://azure.microsoft.com/en-us/updates/public-preview-azure-migrate-sql-server-migration-assessment-for-migration-or-modernization/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Stack HCI new features release</strong><br />
+        <p>Get the latest features release, version 22H2, for Azure Stack HCI.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-stack-hci-new-features-release/">https://azure.microsoft.com/en-us/updates/general-availability-azure-stack-hci-new-features-release/</a><br />
+        <hr>
+    
+        <strong>Public preview: New Azure Virtual Machine Scale Set and Spot Virtual Machines capabilities</strong><br />
+        <p>You can now include standard VMs and Spot VMs in the same Azure Virtual Machine Scale Set. New VM-series are now supported with Virtual Machine Scale Sets flexible orchestration mode.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-new-azure-virtual-machine-scale-set-and-spot-virtual-machines-capabilities/">https://azure.microsoft.com/en-us/updates/public-preview-new-azure-virtual-machine-scale-set-and-spot-virtual-machines-capabilities/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Monitor Logs - capabilities to add value and lower costs</strong><br />
+        <p>Azure Monitor Logs announce the general availability of capabilities that help you increase cost effectiveness.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-logs-capabilities-to-add-value-and-lower-costs/">https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-logs-capabilities-to-add-value-and-lower-costs/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Monitor application insights Java profiling, using Java Flight Recorder</strong><br />
+        <p>Java application profiling using Java Flight Recorder (JFR) is now in preview in Azure Monitor application insights.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-application-insights-java-profiling-using-java-flight-recorder/">https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-application-insights-java-profiling-using-java-flight-recorder/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Monitor Logs - create granular level RBAC for custom tables</strong><br />
+        <p>Setting RBAC query read action on Azure Monitor Logs table is now publicly available.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-logs-create-granular-level-rbac-for-custom-tables/">https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-logs-create-granular-level-rbac-for-custom-tables/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Monitor managed service for Prometheus</strong><br />
+        <p>Azure Monitor&#39;s new fully managed Prometheus compatible service delivers the best of what you like about open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-managed-service-for-prometheus/">https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-managed-service-for-prometheus/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Monitor agent migration tools</strong><br />
+        <p>Migration to the cost-effective, secure, performant, and manageable new Azure Monitor agent is now made easy using migration tools and helpers.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-agent-migration-tools/">https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-agent-migration-tools/</a><br />
+        <hr>
+    
+        <strong>General availability: Confidential VM option for SQL Server on Azure Virtual Machines</strong><br />
+        <p>Run your SQL Server workloads on the latest AMD-backed confidential virtual machines, ensuring protection of data in use.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-confidential-vm-option-for-sql-server-on-azure-virtual-machines/">https://azure.microsoft.com/en-us/updates/general-availability-confidential-vm-option-for-sql-server-on-azure-virtual-machines/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Managed Confidential Consortium Framework</strong><br />
+        <p>Confidential Consortium Framework is a new Azure service that lets you use open-source for building and managing multi-party applications that require decentralized trust and governance in a trusted network.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-managed-confidential-consortium-framework/">https://azure.microsoft.com/en-us/updates/public-preview-azure-managed-confidential-consortium-framework/</a><br />
+        <hr>
+    
+        <strong>Public preview: Confidential VM option for Azure Virtual Desktop</strong><br />
+        <p>You can now choose a confidential VM for your Windows 11 desktop virtualization experience, ensuring that workloads running on your virtual desktop are encrypted in memory and protected in use.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-confidential-vm-option-for-azure-virtual-desktop/">https://azure.microsoft.com/en-us/updates/public-preview-confidential-vm-option-for-azure-virtual-desktop/</a><br />
+        <hr>
+    
+        <strong>General availability: AMD-based confidential VMs for Azure Kubernetes Service</strong><br />
+        <p>Announcing the general availability of confidential node pools on Azure Kubernetes Service (AKS) with AMD SEV-SNP confidential VMs.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-amdbased-confidential-vms-for-azure-kubernetes-service/">https://azure.microsoft.com/en-us/updates/general-availability-amdbased-confidential-vms-for-azure-kubernetes-service/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure CNI Overlay mode in Azure Kubernetes Service</strong><br />
+        <p>Azure Kubernetes Service (AKS) now offers a new network overlay mode that is more efficient in terms of IP utilization.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-overlay-mode-in-azure-kubernetes-service/">https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-overlay-mode-in-azure-kubernetes-service/</a><br />
+        <hr>
+    
+        <strong>Generally available: ARM64 support in AKS</strong><br />
+        <p>Benefit from ARM64&#39;s better price, compute performance, and lower power utilization in AKS node pools.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-arm64-support-in-aks/">https://azure.microsoft.com/en-us/updates/generally-available-arm64-support-in-aks/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Active Directory workload identity support in AKS</strong><br />
+        <p>Workload identity provides a simpler approach for managing identities and overcomes limitations of Azure Active Directory pod-managed identity.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-workload-identity-support-in-aks/">https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-workload-identity-support-in-aks/</a><br />
+        <hr>
+    
+        <strong>Generally available: Windows server 2022 host support in AKS</strong><br />
+        <p>You can now benefit from the latest Windows Server 2022 features in AKS.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-windows-server-2022-host-support-in-aks/">https://azure.microsoft.com/en-us/updates/generally-available-windows-server-2022-host-support-in-aks/</a><br />
+        <hr>
+    
+        <strong>Generally available: 5,000 node scale in AKS</strong><br />
+        <p>Generally available: 5,000 node scale in AKS</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-5000-node-scale-in-aks/">https://azure.microsoft.com/en-us/updates/generally-available-5000-node-scale-in-aks/</a><br />
+        <hr>
+    
+        <strong>Generally available: Event Grid integration with AKS</strong><br />
+        <p>You can now get notification via Event Grid when a new Kubernetes version is available on AKS.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-event-grid-integration-with-aks/">https://azure.microsoft.com/en-us/updates/generally-available-event-grid-integration-with-aks/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure DNS Private Resolver – hybrid name resolution and conditional forwarding</strong><br />
+        <p>Seamlessly perform conditional forwarding from on-prem to Azure Private DNS Zones and from Azure Virtual Networks to any target DNS server.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-dns-private-resolver-hybrid-name-resolution-and-conditional-forwarding/">https://azure.microsoft.com/en-us/updates/general-availability-azure-dns-private-resolver-hybrid-name-resolution-and-conditional-forwarding/</a><br />
+        <hr>
+    
+        <strong>Public preview: IP Protection SKU for Azure DDoS Protection</strong><br />
+        <p>IP Protection is a new SKU that provides cost-effective, enterprise-grade DDoS protection for SMBs and offers the flexibility to enable protection on an individual public IP.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-ip-protection-sku-for-azure-ddos-protection/">https://azure.microsoft.com/en-us/updates/public-preview-ip-protection-sku-for-azure-ddos-protection/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Kubernetes Service hybrid deployment options</strong><br />
+        <p>Azure Kubernetes Service has new hybrid deployment options.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/">https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/</a><br />
+        <hr>
+    
+        <strong>In development: Day 0 support for .NET 7</strong><br />
+        <p>Day 0 support for .NET 7.0 on App Service.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/in-development-day-0-support-for-net-7/">https://azure.microsoft.com/en-us/updates/in-development-day-0-support-for-net-7/</a><br />
+        <hr>
+    
+        <strong>In development: Go language support</strong><br />
+        <p>Go language (v1.18 and v1.19) natively supported on Azure App Service.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/in-development-go-language-support/">https://azure.microsoft.com/en-us/updates/in-development-go-language-support/</a><br />
+        <hr>
+    
+        <strong>Public preview: Stretched clusters for Azure VMware Solution</strong><br />
+        <p>Microsoft is announcing the public preview of stretched clusters for Azure VMware Solution, providing 99.99% uptime for customers mission critical applications.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-stretched-clusters-for-azure-vmware-solution/">https://azure.microsoft.com/en-us/updates/public-preview-stretched-clusters-for-azure-vmware-solution/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Hybrid Benefit for AKS and Azure Stack HCI</strong><br />
+        <p>We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/">https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/</a><br />
+        <hr>
+    
+        <strong>Public preview: Customer-managed keys for Azure VMware Solution</strong><br />
+        <p>Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-vmware-solution/">https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-vmware-solution/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Automanage for Azure Virtual Machines and Arc-enabled servers</strong><br />
+        <p>Announcing the general availability for Azure Automanage with expanded configuration options.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-automanage-for-azure-virtual-machines-and-arcenabled-servers/">https://azure.microsoft.com/en-us/updates/generally-available-azure-automanage-for-azure-virtual-machines-and-arcenabled-servers/</a><br />
+        <hr>
+    
+        <strong>General availability: User-assigned managed identities for Azure Stream Analytics</strong><br />
+        <p>Azure Stream Analytics currently allows you to use user-assigned managed identities to authenticate your job&#39;s inputs and outputs.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-userassignedidentity-ga/">https://azure.microsoft.com/en-us/updates/asa-userassignedidentity-ga/</a><br />
+        <hr>
+    
+        <strong>General availability: Use managed identities to access Cosmos DB from Stream Analytics</strong><br />
+        <p>You can use managed identity to authenticate to your Cosmos DB output from Azure Stream Analytics.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-use-managed-identities-to-access-cosmos-db-from-an-azure-stream-analytics-job/">https://azure.microsoft.com/en-us/updates/general-availability-use-managed-identities-to-access-cosmos-db-from-an-azure-stream-analytics-job/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Data Explorer output from Azure Stream Analytics</strong><br />
+        <p>Azure Data Explorer output from Azure Stream Analytics is now generally available.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-azuredataexplorer-ga/">https://azure.microsoft.com/en-us/updates/asa-azuredataexplorer-ga/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Elastic SAN</strong><br />
+        <p>Azure Elastic SAN is industry&#39;s first fully managed storage area network (SAN) offering in the cloud providing an end-to-end experience similar to on-premises SAN.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-elastic-san/">https://azure.microsoft.com/en-us/updates/public-preview-azure-elastic-san/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Container Apps Azure Monitor integration</strong><br />
+        <p>Azure Container Apps now support using Azure Monitor to send your logs to additional destinations.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/">https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/</a><br />
+        <hr>
+    
+        <strong>Generally available: Dapr support for managed identity in Azure Container Apps</strong><br />
+        <p>Container Apps now provides support for using Dapr with Managed Identity.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/">https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/</a><br />
+        <hr>
+    
+        <strong>Public preview: Support for hybrid rendering with Next.js apps</strong><br />
+        <p>Azure Static Web Apps now supports zero configuration deployment and hosting of hybrid-rendered Next.js applications.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-support-for-hybrid-rendering-with-nextjs-apps/">https://azure.microsoft.com/en-us/updates/public-preview-support-for-hybrid-rendering-with-nextjs-apps/</a><br />
+        <hr>
+    
+        <strong>Generally available: Dapr secrets API support</strong><br />
+        <p>You can now use Dapr secrets APIs from your Azure Container Apps and leverage Dapr secret store component references when creating other components in the environment.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-dapr-secrets-api-support/">https://azure.microsoft.com/en-us/updates/generally-available-dapr-secrets-api-support/</a><br />
+        <hr>
+    
+        <strong>Public preview: Physical job diagram for Stream Analytics job troubleshooting</strong><br />
+        <p>The physical job diagram provides rich, instant insights to your Stream Analytics job to help you quickly identify the causes of problems when you troubleshoot issues.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-physical-job-diagram-for-stream-analytics-job-troubleshooting/">https://azure.microsoft.com/en-us/updates/public-preview-physical-job-diagram-for-stream-analytics-job-troubleshooting/</a><br />
+        <hr>
+    
+        <strong>Public preview: Native delta lake output connector</strong><br />
+        <p>You can now configure a Stream Analytics job to write streaming data to either a new or an existing delta lake yable in Azure Data Lake Storage Gen2.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-to-delta-lake/">https://azure.microsoft.com/en-us/updates/asa-to-delta-lake/</a><br />
+        <hr>
+    
+        <strong>Public preview: Support for HANA Instance snapshot integrated with backint logs</strong><br />
+        <p>Protect your large HANA databases in Azure Virtual Machines and recover them instantly with Azure Backup for HANA backint certified solution which now supports HANA snapshots.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-instance-snapshot-integrated-with-backint-logs/">https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-instance-snapshot-integrated-with-backint-logs/</a><br />
+        <hr>
+    
+        <strong>Azure Functions support for Node 12 is ending on 13 December 2022</strong><br />
+        <p>Update your functions apps to use Azure Functions host version 4 and Node 16.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-functions-support-for-node-12-is-ending-on-13-december-2022/">https://azure.microsoft.com/en-us/updates/azure-functions-support-for-node-12-is-ending-on-13-december-2022/</a><br />
+        <hr>
+    
+        <strong>Integration Services Environment will be retired on 31 August 2024 – transition to Logic Apps Standard</strong><br />
+        <p>Integration service environment in Azure Logic Apps will be retired on 31 August 2024.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard/">https://azure.microsoft.com/en-us/updates/integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard/</a><br />
+        <hr>
+    
+        <strong>General availability: New Azure proximity placement groups feature</strong><br />
+        <p>You can now use the new optional parameter &#34;intent&#34; to specify the VM sizes and zone intended for the proximity placement group.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/ppgintent/">https://azure.microsoft.com/en-us/updates/ppgintent/</a><br />
+        <hr>
+    
+        <strong>General availability: Simplified disaster recovery for VMware machines using Azure Site Recovery</strong><br />
+        <p>Today we’re officially announcing the general availability of a simpler, more reliable, and modernized way to protect your VMware virtual machines using Azure Site Recovery, for recovering quickly from disasters.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/vmware-dr-ga-with-asr/">https://azure.microsoft.com/en-us/updates/vmware-dr-ga-with-asr/</a><br />
+        <hr>
+    
+        <strong>Azure Batch Certificates will be retired on 29 February 2024</strong><br />
+        <p>Retirement Notice: Transition to Azure Key Vault before 29 February 2024.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-batch-certificates-will-be-retired-on-29-february-2024/">https://azure.microsoft.com/en-us/updates/azure-batch-certificates-will-be-retired-on-29-february-2024/</a><br />
+        <hr>
+    
+        <strong>Azure Static Web Apps extended support for .NET Core 3.1 ends on 3 December 2022</strong><br />
+        <p>Post 3 December 2022, Azure Static Web Apps will end support for .NET Core 3.1.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/staticwebappsdotnet3deprecation/">https://azure.microsoft.com/en-us/updates/staticwebappsdotnet3deprecation/</a><br />
+        <hr>
+    
+        <strong>Desired state configuration VM Extension for Linux, and Azure Automation DSC support for Linux, will be retired on 30 September 2023</strong><br />
+        <p>PowerShell DSC Virtual Machine extension for Linux, and Azure Automation DSC support for Linux, will be retired on 30 September 2023</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/migrate-from-linux-dsc-extension-to-the-guest-configuration-feature-of-azure-policy-by-may-1-2025/">https://azure.microsoft.com/en-us/updates/migrate-from-linux-dsc-extension-to-the-guest-configuration-feature-of-azure-policy-by-may-1-2025/</a><br />
+        <hr>
+    
+        <strong>Action required: Support for Azure Monitor for SAP solutions (classic) resources will end by 31 March 2023</strong><br />
+        <p>Azure Monitor for SAP Solutions (classic) is retiring. Support for Azure Monitor for SAP solutions (classic) resources will end by 31 March 2023. Please migrate to new version as soon as possible.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/action-required-support-for-azure-monitor-for-sap-solutions-classic-resources-will-end-by-31-march-2023/">https://azure.microsoft.com/en-us/updates/action-required-support-for-azure-monitor-for-sap-solutions-classic-resources-will-end-by-31-march-2023/</a><br />
+        <hr>
+    
+        <strong>Action required: Support for Azure Monitor for SAP solutions (classic) resources will end by 31 March 2023.</strong><br />
+        <p>Azure Monitor for SAP Solutions (classic) is retiring. Support for Azure Monitor for SAP solutions (classic) resources will end by 31 March 2023.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-classic-is-retiring-please-migrate-to-the-new-version-now/">https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-classic-is-retiring-please-migrate-to-the-new-version-now/</a><br />
+        <hr>
+    
+        <strong>Migrate to Azure Monitor VM insights by 30 September 2025 when Service Map will be retired</strong><br />
+        <p>Azure Service Map will be retired on 30 September 2025.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/">https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/</a><br />
+        <hr>
+    
+        <strong>Azure classic resource providers will be retired on 31 August 2024</strong><br />
+        <p>Classic resource providers that use Azure Service Manager (classic deployment model) will be retired on 31 August 2024.  Users will need to migrate their classic resource provider that uses classic deployment model (ASM) to Azure Resource Manager.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/">https://azure.microsoft.com/en-us/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/</a><br />
+        <hr>
+    
+        <strong>Upgrade to Standard SKU public IP addresses in Azure by 30 September 2025—Basic SKU will be retired</strong><br />
+        <p>Basic SKU public IP addresses will be retired.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/">https://azure.microsoft.com/en-us/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/</a><br />
+        <hr>
+    
+        <strong>Azure Percept DK Retirement Announcement</strong><br />
+        <p>Azure Percept DK and support from associated Azure services will be retired on March 30th, 2023.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-percept-dk-retirement-announcement/">https://azure.microsoft.com/en-us/updates/azure-percept-dk-retirement-announcement/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Firewall Basic</strong><br />
+        <p>Azure Firewall Basic provides cost-effective, enterprise-grade network security for small and medium businesses (SMBs).</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-basic/">https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-basic/</a><br />
+        <hr>
+    
+        <strong>Generally available: Query Store hints Azure SQL Database, Azure SQL Managed Instance</strong><br />
+        <p>Shape your query plans without changing the code.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/query-store-hints-for-sql-db-and-sql-mi-ga/">https://azure.microsoft.com/en-us/updates/query-store-hints-for-sql-db-and-sql-mi-ga/</a><br />
+        <hr>
+    
+        <strong>Azure Machine Learning—General availability updates for September 2022</strong><br />
+        <p>New features include the ability to establish event-driven notifications and the capability to label data in text documents using text named-identity recognition.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-updates-for-september-2022/">https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-updates-for-september-2022/</a><br />
+        <hr>
+    
+        <strong>Azure Machine Learning—Public preview updates for September 2022</strong><br />
+        <p>Includes the ability to control access to sensitive data, the capability to contrast differences to assess their performance, and the functionality to stop idle compute instances automatically.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-september-2022/">https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-september-2022/</a><br />
+        <hr>
+    
+        <strong>General availability: Smart tiering to vault-archive tier for Azure Backup</strong><br />
+        <p>You can now configure your backup policy to move all your eligible and recommended recovery points to vault-archive tier for Azure Virtual Machines, SQL Server/SAP HANA in Azure Virtual Machines.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-smart-tiering-to-vaultarchive-tier-for-azure-backup/">https://azure.microsoft.com/en-us/updates/general-availability-smart-tiering-to-vaultarchive-tier-for-azure-backup/</a><br />
+        <hr>
+    
+        <strong>Azure Batch Low Priority VMs will be retired on 30 September 2025</strong><br />
+        <p>Retirement Notice: Transition to Azure Batch Spot VMs before 30 September 2025.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/">https://azure.microsoft.com/en-us/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/</a><br />
+        <hr>
+    
+        <strong>Support for PostgreSQL 11 in Azure Database PostgreSQL - Hyperscale (Citus) ends on 9 November 2023</strong><br />
+        <p>Support for PostgreSQL 11 ends on 9 November 2023, plan and upgrade your Hyperscale (Citus) clusters to a higher PostgreSQL version.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/hyperscalecitus-pg11/">https://azure.microsoft.com/en-us/updates/hyperscalecitus-pg11/</a><br />
+        <hr>
+    
+        <strong>The application insights Java 2.X SDK will be retired on 30 September 2025</strong><br />
+        <p>Upgrade to application insights Java 3.X auto-instrumentation by 30 September 2025.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/application-insights-java-2x-retirement/">https://azure.microsoft.com/en-us/updates/application-insights-java-2x-retirement/</a><br />
+        <hr>
+    
+        <strong>DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure</strong><br />
+        <p>DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure. Monitor existing CI/CD pipelines from their native experiences in Azure DevOps or GitHub.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/retirement-notice-devops-starter-is-being-retired/">https://azure.microsoft.com/en-us/updates/retirement-notice-devops-starter-is-being-retired/</a><br />
+        <hr>
+    
+        <strong>Azure CycleCloud 7 will be retired on 30 September 2023</strong><br />
+        <p>Retirement notice: Transition to CycleCloud 8 by 30 September 2023.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-cyclecloud-7-will-be-retired-on-30-september-2023/">https://azure.microsoft.com/en-us/updates/azure-cyclecloud-7-will-be-retired-on-30-september-2023/</a><br />
+        <hr>
+    
+        <strong>Azure Static Web Apps support for Node 12 ends on 3 December 2022</strong><br />
+        <p>Post 3 December 2022, Azure Static Web Apps will end support for Node 12.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/staticwebappsnode12deprecation/">https://azure.microsoft.com/en-us/updates/staticwebappsnode12deprecation/</a><br />
+        <hr>
+    
+        <strong>Azure Batch Job/Pool Lifetime Statistics API will be retired on 30 April 2023</strong><br />
+        <p>Retirement Notice: Stop using Batch Job/Pool Lifetime Statistics API by 30 April 2023.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-batch-jobpool-lifetime-statistics-api-will-be-retired-on-30-april-2023/">https://azure.microsoft.com/en-us/updates/azure-batch-jobpool-lifetime-statistics-api-will-be-retired-on-30-april-2023/</a><br />
+        <hr>
+    
+        <strong>Support for Azure API Management self-hosted gateway version 0 and version 1 ends 1 October 2023</strong><br />
+        <p>After 1 October 2023, version 0 and version 1 self-hosted gateway will not be supported.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-selfhosted-gateway-version-0-and-version-1-ends-1-october-2023/">https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-selfhosted-gateway-version-0-and-version-1-ends-1-october-2023/</a><br />
+        <hr>
+    
+        <strong>Azure Batch TLS 1.0/1.1 will be retired on 31 March 2023</strong><br />
+        <p>Retirement notice: Transition to Azure Batch TLS 1.2 by 31 March 2023.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-batch-tls-1011-will-be-retired-on-31-march-2023/">https://azure.microsoft.com/en-us/updates/azure-batch-tls-1011-will-be-retired-on-31-march-2023/</a><br />
+        <hr>
+    
+        <strong>Azure Monitor ITSM connector for creating ServiceNow events will be retired on 30 September 2025</strong><br />
+        <p>We are retiring the Azure Monitor ITSM connector feature for creating ServiceNow alerts on 30 September 2025.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-connector-for-creating-servicenow-events-will-be-retired-on-30-september-2025/">https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-connector-for-creating-servicenow-events-will-be-retired-on-30-september-2025/</a><br />
+        <hr>
+    
+        <strong>Azure Monitor ITSM connector for creating ServiceNow alerts will be retired on 30 September 2025</strong><br />
+        <p>We are retiring the Azure Monitor ITSM connector feature for creating ServiceNow alerts on 30 September 2025.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-connector-for-creating-servicenow-alerts-will-be-retired-on-30-september-2025/">https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-connector-for-creating-servicenow-alerts-will-be-retired-on-30-september-2025/</a><br />
+        <hr>
+    
+        <strong>Action required: Migrate to Azure Database for MySQL Flexible Server by 16 September 2024</strong><br />
+        <p>Azure Database for MySQL Single Server will be retired.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/action-required-migrate-to-azure-database-for-mysql-flexible-server-by-16-september-2024/">https://azure.microsoft.com/en-us/updates/action-required-migrate-to-azure-database-for-mysql-flexible-server-by-16-september-2024/</a><br />
+        <hr>
+    
+        <strong>Azure Basic Load Balancer will be retired on 30 September 2025—upgrade to Standard Load Balancer</strong><br />
+        <p>Basic Load Balancer will be retired.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-basic-load-balancer-will-be-retired-on-30-september-2025-upgrade-to-standard-load-balancer/">https://azure.microsoft.com/en-us/updates/azure-basic-load-balancer-will-be-retired-on-30-september-2025-upgrade-to-standard-load-balancer/</a><br />
+        <hr>
+    
+        <strong>App Service support for Ruby is ending 12 April 2023</strong><br />
+        <p>App Service support for Ruby workloads is ending on 12 April 2023. Migrate Ruby applications to use a custom container.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/rubysupport/">https://azure.microsoft.com/en-us/updates/rubysupport/</a><br />
+        <hr>
+    
+        <strong>Upgrade your Azure Cache for Redis instances to use Redis version 6 by 30 June 2023</strong><br />
+        <p>Azure Cache for Redis instances running on Redis version 4 need to be upgraded by 30 June 2023.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/upgrade-your-azure-cache-for-redis-instances-to-use-redis-version-6-by-30-june-2023/">https://azure.microsoft.com/en-us/updates/upgrade-your-azure-cache-for-redis-instances-to-use-redis-version-6-by-30-june-2023/</a><br />
+        <hr>
+    
+        <strong>Migrate to conversational language understanding before Language Understanding (LUIS) is retired on 1 October 2025</strong><br />
+        <p>Language Understanding (LUIS) will be retired on 1 October 2025</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/language-understanding-retirement/">https://azure.microsoft.com/en-us/updates/language-understanding-retirement/</a><br />
+        <hr>
+    
+        <strong>Update your Azure SDK libraries for .NET and Golang by 30 September 2023</strong><br />
+        <p>On 30 September 2023, we will be retiring support for Azure SDK for .NET and Golang libraries which do not conform to our current Azure SDK guidelines. The new Azure SDK libraries are updated…</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/update-your-azure-sdk-libraries-of-net-and-golang-by-30-september-2023/">https://azure.microsoft.com/en-us/updates/update-your-azure-sdk-libraries-of-net-and-golang-by-30-september-2023/</a><br />
+        <hr>
+    
+        <strong>Public preview: New Azure Maps Creator feature - custom styling</strong><br />
+        <p>Fully customize the look and feel of your private indoor maps.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-new-azure-maps-creator-feature-custom-styling/">https://azure.microsoft.com/en-us/updates/public-preview-new-azure-maps-creator-feature-custom-styling/</a><br />
+        <hr>
+    
+        <strong>Public preview: Policy analytics for Azure Firewall</strong><br />
+        <p>You can now manage firewall rules over time by providing insights and analysis of traffic flowing through Azure Firewall.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-policy-analytics-for-azure-firewall/">https://azure.microsoft.com/en-us/updates/public-preview-policy-analytics-for-azure-firewall/</a><br />
+        <hr>
+    
+        <strong>Azure SQL—General availability updates for late September 2022</strong><br />
+        <p>General availability enhancements and updates released for Azure SQL in late September 2022.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-september-2022-2/">https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-september-2022-2/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure SQL Database Hyperscale reverse migration to general purpose tier</strong><br />
+        <p>Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier/">https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier/</a><br />
+        <hr>
+    
+        <strong>Azure SQL—Public preview updates for late September 2022</strong><br />
+        <p>Public preview enhancements and updates released for Azure SQL in late September 2022.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/">https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/</a><br />
+        <hr>
+    
+        <strong>General availability: Backup and restore in Azure Database for PostgreSQL – Flexible Server</strong><br />
+        <p>Restore a server to another geo-paired region with geo redundant and restore for Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server/">https://azure.microsoft.com/en-us/updates/general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure AD authentication with Azure Database for MySQL – Flexible Server</strong><br />
+        <p>Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server/">https://azure.microsoft.com/en-us/updates/public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits</strong><br />
+        <p>Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3/">https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Functions .NET Framework support in the isolated worker model</strong><br />
+        <p>Build your Serverless Apps with Azure Functions in isolated worker model with .NET Framework 4.8.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-net-framework-support-in-the-isolated-worker-model/">https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-net-framework-support-in-the-isolated-worker-model/</a><br />
+        <hr>
+    
+        <strong>Public preview: Java 17 Support in Azure Functions</strong><br />
+        <p>Azure Functions now supports Java 17 in Public Preview</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-java-17-support-in-azure-functions/">https://azure.microsoft.com/en-us/updates/public-preview-java-17-support-in-azure-functions/</a><br />
+        <hr>
+    
+        <strong>Public preview: Automatic backup for App Service Environment V2 and V3</strong><br />
+        <p>Automatic backup and restore is in preview for App Service Environment V2 and V3.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-automatic-backup-for-app-service-environment-v2-and-v3/">https://azure.microsoft.com/en-us/updates/public-preview-automatic-backup-for-app-service-environment-v2-and-v3/</a><br />
+        <hr>
+    
+        <strong>Generally available: Backup and restore updates for App Service</strong><br />
+        <p>Utilize automatic backups or make on-demand custom backups in Azure App Service.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-backup-and-restore-updates-for-app-service/">https://azure.microsoft.com/en-us/updates/generally-available-backup-and-restore-updates-for-app-service/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Red Hat OpenShift landing zone accelerator</strong><br />
+        <p>The Azure Red Hat OpenShift guide delivers resources that help design, deploy, and maintain well architected Azure Red Hat OpenShift platforms.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-landing-zone-accelerator/">https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-landing-zone-accelerator/</a><br />
+        <hr>
+    
+        <strong>Public preview: Billing has started for Azure Monitor Logs data archive</strong><br />
+        <p>Billing has started for Azure Monitor Logs data archive on September 1, 2022.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-billing-has-started-for-azure-monitor-logs-data-archive/">https://azure.microsoft.com/en-us/updates/public-preview-billing-has-started-for-azure-monitor-logs-data-archive/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Sphere version 22.09</strong><br />
+        <p>The 22.09 release includes a decrease in cold boot time and optimized manufacturing scripts.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2209/">https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2209/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Policy built-in definitions for Azure NetApp Files</strong><br />
+        <p>The new Azure Policy built-in definitions for Azure NetApp Files enable organization admins to restrict creation of unsecure volumes or audit existing volumes.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-policy-builtin-definitions-for-azure-netapp-files/">https://azure.microsoft.com/en-us/updates/general-availability-azure-policy-builtin-definitions-for-azure-netapp-files/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure NetApp Files new regions and cross-region replication</strong><br />
+        <p>Azure NetApp Files is now available in additional regions and supports new cross-region replication pairs.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-new-regions-and-crossregion-replication/">https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-new-regions-and-crossregion-replication/</a><br />
+        <hr>
+    
+        <strong>Azure unmanaged disks will be retired on 30 September 2025</strong><br />
+        <p>Migrate your data from Azure unmanaged disk storage to managed disks before September 30, 2025.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-unmanaged-disks-will-be-retired-on-30-september-2025/">https://azure.microsoft.com/en-us/updates/azure-unmanaged-disks-will-be-retired-on-30-september-2025/</a><br />
+        <hr>
+    
+        <strong>Support for PostgreSQL version 11 in Azure Database PostgreSQL Single Server ends on 9 November 2024</strong><br />
+        <p>Azure Database for PostgreSQL Single Server will extend the support for PostgreSQL version 11 and will now retire on 9 November 2024. Migrate to Flexible Server PostgreSQL version 13 or higher.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/singlepg11-retirement/">https://azure.microsoft.com/en-us/updates/singlepg11-retirement/</a><br />
+        <hr>
+    
+        <strong>Support for PostgreSQL version 11 in Azure Database PostgreSQL Flexible Server ends on 9 November 2024</strong><br />
+        <p>Azure Database for PostgreSQL Flexible Server will extend the support for PostgreSQL version 11 and will retire on 9 November 2024.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/flexpg11-retirement/">https://azure.microsoft.com/en-us/updates/flexpg11-retirement/</a><br />
+        <hr>
+    
+        <strong>Continuous delivery setting of Azure VM will be retired on 31 March 2023 – Use Azure DevOps to create pipelines</strong><br />
+        <p>Start using Azure Pipelines by 31 March 2023 instead of Azure Portal to create Continuous delivery pipelines for Azure Virtual Machines.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/retirement-notice-continuous-delivery-setting-of-vms-to-be-retired-by-31-march-2023/">https://azure.microsoft.com/en-us/updates/retirement-notice-continuous-delivery-setting-of-vms-to-be-retired-by-31-march-2023/</a><br />
+        <hr>
+    
+        <strong>Deployment Center setting of Azure Kubernetes service (AKS) will be retired on 31 March 2023 – Use Automated Deployments to create pipelines</strong><br />
+        <p>Retirement notice: Deployment center setting of Azure Kubernetes Service will be retired 31 March 2023.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/deployment-center-setting-of-azure-kubernetes-service-aks-will-be-retired-on-31-march-2023-use-automated-deployments-to-creat/">https://azure.microsoft.com/en-us/updates/deployment-center-setting-of-azure-kubernetes-service-aks-will-be-retired-on-31-march-2023-use-automated-deployments-to-creat/</a><br />
+        <hr>
+    
+        <strong>Public preview: Expanded feature regional availability for Azure NetApp Files backup</strong><br />
+        <p>Regional coverage has expanded for Azure NetApp Files backup.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-expanded-feature-regional-availability-for-azure-netapp-files-backup/">https://azure.microsoft.com/en-us/updates/public-preview-expanded-feature-regional-availability-for-azure-netapp-files-backup/</a><br />
+        <hr>
+    
+        <strong>Public preview: Customer initiated storage account conversion</strong><br />
+        <p>You can now initiate storage account conversions from non-zonal redundancy to zonal redundancy via Azure Portal</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-customer-initiated-storage-account-redundancy-conversion/">https://azure.microsoft.com/en-us/updates/public-preview-customer-initiated-storage-account-redundancy-conversion/</a><br />
+        <hr>
+    
+        <strong>Public preview: Encryption scopes on hierarchical namespace enabled storage accounts</strong><br />
+        <p>You can now use separate encryption keys for each customer in a single hierarchical namespace enabled storage account.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts/">https://azure.microsoft.com/en-us/updates/public-preview-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts/</a><br />
+        <hr>
+    
+        <strong>General availability: Improvements to Azure Web Application Firewall (WAF) custom rules</strong><br />
+        <p>Azure regional Web Application Firewall (WAF) supports operators “Any” and “GreaterThanOrEqual”, improving WAF tuning capabilities. Azure&#39;s global WAF now supports geo-match filtering using the socket address in addition to remote address.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-improvements-to-web-application-firewall-waf-custom-rules/">https://azure.microsoft.com/en-us/updates/general-availability-improvements-to-web-application-firewall-waf-custom-rules/</a><br />
+        <hr>
+    
+        <strong>General availability (update): Improved Append Capability on Immutable Storage for Blob Storage</strong><br />
+        <p>Immutable storage for Blob Storage on containers now includes a new append capability.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/immutable-storage-for-blob-storage-now-includes-allow-appends-for-block-and-append-blobs-capability/">https://azure.microsoft.com/en-us/updates/immutable-storage-for-blob-storage-now-includes-allow-appends-for-block-and-append-blobs-capability/</a><br />
+        <hr>
+    
+        <strong>Generally available: Immutable storage for Azure Data Lake Storage</strong><br />
+        <p>Immutable storage for Azure Data Lake Storage is now generally available. Immutable storage provides the capability to store data in a write once, read many (WORM) state.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-is-now-generally-available/">https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-is-now-generally-available/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Ultra Disk Storage in Qatar Central</strong><br />
+        <p>Azure Ultra Disk Storage provides high-performance along with sub-millisecond latency for your most demanding workloads, now available in Qatar Central Azure.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-qatar-central/">https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-qatar-central/</a><br />
+        <hr>
+    
+        <strong>Generally available: New KMS DNS in Azure China Cloud</strong><br />
+        <p>All Azure Windows VMs provisioned in Azure China Cloud after December 15, 2022, will be activated via azkms.core.chinacloudapi.cn, which points to two new KMS IP addresses, 159.27.28.100 and 163.228.64.161.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-china-cloud/">https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-china-cloud/</a><br />
+        <hr>
+    
+        <strong>On 1 October 2025, the Log Analytics alert API in Azure Monitor will be retired</strong><br />
+        <p>On 1 October 2025, the Log Analytics alert API in Azure Monitor will be retired.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/on-1-october-2025-the-log-analytics-alert-api-in-azure-monitor-will-be-retired/">https://azure.microsoft.com/en-us/updates/on-1-october-2025-the-log-analytics-alert-api-in-azure-monitor-will-be-retired/</a><br />
+        <hr>
+    
+        <strong>Generally available: Resizing of peered virtual networks</strong><br />
+        <p>You can use this feature to resize or update the IP address of your peered virtual networks without removing the peering.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/resizing-of-peered-virtual-networks-is-now-generally-available/">https://azure.microsoft.com/en-us/updates/resizing-of-peered-virtual-networks-is-now-generally-available/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Media Services low-latency live streaming</strong><br />
+        <p>Azure Media Services is announcing the general availability of low-latency HLS with glass-to-glass latency between 4-7 seconds with support for automatic transcriptions and digital rights management.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-media-services-lowlatency-live-streaming/">https://azure.microsoft.com/en-us/updates/general-availability-azure-media-services-lowlatency-live-streaming/</a><br />
+        <hr>
+    
+        <strong>Generally available: Reserved capacity for Azure Backup Storage</strong><br />
+        <p>Reserved capacity for Azure Backup Storage is now available.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/">https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/</a><br />
+        <hr>
+    
+        <strong>Public preview: API Server VNET Integration for AKS private cluster</strong><br />
+        <p>You can now use an API Server VNet Integration to ensure network traffic between your API server and your node pools remains on the private network only.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-api-server-vnet-integration-for-aks-private-cluster/">https://azure.microsoft.com/en-us/updates/public-preview-api-server-vnet-integration-for-aks-private-cluster/</a><br />
+        <hr>
+    
+        <strong>General availability: Read replica for Azure Database for MySQL - Flexible Server</strong><br />
+        <p>Provision up to 10 read replicas for high availability (HA) enabled servers in Azure Database for MySQL – Flexible Server.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-read-replica-for-azure-database-for-mysql-flexible-server/">https://azure.microsoft.com/en-us/updates/general-availability-read-replica-for-azure-database-for-mysql-flexible-server/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Database for MySQL - Flexible Server data encryption with CMK</strong><br />
+        <p>Encrypt your data with customer-managed keys (CMK) to enable an extra layer of security for data at rest.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-data-encryption-with-cmk/">https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-data-encryption-with-cmk/</a><br />
+        <hr>
+    
+        <strong>Generally available: Fast restore for Azure Database for PostgreSQL – Flexible Server</strong><br />
+        <p>Perform restores from the backup snapshot directly to speed up the overall provisioning time for your restored server with fast restore.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-fast-restore-for-azure-database-for-postgresql-flexible-server/">https://azure.microsoft.com/en-us/updates/generally-available-fast-restore-for-azure-database-for-postgresql-flexible-server/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Database for MySQL - Flexible Server major version upgrade</strong><br />
+        <p>Upgrade your instance of Azure Database for MySQL – Flexible Server from version 5.7 to 8.0.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade/">https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade/</a><br />
+        <hr>
+    
+        <strong>Generally available: Multi-instance GPU support in AKS</strong><br />
+        <p>You can now run your AKS production workloads using the A100 GPU SKU.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-multiinstance-gpu-support-in-aks/">https://azure.microsoft.com/en-us/updates/generally-available-multiinstance-gpu-support-in-aks/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Load Testing in UK South</strong><br />
+        <p>Azure Load Testing is in public preview in UK South.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-uk-south/">https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-uk-south/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Network Policy Manager for Windows server 2022 in AKS</strong><br />
+        <p>You can now add Azure network policies to Windows 2022 server in AKS.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-windows-network-policy-manager-for-windows-server-2022-in-aks/">https://azure.microsoft.com/en-us/updates/public-preview-windows-network-policy-manager-for-windows-server-2022-in-aks/</a><br />
+        <hr>
+    
+        <strong>Public preview: Operation abort</strong><br />
+        <p>Stop an ongoing cluster or agentpool operation in emergency situations.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-operation-abort/">https://azure.microsoft.com/en-us/updates/public-preview-operation-abort/</a><br />
+        <hr>
+    
+        <strong>Public preview: Soft delete in Azure Container Registry</strong><br />
+        <p>You can now restore deleted artifacts from your Azure Container Registry.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-soft-delete-in-azure-container-registry/">https://azure.microsoft.com/en-us/updates/public-preview-soft-delete-in-azure-container-registry/</a><br />
+        <hr>
+    
+        <strong>Public preview: Monitoring for Ampere Altra Arm–based VMs and AKS clusters</strong><br />
+        <p>Azure Monitor now supports monitoring for Arm–based Azure Virtual Machines and Azure Kubernetes Service with Arm nodes.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-monitoring-for-ampere-altra-arm-based-vms-and-aks-clusters/">https://azure.microsoft.com/en-us/updates/public-preview-monitoring-for-ampere-altra-arm-based-vms-and-aks-clusters/</a><br />
+        <hr>
+    
+        <strong>General availability: Update on metric alert rules on custom metrics</strong><br />
+        <p>Metric alert rules that monitor custom metrics can now be saved in four European regions: North Europe, West Europe, Sweden Central, and Germany West Central</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-update-on-metric-alert-rules-on-custom-metrics/">https://azure.microsoft.com/en-us/updates/general-availability-update-on-metric-alert-rules-on-custom-metrics/</a><br />
+        <hr>
+    
+        <strong>Generally available: Action groups can now be saved and processed within Europe</strong><br />
+        <p>Action groups can now be saved in European regions Sweden Central and Germany West Central (in addition to the default “global” region).</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-action-groups-can-now-be-saved-and-processed-within-europe/">https://azure.microsoft.com/en-us/updates/generally-available-action-groups-can-now-be-saved-and-processed-within-europe/</a><br />
+        <hr>
+    
+        <strong>Public preview: gRPC support in Azure App Service</strong><br />
+        <p>gRPC support is enabled for Linux workloads across App Service.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-grpc-support-in-azure-app-service/">https://azure.microsoft.com/en-us/updates/public-preview-grpc-support-in-azure-app-service/</a><br />
+        <hr>
+    
+        <strong>Generally available: Built-in Azure Monitor alerts for Azure Backup</strong><br />
+        <p>Learn about the new and improved alerting capabilities offered for Azure Backup, via Azure Monitor.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-builtin-azure-monitor-alerts-for-azure-backup/">https://azure.microsoft.com/en-us/updates/generally-available-builtin-azure-monitor-alerts-for-azure-backup/</a><br />
+        <hr>
+    
+        <strong>Generally available: API Management DevOps Resource Toolkit v1.0.0</strong><br />
+        <p>Easily deploy APIs in a CI/CD pipeline with API Management DevOps Resource Toolkit v1.0.0.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-api-management-devops-resource-toolkit-v100/">https://azure.microsoft.com/en-us/updates/generally-available-api-management-devops-resource-toolkit-v100/</a><br />
+        <hr>
+    
+        <strong>Public preview: Encrypt managed disks with cross-tenant customer-managed keys</strong><br />
+        <p>Protect your data by encrypting Premium SSD, Standard SSD, and Standard HDD managed disks with customer-managed keys.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-encrypt-managed-disks-with-crosstenant-customermanaged-keys/">https://azure.microsoft.com/en-us/updates/public-preview-encrypt-managed-disks-with-crosstenant-customermanaged-keys/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Sphere OS version 22.09 expected on September 22</strong><br />
+        <p>Participate in the 22.09 retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2209-expected-on-september-22/">https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2209-expected-on-september-22/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Dedicated Host support for Ultra Disk Storage</strong><br />
+        <p>Introducing support for ultra disks on Azure dedicated host.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-dedicated-host-support-for-ultra-ssd/">https://azure.microsoft.com/en-us/updates/generally-available-azure-dedicated-host-support-for-ultra-ssd/</a><br />
+        <hr>
+    
+        <strong>General availability: Standard network features for Azure NetApp Files</strong><br />
+        <p>Standard network features for Azure NetApp Files is generally available in 20 regions.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-standard-network-features-for-azure-netapp-files/">https://azure.microsoft.com/en-us/updates/general-availability-standard-network-features-for-azure-netapp-files/</a><br />
+        <hr>
+    
+        <strong>In Development: New options to bring your licenses to a partner’s cloud</strong><br />
+        <p>On October 1, 2022, Microsoft will implement significant upgrades to our outsourcing and hosting terms that will benefit customers worldwide.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/new-options-to-bring-your-licenses-to-a-partner-s-cloud/">https://azure.microsoft.com/en-us/updates/new-options-to-bring-your-licenses-to-a-partner-s-cloud/</a><br />
+        <hr>
+    
+        <strong>Generally available: Resource instance rules for access to Azure Storage</strong><br />
+        <p>Resource instance rules enable secure connectivity to Azure Storage by only allowing access from specific resources of select Azure services.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-ga/">https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-ga/</a><br />
+        <hr>
+    
+        <strong>General availability: Up to 45% performance gains in stream processing</strong><br />
+        <p>Your Stream Analytics jobs get up to 45% performance boost in CPU utilization by default.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-cpu-perf-increase/">https://azure.microsoft.com/en-us/updates/asa-cpu-perf-increase/</a><br />
+        <hr>
+    
+        <strong>General availability: Managed private endpoint support to Synapse SQL output</strong><br />
+        <p>You can now connect your Stream Analytics jobs running on a dedicated cluster to your synapse dedicated SQL pool using managed private endpoints.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-synapsesql-pe/">https://azure.microsoft.com/en-us/updates/asa-synapsesql-pe/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Database for PostgreSQL output in Stream Analytics</strong><br />
+        <p>Native output connector for Azure Database for PostgreSQL allows you to easily build real time applications with the database of your choice.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-postgresql-ga/">https://azure.microsoft.com/en-us/updates/asa-postgresql-ga/</a><br />
+        <hr>
+    
+        <strong>General availability: Authenticate to Service Bus using managed identity</strong><br />
+        <p>Authenticate your Stream Analytics jobs to connect to Service Bus using system-assigned managed identities.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/asa-servicebus-mi-ga/">https://azure.microsoft.com/en-us/updates/asa-servicebus-mi-ga/</a><br />
+        <hr>
+    
+        <strong>Public preview: Stream Analytics no-code editor updates in August 2022</strong><br />
+        <p>New features are now available in Stream Analytics no-code editor public preview including Azure SQL database available as reference data input and output sink, diagnostic logs available for troubleshooting, and new designed ribbon.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-stream-analytics-nocode-editor-updates-in-august-2022/">https://azure.microsoft.com/en-us/updates/public-preview-stream-analytics-nocode-editor-updates-in-august-2022/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Data Explorer Kusto Emulator</strong><br />
+        <p>New Azure Data Explorer offering: the Kusto Emulator is a Docker Container encapsulating the Kusto Query Engine.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/kusto-emulator/">https://azure.microsoft.com/en-us/updates/kusto-emulator/</a><br />
+        <hr>
+    
+        <strong>Generally available: New Azure Virtual Machines with Ampere Altra Arm-based processors</strong><br />
+        <p>New general-purpose and memory-optimized Azure VMs, featuring Ampere Altra Arm-based processors, engineered to efficiently run scale-out, cloud-native workloads, are now available.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/">https://azure.microsoft.com/en-us/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/</a><br />
+        <hr>
+    
+        <strong>Public preview: Encrypt storage account with cross-tenant customer-managed keys</strong><br />
+        <p>Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/">https://azure.microsoft.com/en-us/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/</a><br />
+        <hr>
+    
+        <strong>General availability: Managed identity to connect Azure Cache for Redis to storage</strong><br />
+        <p>Connect Azure Cache for Redis to storage accounts via managed identity established through Azure Active Directory to provide a more streamlined and secure process.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-managed-identity-to-connect-azure-cache-for-redis-to-storage/">https://azure.microsoft.com/en-us/updates/general-availability-managed-identity-to-connect-azure-cache-for-redis-to-storage/</a><br />
+        <hr>
+    
+        <strong>Public preview: Node.js 18 in Azure Functions</strong><br />
+        <p>You can now use the latest features in Node.js 18 with Azure Functions.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-nodejs-18-in-azure-functions/">https://azure.microsoft.com/en-us/updates/public-preview-nodejs-18-in-azure-functions/</a><br />
+        <hr>
+    
+        <strong>Azure SQL—General availability updates for late August 2022</strong><br />
+        <p>General availability enhancements and updates released for Azure SQL.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-august-2022/">https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-august-2022/</a><br />
+        <hr>
+    
+        <strong>Azure SQL—Public preview updates for late August 2022</strong><br />
+        <p>Public preview enhancements and updates released for Azure SQL in late August 2022</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-august-2022/">https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-august-2022/</a><br />
+        <hr>
+    
+        <strong>Generally available: Unity Catalog for Azure Databricks</strong><br />
+        <p>Unity Catalog is a unified and fine-grained governance solution for all data assets in your Lakehouse.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-unity-catalog-for-azure-databricks/">https://azure.microsoft.com/en-us/updates/generally-available-unity-catalog-for-azure-databricks/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Cosmos DB integrated cache</strong><br />
+        <p>Optimize your Azure Cosmos DB workloads using the integrated cache, an in-memory cache built-in to the Azure Cosmos DB dedicated gateway.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-integrated-cache/">https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-integrated-cache/</a><br />
+        <hr>
+    
+        <strong>Public preview: App Configuration references for App Service and Azure Functions</strong><br />
+        <p>App Service and Azure Functions now support referencing key-values from Azure App Configuration.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/">https://azure.microsoft.com/en-us/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Functions extension for Event Grid blob trigger</strong><br />
+        <p>Use the Event Grid blob trigger in Azure Functions to handle events raised by a storage account.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/">https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Storage Explorer support for Azure App Configuration resources</strong><br />
+        <p>Work with your App Configuration resources in Storage Explorer on Windows, macOS, and Linux.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/">https://azure.microsoft.com/en-us/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/</a><br />
+        <hr>
+    
+        <strong>Generally available: Enterprise-grade edge for Azure Static Web Apps</strong><br />
+        <p>Azure Static Web Apps now offers faster page loads, enhanced security, and reliability for your global applications.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/">https://azure.microsoft.com/en-us/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/</a><br />
+        <hr>
+    
+        <strong>Generally available: API Management custom widget support in developer portal</strong><br />
+        <p>Add custom logic to the managed developer portal capabilities and leverage improved custom widget development.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-api-management-custom-widget-support-in-developer-portal/">https://azure.microsoft.com/en-us/updates/generally-available-api-management-custom-widget-support-in-developer-portal/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Communication Services support for Teams identities</strong><br />
+        <p>Azure Communication Services now supports communication experiences for Teams identities. With this capability developers can build custom standalone applications that integrate audio, video, and telephony for Teams users.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services-support-for-teams-identities/">https://azure.microsoft.com/en-us/updates/general-availability-azure-communication-services-support-for-teams-identities/</a><br />
+        <hr>
+    
+        <strong>Generally available: Enterprise-ready Azure Monitor change analysis capability released</strong><br />
+        <p>Azure Monitor change analysis, which extends observability into Azure, is announcing general availability with enhanced performance and security, improved change data quality, and easy navigation from the Azure Monitor portal.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-enterpriseready-azure-monitor-change-analysis-capability-released/">https://azure.microsoft.com/en-us/updates/generally-available-enterpriseready-azure-monitor-change-analysis-capability-released/</a><br />
+        <hr>
+    
+        <strong>Public preview: Enterprise VMware Cloud Director Service for Azure VMware Solution</strong><br />
+        <p>VMware Cloud Director Service on Azure VMware Solutions allows you to self-service provision and manage multiple virtual datacenters through multi-tenancy in your Azure VMware Solutions private clouds, reducing time and complexity.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-enterprise-vmware-cloud-director-service-for-azure-vmware-solution/">https://azure.microsoft.com/en-us/updates/public-preview-enterprise-vmware-cloud-director-service-for-azure-vmware-solution/</a><br />
+        <hr>
+    
+        <strong>Generally available: Live resize for Premium SSD and Standard SSD Disk Storage</strong><br />
+        <p>Dynamically increase your disk storage capacity without any application downtime with the Azure Disk Storage live resize feature.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/">https://azure.microsoft.com/en-us/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/</a><br />
+        <hr>
+    
+        <strong>Public preview: Azure Arc-enabled servers in Azure China</strong><br />
+        <p>Secure, govern, and manage your hybrid servers from Azure</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-arc-servers-azure-china/">https://azure.microsoft.com/en-us/updates/public-preview-arc-servers-azure-china/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure Arc-enabled servers in South Africa North</strong><br />
+        <p>Secure, govern, and manage your hybrid servers from Azure</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/ga-arc-server-south-africa-north/">https://azure.microsoft.com/en-us/updates/ga-arc-server-south-africa-north/</a><br />
+        <hr>
+    
+        <strong>Public preview: Ephemeral OS disks supports host-based encryption using customer managed key</strong><br />
+        <p>Create Ephemeral VMs with customer managed key encryption types for host-based encryption.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/">https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/</a><br />
+        <hr>
+    
+        <strong>Generally available: IoT Edge 1.4</strong><br />
+        <p>The Azure IoT Edge release 1.4 is the long term servicing (LTS) release of IoT Edge. The companion release of Azure IoT Edge for Linux on Windows (EFLOW) 1.4 long term servicing will be coming later this fall.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-iot-edge-14-lts/">https://azure.microsoft.com/en-us/updates/generally-available-iot-edge-14-lts/</a><br />
+        <hr>
+    
+        <strong>Generally available: Prevent a lifecycle management policy from archiving recently rehydrated blobs</strong><br />
+        <p>Use daysAfterLastTierChangeGreaterThan condition in lifecycle management policy to prevent unintended archiving.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/">https://azure.microsoft.com/en-us/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/</a><br />
+        <hr>
+    
+        <strong>General availability: ExpressRoute IPv6 Support for Global Reach</strong><br />
+        <p>IPv6 support for Global Reach expands the possibilities for customers building dual-stack, hybrid networks with Azure.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-expressroute-ipv6-support-for-global-reach/">https://azure.microsoft.com/en-us/updates/general-availability-expressroute-ipv6-support-for-global-reach/</a><br />
+        <hr>
+    
+        <strong>General availability: Azure Data Explorer supports native ingestion from Amazon S3</strong><br />
+        <p>Azure Data Explorer (ADX) now supports bringing data from S3 natively without complex ETL pipelines.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-supports-native-ingestion-from-amazon-s3/">https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-supports-native-ingestion-from-amazon-s3/</a><br />
+        <hr>
+    
+        <strong>Generally available: UAE North Availability Zones</strong><br />
+        <p>Azure Availability Zones are now generally available in the UAE. These three new zones provide you with options for additional resiliency and tolerance to infrastructure impact.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-uae-north-availability-zones/">https://azure.microsoft.com/en-us/updates/generally-available-uae-north-availability-zones/</a><br />
+        <hr>
+    
+        <strong>Public preview: Four new features in no code editor in Event Hubs</strong><br />
+        <p>Explore four new features in the no code editor in Azure Event Hubs. This editor allows you to easily develop a Stream Analytics job without writing a single line of code.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/">https://azure.microsoft.com/en-us/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/</a><br />
+        <hr>
+    
+        <strong>Generally available: Public IP Capability for Azure VMware Solution</strong><br />
+        <p>Public IP capability on Azure VMware Solution provides internet connectivity for Azure VMware Solution workloads. You can now use NSX-T manager as your security terminating point.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-public-ip-capability-for-azure-vmware-solution/">https://azure.microsoft.com/en-us/updates/generally-available-public-ip-capability-for-azure-vmware-solution/</a><br />
+        <hr>
+    
+        <strong>Generally available: vRealize Log Insight Cloud with Azure VMware Solution integration</strong><br />
+        <p>vRealize Log Insights Cloud with Azure VMware Solution support is now generally available.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-vrealize-log-insight-cloud-with-azure-vmware-solution-integration/">https://azure.microsoft.com/en-us/updates/generally-available-vrealize-log-insight-cloud-with-azure-vmware-solution-integration/</a><br />
+        <hr>
+    
+        <strong>Generally available: Azure VMware Solution now in Sweden Central</strong><br />
+        <p>Azure VMware Solution has now expanded to Sweden Central. This is in addition to multiple regions across US, Europe, Australia, Japan, UK, Canada, Singapore, and Hong Kong.</p>
+        
+        <a href="https://azure.microsoft.com/en-us/updates/generally-available-azure-vmware-solution-now-in-sweden-central/">https://azure.microsoft.com/en-us/updates/generally-available-azure-vmware-solution-now-in-sweden-central/</a><br />
+        <hr>
+    
+
+</div></div></div>
+            </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line">Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer" title="Hugo 0.104.3">Hugo</a> | Theme - <a href="https://github.com/dillonzq/LoveIt" target="_blank" rel="noopener noreffer" title="LoveIt 0.2.11"><i class="far fa-kiss-wink-heart fa-fw" aria-hidden="true"></i> LoveIt</a>
+                </div><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="robinkonrad.de" target="_blank">Robin Konrad</a></span>&nbsp;|&nbsp;<span class="license"><a href="/imprint">Imprint / Impressum</a></span></div>
+        </div>
+    </footer></div>
+
+        <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="Back to Top">
+                <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+            </a><a href="#" id="view-comments" class="fixed-button" title="View Comments">
+                <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+            </a>
+        </div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"Copy to clipboard","maxShownLines":50},"comment":{},"cookieconsent":{"content":{"dismiss":"Got it!","link":"Learn more","message":"This website uses Cookies to improve your experience."},"enable":true,"palette":{"button":{"background":"#f0f0f0"},"popup":{"background":"#1aa3ff"}},"theme":"edgeless"},"search":{"highlightTag":"em","lunrIndexURL":"/index.json","maxResultLength":10,"noResultsFound":"No results found","snippetLength":30,"type":"lunr"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+</html>

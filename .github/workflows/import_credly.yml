@@ -1,0 +1,23 @@
+name: Import Credly badges
+
+on:
+  schedule: 
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PAT }}
+
+      - name: Import credly badges
+        uses: michaelcontento/credly2hugo-action@v1
+        with: 
+          username: robin-konrad.1eb10cec
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "credly2hugo: Imported new files from Credly"

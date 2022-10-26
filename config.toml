@@ -6,10 +6,13 @@ theme = "LoveIt"
 # website title
 title = "Robin Konrad"
 
+enableInlineShortcodes = true
+enableEmoji = true
+
 [languages]
   [languages.en]
     weight = 1
-    title = "My New Hugo Site"
+    title = "Robin Konrad"
     languageCode = "en"
     languageName = "English"
     [[languages.en.menu.main]]
@@ -44,7 +47,7 @@ title = "Robin Konrad"
       title = ""
   [languages.de]
     weight = 2
-    title = "My New Hugo Site"
+    title = "Robin Konrad"
     languageCode = "de"
     languageName = "Deutsch"
     [[languages.de.menu.main]]
@@ -83,8 +86,8 @@ defaultContentLanguage = "en"
 # Author config
 [author]
   name = "Robin Konrad"
-  email = "me@robinkonrad.default"
-  link = ""
+  email = "hello@robinkonrad.de"
+  link = "robinkonrad.de"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -240,7 +243,7 @@ defaultContentLanguage = "en"
     Email = "hello@robinkonrad.de"
     Credly = "robin-konrad.1eb10cec"
   [params.page.share]
-    enable = true
+    enable = false
     Twitter = true
     Facebook = false
     Linkedin = true
