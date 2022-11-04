@@ -5,6 +5,9 @@ draft: false
 
 description: "I just started a new job."
 
+author: "Robin Konrad"
+authorLink: "https://robinkonrad.de"
+
 resources:
 - name: "featured-image"
   src: "xpirit-bg.png"
