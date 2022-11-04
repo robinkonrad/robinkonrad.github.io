@@ -16,7 +16,7 @@ lightgallery: true
 
 ---
 
-After more then 3 years working at [bofrost*](https://www.bofrost.de) build a complex event driven solution. I am extremely happy to take on the new opportunity as Azure Cloud/Solution Architect at [Xpirit | Part of Xebia](https://www.xpirit.com).
+After more than 3 years working at [bofrost*](https://www.bofrost.de), building a complex event driven solution. I am extremely happy to take on the new opportunity as Azure Cloud/Solution Architect at [Xpirit | Part of Xebia](https://www.xpirit.com).
 
 I will use my experience to build **EPIC** cloud nativ applications and to build great engineering cultures.
 

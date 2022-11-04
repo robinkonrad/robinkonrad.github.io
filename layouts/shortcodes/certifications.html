@@ -1,5 +1,3 @@
-{{ $certifications := getJSON "/data/CredlyBadgesRaw.json" }}
-
 <table>
     <thead>
         <tr>
@@ -8,53 +6,22 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td><a href="https://www.certible.com/de/verify/?id=27ee8c21d0e4683a2b4d5aa399de7677" target="_blank"><img style="width: 100px;" src="/images/isaqb.png"></img></a></td>
-            <td><p><b>CPSA‑F Certified Professional for Software Architecture Foundation Level®</b><br>
-                iSAQB® – International Software Architecture Qualification Board<br>
-                Issued Jun 2022 -  No Expiration Date<br>
-                <a href="https://www.certible.com/de/verify/?id=27ee8c21d0e4683a2b4d5aa399de7677" target="_blank">Verify</a></p></td>
-        </tr>
-        <tr>
-            <td><img style="width: 100px;" src="/images/isaqb.png"></img></td>
-            <td><p><b>iSAQB® Module - CLOUDINFRA</b><br>
-                iSAQB® – International Software Architecture Qualification Board<br>
-                Issued Jun 2022 -  No Expiration Date<br>
-        </tr>
-        <tr>
-            <td><img style="width: 100px;" src="/images/isaqb.png"></img></td>
-            <td><p><b>iSAQB® Module - DDD</b><br>
-                iSAQB® – International Software Architecture Qualification Board<br>
-                Issued May 2022 -  No Expiration Date<br>
-        </tr>
-        <tr>
-            <td><img style="width: 100px;" src="/images/isaqb.png"></img></td>
-            <td><p><b>iSAQB® Module - IMPROVE</b><br>
-                iSAQB® – International Software Architecture Qualification Board<br>
-                Issued May 2022 -  No Expiration Date<br>
-        </tr>
-    </tbody>
-</table>
-
-<table>
-    <thead>
-        <tr>
-            <th>Certification</th>
-            <th>Description</th>
-        </tr>
-    </thead>
-    <tbody>
-    {{ with $certifications }}
-        {{ range .data }}
-            <tr>
-                <td><a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank"><img style="width: 100px;" src="/images/CredlyBadges/{{ .id }}.png"></img></a></td>
-                <td><p><b>{{ .badge_template.name | plainify | htmlUnescape }}</b><br>
-                    {{ $issuerInformation := index .issuer.entities 0 }}
-                    {{ $issuerInformation.entity.name | plainify | htmlUnescape }}<br>
-                    Issued {{ .issued_at_date | plainify | htmlUnescape }} - {{ with .expires_at_date }} Expire at {{ . | plainify | htmlUnescape }} {{ else }} No Expiration Date {{ end }}<br>
-                    <a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank">Verify</a></p></td>
-            </tr>
-        {{ end }}
-    {{ end }}
+{{ range .Site.Data.CredlyBadgesRaw.data }}
+    {{ $credly := . }}
+    {{ $imagePath :=  print "images/CredlyBadges/" .id ".png" }}
+    {{ $image := (resources.Get (print "images/CredlyBadges/" .id ".png")).Resize "150x" }}
+    <tr>
+        <td><a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank"><img 
+            src="{{ $image.RelPermalink }}" 
+            width="{{ $image.Width }}" 
+            height="{{ $image.Height }}" 
+            alt="{{ $credly.Description }}"></a></td>
+        <td><p><b>{{ .badge_template.name | plainify | htmlUnescape }}</b><br>
+            {{ $issuerInformation := index .issuer.entities 0 }}
+            {{ $issuerInformation.entity.name | plainify | htmlUnescape }}<br>
+            Issued {{ .issued_at_date | plainify | htmlUnescape }} - {{ with .expires_at_date }} Expire at {{ . | plainify | htmlUnescape }} {{ else }} No Expiration Date {{ end }}<br>
+            <a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank">Verify</a></p></td>
+    </tr>
+{{ end }}
     </tbody>
 </table>

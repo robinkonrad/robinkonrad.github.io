@@ -1,0 +1,48 @@
+<table>
+    <thead>
+        <tr>
+            <th>Certification</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+
+    {{ $image := (resources.Get "images/isaqb.png").Resize "150x" }}
+
+    <tbody>
+        <tr>
+            <td><a href="https://www.certible.com/de/verify/?id=27ee8c21d0e4683a2b4d5aa399de7677" target="_blank">
+                <img src="{{ $image.RelPermalink }}" 
+                width="{{ $image.Width }}" 
+                height="{{ $image.Height }}"></img></a>
+            </td>
+            <td><p><b>CPSA‑F Certified Professional for Software Architecture Foundation Level®</b><br>
+                iSAQB® – International Software Architecture Qualification Board<br>
+                Issued Jun 2022 -  No Expiration Date<br>
+                <a href="https://www.certible.com/de/verify/?id=27ee8c21d0e4683a2b4d5aa399de7677" target="_blank">Verify</a></p></td>
+        </tr>
+        <tr>
+            <td><img src="{{ $image.RelPermalink }}" 
+                width="{{ $image.Width }}" 
+                height="{{ $image.Height }}"></img></td>
+            <td><p><b>iSAQB® Module - CLOUDINFRA</b><br>
+                iSAQB® – International Software Architecture Qualification Board<br>
+                Issued Jun 2022 -  No Expiration Date<br>
+        </tr>
+        <tr>
+            <td><img src="{{ $image.RelPermalink }}" 
+                width="{{ $image.Width }}" 
+                height="{{ $image.Height }}"></img></td>
+            <td><p><b>iSAQB® Module - DDD</b><br>
+                iSAQB® – International Software Architecture Qualification Board<br>
+                Issued May 2022 -  No Expiration Date<br>
+        </tr>
+        <tr>
+            <td><img src="{{ $image.RelPermalink }}" 
+                width="{{ $image.Width }}" 
+                height="{{ $image.Height }}"></img></td>
+            <td><p><b>iSAQB® Module - IMPROVE</b><br>
+                iSAQB® – International Software Architecture Qualification Board<br>
+                Issued May 2022 -  No Expiration Date<br>
+        </tr>
+    </tbody>
+</table>
