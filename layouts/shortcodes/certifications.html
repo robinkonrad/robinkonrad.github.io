@@ -47,7 +47,7 @@
     {{ with $certifications }}
         {{ range .data }}
             <tr>
-                <td><a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank"><img style="width: 100px;" src="/images/credlybadges/{{ .id }}.png"></img></a></td>
+                <td><a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank"><img style="width: 100px;" src="/images/CredlyBadges/{{ .id }}.png"></img></a></td>
                 <td><p><b>{{ .badge_template.name | plainify | htmlUnescape }}</b><br>
                     {{ $issuerInformation := index .issuer.entities 0 }}
                     {{ $issuerInformation.entity.name | plainify | htmlUnescape }}<br>
