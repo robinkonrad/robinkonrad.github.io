@@ -38,6 +38,14 @@ enableEmoji = true
       # title will be shown when you hover on this menu link
       title = ""
     [[languages.en.menu.main]]
+      weight = 5
+      identifier = "azure-updates"
+      pre = ""
+      post = ""
+      name = "Azure Updates"
+      url = "/azure-updates/"
+      title = ""
+    [[languages.en.menu.main]]
       weight = 6
       identifier = "about"
       pre = ""
@@ -71,6 +79,14 @@ enableEmoji = true
       name = "Posts"
       url = "/posts/"
       # title will be shown when you hover on this menu link
+      title = ""
+    [[languages.de.menu.main]]
+      weight = 5
+      identifier = "azure-updates"
+      pre = ""
+      post = ""
+      name = "Azure Updates"
+      url = "/azure-updates/"
       title = ""
     [[languages.de.menu.main]]
       weight = 6
