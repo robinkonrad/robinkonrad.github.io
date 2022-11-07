@@ -9,7 +9,7 @@
 {{ range .Site.Data.CredlyBadgesRaw.data }}
     {{ $credly := . }}
     {{ $imagePath :=  print "images/CredlyBadges/" .id ".png" }}
-    {{ $image := (resources.Get (print "images/CredlyBadges/" .id ".png")).Resize "150x" }}
+    {{ $image := (resources.Get (print "images/CredlyBadges/" .id ".png")).Resize "120x" }}
     <tr>
         <td><a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank"><img 
             src="{{ $image.RelPermalink }}" 
