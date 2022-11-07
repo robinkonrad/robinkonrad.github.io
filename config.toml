@@ -9,6 +9,11 @@ title = "Robin Konrad"
 enableInlineShortcodes = true
 enableEmoji = true
 
+[params.cdn]
+  # CDN data file name, disabled by default
+  # ["jsdelivr.yml"]
+  data = "local"
+
 [languages]
   [languages.en]
     weight = 1
