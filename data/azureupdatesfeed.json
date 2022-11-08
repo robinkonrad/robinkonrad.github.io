@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 08 Nov 2022 03:35:46 Z",
+      "lastBuildDate": "Tue, 08 Nov 2022 08:07:03 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "exporting-ise-and-consumption-logic-apps-to-standard-sku-is-now-on-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/exporting-ise-and-consumption-logic-apps-to-standard-sku-is-now-on-public-preview/",
+          "title": "Public preview: Exporting ISE and Consumption Logic Apps to Standard SKU",
+          "description": "Logic Apps Standard VS Code Extension now allows you to export groups of logic apps workflows deployed to Azure.",
+          "pubDate": "Mon, 07 Nov 2022 16:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Logic Apps Standard VS Code Extension now allows you to export groups of logic apps workflows deployed to Azure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-default-rule-set-21-for-azure-web-application-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-default-rule-set-21-for-azure-web-application-firewall/",
+          "title": "General availability: Default Rule Set 2.1 for Azure Web Application Firewall",
+          "description": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on Azure's global Web Application Firewall running on Azure Front Door.",
+          "pubDate": "Mon, 07 Nov 2022 16:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on Azure's global Web Application Firewall running on Azure Front Door."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1059,6 +1089,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -1069,21 +1114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -1750,21 +1780,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-apps-azure-monitor-integration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/",
-          "title": "Public preview: Azure Container Apps Azure Monitor integration",
-          "description": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
@@ -1774,6 +1789,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Container Apps now provides support for using Dapr with Managed Identity."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-container-apps-azure-monitor-integration"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/",
+          "title": "Public preview: Azure Container Apps Azure Monitor integration",
+          "description": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations."
           },
           "content:encoded": null
         },
@@ -3074,36 +3104,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Encrypt your data with customer-managed keys (CMK) to enable an extra layer of security for data at rest."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-fast-restore-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-fast-restore-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Generally available: Fast restore for Azure Database for PostgreSQL – Flexible Server",
-          "description": "Perform restores from the backup snapshot directly to speed up the overall provisioning time for your restored server with fast restore.",
-          "pubDate": "Wed, 14 Sep 2022 16:00:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Perform restores from the backup snapshot directly to speed up the overall provisioning time for your restored server with fast restore."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade/",
-          "title": "Public preview: Azure Database for MySQL - Flexible Server major version upgrade",
-          "description": "Upgrade your instance of Azure Database for MySQL – Flexible Server from version 5.7 to 8.0.",
-          "pubDate": "Wed, 14 Sep 2022 16:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade your instance of Azure Database for MySQL – Flexible Server from version 5.7 to 8.0."
           },
           "content:encoded": null
         }
