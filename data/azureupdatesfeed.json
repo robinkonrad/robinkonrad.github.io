@@ -12,13 +12,88 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 08 Nov 2022 15:07:07 Z",
+      "lastBuildDate": "Tue, 08 Nov 2022 20:08:55 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-block-domain-fronting-behavior-on-newly-created-customer-resources"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-block-domain-fronting-behavior-on-newly-created-customer-resources/",
+          "title": "Generally available: Block domain fronting behavior on newly created customer resources",
+          "description": "All newly created Azure Front Door, Azure Front Door (classic) or Azure CDN Standard from Microsoft (classic) resources will block any HTTP request that exhibits domain fronting behavior.",
+          "pubDate": "Tue, 08 Nov 2022 19:37:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "All newly created Azure Front Door, Azure Front Door (classic) or Azure CDN Standard from Microsoft (classic) resources will block any HTTP request that exhibits domain fronting behavior."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-functions-now-supports-net-7-in-an-isolated-worker-process"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-functions-now-supports-net-7-in-an-isolated-worker-process/",
+          "title": "Generally available: Functions now supports .NET 7 in an isolated worker process",
+          "description": "Create applications with .NET 7 runtime to take advantage of serverless functions in Azure.",
+          "pubDate": "Tue, 08 Nov 2022 17:00:30 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Create applications with .NET 7 runtime to take advantage of serverless functions in Azure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-static-web-apps-now-fully-supports-net-7"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-static-web-apps-now-fully-supports-net-7/",
+          "title": "Generally available: Azure Static Web Apps now fully supports .NET 7",
+          "description": "Azure Static Web Apps now supports building and deploying full-stack .NET 7.0 isolated applications.",
+          "pubDate": "Tue, 08 Nov 2022 17:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Static Web Apps now supports building and deploying full-stack .NET 7.0 isolated applications."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-new-node-sizing-for-azure-vmware-solution"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-new-node-sizing-for-azure-vmware-solution/",
+          "title": "Generally available: New node sizing for Azure VMware Solution",
+          "description": "Optimize workloads with new node sizes, AV52, and AV36P, now generally available in Azure VMware Solution.",
+          "pubDate": "Tue, 08 Nov 2022 17:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Optimize workloads with new node sizes, AV52, and AV36P, now generally available in Azure VMware Solution."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-virtual-machine-software-reservations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-software-reservations/",
+          "title": "General availability: Virtual Machine software reservations",
+          "description": "You can now save on Virtual Machine software from third-party publishers by purchasing software reservations.",
+          "pubDate": "Tue, 08 Nov 2022 15:57:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now save on Virtual Machine software from third-party publishers by purchasing software reservations."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -106,21 +181,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Secure your digital payment system in the cloud with Azure Payment HSM."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-block-domain-fronting-behavior-on-newly-created-customer-resources"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-block-domain-fronting-behavior-on-newly-created-customer-resources/",
-          "title": "Generally available: Block domain fronting behavior on newly created customer resources",
-          "description": "All the newly created Azure Front Door, Azure Front Door (classic) or Azure CDN Standard from Microsoft (classic) resources will block any HTTP request that exhibits domain fronting behavior.",
-          "pubDate": "Tue, 01 Nov 2022 16:00:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "All the newly created Azure Front Door, Azure Front Door (classic) or Azure CDN Standard from Microsoft (classic) resources will block any HTTP request that exhibits domain fronting behavior."
           },
           "content:encoded": null
         },
@@ -1089,6 +1149,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -1099,21 +1174,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -2973,6 +3033,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "generally-available-azure-ultra-disk-storage-in-qatar-central"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-qatar-central/",
+          "title": "Generally available: Azure Ultra Disk Storage in Qatar Central",
+          "description": "Azure Ultra Disk Storage provides high-performance along with sub-millisecond latency for your most demanding workloads, now available in Qatar Central Azure.",
+          "pubDate": "Mon, 19 Sep 2022 16:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Ultra Disk Storage provides high-performance along with sub-millisecond latency for your most demanding workloads, now available in Qatar Central Azure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-new-kms-dns-in-azure-china-cloud"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-china-cloud/",
@@ -2983,21 +3058,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "All Azure Windows VMs provisioned in Azure China Cloud after December 15, 2022, will be activated via azkms.core.chinacloudapi.cn, which points to two new KMS IP addresses, 159.27.28.100 and 163.228.64.161."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-qatar-central"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-qatar-central/",
-          "title": "Generally available: Azure Ultra Disk Storage in Qatar Central",
-          "description": "Azure Ultra Disk Storage provides high-performance along with sub-millisecond latency for your most demanding workloads, now available in Qatar Central Azure.",
-          "pubDate": "Mon, 19 Sep 2022 16:00:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage provides high-performance along with sub-millisecond latency for your most demanding workloads, now available in Qatar Central Azure."
           },
           "content:encoded": null
         },
@@ -3044,66 +3104,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Media Services is announcing the general availability of low-latency HLS with glass-to-glass latency between 4-7 seconds with support for automatic transcriptions and digital rights management."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "reserved-capacity-pricing-for-backup-storage"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/",
-          "title": "Generally available: Reserved capacity for Azure Backup Storage",
-          "description": "Reserved capacity for Azure Backup Storage is now available.",
-          "pubDate": "Wed, 14 Sep 2022 17:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Reserved capacity for Azure Backup Storage is now available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-api-server-vnet-integration-for-aks-private-cluster"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-api-server-vnet-integration-for-aks-private-cluster/",
-          "title": "Public preview: API Server VNET Integration for AKS private cluster",
-          "description": "You can now use an API Server VNet Integration to ensure network traffic between your API server and your node pools remains on the private network only.",
-          "pubDate": "Wed, 14 Sep 2022 16:00:34 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use an API Server VNet Integration to ensure network traffic between your API server and your node pools remains on the private network only."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-read-replica-for-azure-database-for-mysql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-read-replica-for-azure-database-for-mysql-flexible-server/",
-          "title": "General availability: Read replica for Azure Database for MySQL - Flexible Server",
-          "description": "Provision up to 10 read replicas for high availability (HA) enabled servers in Azure Database for MySQL – Flexible Server.",
-          "pubDate": "Wed, 14 Sep 2022 16:00:33 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Provision up to 10 read replicas for high availability (HA) enabled servers in Azure Database for MySQL – Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-database-for-mysql-flexible-server-data-encryption-with-cmk"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-data-encryption-with-cmk/",
-          "title": "Public preview: Azure Database for MySQL - Flexible Server data encryption with CMK",
-          "description": "Encrypt your data with customer-managed keys (CMK) to enable an extra layer of security for data at rest.",
-          "pubDate": "Wed, 14 Sep 2022 16:00:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Encrypt your data with customer-managed keys (CMK) to enable an extra layer of security for data at rest."
           },
           "content:encoded": null
         }
