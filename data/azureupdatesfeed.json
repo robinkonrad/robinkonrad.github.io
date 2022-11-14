@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 14 Nov 2022 19:14:26 Z",
+      "lastBuildDate": "Mon, 14 Nov 2022 20:18:50 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-bot-manager-rule-set-10-on-regional-azure-web-application-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-bot-manager-rule-set-10-on-regional-azure-web-application-firewall/",
+          "title": "General availability: Bot Manager Rule Set 1.0 on regional Web Application Firewall",
+          "description": "This rule set provides you enhanced protection against bots and provides granular control over bots detected by WAF by categorizing bot traffic as good, bad, or unknown bots.",
+          "pubDate": "Mon, 14 Nov 2022 20:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This rule set provides you enhanced protection against bots and provides granular control over bots detected by WAF by categorizing bot traffic as good, bad, or unknown bots."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3078,21 +3093,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3/",
-          "title": "Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits",
-          "description": "Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions.",
-          "pubDate": "Wed, 28 Sep 2022 16:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions."
           },
           "content:encoded": null
         }
