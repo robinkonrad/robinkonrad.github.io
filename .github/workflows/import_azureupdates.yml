@@ -2,7 +2,7 @@ name: Import AzureServices Updates
 
 on:
   schedule: 
-    - cron: "* 2,8,14,20 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,3 +18,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "azureupdates2hugo: Imported updated feed json & xml file"
+          push_options: --force
