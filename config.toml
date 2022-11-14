@@ -6,13 +6,9 @@ theme = "LoveIt"
 # website title
 title = "Robin Konrad"
 
+# emoji support and inline Shortcodes
 enableInlineShortcodes = true
 enableEmoji = true
-
-[params.cdn]
-  # CDN data file name, disabled by default
-  # ["jsdelivr.yml"]
-  data = "local.yml"
 
 [languages]
   [languages.en]
@@ -112,6 +108,14 @@ defaultContentLanguage = "en"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
+
+[params.cdn]
+  # CDN data file name, disabled by default
+  data = "local.yml"
 
 # Markup related configuration in Hugo
 [markup]
@@ -137,6 +141,8 @@ defaultContentLanguage = "en"
   description = "Robin Konrad"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
+  # uBlogger theme version
+  version = "1.3.X"
 
 # Section (all posts) page config
   [params.section]

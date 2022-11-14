@@ -1,0 +1,30 @@
+{{ $badge := .Get "badgeId"}}
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+{{ range .Site.Data.CredlyBadgesRaw.data }}
+    {{ if eq .id $badge }}
+        {{ $credly := . }}
+        {{ $imagePath :=  print "images/CredlyBadges/" .id ".png" }}
+        {{ $image := (resources.Get (print "images/CredlyBadges/" .id ".png")).Resize "120x" }}
+        <tr>
+            <td><a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank"><img 
+                src="{{ $image.RelPermalink }}" 
+                width="{{ $image.Width }}" 
+                height="{{ $image.Height }}" 
+                alt="{{ $credly.Description }}"></a></td>
+            <td><p><b>{{ .badge_template.name | plainify | htmlUnescape }}</b><br>
+                {{ $issuerInformation := index .issuer.entities 0 }}
+                {{ $issuerInformation.entity.name | plainify | htmlUnescape }}<br>
+                Issued {{ .issued_at_date | plainify | htmlUnescape }} - {{ with .expires_at_date }} Expire at {{ . | plainify | htmlUnescape }} {{ else }} No Expiration Date {{ end }}<br>
+                <a href="https://www.credly.com/badges/{{ .id | plainify | htmlUnescape }}?source=RobinsPage" target="_blank">Verify</a></p></td>
+        </tr>
+    {{ end }}
+{{ end }}
+    </tbody>
+</table>
