@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 14 Nov 2022 14:56:35 Z",
+      "lastBuildDate": "Mon, 14 Nov 2022 16:15:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys/",
+          "title": "Limited preview: Azure Backup support for confidential VMs using Platform Managed Keys",
+          "description": "You can use this feature to back up confidential VMs using Platform Managed Keys.",
+          "pubDate": "Mon, 14 Nov 2022 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can use this feature to back up confidential VMs using Platform Managed Keys."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3078,21 +3093,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-public-preview-updates-for-late-september-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/",
-          "title": "Azure SQL—Public preview updates for late September 2022",
-          "description": "Public preview enhancements and updates released for Azure SQL in late September 2022.",
-          "pubDate": "Wed, 28 Sep 2022 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in late September 2022."
           },
           "content:encoded": null
         }
