@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 14 Nov 2022 16:25:35 Z",
+      "lastBuildDate": "Mon, 14 Nov 2022 17:30:15 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys/",
-          "title": "Limited preview: Azure Backup support for confidential VMs using Platform Managed Keys",
-          "description": "You can use this feature to back up confidential VMs using Platform Managed Keys.",
-          "pubDate": "Mon, 14 Nov 2022 16:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can use this feature to back up confidential VMs using Platform Managed Keys."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -420,7 +405,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/increasing-azure-synapse-analytics-spark-performance-by-up-to-77/",
           "title": "Generally available: Increasing Azure Synapse Analytics Spark performance up to 77%",
           "description": "Faster Azure Synapse Analytics Spark performance at no cost.",
-          "pubDate": "Wed, 09 Nov 2022 17:00:24 Z",
+          "pubDate": "Wed, 09 Nov 2022 17:00:23 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Faster Azure Synapse Analytics Spark performance at no cost."
@@ -550,75 +535,75 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines"
+            "#text": "iot-hub-gateway-upgrade"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines/",
-          "title": "General availability: Ephemeral OS disk support for confidential virtual machines",
-          "description": "Create confidential VMs using Ephemeral OS disks for your stateless workloads.",
-          "pubDate": "Wed, 02 Nov 2022 18:00:48 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/iot-hub-gateway-upgrade/",
+          "title": "General availability: IoT Hub Service Upgrade",
+          "description": "All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub.",
+          "pubDate": "Thu, 03 Nov 2022 19:00:01 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Create confidential VMs using Ephemeral OS disks for your stateless workloads."
+            "#text": "All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub."
           },
           "content:encoded": null
         },
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-new-azure-maps-creator-feature-dataset-with-geojson"
+            "#text": "generally-available-encrypt-storage-account-with-crosstenant-customermanaged-keys"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-azure-maps-creator-feature-dataset-with-geojson/",
-          "title": "Public preview: New Azure Maps Creator feature - Dataset with GeoJSON",
-          "description": "Azure Maps Creator enables you to create Indoor Maps with GeoJSON.",
-          "pubDate": "Wed, 02 Nov 2022 16:00:47 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-encrypt-storage-account-with-crosstenant-customermanaged-keys/",
+          "title": "Generally available: Encrypt storage account with cross-tenant customer-managed keys",
+          "description": "Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant.",
+          "pubDate": "Tue, 01 Nov 2022 21:00:36 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Azure Maps Creator enables you to create Indoor Maps with GeoJSON."
+            "#text": "Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant."
           },
           "content:encoded": null
         },
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-powershell7-python3"
+            "#text": "general-availability-microsoft-azure-payment-hsm-service"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-powershell7-python3/",
-          "title": "Public preview: Azure Automation supports PowerShell 7.2 and Python 3.10 runbooks",
-          "description": "Azure Automation now supports runbooks in latest Runtime versions - PowerShell 7.2 and Python 3.10 in public preview.",
-          "pubDate": "Mon, 31 Oct 2022 17:46:46 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-payment-hsm-service/",
+          "title": "General availability: Microsoft Azure Payment HSM Service",
+          "description": "Secure your digital payment system in the cloud with Azure Payment HSM.",
+          "pubDate": "Tue, 01 Nov 2022 17:00:41 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Azure Automation now supports runbooks in latest Runtime versions - PowerShell 7.2 and Python 3.10 in public preview."
+            "#text": "Secure your digital payment system in the cloud with Azure Payment HSM."
           },
           "content:encoded": null
         },
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-new-kms-dns-in-azure-us-government-cloud"
+            "#text": "generally-available-azure-databricks-sql-pro"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-us-government-cloud/",
-          "title": "Generally available: New KMS DNS in Azure US Government Cloud",
-          "description": "All Azure Windows VMs provisioned in Azure US Government Cloud after February 1, 2023, will be activated via aazkms.core.usgovcloudapi.net, which points to one new KMS IP address, 52.126.105.2.",
-          "pubDate": "Mon, 31 Oct 2022 16:00:25 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-databricks-sql-pro/",
+          "title": "Generally available: Azure Databricks SQL Pro",
+          "description": "Beginning in November, Azure Databricks customers have an additional option for SQL compute, with Azure Databricks SQL Pro, which provides enhanced performance and integration features.",
+          "pubDate": "Tue, 01 Nov 2022 16:00:42 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "All Azure Windows VMs provisioned in Azure US Government Cloud after February 1, 2023, will be activated via aazkms.core.usgovcloudapi.net, which points to one new KMS IP address, 52.126.105.2."
+            "#text": "Beginning in November, Azure Databricks customers have an additional option for SQL compute, with Azure Databricks SQL Pro, which provides enhanced performance and integration features."
           },
           "content:encoded": null
         },
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "logic-apps-standard-support-for-functions-runtime-v4"
+            "#text": "generally-available-device-update-for-iot-hub"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/logic-apps-standard-support-for-functions-runtime-v4/",
-          "title": "Generally available: Logic Apps Standard Support for Functions Runtime V4",
-          "description": "Logic apps Standard support for Azure Functions  runtime version 4.x – is now generally available.",
-          "pubDate": "Mon, 31 Oct 2022 15:00:24 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-device-update-for-iot-hub/",
+          "title": "Generally available: Device Update for IoT Hub",
+          "description": "Use Device Update for IoT Hub to publish, distribute, and manage over-the-air updates for everything from tiny sensors to gateway-level devices.",
+          "pubDate": "Tue, 01 Nov 2022 16:00:41 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Logic apps Standard support for Azure Functions  runtime version 4.x – is now generally available."
+            "#text": "Use Device Update for IoT Hub to publish, distribute, and manage over-the-air updates for everything from tiny sensors to gateway-level devices."
           },
           "content:encoded": null
         },
@@ -660,7 +645,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-sap-s4hana-events-are-now-available-on-azure-event-grid/",
           "title": "Public preview: SAP S/4HANA events are now available on Azure Event Grid",
           "description": "Integrate your apps using Event Grid and SAP S/4HANA events.",
-          "pubDate": "Thu, 27 Oct 2022 22:01:59 Z",
+          "pubDate": "Thu, 27 Oct 2022 16:00:25 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Integrate your apps using Event Grid and SAP S/4HANA events."
@@ -708,7 +693,7 @@
             "#text": "azure-sql-general-availability-updates-for-late-october-2022"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-october-2022/",
-          "title": "Azure SQL General availability updates for late October 2022",
+          "title": "Azure SQL—General availability updates for late October 2022",
           "description": "General availability enhancements and updates released for Azure SQL in late October 2022.",
           "pubDate": "Wed, 26 Oct 2022 16:00:22 Z",
           "atom:content": {
@@ -739,7 +724,7 @@
             "#text": "azure-sql-public-preview-updates-for-late-october-2022"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-october-2022/",
-          "title": "Azure SQL Public preview updates for late October 2022",
+          "title": "Azure SQL—Public preview updates for late October 2022",
           "description": "Public preview enhancements and updates released for Azure SQL in late October 2022.",
           "pubDate": "Wed, 26 Oct 2022 16:00:21 Z",
           "atom:content": {
@@ -1065,21 +1050,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "ABAC for Azure Storage Blobs, ADLS Gen2, and queues is now generally available and can be used for access control by defining conditions on role-assignments based on resource and request attributes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-merge-command-for-azure-synapse-analytics"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-merge-command-for-azure-synapse-analytics/",
-          "title": "Generally available: MERGE command for Azure Synapse Analytics",
-          "description": "Runs insert, update, or delete operations on a target table from the results of a join with a source table.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Runs insert, update, or delete operations on a target table from the results of a join with a source table."
           },
           "content:encoded": null
         },
@@ -1633,21 +1603,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle/",
-          "title": "Public preview: Oracle to Azure migration with Database Migration Assessment for Oracle",
-          "description": "Migrate from Oracle to Azure Database for PostgreSQL with the Database Migration Assessment for Oracle extension available in Azure Data Studio.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate from Oracle to Azure Database for PostgreSQL with the Database Migration Assessment for Oracle extension available in Azure Data Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server/",
@@ -1798,6 +1753,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-expressroute-traffic-collector"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-expressroute-traffic-collector/",
+          "title": "Public preview: ExpressRoute Traffic Collector",
+          "description": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-integration-of-azure-monitor-agent-with-connection-monitor"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-integration-of-azure-monitor-agent-with-connection-monitor/",
@@ -1873,6 +1843,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-application-insights-java-profiling-using-java-flight-recorder"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-application-insights-java-profiling-using-java-flight-recorder/",
+          "title": "Public preview: Azure Monitor application insights Java profiling, using Java Flight Recorder",
+          "description": "Java application profiling using Java Flight Recorder (JFR) is now in preview in Azure Monitor application insights.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Java application profiling using Java Flight Recorder (JFR) is now in preview in Azure Monitor application insights."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-monitor-logs-create-granular-level-rbac-for-custom-tables"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-logs-create-granular-level-rbac-for-custom-tables/",
@@ -1903,21 +1888,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-rules-for-azure-kubernetes-service-and-log-analytic-workspace-resources"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-rules-for-azure-kubernetes-service-and-log-analytic-workspace-resources/",
-          "title": "Public preview: Rules for Azure Kubernetes Service and Log Analytic workspace resources",
-          "description": "Enable a set of recommended alert rules for your Azure Kubernetes Service and Log Analytics workspace resources.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:33 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable a set of recommended alert rules for your Azure Kubernetes Service and Log Analytics workspace resources."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-monitor-agent-migration-tools"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-agent-migration-tools/",
@@ -1927,36 +1897,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migration to the cost-effective, secure, performant, and manageable new Azure Monitor agent is now made easy using migration tools and helpers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-monitor-agent-support-for-windows-clients"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-agent-support-for-windows-clients/",
-          "title": "Generally available: Azure Monitor agent support for Windows clients",
-          "description": "Using the new Windows client installer you can now get the benefits of the new agent and data collection rules on your Windows 10 and 11 client devices.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Using the new Windows client installer you can now get the benefits of the new agent and data collection rules on your Windows 10 and 11 client devices."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-amd-confidential-vm-guest-attestation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-amd-confidential-vm-guest-attestation/",
-          "title": "General availability: AMD confidential VM guest attestation",
-          "description": "Guest attestation enables verifying the trustworthiness (good state) of the trusted execution environment on which the guest VM is executing.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Guest attestation enables verifying the trustworthiness (good state) of the trusted execution environment on which the guest VM is executing."
           },
           "content:encoded": null
         },
@@ -2023,15 +1963,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-kubernetes-apps-on-azure-marketplace"
+            "#text": "generally-available-arm64-support-in-aks"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-apps-on-azure-marketplace/",
-          "title": "Public preview: Kubernetes apps on Azure Marketplace",
-          "description": "Benefit from independent software vendor (ISV) created Kubernetes solutions in the Azure Marketplace that offer simple, click through deployments.",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-arm64-support-in-aks/",
+          "title": "Generally available: ARM64 support in AKS",
+          "description": "Benefit from ARM64's better price, compute performance, and lower power utilization in AKS node pools.",
           "pubDate": "Wed, 12 Oct 2022 16:00:25 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Benefit from independent software vendor (ISV) created Kubernetes solutions in the Azure Marketplace that offer simple, click through deployments."
+            "#text": "Benefit from ARM64's better price, compute performance, and lower power utilization in AKS node pools."
           },
           "content:encoded": null
         },
@@ -2137,36 +2077,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Kubernetes Service has new hybrid deployment options."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-planned-maintenance-feature-for-app-service-environment-v3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-planned-maintenance-feature-for-app-service-environment-v3/",
-          "title": "Public preview: Planned maintenance feature for App Service Environment v3",
-          "description": "Get a notification 15 days ahead of planned automatic maintenance and start the maintenance when it is convenient for you.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Get a notification 15 days ahead of planned automatic maintenance and start the maintenance when it is convenient for you."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "in-development-larger-skus-for-app-service-environment-v3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/in-development-larger-skus-for-app-service-environment-v3/",
-          "title": "In development: Larger SKUs for App Service Environment v3",
-          "description": "Using the new Isolated v2 SKUs, you can now run larger and more complex workloads.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Using the new Isolated v2 SKUs, you can now run larger and more complex workloads."
           },
           "content:encoded": null
         },
@@ -2308,6 +2218,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-azure-elastic-san"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-elastic-san/",
+          "title": "Public preview: Azure Elastic SAN",
+          "description": "Azure Elastic SAN is industry's first fully managed storage area network (SAN) offering in the cloud providing an end-to-end experience similar to on-premises SAN.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Elastic SAN is industry's first fully managed storage area network (SAN) offering in the cloud providing an end-to-end experience similar to on-premises SAN."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
@@ -2378,6 +2303,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The physical job diagram provides rich, instant insights to your Stream Analytics job to help you quickly identify the causes of problems when you troubleshoot issues."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-to-delta-lake"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-to-delta-lake/",
+          "title": "Public preview: Native delta lake output connector",
+          "description": "You can now configure a Stream Analytics job to write streaming data to either a new or an existing delta lake yable in Azure Data Lake Storage Gen2.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now configure a Stream Analytics job to write streaming data to either a new or an existing delta lake yable in Azure Data Lake Storage Gen2."
           },
           "content:encoded": null
         },
@@ -3093,6 +3033,66 @@
           "atom:content": {
             "@type": "text",
             "#text": "Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-public-preview-updates-for-late-september-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/",
+          "title": "Azure SQL—Public preview updates for late September 2022",
+          "description": "Public preview enhancements and updates released for Azure SQL in late September 2022.",
+          "pubDate": "Wed, 28 Sep 2022 16:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview enhancements and updates released for Azure SQL in late September 2022."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server/",
+          "title": "General availability: Backup and restore in Azure Database for PostgreSQL – Flexible Server",
+          "description": "Restore a server to another geo-paired region with geo redundant and restore for Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure.",
+          "pubDate": "Wed, 28 Sep 2022 16:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Restore a server to another geo-paired region with geo redundant and restore for Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server/",
+          "title": "Public preview: Azure AD authentication with Azure Database for MySQL – Flexible Server",
+          "description": "Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server.",
+          "pubDate": "Wed, 28 Sep 2022 16:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3/",
+          "title": "Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits",
+          "description": "Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions.",
+          "pubDate": "Wed, 28 Sep 2022 16:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Maximum scale-out limits for Functions Linux Premium plans have been increased in a number of regions."
           },
           "content:encoded": null
         }
