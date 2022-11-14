@@ -1,5 +1,5 @@
 ---
-title: "Kusto Detective Case #5"
+title: "Kusto Detective Case #5 :sunglasses:"
 date: 2022-11-12
 draft: false
 
@@ -12,20 +12,20 @@ resources:
 - name: "featured-image"
   src: "kusto-header.png"
 
-tags: ["About", "Work"]
-categories: ["About Me"]
+tags: ["Challenge", "Award", "BigData"]
+categories: ["Kusto Detective Agency"]
 
 lightgallery: true
 
 ---
 
-### Completed Case #5
-I just completed case #5 of the [Kusto Detective Agency](https://detective.kusto.io). As of the last cases the complexity increases from riddle to riddle. *BUT* be carefull and don't over think the task. The mystery is solveable. :laugh:
+### Completed Case #5 :mag:
+I just completed case #5 of the [Kusto Detective Agency](https://detective.kusto.io). :ok_hand:  As of the last cases the complexity increases from riddle to riddle. *BUT* be careful and don't overthink the task. The mystery is solvable. :laughing:
 
-{{< certification badgeId="e729ae4b-7032-4b07-9894-1c6bd9363109" >}}
+{{< certification badgeId="3d1cfc12-77b1-46f9-9959-e55a346c39ab" >}}
 
 ### What is Kusto Detective Agency
 
-Microsoft provides a series of riddles to proof and inproof your big data analysis skills using Azure Data Explorer with a free-tier Kusto Cluster.
+Microsoft provides a series of riddles to proof and improof your big data analysis skills using Azure Data Explorer with a free-tier Kusto Cluster. :joy:
 
-You can still get part of it [Kusto Detective Agency](https://detective.kusto.io) and earn experience and awards!
+You can still get part of it [Kusto Detective Agency](https://detective.kusto.io) and earn experience and awards! :mag:
