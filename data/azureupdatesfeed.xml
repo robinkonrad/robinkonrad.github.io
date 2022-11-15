@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 05:15:23 Z</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 06:20:58 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,41 @@
       <pubDate>Mon, 14 Nov 2022 20:00:05 Z</pubDate>
       <atom:content
         type="text">This rule set provides you enhanced protection against bots and provides granular control over bots detected by WAF by categorizing bot traffic as good, bad, or unknown bots.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-quota-rest-api</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-quota-rest-api/</link>
+      <title>Public preview: Azure Quota REST APIs to manage service limits (quota)</title>
+      <description>Use Azure REST Quota APIs to manage the service limits (quotas) of Azure Virtual Machines (cores/vCPU), Networking, Azure HPC Cache, and Azure Purview services.
+</description>
+      <pubDate>Mon, 14 Nov 2022 17:00:04 Z</pubDate>
+      <atom:content
+        type="text">Use Azure REST Quota APIs to manage the service limits (quotas) of Azure Virtual Machines (cores/vCPU), Networking, Azure HPC Cache, and Azure Purview services.
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-encrypt-managed-disks-with-crosstenant-customermanaged-keys</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-encrypt-managed-disks-with-crosstenant-customermanaged-keys/</link>
+      <title>Generally available: Encrypt managed disks with cross-tenant customer-managed keys</title>
+      <description>Protect your data by encrypting Premium SSD, Standard SSD, and Standard HDD managed disks with cross tenant customer-managed keys.</description>
+      <pubDate>Mon, 14 Nov 2022 17:00:03 Z</pubDate>
+      <atom:content
+        type="text">Protect your data by encrypting Premium SSD, Standard SSD, and Standard HDD managed disks with cross tenant customer-managed keys.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys</guid>
+      <link>https://azure.microsoft.com/en-us/updates/limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys/</link>
+      <title>Limited preview: Azure Backup support for confidential VMs using Platform Managed Keys</title>
+      <description>You can use this feature to back up confidential VMs using Platform Managed Keys.</description>
+      <pubDate>Mon, 14 Nov 2022 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">You can use this feature to back up confidential VMs using Platform Managed Keys.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1645,17 +1680,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-dapr-support-for-managed-identity-in-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/</link>
-      <title>Generally available: Dapr support for managed identity in Azure Container Apps</title>
-      <description>Container Apps now provides support for using Dapr with Managed Identity. </description>
-      <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
-      <atom:content
-        type="text">Container Apps now provides support for using Dapr with Managed Identity. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-container-apps-azure-monitor-integration</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/</link>
       <title>Public preview: Azure Container Apps Azure Monitor integration</title>
@@ -1663,6 +1687,17 @@
       <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
       <atom:content
         type="text">Azure Container Apps now support using Azure Monitor to send your logs to additional destinations. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-dapr-support-for-managed-identity-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/</link>
+      <title>Generally available: Dapr support for managed identity in Azure Container Apps</title>
+      <description>Container Apps now provides support for using Dapr with Managed Identity. </description>
+      <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
+      <atom:content
+        type="text">Container Apps now provides support for using Dapr with Managed Identity. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2237,39 +2272,6 @@
       <pubDate>Wed, 28 Sep 2022 16:00:20 Z</pubDate>
       <atom:content
         type="text">Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-sql-public-preview-updates-for-late-september-2022</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/</link>
-      <title>Azure SQL—Public preview updates for late September 2022</title>
-      <description>Public preview enhancements and updates released for Azure SQL in late September 2022.</description>
-      <pubDate>Wed, 28 Sep 2022 16:00:20 Z</pubDate>
-      <atom:content
-        type="text">Public preview enhancements and updates released for Azure SQL in late September 2022.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server/</link>
-      <title>General availability: Backup and restore in Azure Database for PostgreSQL – Flexible Server </title>
-      <description>Restore a server to another geo-paired region with geo redundant and restore for Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. </description>
-      <pubDate>Wed, 28 Sep 2022 16:00:19 Z</pubDate>
-      <atom:content
-        type="text">Restore a server to another geo-paired region with geo redundant and restore for Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server/</link>
-      <title>Public preview: Azure AD authentication with Azure Database for MySQL – Flexible Server</title>
-      <description>Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server.</description>
-      <pubDate>Wed, 28 Sep 2022 16:00:18 Z</pubDate>
-      <atom:content
-        type="text">Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

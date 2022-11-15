@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 15 Nov 2022 05:15:23 Z",
+      "lastBuildDate": "Tue, 15 Nov 2022 06:20:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,51 @@
           "atom:content": {
             "@type": "text",
             "#text": "This rule set provides you enhanced protection against bots and provides granular control over bots detected by WAF by categorizing bot traffic as good, bad, or unknown bots."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-quota-rest-api"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-quota-rest-api/",
+          "title": "Public preview: Azure Quota REST APIs to manage service limits (quota)",
+          "description": "Use Azure REST Quota APIs to manage the service limits (quotas) of Azure Virtual Machines (cores/vCPU), Networking, Azure HPC Cache, and Azure Purview services.",
+          "pubDate": "Mon, 14 Nov 2022 17:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use Azure REST Quota APIs to manage the service limits (quotas) of Azure Virtual Machines (cores/vCPU), Networking, Azure HPC Cache, and Azure Purview services."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-encrypt-managed-disks-with-crosstenant-customermanaged-keys"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-encrypt-managed-disks-with-crosstenant-customermanaged-keys/",
+          "title": "Generally available: Encrypt managed disks with cross-tenant customer-managed keys",
+          "description": "Protect your data by encrypting Premium SSD, Standard SSD, and Standard HDD managed disks with cross tenant customer-managed keys.",
+          "pubDate": "Mon, 14 Nov 2022 17:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Protect your data by encrypting Premium SSD, Standard SSD, and Standard HDD managed disks with cross tenant customer-managed keys."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/limited-preview-azure-backup-support-for-confidential-virtual-machines-using-platform-managed-keys/",
+          "title": "Limited preview: Azure Backup support for confidential VMs using Platform Managed Keys",
+          "description": "You can use this feature to back up confidential VMs using Platform Managed Keys.",
+          "pubDate": "Mon, 14 Nov 2022 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can use this feature to back up confidential VMs using Platform Managed Keys."
           },
           "content:encoded": null
         },
@@ -2248,21 +2293,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
-          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
-          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-container-apps-azure-monitor-integration"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/",
@@ -2272,6 +2302,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
+          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
+          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
           },
           "content:encoded": null
         },
@@ -3048,51 +3093,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-public-preview-updates-for-late-september-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/",
-          "title": "Azure SQL—Public preview updates for late September 2022",
-          "description": "Public preview enhancements and updates released for Azure SQL in late September 2022.",
-          "pubDate": "Wed, 28 Sep 2022 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in late September 2022."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server/",
-          "title": "General availability: Backup and restore in Azure Database for PostgreSQL – Flexible Server",
-          "description": "Restore a server to another geo-paired region with geo redundant and restore for Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure.",
-          "pubDate": "Wed, 28 Sep 2022 16:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Restore a server to another geo-paired region with geo redundant and restore for Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server/",
-          "title": "Public preview: Azure AD authentication with Azure Database for MySQL – Flexible Server",
-          "description": "Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server.",
-          "pubDate": "Wed, 28 Sep 2022 16:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Simplify permission management by using Microsoft Azure Active Directory identities to authenticate with instances of Azure Database for MySQL – Flexible Server."
           },
           "content:encoded": null
         }
