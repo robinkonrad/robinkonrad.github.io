@@ -6,11 +6,37 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Nov 2022 16:24:35 Z</lastBuildDate>
+    <lastBuildDate>Tue, 15 Nov 2022 17:17:15 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">tls1-3-application-gateway-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/tls1-3-application-gateway-ga/</link>
+      <category>Application Gateway</category>
+      <category>Features</category>
+      <category>TLS</category>
+      <category>Security</category>
+      <title>General availability: TLS 1.3 with Application Gateway</title>
+      <description>Start using the new policies with TLS 1.3 for your Azure Application Gateway to improve security and performance.</description>
+      <pubDate>Tue, 15 Nov 2022 17:00:19 Z</pubDate>
+      <atom:content
+        type="text">Start using the new policies with TLS 1.3 for your Azure Application Gateway to improve security and performance.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-per-rule-actions-on-regional-web-application-firewall</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-per-rule-actions-on-regional-web-application-firewall/</link>
+      <title>General availability: Per Rule Actions on regional Web Application Firewall</title>
+      <description>Azure's regional Web Application Firewall on Application Gateway now supports customizing actions per rule. This new functionality allows you greater control over how the Web Application Firewall handles incoming traffic.</description>
+      <pubDate>Tue, 15 Nov 2022 17:00:19 Z</pubDate>
+      <atom:content
+        type="text">Azure's regional Web Application Firewall on Application Gateway now supports customizing actions per rule. This new functionality allows you greater control over how the Web Application Firewall handles incoming traffic.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-bot-manager-rule-set-10-on-regional-azure-web-application-firewall</guid>
@@ -2250,28 +2276,6 @@
       <pubDate>Thu, 29 Sep 2022 16:00:35 Z</pubDate>
       <atom:content
         type="text">You can now manage firewall rules over time by providing insights and analysis of traffic flowing through Azure Firewall. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-sql-general-availability-updates-for-late-september-2022-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-september-2022-2/</link>
-      <title>Azure SQL—General availability updates for late September 2022</title>
-      <description>General availability enhancements and updates released for Azure SQL in late September 2022.</description>
-      <pubDate>Wed, 28 Sep 2022 16:00:21 Z</pubDate>
-      <atom:content
-        type="text">General availability enhancements and updates released for Azure SQL in late September 2022.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier/</link>
-      <title>General availability: Azure SQL Database Hyperscale reverse migration to general purpose tier</title>
-      <description>Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier.</description>
-      <pubDate>Wed, 28 Sep 2022 16:00:20 Z</pubDate>
-      <atom:content
-        type="text">Easily move your previously migrated databases on Azure SQL Database Hyperscale back to the general purpose tier.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
