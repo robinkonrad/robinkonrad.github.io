@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2022 20:17:48 Z</lastBuildDate>
+    <lastBuildDate>Thu, 17 Nov 2022 21:15:04 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-trigger-for-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-trigger-for-azure-functions/</link>
+      <title>Public preview: Azure SQL trigger for Azure Functions</title>
+      <description>You can invoke an Azure Function when a row in a SQL database is created, updated, or deleted through the Azure SQL trigger for Azure Functions, now available in public preview.</description>
+      <pubDate>Thu, 17 Nov 2022 21:00:16 Z</pubDate>
+      <atom:content
+        type="text">You can invoke an Azure Function when a row in a SQL database is created, updated, or deleted through the Azure SQL trigger for Azure Functions, now available in public preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-armbased-vms-now-available-in-four-additional-azure-regions</guid>
@@ -1323,17 +1334,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
-      <title>Generally available: Service Bus Explorer for the Azure portal</title>
-      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
-      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-support-for-hana-system-replication-in-azure-backup-for-hana</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/</link>
       <category>Azure Backup; SAP HANA Backup; HANA System Replication</category>
@@ -1342,6 +1342,17 @@
       <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
       <atom:content
         type="text">Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
+      <title>Generally available: Service Bus Explorer for the Azure portal</title>
+      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
+      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
+      <atom:content
+        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1830,17 +1841,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-dapr-support-for-managed-identity-in-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/</link>
-      <title>Generally available: Dapr support for managed identity in Azure Container Apps</title>
-      <description>Container Apps now provides support for using Dapr with Managed Identity. </description>
-      <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
-      <atom:content
-        type="text">Container Apps now provides support for using Dapr with Managed Identity. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-container-apps-azure-monitor-integration</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/</link>
       <title>Public preview: Azure Container Apps Azure Monitor integration</title>
@@ -1848,6 +1848,17 @@
       <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
       <atom:content
         type="text">Azure Container Apps now support using Azure Monitor to send your logs to additional destinations. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-dapr-support-for-managed-identity-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/</link>
+      <title>Generally available: Dapr support for managed identity in Azure Container Apps</title>
+      <description>Container Apps now provides support for using Dapr with Managed Identity. </description>
+      <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
+      <atom:content
+        type="text">Container Apps now provides support for using Dapr with Managed Identity. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2264,17 +2275,6 @@
       <pubDate>Fri, 30 Sep 2022 23:00:56 Z</pubDate>
       <atom:content
         type="text">Retirement Notice: Stop using Batch Job/Pool Lifetime Statistics API by 30 April 2023.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">support-for-azure-api-management-selfhosted-gateway-version-0-and-version-1-ends-1-october-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-selfhosted-gateway-version-0-and-version-1-ends-1-october-2023/</link>
-      <title>Support for Azure API Management self-hosted gateway version 0 and version 1 ends 1 October 2023</title>
-      <description>After 1 October 2023, version 0 and version 1 self-hosted gateway will not be supported.</description>
-      <pubDate>Fri, 30 Sep 2022 23:00:54 Z</pubDate>
-      <atom:content
-        type="text">After 1 October 2023, version 0 and version 1 self-hosted gateway will not be supported.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
