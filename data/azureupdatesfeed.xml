@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Nov 2022 16:23:27 Z</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 17:17:48 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-bastion-shareable-links</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-bastion-shareable-links/</link>
+      <title>Public preview: Azure Bastion now support shareable links</title>
+      <description>Shareable links allows users to connect to target resources via Azure Bastion without access to the Azure portal.</description>
+      <pubDate>Mon, 21 Nov 2022 17:00:18 Z</pubDate>
+      <atom:content
+        type="text">Shareable links allows users to connect to target resources via Azure Bastion without access to the Azure portal.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">iot-hub-cosmos-db-custom-endpoint</guid>
+      <link>https://azure.microsoft.com/en-us/updates/iot-hub-cosmos-db-custom-endpoint/</link>
+      <title>Public preview: Add an Azure Cosmos DB custom endpoint in IoT Hub</title>
+      <description>Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly. </description>
+      <pubDate>Mon, 21 Nov 2022 17:00:08 Z</pubDate>
+      <atom:content
+        type="text">Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-azure-sql-trigger-for-azure-functions</guid>
@@ -60,17 +82,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-azure-synapse-link-for-sql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/</link>
-      <title>Generally available: Azure Synapse Link for SQL</title>
-      <description>Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</description>
-      <pubDate>Wed, 16 Nov 2022 16:00:35 Z</pubDate>
-      <atom:content
-        type="text">Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/</link>
       <title>Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022</title>
@@ -78,6 +89,17 @@
       <pubDate>Wed, 16 Nov 2022 16:00:35 Z</pubDate>
       <atom:content
         type="text">Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-synapse-link-for-sql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/</link>
+      <title>Generally available: Azure Synapse Link for SQL</title>
+      <description>Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</description>
+      <pubDate>Wed, 16 Nov 2022 16:00:35 Z</pubDate>
+      <atom:content
+        type="text">Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2247,32 +2269,6 @@
       <pubDate>Fri, 30 Sep 2022 23:00:58 Z</pubDate>
       <atom:content
         type="text">Support for PostgreSQL 11 ends on 9 November 2023, plan and upgrade your Hyperscale (Citus) clusters to a higher PostgreSQL version.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">application-insights-java-2x-retirement</guid>
-      <link>https://azure.microsoft.com/en-us/updates/application-insights-java-2x-retirement/</link>
-      <category>Azure Monitor</category>
-      <category>Application Insights</category>
-      <category>Java</category>
-      <category>Retirements</category>
-      <title>The application insights Java 2.X SDK will be retired on 30 September 2025</title>
-      <description>Upgrade to application insights Java 3.X auto-instrumentation by 30 September 2025.</description>
-      <pubDate>Fri, 30 Sep 2022 23:00:58 Z</pubDate>
-      <atom:content
-        type="text">Upgrade to application insights Java 3.X auto-instrumentation by 30 September 2025.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">retirement-notice-devops-starter-is-being-retired</guid>
-      <link>https://azure.microsoft.com/en-us/updates/retirement-notice-devops-starter-is-being-retired/</link>
-      <title>DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure</title>
-      <description>DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure. Monitor existing CI/CD pipelines from their native experiences in Azure DevOps or GitHub.</description>
-      <pubDate>Fri, 30 Sep 2022 23:00:57 Z</pubDate>
-      <atom:content
-        type="text">DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure. Monitor existing CI/CD pipelines from their native experiences in Azure DevOps or GitHub.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
