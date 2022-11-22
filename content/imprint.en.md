@@ -1,5 +1,5 @@
 ---
-title: "Imprint"
+title: "Impressum"
 date: 2022-10-20T22:19:33+02:00
 draft: false
 ---
@@ -14,8 +14,6 @@ Am Heeser Wald 11
 
 ### Kontakt
 Telefon: 01714794655
-
-Telefax: 0123456789
 
 E-Mail: hello@robinkonrad.de
 

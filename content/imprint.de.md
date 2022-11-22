@@ -15,8 +15,6 @@ Am Heeser Wald 11
 ### Kontakt
 Telefon: 01714794655
 
-Telefax: 0123456789
-
 E-Mail: hello@robinkonrad.de
 
 ### Redaktionell verantwortlich

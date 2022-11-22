@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Azure Service Updates"
 date: 2022-10-18T21:13:58+02:00
 draft: false
 ---
