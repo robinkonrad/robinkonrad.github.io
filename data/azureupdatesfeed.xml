@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Nov 2022 05:15:50 Z</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2022 06:21:41 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-bastion-shareable-links</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-bastion-shareable-links/</link>
+      <title>Public preview: Azure Bastion now support shareable links</title>
+      <description>Shareable links allows users to connect to target resources via Azure Bastion without access to the Azure portal.</description>
+      <pubDate>Mon, 21 Nov 2022 17:00:18 Z</pubDate>
+      <atom:content
+        type="text">Shareable links allows users to connect to target resources via Azure Bastion without access to the Azure portal.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">iot-hub-cosmos-db-custom-endpoint</guid>
+      <link>https://azure.microsoft.com/en-us/updates/iot-hub-cosmos-db-custom-endpoint/</link>
+      <title>Public preview: Add an Azure Cosmos DB custom endpoint in IoT Hub</title>
+      <description>Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly. </description>
+      <pubDate>Mon, 21 Nov 2022 17:00:10 Z</pubDate>
+      <atom:content
+        type="text">Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-azure-sql-trigger-for-azure-functions</guid>
@@ -1334,6 +1356,17 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
+      <title>Generally available: Service Bus Explorer for the Azure portal</title>
+      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
+      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
+      <atom:content
+        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">public-preview-support-for-hana-system-replication-in-azure-backup-for-hana</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/</link>
       <category>Azure Backup; SAP HANA Backup; HANA System Replication</category>
@@ -1342,17 +1375,6 @@
       <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
       <atom:content
         type="text">Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
-      <title>Generally available: Service Bus Explorer for the Azure portal</title>
-      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
-      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1841,17 +1863,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-container-apps-azure-monitor-integration</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/</link>
-      <title>Public preview: Azure Container Apps Azure Monitor integration</title>
-      <description>Azure Container Apps now support using Azure Monitor to send your logs to additional destinations. </description>
-      <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
-      <atom:content
-        type="text">Azure Container Apps now support using Azure Monitor to send your logs to additional destinations. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-dapr-support-for-managed-identity-in-azure-container-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/</link>
       <title>Generally available: Dapr support for managed identity in Azure Container Apps</title>
@@ -1859,6 +1870,17 @@
       <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
       <atom:content
         type="text">Container Apps now provides support for using Dapr with Managed Identity. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-container-apps-azure-monitor-integration</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/</link>
+      <title>Public preview: Azure Container Apps Azure Monitor integration</title>
+      <description>Azure Container Apps now support using Azure Monitor to send your logs to additional destinations. </description>
+      <pubDate>Wed, 12 Oct 2022 16:00:11 Z</pubDate>
+      <atom:content
+        type="text">Azure Container Apps now support using Azure Monitor to send your logs to additional destinations. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2252,29 +2274,6 @@
       <pubDate>Fri, 30 Sep 2022 23:00:57 Z</pubDate>
       <atom:content
         type="text">Retirement notice: Transition to CycleCloud 8 by 30 September 2023.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">staticwebappsnode12deprecation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/staticwebappsnode12deprecation/</link>
-      <title>Azure Static Web Apps support for Node 12 ends on 3 December 2022</title>
-      <description>Post 3 December 2022, Azure Static Web Apps will end support for Node 12.  </description>
-      <pubDate>Fri, 30 Sep 2022 23:00:56 Z</pubDate>
-      <atom:content
-        type="text">Post 3 December 2022, Azure Static Web Apps will end support for Node 12.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-batch-jobpool-lifetime-statistics-api-will-be-retired-on-30-april-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-batch-jobpool-lifetime-statistics-api-will-be-retired-on-30-april-2023/</link>
-      <category>Batch</category>
-      <title>Azure Batch Job/Pool Lifetime Statistics API will be retired on 30 April 2023</title>
-      <description>Retirement Notice: Stop using Batch Job/Pool Lifetime Statistics API by 30 April 2023.</description>
-      <pubDate>Fri, 30 Sep 2022 23:00:56 Z</pubDate>
-      <atom:content
-        type="text">Retirement Notice: Stop using Batch Job/Pool Lifetime Statistics API by 30 April 2023.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
