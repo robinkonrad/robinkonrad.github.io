@@ -12,13 +12,32 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 22 Nov 2022 15:17:54 Z",
+      "lastBuildDate": "Tue, 22 Nov 2022 16:23:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-cross-subcription-restore-for-azure-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-cross-subcription-restore-for-azure-virtual-machines/",
+          "category": [
+            "AzureBackup",
+            "AzureVM"
+          ],
+          "title": "Public preview: Cross Subscription Restore for Azure Virtual Machines",
+          "description": "Cross Subscription Restore for Azure Virtual Machines is provides flexibility to choose any subscription during restore.",
+          "pubDate": "Tue, 22 Nov 2022 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Cross Subscription Restore for Azure Virtual Machines is provides flexibility to choose any subscription during restore."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2544,21 +2563,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
-          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
-          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-container-apps-azure-monitor-integration"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/",
@@ -2568,6 +2572,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
+          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
+          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
           },
           "content:encoded": null
         },
@@ -3083,22 +3102,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure. Monitor existing CI/CD pipelines from their native experiences in Azure DevOps or GitHub."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-cyclecloud-7-will-be-retired-on-30-september-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-cyclecloud-7-will-be-retired-on-30-september-2023/",
-          "category": "CycleCloud",
-          "title": "Azure CycleCloud 7 will be retired on 30 September 2023",
-          "description": "Retirement notice: Transition to CycleCloud 8 by 30 September 2023.",
-          "pubDate": "Fri, 30 Sep 2022 23:00:57 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retirement notice: Transition to CycleCloud 8 by 30 September 2023."
           },
           "content:encoded": null
         }
