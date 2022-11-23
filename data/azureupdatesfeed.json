@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 23 Nov 2022 18:19:12 Z",
+      "lastBuildDate": "Wed, 23 Nov 2022 19:12:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -1903,6 +1903,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -1913,21 +1928,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -2549,21 +2549,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-customermanaged-keys-for-azure-vmware-solution"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-vmware-solution/",
-          "title": "Public preview: Customer-managed keys for Azure VMware Solution",
-          "description": "Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/",
@@ -2573,6 +2558,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-customermanaged-keys-for-azure-vmware-solution"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-vmware-solution/",
+          "title": "Public preview: Customer-managed keys for Azure VMware Solution",
+          "description": "Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads."
           },
           "content:encoded": null
         },
@@ -2962,22 +2962,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-media-redactor-retirement-on-september-14-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-media-redactor-retirement-on-september-14-2023/",
-          "category": "Media Services",
-          "title": "Azure Media Redactor Retirement on September 14, 2023",
-          "description": "Retirement of the Azure Media Redactor on September 14, 2023.",
-          "pubDate": "Fri, 07 Oct 2022 23:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retirement of the Azure Media Redactor on September 14, 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-batch-pools-without-public-ip-addresses-classic-will-be-retired-on-31-march-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-batch-pools-without-public-ip-addresses-classic-will-be-retired-on-31-march-2023/",
@@ -2988,6 +2972,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Retirement notice: Transition to Simplified compute node communication pools without public IP addresses by 31 March 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-media-redactor-retirement-on-september-14-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-media-redactor-retirement-on-september-14-2023/",
+          "category": "Media Services",
+          "title": "Azure Media Redactor Retirement on September 14, 2023",
+          "description": "Retirement of the Azure Media Redactor on September 14, 2023.",
+          "pubDate": "Fri, 07 Oct 2022 23:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Retirement of the Azure Media Redactor on September 14, 2023."
           },
           "content:encoded": null
         },
