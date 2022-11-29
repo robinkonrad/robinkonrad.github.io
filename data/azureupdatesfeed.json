@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 29 Nov 2022 08:20:53 Z",
+      "lastBuildDate": "Tue, 29 Nov 2022 09:15:47 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -77,7 +77,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/iot-hub-cosmos-db-custom-endpoint/",
           "title": "Public preview: Add an Azure Cosmos DB custom endpoint in IoT Hub",
           "description": "Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly.",
-          "pubDate": "Mon, 21 Nov 2022 17:00:08 Z",
+          "pubDate": "Mon, 21 Nov 2022 17:00:10 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly."
@@ -881,6 +881,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "iot-hub-gateway-upgrade"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/iot-hub-gateway-upgrade/",
+          "title": "General availability: IoT Hub Service Upgrade",
+          "description": "All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub.",
+          "pubDate": "Thu, 03 Nov 2022 19:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines/",
@@ -905,6 +920,66 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Maps Creator enables you to create Indoor Maps with GeoJSON."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-encrypt-storage-account-with-crosstenant-customermanaged-keys"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-encrypt-storage-account-with-crosstenant-customermanaged-keys/",
+          "title": "Generally available: Encrypt storage account with cross-tenant customer-managed keys",
+          "description": "Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant.",
+          "pubDate": "Tue, 01 Nov 2022 21:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-microsoft-azure-payment-hsm-service"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-payment-hsm-service/",
+          "title": "General availability: Microsoft Azure Payment HSM Service",
+          "description": "Secure your digital payment system in the cloud with Azure Payment HSM.",
+          "pubDate": "Tue, 01 Nov 2022 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Secure your digital payment system in the cloud with Azure Payment HSM."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-databricks-sql-pro"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-databricks-sql-pro/",
+          "title": "Generally available: Azure Databricks SQL Pro",
+          "description": "Beginning in November, Azure Databricks customers have an additional option for SQL compute, with Azure Databricks SQL Pro, which provides enhanced performance and integration features.",
+          "pubDate": "Tue, 01 Nov 2022 16:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Beginning in November, Azure Databricks customers have an additional option for SQL compute, with Azure Databricks SQL Pro, which provides enhanced performance and integration features."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-device-update-for-iot-hub"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-device-update-for-iot-hub/",
+          "title": "Generally available: Device Update for IoT Hub",
+          "description": "Use Device Update for IoT Hub to publish, distribute, and manage over-the-air updates for everything from tiny sensors to gateway-level devices.",
+          "pubDate": "Tue, 01 Nov 2022 16:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use Device Update for IoT Hub to publish, distribute, and manage over-the-air updates for everything from tiny sensors to gateway-level devices."
           },
           "content:encoded": null
         },
@@ -1039,7 +1114,7 @@
             "#text": "azure-sql-general-availability-updates-for-late-october-2022"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-october-2022/",
-          "title": "Azure SQL General availability updates for late October 2022",
+          "title": "Azure SQL—General availability updates for late October 2022",
           "description": "General availability enhancements and updates released for Azure SQL in late October 2022.",
           "pubDate": "Wed, 26 Oct 2022 16:00:22 Z",
           "atom:content": {
@@ -1070,7 +1145,7 @@
             "#text": "azure-sql-public-preview-updates-for-late-october-2022"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-october-2022/",
-          "title": "Azure SQL Public preview updates for late October 2022",
+          "title": "Azure SQL—Public preview updates for late October 2022",
           "description": "Public preview enhancements and updates released for Azure SQL in late October 2022.",
           "pubDate": "Wed, 26 Oct 2022 16:00:21 Z",
           "atom:content": {
@@ -1517,7 +1592,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement/",
           "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
           "description": "Migrate your cloud services to a new deployment model before 31 August 2024.",
-          "pubDate": "Fri, 21 Oct 2022 22:00:04 Z",
+          "pubDate": "Fri, 21 Oct 2022 22:00:07 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Migrate your cloud services to a new deployment model before 31 August 2024."
@@ -1878,7 +1953,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-computer-vision-image-analysis-40/",
           "title": "Public preview: Computer Vision Image Analysis 4.0",
           "description": "Get results from all Image Analysis visual features including Read (OCR) with only need one API call.",
-          "pubDate": "Wed, 12 Oct 2022 19:00:08 Z",
+          "pubDate": "Wed, 12 Oct 2022 19:00:09 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Get results from all Image Analysis visual features including Read (OCR) with only need one API call."
@@ -1903,21 +1978,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -1928,6 +1988,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -2129,6 +2204,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-expressroute-traffic-collector"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-expressroute-traffic-collector/",
+          "title": "Public preview: ExpressRoute Traffic Collector",
+          "description": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-integration-of-azure-monitor-agent-with-connection-monitor"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-integration-of-azure-monitor-agent-with-connection-monitor/",
@@ -2204,6 +2294,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-application-insights-java-profiling-using-java-flight-recorder"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-application-insights-java-profiling-using-java-flight-recorder/",
+          "title": "Public preview: Azure Monitor application insights Java profiling, using Java Flight Recorder",
+          "description": "Java application profiling using Java Flight Recorder (JFR) is now in preview in Azure Monitor application insights.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Java application profiling using Java Flight Recorder (JFR) is now in preview in Azure Monitor application insights."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-monitor-logs-create-granular-level-rbac-for-custom-tables"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-logs-create-granular-level-rbac-for-custom-tables/",
@@ -2224,7 +2329,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-managed-service-for-prometheus/",
           "title": "Public preview: Azure Monitor managed service for Prometheus",
           "description": "Azure Monitor's new fully managed Prometheus compatible service delivers the best of what you like about open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:33 Z",
+          "pubDate": "Wed, 12 Oct 2022 16:00:34 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor's new fully managed Prometheus compatible service delivers the best of what you like about open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention."
@@ -2348,6 +2453,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Kubernetes Service (AKS) now offers a new network overlay mode that is more efficient in terms of IP utilization."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-arm64-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-arm64-support-in-aks/",
+          "title": "Generally available: ARM64 support in AKS",
+          "description": "Benefit from ARM64's better price, compute performance, and lower power utilization in AKS node pools.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Benefit from ARM64's better price, compute performance, and lower power utilization in AKS node pools."
           },
           "content:encoded": null
         },
@@ -2549,21 +2669,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/",
-          "title": "Generally available: Azure Hybrid Benefit for AKS and Azure Stack HCI",
-          "description": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-customermanaged-keys-for-azure-vmware-solution"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-vmware-solution/",
@@ -2573,6 +2678,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/",
+          "title": "Generally available: Azure Hybrid Benefit for AKS and Azure Stack HCI",
+          "description": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are."
           },
           "content:encoded": null
         },
@@ -2639,15 +2759,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
+            "#text": "public-preview-azure-elastic-san"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
-          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
-          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-elastic-san/",
+          "title": "Public preview: Azure Elastic SAN",
+          "description": "Azure Elastic SAN is industry's first fully managed storage area network (SAN) offering in the cloud providing an end-to-end experience similar to on-premises SAN.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:13 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
+            "#text": "Azure Elastic SAN is industry's first fully managed storage area network (SAN) offering in the cloud providing an end-to-end experience similar to on-premises SAN."
           },
           "content:encoded": null
         },
@@ -2663,6 +2783,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
+          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
+          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
           },
           "content:encoded": null
         },
@@ -2709,6 +2844,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The physical job diagram provides rich, instant insights to your Stream Analytics job to help you quickly identify the causes of problems when you troubleshoot issues."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-to-delta-lake"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-to-delta-lake/",
+          "title": "Public preview: Native delta lake output connector",
+          "description": "You can now configure a Stream Analytics job to write streaming data to either a new or an existing delta lake yable in Azure Data Lake Storage Gen2.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now configure a Stream Analytics job to write streaming data to either a new or an existing delta lake yable in Azure Data Lake Storage Gen2."
           },
           "content:encoded": null
         },
@@ -2940,161 +3090,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Retirement of the Azure Media Services VideoAnalyzer preset on September 14, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-hpc-pack-burst-to-cloud-services-will-be-retired-on-31-august-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-hpc-pack-burst-to-cloud-services-will-be-retired-on-31-august-2024/",
-          "category": "Microsoft HPC Pack",
-          "title": "Microsoft HPC Pack Burst to Cloud Services will be retired on 31 August 2024",
-          "description": "Retirement Notice: Transition to Burst to Azure IaaS VM or Burst to Azure Batch service before 31 August 2024.",
-          "pubDate": "Fri, 07 Oct 2022 23:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retirement Notice: Transition to Burst to Azure IaaS VM or Burst to Azure Batch service before 31 August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-media-redactor-retirement-on-september-14-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-media-redactor-retirement-on-september-14-2023/",
-          "category": "Media Services",
-          "title": "Azure Media Redactor Retirement on September 14, 2023",
-          "description": "Retirement of the Azure Media Redactor on September 14, 2023.",
-          "pubDate": "Fri, 07 Oct 2022 23:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retirement of the Azure Media Redactor on September 14, 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-batch-pools-without-public-ip-addresses-classic-will-be-retired-on-31-march-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-batch-pools-without-public-ip-addresses-classic-will-be-retired-on-31-march-2023/",
-          "category": "Batch",
-          "title": "Azure Batch pools without public IP addresses (classic) will be retired on 31 March 2023",
-          "description": "Retirement notice: Transition to Simplified compute node communication pools without public IP addresses by 31 March 2023",
-          "pubDate": "Fri, 07 Oct 2022 23:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retirement notice: Transition to Simplified compute node communication pools without public IP addresses by 31 March 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-runas-account-retiring-on-30-september-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runas-account-retiring-on-30-september-2023/",
-          "title": "Migrate your runbooks to managed identities in Azure Automation by 30 September 2023",
-          "description": "Azure Automation Run As accounts will be retired on 30 September 2023.",
-          "pubDate": "Fri, 07 Oct 2022 23:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation Run As accounts will be retired on 30 September 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-media-services-face-detect-retirement-on-september-14-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-media-services-face-detect-retirement-on-september-14-2023/",
-          "category": "Media Services",
-          "title": "Azure Media Services Face Detector Retirement on September 14, 2023",
-          "description": "Retirement of the Azure Media Services Face Detector on September 14, 2023",
-          "pubDate": "Fri, 07 Oct 2022 23:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retirement of the Azure Media Services Face Detector on September 14, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-firewall-basic"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-basic/",
-          "title": "Public preview: Azure Firewall Basic",
-          "description": "Azure Firewall Basic provides cost-effective, enterprise-grade network security for small and medium businesses (SMBs).",
-          "pubDate": "Tue, 04 Oct 2022 17:51:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Firewall Basic provides cost-effective, enterprise-grade network security for small and medium businesses (SMBs)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "query-store-hints-for-sql-db-and-sql-mi-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/query-store-hints-for-sql-db-and-sql-mi-ga/",
-          "category": "Tag = Portal",
-          "title": "Generally available: Query Store hints Azure SQL Database, Azure SQL Managed Instance",
-          "description": "Shape your query plans without changing the code.",
-          "pubDate": "Tue, 04 Oct 2022 15:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Shape your query plans without changing the code."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-general-availability-updates-for-september-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-updates-for-september-2022/",
-          "title": "Azure Machine Learning—General availability updates for September 2022",
-          "description": "New features include the ability to establish event-driven notifications and the capability to label data in text documents using text named-identity recognition.",
-          "pubDate": "Mon, 03 Oct 2022 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New features include the ability to establish event-driven notifications and the capability to label data in text documents using text named-identity recognition."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-updates-for-september-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-september-2022/",
-          "title": "Azure Machine Learning—Public preview updates for September 2022",
-          "description": "Includes the ability to control access to sensitive data, the capability to contrast differences to assess their performance, and the functionality to stop idle compute instances automatically.",
-          "pubDate": "Mon, 03 Oct 2022 16:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Includes the ability to control access to sensitive data, the capability to contrast differences to assess their performance, and the functionality to stop idle compute instances automatically."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-smart-tiering-to-vaultarchive-tier-for-azure-backup"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-smart-tiering-to-vaultarchive-tier-for-azure-backup/",
-          "title": "General availability: Smart tiering to vault-archive tier for Azure Backup",
-          "description": "You can now configure your backup policy to move all your eligible and recommended recovery points to vault-archive tier for Azure Virtual Machines, SQL Server/SAP HANA in Azure Virtual Machines.",
-          "pubDate": "Mon, 03 Oct 2022 16:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now configure your backup policy to move all your eligible and recommended recovery points to vault-archive tier for Azure Virtual Machines, SQL Server/SAP HANA in Azure Virtual Machines."
           },
           "content:encoded": null
         }
