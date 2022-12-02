@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 02 Dec 2022 17:13:33 Z",
+      "lastBuildDate": "Fri, 02 Dec 2022 18:17:55 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "community-support-for-azure-functions-proxies-will-end-on-30-september-2025"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025/",
+          "title": "Community support for Azure Functions Proxies will end on 30 September 2025",
+          "description": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.",
+          "pubDate": "Fri, 02 Dec 2022 18:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -537,21 +552,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-synapse-link-for-sql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
-          "title": "Generally available: Azure Synapse Link for SQL",
-          "description": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.",
-          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
@@ -561,6 +561,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-synapse-link-for-sql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
+          "title": "Generally available: Azure Synapse Link for SQL",
+          "description": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.",
+          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
           },
           "content:encoded": null
         },
@@ -2363,6 +2378,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -2373,21 +2403,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -3054,21 +3069,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/",
-          "title": "Generally available: Azure Hybrid Benefit for AKS and Azure Stack HCI",
-          "description": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-customermanaged-keys-for-azure-vmware-solution"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-vmware-solution/",
@@ -3084,15 +3084,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-automanage-for-azure-virtual-machines-and-arcenabled-servers"
+            "#text": "generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-automanage-for-azure-virtual-machines-and-arcenabled-servers/",
-          "title": "Generally available: Azure Automanage for Azure Virtual Machines and Arc-enabled servers",
-          "description": "Announcing the general availability for Azure Automanage with expanded configuration options.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:15 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/",
+          "title": "Generally available: Azure Hybrid Benefit for AKS and Azure Stack HCI",
+          "description": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:16 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Announcing the general availability for Azure Automanage with expanded configuration options."
+            "#text": "We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are."
           },
           "content:encoded": null
         }
