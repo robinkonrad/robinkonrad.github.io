@@ -12,13 +12,32 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 05 Dec 2022 21:13:26 Z",
+      "lastBuildDate": "Mon, 05 Dec 2022 22:14:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-czrazurevms"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-czrazurevms/",
+          "category": [
+            "AzureBackup",
+            "AzureVM"
+          ],
+          "title": "General Availability of Cross Zonal Restore of Azure Virtual Machines from Azure Backup",
+          "description": "Cross Zonal Restore for Azure Virtual Machines helps to restore to any zone of your choice.",
+          "pubDate": "Wed, 30 Nov 2022 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Cross Zonal Restore for Azure Virtual Machines helps to restore to any zone of your choice."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3063,21 +3082,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Enable frontend mutual authentication and listener specific SSL policies on Application Gateway, now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-purview-localization"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-purview-localization/",
-          "title": "General availability: Localization available in Azure Purview",
-          "description": "The Azure Purview UX team has localized Azure Purview studio to 18 languages.",
-          "pubDate": "Tue, 22 Feb 2022 17:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Purview UX team has localized Azure Purview studio to 18 languages."
           },
           "content:encoded": null
         }
