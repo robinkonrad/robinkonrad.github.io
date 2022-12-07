@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 07 Dec 2022 14:13:43 Z",
+      "lastBuildDate": "Wed, 07 Dec 2022 15:15:24 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -376,6 +376,46 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor agent team has shipped custom log collection and IIS log collection."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-premium-series-hardware-for-azure-sql-database-hyperscale"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-premium-series-hardware-for-azure-sql-database-hyperscale/",
+          "category": [
+            "Tag = AzurePortal",
+            "Tag = Azure SQL"
+          ],
+          "title": "Public preview: Premium series hardware for Azure SQL Database Hyperscale",
+          "description": "Leverage new premium-series hardware based on the latest Intel CPUs that offers significantly improved performance and scalability on Azure SQL Database Hyperscale.",
+          "pubDate": "Wed, 30 Nov 2022 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Leverage new premium-series hardware based on the latest Intel CPUs that offers significantly improved performance and scalability on Azure SQL Database Hyperscale."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "private-preview-aks-backup"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/private-preview-aks-backup/",
+          "category": [
+            "Azure Backup",
+            "Azure Kubernetes Service (AKS)",
+            "Service",
+            "Feature"
+          ],
+          "title": "Private preview: Azure Kubernetes Service (AKS) Backup",
+          "description": "Azure Backup is announcing private preview of AKS Backup providing ability to backup and restore AKS clusters.",
+          "pubDate": "Tue, 29 Nov 2022 17:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup is announcing private preview of AKS Backup providing ability to backup and restore AKS clusters."
           },
           "content:encoded": null
         },
@@ -2248,21 +2288,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -2273,6 +2298,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -2939,21 +2979,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
-          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
-          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-container-apps-azure-monitor-integration"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/",
@@ -2963,6 +2988,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
+          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
+          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
           },
           "content:encoded": null
         },
@@ -3055,36 +3095,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Features include controlling/customizing a model’s training code and using Python functions to develop tasks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-functions-support-for-node-12-is-ending-on-13-december-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-functions-support-for-node-12-is-ending-on-13-december-2022/",
-          "title": "Azure Functions support for Node 12 is ending on 13 December 2022",
-          "description": "Update your functions apps to use Azure Functions host version 4 and Node 16.",
-          "pubDate": "Tue, 11 Oct 2022 00:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Update your functions apps to use Azure Functions host version 4 and Node 16."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard/",
-          "title": "Integration Services Environment will be retired on 31 August 2024 – transition to Logic Apps Standard",
-          "description": "Integration service environment in Azure Logic Apps will be retired on 31 August 2024.",
-          "pubDate": "Mon, 10 Oct 2022 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integration service environment in Azure Logic Apps will be retired on 31 August 2024."
           },
           "content:encoded": null
         }
