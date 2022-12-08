@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 07 Dec 2022 23:14:31 Z",
+      "lastBuildDate": "Thu, 08 Dec 2022 01:13:07 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -527,7 +527,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-trigger-for-azure-functions/",
           "title": "Public preview: Azure SQL trigger for Azure Functions",
           "description": "You can invoke an Azure Function when a row in a SQL database is created, updated, or deleted through the Azure SQL trigger for Azure Functions, now available in public preview.",
-          "pubDate": "Thu, 17 Nov 2022 21:00:16 Z",
+          "pubDate": "Thu, 17 Nov 2022 21:00:18 Z",
           "atom:content": {
             "@type": "text",
             "#text": "You can invoke an Azure Function when a row in a SQL database is created, updated, or deleted through the Azure SQL trigger for Azure Functions, now available in public preview."
@@ -587,21 +587,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
-          "title": "Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022",
-          "description": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance.",
-          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-synapse-link-for-sql"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
@@ -611,6 +596,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
+          "title": "Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022",
+          "description": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance.",
+          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
           },
           "content:encoded": null
         },
@@ -2384,6 +2384,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle/",
+          "title": "Public preview: Oracle to Azure migration with Database Migration Assessment for Oracle",
+          "description": "Migrate from Oracle to Azure Database for PostgreSQL with the Database Migration Assessment for Oracle extension available in Azure Data Studio.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:49 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate from Oracle to Azure Database for PostgreSQL with the Database Migration Assessment for Oracle extension available in Azure Data Studio."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server/",
@@ -2659,10 +2674,25 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-managed-service-for-prometheus/",
           "title": "Public preview: Azure Monitor managed service for Prometheus",
           "description": "Azure Monitor's new fully managed Prometheus compatible service delivers the best of what you like about open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:33 Z",
+          "pubDate": "Wed, 12 Oct 2022 16:00:34 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor's new fully managed Prometheus compatible service delivers the best of what you like about open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-rules-for-azure-kubernetes-service-and-log-analytic-workspace-resources"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-rules-for-azure-kubernetes-service-and-log-analytic-workspace-resources/",
+          "title": "Public preview: Rules for Azure Kubernetes Service and Log Analytic workspace resources",
+          "description": "Enable a set of recommended alert rules for your Azure Kubernetes Service and Log Analytics workspace resources.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:33 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable a set of recommended alert rules for your Azure Kubernetes Service and Log Analytics workspace resources."
           },
           "content:encoded": null
         },
@@ -2678,6 +2708,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migration to the cost-effective, secure, performant, and manageable new Azure Monitor agent is now made easy using migration tools and helpers."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-monitor-agent-support-for-windows-clients"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-agent-support-for-windows-clients/",
+          "title": "Generally available: Azure Monitor agent support for Windows clients",
+          "description": "Using the new Windows client installer you can now get the benefits of the new agent and data collection rules on your Windows 10 and 11 client devices.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:31 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Using the new Windows client installer you can now get the benefits of the new agent and data collection rules on your Windows 10 and 11 client devices."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-amd-confidential-vm-guest-attestation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-amd-confidential-vm-guest-attestation/",
+          "title": "General availability: AMD confidential VM guest attestation",
+          "description": "Guest attestation enables verifying the trustworthiness (good state) of the trusted execution environment on which the guest VM is executing.",
+          "pubDate": "Wed, 12 Oct 2022 16:00:30 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Guest attestation enables verifying the trustworthiness (good state) of the trusted execution environment on which the guest VM is executing."
           },
           "content:encoded": null
         },
@@ -3038,66 +3098,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Data Explorer output from Azure Stream Analytics is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-elastic-san"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-elastic-san/",
-          "title": "Public preview: Azure Elastic SAN",
-          "description": "Azure Elastic SAN is industry's first fully managed storage area network (SAN) offering in the cloud providing an end-to-end experience similar to on-premises SAN.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Elastic SAN is industry's first fully managed storage area network (SAN) offering in the cloud providing an end-to-end experience similar to on-premises SAN."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-dapr-support-for-managed-identity-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-dapr-support-for-managed-identity-in-azure-container-apps/",
-          "title": "Generally available: Dapr support for managed identity in Azure Container Apps",
-          "description": "Container Apps now provides support for using Dapr with Managed Identity.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Container Apps now provides support for using Dapr with Managed Identity."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-apps-azure-monitor-integration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-azure-monitor-integration/",
-          "title": "Public preview: Azure Container Apps Azure Monitor integration",
-          "description": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Apps now support using Azure Monitor to send your logs to additional destinations."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-support-for-hybrid-rendering-with-nextjs-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hybrid-rendering-with-nextjs-apps/",
-          "title": "Public preview: Support for hybrid rendering with Next.js apps",
-          "description": "Azure Static Web Apps now supports zero configuration deployment and hosting of hybrid-rendered Next.js applications.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Static Web Apps now supports zero configuration deployment and hosting of hybrid-rendered Next.js applications."
           },
           "content:encoded": null
         }
