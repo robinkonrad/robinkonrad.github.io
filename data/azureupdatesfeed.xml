@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2022 01:13:07 Z</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2022 02:43:48 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -965,9 +965,31 @@
       <link>https://azure.microsoft.com/en-us/updates/iot-hub-gateway-upgrade/</link>
       <title>General availability: IoT Hub Service Upgrade</title>
       <description>All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub.</description>
-      <pubDate>Thu, 03 Nov 2022 19:00:01 Z</pubDate>
+      <pubDate>Thu, 03 Nov 2022 19:00:02 Z</pubDate>
       <atom:content
         type="text">All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines/</link>
+      <title>General availability: Ephemeral OS disk support for confidential virtual machines</title>
+      <description>Create confidential VMs using Ephemeral OS disks for your stateless workloads.</description>
+      <pubDate>Wed, 02 Nov 2022 18:00:48 Z</pubDate>
+      <atom:content
+        type="text">Create confidential VMs using Ephemeral OS disks for your stateless workloads.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-new-azure-maps-creator-feature-dataset-with-geojson</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-azure-maps-creator-feature-dataset-with-geojson/</link>
+      <title>Public preview: New Azure Maps Creator feature - Dataset with GeoJSON</title>
+      <description>Azure Maps Creator enables you to create Indoor Maps with GeoJSON.</description>
+      <pubDate>Wed, 02 Nov 2022 16:00:47 Z</pubDate>
+      <atom:content
+        type="text">Azure Maps Creator enables you to create Indoor Maps with GeoJSON.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -976,7 +998,7 @@
       <link>https://azure.microsoft.com/en-us/updates/generally-available-encrypt-storage-account-with-crosstenant-customermanaged-keys/</link>
       <title>Generally available: Encrypt storage account with cross-tenant customer-managed keys</title>
       <description>Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant.</description>
-      <pubDate>Tue, 01 Nov 2022 21:00:36 Z</pubDate>
+      <pubDate>Tue, 01 Nov 2022 21:00:44 Z</pubDate>
       <atom:content
         type="text">Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant.</atom:content>
       <content:encoded></content:encoded>
@@ -1012,6 +1034,39 @@
       <pubDate>Tue, 01 Nov 2022 16:00:41 Z</pubDate>
       <atom:content
         type="text">Use Device Update for IoT Hub to publish, distribute, and manage over-the-air updates for everything from tiny sensors to gateway-level devices.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-powershell7-python3</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-powershell7-python3/</link>
+      <title>Public preview: Azure Automation supports PowerShell 7.2 and Python 3.10 runbooks</title>
+      <description>Azure Automation now supports runbooks in latest Runtime versions - PowerShell 7.2 and Python 3.10 in public preview. </description>
+      <pubDate>Mon, 31 Oct 2022 17:46:46 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation now supports runbooks in latest Runtime versions - PowerShell 7.2 and Python 3.10 in public preview. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-new-kms-dns-in-azure-us-government-cloud</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-us-government-cloud/</link>
+      <title>Generally available: New KMS DNS in Azure US Government Cloud</title>
+      <description>All Azure Windows VMs provisioned in Azure US Government Cloud after February 1, 2023, will be activated via aazkms.core.usgovcloudapi.net, which points to one new KMS IP address, 52.126.105.2.</description>
+      <pubDate>Mon, 31 Oct 2022 16:00:25 Z</pubDate>
+      <atom:content
+        type="text">All Azure Windows VMs provisioned in Azure US Government Cloud after February 1, 2023, will be activated via aazkms.core.usgovcloudapi.net, which points to one new KMS IP address, 52.126.105.2.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">logic-apps-standard-support-for-functions-runtime-v4</guid>
+      <link>https://azure.microsoft.com/en-us/updates/logic-apps-standard-support-for-functions-runtime-v4/</link>
+      <title>Generally available: Logic Apps Standard Support for Functions Runtime V4</title>
+      <description>Logic apps Standard support for Azure Functions  runtime version 4.x – is now generally available.</description>
+      <pubDate>Mon, 31 Oct 2022 15:00:24 Z</pubDate>
+      <atom:content
+        type="text">Logic apps Standard support for Azure Functions  runtime version 4.x – is now generally available.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1342,6 +1397,17 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">generally-available-merge-command-for-azure-synapse-analytics</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-merge-command-for-azure-synapse-analytics/</link>
+      <title>Generally available: MERGE command for Azure Synapse Analytics</title>
+      <description>Runs insert, update, or delete operations on a target table from the results of a join with a source table.</description>
+      <pubDate>Wed, 26 Oct 2022 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Runs insert, update, or delete operations on a target table from the results of a join with a source table.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">byoip-now-available-in-us-govt-regions</guid>
       <link>https://azure.microsoft.com/en-us/updates/byoip-now-available-in-us-govt-regions/</link>
       <title>Generally available: Custom IP Prefixes (BYOIP) now available in US Government regions</title>
@@ -1415,7 +1481,7 @@
       <link>https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement/</link>
       <title>Cloud Services (classic) deployment model is retiring on 31 August 2024</title>
       <description>Migrate your cloud services to a new deployment model before 31 August 2024.</description>
-      <pubDate>Fri, 21 Oct 2022 22:00:04 Z</pubDate>
+      <pubDate>Fri, 21 Oct 2022 22:00:07 Z</pubDate>
       <atom:content
         type="text">Migrate your cloud services to a new deployment model before 31 August 2024.</atom:content>
       <content:encoded></content:encoded>
@@ -1698,17 +1764,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
-      <title>Generally available: Service Bus Explorer for the Azure portal</title>
-      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
-      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-support-for-hana-system-replication-in-azure-backup-for-hana</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/</link>
       <category>Azure Backup; SAP HANA Backup; HANA System Replication</category>
@@ -1717,6 +1772,17 @@
       <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
       <atom:content
         type="text">Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
+      <title>Generally available: Service Bus Explorer for the Azure portal</title>
+      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
+      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
+      <atom:content
+        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2201,72 +2267,6 @@
       <pubDate>Wed, 12 Oct 2022 16:00:17 Z</pubDate>
       <atom:content
         type="text">Microsoft is announcing the public preview of stretched clusters for Azure VMware Solution, providing 99.99% uptime for customers mission critical applications.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-hybrid-benefit-for-aks-and-azure-stack-hci/</link>
-      <title>Generally available: Azure Hybrid Benefit for AKS and Azure Stack HCI</title>
-      <description>We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:16 Z</pubDate>
-      <atom:content
-        type="text">We are expanding Azure Hybrid Benefit for Windows Server Software Assurance (SA) customers to easily modernize with Azure, wherever they are.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-customermanaged-keys-for-azure-vmware-solution</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-vmware-solution/</link>
-      <title>Public preview: Customer-managed keys for Azure VMware Solution</title>
-      <description>Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:16 Z</pubDate>
-      <atom:content
-        type="text">Microsoft is announcing customer-managed keys for Azure VMware Solution. This new feature will support higher security for customers’ mission critical workloads.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-automanage-for-azure-virtual-machines-and-arcenabled-servers</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-automanage-for-azure-virtual-machines-and-arcenabled-servers/</link>
-      <title>Generally available: Azure Automanage for Azure Virtual Machines and Arc-enabled servers</title>
-      <description>Announcing the general availability for Azure Automanage with expanded configuration options.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:15 Z</pubDate>
-      <atom:content
-        type="text">Announcing the general availability for Azure Automanage with expanded configuration options.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">asa-userassignedidentity-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/asa-userassignedidentity-ga/</link>
-      <title>General availability: User-assigned managed identities for Azure Stream Analytics</title>
-      <description>Azure Stream Analytics currently allows you to use user-assigned managed identities to authenticate your job's inputs and outputs.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">Azure Stream Analytics currently allows you to use user-assigned managed identities to authenticate your job's inputs and outputs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-use-managed-identities-to-access-cosmos-db-from-an-azure-stream-analytics-job</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-use-managed-identities-to-access-cosmos-db-from-an-azure-stream-analytics-job/</link>
-      <title>General availability: Use managed identities to access Cosmos DB from Stream Analytics</title>
-      <description>You can use managed identity to authenticate to your Cosmos DB output from Azure Stream Analytics.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">You can use managed identity to authenticate to your Cosmos DB output from Azure Stream Analytics.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">asa-azuredataexplorer-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/asa-azuredataexplorer-ga/</link>
-      <title>General availability: Azure Data Explorer output from Azure Stream Analytics</title>
-      <description>Azure Data Explorer output from Azure Stream Analytics is now generally available.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:13 Z</pubDate>
-      <atom:content
-        type="text">Azure Data Explorer output from Azure Stream Analytics is now generally available.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
