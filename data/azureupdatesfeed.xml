@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2022 06:19:23 Z</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2022 07:13:36 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-new-memory-optimized-vm-sizes-e96bsv5-and-e112ibsv5</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-memory-optimized-vm-sizes-e96bsv5-and-e112ibsv5/</link>
+      <title>Public preview: New Memory Optimized VM sizes - E96bsv5 and E112ibsv5</title>
+      <description>New VM sizes provide the best remote storage performance of any Azure VMs to date. You can now process more data with fewer vCPUs while potentially reducing software licensing costs. </description>
+      <pubDate>Tue, 06 Dec 2022 20:41:21 Z</pubDate>
+      <atom:content
+        type="text">New VM sizes provide the best remote storage performance of any Azure VMs to date. You can now process more data with fewer vCPUs while potentially reducing software licensing costs. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-azure-site-recovery-update-rollup-65-november-2022</guid>
@@ -32,6 +43,28 @@
       <pubDate>Fri, 02 Dec 2022 18:00:43 Z</pubDate>
       <atom:content
         type="text">Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sphere-support-for-european-data-boundary</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/</link>
+      <title>Public Preview: Azure Sphere support for European Data Boundary</title>
+      <description>Azure Sphere Security Service EU data processing and storage (Public Preview) </description>
+      <pubDate>Fri, 02 Dec 2022 18:00:00 Z</pubDate>
+      <atom:content
+        type="text">Azure Sphere Security Service EU data processing and storage (Public Preview) </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sphere-version-2211</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/</link>
+      <title>General Availability: Azure Sphere version 22.11</title>
+      <description>The Azure Sphere version 22.11 release includes various new features and developer resources.</description>
+      <pubDate>Fri, 02 Dec 2022 18:00:00 Z</pubDate>
+      <atom:content
+        type="text">The Azure Sphere version 22.11 release includes various new features and developer resources.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1764,17 +1797,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
-      <title>Generally available: Service Bus Explorer for the Azure portal</title>
-      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
-      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-support-for-hana-system-replication-in-azure-backup-for-hana</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/</link>
       <category>Azure Backup; SAP HANA Backup; HANA System Replication</category>
@@ -1783,6 +1805,17 @@
       <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
       <atom:content
         type="text">Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
+      <title>Generally available: Service Bus Explorer for the Azure portal</title>
+      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
+      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
+      <atom:content
+        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2234,39 +2267,6 @@
       <pubDate>Wed, 12 Oct 2022 16:00:19 Z</pubDate>
       <atom:content
         type="text">Using the new Isolated v2 SKUs, you can now run larger and more complex workloads.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">in-development-day-0-support-for-net-7</guid>
-      <link>https://azure.microsoft.com/en-us/updates/in-development-day-0-support-for-net-7/</link>
-      <title>In development: Day 0 support for .NET 7</title>
-      <description>Day 0 support for .NET 7.0 on App Service.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:18 Z</pubDate>
-      <atom:content
-        type="text">Day 0 support for .NET 7.0 on App Service.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">in-development-go-language-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/in-development-go-language-support/</link>
-      <title>In development: Go language support</title>
-      <description>Go language (v1.18 and v1.19) natively supported on Azure App Service.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:18 Z</pubDate>
-      <atom:content
-        type="text">Go language (v1.18 and v1.19) natively supported on Azure App Service.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-stretched-clusters-for-azure-vmware-solution</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-stretched-clusters-for-azure-vmware-solution/</link>
-      <title>Public preview: Stretched clusters for Azure VMware Solution</title>
-      <description>Microsoft is announcing the public preview of stretched clusters for Azure VMware Solution, providing 99.99% uptime for customers mission critical applications.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:17 Z</pubDate>
-      <atom:content
-        type="text">Microsoft is announcing the public preview of stretched clusters for Azure VMware Solution, providing 99.99% uptime for customers mission critical applications.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

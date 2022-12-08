@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 08 Dec 2022 06:19:23 Z",
+      "lastBuildDate": "Thu, 08 Dec 2022 07:13:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-new-memory-optimized-vm-sizes-e96bsv5-and-e112ibsv5"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-memory-optimized-vm-sizes-e96bsv5-and-e112ibsv5/",
+          "title": "Public preview: New Memory Optimized VM sizes - E96bsv5 and E112ibsv5",
+          "description": "New VM sizes provide the best remote storage performance of any Azure VMs to date. You can now process more data with fewer vCPUs while potentially reducing software licensing costs.",
+          "pubDate": "Tue, 06 Dec 2022 20:41:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "New VM sizes provide the best remote storage performance of any Azure VMs to date. You can now process more data with fewer vCPUs while potentially reducing software licensing costs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -47,6 +62,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
+          "title": "Public Preview: Azure Sphere support for European Data Boundary",
+          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-version-2211"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
+          "title": "General Availability: Azure Sphere version 22.11",
+          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
           },
           "content:encoded": null
         },
@@ -2413,21 +2458,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -2438,6 +2468,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -3053,51 +3098,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Using the new Isolated v2 SKUs, you can now run larger and more complex workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "in-development-day-0-support-for-net-7"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/in-development-day-0-support-for-net-7/",
-          "title": "In development: Day 0 support for .NET 7",
-          "description": "Day 0 support for .NET 7.0 on App Service.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Day 0 support for .NET 7.0 on App Service."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "in-development-go-language-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/in-development-go-language-support/",
-          "title": "In development: Go language support",
-          "description": "Go language (v1.18 and v1.19) natively supported on Azure App Service.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Go language (v1.18 and v1.19) natively supported on Azure App Service."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-stretched-clusters-for-azure-vmware-solution"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-stretched-clusters-for-azure-vmware-solution/",
-          "title": "Public preview: Stretched clusters for Azure VMware Solution",
-          "description": "Microsoft is announcing the public preview of stretched clusters for Azure VMware Solution, providing 99.99% uptime for customers mission critical applications.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft is announcing the public preview of stretched clusters for Azure VMware Solution, providing 99.99% uptime for customers mission critical applications."
           },
           "content:encoded": null
         }
