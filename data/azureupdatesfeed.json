@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 12 Dec 2022 17:13:28 Z",
+      "lastBuildDate": "Mon, 12 Dec 2022 18:18:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-use-tag-inheritance-for-cost-management"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-use-tag-inheritance-for-cost-management/",
+          "category": "AzurePortal",
+          "title": "Public preview: Use tag inheritance for cost management",
+          "description": "Use tag inheritance preview to automatically apply subscription and resource group tags to child resource usage records.",
+          "pubDate": "Mon, 12 Dec 2022 18:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use tag inheritance preview to automatically apply subscription and resource group tags to child resource usage records."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -31,6 +47,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Retain the latest events of an event log by using compacted event hubs or Kafka topics in Azure Event Hubs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-stream-analytics-nocode-editor-updates-in-december-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-updates-in-december-2022/",
+          "title": "General availability: Stream Analytics no-code editor updates in December 2022",
+          "description": "New features are now available in Stream Analytics no-code editor GA including multiple parameter built-in functions support, Delta Lake format support in ADLS Gen2 output sink.",
+          "pubDate": "Mon, 12 Dec 2022 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "New features are now available in Stream Analytics no-code editor GA including multiple parameter built-in functions support, Delta Lake format support in ADLS Gen2 output sink."
           },
           "content:encoded": null
         },
@@ -3068,36 +3099,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Seamlessly perform conditional forwarding from on-prem to Azure Private DNS Zones and from Azure Virtual Networks to any target DNS server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-ip-protection-sku-for-azure-ddos-protection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-ip-protection-sku-for-azure-ddos-protection/",
-          "title": "Public preview: IP Protection SKU for Azure DDoS Protection",
-          "description": "IP Protection is a new SKU that provides cost-effective, enterprise-grade DDoS protection for SMBs and offers the flexibility to enable protection on an individual public IP.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "IP Protection is a new SKU that provides cost-effective, enterprise-grade DDoS protection for SMBs and offers the flexibility to enable protection on an individual public IP."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-kubernetes-service-hybrid-deployment-options"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/",
-          "title": "Public preview: Azure Kubernetes Service hybrid deployment options",
-          "description": "Azure Kubernetes Service has new hybrid deployment options.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Kubernetes Service has new hybrid deployment options."
           },
           "content:encoded": null
         }

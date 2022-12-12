@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Dec 2022 17:13:28 Z</lastBuildDate>
+    <lastBuildDate>Mon, 12 Dec 2022 18:18:58 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">preview-use-tag-inheritance-for-cost-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/preview-use-tag-inheritance-for-cost-management/</link>
+      <category>AzurePortal</category>
+      <title>Public preview: Use tag inheritance for cost management</title>
+      <description>Use tag inheritance preview to automatically apply subscription and resource group tags to child resource usage records.</description>
+      <pubDate>Mon, 12 Dec 2022 18:00:05 Z</pubDate>
+      <atom:content
+        type="text">Use tag inheritance preview to automatically apply subscription and resource group tags to child resource usage records.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-log-compaction-support-in-azure-event-hubs</guid>
@@ -20,6 +32,17 @@
       <pubDate>Mon, 12 Dec 2022 17:00:05 Z</pubDate>
       <atom:content
         type="text">Retain the latest events of an event log by using compacted event hubs or Kafka topics in Azure Event Hubs. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-stream-analytics-nocode-editor-updates-in-december-2022</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-updates-in-december-2022/</link>
+      <title>General availability: Stream Analytics no-code editor updates in December 2022</title>
+      <description>New features are now available in Stream Analytics no-code editor GA including multiple parameter built-in functions support, Delta Lake format support in ADLS Gen2 output sink.</description>
+      <pubDate>Mon, 12 Dec 2022 17:00:00 Z</pubDate>
+      <atom:content
+        type="text">New features are now available in Stream Analytics no-code editor GA including multiple parameter built-in functions support, Delta Lake format support in ADLS Gen2 output sink.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2245,28 +2268,6 @@
       <pubDate>Wed, 12 Oct 2022 16:00:21 Z</pubDate>
       <atom:content
         type="text">Seamlessly perform conditional forwarding from on-prem to Azure Private DNS Zones and from Azure Virtual Networks to any target DNS server.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-ip-protection-sku-for-azure-ddos-protection</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-ip-protection-sku-for-azure-ddos-protection/</link>
-      <title>Public preview: IP Protection SKU for Azure DDoS Protection</title>
-      <description>IP Protection is a new SKU that provides cost-effective, enterprise-grade DDoS protection for SMBs and offers the flexibility to enable protection on an individual public IP. </description>
-      <pubDate>Wed, 12 Oct 2022 16:00:21 Z</pubDate>
-      <atom:content
-        type="text">IP Protection is a new SKU that provides cost-effective, enterprise-grade DDoS protection for SMBs and offers the flexibility to enable protection on an individual public IP. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-kubernetes-service-hybrid-deployment-options</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-hybrid-deployment-options/</link>
-      <title>Public preview: Azure Kubernetes Service hybrid deployment options</title>
-      <description>Azure Kubernetes Service has new hybrid deployment options.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:20 Z</pubDate>
-      <atom:content
-        type="text">Azure Kubernetes Service has new hybrid deployment options.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
