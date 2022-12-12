@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 12 Dec 2022 16:21:39 Z",
+      "lastBuildDate": "Mon, 12 Dec 2022 17:13:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-log-compaction-support-in-azure-event-hubs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-log-compaction-support-in-azure-event-hubs/",
+          "title": "Public preview: Log compaction support in Azure Event Hubs",
+          "description": "Retain the latest events of an event log by using compacted event hubs or Kafka topics in Azure Event Hubs.",
+          "pubDate": "Mon, 12 Dec 2022 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Retain the latest events of an event log by using compacted event hubs or Kafka topics in Azure Event Hubs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -647,21 +662,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-synapse-link-for-sql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
-          "title": "Generally available: Azure Synapse Link for SQL",
-          "description": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.",
-          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
@@ -671,6 +671,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-synapse-link-for-sql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
+          "title": "Generally available: Azure Synapse Link for SQL",
+          "description": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.",
+          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
           },
           "content:encoded": null
         },
@@ -2473,6 +2488,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -2483,21 +2513,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -3083,21 +3098,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Kubernetes Service has new hybrid deployment options."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-planned-maintenance-feature-for-app-service-environment-v3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-planned-maintenance-feature-for-app-service-environment-v3/",
-          "title": "Public preview: Planned maintenance feature for App Service Environment v3",
-          "description": "Get a notification 15 days ahead of planned automatic maintenance and start the maintenance when it is convenient for you.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Get a notification 15 days ahead of planned automatic maintenance and start the maintenance when it is convenient for you."
           },
           "content:encoded": null
         }
