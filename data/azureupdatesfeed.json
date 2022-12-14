@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 14 Dec 2022 22:14:00 Z",
+      "lastBuildDate": "Wed, 14 Dec 2022 23:15:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-yocto-recipes-for-iot-edge-14-lts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-yocto-recipes-for-iot-edge-14-lts/",
-          "title": "General availability: Yocto recipes for IoT Edge 1.4 LTS",
-          "description": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release.",
-          "pubDate": "Wed, 14 Dec 2022 20:04:33 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -167,6 +152,96 @@
           "atom:content": {
             "@type": "text",
             "#text": "Gain powerful tools for working with JSON formatted data in Azure Cache for Redis through the RedisJSON module."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-yocto-recipes-for-iot-edge-14-lts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-yocto-recipes-for-iot-edge-14-lts/",
+          "title": "General availability: Yocto recipes for IoT Edge 1.4 LTS",
+          "description": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release.",
+          "pubDate": "Wed, 14 Dec 2022 17:30:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-site-recovery-higher-churn-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-higher-churn-support/",
+          "title": "Public Preview: Azure Site Recovery Higher Churn Support",
+          "description": "Azure Site Recovery High Churn Support",
+          "pubDate": "Wed, 14 Dec 2022 17:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Site Recovery High Churn Support"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-crosszone-replication"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-crosszone-replication/",
+          "title": "Public preview: Azure NetApp Files cross-zone replication",
+          "description": "Replicate Azure NetApp Files volumes from one availability zone to another in a fast and cost-effective way, protecting your data from unforeseeable zone failures.",
+          "pubDate": "Wed, 14 Dec 2022 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Replicate Azure NetApp Files volumes from one availability zone to another in a fast and cost-effective way, protecting your data from unforeseeable zone failures."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-arc-enabled-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-arc-enabled-azure-container-apps/",
+          "title": "Public preview: Azure Arc enabled Azure Container Apps",
+          "description": "You can now run Azure Container Apps on your own Azure Arc-enabled Kubernetes clusters (AKS and AKS-HCI).",
+          "pubDate": "Wed, 14 Dec 2022 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run Azure Container Apps on your own Azure Arc-enabled Kubernetes clusters (AKS and AKS-HCI)."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-support-for-python-310-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-python-310-2/",
+          "title": "Public preview: Azure Functions support for Python 3.10",
+          "description": "You can now take advantage of Python 3.10 features with Azure Functions.",
+          "pubDate": "Wed, 14 Dec 2022 17:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now take advantage of Python 3.10 features with Azure Functions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-functions-extension-bundle-v4"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-extension-bundle-v4/",
+          "title": "Generally Available: Azure Functions Extension Bundle v4",
+          "description": "The latest Azure Functions Extension Bundle is now generally available.",
+          "pubDate": "Wed, 14 Dec 2022 17:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The latest Azure Functions Extension Bundle is now generally available."
           },
           "content:encoded": null
         },
@@ -3025,81 +3100,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-expressroute-traffic-collector"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-expressroute-traffic-collector/",
-          "title": "Public preview: ExpressRoute Traffic Collector",
-          "description": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-integration-of-azure-monitor-agent-with-connection-monitor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-integration-of-azure-monitor-agent-with-connection-monitor/",
-          "title": "Public preview: Integration of Azure Monitor Agent with Connection Monitor",
-          "description": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity to ARC enabled endpoints.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity to ARC enabled endpoints."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-migrate-sql-server-migration-assessment-for-migration-or-modernization"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-migrate-sql-server-migration-assessment-for-migration-or-modernization/",
-          "title": "Public preview: Azure Migrate - SQL Server migration assessment for migration or modernization",
-          "description": "Save cost in Azure for your SQL estate through the new unified discovery and assessment feature in Azure Migrate.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Save cost in Azure for your SQL estate through the new unified discovery and assessment feature in Azure Migrate."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-stack-hci-new-features-release"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-stack-hci-new-features-release/",
-          "title": "General availability: Azure Stack HCI new features release",
-          "description": "Get the latest features release, version 22H2, for Azure Stack HCI.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Get the latest features release, version 22H2, for Azure Stack HCI."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-azure-virtual-machine-scale-set-and-spot-virtual-machines-capabilities"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-azure-virtual-machine-scale-set-and-spot-virtual-machines-capabilities/",
-          "title": "Public preview: New Azure Virtual Machine Scale Set and Spot Virtual Machines capabilities",
-          "description": "You can now include standard VMs and Spot VMs in the same Azure Virtual Machine Scale Set. New VM-series are now supported with Virtual Machine Scale Sets flexible orchestration mode.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now include standard VMs and Spot VMs in the same Azure Virtual Machine Scale Set. New VM-series are now supported with Virtual Machine Scale Sets flexible orchestration mode."
           },
           "content:encoded": null
         }
