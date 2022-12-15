@@ -12,13 +12,73 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 15 Dec 2022 22:13:33 Z",
+      "lastBuildDate": "Thu, 15 Dec 2022 23:15:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-crosszone-replication"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-crosszone-replication/",
+          "title": "Public preview: Azure NetApp Files cross-zone replication",
+          "description": "Replicate Azure NetApp Files volumes from one availability zone to another in a fast and cost-effective way, protecting your data from unforeseeable zone failures.",
+          "pubDate": "Thu, 15 Dec 2022 18:08:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Replicate Azure NetApp Files volumes from one availability zone to another in a fast and cost-effective way, protecting your data from unforeseeable zone failures."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-arc-servers-azure-china"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-arc-servers-azure-china/",
+          "title": "General availability: Azure Arc-enabled servers in Azure China",
+          "description": "Secure, govern, and manage your hybrid servers from Azure",
+          "pubDate": "Thu, 15 Dec 2022 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Secure, govern, and manage your hybrid servers from Azure"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-dedicated-host-restart"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-dedicated-host-restart/",
+          "title": "Generally Available: Azure Dedicated Host - Restart",
+          "description": "Introducing Azure dedicated host - Restart functionality",
+          "pubDate": "Thu, 15 Dec 2022 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Introducing Azure dedicated host - Restart functionality"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-feature-enhancements-to-azure-web-application-firewall-waf"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-feature-enhancements-to-azure-web-application-firewall-waf/",
+          "title": "General availability: Feature enhancements to Azure Web Application Firewall (WAF)",
+          "description": "Azure’s WAF now supports multiple new features - SQLi and XSS detection queries, new built-in Azure policies, and increased exclusions limit with support for exclusions on bot manager rule set.",
+          "pubDate": "Thu, 15 Dec 2022 17:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure’s WAF now supports multiple new features - SQLi and XSS detection queries, new built-in Azure policies, and increased exclusions limit with support for exclusions on bot manager rule set."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -47,21 +107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Encrypt your data with customer-managed keys to enable an extra layer of security for data at rest."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-32-tb-storage-in-azure-database-for-postgresql-flexible-server-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-32-tb-storage-in-azure-database-for-postgresql-flexible-server-2/",
-          "title": "General availability: 32 TB storage in Azure Database for PostgreSQL - Flexible Server",
-          "description": "Extend storage up to 32 TB to host databases with a size greater than 16 TB for Azure Database for PostgreSQL – Flexible Server.",
-          "pubDate": "Wed, 14 Dec 2022 18:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Extend storage up to 32 TB to host databases with a size greater than 16 TB for Azure Database for PostgreSQL – Flexible Server."
           },
           "content:encoded": null
         },
@@ -3055,51 +3100,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-expressroute-traffic-collector"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-expressroute-traffic-collector/",
-          "title": "Public preview: ExpressRoute Traffic Collector",
-          "description": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute Traffic Collector enables sampling of network flows sent over ExpressRoute Direct circuits."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-integration-of-azure-monitor-agent-with-connection-monitor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-integration-of-azure-monitor-agent-with-connection-monitor/",
-          "title": "Public preview: Integration of Azure Monitor Agent with Connection Monitor",
-          "description": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity to ARC enabled endpoints.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity to ARC enabled endpoints."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-migrate-sql-server-migration-assessment-for-migration-or-modernization"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-migrate-sql-server-migration-assessment-for-migration-or-modernization/",
-          "title": "Public preview: Azure Migrate - SQL Server migration assessment for migration or modernization",
-          "description": "Save cost in Azure for your SQL estate through the new unified discovery and assessment feature in Azure Migrate.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Save cost in Azure for your SQL estate through the new unified discovery and assessment feature in Azure Migrate."
           },
           "content:encoded": null
         }
