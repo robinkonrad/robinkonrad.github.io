@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 05 Jan 2023 17:13:09 Z",
+      "lastBuildDate": "Thu, 05 Jan 2023 18:18:37 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-apache-log4j2-sink-to-azure-data-explorer"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-apache-log4j2-sink-to-azure-data-explorer/",
+          "title": "General availability: Apache log4J2 sink to Azure Data Explorer",
+          "description": "Azure Data Explorer now supports ingestion of data from Apache Log4j 2.",
+          "pubDate": "Thu, 05 Jan 2023 18:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer now supports ingestion of data from Apache Log4j 2."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2991,21 +3006,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
@@ -3016,6 +3016,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
+          "title": "Generally available: Service Bus Explorer for the Azure portal",
+          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
+          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         },
@@ -3091,21 +3106,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Features include functionality to promote pipelines and models across workspaces, perform data wrangling at scale, shorten training times, and lower set-up costs with Azure Container for PyTorch."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-database-for-mysql-flexible-server-with-amd-compute"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-with-amd-compute/",
-          "title": "General availability: Azure Database for MySQL - Flexible Server with AMD compute",
-          "description": "Take advantage of AMD compute for Azure Database for MySQL – Flexible Server general purpose and business critical tiers, with tuned performance out of the box.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:47 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Take advantage of AMD compute for Azure Database for MySQL – Flexible Server general purpose and business critical tiers, with tuned performance out of the box."
           },
           "content:encoded": null
         }

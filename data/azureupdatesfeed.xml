@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 17:13:09 Z</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2023 18:18:37 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-apache-log4j2-sink-to-azure-data-explorer</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-apache-log4j2-sink-to-azure-data-explorer/</link>
+      <title>General availability: Apache log4J2 sink to Azure Data Explorer</title>
+      <description>Azure Data Explorer now supports ingestion of data from Apache Log4j 2.</description>
+      <pubDate>Thu, 05 Jan 2023 18:00:05 Z</pubDate>
+      <atom:content
+        type="text">Azure Data Explorer now supports ingestion of data from Apache Log4j 2.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-azure-sphere-support-for-european-data-boundary</guid>
@@ -2188,17 +2199,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
-      <title>Generally available: Service Bus Explorer for the Azure portal</title>
-      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
-      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-support-for-hana-system-replication-in-azure-backup-for-hana</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/</link>
       <category>Azure Backup; SAP HANA Backup; HANA System Replication</category>
@@ -2207,6 +2207,17 @@
       <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
       <atom:content
         type="text">Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-service-bus-explorer-for-azure-portal-now-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/</link>
+      <title>Generally available: Service Bus Explorer for the Azure portal</title>
+      <description>Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</description>
+      <pubDate>Wed, 12 Oct 2022 17:00:08 Z</pubDate>
+      <atom:content
+        type="text">Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2262,17 +2273,6 @@
       <pubDate>Wed, 12 Oct 2022 16:00:48 Z</pubDate>
       <atom:content
         type="text">Features include functionality to promote pipelines and models across workspaces, perform data wrangling at scale, shorten training times, and lower set-up costs with Azure Container for PyTorch.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-database-for-mysql-flexible-server-with-amd-compute</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-with-amd-compute/</link>
-      <title>General availability: Azure Database for MySQL - Flexible Server with AMD compute</title>
-      <description>Take advantage of AMD compute for Azure Database for MySQL – Flexible Server general purpose and business critical tiers, with tuned performance out of the box.</description>
-      <pubDate>Wed, 12 Oct 2022 16:00:47 Z</pubDate>
-      <atom:content
-        type="text">Take advantage of AMD compute for Azure Database for MySQL – Flexible Server general purpose and business critical tiers, with tuned performance out of the box.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
