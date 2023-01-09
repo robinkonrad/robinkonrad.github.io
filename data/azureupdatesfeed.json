@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 09 Jan 2023 17:15:40 Z",
+      "lastBuildDate": "Mon, 09 Jan 2023 18:18:52 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "atscale-monitoring-for-azure-site-recovery-with-backup-center"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/atscale-monitoring-for-azure-site-recovery-with-backup-center/",
+          "title": "At-scale monitoring for Azure Site Recovery with Backup center",
+          "description": "The new enhancements released in Backup center enable you to monitor replicated items, jobs and manage them across subscriptions, resource groups and locations from a single view.",
+          "pubDate": "Mon, 09 Jan 2023 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new enhancements released in Backup center enable you to monitor replicated items, jobs and manage them across subscriptions, resource groups and locations from a single view."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -380,6 +395,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "general-availability-yocto-recipes-for-iot-edge-14-lts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-yocto-recipes-for-iot-edge-14-lts/",
+          "title": "General availability: Yocto recipes for IoT Edge 1.4 LTS",
+          "description": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release.",
+          "pubDate": "Wed, 14 Dec 2022 17:30:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-site-recovery-higher-churn-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-higher-churn-support/",
@@ -677,25 +707,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025/",
           "title": "Community support for Azure Functions Proxies will end on 30 September 2025",
           "description": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:42 Z",
+          "pubDate": "Fri, 02 Dec 2022 18:00:43 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
-          "title": "Public Preview: Azure Sphere support for European Data Boundary",
-          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -711,6 +726,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
+          "title": "Public Preview: Azure Sphere support for European Data Boundary",
+          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -3086,37 +3116,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-support-for-hana-system-replication-in-azure-backup-for-hana"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/",
-          "category": "Azure Backup; SAP HANA Backup; HANA System Replication",
-          "title": "Public preview: Support for HANA System Replication in Azure Backup for HANA",
-          "description": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now, if a HANA database fails over with HANA System Replication, backups are automatically continued from the new primary, with Azure Backup for HANA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-ga/",
-          "title": "Generally available: Control the minimum TLS version used with Azure Service Bus",
-          "description": "Configure your Service Bus namespace to require that clients send and receive data with a minimal version of transport layer security (TLS).",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Configure your Service Bus namespace to require that clients send and receive data with a minimal version of transport layer security (TLS)."
           },
           "content:encoded": null
         }
