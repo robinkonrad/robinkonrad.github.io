@@ -12,13 +12,84 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 09 Jan 2023 16:26:41 Z",
+      "lastBuildDate": "Mon, 09 Jan 2023 17:15:40 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "cosmos-db-adx-synapse-link-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/cosmos-db-adx-synapse-link-public-preview/",
+          "category": [
+            "adx",
+            "data-explorer",
+            "kusto",
+            "cosmosdb"
+          ],
+          "title": "Public Preview:  Azure Cosmos DB to Azure Data Explorer Synapse Link",
+          "description": "Now in public preview:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time.",
+          "pubDate": "Mon, 09 Jan 2023 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now in public preview:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-capture-event-hubs-data-with-stream-analytics-nocode-editor-in-delta-lake-format"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-capture-event-hubs-data-with-stream-analytics-nocode-editor-in-delta-lake-format/",
+          "category": [
+            "Stream Analytic",
+            "Even Hub"
+          ],
+          "title": "Public preview: Capture Event Hubs data with Stream Analytics no-code editor in Delta Lake format",
+          "description": "Stream Analytics no-code editor now supports capturing Event Hubs data into ADLS gen2 with Delta Lake format.",
+          "pubDate": "Mon, 09 Jan 2023 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stream Analytics no-code editor now supports capturing Event Hubs data into ADLS gen2 with Delta Lake format."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-vm-backup-fixing-a-known-issue-with-sql-vms"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-vm-backup-fixing-a-known-issue-with-sql-vms/",
+          "category": "Azure VM backup; SQL VMs",
+          "title": "Azure VM backup: General availability updates for Dec, 2022",
+          "description": "Azure VM backup now takes a SQL COPY_ONLY_FULL snapshots in SQL Virtual machines to avoid reset of Log sequence numbers and reduce snapshot delays",
+          "pubDate": "Mon, 09 Jan 2023 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure VM backup now takes a SQL COPY_ONLY_FULL snapshots in SQL Virtual machines to avoid reset of Log sequence numbers and reduce snapshot delays"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-red-hat-openshift-in-brazil-southeast"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-in-brazil-southeast/",
+          "title": "Generally Available: Azure Red Hat OpenShift in Brazil Southeast",
+          "description": "Azure Red Hat OpenShift is now available in Brazil Southeast region.",
+          "pubDate": "Mon, 09 Jan 2023 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Red Hat OpenShift is now available in Brazil Southeast region."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1180,21 +1251,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
-          "title": "Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022",
-          "description": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance.",
-          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-synapse-link-for-sql"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
@@ -1204,6 +1260,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
+          "title": "Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022",
+          "description": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance.",
+          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
           },
           "content:encoded": null
         },
@@ -3046,66 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Configure your Service Bus namespace to require that clients send and receive data with a minimal version of transport layer security (TLS)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-job-diagram-simulator-in-azure-stream-analytics-extension-for-vs-code"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-job-diagram-simulator-in-azure-stream-analytics-extension-for-vs-code/",
-          "title": "Public preview: Job diagram simulator in VS Code",
-          "description": "The job diagram simulator provides a capability to visualize your Stream Analytics job’s topology and help you improve the query’s parallelism as you develop your streaming query.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The job diagram simulator provides a capability to visualize your Stream Analytics job’s topology and help you improve the query’s parallelism as you develop your streaming query."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle/",
-          "title": "Public preview: Oracle to Azure migration with Database Migration Assessment for Oracle",
-          "description": "Migrate from Oracle to Azure Database for PostgreSQL with the Database Migration Assessment for Oracle extension available in Azure Data Studio.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate from Oracle to Azure Database for PostgreSQL with the Database Migration Assessment for Oracle extension available in Azure Data Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Azure Active Directory for Azure Database for PostgreSQL – Flexible Server",
-          "description": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:48 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-updates-for-october-2022ignite"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-october-2022ignite/",
-          "title": "Azure Machine Learning—Public preview updates for October 2022/Ignite",
-          "description": "Features include functionality to promote pipelines and models across workspaces, perform data wrangling at scale, shorten training times, and lower set-up costs with Azure Container for PyTorch.",
-          "pubDate": "Wed, 12 Oct 2022 16:00:48 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Features include functionality to promote pipelines and models across workspaces, perform data wrangling at scale, shorten training times, and lower set-up costs with Azure Container for PyTorch."
           },
           "content:encoded": null
         }
