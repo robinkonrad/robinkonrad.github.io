@@ -12,13 +12,39 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 10 Jan 2023 16:22:53 Z",
+      "lastBuildDate": "Tue, 10 Jan 2023 17:14:49 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-synapse-runtime-for-apache-spark-33"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-runtime-for-apache-spark-33/",
+          "category": [
+            "Apache",
+            "Apache Spark",
+            "Apache Spark 3.3",
+            "Azure Synapse Analytics",
+            "Azure Synapse",
+            "Analytics",
+            "Azure",
+            "Spark",
+            "Spark 3.3"
+          ],
+          "title": "Public preview: Azure Synapse Runtime for Apache Spark 3.3",
+          "description": "You can now create Azure Synapse Runtime for Apache Spark 3.3. The essential changes include features which come from upgrading Apache Spark to version 3.3.1, and upgrading Delta Lake.",
+          "pubDate": "Tue, 10 Jan 2023 17:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now create Azure Synapse Runtime for Apache Spark 3.3. The essential changes include features which come from upgrading Apache Spark to version 3.3.1, and upgrading Delta Lake."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3101,21 +3127,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Deployment Environments has entered public preview and helps dev teams create and manage all types of environments throughout the application lifecycle."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-service-bus-explorer-for-azure-portal-now-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/",
-          "title": "Generally available: Service Bus Explorer for the Azure portal",
-          "description": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer.",
-          "pubDate": "Wed, 12 Oct 2022 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage and work with your messages directly in the portal integrated version of Service Bus Explorer."
           },
           "content:encoded": null
         }
