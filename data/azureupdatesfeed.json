@@ -12,43 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 12 Jan 2023 17:25:48 Z",
+      "lastBuildDate": "Thu, 12 Jan 2023 18:19:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-extension"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-extension/",
-          "title": "Public Preview: Azure Automation Visual Studio Code Extension",
-          "description": "Use the Azure Automation extension to perform local authoring and management of automation runbooks using VS Code",
-          "pubDate": "Thu, 12 Jan 2023 17:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the Azure Automation extension to perform local authoring and management of automation runbooks using VS Code"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-iot-edge-metrics-collector-11"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-iot-edge-metrics-collector-11/",
-          "title": "General availability: IoT Edge Metrics Collector 1.1",
-          "description": "This refresh updates the module's dependencies and base image.",
-          "pubDate": "Thu, 12 Jan 2023 17:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "This refresh updates the module's dependencies and base image."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -496,21 +466,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-yocto-recipes-for-iot-edge-14-lts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-yocto-recipes-for-iot-edge-14-lts/",
-          "title": "General availability: Yocto recipes for IoT Edge 1.4 LTS",
-          "description": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release.",
-          "pubDate": "Wed, 14 Dec 2022 17:30:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-site-recovery-higher-churn-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-higher-churn-support/",
@@ -808,7 +763,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025/",
           "title": "Community support for Azure Functions Proxies will end on 30 September 2025",
           "description": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:43 Z",
+          "pubDate": "Fri, 02 Dec 2022 18:00:42 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies."
@@ -3126,6 +3081,52 @@
           "atom:content": {
             "@type": "text",
             "#text": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-custom-nic-name-configurations-of-private-endpoints"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-custom-nic-name-configurations-of-private-endpoints/",
+          "title": "General availability: Custom network interface name configurations of private endpoints",
+          "description": "Azure private endpoint (PE) support of custom network interface (NIC) names is now generally available. With this feature you can now deploy PE NICs without the GUID suffix.",
+          "pubDate": "Thu, 13 Oct 2022 16:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure private endpoint (PE) support of custom network interface (NIC) names is now generally available. With this feature you can now deploy PE NICs without the GUID suffix."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets/",
+          "title": "General availability: Azure Monitor predictive autoscale for Azure Virtual Machine Scale Sets",
+          "description": "Predictive autoscale manages and scales your virtual machine scale sets by observing and learning from historical CPU usage patterns.",
+          "pubDate": "Thu, 13 Oct 2022 15:10:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Predictive autoscale manages and scales your virtual machine scale sets by observing and learning from historical CPU usage patterns."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-site-recovery-update-rollup-64-october-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-64-october-2022/",
+          "category": "Azure Site Recovery",
+          "title": "Generally available: Azure Site Recovery update rollup 64 - October 2022",
+          "description": "This update provides the improvements for the latest version of Azure Site Recovery components.",
+          "pubDate": "Thu, 13 Oct 2022 15:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This update provides the improvements for the latest version of Azure Site Recovery components."
           },
           "content:encoded": null
         }
