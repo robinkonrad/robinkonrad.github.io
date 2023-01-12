@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jan 2023 21:13:26 Z</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 22:15:04 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-extension</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-extension/</link>
+      <title>Public Preview: Azure Automation Visual Studio Code Extension </title>
+      <description>Use the Azure Automation extension to perform local authoring and management of automation runbooks using VS Code</description>
+      <pubDate>Thu, 12 Jan 2023 17:00:20 Z</pubDate>
+      <atom:content
+        type="text">Use the Azure Automation extension to perform local authoring and management of automation runbooks using VS Code</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-iot-edge-metrics-collector-11</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-iot-edge-metrics-collector-11/</link>
+      <title>General availability: IoT Edge Metrics Collector 1.1</title>
+      <description>This refresh updates the module's dependencies and base image.</description>
+      <pubDate>Thu, 12 Jan 2023 17:00:10 Z</pubDate>
+      <atom:content
+        type="text">This refresh updates the module's dependencies and base image.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">ga-azure-active-directory-authentication-for-exporting-and-importing-managed-disks</guid>
@@ -976,17 +998,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-azure-synapse-link-for-sql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/</link>
-      <title>Generally available: Azure Synapse Link for SQL</title>
-      <description>Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</description>
-      <pubDate>Wed, 16 Nov 2022 16:00:35 Z</pubDate>
-      <atom:content
-        type="text">Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/</link>
       <title>Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022</title>
@@ -994,6 +1005,17 @@
       <pubDate>Wed, 16 Nov 2022 16:00:35 Z</pubDate>
       <atom:content
         type="text">Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-synapse-link-for-sql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/</link>
+      <title>Generally available: Azure Synapse Link for SQL</title>
+      <description>Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</description>
+      <pubDate>Wed, 16 Nov 2022 16:00:35 Z</pubDate>
+      <atom:content
+        type="text">Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2267,29 +2289,6 @@
       <pubDate>Thu, 13 Oct 2022 16:00:20 Z</pubDate>
       <atom:content
         type="text">Azure private endpoint (PE) support of custom network interface (NIC) names is now generally available. With this feature you can now deploy PE NICs without the GUID suffix.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets/</link>
-      <title>General availability: Azure Monitor predictive autoscale for Azure Virtual Machine Scale Sets</title>
-      <description>Predictive autoscale manages and scales your virtual machine scale sets by observing and learning from historical CPU usage patterns. </description>
-      <pubDate>Thu, 13 Oct 2022 15:10:24 Z</pubDate>
-      <atom:content
-        type="text">Predictive autoscale manages and scales your virtual machine scale sets by observing and learning from historical CPU usage patterns. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-site-recovery-update-rollup-64-october-2022</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-64-october-2022/</link>
-      <category>Azure Site Recovery</category>
-      <title>Generally available: Azure Site Recovery update rollup 64 - October 2022 </title>
-      <description>This update provides the improvements for the latest version of Azure Site Recovery components.</description>
-      <pubDate>Thu, 13 Oct 2022 15:00:20 Z</pubDate>
-      <atom:content
-        type="text">This update provides the improvements for the latest version of Azure Site Recovery components.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
