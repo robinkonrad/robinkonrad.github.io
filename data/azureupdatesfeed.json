@@ -12,13 +12,32 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 17 Jan 2023 16:19:52 Z",
+      "lastBuildDate": "Tue, 17 Jan 2023 17:13:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-app-health-extension-rich-health-states"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-health-extension-rich-health-states/",
+          "category": [
+            "Features",
+            "VMSS"
+          ],
+          "title": "Public Preview: Azure App Health Extension - Rich Health States",
+          "description": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications.",
+          "pubDate": "Tue, 17 Jan 2023 17:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3111,21 +3130,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-custom-nic-name-configurations-of-private-endpoints"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-custom-nic-name-configurations-of-private-endpoints/",
-          "title": "General availability: Custom network interface name configurations of private endpoints",
-          "description": "Azure private endpoint (PE) support of custom network interface (NIC) names is now generally available. With this feature you can now deploy PE NICs without the GUID suffix.",
-          "pubDate": "Thu, 13 Oct 2022 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure private endpoint (PE) support of custom network interface (NIC) names is now generally available. With this feature you can now deploy PE NICs without the GUID suffix."
           },
           "content:encoded": null
         }
