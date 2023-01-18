@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 18 Jan 2023 16:20:07 Z",
+      "lastBuildDate": "Wed, 18 Jan 2023 17:13:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "xiaoxuanguomicrosoftcom"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/xiaoxuanguomicrosoftcom/",
+          "title": "Public Preview of Viewing SQL Server Databases via Azure Arc",
+          "description": "Surfaces all the active databases and their configurations for each of the Arc-enabled SQL Servers in Azure.",
+          "pubDate": "Wed, 18 Jan 2023 17:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Surfaces all the active databases and their configurations for each of the Arc-enabled SQL Servers in Azure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-microsoft-purview-access-policies-for-sql-server-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-microsoft-purview-access-policies-for-sql-server-2022/",
+          "title": "Public Preview: Microsoft Purview access policies for SQL Server 2022",
+          "description": "Author policies that govern the access to Active Directory users directly from Azure to all your SQL Server 2022 data sources at scale.",
+          "pubDate": "Wed, 18 Jan 2023 17:00:27 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Author policies that govern the access to Active Directory users directly from Azure to all your SQL Server 2022 data sources at scale."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -837,21 +867,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2211"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
-          "title": "General Availability: Azure Sphere version 22.11",
-          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
@@ -861,6 +876,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-version-2211"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
+          "title": "General Availability: Azure Sphere version 22.11",
+          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
           },
           "content:encoded": null
         },
@@ -3099,37 +3129,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "With Azure NetApp Files application volume group (AVG) for SAP HANA, you are able to deploy all volumes required to install and operate an SAP HANA system according to best practices."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "windows-admin-center-for-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/windows-admin-center-for-azure-virtual-machines/",
-          "title": "Generally available: Windows Admin Center for Azure Virtual Machines",
-          "description": "Windows Admin Center for Azure Virtual Machines is now generally available for you to manage the Operating System of your Windows Server infrastructure in Azure.",
-          "pubDate": "Thu, 13 Oct 2022 16:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Windows Admin Center for Azure Virtual Machines is now generally available for you to manage the Operating System of your Windows Server infrastructure in Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-static-ip-configurations-of-private-endpoints"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-static-ip-configurations-of-private-endpoints/",
-          "category": "AzurePortal",
-          "title": "General availability: Static IP configurations of private endpoints",
-          "description": "Azure private endpoint support of statically defined IP addresses is now generally available allowing you to provide static IP addresses when configuring your private endpoints.",
-          "pubDate": "Thu, 13 Oct 2022 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure private endpoint support of statically defined IP addresses is now generally available allowing you to provide static IP addresses when configuring your private endpoints."
           },
           "content:encoded": null
         }
