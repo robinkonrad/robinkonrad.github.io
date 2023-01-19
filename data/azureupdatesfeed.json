@@ -12,13 +12,32 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 19 Jan 2023 17:14:13 Z",
+      "lastBuildDate": "Thu, 19 Jan 2023 18:18:45 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-app-health-extension-rich-health-states"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-app-health-extension-rich-health-states/",
+          "category": [
+            "Features",
+            "VMSS"
+          ],
+          "title": "Public Preview: Azure App Health Extension - Rich Health States",
+          "description": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications.",
+          "pubDate": "Thu, 19 Jan 2023 18:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3095,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "in-development-introducing-expressroute-metro"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/",
-          "title": "In development: Introducing ExpressRoute Metro",
-          "description": "ExpressRoute Metro enables dedicated, private network connections between Azure datacenters and on-premises using Service providers or directly connecting to Microsoft backbone at two different edge sites in single metropolitan area.",
-          "pubDate": "Fri, 14 Oct 2022 21:19:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute Metro enables dedicated, private network connections between Azure datacenters and on-premises using Service providers or directly connecting to Microsoft backbone at two different edge sites in single metropolitan area."
           },
           "content:encoded": null
         }
