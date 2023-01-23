@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 23 Jan 2023 19:11:55 Z",
+      "lastBuildDate": "Mon, 23 Jan 2023 20:15:35 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "classicvmretirment"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/classicvmretirment/",
+          "title": "Classic VM retirement: extending retirement date to September 1st 2023",
+          "description": "Extended migration period for your IaaS VMs from Azure Service Manager to Azure Resource Manager. Please complete the migration by 1 September 2023.",
+          "pubDate": "Mon, 23 Jan 2023 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Extended migration period for your IaaS VMs from Azure Service Manager to Azure Resource Manager. Please complete the migration by 1 September 2023."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -957,21 +972,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2211"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
-          "title": "General Availability: Azure Sphere version 22.11",
-          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
@@ -981,6 +981,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-version-2211"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
+          "title": "General Availability: Azure Sphere version 22.11",
+          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
           },
           "content:encoded": null
         },
@@ -3098,22 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stream Analytics now supports end-to-end exactly once semantics when writing to Azure Data Lake Storage Gen2."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-stream-analytics-in-one-new-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-one-new-region/",
-          "category": "Azure Stream Analytics",
-          "title": "Generally available: Azure Stream Analytics in one new region",
-          "description": "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data.",
-          "pubDate": "Mon, 17 Oct 2022 15:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Stream Analytics is a fully managed, real-time analytics service designed to help you analyze and process fast moving streams of data."
           },
           "content:encoded": null
         }
