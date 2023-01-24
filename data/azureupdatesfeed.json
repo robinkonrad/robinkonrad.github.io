@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 24 Jan 2023 17:12:54 Z",
+      "lastBuildDate": "Tue, 24 Jan 2023 18:17:35 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "indirect-billing-experience-on-cost-management-and-billing"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/indirect-billing-experience-on-cost-management-and-billing/",
+          "category": "AzurePortal",
+          "title": "Generally available: Indirect enterprise agreement on Azure Cost Management and Billing",
+          "description": "Manage your enrollment hierarchy, view account usage, and monitor costs directly from the Azure Cost Management and Billing menu on the Azure portal (for indirect enterprise agreement customers)",
+          "pubDate": "Tue, 24 Jan 2023 18:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Manage your enrollment hierarchy, view account usage, and monitor costs directly from the Azure Cost Management and Billing menu on the Azure portal (for indirect enterprise agreement customers)"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3094,25 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stream Analytics no-code editor enables you to develop a Stream Analytics job in minutes with drag and drop experience. Now, it is generally available with several new capabilities added."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "auto-extension-upgrade-for-arc-servers"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/auto-extension-upgrade-for-arc-servers/",
-          "category": [
-            "Azure Arc",
-            "Arc enabled Servers"
-          ],
-          "title": "Generally available: Auto Extension upgrade for Arc enabled Servers",
-          "description": "Azure Arc can now provide high availability and automatic protection against zero-day or critical vulnerabilities in Azure extensions to your Arc enabled Servers",
-          "pubDate": "Tue, 18 Oct 2022 17:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Arc can now provide high availability and automatic protection against zero-day or critical vulnerabilities in Azure extensions to your Arc enabled Servers"
           },
           "content:encoded": null
         }
