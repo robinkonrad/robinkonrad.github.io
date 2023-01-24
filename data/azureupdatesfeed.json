@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 24 Jan 2023 16:20:09 Z",
+      "lastBuildDate": "Tue, 24 Jan 2023 17:12:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-application-security-groups-support-for-private-endpoints"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-security-groups-support-for-private-endpoints/",
+          "category": "azure private link",
+          "title": "General availability: Application security groups support for private endpoints",
+          "description": "Application security groups (ASGs) support for private endpoints is now generally available.",
+          "pubDate": "Tue, 24 Jan 2023 17:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application security groups (ASGs) support for private endpoints is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-mount-azure-storage-as-a-local-share-in-app-service-windows-code"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-mount-azure-storage-as-a-local-share-in-app-service-windows-code/",
+          "title": "General availability: Mount Azure Storage as a local share in App Service Windows Code",
+          "description": "Mounting Azure Storage File share as a network share in Windows code (non-container) in App Service is now generally available.",
+          "pubDate": "Tue, 24 Jan 2023 17:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Mounting Azure Storage File share as a network share in Windows code (non-container) in App Service is now generally available."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3082,37 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Arc can now provide high availability and automatic protection against zero-day or critical vulnerabilities in Azure extensions to your Arc enabled Servers"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-savings-plan-for-compute"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-savings-plan-for-compute/",
-          "title": "General availability: Azure savings plan for compute",
-          "description": "Today, we’re officially announcing the general availability for Azure savings plan for compute.",
-          "pubDate": "Tue, 18 Oct 2022 16:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Today, we’re officially announcing the general availability for Azure savings plan for compute."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azurebackupzrssupport"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azurebackupzrssupport/",
-          "category": "Azure Backup",
-          "title": "General availability: Zone-redundant storage support by Azure Backup",
-          "description": "Azure Backup enables you to configure cost-efficient backups while meeting your data residency requirements.",
-          "pubDate": "Mon, 17 Oct 2022 18:21:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup enables you to configure cost-efficient backups while meeting your data residency requirements."
           },
           "content:encoded": null
         }
