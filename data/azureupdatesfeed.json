@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 26 Jan 2023 20:14:31 Z",
+      "lastBuildDate": "Thu, 26 Jan 2023 21:12:47 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -78,6 +78,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Mounting Azure Storage File share as a network share in Windows code (non-container) in App Service is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-5-gib-put-blob"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-5-gib-put-blob/",
+          "title": "General Availability: 5 GB Put Blob",
+          "description": "Maximum Put Blob size is now increasing to 5 GB",
+          "pubDate": "Tue, 24 Jan 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Maximum Put Blob size is now increasing to 5 GB"
           },
           "content:encoded": null
         },
@@ -3095,21 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Data Explorer now supports ingestion of data from many receivers via the OpenTelemetry exporter."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-stream-analytics-nocode-editor-in-event-hubs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/",
-          "title": "General availability: Stream Analytics no-code editor in Event Hubs",
-          "description": "Stream Analytics no-code editor enables you to develop a Stream Analytics job in minutes with drag and drop experience. Now, it is generally available with several new capabilities added.",
-          "pubDate": "Tue, 18 Oct 2022 17:29:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stream Analytics no-code editor enables you to develop a Stream Analytics job in minutes with drag and drop experience. Now, it is generally available with several new capabilities added."
           },
           "content:encoded": null
         }
