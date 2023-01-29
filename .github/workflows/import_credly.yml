@@ -17,7 +17,7 @@ jobs:
       - name: Import credly badges
         uses: michaelcontento/credly2hugo-action@v1
         with: 
-          username: robin-konrad.1eb10cec
+          username: robin-konrad
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
