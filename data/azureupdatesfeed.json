@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 01 Feb 2023 19:12:18 Z",
+      "lastBuildDate": "Wed, 01 Feb 2023 20:15:35 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-microsoft-azure-load-testing-is-now-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-load-testing-is-now-generally-available/",
+          "title": "General Availability: Microsoft Azure Load Testing is now Generally Available",
+          "description": "Azure Load Testing is now Generally Available.  Get started with Azure Load Testing today.",
+          "pubDate": "Wed, 01 Feb 2023 20:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing is now Generally Available.  Get started with Azure Load Testing today."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -136,6 +151,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Digital Twins is now available in 14 Azure regions worldwide including West US 3, Qatar Central, Japan East, and Korea Central."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-red-hat-openshift-on-azure-government-is-now-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-on-azure-government-is-now-generally-available/",
+          "title": "Azure Red Hat OpenShift on Azure Government is now Generally Available",
+          "description": "Azure Red Hat OpenShift is now generally available for Azure Government customers (federal, state, local governments, and their partners).",
+          "pubDate": "Wed, 01 Feb 2023 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Red Hat OpenShift is now generally available for Azure Government customers (federal, state, local governments, and their partners)."
           },
           "content:encoded": null
         },
@@ -3068,36 +3098,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Vertical Pod Autoscaler can help you reduce operational overhead, increase savings and improve stability of your cluster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-ubuntu-2204"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-ubuntu-2204/",
-          "title": "Generally available: AKS support for Ubuntu 22.04",
-          "description": "AKS will start using Ubuntu 22 instead of Ubuntu 18 as the Ubuntu version for node pools.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS will start using Ubuntu 22 instead of Ubuntu 18 as the Ubuntu version for node pools."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-storage-abac-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-storage-abac-ga/",
-          "title": "Generally available: Azure Storage — Attribute-based access control for standard storage accounts",
-          "description": "ABAC for Azure Storage Blobs, ADLS Gen2, and queues is now generally available and can be used for access control by defining conditions on role-assignments based on resource and request attributes.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ABAC for Azure Storage Blobs, ADLS Gen2, and queues is now generally available and can be used for access control by defining conditions on role-assignments based on resource and request attributes."
           },
           "content:encoded": null
         }
