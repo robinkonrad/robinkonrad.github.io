@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 06 Feb 2023 23:14:25 Z",
+      "lastBuildDate": "Tue, 07 Feb 2023 01:12:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -226,6 +226,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Red Hat OpenShift is now generally available for Azure Government customers (federal, state, local governments, and their partners)."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-gen-4-hardware-approaching-end-of-life-31-march-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-gen-4-hardware-approaching-end-of-life-31-march-2023/",
+          "category": "Tag = AzurePortal",
+          "title": "Azure SQL Gen 4 hardware approaching end of life 31 March 2023",
+          "description": "Intel E5-2673 (Haswell) v3-based CPUs used in Gen 4 hardware will no longer be supported after 31 March 2023.  Transition to newer compute hardware for your Azure SQL databases and instances.",
+          "pubDate": "Wed, 01 Feb 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Intel E5-2673 (Haswell) v3-based CPUs used in Gen 4 hardware will no longer be supported after 31 March 2023.  Transition to newer compute hardware for your Azure SQL databases and instances."
           },
           "content:encoded": null
         },
@@ -3083,21 +3099,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Service Operator (ASO) now has an integration with Workload Identity."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-ipvs-load-balancer-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-ipvs-load-balancer-support-in-aks/",
-          "title": "Public preview: IPVS load balancer support in AKS",
-          "description": "You can now use the IP Virtual Server (IPVS) load balancer with AKS, with configurable connection scheduling and TCP/UDP timeouts.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use the IP Virtual Server (IPVS) load balancer with AKS, with configurable connection scheduling and TCP/UDP timeouts."
           },
           "content:encoded": null
         }
