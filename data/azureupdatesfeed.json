@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 07 Feb 2023 17:13:58 Z",
+      "lastBuildDate": "Tue, 07 Feb 2023 18:18:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-find-my-partner"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-find-my-partner/",
+          "title": "Now available: \"Find my partner\" for Azure Data Explorer",
+          "description": "Find partners for Azure Data Explorer. Our new partner program aims to connect customers and partners with ease.",
+          "pubDate": "Tue, 07 Feb 2023 18:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Find partners for Azure Data Explorer. Our new partner program aims to connect customers and partners with ease."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-serverless-realtime-inference-in-azure-databricks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-serverless-realtime-inference-in-azure-databricks/",
+          "title": "Generally Available: Serverless Real-Time Inference in Azure Databricks",
+          "description": "Serverless Real-Time Inference in Azure Databricks for model serving is now generally available.",
+          "pubDate": "Tue, 07 Feb 2023 18:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Serverless Real-Time Inference in Azure Databricks for model serving is now generally available."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3069,36 +3099,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use OpenTelemetry vender-neutral APIs to power distributed tracing and metrics experiences in Azure Monitor Application Insights."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-v2-programming-model-for-azure-functions-using-python"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-v2-programming-model-for-azure-functions-using-python/",
-          "title": "Public preview: V2 programming model for Azure Functions using Python",
-          "description": "Azure Functions V2 programming model for development in Python offers several enhancements.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions V2 programming model for development in Python offers several enhancements."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-csi-extensible-api-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-csi-extensible-api-for-aks/",
-          "title": "Generally available: CSI Extensible API for AKS",
-          "description": "The CSI Extensible API is now generally available in AKS.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The CSI Extensible API is now generally available in AKS."
           },
           "content:encoded": null
         }
