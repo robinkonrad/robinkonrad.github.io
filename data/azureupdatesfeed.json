@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 07 Feb 2023 15:15:15 Z",
+      "lastBuildDate": "Tue, 07 Feb 2023 16:20:27 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "in-development-new-planned-datacenter-region-in-saudi-arabia-saudi-arabia-central"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/in-development-new-planned-datacenter-region-in-saudi-arabia-saudi-arabia-central/",
+          "title": "In development: New planned datacenter region in Saudi Arabia (Saudi Arabia Central)",
+          "description": "The new datacenter region will also include Availability Zones, providing customers with high availability and additional tolerance to datacenter failures.",
+          "pubDate": "Mon, 06 Feb 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new datacenter region will also include Availability Zones, providing customers with high availability and additional tolerance to datacenter failures."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -46,6 +61,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Digital Twins Preview Control-Plane API (2020-03-31-preview) will be retired on 05/02/2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-run-command-execute-powershell-or-shell-scripts-on-virtual-machines-and-scale-sets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-run-command-execute-powershell-or-shell-scripts-on-virtual-machines-and-scale-sets/",
+          "title": "General Availability: Managed Run Command – Execute PowerShell or shell scripts on Virtual Machines and Scale Sets",
+          "description": "The ability to manage VMs by remotely executing scripts has been improved with the updated Managed Run Command feature.",
+          "pubDate": "Thu, 02 Feb 2023 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The ability to manage VMs by remotely executing scripts has been improved with the updated Managed Run Command feature."
           },
           "content:encoded": null
         },
@@ -1870,21 +1900,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-synapse-link-for-sql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
-          "title": "Generally available: Azure Synapse Link for SQL",
-          "description": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.",
-          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
@@ -1894,6 +1909,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-synapse-link-for-sql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
+          "title": "Generally available: Azure Synapse Link for SQL",
+          "description": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines.",
+          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
           },
           "content:encoded": null
         },
@@ -3069,36 +3099,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The CSI Extensible API is now generally available in AKS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "dapr-extension-for-aks-and-arcenabled-kubernetes-now-support-dapr-v190"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/dapr-extension-for-aks-and-arcenabled-kubernetes-now-support-dapr-v190/",
-          "title": "Dapr extension for AKS and Arc-enabled Kubernetes now support Dapr v1.9.0",
-          "description": "Take advantage of the latest features in Dapr v1.9.0 with Dapr extension for AKS and Arc-enabled Kubernetes.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Take advantage of the latest features in Dapr v1.9.0 with Dapr extension for AKS and Arc-enabled Kubernetes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-aso-makes-it-easy-to-manage-database-and-connection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-aso-makes-it-easy-to-manage-database-and-connection/",
-          "title": "Public preview: ASO makes it easy to manage database and connection",
-          "description": "Azure Service Operator (ASO) now has an integration with Workload Identity.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Service Operator (ASO) now has an integration with Workload Identity."
           },
           "content:encoded": null
         }
