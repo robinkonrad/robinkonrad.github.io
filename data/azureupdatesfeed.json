@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 10 Feb 2023 08:19:10 Z",
+      "lastBuildDate": "Fri, 10 Feb 2023 09:15:11 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-os-version-2302-expected-on-february-21"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2302-expected-on-february-21/",
+          "title": "General availability: Azure Sphere OS version 23.02 expected on February 21",
+          "description": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.",
+          "pubDate": "Thu, 09 Feb 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -46,6 +61,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The new datacenter region will also include Availability Zones, providing customers with high availability and additional tolerance to datacenter failures."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-automatic-backup-for-app-service-environment-and-azure-functions-dedicated-hosting"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-automatic-backup-for-app-service-environment-and-azure-functions-dedicated-hosting/",
+          "title": "General availability: Automatic Backup for App Service Environment and Azure Functions Dedicated Hosting",
+          "description": "General availability: Automatic Backup for App Service Environment and Azure Functions Dedicated Hosting",
+          "pubDate": "Mon, 06 Feb 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability: Automatic Backup for App Service Environment and Azure Functions Dedicated Hosting"
           },
           "content:encoded": null
         },
@@ -1366,21 +1396,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2211"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
-          "title": "General Availability: Azure Sphere version 22.11",
-          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
@@ -1390,6 +1405,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-version-2211"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
+          "title": "General Availability: Azure Sphere version 22.11",
+          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
           },
           "content:encoded": null
         },
@@ -3068,37 +3098,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now supports exposing container apps that use a TCP-based protocol other than HTTP or HTTPS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-load-testing-in-west-europe"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-west-europe/",
-          "category": "Azure Load Testing",
-          "title": "Public preview: Azure Load Testing in West Europe",
-          "description": "Azure Load Testing is in public preview in West Europe.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing is in public preview in West Europe."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-metrics-capabilities-in-opentelemetrybased-application-insights"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-metrics-capabilities-in-opentelemetrybased-application-insights/",
-          "title": "Public preview: New metrics capabilities in OpenTelemetry-based Application Insights",
-          "description": "Use OpenTelemetry vender-neutral APIs to power distributed tracing and metrics experiences in Azure Monitor Application Insights.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use OpenTelemetry vender-neutral APIs to power distributed tracing and metrics experiences in Azure Monitor Application Insights."
           },
           "content:encoded": null
         }
