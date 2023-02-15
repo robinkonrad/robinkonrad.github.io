@@ -12,13 +12,343 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 15 Feb 2023 17:14:12 Z",
+      "lastBuildDate": "Wed, 15 Feb 2023 18:18:57 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-serverless-hyperscale-in-azure-sql-database"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-serverless-hyperscale-in-azure-sql-database/",
+          "title": "Public preview: Serverless Hyperscale in Azure SQL Database",
+          "description": "Automatically scale compute based on workload demand using serverless for Hyperscale in Azure SQL Database.",
+          "pubDate": "Wed, 15 Feb 2023 18:02:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Automatically scale compute based on workload demand using serverless for Hyperscale in Azure SQL Database."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-4"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-4/",
+          "title": "Generally Available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits",
+          "description": "Maximum scale-out limits for Functions Linux Premium plans have been increased in several regions.",
+          "pubDate": "Wed, 15 Feb 2023 18:02:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Maximum scale-out limits for Functions Linux Premium plans have been increased in several regions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-availability-zones-support-for-azure-functions-in-new-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-availability-zones-support-for-azure-functions-in-new-regions/",
+          "title": "Generally Available: Availability zones support for Azure Functions in new regions",
+          "description": "You can now use Availability Zones with Azure Functions in Norway East, South Africa North, Switzerland North, and UAE North.",
+          "pubDate": "Wed, 15 Feb 2023 18:02:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Availability Zones with Azure Functions in Norway East, South Africa North, Switzerland North, and UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-durable-functions-support-for-net-isolated-model"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-durable-functions-support-for-net-isolated-model/",
+          "title": "Generally Available: Durable Functions support for .NET isolated model",
+          "description": "Durable Functions support for .NET 7.0 running in the isolated worker process is now generally available.",
+          "pubDate": "Wed, 15 Feb 2023 18:02:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Durable Functions support for .NET 7.0 running in the isolated worker process is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings/",
+          "title": "Public Preview: Azure Monitor container insights offers customizable cost optimization settings",
+          "description": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.",
+          "pubDate": "Wed, 15 Feb 2023 18:01:59 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-communication-services-chat-for-bot-framewor"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-communication-services-chat-for-bot-framewor/",
+          "title": "Public Preview: Azure Communication Services Chat for Bot Framework",
+          "description": "Build conversational AI experiences with Azure Communication Services. Use virtual chat agents to manage growing customer service needs and provide in-chat intelligence with the help of smart assistants.",
+          "pubDate": "Wed, 15 Feb 2023 18:01:57 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Build conversational AI experiences with Azure Communication Services. Use virtual chat agents to manage growing customer service needs and provide in-chat intelligence with the help of smart assistants."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-major-version-upgrade-in-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-major-version-upgrade-in-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Major version upgrade in Azure Database for PostgreSQL – Flexible Server",
+          "description": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server.",
+          "pubDate": "Wed, 15 Feb 2023 18:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-encryption-using-cmk-for-azure-database-for-postgresql-flexible-server-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-cmk-for-azure-database-for-postgresql-flexible-server-2/",
+          "title": "General availability: Encryption using CMK for Azure Database for PostgreSQL – Flexible Server",
+          "description": "Use infrastructure encryption to add an additional layer of encryption for data at rest using customer-managed keys.",
+          "pubDate": "Wed, 15 Feb 2023 18:01:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use infrastructure encryption to add an additional layer of encryption for data at rest using customer-managed keys."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-50k-relationships-per-twin-support-in-azure-digital-twins"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-50k-relationships-per-twin-support-in-azure-digital-twins/",
+          "title": "GA: 50K relationships per twin support in Azure Digital Twins",
+          "description": "ADT Relationship limit increase: 50,000 relationships for a single twin",
+          "pubDate": "Wed, 15 Feb 2023 18:01:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ADT Relationship limit increase: 50,000 relationships for a single twin"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-vbs-enclaves-for-always-encrypted-in-azure-sql-database"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-vbs-enclaves-for-always-encrypted-in-azure-sql-database/",
+          "title": "Public preview: VBS enclaves for Always Encrypted in Azure SQL Database",
+          "description": "VBS enclaves enable you with the flexibility to use Always Encrypted with secure enclaves in all Azure SQL Database offerings.",
+          "pubDate": "Wed, 15 Feb 2023 18:01:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves enable you with the flexibility to use Always Encrypted with secure enclaves in all Azure SQL Database offerings."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-jobs-api-to-support-bulk-import-in-azure-digital-twins"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-jobs-api-to-support-bulk-import-in-azure-digital-twins/",
+          "title": "Public Preview: Jobs API to support bulk import in Azure Digital Twins",
+          "description": "Public preview for bulk import support for Azure Digital Twins",
+          "pubDate": "Wed, 15 Feb 2023 18:01:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for bulk import support for Azure Digital Twins"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-cluster-key-index-in-azure-cosmos-db-for-apache-cassandra"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-cluster-key-index-in-azure-cosmos-db-for-apache-cassandra/",
+          "title": "Public preview: Cluster key index in Azure Cosmos DB for Apache Cassandra",
+          "description": "Improve application performance by creating indexes on your cluster key index and run faster queries in Azure Cosmos DB for Apache Cassandra.",
+          "pubDate": "Wed, 15 Feb 2023 18:01:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Improve application performance by creating indexes on your cluster key index and run faster queries in Azure Cosmos DB for Apache Cassandra."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-midfebruary-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midfebruary-2023/",
+          "title": "Azure SQL—General availability updates for mid-February 2023",
+          "description": "General availability enhancements and updates released for Azure SQL in mid-February 20223",
+          "pubDate": "Wed, 15 Feb 2023 18:01:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in mid-February 20223"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-active-directory-for-azure-database-for-postgresql-flexible-server-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-active-directory-for-azure-database-for-postgresql-flexible-server-2/",
+          "title": "General availability: Azure Active Directory for Azure Database for PostgreSQL – Flexible Server",
+          "description": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server.",
+          "pubDate": "Wed, 15 Feb 2023 18:01:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-improved-georeplication-for-azure-cache-for-redis-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-improved-georeplication-for-azure-cache-for-redis-2/",
+          "title": "General availability: Improved geo-replication for Azure Cache for Redis",
+          "description": "Utilize new functionality that makes passive geo-replication more seamless and transparent.",
+          "pubDate": "Wed, 15 Feb 2023 18:00:57 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Utilize new functionality that makes passive geo-replication more seamless and transparent."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-sdk-type-bindings"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sdk-type-bindings/",
+          "title": "Public Preview: SDK type bindings",
+          "description": "Azure Functions .NET isolated worker now supports blob triggers and input bindings.",
+          "pubDate": "Wed, 15 Feb 2023 18:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Functions .NET isolated worker now supports blob triggers and input bindings."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-functions-support-for-python-310"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-python-310/",
+          "title": "Generally available: Azure Functions support for Python 3.10",
+          "description": "You can now develop Python 3.10 apps locally and deploy them to all Azure Functions plans.",
+          "pubDate": "Wed, 15 Feb 2023 18:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now develop Python 3.10 apps locally and deploy them to all Azure Functions plans."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-python-310-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-python-310-support/",
+          "title": "Public preview: Python 3.10 Support",
+          "description": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications.",
+          "pubDate": "Wed, 15 Feb 2023 18:00:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-upgrade-scheduler"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-upgrade-scheduler/",
+          "title": "Public preview: Upgrade scheduler",
+          "description": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility.",
+          "pubDate": "Wed, 15 Feb 2023 18:00:32 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-new-generalpurpose-vms-dlsv5-and-dldsv5"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generalpurpose-vms-dlsv5-and-dldsv5/",
+          "title": "Public preview: New General-Purpose VMs - Dlsv5 and Dldsv5",
+          "description": "The Dlsv5 and Dldsv5 VM series provide 2GiBs per vCPU and can offer lower price points within the general-purpose Azure Virtual Machines portfolio.",
+          "pubDate": "Wed, 15 Feb 2023 18:00:26 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Dlsv5 and Dldsv5 VM series provide 2GiBs per vCPU and can offer lower price points within the general-purpose Azure Virtual Machines portfolio."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-import-jobs-api-support-in-azure-digital-twins"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-import-jobs-api-support-in-azure-digital-twins/",
+          "title": "Public Preview: Import Jobs API Support in Azure Digital Twins",
+          "description": "Public preview for bulk import support for Azure Digital Twins",
+          "pubDate": "Wed, 15 Feb 2023 18:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for bulk import support for Azure Digital Twins"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-digital-twins-connector-for-microsoft-power-platform"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-digital-twins-connector-for-microsoft-power-platform/",
+          "title": "Public preview: Azure Digital Twins connector for Microsoft Power Platform",
+          "description": "Azure Digital Twins connector for Microsoft Power Platform in Public Preview",
+          "pubDate": "Wed, 15 Feb 2023 18:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Digital Twins connector for Microsoft Power Platform in Public Preview"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1074,6 +1404,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "general-availability-yocto-recipes-for-iot-edge-14-lts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-yocto-recipes-for-iot-edge-14-lts/",
+          "title": "General availability: Yocto recipes for IoT Edge 1.4 LTS",
+          "description": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release.",
+          "pubDate": "Wed, 14 Dec 2022 17:30:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-site-recovery-higher-churn-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-higher-churn-support/",
@@ -1371,25 +1716,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025/",
           "title": "Community support for Azure Functions Proxies will end on 30 September 2025",
           "description": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:42 Z",
+          "pubDate": "Fri, 02 Dec 2022 18:00:43 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
-          "title": "Public Preview: Azure Sphere support for European Data Boundary",
-          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -1405,6 +1735,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
+          "title": "Public Preview: Azure Sphere support for European Data Boundary",
+          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -1945,21 +2290,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
-          "title": "Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022",
-          "description": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance.",
-          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-synapse-link-for-sql"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-synapse-link-for-sql/",
@@ -1969,6 +2299,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Synapse Link for SQL enables seamless near-real-time data movement from relational sources in Azure SQL Database and SQL Server 2022 to analytical stores without needing to build ETL pipelines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-sql-managed-instance-backup-portability-to-sql-server-2022/",
+          "title": "Generally available: Azure SQL Managed Instance backup portability to SQL Server 2022",
+          "description": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance.",
+          "pubDate": "Wed, 16 Nov 2022 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Backup of your Azure SQL Managed Instance database can now be restored to a SQL Server 2022 instance."
           },
           "content:encoded": null
         },
@@ -2743,362 +3088,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Secure your digital payment system in the cloud with Azure Payment HSM."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-databricks-sql-pro"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-databricks-sql-pro/",
-          "title": "Generally available: Azure Databricks SQL Pro",
-          "description": "Beginning in November, Azure Databricks customers have an additional option for SQL compute, with Azure Databricks SQL Pro, which provides enhanced performance and integration features.",
-          "pubDate": "Tue, 01 Nov 2022 16:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Beginning in November, Azure Databricks customers have an additional option for SQL compute, with Azure Databricks SQL Pro, which provides enhanced performance and integration features."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-device-update-for-iot-hub"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-device-update-for-iot-hub/",
-          "title": "Generally available: Device Update for IoT Hub",
-          "description": "Use Device Update for IoT Hub to publish, distribute, and manage over-the-air updates for everything from tiny sensors to gateway-level devices.",
-          "pubDate": "Tue, 01 Nov 2022 16:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use Device Update for IoT Hub to publish, distribute, and manage over-the-air updates for everything from tiny sensors to gateway-level devices."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-powershell7-python3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-powershell7-python3/",
-          "title": "Public preview: Azure Automation supports PowerShell 7.2 and Python 3.10 runbooks",
-          "description": "Azure Automation now supports runbooks in latest Runtime versions - PowerShell 7.2 and Python 3.10 in public preview.",
-          "pubDate": "Mon, 31 Oct 2022 17:46:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation now supports runbooks in latest Runtime versions - PowerShell 7.2 and Python 3.10 in public preview."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-new-kms-dns-in-azure-us-government-cloud"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-us-government-cloud/",
-          "title": "Generally available: New KMS DNS in Azure US Government Cloud",
-          "description": "All Azure Windows VMs provisioned in Azure US Government Cloud after February 1, 2023, will be activated via aazkms.core.usgovcloudapi.net, which points to one new KMS IP address, 52.126.105.2.",
-          "pubDate": "Mon, 31 Oct 2022 16:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "All Azure Windows VMs provisioned in Azure US Government Cloud after February 1, 2023, will be activated via aazkms.core.usgovcloudapi.net, which points to one new KMS IP address, 52.126.105.2."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "logic-apps-standard-support-for-functions-runtime-v4"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/logic-apps-standard-support-for-functions-runtime-v4/",
-          "title": "Generally available: Logic Apps Standard Support for Functions Runtime V4",
-          "description": "Logic apps Standard support for Azure Functions  runtime version 4.x – is now generally available.",
-          "pubDate": "Mon, 31 Oct 2022 15:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Logic apps Standard support for Azure Functions  runtime version 4.x – is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "api-versions-being-retired-for-azure-api-management"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/api-versions-being-retired-for-azure-api-management/",
-          "title": "API versions being retired for Azure API Management",
-          "description": "On 30 September 2023, all API versions prior to 2021-08-01 will be retired and API calls using those API versions will fail.",
-          "pubDate": "Fri, 28 Oct 2022 23:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "On 30 September 2023, all API versions prior to 2021-08-01 will be retired and API calls using those API versions will fail."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "review-your-vnet-configurations-in-switzerland-north-that-may-be-affected-by-ip-address-changes"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/review-your-vnet-configurations-in-switzerland-north-that-may-be-affected-by-ip-address-changes/",
-          "title": "Review your VNET configurations in Switzerland North that may be affected by IP address changes",
-          "description": "On 30 September 2023 we're making the resource providers for Azure API Management zone redundant in each region.",
-          "pubDate": "Fri, 28 Oct 2022 23:00:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "On 30 September 2023 we're making the resource providers for Azure API Management zone redundant in each region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-sap-s4hana-events-are-now-available-on-azure-event-grid"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sap-s4hana-events-are-now-available-on-azure-event-grid/",
-          "title": "Public preview: SAP S/4HANA events are now available on Azure Event Grid",
-          "description": "Integrate your apps using Event Grid and SAP S/4HANA events.",
-          "pubDate": "Thu, 27 Oct 2022 22:01:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integrate your apps using Event Grid and SAP S/4HANA events."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-os-version-2210"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210/",
-          "title": "General availability: Azure Sphere OS version 22.10",
-          "description": "This quality release includes bug fixes in the Azure Sphere OS.",
-          "pubDate": "Wed, 26 Oct 2022 19:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "This quality release includes bug fixes in the Azure Sphere OS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-communication-services-short-code-functionality-for-sms"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-communication-services-short-code-functionality-for-sms/",
-          "category": [
-            "SMS",
-            "Logic Apps",
-            "Short Codes"
-          ],
-          "title": "Generally available: Azure Communication Services short code functionality for SMS",
-          "description": "Execute high-volume SMS campaigns in seconds with easy, automated short code functionality.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Execute high-volume SMS campaigns in seconds with easy, automated short code functionality."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-late-october-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-october-2022/",
-          "title": "Azure SQL—General availability updates for late October 2022",
-          "description": "General availability enhancements and updates released for Azure SQL in late October 2022.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL in late October 2022."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-load-testing-supports-authenticating-with-client-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-authenticating-with-client-certificates/",
-          "category": "Azure Load Testing",
-          "title": "Public preview: Azure Load Testing supports authenticating with client certificates",
-          "description": "Azure Load Testing now enables you to authenticate to application endpoints which require a client certificate for authentication.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now enables you to authenticate to application endpoints which require a client certificate for authentication."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-public-preview-updates-for-late-october-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-october-2022/",
-          "title": "Azure SQL—Public preview updates for late October 2022",
-          "description": "Public preview enhancements and updates released for Azure SQL in late October 2022.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in late October 2022."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-read-replicas-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-read-replicas-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Read replicas for Azure Database for PostgreSQL Flexible Server",
-          "description": "Read replicas are used to offload read workloads and for disaster recovery scenarios in Azure Database for PostgreSQL – Flexible Server, a managed service running the open source Postgres database.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Read replicas are used to offload read workloads and for disaster recovery scenarios in Azure Database for PostgreSQL – Flexible Server, a managed service running the open source Postgres database."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-improved-passive-georeplication-for-azure-cache-for-redis"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-improved-passive-georeplication-for-azure-cache-for-redis/",
-          "title": "Public preview: Improved passive geo-replication for Azure Cache for Redis",
-          "description": "Utilize new functionality that makes passive geo-replication more seamless and transparent.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Utilize new functionality that makes passive geo-replication more seamless and transparent."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-cosmos-db-for-mongodb-data-plane-rbac"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-mongodb-data-plane-rbac/",
-          "title": "General availability: Azure Cosmos DB for MongoDB data plane RBAC",
-          "description": "Create users and roles and configure fine-grained access to your database account data for Azure Cosmos DB for MongoDB data plane.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Create users and roles and configure fine-grained access to your database account data for Azure Cosmos DB for MongoDB data plane."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cni-powered-by-cilium"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-powered-by-cilium/",
-          "title": "Public preview: Azure CNI Powered by Cilium",
-          "description": "Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-synapse-link-for-azure-cosmos-db-gremlin-api"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-link-for-azure-cosmos-db-gremlin-api/",
-          "title": "Public preview: Azure Synapse Link for Azure Cosmos DB Gremlin API",
-          "description": "Unlock near real time analytics on your graph data with Azure Synapse Link for Azure Cosmos DB Gremlin API.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Unlock near real time analytics on your graph data with Azure Synapse Link for Azure Cosmos DB Gremlin API."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-mariner-container-optimized-os"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-mariner-container-optimized-os/",
-          "title": "Public preview: Mariner container optimized OS",
-          "description": "Get reliability and consistency from cloud to edge across the AKS using the Mariner container optimized OS.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Get reliability and consistency from cloud to edge across the AKS using the Mariner container optimized OS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-load-testing-is-now-hitrust-certified"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-is-now-hitrust-certified/",
-          "category": [
-            "Azure Load Testing",
-            "Compliance"
-          ],
-          "title": "Public preview: Azure Load Testing is now HITRUST certified",
-          "description": "Azure Load Testing is now HITRUST certified.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing is now HITRUST certified."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-k8s-125-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-k8s-125-support/",
-          "title": "Public preview: K8s 1.25 support",
-          "description": "You can now benefit from the latest features in Kubernetes version 1.25.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now benefit from the latest features in Kubernetes version 1.25."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-tcp-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-tcp-support/",
-          "title": "Public preview: TCP support",
-          "description": "Azure Container Apps now supports exposing container apps that use a TCP-based protocol other than HTTP or HTTPS.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Apps now supports exposing container apps that use a TCP-based protocol other than HTTP or HTTPS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-load-testing-in-west-europe"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-west-europe/",
-          "category": "Azure Load Testing",
-          "title": "Public preview: Azure Load Testing in West Europe",
-          "description": "Azure Load Testing is in public preview in West Europe.",
-          "pubDate": "Wed, 26 Oct 2022 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing is in public preview in West Europe."
           },
           "content:encoded": null
         }
