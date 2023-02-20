@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 20 Feb 2023 17:13:49 Z",
+      "lastBuildDate": "Mon, 20 Feb 2023 18:18:19 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-new-generalpurpose-vms-dlsv5-and-dldsv5"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generalpurpose-vms-dlsv5-and-dldsv5/",
+          "title": "Public preview: New General-Purpose VMs - Dlsv5 and Dldsv5",
+          "description": "The Dlsv5 and Dldsv5 VM series provide 2GiBs per vCPU and can offer lower price points within the general-purpose Azure Virtual Machines portfolio.",
+          "pubDate": "Mon, 20 Feb 2023 18:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Dlsv5 and Dldsv5 VM series provide 2GiBs per vCPU and can offer lower price points within the general-purpose Azure Virtual Machines portfolio."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3073,21 +3088,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Storage now supports customer-managed keys using a key vault on a different Azure Active Directory tenant."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-microsoft-azure-payment-hsm-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-payment-hsm-service/",
-          "title": "General availability: Microsoft Azure Payment HSM Service",
-          "description": "Secure your digital payment system in the cloud with Azure Payment HSM.",
-          "pubDate": "Tue, 01 Nov 2022 17:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Secure your digital payment system in the cloud with Azure Payment HSM."
           },
           "content:encoded": null
         }
