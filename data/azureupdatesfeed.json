@@ -12,13 +12,74 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 21 Feb 2023 17:13:57 Z",
+      "lastBuildDate": "Tue, 21 Feb 2023 18:18:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-iot-edge-supports-ubuntu-2204"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-iot-edge-supports-ubuntu-2204/",
+          "title": "General availability: Azure IoT Edge supports Ubuntu 22.04",
+          "description": "The latest Azure IoT Edge releases provide official packages for Ubuntu 22.04 on AMD64 and ARM64 devices.",
+          "pubDate": "Tue, 21 Feb 2023 18:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The latest Azure IoT Edge releases provide official packages for Ubuntu 22.04 on AMD64 and ARM64 devices."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-query-go"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-query-go/",
+          "title": "Now Available: Azure Monitor Query client module for Go",
+          "description": "The initial stable release of the Azure Monitor Query module for Go is now available. Build apps that perform read-only queries in Azure Monitor's Logs and Metrics platforms.",
+          "pubDate": "Tue, 21 Feb 2023 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The initial stable release of the Azure Monitor Query module for Go is now available. Build apps that perform read-only queries in Azure Monitor's Logs and Metrics platforms."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adxdashboards"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adxdashboards/",
+          "category": "Azure Data Explorer",
+          "title": "General availability: Azure Data Explorer Dashboards",
+          "description": "We are thrilled to announce the much-anticipated General Availability of ADX Dashboards!",
+          "pubDate": "Tue, 21 Feb 2023 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are thrilled to announce the much-anticipated General Availability of ADX Dashboards!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-data-encryption-at-rest-of-azure-netapp-files-volumes-with-customermanaged-keys-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-data-encryption-at-rest-of-azure-netapp-files-volumes-with-customermanaged-keys-2/",
+          "title": "Public Preview: Customer-managed keys for Azure NetApp Files volume encryption",
+          "description": "Azure NetApp Files volumes now support encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.",
+          "pubDate": "Tue, 21 Feb 2023 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files volumes now support encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -328,7 +389,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-upgrade-scheduler/",
           "title": "Public preview: Upgrade scheduler",
           "description": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:32 Z",
+          "pubDate": "Wed, 15 Feb 2023 18:00:35 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility."
@@ -443,21 +504,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-digital-twins-controlplane-preview-api-retirement-20210631"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20210631/",
-          "title": "Azure Digital Twins Control-Plane Preview API Retirement (2021-06-31)",
-          "description": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired.",
-          "pubDate": "Sat, 04 Feb 2023 00:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-digital-twins-controlplane-preview-api-retirement-20200331"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20200331/",
@@ -467,6 +513,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Digital Twins Preview Control-Plane API (2020-03-31-preview) will be retired on 05/02/2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-digital-twins-controlplane-preview-api-retirement-20210631"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20210631/",
+          "title": "Azure Digital Twins Control-Plane Preview API Retirement (2021-06-31)",
+          "description": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired.",
+          "pubDate": "Sat, 04 Feb 2023 00:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired."
           },
           "content:encoded": null
         },
@@ -1435,21 +1496,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-yocto-recipes-for-iot-edge-14-lts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-yocto-recipes-for-iot-edge-14-lts/",
-          "title": "General availability: Yocto recipes for IoT Edge 1.4 LTS",
-          "description": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release.",
-          "pubDate": "Wed, 14 Dec 2022 17:30:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-site-recovery-higher-churn-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-higher-churn-support/",
@@ -1747,25 +1793,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025/",
           "title": "Community support for Azure Functions Proxies will end on 30 September 2025",
           "description": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:43 Z",
+          "pubDate": "Fri, 02 Dec 2022 18:00:42 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2211"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
-          "title": "General Availability: Azure Sphere version 22.11",
-          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
           },
           "content:encoded": null
         },
@@ -1781,6 +1812,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-version-2211"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
+          "title": "General Availability: Azure Sphere version 22.11",
+          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
           },
           "content:encoded": null
         },
@@ -3044,51 +3090,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Deprecation notice: transition from Azure MFA Server to Azure MFA by 30 September 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "iot-hub-gateway-upgrade"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/iot-hub-gateway-upgrade/",
-          "title": "General availability: IoT Hub Service Upgrade",
-          "description": "All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub.",
-          "pubDate": "Thu, 03 Nov 2022 19:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "All IoT Hubs will be going through a service upgrade between November 2022 and April 2023 with potential impact to your IoT Hub."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ephemeral-os-disk-support-for-confidential-virtual-machines/",
-          "title": "General availability: Ephemeral OS disk support for confidential virtual machines",
-          "description": "Create confidential VMs using Ephemeral OS disks for your stateless workloads.",
-          "pubDate": "Wed, 02 Nov 2022 18:00:48 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Create confidential VMs using Ephemeral OS disks for your stateless workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-azure-maps-creator-feature-dataset-with-geojson"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-azure-maps-creator-feature-dataset-with-geojson/",
-          "title": "Public preview: New Azure Maps Creator feature - Dataset with GeoJSON",
-          "description": "Azure Maps Creator enables you to create Indoor Maps with GeoJSON.",
-          "pubDate": "Wed, 02 Nov 2022 16:00:47 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Maps Creator enables you to create Indoor Maps with GeoJSON."
           },
           "content:encoded": null
         }
