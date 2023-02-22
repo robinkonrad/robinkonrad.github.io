@@ -6,11 +6,44 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Feb 2023 17:14:00 Z</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2023 18:19:00 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">ga-create-disks-from-cmkencrypted-snapshots-across-subscriptions-and-in-the-same-tenant</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-create-disks-from-cmkencrypted-snapshots-across-subscriptions-and-in-the-same-tenant/</link>
+      <title>GA: Create disks from CMK-encrypted snapshots across subscriptions and in the same tenant</title>
+      <description>To ease manageability, we are making disks encrypted with customer-managed keys (CMK) more flexible by allowing creation of disks and snapshots from CMK-encrypted source across subscriptions. </description>
+      <pubDate>Wed, 22 Feb 2023 18:00:31 Z</pubDate>
+      <atom:content
+        type="text">To ease manageability, we are making disks encrypted with customer-managed keys (CMK) more flexible by allowing creation of disks and snapshots from CMK-encrypted source across subscriptions. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-managed-lustre-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-managed-lustre-now-in-public-preview/</link>
+      <title>Public preview:  Azure Managed Lustre</title>
+      <description>Accelerate HPC and AI workloads with a managed parallel file system</description>
+      <pubDate>Wed, 22 Feb 2023 18:00:24 Z</pubDate>
+      <atom:content
+        type="text">Accelerate HPC and AI workloads with a managed parallel file system</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sphere-os-version-2302</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2302/</link>
+      <title>General availability: Azure Sphere OS version 23.02</title>
+      <description>This quality release includes bug fixes in the Azure Sphere OS.</description>
+      <pubDate>Wed, 22 Feb 2023 18:00:23 Z</pubDate>
+      <atom:content
+        type="text">This quality release includes bug fixes in the Azure Sphere OS.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-azure-netapp-files-support-for-2tib-capacity-pools</guid>
@@ -2240,39 +2273,6 @@
       <pubDate>Tue, 08 Nov 2022 17:00:10 Z</pubDate>
       <atom:content
         type="text">Optimize workloads with new node sizes, AV52, and AV36P, now generally available in Azure VMware Solution.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-virtual-machine-software-reservations</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-virtual-machine-software-reservations/</link>
-      <title>General availability: Virtual Machine software reservations</title>
-      <description>You can now save on Virtual Machine software from third-party publishers by purchasing software reservations.</description>
-      <pubDate>Tue, 08 Nov 2022 15:57:43 Z</pubDate>
-      <atom:content
-        type="text">You can now save on Virtual Machine software from third-party publishers by purchasing software reservations.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">exporting-ise-and-consumption-logic-apps-to-standard-sku-is-now-on-public-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/exporting-ise-and-consumption-logic-apps-to-standard-sku-is-now-on-public-preview/</link>
-      <title>Public preview: Exporting ISE and Consumption Logic Apps to Standard SKU</title>
-      <description>Logic Apps Standard VS Code Extension now allows you to export groups of logic apps workflows deployed to Azure.</description>
-      <pubDate>Mon, 07 Nov 2022 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">Logic Apps Standard VS Code Extension now allows you to export groups of logic apps workflows deployed to Azure.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-default-rule-set-21-for-azure-web-application-firewall</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-default-rule-set-21-for-azure-web-application-firewall/</link>
-      <title>General availability: Default Rule Set 2.1 for Azure Web Application Firewall</title>
-      <description>Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on Azure's global Web Application Firewall running on Azure Front Door.</description>
-      <pubDate>Mon, 07 Nov 2022 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on Azure's global Web Application Firewall running on Azure Front Door.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
