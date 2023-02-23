@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 23 Feb 2023 21:13:56 Z",
+      "lastBuildDate": "Thu, 23 Feb 2023 22:14:43 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-volume-user-and-group-quotas"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-user-and-group-quotas/",
+          "title": "Public Preview: Azure NetApp Files volume user and group quotas",
+          "description": "Azure NetApp Files now supports volume user and group quotas to manage storage utilization on a per user or group basis",
+          "pubDate": "Thu, 23 Feb 2023 22:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files now supports volume user and group quotas to manage storage utilization on a per user or group basis"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3075,21 +3090,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics Tables can now be managed from the tables entry of Azure Portal in Log Analytics workspaces."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-availability-zones"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-availability-zones/",
-          "title": "General availability: Azure Automation supports Availability zones",
-          "description": "Azure Automation now supports Availability zones to provide improved resiliency and reliability to the service, runbooks and other automation assets.",
-          "pubDate": "Wed, 09 Nov 2022 17:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation now supports Availability zones to provide improved resiliency and reliability to the service, runbooks and other automation assets."
           },
           "content:encoded": null
         }
