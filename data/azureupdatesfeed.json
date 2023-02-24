@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 23 Feb 2023 23:16:10 Z",
+      "lastBuildDate": "Fri, 24 Feb 2023 01:15:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-volume-user-and-group-quotas"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-user-and-group-quotas/",
-          "title": "Public Preview: Azure NetApp Files volume user and group quotas",
-          "description": "Azure NetApp Files now supports volume user and group quotas to manage storage utilization on a per user or group basis",
-          "pubDate": "Thu, 23 Feb 2023 22:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files now supports volume user and group quotas to manage storage utilization on a per user or group basis"
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -57,7 +42,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-incremental-snapshots-for-premium-ssd-v2-disk-storage/",
           "title": "Public preview: Incremental snapshots for Premium SSD v2 Disk Storage",
           "description": "To ensure business continuity, incremental snapshots for Premium SSD V2 Disk Storage are now available in public preview in the US East and West Europe Azure region",
-          "pubDate": "Thu, 23 Feb 2023 18:00:29 Z",
+          "pubDate": "Thu, 23 Feb 2023 18:00:31 Z",
           "atom:content": {
             "@type": "text",
             "#text": "To ensure business continuity, incremental snapshots for Premium SSD V2 Disk Storage are now available in public preview in the US East and West Europe Azure region"
@@ -72,25 +57,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-in-qatar-central/",
           "title": "Generally Available: Azure Red Hat OpenShift in Qatar Central",
           "description": "Azure Red Hat OpenShift is now available in Qatar Central region.",
-          "pubDate": "Thu, 23 Feb 2023 18:00:21 Z",
+          "pubDate": "Thu, 23 Feb 2023 18:00:29 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Red Hat OpenShift is now available in Qatar Central region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "larger-skus-for-app-service-environment-v3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/larger-skus-for-app-service-environment-v3/",
-          "title": "Generally Available: Larger SKUs for App Service Environment v3",
-          "description": "Using the new larger Isolated v2 SKUs, you can now run larger and more complex workloads.",
-          "pubDate": "Thu, 23 Feb 2023 18:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Using the new larger Isolated v2 SKUs, you can now run larger and more complex workloads."
           },
           "content:encoded": null
         },
@@ -151,21 +121,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "This quality release includes bug fixes in the Azure Sphere OS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-support-for-2tib-capacity-pools"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-support-for-2tib-capacity-pools/",
-          "title": "Public Preview: Azure NetApp Files support for 2TiB capacity pools",
-          "description": "Azure NetApp Files now supports smaller 2TiB capacity pool sizes, lowered from 4TiB, when used with volumes using standard network features.",
-          "pubDate": "Tue, 21 Feb 2023 22:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files now supports smaller 2TiB capacity pool sizes, lowered from 4TiB, when used with volumes using standard network features."
           },
           "content:encoded": null
         },
@@ -539,7 +494,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-upgrade-scheduler/",
           "title": "Public preview: Upgrade scheduler",
           "description": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:35 Z",
+          "pubDate": "Wed, 15 Feb 2023 18:00:32 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility."
@@ -654,21 +609,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-digital-twins-controlplane-preview-api-retirement-20200331"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20200331/",
-          "title": "Azure Digital Twins Control-Plane Preview API Retirement (2020-03-31)",
-          "description": "Azure Digital Twins Preview Control-Plane API (2020-03-31-preview) will be retired on 05/02/2023",
-          "pubDate": "Sat, 04 Feb 2023 00:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Digital Twins Preview Control-Plane API (2020-03-31-preview) will be retired on 05/02/2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-digital-twins-controlplane-preview-api-retirement-20210631"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20210631/",
@@ -678,6 +618,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-digital-twins-controlplane-preview-api-retirement-20200331"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20200331/",
+          "title": "Azure Digital Twins Control-Plane Preview API Retirement (2020-03-31)",
+          "description": "Azure Digital Twins Preview Control-Plane API (2020-03-31-preview) will be retired on 05/02/2023",
+          "pubDate": "Sat, 04 Feb 2023 00:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Digital Twins Preview Control-Plane API (2020-03-31-preview) will be retired on 05/02/2023"
           },
           "content:encoded": null
         },
@@ -1646,6 +1601,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "general-availability-yocto-recipes-for-iot-edge-14-lts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-yocto-recipes-for-iot-edge-14-lts/",
+          "title": "General availability: Yocto recipes for IoT Edge 1.4 LTS",
+          "description": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release.",
+          "pubDate": "Wed, 14 Dec 2022 17:30:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Announcing refreshed recipes for IoT Edge to build the latest 1.4 LTS release."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-site-recovery-higher-churn-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-higher-churn-support/",
@@ -1943,25 +1913,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025/",
           "title": "Community support for Azure Functions Proxies will end on 30 September 2025",
           "description": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:42 Z",
+          "pubDate": "Fri, 02 Dec 2022 18:00:43 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
-          "title": "Public Preview: Azure Sphere support for European Data Boundary",
-          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -1977,6 +1932,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
+          "title": "Public Preview: Azure Sphere support for European Data Boundary",
+          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -3090,6 +3060,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics Tables can now be managed from the tables entry of Azure Portal in Log Analytics workspaces."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-availability-zones"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-availability-zones/",
+          "title": "General availability: Azure Automation supports Availability zones",
+          "description": "Azure Automation now supports Availability zones to provide improved resiliency and reliability to the service, runbooks and other automation assets.",
+          "pubDate": "Wed, 09 Nov 2022 17:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation now supports Availability zones to provide improved resiliency and reliability to the service, runbooks and other automation assets."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "increasing-azure-synapse-analytics-spark-performance-by-up-to-77"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/increasing-azure-synapse-analytics-spark-performance-by-up-to-77/",
+          "title": "Generally available: Increasing Azure Synapse Analytics Spark performance up to 77%",
+          "description": "Faster Azure Synapse Analytics Spark performance at no cost.",
+          "pubDate": "Wed, 09 Nov 2022 17:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Faster Azure Synapse Analytics Spark performance at no cost."
           },
           "content:encoded": null
         }
