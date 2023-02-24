@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 24 Feb 2023 01:15:36 Z",
+      "lastBuildDate": "Fri, 24 Feb 2023 02:45:47 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-volume-user-and-group-quotas"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-user-and-group-quotas/",
+          "title": "Public Preview: Azure NetApp Files volume user and group quotas",
+          "description": "Azure NetApp Files now supports volume user and group quotas to manage storage utilization on a per user or group basis",
+          "pubDate": "Thu, 23 Feb 2023 22:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files now supports volume user and group quotas to manage storage utilization on a per user or group basis"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -609,21 +624,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-digital-twins-controlplane-preview-api-retirement-20210631"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20210631/",
-          "title": "Azure Digital Twins Control-Plane Preview API Retirement (2021-06-31)",
-          "description": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired.",
-          "pubDate": "Sat, 04 Feb 2023 00:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-digital-twins-controlplane-preview-api-retirement-20200331"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20200331/",
@@ -633,6 +633,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Digital Twins Preview Control-Plane API (2020-03-31-preview) will be retired on 05/02/2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-digital-twins-controlplane-preview-api-retirement-20210631"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-digital-twins-controlplane-preview-api-retirement-20210631/",
+          "title": "Azure Digital Twins Control-Plane Preview API Retirement (2021-06-31)",
+          "description": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired.",
+          "pubDate": "Sat, 04 Feb 2023 00:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Starting on May 02, 2023, Azure Digital Twins Preview Control-Plane API 2021-06-30-preview version will be retired."
           },
           "content:encoded": null
         },
@@ -3075,21 +3090,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Automation now supports Availability zones to provide improved resiliency and reliability to the service, runbooks and other automation assets."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "increasing-azure-synapse-analytics-spark-performance-by-up-to-77"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/increasing-azure-synapse-analytics-spark-performance-by-up-to-77/",
-          "title": "Generally available: Increasing Azure Synapse Analytics Spark performance up to 77%",
-          "description": "Faster Azure Synapse Analytics Spark performance at no cost.",
-          "pubDate": "Wed, 09 Nov 2022 17:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Faster Azure Synapse Analytics Spark performance at no cost."
           },
           "content:encoded": null
         }
