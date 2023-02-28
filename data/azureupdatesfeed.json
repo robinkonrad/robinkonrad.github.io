@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 28 Feb 2023 16:21:21 Z",
+      "lastBuildDate": "Tue, 28 Feb 2023 17:14:25 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "premiumtiering"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/premiumtiering/",
+          "title": "Public preview: Tiering capability for premium block blob storage",
+          "description": "Tier data seamlessly within a premium blob account depending on access patterns to optimize costs.",
+          "pubDate": "Tue, 28 Feb 2023 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Tier data seamlessly within a premium blob account depending on access patterns to optimize costs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3075,21 +3090,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now update SSH keys on existing AKS nodepools post deployment."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-iot-edge-for-linux-on-windows-eflow-update"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-iot-edge-for-linux-on-windows-eflow-update/",
-          "title": "Generally available: Azure IoT Edge for Linux on Windows (EFLOW) update",
-          "description": "The update brings enhancements to IoT Edge 1.4 and more.",
-          "pubDate": "Wed, 09 Nov 2022 17:00:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The update brings enhancements to IoT Edge 1.4 and more."
           },
           "content:encoded": null
         }

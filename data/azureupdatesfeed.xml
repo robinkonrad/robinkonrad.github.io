@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Feb 2023 16:21:21 Z</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 17:14:25 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">premiumtiering</guid>
+      <link>https://azure.microsoft.com/en-us/updates/premiumtiering/</link>
+      <title>Public preview: Tiering capability for premium block blob storage</title>
+      <description>Tier data seamlessly within a premium blob account depending on access patterns to optimize costs.</description>
+      <pubDate>Tue, 28 Feb 2023 17:00:14 Z</pubDate>
+      <atom:content
+        type="text">Tier data seamlessly within a premium blob account depending on access patterns to optimize costs.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-scale-improvements-and-metrics-enhancements-on-azure-s-regional-waf</guid>
@@ -2262,17 +2273,6 @@
       <pubDate>Wed, 09 Nov 2022 17:00:58 Z</pubDate>
       <atom:content
         type="text">You can now update SSH keys on existing AKS nodepools post deployment.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-iot-edge-for-linux-on-windows-eflow-update</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-iot-edge-for-linux-on-windows-eflow-update/</link>
-      <title>Generally available: Azure IoT Edge for Linux on Windows (EFLOW) update</title>
-      <description>The update brings enhancements to IoT Edge 1.4 and more.</description>
-      <pubDate>Wed, 09 Nov 2022 17:00:50 Z</pubDate>
-      <atom:content
-        type="text">The update brings enhancements to IoT Edge 1.4 and more.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
