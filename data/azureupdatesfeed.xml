@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 20:16:39 Z</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 21:14:06 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-virtual-network-manager-event-logging-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-event-logging-now-in-public-preview/</link>
+      <title>Azure Virtual Network Manager Event Logging now in public preview</title>
+      <description>Interact with Azure Virtual Network Manager (AVNM) event logs for network group membership changes.</description>
+      <pubDate>Wed, 01 Mar 2023 18:01:26 Z</pubDate>
+      <atom:content
+        type="text">Interact with Azure Virtual Network Manager (AVNM) event logs for network group membership changes.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">new-azure-for-operators-products-and-partner-programs-released</guid>
+      <link>https://azure.microsoft.com/en-us/updates/new-azure-for-operators-products-and-partner-programs-released/</link>
+      <title>New Azure for Operators products and partner programs released</title>
+      <description>Azure for Operators announces the next wave of services to empower operators to modernize and monetize their 5G investments, enable enterprises with ubiquitous computing from cloud to edge.</description>
+      <pubDate>Wed, 01 Mar 2023 18:01:20 Z</pubDate>
+      <atom:content
+        type="text">Azure for Operators announces the next wave of services to empower operators to modernize and monetize their 5G investments, enable enterprises with ubiquitous computing from cloud to edge.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-azure-postgresql-migration-extension-for-azure-data-studio</guid>
@@ -24,6 +46,39 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">general-availability-migration-feature-with-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-migration-feature-with-azure-database-for-postgresql-flexible-server/</link>
+      <title>General availability: Migration feature with Azure Database for PostgreSQL – Flexible Server </title>
+      <description>Use the new migration tool to migrate workloads from Single Server to Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure.</description>
+      <pubDate>Wed, 01 Mar 2023 18:01:08 Z</pubDate>
+      <atom:content
+        type="text">Use the new migration tool to migrate workloads from Single Server to Flexible Server on Azure Database for PostgreSQL, a managed service running the open-source Postgres database on Azure.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-power-bi-with-azure-database-for-mysql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-power-bi-with-azure-database-for-mysql-flexible-server/</link>
+      <title>General availability: Power BI with Azure Database for MySQL - Flexible Server </title>
+      <description>Integrate Power BI with Azure Database for MySQL - Flexible Server directly from the Azure portal to quickly get started with building your data visualizations! </description>
+      <pubDate>Wed, 01 Mar 2023 18:01:02 Z</pubDate>
+      <atom:content
+        type="text">Integrate Power BI with Azure Database for MySQL - Flexible Server directly from the Azure portal to quickly get started with building your data visualizations! </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-burstable-compute-for-single-node-configurations-for-azure-cosmos-db-for-postgresql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-burstable-compute-for-single-node-configurations-for-azure-cosmos-db-for-postgresql/</link>
+      <title>Generally available: Burstable compute for single node configurations for Azure Cosmos DB for PostgreSQL</title>
+      <description>Use new burstable compute in single node configurations to start small with distributed Postgres and scale out later.</description>
+      <pubDate>Wed, 01 Mar 2023 18:00:56 Z</pubDate>
+      <atom:content
+        type="text">Use new burstable compute in single node configurations to start small with distributed Postgres and scale out later.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">azure-monitor-ingestion-libraries</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-monitor-ingestion-libraries/</link>
       <title>Now Available: Azure Monitor Ingestion client libraries</title>
@@ -31,6 +86,40 @@
       <pubDate>Wed, 01 Mar 2023 18:00:54 Z</pubDate>
       <atom:content
         type="text">The initial stable release of the Azure Monitor Ingestion client libraries is now available. Upload custom logs to Log Analytics workspaces in .NET, Java, JavaScript, and Python.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-archive-storage-now-available-in-west-us-3</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-west-us-3/</link>
+      <category>Storage accounts; Blob storage; Archive storage</category>
+      <title>General availability: Azure Archive Storage now available in West US 3</title>
+      <description>Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions.</description>
+      <pubDate>Wed, 01 Mar 2023 18:00:48 Z</pubDate>
+      <atom:content
+        type="text">Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings/</link>
+      <title>Public Preview: Azure Monitor container insights offers customizable cost optimization settings</title>
+      <description>Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.</description>
+      <pubDate>Wed, 01 Mar 2023 18:00:37 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-new-enhanced-connection-troubleshoot</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-new-enhanced-connection-troubleshoot/</link>
+      <title>General availability: New enhanced connection troubleshoot</title>
+      <description>Azure Network Watcher announces enhanced connection troubleshoot helping resolve network connectivity issue comprehensively along with actionable insights</description>
+      <pubDate>Wed, 01 Mar 2023 18:00:28 Z</pubDate>
+      <atom:content
+        type="text">Azure Network Watcher announces enhanced connection troubleshoot helping resolve network connectivity issue comprehensively along with actionable insights</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2184,95 +2273,6 @@
       <pubDate>Thu, 10 Nov 2022 17:00:02 Z</pubDate>
       <atom:content
         type="text">Azure Front Door Standard and Premium supports enabling managed identities for Azure Front Door to access Azure Key Vault.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-maps-creator-feature-wayfinding</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-maps-creator-feature-wayfinding/</link>
-      <category>azure maps</category>
-      <title>Public preview: Azure Maps Creator feature - Wayfinding</title>
-      <description>Wayfinding in Azure Maps Creator enables you to provide your users with the shortest path between two points within a facility.</description>
-      <pubDate>Thu, 10 Nov 2022 17:00:02 Z</pubDate>
-      <atom:content
-        type="text">Wayfinding in Azure Maps Creator enables you to provide your users with the shortest path between two points within a facility.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-front-door-zero-downtime-migration</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-front-door-zero-downtime-migration/</link>
-      <title>Public preview: Azure Front Door zero downtime migration  </title>
-      <description>You can use this feature to migrate Azure Front Door (classic) to Azure Front Door Standard and Premium with zero downtime.</description>
-      <pubDate>Thu, 10 Nov 2022 17:00:01 Z</pubDate>
-      <atom:content
-        type="text">You can use this feature to migrate Azure Front Door (classic) to Azure Front Door Standard and Premium with zero downtime.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-upgrade-from-azure-front-door-standard-to-premium-tier</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-upgrade-from-azure-front-door-standard-to-premium-tier/</link>
-      <title>Public preview: Upgrade from Azure Front Door Standard to Premium tier</title>
-      <description>You can now use this feature to upgrade your Azure Front Door Standard profile to Premium tier without downtime.</description>
-      <pubDate>Thu, 10 Nov 2022 17:00:01 Z</pubDate>
-      <atom:content
-        type="text">You can now use this feature to upgrade your Azure Front Door Standard profile to Premium tier without downtime.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-generally-availability-updates-for-november-2022</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-generally-availability-updates-for-november-2022/</link>
-      <title>Azure Machine Learning—Generally availability updates for November 2022</title>
-      <description>New GA features include the ability to automate auto-shutdown/auto-start schedules, configure and customize a compute instance, seamlessly build NLP/vision models, and assess AI systems.</description>
-      <pubDate>Wed, 09 Nov 2022 18:00:00 Z</pubDate>
-      <atom:content
-        type="text">New GA features include the ability to automate auto-shutdown/auto-start schedules, configure and customize a compute instance, seamlessly build NLP/vision models, and assess AI systems.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-public-preview-updates-for-november-2022</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-november-2022/</link>
-      <title>Azure Machine Learning—Public preview updates for November 2022</title>
-      <description>New public preview features include reading Delta Lakes in fewer steps, debugging and monitoring training jobs, and performing data wrangling. </description>
-      <pubDate>Wed, 09 Nov 2022 18:00:00 Z</pubDate>
-      <atom:content
-        type="text">New public preview features include reading Delta Lakes in fewer steps, debugging and monitoring training jobs, and performing data wrangling. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-database-for-postgresql-flexible-server-in-new-china-regions</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-postgresql-flexible-server-in-new-china-regions/</link>
-      <title>General availability: Azure Database for PostgreSQL – Flexible Server in new China regions</title>
-      <description>Deploy Azure Database for PostgreSQL – Flexible Server workloads in two new China regions.</description>
-      <pubDate>Wed, 09 Nov 2022 17:01:51 Z</pubDate>
-      <atom:content
-        type="text">Deploy Azure Database for PostgreSQL – Flexible Server workloads in two new China regions.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-multivariate-anomaly-detection</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-multivariate-anomaly-detection/</link>
-      <title>General availability: Multivariate Anomaly Detection</title>
-      <description>Multivariate Anomaly Detection will allow you to evaluate multiple signals and the correlations between them to find sudden changes in data patterns.</description>
-      <pubDate>Wed, 09 Nov 2022 17:01:49 Z</pubDate>
-      <atom:content
-        type="text">Multivariate Anomaly Detection will allow you to evaluate multiple signals and the correlations between them to find sudden changes in data patterns.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-database-offline-migrations-in-azure-sql-migration-extension</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-database-offline-migrations-in-azure-sql-migration-extension/</link>
-      <title>Public preview: Azure SQL Database offline migrations in Azure SQL Migration extension</title>
-      <description>Assess, get right-sized Azure recommendations for Azure migration targets, and migrate databases offline from on-premises SQL Server to Azure SQL Database.</description>
-      <pubDate>Wed, 09 Nov 2022 17:01:47 Z</pubDate>
-      <atom:content
-        type="text">Assess, get right-sized Azure recommendations for Azure migration targets, and migrate databases offline from on-premises SQL Server to Azure SQL Database.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
