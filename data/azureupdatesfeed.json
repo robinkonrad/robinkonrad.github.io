@@ -12,13 +12,163 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 01 Mar 2023 16:22:01 Z",
+      "lastBuildDate": "Wed, 01 Mar 2023 17:14:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-login-and-tdeenabled-database-migrations-with-azure-database-migration-service"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-login-and-tdeenabled-database-migrations-with-azure-database-migration-service/",
+          "title": "Public preview: Login and TDE-enabled database migrations with Azure Database Migration Service",
+          "description": "Provide a secure and improved user experience for migrating TDE databases and SQL/Windows logins to Azure SQL.",
+          "pubDate": "Wed, 01 Mar 2023 17:01:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Provide a secure and improved user experience for migrating TDE databases and SQL/Windows logins to Azure SQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-read-replicas-geopaired-regions-azure-database-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-read-replicas-geopaired-regions-azure-database-for-mysql-flexible-server/",
+          "title": "General availability: Read replicas - Geo-Paired Regions - Azure Database for MySQL- Flexible Server",
+          "description": "The Read Replica in Geo-Paired Region feature replicates Azure Database for MySQL - Flexible Server data to a read-only server in a geo-paired region, for example, to serve read-only traffic.",
+          "pubDate": "Wed, 01 Mar 2023 17:01:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Read Replica in Geo-Paired Region feature replicates Azure Database for MySQL - Flexible Server data to a read-only server in a geo-paired region, for example, to serve read-only traffic."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-4-tib-8-tib-and-16-tib-storage-per-node-for-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-4-tib-8-tib-and-16-tib-storage-per-node-for-azure-cosmos-db-for-postgresql/",
+          "title": "Generally available: 4 TiB, 8 TiB, and 16 TiB storage per node for Azure Cosmos DB for PostgreSQL",
+          "description": "Onboard even larger distributed Postgres workloads to Azure Cosmos DB for PostgreSQL with fewer nodes using 4 TiB, 8 TiB, or 16 TiB storage per node.",
+          "pubDate": "Wed, 01 Mar 2023 17:01:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Onboard even larger distributed Postgres workloads to Azure Cosmos DB for PostgreSQL with fewer nodes using 4 TiB, 8 TiB, or 16 TiB storage per node."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-confidential-containers-on-aci"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-confidential-containers-on-aci/",
+          "title": "Public preview: Confidential containers on ACI",
+          "description": "ACI now lets you run containers in a trusted execution environment (TEE)",
+          "pubDate": "Wed, 01 Mar 2023 17:01:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ACI now lets you run containers in a trusted execution environment (TEE)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-online-live-resize-of-persistent-volumes"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-online-live-resize-of-persistent-volumes/",
+          "title": "GA: Online live resize of persistent volumes",
+          "description": "Scale up persistent volumes without taking the application offline.",
+          "pubDate": "Wed, 01 Mar 2023 17:01:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Scale up persistent volumes without taking the application offline."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-pod-sandboxing-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-pod-sandboxing-in-aks/",
+          "title": "Public preview: Pod sandboxing in AKS",
+          "description": "AKS now allows you to isolate workloads at the kernel level.",
+          "pubDate": "Wed, 01 Mar 2023 17:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now allows you to isolate workloads at the kernel level."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-caching-in-acr"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-caching-in-acr/",
+          "title": "Public preview: Caching in ACR",
+          "description": "You can now use caching in ACR to achieve faster and more reliable pull operations.",
+          "pubDate": "Wed, 01 Mar 2023 17:00:54 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use caching in ACR to achieve faster and more reliable pull operations."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-auto-vacuum-metrics-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-auto-vacuum-metrics-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Auto vacuum metrics for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Monitor the auto vacuum process health for Azure Database for PostgreSQL – Flexible Server via Azure Monitor metrics and write custom alert rules on these metrics.",
+          "pubDate": "Wed, 01 Mar 2023 17:00:47 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Monitor the auto vacuum process health for Azure Database for PostgreSQL – Flexible Server via Azure Monitor metrics and write custom alert rules on these metrics."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-aks-nodeosupgrade-channel"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-aks-nodeosupgrade-channel/",
+          "title": "Public preview: AKS NodeOSUpgrade channel",
+          "description": "You now have more flexible options for managing your upgrades.",
+          "pubDate": "Wed, 01 Mar 2023 17:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You now have more flexible options for managing your upgrades."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-virtual-network-manager-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-manager-2/",
+          "title": "General availability: Azure Virtual Network Manager",
+          "description": "Azure Virtual Network Manager (AVNM) is now generally available. AVNM is a one-stop shop for managing the connectivity and security of your network resources at scale.",
+          "pubDate": "Wed, 01 Mar 2023 17:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network Manager (AVNM) is now generally available. AVNM is a one-stop shop for managing the connectivity and security of your network resources at scale."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2940,156 +3090,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Develop your applications with more flexibility with retryable writes in Azure Cosmos DB for MongoDB."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-intraaccount-container-copy-for-azure-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-intraaccount-container-copy-for-azure-cosmos-db/",
-          "title": "Public preview: Intra-account container copy for Azure Cosmos DB",
-          "description": "Intra-account container copy helps you create offline copies of containers within Azure Cosmos DB SQL API and Cassandra API accounts.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Intra-account container copy helps you create offline copies of containers within Azure Cosmos DB SQL API and Cassandra API accounts."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-new-cost-recommendations-for-virtual-machine-scale-sets"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-new-cost-recommendations-for-virtual-machine-scale-sets/",
-          "title": "General availability: New cost recommendations for Virtual Machine Scale Sets",
-          "description": "You can use new cost recommendations for Virtual Machine Scale Sets for optimization.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can use new cost recommendations for Virtual Machine Scale Sets for optimization."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-static-web-apps-support-for-preview-environments-in-azure-devops"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-preview-environments-in-azure-devops/",
-          "title": "Generally available: Static Web Apps support for preview environments in Azure DevOps",
-          "description": "Deploy applications to staging environments using Azure DevOps.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Deploy applications to staging environments using Azure DevOps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-static-web-apps-support-for-gitlab-and-bitbucket"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-gitlab-and-bitbucket/",
-          "title": "Generally available: Static Web Apps support for Gitlab and Bitbucket",
-          "description": "Deploy Static Web Apps using Gitlab and Bitbucket as CI/CD providers.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Deploy Static Web Apps using Gitlab and Bitbucket as CI/CD providers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-static-web-apps-support-for-stable-urls-for-preview-environments"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-stable-urls-for-preview-environments/",
-          "title": "Generally available: Static Web Apps support for stable URLs for preview environments",
-          "description": "Use stable URLs with Azure Static Web Apps preview environments.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use stable URLs with Azure Static Web Apps preview environments."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-static-web-apps-support-for-skipping-api-builds"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-skipping-api-builds/",
-          "title": "Generally available: Static Web Apps support for skipping API builds",
-          "description": "You can skip the default API builds via GitHub Actions and Azure pipelines.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can skip the default API builds via GitHub Actions and Azure pipelines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-static-web-apps-now-supports-node-18"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-now-supports-node-18/",
-          "title": "Public preview: Azure Static Web Apps now Supports Node 18",
-          "description": "Azure Static Web Apps now supports building and deploying full-stack Node 18 applications.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Static Web Apps now supports building and deploying full-stack Node 18 applications."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-netapp-files-datastores-for-azure-vmware-solution"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-netapp-files-datastores-for-azure-vmware-solution/",
-          "title": "Generally available: Azure NetApp Files datastores for Azure VMware Solution",
-          "description": "Azure NetApp Files for datastores is now generally available in Azure VMware Solution.",
-          "pubDate": "Wed, 09 Nov 2022 17:01:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files for datastores is now generally available in Azure VMware Solution."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-rotate-ssh-keys-on-existing-aks-nodepools"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-rotate-ssh-keys-on-existing-aks-nodepools/",
-          "title": "Public preview: Rotate SSH keys on existing AKS nodepools",
-          "description": "You can now update SSH keys on existing AKS nodepools post deployment.",
-          "pubDate": "Wed, 09 Nov 2022 17:00:58 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now update SSH keys on existing AKS nodepools post deployment."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-iot-edge-for-linux-on-windows-eflow-update"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-iot-edge-for-linux-on-windows-eflow-update/",
-          "title": "Generally available: Azure IoT Edge for Linux on Windows (EFLOW) update",
-          "description": "The update brings enhancements to IoT Edge 1.4 and more.",
-          "pubDate": "Wed, 09 Nov 2022 17:00:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The update brings enhancements to IoT Edge 1.4 and more."
           },
           "content:encoded": null
         }
