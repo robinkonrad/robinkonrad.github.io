@@ -6,11 +6,99 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Mar 2023 18:19:16 Z</lastBuildDate>
+    <lastBuildDate>Wed, 01 Mar 2023 19:12:39 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-postgresql-migration-extension-for-azure-data-studio</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-postgresql-migration-extension-for-azure-data-studio/</link>
+      <title>Public preview: Azure PostgreSQL migration extension for Azure Data Studio </title>
+      <description>Provide end-to-end assessment experience with right-sized target recommendations for Azure Database for PostgreSQL using the Azure PostgreSQL migration extension in Azure Data Studio.</description>
+      <pubDate>Wed, 01 Mar 2023 18:01:14 Z</pubDate>
+      <atom:content
+        type="text">Provide end-to-end assessment experience with right-sized target recommendations for Azure Database for PostgreSQL using the Azure PostgreSQL migration extension in Azure Data Studio.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-confidential-containers-on-aci</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-confidential-containers-on-aci/</link>
+      <title>Public preview: Confidential containers on ACI</title>
+      <description>ACI now lets you run containers in a trusted execution environment (TEE)</description>
+      <pubDate>Wed, 01 Mar 2023 17:01:07 Z</pubDate>
+      <atom:content
+        type="text">ACI now lets you run containers in a trusted execution environment (TEE)</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-online-live-resize-of-persistent-volumes</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-online-live-resize-of-persistent-volumes/</link>
+      <title>GA: Online live resize of persistent volumes </title>
+      <description>Scale up persistent volumes without taking the application offline.</description>
+      <pubDate>Wed, 01 Mar 2023 17:01:01 Z</pubDate>
+      <atom:content
+        type="text">Scale up persistent volumes without taking the application offline.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-pod-sandboxing-in-aks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-pod-sandboxing-in-aks/</link>
+      <title>Public preview: Pod sandboxing in AKS</title>
+      <description>AKS now allows you to isolate workloads at the kernel level. </description>
+      <pubDate>Wed, 01 Mar 2023 17:00:55 Z</pubDate>
+      <atom:content
+        type="text">AKS now allows you to isolate workloads at the kernel level. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-caching-in-acr</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-caching-in-acr/</link>
+      <title>Public preview: Caching in ACR</title>
+      <description>You can now use caching in ACR to achieve faster and more reliable pull operations. </description>
+      <pubDate>Wed, 01 Mar 2023 17:00:54 Z</pubDate>
+      <atom:content
+        type="text">You can now use caching in ACR to achieve faster and more reliable pull operations. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-auto-vacuum-metrics-for-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-auto-vacuum-metrics-for-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public Preview: Auto vacuum metrics for Azure Database for PostgreSQL - Flexible Server</title>
+      <description>Monitor the auto vacuum process health for Azure Database for PostgreSQL – Flexible Server via Azure Monitor metrics and write custom alert rules on these metrics.</description>
+      <pubDate>Wed, 01 Mar 2023 17:00:47 Z</pubDate>
+      <atom:content
+        type="text">Monitor the auto vacuum process health for Azure Database for PostgreSQL – Flexible Server via Azure Monitor metrics and write custom alert rules on these metrics.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-aks-nodeosupgrade-channel</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-aks-nodeosupgrade-channel/</link>
+      <title>Public preview: AKS NodeOSUpgrade channel</title>
+      <description>You now have more flexible options for managing your upgrades. </description>
+      <pubDate>Wed, 01 Mar 2023 17:00:36 Z</pubDate>
+      <atom:content
+        type="text">You now have more flexible options for managing your upgrades. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-virtual-network-manager-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-manager-2/</link>
+      <title>General availability: Azure Virtual Network Manager</title>
+      <description>Azure Virtual Network Manager (AVNM) is now generally available. AVNM is a one-stop shop for managing the connectivity and security of your network resources at scale.</description>
+      <pubDate>Wed, 01 Mar 2023 17:00:28 Z</pubDate>
+      <atom:content
+        type="text">Azure Virtual Network Manager (AVNM) is now generally available. AVNM is a one-stop shop for managing the connectivity and security of your network resources at scale.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-scale-improvements-and-metrics-enhancements-on-azure-s-regional-waf</guid>
@@ -1462,17 +1550,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">general-availability-azure-sphere-version-2211</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/</link>
-      <title>General Availability: Azure Sphere version 22.11</title>
-      <description>The Azure Sphere version 22.11 release includes various new features and developer resources.</description>
-      <pubDate>Fri, 02 Dec 2022 18:00:00 Z</pubDate>
-      <atom:content
-        type="text">The Azure Sphere version 22.11 release includes various new features and developer resources.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-sphere-support-for-european-data-boundary</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/</link>
       <title>Public Preview: Azure Sphere support for European Data Boundary</title>
@@ -1480,6 +1557,17 @@
       <pubDate>Fri, 02 Dec 2022 18:00:00 Z</pubDate>
       <atom:content
         type="text">Azure Sphere Security Service EU data processing and storage (Public Preview) </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sphere-version-2211</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/</link>
+      <title>General Availability: Azure Sphere version 22.11</title>
+      <description>The Azure Sphere version 22.11 release includes various new features and developer resources.</description>
+      <pubDate>Fri, 02 Dec 2022 18:00:00 Z</pubDate>
+      <atom:content
+        type="text">The Azure Sphere version 22.11 release includes various new features and developer resources.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2185,94 +2273,6 @@
       <pubDate>Wed, 09 Nov 2022 17:01:45 Z</pubDate>
       <atom:content
         type="text">You can use new cost recommendations for Virtual Machine Scale Sets for optimization.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-static-web-apps-support-for-preview-environments-in-azure-devops</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-preview-environments-in-azure-devops/</link>
-      <title>Generally available: Static Web Apps support for preview environments in Azure DevOps</title>
-      <description>Deploy applications to staging environments using Azure DevOps.</description>
-      <pubDate>Wed, 09 Nov 2022 17:01:44 Z</pubDate>
-      <atom:content
-        type="text">Deploy applications to staging environments using Azure DevOps.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-static-web-apps-support-for-gitlab-and-bitbucket</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-gitlab-and-bitbucket/</link>
-      <title>Generally available: Static Web Apps support for Gitlab and Bitbucket</title>
-      <description>Deploy Static Web Apps using Gitlab and Bitbucket as CI/CD providers.</description>
-      <pubDate>Wed, 09 Nov 2022 17:01:32 Z</pubDate>
-      <atom:content
-        type="text">Deploy Static Web Apps using Gitlab and Bitbucket as CI/CD providers.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-static-web-apps-support-for-stable-urls-for-preview-environments</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-stable-urls-for-preview-environments/</link>
-      <title>Generally available: Static Web Apps support for stable URLs for preview environments</title>
-      <description>Use stable URLs with Azure Static Web Apps preview environments.</description>
-      <pubDate>Wed, 09 Nov 2022 17:01:26 Z</pubDate>
-      <atom:content
-        type="text">Use stable URLs with Azure Static Web Apps preview environments.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-static-web-apps-support-for-skipping-api-builds</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-skipping-api-builds/</link>
-      <title>Generally available: Static Web Apps support for skipping API builds </title>
-      <description>You can skip the default API builds via GitHub Actions and Azure pipelines. </description>
-      <pubDate>Wed, 09 Nov 2022 17:01:24 Z</pubDate>
-      <atom:content
-        type="text">You can skip the default API builds via GitHub Actions and Azure pipelines. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-static-web-apps-now-supports-node-18</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-now-supports-node-18/</link>
-      <title>Public preview: Azure Static Web Apps now Supports Node 18</title>
-      <description>Azure Static Web Apps now supports building and deploying full-stack Node 18 applications. </description>
-      <pubDate>Wed, 09 Nov 2022 17:01:12 Z</pubDate>
-      <atom:content
-        type="text">Azure Static Web Apps now supports building and deploying full-stack Node 18 applications. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-netapp-files-datastores-for-azure-vmware-solution</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-netapp-files-datastores-for-azure-vmware-solution/</link>
-      <title>Generally available: Azure NetApp Files datastores for Azure VMware Solution</title>
-      <description>Azure NetApp Files for datastores is now generally available in Azure VMware Solution.</description>
-      <pubDate>Wed, 09 Nov 2022 17:01:05 Z</pubDate>
-      <atom:content
-        type="text">Azure NetApp Files for datastores is now generally available in Azure VMware Solution.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-rotate-ssh-keys-on-existing-aks-nodepools</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-rotate-ssh-keys-on-existing-aks-nodepools/</link>
-      <title>Public preview: Rotate SSH keys on existing AKS nodepools</title>
-      <description>You can now update SSH keys on existing AKS nodepools post deployment.</description>
-      <pubDate>Wed, 09 Nov 2022 17:00:58 Z</pubDate>
-      <atom:content
-        type="text">You can now update SSH keys on existing AKS nodepools post deployment.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-iot-edge-for-linux-on-windows-eflow-update</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-iot-edge-for-linux-on-windows-eflow-update/</link>
-      <title>Generally available: Azure IoT Edge for Linux on Windows (EFLOW) update</title>
-      <description>The update brings enhancements to IoT Edge 1.4 and more.</description>
-      <pubDate>Wed, 09 Nov 2022 17:00:50 Z</pubDate>
-      <atom:content
-        type="text">The update brings enhancements to IoT Edge 1.4 and more.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
