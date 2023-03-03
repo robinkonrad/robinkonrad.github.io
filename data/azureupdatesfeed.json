@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 03 Mar 2023 21:12:28 Z",
+      "lastBuildDate": "Fri, 03 Mar 2023 22:14:40 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -336,6 +336,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You now have more flexible options for managing your upgrades."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-customer-initiated-storage-account-conversion"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customer-initiated-storage-account-conversion/",
+          "title": "General Availability: Customer Initiated Storage Account Conversion",
+          "description": "Increase your data resiliency with our self-service option to convert your storage accounts from non-zonal to zonal redundancy via Azure Portal",
+          "pubDate": "Tue, 28 Feb 2023 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Increase your data resiliency with our self-service option to convert your storage accounts from non-zonal to zonal redundancy via Azure Portal"
           },
           "content:encoded": null
         },
@@ -2303,21 +2318,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2211"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
-          "title": "General Availability: Azure Sphere version 22.11",
-          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
@@ -2327,6 +2327,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-version-2211"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
+          "title": "General Availability: Azure Sphere version 22.11",
+          "description": "The Azure Sphere version 22.11 release includes various new features and developer resources.",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
           },
           "content:encoded": null
         },
@@ -3077,22 +3092,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can use this feature to back up confidential VMs using Platform Managed Keys."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "arm-tls-12-migration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/arm-tls-12-migration/",
-          "category": "AzureResourceManager",
-          "title": "Azure Resource Manager — Migrating to TLS 1.2 with Deprecation of Outdated Security Protocols",
-          "description": "Azure Resource Manager will be deprecating support for TLS 1.1 and older in Fall 2023. To maintain an uninterrupted connection with Azure Resource Manager, update your operating systems and work environments to support TLS 1.2.",
-          "pubDate": "Sat, 12 Nov 2022 00:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Resource Manager will be deprecating support for TLS 1.1 and older in Fall 2023. To maintain an uninterrupted connection with Azure Resource Manager, update your operating systems and work environments to support TLS 1.2."
           },
           "content:encoded": null
         }
