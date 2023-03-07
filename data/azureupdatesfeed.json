@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 07 Mar 2023 22:15:03 Z",
+      "lastBuildDate": "Tue, 07 Mar 2023 23:16:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-app-insights-extension-for-azure-virtual-machines-and-vm-scale-sets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-app-insights-extension-for-azure-virtual-machines-and-vm-scale-sets/",
+          "title": "Generally available: App Insights Extension for Azure Virtual Machines and VM Scale Sets",
+          "description": "Application insights extension enables easy to use application monitoring for IIS-hosted .NET Framework and .NET Core applications running on Azure VMs and VM scale sets.",
+          "pubDate": "Tue, 07 Mar 2023 23:12:47 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application insights extension enables easy to use application monitoring for IIS-hosted .NET Framework and .NET Core applications running on Azure VMs and VM scale sets."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2378,21 +2393,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
-          "title": "Public Preview: Azure Sphere support for European Data Boundary",
-          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sphere-version-2211"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
@@ -2402,6 +2402,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
+          "title": "Public Preview: Azure Sphere support for European Data Boundary",
+          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -3077,21 +3092,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Start using the new policies with TLS 1.3 for your Azure Application Gateway to improve security and performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-per-rule-actions-on-regional-web-application-firewall"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-per-rule-actions-on-regional-web-application-firewall/",
-          "title": "General availability: Per Rule Actions on regional Web Application Firewall",
-          "description": "Azure's regional Web Application Firewall on Application Gateway now supports customizing actions per rule. This new functionality allows you greater control over how the Web Application Firewall handles incoming traffic.",
-          "pubDate": "Tue, 15 Nov 2022 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure's regional Web Application Firewall on Application Gateway now supports customizing actions per rule. This new functionality allows you greater control over how the Web Application Firewall handles incoming traffic."
           },
           "content:encoded": null
         }
