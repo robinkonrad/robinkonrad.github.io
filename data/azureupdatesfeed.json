@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 13 Mar 2023 20:16:03 Z",
+      "lastBuildDate": "Mon, 13 Mar 2023 21:13:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-backup-immutable-vaults-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-immutable-vaults-ga/",
+          "title": "Generally available: Immutable vaults for Azure Backup",
+          "description": "Immutable vaults help you protect your backups against threats like ransomware attacks and malicious actors by ensuring that your backup data cannot be deleted before its intended expiry time.",
+          "pubDate": "Mon, 13 Mar 2023 20:13:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Immutable vaults help you protect your backups against threats like ransomware attacks and malicious actors by ensuring that your backup data cannot be deleted before its intended expiry time."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3072,21 +3087,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure Arm-based VMs are now available in four more regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-dr-secondary-free-with-sql-server-on-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-dr-secondary-free-with-sql-server-on-azure-virtual-machines/",
-          "title": "General availability: DR secondary free with SQL Server on Azure Virtual Machines",
-          "description": "Optimize business costs by licensing your Disaster Recovery secondary for free with SQL Server on Azure Virtual Machines.",
-          "pubDate": "Wed, 16 Nov 2022 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Optimize business costs by licensing your Disaster Recovery secondary for free with SQL Server on Azure Virtual Machines."
           },
           "content:encoded": null
         }
