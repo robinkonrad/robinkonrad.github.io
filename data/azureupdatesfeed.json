@@ -12,13 +12,73 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 15 Mar 2023 18:18:54 Z",
+      "lastBuildDate": "Wed, 15 Mar 2023 19:12:11 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-database-for-mysql-connector-for-power-apps-logic-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-connector-for-power-apps-logic-apps/",
+          "title": "Public preview: Azure Database for MySQL connector for Power Apps, Logic Apps",
+          "description": "Use the Azure Database for MySQL - Flexible Server connector to connect to MySQL data and build with Power Apps and Logic Apps.",
+          "pubDate": "Wed, 15 Mar 2023 19:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the Azure Database for MySQL - Flexible Server connector to connect to MySQL data and build with Power Apps and Logic Apps."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-new-azure-monitor-audit-logging-policy-released"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-new-azure-monitor-audit-logging-policy-released/",
+          "title": "Generally available: New Azure Monitor audit logging policy released",
+          "description": "Azure Monitor is announcing the release of new Azure Policy built-in policies and initiatives for enabling platform logging of audit events for Azure services.",
+          "pubDate": "Wed, 15 Mar 2023 19:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor is announcing the release of new Azure Policy built-in policies and initiatives for enabling platform logging of audit events for Azure services."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-durable-functions-support-of-managed-identity-for-azure-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-durable-functions-support-of-managed-identity-for-azure-storage/",
+          "title": "Generally Available: Durable Functions support of managed identity for Azure Storage",
+          "description": "You can now use an identity-based connection to access Azure Storage, instead of embedding secrets in connection strings.",
+          "pubDate": "Wed, 15 Mar 2023 19:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use an identity-based connection to access Azure Storage, instead of embedding secrets in connection strings."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-red-hat-openshift-version-411-now-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-version-411-now-available/",
+          "title": "Azure Red Hat OpenShift version 4.11 now available",
+          "description": "Take advantage of the features in OpenShift version 4.11.",
+          "pubDate": "Wed, 15 Mar 2023 19:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Take advantage of the features in OpenShift version 4.11."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2904,21 +2964,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
-          "title": "Public Preview: Azure Sphere support for European Data Boundary",
-          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
-          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sphere-version-2211"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2211/",
@@ -2928,6 +2973,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure Sphere version 22.11 release includes various new features and developer resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sphere-support-for-european-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/",
+          "title": "Public Preview: Azure Sphere support for European Data Boundary",
+          "description": "Azure Sphere Security Service EU data processing and storage (Public Preview)",
+          "pubDate": "Fri, 02 Dec 2022 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Sphere Security Service EU data processing and storage (Public Preview)"
           },
           "content:encoded": null
         },
@@ -3003,66 +3063,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Run the latest Citus 11.1 version when using clusters in Azure Cosmos DB for PostgreSQL clusters, a managed service for distributed Postgres databases."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-postgresql-15-support-in-azure-cosmos-db-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-postgresql-15-support-in-azure-cosmos-db-for-postgresql/",
-          "title": "Generally available: PostgreSQL 15 support in Azure Cosmos DB for PostgreSQL",
-          "description": "Now you can select PostgreSQL 15 when creating PostgreSQL clusters in Azure Cosmos DB for PostgreSQL, a managed service for distributed Postgres database.",
-          "pubDate": "Wed, 30 Nov 2022 17:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can select PostgreSQL 15 when creating PostgreSQL clusters in Azure Cosmos DB for PostgreSQL, a managed service for distributed Postgres database."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-additional-always-free-services-for-azure-free-account-and-payg"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-additional-always-free-services-for-azure-free-account-and-payg/",
-          "title": "Generally available: Additional Always Free Services for Azure Free Account and PAYG",
-          "description": "With an Azure free account, you can explore with free amounts of 55+ always free services.",
-          "pubDate": "Wed, 30 Nov 2022 17:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With an Azure free account, you can explore with free amounts of 55+ always free services."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-12-months-free-services-for-new-azure-payg-customers"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-12-months-free-services-for-new-azure-payg-customers/",
-          "title": "General availability: 12 months free services for new Azure PAYG customers",
-          "description": "With an Azure free account, you can explore with free amounts of 55+ always free services.",
-          "pubDate": "Wed, 30 Nov 2022 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With an Azure free account, you can explore with free amounts of 55+ always free services."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-blob-csi-driver-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-csi-driver-support-in-aks/",
-          "title": "Generally available: Azure Blob CSI driver support in AKS",
-          "description": "You no longer need to deal with manual installation as well as lifecycle management of the open-source Azure Blob CSI driver with AKS.",
-          "pubDate": "Wed, 30 Nov 2022 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You no longer need to deal with manual installation as well as lifecycle management of the open-source Azure Blob CSI driver with AKS."
           },
           "content:encoded": null
         }
