@@ -6,11 +6,96 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Mar 2023 22:13:46 Z</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 23:14:07 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">select-batch-pool-autoscale-servicedefined-variables-will-be-retired-on-31-march-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/select-batch-pool-autoscale-servicedefined-variables-will-be-retired-on-31-march-2024/</link>
+      <category>Batch</category>
+      <title>Select Batch Pool autoscale service-defined variables will be retired on 31 March 2024 </title>
+      <description>Remove references in your autoscale formula for the service-defined variables</description>
+      <pubDate>Fri, 17 Mar 2023 23:00:58 Z</pubDate>
+      <atom:content
+        type="text">Remove references in your autoscale formula for the service-defined variables</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">retirement-announcement-assigning-alert-trigger-playbooks-within-microsoft-sentinel-analytics-rules</guid>
+      <link>https://azure.microsoft.com/en-us/updates/retirement-announcement-assigning-alert-trigger-playbooks-within-microsoft-sentinel-analytics-rules/</link>
+      <category>Retirements</category>
+      <category>Microsoft Sentinel</category>
+      <title>Retirement Announcement: Assigning alert trigger playbooks within Microsoft Sentinel analytics rules</title>
+      <description>Effective 15 March 2026, adding playbooks within Microsoft Sentinel analytics rules creation/edit will be deprecated.</description>
+      <pubDate>Fri, 17 Mar 2023 23:00:45 Z</pubDate>
+      <atom:content
+        type="text">Effective 15 March 2026, adding playbooks within Microsoft Sentinel analytics rules creation/edit will be deprecated.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-batch-classic-compute-node-communication-model-will-be-retired-on-31-march-2026</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-batch-classic-compute-node-communication-model-will-be-retired-on-31-march-2026/</link>
+      <category>Batch</category>
+      <category>Agents</category>
+      <title>Azure Batch classic compute node communication model will be retired on 31 March 2026</title>
+      <description>Transition Batch pools to the Simplified compute node communication model</description>
+      <pubDate>Fri, 17 Mar 2023 23:00:39 Z</pubDate>
+      <atom:content
+        type="text">Transition Batch pools to the Simplified compute node communication model</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">migrate-your-gitops-configurations-from-flux-v1-to-flux-v2-by-24-may-2025</guid>
+      <link>https://azure.microsoft.com/en-us/updates/migrate-your-gitops-configurations-from-flux-v1-to-flux-v2-by-24-may-2025/</link>
+      <category>AzurePortal</category>
+      <category>Arc enabled Kubernetes</category>
+      <category>Flux</category>
+      <title>We’re retiring Cluster Configuration with Flux v1 on 24 May 2025 – transition to GitOps extension for Kubernetes to move to Flux v2 </title>
+      <description>Migrate to GitOps Extension for Flux v2 by 24 May 2025 </description>
+      <pubDate>Fri, 17 Mar 2023 23:00:33 Z</pubDate>
+      <atom:content
+        type="text">Migrate to GitOps Extension for Flux v2 by 24 May 2025 </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">container-insights-recommended-alerts-custom-metrics-preview-will-be-retired-on-14-march-2026</guid>
+      <link>https://azure.microsoft.com/en-us/updates/container-insights-recommended-alerts-custom-metrics-preview-will-be-retired-on-14-march-2026/</link>
+      <title>Container insights recommended alerts (custom metrics) (preview) will be retired on 14 March 2026 </title>
+      <description>Transition to Prometheus recommended alert rules (preview) before 14 March 2026.</description>
+      <pubDate>Fri, 17 Mar 2023 23:00:27 Z</pubDate>
+      <atom:content
+        type="text">Transition to Prometheus recommended alert rules (preview) before 14 March 2026.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">retirement-notice-the-azure-storage-php-client-libraries-will-be-retired-on-17-march-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/retirement-notice-the-azure-storage-php-client-libraries-will-be-retired-on-17-march-2024/</link>
+      <title>Retirement notice: The Azure Storage PHP client libraries will be retired on 17 March 2024</title>
+      <description>Azure Storage PHP client libraries will be retired on 17 March 2024</description>
+      <pubDate>Fri, 17 Mar 2023 23:00:20 Z</pubDate>
+      <atom:content
+        type="text">Azure Storage PHP client libraries will be retired on 17 March 2024</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation/</link>
+      <title>Retirement: Azure Database Migration Service (classic) - SQL Server scenarios deprecation</title>
+      <description>Azure Database Migration Service (classic) - SQL Server scenarios will not be supported after March 31, 2026. </description>
+      <pubDate>Fri, 17 Mar 2023 23:00:16 Z</pubDate>
+      <atom:content
+        type="text">Azure Database Migration Service (classic) - SQL Server scenarios will not be supported after March 31, 2026. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-listener-tls-certificates-management-available-in-the-azure-portal</guid>
@@ -2173,87 +2258,6 @@
       <pubDate>Mon, 12 Dec 2022 17:00:00 Z</pubDate>
       <atom:content
         type="text">New features are now available in Stream Analytics no-code editor GA including multiple parameter built-in functions support, Delta Lake format support in ADLS Gen2 output sink.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-processor-diagram-in-physical-job-diagram-for-stream-analytics-job-troubleshooting</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-processor-diagram-in-physical-job-diagram-for-stream-analytics-job-troubleshooting/</link>
-      <title>Public preview: Processor diagram in Physical Job Diagram for Stream Analytics job troubleshooting</title>
-      <description>The processor diagram in physical job diagram provides you further insights within the streaming nodes of your stream analytics jobs.</description>
-      <pubDate>Fri, 09 Dec 2022 23:53:31 Z</pubDate>
-      <atom:content
-        type="text">The processor diagram in physical job diagram provides you further insights within the streaming nodes of your stream analytics jobs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">software-inventory-agentless-dependency-analysis-generally-available-with-azure-migrate</guid>
-      <link>https://azure.microsoft.com/en-us/updates/software-inventory-agentless-dependency-analysis-generally-available-with-azure-migrate/</link>
-      <category>Azure Migrate</category>
-      <category>Discovery</category>
-      <category>Dependency analysis</category>
-      <title>Generally available: Software inventory &amp; agentless dependency analysis generally available with Azure Migrate</title>
-      <description>Now generally available for Hyper-V virtual machines and bare-metal servers</description>
-      <pubDate>Thu, 08 Dec 2022 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">Now generally available for Hyper-V virtual machines and bare-metal servers</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-new-memory-optimized-vm-sizes-e96bsv5-and-e112ibsv5</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-memory-optimized-vm-sizes-e96bsv5-and-e112ibsv5/</link>
-      <title>Public preview: New Memory Optimized VM sizes - E96bsv5 and E112ibsv5</title>
-      <description>New VM sizes provide the best remote storage performance of any Azure VMs to date. You can now process more data with fewer vCPUs while potentially reducing software licensing costs. </description>
-      <pubDate>Tue, 06 Dec 2022 20:41:21 Z</pubDate>
-      <atom:content
-        type="text">New VM sizes provide the best remote storage performance of any Azure VMs to date. You can now process more data with fewer vCPUs while potentially reducing software licensing costs. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-automation-hybrid-runbook-worker-extension-general-availability</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-automation-hybrid-runbook-worker-extension-general-availability/</link>
-      <title>General Availability: Azure Automation Hybrid Runbook Worker Extension</title>
-      <description>Azure Automation announces General Availability of Azure Automation Hybrid Runbook Worker Extension </description>
-      <pubDate>Mon, 05 Dec 2022 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">Azure Automation announces General Availability of Azure Automation Hybrid Runbook Worker Extension </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-site-recovery-update-rollup-65-november-2022</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-65-november-2022/</link>
-      <category>azure-site-recovery</category>
-      <title>Generally available: Azure Site Recovery update rollup 65 - November 2022</title>
-      <description>This article describes the improvements for the latest version of Azure Site Recovery components. </description>
-      <pubDate>Mon, 05 Dec 2022 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">This article describes the improvements for the latest version of Azure Site Recovery components. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">community-support-for-azure-functions-proxies-will-end-on-30-september-2025</guid>
-      <link>https://azure.microsoft.com/en-us/updates/community-support-for-azure-functions-proxies-will-end-on-30-september-2025/</link>
-      <title>Community support for Azure Functions Proxies will end on 30 September 2025</title>
-      <description>Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.</description>
-      <pubDate>Fri, 02 Dec 2022 18:00:42 Z</pubDate>
-      <atom:content
-        type="text">Transition to Azure API Management as soon as possible to avoid disruption to your Function applications using Proxies.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sphere-support-for-european-data-boundary</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sphere-support-for-european-data-boundary/</link>
-      <title>Public Preview: Azure Sphere support for European Data Boundary</title>
-      <description>Azure Sphere Security Service EU data processing and storage (Public Preview) </description>
-      <pubDate>Fri, 02 Dec 2022 18:00:00 Z</pubDate>
-      <atom:content
-        type="text">Azure Sphere Security Service EU data processing and storage (Public Preview) </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
