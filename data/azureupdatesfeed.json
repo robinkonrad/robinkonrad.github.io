@@ -12,13 +12,59 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 20 Mar 2023 16:21:00 Z",
+      "lastBuildDate": "Mon, 20 Mar 2023 17:13:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-maps-is-now-hipaa-health-insurance-portability-and-accountability-act-compliant"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-is-now-hipaa-health-insurance-portability-and-accountability-act-compliant/",
+          "title": "Azure Maps is now HIPAA (Health Insurance Portability and Accountability Act) compliant",
+          "description": "Azure Maps ensures HIPAA compliance is achieved for protected health information (PHI), like when calculating travel time and distance from a patient’s location to the nearest healthcare facility.",
+          "pubDate": "Mon, 20 Mar 2023 17:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Maps ensures HIPAA compliance is achieved for protected health information (PHI), like when calculating travel time and distance from a patient’s location to the nearest healthcare facility."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts/",
+          "title": "Generally available: Encryption scopes on hierarchical namespace enabled storage accounts",
+          "description": "You can now use separate encryption keys for each customer in a single hierarchical namespace enabled storage account.",
+          "pubDate": "Mon, 20 Mar 2023 17:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use separate encryption keys for each customer in a single hierarchical namespace enabled storage account."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-serilog-sink-for-azure-data-explorer"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-serilog-sink-for-azure-data-explorer/",
+          "category": "Azure Data Explorer",
+          "title": "General availability: Serilog Sink for Azure Data Explorer",
+          "description": "Azure Data Explorer now supports ingestion of data from .NET Applications via the Serilog Sink.",
+          "pubDate": "Mon, 20 Mar 2023 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer now supports ingestion of data from .NET Applications via the Serilog Sink."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -366,21 +412,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-march-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
-          "title": "Azure Red Hat OpenShift March Updates",
-          "description": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance.",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
@@ -390,6 +421,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-red-hat-openshift-march-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
+          "title": "Azure Red Hat OpenShift March Updates",
+          "description": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance.",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
           },
           "content:encoded": null
         },
@@ -3025,52 +3071,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Scale your Azure Service Bus premium namespaces far beyond the current limitations with two new features."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-use-tag-inheritance-for-cost-management"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-use-tag-inheritance-for-cost-management/",
-          "category": "AzurePortal",
-          "title": "Public preview: Use tag inheritance for cost management",
-          "description": "Use tag inheritance preview to automatically apply subscription and resource group tags to child resource usage records.",
-          "pubDate": "Mon, 12 Dec 2022 18:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use tag inheritance preview to automatically apply subscription and resource group tags to child resource usage records."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-log-compaction-support-in-azure-event-hubs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-log-compaction-support-in-azure-event-hubs/",
-          "title": "Public preview: Log compaction support in Azure Event Hubs",
-          "description": "Retain the latest events of an event log by using compacted event hubs or Kafka topics in Azure Event Hubs.",
-          "pubDate": "Mon, 12 Dec 2022 17:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retain the latest events of an event log by using compacted event hubs or Kafka topics in Azure Event Hubs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-stream-analytics-nocode-editor-updates-in-december-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-updates-in-december-2022/",
-          "title": "General availability: Stream Analytics no-code editor updates in December 2022",
-          "description": "New features are now available in Stream Analytics no-code editor GA including multiple parameter built-in functions support, Delta Lake format support in ADLS Gen2 output sink.",
-          "pubDate": "Mon, 12 Dec 2022 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New features are now available in Stream Analytics no-code editor GA including multiple parameter built-in functions support, Delta Lake format support in ADLS Gen2 output sink."
           },
           "content:encoded": null
         }
