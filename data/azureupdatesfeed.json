@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 20 Mar 2023 17:13:42 Z",
+      "lastBuildDate": "Mon, 20 Mar 2023 18:18:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-asp-net-web-app-migration-to-azure-app-service-using-powershell-scripts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-asp-net-web-app-migration-to-azure-app-service-using-powershell-scripts/",
+          "title": "General Availability: ASP. NET web app migration to Azure App Service using PowerShell Scripts",
+          "description": "ASP. NET web app migration to Azure App Service using PowerShell Scripts is now generally available.",
+          "pubDate": "Mon, 20 Mar 2023 17:47:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ASP. NET web app migration to Azure App Service using PowerShell Scripts is now generally available."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -176,11 +191,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/retirement-azure-database-migration-service-classic-sql-server-scenarios-deprecation/",
           "title": "Retirement: Azure Database Migration Service (classic) - SQL Server scenarios deprecation",
-          "description": "Azure Database Migration Service (classic) - SQL Server scenarios will not be supported after March 31, 2026.",
+          "description": "Azure Database Migration Service (classic) - SQL Server scenarios will not be supported after March 15, 2026.",
           "pubDate": "Fri, 17 Mar 2023 23:00:16 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Azure Database Migration Service (classic) - SQL Server scenarios will not be supported after March 31, 2026."
+            "#text": "Azure Database Migration Service (classic) - SQL Server scenarios will not be supported after March 15, 2026."
           },
           "content:encoded": null
         },
@@ -3056,21 +3071,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL in mid-December 2022."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-public-preview-of-higher-throughput-for-azure-service-bus-premium-through-partitioning"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-higher-throughput-for-azure-service-bus-premium-through-partitioning/",
-          "title": "Public preview: Performance improving features for Azure Service Bus premium",
-          "description": "Scale your Azure Service Bus premium namespaces far beyond the current limitations with two new features.",
-          "pubDate": "Mon, 12 Dec 2022 23:02:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Scale your Azure Service Bus premium namespaces far beyond the current limitations with two new features."
           },
           "content:encoded": null
         }
