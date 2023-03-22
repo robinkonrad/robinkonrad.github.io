@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 22 Mar 2023 15:15:18 Z",
+      "lastBuildDate": "Wed, 22 Mar 2023 16:18:53 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-virtual-network-manager-3"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-manager-3/",
+          "title": "General availability: Azure Virtual Network Manager",
+          "description": "Azure Virtual Network Manager (AVNM) is now generally available. AVNM is a one-stop shop for managing the connectivity and security of your network resources at scale.",
+          "pubDate": "Wed, 22 Mar 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network Manager (AVNM) is now generally available. AVNM is a one-stop shop for managing the connectivity and security of your network resources at scale."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-reserved-namespaces-for-subdomains"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-reserved-namespaces-for-subdomains/",
+          "title": "General availability: Reserved namespaces for subdomains",
+          "description": "Azure Traffic Manager now enables reserving domain labels across all traffic manager profiles.",
+          "pubDate": "Wed, 22 Mar 2023 16:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Traffic Manager now enables reserving domain labels across all traffic manager profiles."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3041,36 +3071,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Easily containerize non-container applications using Draft."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-static-web-apps-diagnostics"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-diagnostics/",
-          "title": "Generally available: Static Web Apps Diagnostics",
-          "description": "You can now access guided troubleshooting information related to specific issues detected within your Azure Static Web Apps service configuration.",
-          "pubDate": "Wed, 14 Dec 2022 17:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now access guided troubleshooting information related to specific issues detected within your Azure Static Web Apps service configuration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-kubernetes-125-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubernetes-125-support-in-aks/",
-          "title": "Generally Available: Kubernetes 1.25 support in AKS",
-          "description": "You can now benefit from Kubernetes 1.25 enhancements in AKS.",
-          "pubDate": "Wed, 14 Dec 2022 17:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now benefit from Kubernetes 1.25 enhancements in AKS."
           },
           "content:encoded": null
         }
