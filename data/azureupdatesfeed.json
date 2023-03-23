@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 23 Mar 2023 19:11:15 Z",
+      "lastBuildDate": "Thu, 23 Mar 2023 20:14:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-private-link-support-in-azure-api-management"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-private-link-support-in-azure-api-management/",
+          "title": "Generally available: Azure Private Link support in Azure API Management",
+          "description": "With Azure Private Link support in Azure API Management, you can now integrate clients in a virtual network privately.",
+          "pubDate": "Thu, 23 Mar 2023 20:05:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With Azure Private Link support in Azure API Management, you can now integrate clients in a virtual network privately."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-workspaces-in-azure-api-management"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-workspaces-in-azure-api-management/",
+          "title": "Public Preview: Workspaces in Azure API Management",
+          "description": "Workspaces for Azure API Management is now in public preview. This new capability enables granular access control in multi-team Azure API Management deployments.",
+          "pubDate": "Thu, 23 Mar 2023 20:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Workspaces for Azure API Management is now in public preview. This new capability enables granular access control in multi-team Azure API Management deployments."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -488,21 +518,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
-          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
-          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-red-hat-openshift-march-updates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
@@ -512,6 +527,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
+          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
+          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
           },
           "content:encoded": null
         },
@@ -3042,36 +3072,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The latest Azure Functions Extension Bundle is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-durable-functions-support-for-java"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-durable-functions-support-for-java/",
-          "title": "Generally Available: Durable Functions support for Java",
-          "description": "Durable Functions make it easy to orchestrate stateful workflows as-code in a serverless environment.",
-          "pubDate": "Wed, 14 Dec 2022 17:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Durable Functions make it easy to orchestrate stateful workflows as-code in a serverless environment."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-functions-support-for-java-17"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-java-17/",
-          "title": "Generally Available: Azure Functions support for Java 17",
-          "description": "You can now use the latest LTS version of Java with Azure Functions.",
-          "pubDate": "Wed, 14 Dec 2022 17:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use the latest LTS version of Java with Azure Functions."
           },
           "content:encoded": null
         }
