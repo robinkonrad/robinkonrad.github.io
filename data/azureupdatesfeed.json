@@ -12,13 +12,60 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 27 Mar 2023 16:18:14 Z",
+      "lastBuildDate": "Mon, 27 Mar 2023 17:13:12 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-migrate-from-a-run-as-account-to-managed-identities-using-azure-site-recovery"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-migrate-from-a-run-as-account-to-managed-identities-using-azure-site-recovery/",
+          "category": "azure-site-recovery",
+          "title": "Generally available: Migrate from a Run As account to Managed Identities using Azure Site Recovery",
+          "description": "This article describes a new feature update for Azure Site Recovery.",
+          "pubDate": "Mon, 27 Mar 2023 17:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This article describes a new feature update for Azure Site Recovery."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-resource-governance-for-client-applications-in-azure-event-hubs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-resource-governance-for-client-applications-in-azure-event-hubs/",
+          "title": "Generally available: Resource governance for client applications in Azure Event Hubs",
+          "description": "Independently throttle your event streaming workloads using application groups and client applications information at namespace or event hub/Kafka topic level.",
+          "pubDate": "Mon, 27 Mar 2023 17:00:33 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Independently throttle your event streaming workloads using application groups and client applications information at namespace or event hub/Kafka topic level."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-simpler-way-to-renaming-network-interface-nic-and-disks-for-protected-vms-in-azure-site-recovery"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-simpler-way-to-renaming-network-interface-nic-and-disks-for-protected-vms-in-azure-site-recovery/",
+          "category": "azure-site-recovery",
+          "title": "Generally available: Simpler way to renaming Network Interface (NIC) and Disks for protected VMs in Azure Site Recovery",
+          "description": "This article describes a new feature update for Azure Site Recovery.",
+          "pubDate": "Mon, 27 Mar 2023 17:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This article describes a new feature update for Azure Site Recovery."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3029,51 +3076,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Authenticate to Azure Functions with Azure Active Directory using the Azure Cosmos DB extension version 4."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-updated-api-names-for-azure-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-updated-api-names-for-azure-cosmos-db/",
-          "title": "Generally available: Updated API names for Azure Cosmos DB",
-          "description": "See multiple updated API names in Azure Cosmos DB on product pages, in technical documentation, and billing that will not impact your experience, product functionality, or performance.",
-          "pubDate": "Wed, 14 Dec 2022 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "See multiple updated API names in Azure Cosmos DB on product pages, in technical documentation, and billing that will not impact your experience, product functionality, or performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-cosmos-db-for-postgresql-now-available-in-new-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-postgresql-now-available-in-new-regions/",
-          "title": "General availability: Azure Cosmos DB for PostgreSQL now available in new regions",
-          "description": "Create Azure Cosmos DB for PostgreSQL clusters now in the Sweden Central and Switzerland West regions.",
-          "pubDate": "Wed, 14 Dec 2022 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Create Azure Cosmos DB for PostgreSQL clusters now in the Sweden Central and Switzerland West regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-materialized-view-for-azure-cosmos-db-for-apache-cassandra"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-materialized-view-for-azure-cosmos-db-for-apache-cassandra/",
-          "title": "Public Preview: Materialized view for Azure Cosmos DB for Apache Cassandra",
-          "description": "Experience even greater compatibility for native Apache Cassandra with materialized view.",
-          "pubDate": "Wed, 14 Dec 2022 18:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Experience even greater compatibility for native Apache Cassandra with materialized view."
           },
           "content:encoded": null
         }
