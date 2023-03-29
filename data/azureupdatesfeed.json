@@ -12,13 +12,118 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 29 Mar 2023 17:41:46 Z",
+      "lastBuildDate": "Wed, 29 Mar 2023 18:23:01 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-hdinsight-for-apache-kafka-320-is-now-available-for-public-preview-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-hdinsight-for-apache-kafka-320-is-now-available-for-public-preview-2/",
+          "title": "Azure HDInsight for Apache Kafka 3.2.0 is now available for public preview.",
+          "description": "Azure HDInsight for Apache Kafka 3.2.0 now available for public preview and ready for production workloads.",
+          "pubDate": "Wed, 29 Mar 2023 18:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure HDInsight for Apache Kafka 3.2.0 now available for public preview and ready for production workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "hdinsight"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/hdinsight/",
+          "title": "HDInsight",
+          "description": "Azure HDInsight for Apache Spark 3.3.0 is under development.",
+          "pubDate": "Wed, 29 Mar 2023 18:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure HDInsight for Apache Spark 3.3.0 is under development."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-mount-azure-files-and-ephemeral-storage-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-mount-azure-files-and-ephemeral-storage-in-azure-container-apps/",
+          "title": "Generally available: Mount Azure Files and ephemeral storage in Azure Container Apps",
+          "description": "Persist data in Azure Container Apps via mounted volumes.",
+          "pubDate": "Wed, 29 Mar 2023 18:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Persist data in Azure Container Apps via mounted volumes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-maps-is-now-hipaa-health-insurance-portability-and-accountability-act-compliant-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-is-now-hipaa-health-insurance-portability-and-accountability-act-compliant-2/",
+          "title": "Azure Maps is now HIPAA (Health Insurance Portability and Accountability Act) compliant",
+          "description": "Azure Maps ensures HIPAA compliance is achieved for protected health information (PHI), such as geocoding patient home addresses.",
+          "pubDate": "Wed, 29 Mar 2023 18:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Maps ensures HIPAA compliance is achieved for protected health information (PHI), such as geocoding patient home addresses."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-simplified-flush-operation-for-caches-using-active-georeplication"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-simplified-flush-operation-for-caches-using-active-georeplication/",
+          "title": "Public Preview: Simplified flush operation for caches using active geo-replication",
+          "description": "Flush all data from active geo-replicated caches using portal, PowerShell, or CLI",
+          "pubDate": "Wed, 29 Mar 2023 18:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Flush all data from active geo-replicated caches using portal, PowerShell, or CLI"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-inplace-scaling-for-enterprise-caches"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-inplace-scaling-for-enterprise-caches/",
+          "title": "Public Preview: In-place scaling for enterprise caches",
+          "description": "Scale enterprise caches up or out without disrupting the operation of the current cache using in-place scaling.",
+          "pubDate": "Wed, 29 Mar 2023 18:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Scale enterprise caches up or out without disrupting the operation of the current cache using in-place scaling."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-aks-support-for-kubernetes-126-release"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-kubernetes-126-release/",
+          "title": "Public preview: AKS support for Kubernetes 1.26 release",
+          "description": "You can now try out Kubernetes v1.26 features with Azure Kubernetes Service",
+          "pubDate": "Wed, 29 Mar 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now try out Kubernetes v1.26 features with Azure Kubernetes Service"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -898,21 +1003,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
-          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
-          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-red-hat-openshift-march-updates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
@@ -922,6 +1012,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
+          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
+          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
           },
           "content:encoded": null
         },
@@ -2948,132 +3053,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "This refresh updates the module's dependencies and base image."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-active-directory-authentication-for-exporting-and-importing-managed-disks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-active-directory-authentication-for-exporting-and-importing-managed-disks/",
-          "title": "General Availability: Azure Active Directory authentication for exporting and importing Managed Disks",
-          "description": "New integration with Azure Active Directory (AD) to export and import data to Azure Managed Disks improves security",
-          "pubDate": "Wed, 11 Jan 2023 17:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New integration with Azure Active Directory (AD) to export and import data to Azure Managed Disks improves security"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-switzerland-north-and-korea-south"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-switzerland-north-and-korea-south/",
-          "title": "Generally available: Azure Ultra Disk Storage in Switzerland North and Korea South",
-          "description": "Now available in Korea South and Switzerland North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads.",
-          "pubDate": "Wed, 11 Jan 2023 17:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in Korea South and Switzerland North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-application-consistent-snapshot-tool-azacsnap-7"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-application-consistent-snapshot-tool-azacsnap-7/",
-          "title": "General Availability: AzAcSnap 7 — Azure Application Consistent Snapshot tool updates",
-          "description": "AzAcSnap Version 7 Release",
-          "pubDate": "Wed, 11 Jan 2023 17:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AzAcSnap Version 7 Release"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-synapse-runtime-for-apache-spark-33"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-runtime-for-apache-spark-33/",
-          "category": [
-            "Apache",
-            "Apache Spark",
-            "Apache Spark 3.3",
-            "Azure Synapse Analytics",
-            "Azure Synapse",
-            "Analytics",
-            "Azure",
-            "Spark",
-            "Spark 3.3"
-          ],
-          "title": "Public preview: Azure Synapse Runtime for Apache Spark 3.3",
-          "description": "You can now create Azure Synapse Runtime for Apache Spark 3.3. The essential changes include features which come from upgrading Apache Spark to version 3.3.1, and upgrading Delta Lake.",
-          "pubDate": "Tue, 10 Jan 2023 17:00:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now create Azure Synapse Runtime for Apache Spark 3.3. The essential changes include features which come from upgrading Apache Spark to version 3.3.1, and upgrading Delta Lake."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "atscale-monitoring-for-azure-site-recovery-with-backup-center"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/atscale-monitoring-for-azure-site-recovery-with-backup-center/",
-          "title": "At-scale monitoring for Azure Site Recovery with Backup center",
-          "description": "The new enhancements released in Backup center enable you to monitor replicated items, jobs and manage them across subscriptions, resource groups and locations from a single view.",
-          "pubDate": "Mon, 09 Jan 2023 18:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new enhancements released in Backup center enable you to monitor replicated items, jobs and manage them across subscriptions, resource groups and locations from a single view."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "cosmos-db-adx-synapse-link-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/cosmos-db-adx-synapse-link-public-preview/",
-          "category": [
-            "adx",
-            "data-explorer",
-            "kusto",
-            "cosmosdb"
-          ],
-          "title": "Public Preview:  Azure Cosmos DB to Azure Data Explorer Synapse Link",
-          "description": "Now in public preview:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time.",
-          "pubDate": "Mon, 09 Jan 2023 17:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now in public preview:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-capture-event-hubs-data-with-stream-analytics-nocode-editor-in-delta-lake-format"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-capture-event-hubs-data-with-stream-analytics-nocode-editor-in-delta-lake-format/",
-          "category": [
-            "Stream Analytic",
-            "Even Hub"
-          ],
-          "title": "Public preview: Capture Event Hubs data with Stream Analytics no-code editor in Delta Lake format",
-          "description": "Stream Analytics no-code editor now supports capturing Event Hubs data into ADLS gen2 with Delta Lake format.",
-          "pubDate": "Mon, 09 Jan 2023 17:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stream Analytics no-code editor now supports capturing Event Hubs data into ADLS gen2 with Delta Lake format."
           },
           "content:encoded": null
         }
