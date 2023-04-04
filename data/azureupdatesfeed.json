@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 04 Apr 2023 16:18:05 Z",
+      "lastBuildDate": "Tue, 04 Apr 2023 17:10:39 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-private-application-gateway-v2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-private-application-gateway-v2/",
+          "title": "Public preview: Private Application Gateway v2",
+          "description": "Application Gateway v2 is introducing support for private IP only frontend configurations, enhanced control over NSG rules, and support for forced tunneling/route table rules to virtual appliances.",
+          "pubDate": "Tue, 04 Apr 2023 16:38:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application Gateway v2 is introducing support for private IP only frontend configurations, enhanced control over NSG rules, and support for forced tunneling/route table rules to virtual appliances."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3039,21 +3054,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Maximum Put Blob size is now increasing to 5 GB"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-container-insights-support-for-aks-hybrid-clusters"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-container-insights-support-for-aks-hybrid-clusters/",
-          "title": "Public Preview: Container insights support for AKS hybrid clusters",
-          "description": "Container insights now supports AKS hybrid clusters",
-          "pubDate": "Mon, 23 Jan 2023 18:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Container insights now supports AKS hybrid clusters"
           },
           "content:encoded": null
         }
