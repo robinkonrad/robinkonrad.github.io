@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 04 Apr 2023 18:15:04 Z",
+      "lastBuildDate": "Tue, 04 Apr 2023 19:10:38 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-ip-protection-sku-for-azure-ddos-protection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ip-protection-sku-for-azure-ddos-protection/",
+          "title": "General availability: IP Protection SKU for Azure DDoS Protection",
+          "description": "IP Protection provides cost-effective, enterprise-grade DDoS protection designed to meet the needs of SMB.",
+          "pubDate": "Tue, 04 Apr 2023 19:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "IP Protection provides cost-effective, enterprise-grade DDoS protection designed to meet the needs of SMB."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1218,21 +1233,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-march-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
-          "title": "Azure Red Hat OpenShift March Updates",
-          "description": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance.",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
@@ -1242,6 +1242,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-red-hat-openshift-march-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
+          "title": "Azure Red Hat OpenShift March Updates",
+          "description": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance.",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
           },
           "content:encoded": null
         },
@@ -3039,21 +3054,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Application security groups (ASGs) support for private endpoints is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-mount-azure-storage-as-a-local-share-in-app-service-windows-code"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-mount-azure-storage-as-a-local-share-in-app-service-windows-code/",
-          "title": "General availability: Mount Azure Storage as a local share in App Service Windows Code",
-          "description": "Mounting Azure Storage File share as a network share in Windows code (non-container) in App Service is now generally available.",
-          "pubDate": "Tue, 24 Jan 2023 17:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Mounting Azure Storage File share as a network share in Windows code (non-container) in App Service is now generally available."
           },
           "content:encoded": null
         }
