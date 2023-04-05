@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2023 17:13:41 Z</lastBuildDate>
+    <lastBuildDate>Wed, 05 Apr 2023 18:19:28 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">large-disk-hyperv-dr</guid>
+      <link>https://azure.microsoft.com/en-us/updates/large-disk-hyperv-dr/</link>
+      <title>Generally available: Large disk support for disaster recovery of Hyper-V VMs using Site Recovery</title>
+      <description>You can now enable disaster recovery for Hyper-VMs with data disks up to 32 TB in size.</description>
+      <pubDate>Wed, 05 Apr 2023 18:00:04 Z</pubDate>
+      <atom:content
+        type="text">You can now enable disaster recovery for Hyper-VMs with data disks up to 32 TB in size.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">ultra-disk-backup-support</guid>
@@ -2232,18 +2243,6 @@
       <pubDate>Wed, 25 Jan 2023 17:00:00 Z</pubDate>
       <atom:content
         type="text">To ensure business continuity, incremental snapshots for Ultra Disks are now available in public preview in the Sweden Central and US West 3 Azure region. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">indirect-billing-experience-on-cost-management-and-billing</guid>
-      <link>https://azure.microsoft.com/en-us/updates/indirect-billing-experience-on-cost-management-and-billing/</link>
-      <category>AzurePortal</category>
-      <title>Generally available: Indirect enterprise agreement on Azure Cost Management and Billing</title>
-      <description>Manage your enrollment hierarchy, view account usage, and monitor costs directly from the Azure Cost Management and Billing menu on the Azure portal (for indirect enterprise agreement customers)</description>
-      <pubDate>Tue, 24 Jan 2023 18:00:11 Z</pubDate>
-      <atom:content
-        type="text">Manage your enrollment hierarchy, view account usage, and monitor costs directly from the Azure Cost Management and Billing menu on the Azure portal (for indirect enterprise agreement customers)</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

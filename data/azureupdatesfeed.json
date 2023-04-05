@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 05 Apr 2023 17:13:41 Z",
+      "lastBuildDate": "Wed, 05 Apr 2023 18:19:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "large-disk-hyperv-dr"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/large-disk-hyperv-dr/",
+          "title": "Generally available: Large disk support for disaster recovery of Hyper-V VMs using Site Recovery",
+          "description": "You can now enable disaster recovery for Hyper-VMs with data disks up to 32 TB in size.",
+          "pubDate": "Wed, 05 Apr 2023 18:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now enable disaster recovery for Hyper-VMs with data disks up to 32 TB in size."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3037,22 +3052,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "To ensure business continuity, incremental snapshots for Ultra Disks are now available in public preview in the Sweden Central and US West 3 Azure region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "indirect-billing-experience-on-cost-management-and-billing"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/indirect-billing-experience-on-cost-management-and-billing/",
-          "category": "AzurePortal",
-          "title": "Generally available: Indirect enterprise agreement on Azure Cost Management and Billing",
-          "description": "Manage your enrollment hierarchy, view account usage, and monitor costs directly from the Azure Cost Management and Billing menu on the Azure portal (for indirect enterprise agreement customers)",
-          "pubDate": "Tue, 24 Jan 2023 18:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Manage your enrollment hierarchy, view account usage, and monitor costs directly from the Azure Cost Management and Billing menu on the Azure portal (for indirect enterprise agreement customers)"
           },
           "content:encoded": null
         }
