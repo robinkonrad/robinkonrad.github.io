@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 05 Apr 2023 15:15:54 Z",
+      "lastBuildDate": "Wed, 05 Apr 2023 16:21:41 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ultra-disk-backup-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ultra-disk-backup-support/",
+          "title": "Public Preview: Support for Azure VMs using Ultra disks in Azure Backup",
+          "description": "Public preview for the support for Azure VMs using Ultra disks in Azure Backup.",
+          "pubDate": "Wed, 05 Apr 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for the support for Azure VMs using Ultra disks in Azure Backup."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3038,22 +3053,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Manage your enrollment hierarchy, view account usage, and monitor costs directly from the Azure Cost Management and Billing menu on the Azure portal (for indirect enterprise agreement customers)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-application-security-groups-support-for-private-endpoints"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-security-groups-support-for-private-endpoints/",
-          "category": "azure private link",
-          "title": "General availability: Application security groups support for private endpoints",
-          "description": "Application security groups (ASGs) support for private endpoints is now generally available.",
-          "pubDate": "Tue, 24 Jan 2023 17:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application security groups (ASGs) support for private endpoints is now generally available."
           },
           "content:encoded": null
         }
