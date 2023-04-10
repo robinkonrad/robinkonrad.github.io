@@ -12,13 +12,58 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 10 Apr 2023 15:12:16 Z",
+      "lastBuildDate": "Mon, 10 Apr 2023 16:17:15 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-nginxaas-azure-native-isv-service"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-nginxaas-azure-native-isv-service/",
+          "title": "General Availability: NGINXaaS - Azure Native ISV Service",
+          "description": "Natively integrated software as a service (SaaS) solution for advanced traffic management and monitoring on Azure.",
+          "pubDate": "Mon, 10 Apr 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Natively integrated software as a service (SaaS) solution for advanced traffic management and monitoring on Azure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-chaos-studio-is-now-available-in-sweden-central-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-sweden-central-region/",
+          "title": "Public Preview: Azure Chaos Studio is now available in Sweden Central region",
+          "description": "Azure Chaos Studio is now available in Sweden Central region.",
+          "pubDate": "Mon, 10 Apr 2023 16:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio is now available in Sweden Central region."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-managed-service-for-prometheus-has-updated-our-aks-addon-to-support-windows-nodes"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-has-updated-our-aks-addon-to-support-windows-nodes/",
+          "title": "Azure Monitor managed service for Prometheus has updated our AKS add-on to support Windows nodes",
+          "description": "Azure Monitor managed service for Prometheus has updated our AKS metrics add-on to support Prometheus metric collection from the Windows nodes in your AKS clusters.",
+          "pubDate": "Mon, 10 Apr 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor managed service for Prometheus has updated our AKS metrics add-on to support Prometheus metric collection from the Windows nodes in your AKS clusters."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3006,52 +3051,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Intel E5-2673 (Haswell) v3-based CPUs used in Gen 4 hardware will no longer be supported after 31 March 2023.  Transition to newer compute hardware for your Azure SQL databases and instances."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-apply-azure-storage-access-tiers-to-append-blobs-and-page-blobs-with-blob-type-conversion"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-apply-azure-storage-access-tiers-to-append-blobs-and-page-blobs-with-blob-type-conversion/",
-          "category": "Azure Storage; Access Tiers; Blob Storage",
-          "title": "Generally available: Apply Azure storage access tiers to append blobs and page blobs with blob type conversion",
-          "description": "Convert append blobs and page blobs to block blobs so that you can apply access tiers.",
-          "pubDate": "Mon, 30 Jan 2023 18:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Convert append blobs and page blobs to block blobs so that you can apply access tiers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "chaos-studio-public-preview-updates-for-january-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/chaos-studio-public-preview-updates-for-january-2023/",
-          "title": "Chaos studio - Public preview updates for January 2023",
-          "description": "Public preview enhancements and updates released for Chaos Studio in January 2023.",
-          "pubDate": "Mon, 30 Jan 2023 17:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Chaos Studio in January 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-incremental-snapshots-for-ultra-disk-storage"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-incremental-snapshots-for-ultra-disk-storage/",
-          "title": "Public preview: Incremental snapshots for Ultra Disk Storage",
-          "description": "To ensure business continuity, incremental snapshots for Ultra Disks are now available in public preview in the Sweden Central and US West 3 Azure region.",
-          "pubDate": "Wed, 25 Jan 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "To ensure business continuity, incremental snapshots for Ultra Disks are now available in public preview in the Sweden Central and US West 3 Azure region."
           },
           "content:encoded": null
         }
