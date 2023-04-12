@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 12 Apr 2023 15:13:57 Z",
+      "lastBuildDate": "Wed, 12 Apr 2023 16:17:55 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability/",
+          "title": "Public Preview: Database-is-alive metrics for monitoring Azure Postgres Flexible Server database availability.",
+          "description": "Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via Database-is-alive metric.",
+          "pubDate": "Wed, 12 Apr 2023 16:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via Database-is-alive metric."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3035,22 +3050,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Red Hat OpenShift is now generally available for Azure Government customers (federal, state, local governments, and their partners)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-gen-4-hardware-approaching-end-of-life-31-march-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-gen-4-hardware-approaching-end-of-life-31-march-2023/",
-          "category": "Tag = AzurePortal",
-          "title": "Azure SQL Gen 4 hardware approaching end of life 31 March 2023",
-          "description": "Intel E5-2673 (Haswell) v3-based CPUs used in Gen 4 hardware will no longer be supported after 31 March 2023.  Transition to newer compute hardware for your Azure SQL databases and instances.",
-          "pubDate": "Wed, 01 Feb 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Intel E5-2673 (Haswell) v3-based CPUs used in Gen 4 hardware will no longer be supported after 31 March 2023.  Transition to newer compute hardware for your Azure SQL databases and instances."
           },
           "content:encoded": null
         }
