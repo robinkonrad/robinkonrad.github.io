@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 13 Apr 2023 15:14:04 Z",
+      "lastBuildDate": "Thu, 13 Apr 2023 16:17:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-azuredataexplorer-managed-private-endpoint"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-azuredataexplorer-managed-private-endpoint/",
+          "title": "Connect Azure Stream Analytics to Azure Data Explorer using managed private endpoint.",
+          "description": "You can connect your Azure Stream Analytics job to Azure Data Explorer / Kusto clusters using managed private endpoints",
+          "pubDate": "Thu, 13 Apr 2023 16:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can connect your Azure Stream Analytics job to Azure Data Explorer / Kusto clusters using managed private endpoints"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-applicationinsight"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-applicationinsight/",
+          "title": "Use Stream Analytics to process exported data from Application Insights",
+          "description": "Use Stream Analytics to process exported data from Application Insights",
+          "pubDate": "Thu, 13 Apr 2023 16:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use Stream Analytics to process exported data from Application Insights"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3024,36 +3054,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now develop Python 3.10 apps locally and deploy them to all Azure Functions plans."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-python-310-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-python-310-support/",
-          "title": "Public preview: Python 3.10 Support",
-          "description": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-upgrade-scheduler"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-upgrade-scheduler/",
-          "title": "Public preview: Upgrade scheduler",
-          "description": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the upgrade scheduler feature instead of the planned maintenance feature for more flexibility."
           },
           "content:encoded": null
         }
