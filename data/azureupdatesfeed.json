@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 17 Apr 2023 17:12:15 Z",
+      "lastBuildDate": "Mon, 17 Apr 2023 18:17:07 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -32,6 +32,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Elastic SAN (preview) is now available in Australia East, North Europe, Sweden Central, UK South, West Europe, East US, East US 2, South Central US, and West US 3."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurecnioverlay"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurecnioverlay/",
+          "category": "AzureContainerNetworking",
+          "title": "General Availability: Azure CNI Overlay",
+          "description": "Azure CNI Overlay utilizes an overlay network to reduce IP utilization while providing better performance and scale.",
+          "pubDate": "Mon, 17 Apr 2023 15:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure CNI Overlay utilizes an overlay network to reduce IP utilization while providing better performance and scale."
           },
           "content:encoded": null
         },
@@ -3040,21 +3056,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Utilize new functionality that makes passive geo-replication more seamless and transparent."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-sdk-type-bindings"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sdk-type-bindings/",
-          "title": "Public Preview: SDK type bindings",
-          "description": "Azure Functions .NET isolated worker now supports blob triggers and input bindings.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions .NET isolated worker now supports blob triggers and input bindings."
           },
           "content:encoded": null
         }
