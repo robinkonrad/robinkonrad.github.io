@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 17 Apr 2023 14:12:58 Z",
+      "lastBuildDate": "Mon, 17 Apr 2023 15:14:25 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurecnioverlay"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurecnioverlay/",
+          "category": "AzureContainerNetworking",
+          "title": "General Availability: Azure CNI Overlay",
+          "description": "Azure CNI Overlay utilizes an overlay network to reduce IP utilization while providing better performance and scale.",
+          "pubDate": "Mon, 17 Apr 2023 15:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure CNI Overlay utilizes an overlay network to reduce IP utilization while providing better performance and scale."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3039,21 +3055,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now develop Python 3.10 apps locally and deploy them to all Azure Functions plans."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-python-310-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-python-310-support/",
-          "title": "Public preview: Python 3.10 Support",
-          "description": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications."
           },
           "content:encoded": null
         }
