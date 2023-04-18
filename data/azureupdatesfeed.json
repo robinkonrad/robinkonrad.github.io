@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 18 Apr 2023 14:15:25 Z",
+      "lastBuildDate": "Tue, 18 Apr 2023 15:15:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-app-service-new-premium-v3-offerings"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-app-service-new-premium-v3-offerings/",
+          "category": "App Service",
+          "title": "Generally Available:  Azure App Service - New Premium v3 Offerings",
+          "description": "Introducing two new offerings in the Premium v3 (Pv3) service tier on Azure App Service",
+          "pubDate": "Tue, 18 Apr 2023 15:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Introducing two new offerings in the Premium v3 (Pv3) service tier on Azure App Service"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ciliumenterpriseonazuremarketplace"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ciliumenterpriseonazuremarketplace/",
+          "title": "Public Preview: Isovalent Cilium Enterprise through Azure Marketplace",
+          "description": "Isovalent Cilium Enterprise is now available to Azure Kubernetes Service (AKS) customers in the Microsoft Azure Marketplace marking a key milestone in delivering the expansive eBPF-powered Cilium and Isovalent Cilium Enterprise to Azure Kubernetes Service and Azure.",
+          "pubDate": "Tue, 18 Apr 2023 15:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Isovalent Cilium Enterprise is now available to Azure Kubernetes Service (AKS) customers in the Microsoft Azure Marketplace marking a key milestone in delivering the expansive eBPF-powered Cilium and Isovalent Cilium Enterprise to Azure Kubernetes Service and Azure."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3026,36 +3057,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL in mid-February 20223"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-active-directory-for-azure-database-for-postgresql-flexible-server-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-active-directory-for-azure-database-for-postgresql-flexible-server-2/",
-          "title": "General availability: Azure Active Directory for Azure Database for PostgreSQL – Flexible Server",
-          "description": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server.",
-          "pubDate": "Wed, 15 Feb 2023 18:01:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-improved-georeplication-for-azure-cache-for-redis-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-improved-georeplication-for-azure-cache-for-redis-2/",
-          "title": "General availability: Improved geo-replication for Azure Cache for Redis",
-          "description": "Utilize new functionality that makes passive geo-replication more seamless and transparent.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:57 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Utilize new functionality that makes passive geo-replication more seamless and transparent."
           },
           "content:encoded": null
         }
