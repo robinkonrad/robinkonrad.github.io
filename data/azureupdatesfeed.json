@@ -12,13 +12,163 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 19 Apr 2023 05:13:11 Z",
+      "lastBuildDate": "Wed, 19 Apr 2023 06:17:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-kubernetes-126-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubernetes-126-support-in-aks/",
+          "title": "Generally Available: Kubernetes 1.26 support in AKS",
+          "description": "Benefit from Kubernetes 1.26 features in production.",
+          "pubDate": "Wed, 19 Apr 2023 06:01:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Benefit from Kubernetes 1.26 features in production."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-aks-service-mesh-addon-for-istio"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-aks-service-mesh-addon-for-istio/",
+          "title": "Public preview: AKS service mesh addon for Istio",
+          "description": "Installing and using Istio on your AKS clusters is now easier.",
+          "pubDate": "Wed, 19 Apr 2023 06:01:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Installing and using Istio on your AKS clusters is now easier."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "karpenter-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/karpenter-support-in-aks/",
+          "title": "Karpenter support in AKS",
+          "description": "Karpenter support in AKS simplifies the task of having the right infrastructure for your workloads.",
+          "pubDate": "Wed, 19 Apr 2023 06:01:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Karpenter support in AKS simplifies the task of having the right infrastructure for your workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-long-term-support-version-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-long-term-support-version-in-aks/",
+          "title": "Generally Available: Long term support version in AKS",
+          "description": "You now have the option to enable long term support for a specific Kubernetes version.",
+          "pubDate": "Wed, 19 Apr 2023 06:01:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You now have the option to enable long term support for a specific Kubernetes version."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-fail-fast-upgrade-on-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-fail-fast-upgrade-on-api-breaking-change-detection/",
+          "title": "Public preview: Fail Fast Upgrade on API Breaking change detection",
+          "description": "Use this feature to reduce time you have to spend on post upgrade workload troubleshooting",
+          "pubDate": "Wed, 19 Apr 2023 06:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use this feature to reduce time you have to spend on post upgrade workload troubleshooting"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cni-overlay-for-linux"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cni-overlay-for-linux/",
+          "title": "Generally Available: Azure CNI Overlay for Linux",
+          "description": "Simplify your AKS cluster management, routing configurations, and efficiently scale your clusters.",
+          "pubDate": "Wed, 19 Apr 2023 06:00:49 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Simplify your AKS cluster management, routing configurations, and efficiently scale your clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "opencost-for-aks-cost-visibility"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/opencost-for-aks-cost-visibility/",
+          "title": "OpenCost for AKS cost visibility",
+          "description": "Get greater visibility into current and historic Kubernetes spend and resource allocation..",
+          "pubDate": "Wed, 19 Apr 2023 06:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Get greater visibility into current and historic Kubernetes spend and resource allocation.."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-active-directory-workload-identity-with-aks-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-active-directory-workload-identity-with-aks-2/",
+          "title": "GA: Azure Active Directory workload identity with AKS",
+          "description": "You can now use AAD workload identity with AKS in production",
+          "pubDate": "Wed, 19 Apr 2023 06:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use AAD workload identity with AKS in production"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-service-operator-stable-release-version-20-now-available-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-service-operator-stable-release-version-20-now-available-2/",
+          "title": "Azure Service Operator stable release version 2.0 now available",
+          "description": "Create and manage over 100 Azure resources such as databases, storage accounts, VMs, and more from within Kubernetes.",
+          "pubDate": "Wed, 19 Apr 2023 06:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Create and manage over 100 Azure resources such as databases, storage accounts, VMs, and more from within Kubernetes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "hotpatch-is-now-available-on-preview-images-of-windows-server-vms-on-azure-with-the-desktop-experience-installation-mode"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/hotpatch-is-now-available-on-preview-images-of-windows-server-vms-on-azure-with-the-desktop-experience-installation-mode/",
+          "title": "Hotpatch is now available on preview images of Windows Server VMs on Azure with the Desktop Experience installation mode",
+          "description": "Hotpatch is available for preview images of Windows Server Azure Edition VMs running the Desktop Experience installation mode.",
+          "pubDate": "Tue, 18 Apr 2023 20:40:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Hotpatch is available for preview images of Windows Server Azure Edition VMs running the Desktop Experience installation mode."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -145,21 +295,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
-          "title": "Azure SQL—General availability updates for mid-April 2023",
-          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
@@ -169,6 +304,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
+          "title": "Azure SQL—General availability updates for mid-April 2023",
+          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
           },
           "content:encoded": null
         },
@@ -2907,156 +3057,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-encryption-using-cmk-for-azure-database-for-postgresql-flexible-server-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-cmk-for-azure-database-for-postgresql-flexible-server-2/",
-          "title": "General availability: Encryption using CMK for Azure Database for PostgreSQL – Flexible Server",
-          "description": "Use infrastructure encryption to add an additional layer of encryption for data at rest using customer-managed keys.",
-          "pubDate": "Wed, 15 Feb 2023 18:01:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use infrastructure encryption to add an additional layer of encryption for data at rest using customer-managed keys."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-50k-relationships-per-twin-support-in-azure-digital-twins"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-50k-relationships-per-twin-support-in-azure-digital-twins/",
-          "title": "GA: 50K relationships per twin support in Azure Digital Twins",
-          "description": "ADT Relationship limit increase: 50,000 relationships for a single twin",
-          "pubDate": "Wed, 15 Feb 2023 18:01:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ADT Relationship limit increase: 50,000 relationships for a single twin"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-vbs-enclaves-for-always-encrypted-in-azure-sql-database"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-vbs-enclaves-for-always-encrypted-in-azure-sql-database/",
-          "title": "Public preview: VBS enclaves for Always Encrypted in Azure SQL Database",
-          "description": "VBS enclaves enable you with the flexibility to use Always Encrypted with secure enclaves in all Azure SQL Database offerings.",
-          "pubDate": "Wed, 15 Feb 2023 18:01:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves enable you with the flexibility to use Always Encrypted with secure enclaves in all Azure SQL Database offerings."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-jobs-api-to-support-bulk-import-in-azure-digital-twins"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-jobs-api-to-support-bulk-import-in-azure-digital-twins/",
-          "title": "Public Preview: Jobs API to support bulk import in Azure Digital Twins",
-          "description": "Public preview for bulk import support for Azure Digital Twins",
-          "pubDate": "Wed, 15 Feb 2023 18:01:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview for bulk import support for Azure Digital Twins"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-midfebruary-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midfebruary-2023/",
-          "title": "Azure SQL—General availability updates for mid-February 2023",
-          "description": "General availability enhancements and updates released for Azure SQL in mid-February 20223",
-          "pubDate": "Wed, 15 Feb 2023 18:01:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL in mid-February 20223"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-active-directory-for-azure-database-for-postgresql-flexible-server-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-active-directory-for-azure-database-for-postgresql-flexible-server-2/",
-          "title": "General availability: Azure Active Directory for Azure Database for PostgreSQL – Flexible Server",
-          "description": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server.",
-          "pubDate": "Wed, 15 Feb 2023 18:01:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use Azure Active Directory-based authentication methods using Azure Active Directory principals, managed identities, and groups to connect and access Azure Database for PostgreSQL - Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-improved-georeplication-for-azure-cache-for-redis-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-improved-georeplication-for-azure-cache-for-redis-2/",
-          "title": "General availability: Improved geo-replication for Azure Cache for Redis",
-          "description": "Utilize new functionality that makes passive geo-replication more seamless and transparent.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:57 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Utilize new functionality that makes passive geo-replication more seamless and transparent."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-sdk-type-bindings"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sdk-type-bindings/",
-          "title": "Public Preview: SDK type bindings",
-          "description": "Azure Functions .NET isolated worker now supports blob triggers and input bindings.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:53 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions .NET isolated worker now supports blob triggers and input bindings."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-functions-support-for-python-310"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-python-310/",
-          "title": "Generally available: Azure Functions support for Python 3.10",
-          "description": "You can now develop Python 3.10 apps locally and deploy them to all Azure Functions plans.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now develop Python 3.10 apps locally and deploy them to all Azure Functions plans."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-python-310-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-python-310-support/",
-          "title": "Public preview: Python 3.10 Support",
-          "description": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications.",
-          "pubDate": "Wed, 15 Feb 2023 18:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Static Web Apps now supports building and deploying full-stack Python 3.10 applications."
           },
           "content:encoded": null
         }
