@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 19 Apr 2023 16:18:07 Z",
+      "lastBuildDate": "Wed, 19 Apr 2023 17:12:09 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "cyclecloud840"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/cyclecloud840/",
+          "title": "Azure CycleCloud 8.4.0 release",
+          "description": "We’re excited to announce the release of CycleCloud 8.4.0. Here is the list of the improvements and bug fixes:\n\nNew Features\n•\tSlurm 3.0 is now supported\no\tSupport for dynamic nodes, and dynamic partitions via dynamic nodearrays, supporting both single and multiple VM sizes\no\tNew slurm versions 23.02 and 22.05.8\no\tCost reporting via azslurm CLI\no\tazslurm cli based autoscaler\no\tUbuntu 20 support\no\tRemoved need for topology plugin, and therefore also any submit plugin\n•\tEncryption-At-Host is now supported\n•\tAdded Event Log for auditing storage credentials\n•\tCluster usage schema now includes VM size details\n•\tNew regions supported for pricing, including Poland, Sweden, and Jio India\nResolved Issues\n•\tVMSS which were removed outside of CycleCloud could trigger a null-pointer exception.\n•\tUsers were not able to interact with checkboxes in forms\n•\tnode.json was not parsed using utf-8 encoding on Windows\n•\tPricing for Ultra disks was not collected correctly\n•\tVMs using Ultra disks failed to be created if there was no price information\n•\tRestoring from backup sometimes picked an older version to restore from\n•\tRestoring from backup did not work if port 80/443 were in use\n•\tLSF example template was broken\n•\tIn certain cases, nodes could be added to the cluster but not counted against the limits\n•\tUsers were not able to change their password\n•\tCVE-2021-43980 is mitigated\n\n    \n\nHere’s a link to the release notes in our public documentation: Release Notes v8.4.0 - Azure CycleCloud | Microsoft Learn\n \nUPGRADING CYCLECLOUD\n \nPlease follow these links depending on the customer’s configuration:\n\tUpgrading on Debian or Ubuntu\n\tUpgrading on Enterprise Linux (RHEL) clones\n\tUpgrading from the Microsoft Download center\n \nMore info: Upgrade or Migrate - Azure CycleCloud | Microsoft Docs\n \nQUESTIONS?\n \nPlease feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleCloud Teams channel",
+          "pubDate": "Wed, 19 Apr 2023 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We’re excited to announce the release of CycleCloud 8.4.0. Here is the list of the improvements and bug fixes:\n\nNew Features\n•\tSlurm 3.0 is now supported\no\tSupport for dynamic nodes, and dynamic partitions via dynamic nodearrays, supporting both single and multiple VM sizes\no\tNew slurm versions 23.02 and 22.05.8\no\tCost reporting via azslurm CLI\no\tazslurm cli based autoscaler\no\tUbuntu 20 support\no\tRemoved need for topology plugin, and therefore also any submit plugin\n•\tEncryption-At-Host is now supported\n•\tAdded Event Log for auditing storage credentials\n•\tCluster usage schema now includes VM size details\n•\tNew regions supported for pricing, including Poland, Sweden, and Jio India\nResolved Issues\n•\tVMSS which were removed outside of CycleCloud could trigger a null-pointer exception.\n•\tUsers were not able to interact with checkboxes in forms\n•\tnode.json was not parsed using utf-8 encoding on Windows\n•\tPricing for Ultra disks was not collected correctly\n•\tVMs using Ultra disks failed to be created if there was no price information\n•\tRestoring from backup sometimes picked an older version to restore from\n•\tRestoring from backup did not work if port 80/443 were in use\n•\tLSF example template was broken\n•\tIn certain cases, nodes could be added to the cluster but not counted against the limits\n•\tUsers were not able to change their password\n•\tCVE-2021-43980 is mitigated\n\n    \n\nHere’s a link to the release notes in our public documentation: Release Notes v8.4.0 - Azure CycleCloud | Microsoft Learn\n \nUPGRADING CYCLECLOUD\n \nPlease follow these links depending on the customer’s configuration:\n\tUpgrading on Debian or Ubuntu\n\tUpgrading on Enterprise Linux (RHEL) clones\n\tUpgrading from the Microsoft Download center\n \nMore info: Upgrade or Migrate - Azure CycleCloud | Microsoft Docs\n \nQUESTIONS?\n \nPlease feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleCloud Teams channel"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-container-apps-available-in-azure-china"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-available-in-azure-china/",
+          "title": "Public preview: Azure Container Apps available in Azure China",
+          "description": "You can now use Azure Container Apps in Azure China.",
+          "pubDate": "Wed, 19 Apr 2023 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure Container Apps in Azure China."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1855,21 +1885,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-march-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
-          "title": "Azure Red Hat OpenShift March Updates",
-          "description": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance.",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
@@ -1879,6 +1894,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-red-hat-openshift-march-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
+          "title": "Azure Red Hat OpenShift March Updates",
+          "description": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance.",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
           },
           "content:encoded": null
         },
@@ -3027,36 +3057,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Durable Functions support for .NET 7.0 running in the isolated worker process is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-communication-services-chat-for-bot-framewor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-communication-services-chat-for-bot-framewor/",
-          "title": "Public Preview: Azure Communication Services Chat for Bot Framework",
-          "description": "Build conversational AI experiences with Azure Communication Services. Use virtual chat agents to manage growing customer service needs and provide in-chat intelligence with the help of smart assistants.",
-          "pubDate": "Wed, 15 Feb 2023 18:01:57 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Build conversational AI experiences with Azure Communication Services. Use virtual chat agents to manage growing customer service needs and provide in-chat intelligence with the help of smart assistants."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-major-version-upgrade-in-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-major-version-upgrade-in-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Major version upgrade in Azure Database for PostgreSQL – Flexible Server",
-          "description": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server.",
-          "pubDate": "Wed, 15 Feb 2023 18:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server."
           },
           "content:encoded": null
         }
