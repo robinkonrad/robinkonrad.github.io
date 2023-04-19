@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Apr 2023 18:17:06 Z</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 19:11:21 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azurefilessmblinuxad</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azurefilessmblinuxad/</link>
+      <title>General Availability: Support for Linux clients to use identity-based access to Azure file shares over SMB</title>
+      <description>Linux SMB clients can now use Azure Files identity based authentication and authorization. This capability is available to devices that are domain joined to either customer-managed Microsoft AD DS or Azure AD DS. </description>
+      <pubDate>Wed, 19 Apr 2023 19:00:34 Z</pubDate>
+      <atom:content
+        type="text">Linux SMB clients can now use Azure Files identity based authentication and authorization. This capability is available to devices that are domain joined to either customer-managed Microsoft AD DS or Azure AD DS. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">cyclecloud840</guid>
@@ -147,17 +158,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
     </item>
     <item>
       <guid
-        isPermaLink="false">karpenter-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/karpenter-support-in-aks/</link>
-      <title>Karpenter support in AKS </title>
-      <description>Karpenter support in AKS simplifies the task of having the right infrastructure for your workloads. </description>
-      <pubDate>Wed, 19 Apr 2023 06:01:08 Z</pubDate>
-      <atom:content
-        type="text">Karpenter support in AKS simplifies the task of having the right infrastructure for your workloads. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-long-term-support-version-in-aks</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-long-term-support-version-in-aks/</link>
       <title>Generally Available: Long term support version in AKS</title>
@@ -266,6 +266,17 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Mon, 17 Apr 2023 17:00:18 Z</pubDate>
       <atom:content
         type="text">Azure Elastic SAN (preview) is now available in Australia East, North Europe, Sweden Central, UK South, West Europe, East US, East US 2, South Central US, and West US 3. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-storage-mover-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-storage-mover-is-now-generally-available/</link>
+      <title>Azure Storage Mover is now Generally Available</title>
+      <description>We are excited to announce that Azure Storage Mover is now generally available. </description>
+      <pubDate>Mon, 17 Apr 2023 17:00:00 Z</pubDate>
+      <atom:content
+        type="text">We are excited to announce that Azure Storage Mover is now generally available. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1042,6 +1053,17 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
     </item>
     <item>
       <guid
+        isPermaLink="false">docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/</link>
+      <title>Docker container runtime retirement for Windows node pools effective May 1, 2023</title>
+      <description>Migrate to containers before May 1, 2023</description>
+      <pubDate>Fri, 24 Mar 2023 23:00:05 Z</pubDate>
+      <atom:content
+        type="text">Migrate to containers before May 1, 2023</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024</guid>
       <link>https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/</link>
       <category>Batch</category>
@@ -1050,17 +1072,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Fri, 24 Mar 2023 23:00:05 Z</pubDate>
       <atom:content
         type="text">Transition custom image pools use images from Azure Compute Gallery </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/</link>
-      <title>Docker container runtime retirement for Windows node pools effective May 1, 2023</title>
-      <description>Migrate to containers before May 1, 2023</description>
-      <pubDate>Fri, 24 Mar 2023 23:00:05 Z</pubDate>
-      <atom:content
-        type="text">Migrate to containers before May 1, 2023</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2321,17 +2332,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Wed, 15 Feb 2023 18:02:10 Z</pubDate>
       <atom:content
         type="text">You can now use Availability Zones with Azure Functions in Norway East, South Africa North, Switzerland North, and UAE North.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-durable-functions-support-for-net-isolated-model</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-durable-functions-support-for-net-isolated-model/</link>
-      <title>Generally Available: Durable Functions support for .NET isolated model </title>
-      <description>Durable Functions support for .NET 7.0 running in the isolated worker process is now generally available. </description>
-      <pubDate>Wed, 15 Feb 2023 18:02:04 Z</pubDate>
-      <atom:content
-        type="text">Durable Functions support for .NET 7.0 running in the isolated worker process is now generally available. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

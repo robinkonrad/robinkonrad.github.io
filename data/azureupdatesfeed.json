@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 19 Apr 2023 18:17:06 Z",
+      "lastBuildDate": "Wed, 19 Apr 2023 19:11:21 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurefilessmblinuxad"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurefilessmblinuxad/",
+          "title": "General Availability: Support for Linux clients to use identity-based access to Azure file shares over SMB",
+          "description": "Linux SMB clients can now use Azure Files identity based authentication and authorization. This capability is available to devices that are domain joined to either customer-managed Microsoft AD DS or Azure AD DS.",
+          "pubDate": "Wed, 19 Apr 2023 19:00:34 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Linux SMB clients can now use Azure Files identity based authentication and authorization. This capability is available to devices that are domain joined to either customer-managed Microsoft AD DS or Azure AD DS."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -76,21 +91,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Installing and using Istio on your AKS clusters is now easier."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "karpenter-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/karpenter-support-in-aks/",
-          "title": "Karpenter support in AKS",
-          "description": "Karpenter support in AKS simplifies the task of having the right infrastructure for your workloads.",
-          "pubDate": "Wed, 19 Apr 2023 06:01:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Karpenter support in AKS simplifies the task of having the right infrastructure for your workloads."
           },
           "content:encoded": null
         },
@@ -243,6 +243,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Elastic SAN (preview) is now available in Australia East, North Europe, Sweden Central, UK South, West Europe, East US, East US 2, South Central US, and West US 3."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-storage-mover-is-now-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-storage-mover-is-now-generally-available/",
+          "title": "Azure Storage Mover is now Generally Available",
+          "description": "We are excited to announce that Azure Storage Mover is now generally available.",
+          "pubDate": "Mon, 17 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are excited to announce that Azure Storage Mover is now generally available."
           },
           "content:encoded": null
         },
@@ -1297,6 +1312,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -1307,21 +1337,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3042,21 +3057,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use Availability Zones with Azure Functions in Norway East, South Africa North, Switzerland North, and UAE North."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-durable-functions-support-for-net-isolated-model"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-durable-functions-support-for-net-isolated-model/",
-          "title": "Generally Available: Durable Functions support for .NET isolated model",
-          "description": "Durable Functions support for .NET 7.0 running in the isolated worker process is now generally available.",
-          "pubDate": "Wed, 15 Feb 2023 18:02:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Durable Functions support for .NET 7.0 running in the isolated worker process is now generally available."
           },
           "content:encoded": null
         }
