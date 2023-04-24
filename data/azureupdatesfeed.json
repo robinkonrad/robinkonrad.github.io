@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 24 Apr 2023 16:17:54 Z",
+      "lastBuildDate": "Mon, 24 Apr 2023 17:12:21 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "confidential-vms-with-intel-tdx-dcesv5-ecesv5"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/confidential-vms-with-intel-tdx-dcesv5-ecesv5/",
+          "title": "Preview: Introducing DCesv5 and ECesv5-series Confidential VMs with Intel TDX",
+          "description": "Today, we’re excited to announce the expansion of our Confidential VM family with the launch of the DCesv5-series and ECesv5-series in preview. Featuring 4th Gen Intel® Xeon® Scalable processors, these VMs are backed by an all-new hardware-based Trusted Execution Environment called Intel® Trust Domain Extensions (TDX). Organizations can use these VMs to seamlessly bring confidential workloads to the cloud without any code changes to their applications.",
+          "pubDate": "Mon, 24 Apr 2023 17:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Today, we’re excited to announce the expansion of our Confidential VM family with the launch of the DCesv5-series and ECesv5-series in preview. Featuring 4th Gen Intel® Xeon® Scalable processors, these VMs are backed by an all-new hardware-based Trusted Execution Environment called Intel® Trust Domain Extensions (TDX). Organizations can use these VMs to seamlessly bring confidential workloads to the cloud without any code changes to their applications."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1358,21 +1373,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -1383,6 +1383,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -1946,21 +1961,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
-          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
-          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-red-hat-openshift-march-updates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
@@ -1970,6 +1970,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
+          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
+          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
           },
           "content:encoded": null
         },
@@ -3042,22 +3057,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup now provides an improved experience for creating and using private endpoints for your Recovery Services vaults."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-site-recovery-update-rollup-66-february-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-66-february-2023/",
-          "category": "azure-site-recovery",
-          "title": "Generally available: Azure Site Recovery update rollup 66 - February 2023",
-          "description": "This article describes the improvements for the latest version of Azure Site Recovery components.",
-          "pubDate": "Thu, 16 Feb 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "This article describes the improvements for the latest version of Azure Site Recovery components."
           },
           "content:encoded": null
         }
