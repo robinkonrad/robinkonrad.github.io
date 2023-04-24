@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 24 Apr 2023 17:12:21 Z",
+      "lastBuildDate": "Mon, 24 Apr 2023 18:16:55 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-service-fabric-91-third-refresh-release-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-service-fabric-91-third-refresh-release-2/",
+          "title": "Azure Service Fabric 9.1 Third Refresh Release",
+          "description": "This release includes new features and fixes.",
+          "pubDate": "Mon, 24 Apr 2023 18:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This release includes new features and fixes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-crossregion-service-endpoints-for-azure-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-crossregion-service-endpoints-for-azure-storage/",
+          "title": "Generally available: Cross-region service endpoints for Azure Storage",
+          "description": "You can now connect Storage Accounts to Virtual Networks in all regions using global service endpoints (cross-region service endpoints).",
+          "pubDate": "Mon, 24 Apr 2023 18:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now connect Storage Accounts to Virtual Networks in all regions using global service endpoints (cross-region service endpoints)."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1373,6 +1403,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -1383,21 +1428,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3027,36 +3057,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Dlsv5 and Dldsv5 VM series provide 2GiBs per vCPU and can offer lower price points within the general-purpose Azure Virtual Machines portfolio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "readwrite-premium-caching-now-in-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/readwrite-premium-caching-now-in-public-preview/",
-          "title": "Read-write premium caching now in public preview",
-          "description": "Now you can do more with Azure HPC Cache at the same cost you’ve come to expect.",
-          "pubDate": "Mon, 20 Feb 2023 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can do more with Azure HPC Cache at the same cost you’ve come to expect."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-backup-enhanced-experience-for-creating-and-managing-private-endpoints-for-recovery-services-vaults-is-now-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-experience-for-creating-and-managing-private-endpoints-for-recovery-services-vaults-is-now-available/",
-          "title": "Azure Backup: Enhanced experience for creating and managing private endpoints for Recovery Services vaults is now available",
-          "description": "Azure Backup now provides an improved experience for creating and using private endpoints for your Recovery Services vaults.",
-          "pubDate": "Thu, 16 Feb 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup now provides an improved experience for creating and using private endpoints for your Recovery Services vaults."
           },
           "content:encoded": null
         }
