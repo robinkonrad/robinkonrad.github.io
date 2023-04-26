@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 26 Apr 2023 15:14:06 Z",
+      "lastBuildDate": "Wed, 26 Apr 2023 16:18:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "premium-ssd-v2-backup-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-backup-support/",
+          "title": "Public Preview: Support for Azure VMs using Premium SSD v2 in Azure Backup",
+          "description": "Public preview for the support for Azure VMs using Premium SSD v2 in Azure Backup.",
+          "pubDate": "Wed, 26 Apr 2023 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for the support for Azure VMs using Premium SSD v2 in Azure Backup."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1991,21 +2006,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
-          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
-          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-red-hat-openshift-march-updates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
@@ -2015,6 +2015,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
+          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
+          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
           },
           "content:encoded": null
         },
@@ -3042,21 +3057,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files volumes now support encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-generalpurpose-vms-dlsv5-and-dldsv5"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generalpurpose-vms-dlsv5-and-dldsv5/",
-          "title": "Public preview: New General-Purpose VMs - Dlsv5 and Dldsv5",
-          "description": "The Dlsv5 and Dldsv5 VM series provide 2GiBs per vCPU and can offer lower price points within the general-purpose Azure Virtual Machines portfolio.",
-          "pubDate": "Mon, 20 Feb 2023 18:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Dlsv5 and Dldsv5 VM series provide 2GiBs per vCPU and can offer lower price points within the general-purpose Azure Virtual Machines portfolio."
           },
           "content:encoded": null
         }
