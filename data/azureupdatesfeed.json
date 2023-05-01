@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 01 May 2023 17:11:47 Z",
+      "lastBuildDate": "Mon, 01 May 2023 18:16:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,26 @@
           "atom:content": {
             "@type": "text",
             "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Southeast Asia, Australia East and Qatar Central."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-event-hubs-dedicated-selfserve-scalable-clusters-for-mission-critical-kafka-amqp-and-https-workload"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-event-hubs-dedicated-selfserve-scalable-clusters-for-mission-critical-kafka-amqp-and-https-workload/",
+          "category": [
+            "Event Hubs",
+            "Kafka",
+            "Event Streaming"
+          ],
+          "title": "Generally available: Azure Event Hubs Dedicated self-serve scalable clusters for mission critical Kafka, AMQP and HTTPs workloads",
+          "description": "Run you mission critical Kafka, AMQP and HTTPS event streaming workloads with consitenct low latency.",
+          "pubDate": "Mon, 01 May 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Run you mission critical Kafka, AMQP and HTTPS event streaming workloads with consitenct low latency."
           },
           "content:encoded": null
         },
@@ -716,21 +736,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
-          "title": "Azure SQL—General availability updates for mid-April 2023",
-          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
@@ -740,6 +745,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
+          "title": "Azure SQL—General availability updates for mid-April 2023",
+          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
           },
           "content:encoded": null
         },
@@ -3041,21 +3061,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use caching in ACR to achieve faster and more reliable pull operations."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-auto-vacuum-metrics-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-auto-vacuum-metrics-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Auto vacuum metrics for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Monitor the auto vacuum process health for Azure Database for PostgreSQL – Flexible Server via Azure Monitor metrics and write custom alert rules on these metrics.",
-          "pubDate": "Wed, 01 Mar 2023 17:00:47 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Monitor the auto vacuum process health for Azure Database for PostgreSQL – Flexible Server via Azure Monitor metrics and write custom alert rules on these metrics."
           },
           "content:encoded": null
         }
