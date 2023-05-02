@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 02 May 2023 18:16:14 Z",
+      "lastBuildDate": "Tue, 02 May 2023 19:10:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -66,6 +66,26 @@
           "atom:content": {
             "@type": "text",
             "#text": "Run you mission critical Kafka, AMQP and HTTPS event streaming workloads with consitenct low latency."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "application-gateway-v1-will-be-retired-on-28-april-2026-transition-to-application-gateway-v2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/application-gateway-v1-will-be-retired-on-28-april-2026-transition-to-application-gateway-v2/",
+          "category": [
+            "Application Gateway",
+            "Retirement",
+            "Azure Portal"
+          ],
+          "title": "Application Gateway V1 will be retired on 28 April 2026– Transition to Application Gateway V2",
+          "description": "Application Gateway V1 will be retired on 28 April 2026",
+          "pubDate": "Fri, 28 Apr 2023 23:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application Gateway V1 will be retired on 28 April 2026"
           },
           "content:encoded": null
         },
@@ -3046,21 +3066,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Scale up persistent volumes without taking the application offline."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-pod-sandboxing-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-pod-sandboxing-in-aks/",
-          "title": "Public preview: Pod sandboxing in AKS",
-          "description": "AKS now allows you to isolate workloads at the kernel level.",
-          "pubDate": "Wed, 01 Mar 2023 17:00:55 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now allows you to isolate workloads at the kernel level."
           },
           "content:encoded": null
         }
