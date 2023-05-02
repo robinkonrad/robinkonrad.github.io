@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 02 May 2023 15:15:11 Z",
+      "lastBuildDate": "Tue, 02 May 2023 16:17:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-cloud-next-generation-firewall-for-azure-from-palo-alto-networks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-cloud-next-generation-firewall-for-azure-from-palo-alto-networks/",
+          "title": "Preview: Cloud Next-Generation Firewall (NGFW) Palo Alto Networks - an Azure Native ISV Service",
+          "description": "The first ISV next-generation firewall service natively integrated in Azure.",
+          "pubDate": "Tue, 02 May 2023 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The first ISV next-generation firewall service natively integrated in Azure."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1708,21 +1723,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -1733,6 +1733,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3046,21 +3061,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS now allows you to isolate workloads at the kernel level."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-caching-in-acr"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-caching-in-acr/",
-          "title": "Public preview: Caching in ACR",
-          "description": "You can now use caching in ACR to achieve faster and more reliable pull operations.",
-          "pubDate": "Wed, 01 Mar 2023 17:00:54 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use caching in ACR to achieve faster and more reliable pull operations."
           },
           "content:encoded": null
         }
