@@ -12,13 +12,62 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 03 May 2023 16:17:37 Z",
+      "lastBuildDate": "Wed, 03 May 2023 17:11:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-ebsv5-and-ebdsv5-nvmeenabled-vm-sizes"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-ebsv5-and-ebdsv5-nvmeenabled-vm-sizes/",
+          "title": "Generally Available: Ebsv5 and Ebdsv5 NVMe-enabled VM sizes",
+          "description": "The new NVMe-enabled VM sizes of the Ebsv5 and Ebdsv5 VM offer the highest remote storage IOPS and throughput performance of any Azure VMs to date.",
+          "pubDate": "Wed, 03 May 2023 17:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new NVMe-enabled VM sizes of the Ebsv5 and Ebdsv5 VM offer the highest remote storage IOPS and throughput performance of any Azure VMs to date."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mabsv4"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/mabsv4/",
+          "category": [
+            "MABS",
+            "Azure Backup Server"
+          ],
+          "title": "Generally Available: Azure Backup Server V4",
+          "description": "V4 is the latest upgrade for Microsoft Azure Backup Server (MABS). Azure Backup Server can now be installed on Windows Server 2022 with SQL Server 2022 as its database. MABS V4 brings key enhancements in the areas of workload support, performance and security.",
+          "pubDate": "Wed, 03 May 2023 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "V4 is the latest upgrade for Microsoft Azure Backup Server (MABS). Azure Backup Server can now be installed on Windows Server 2022 with SQL Server 2022 as its database. MABS V4 brings key enhancements in the areas of workload support, performance and security."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-serverless-sql-for-azure-databricks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-serverless-sql-for-azure-databricks/",
+          "title": "Generally available: Serverless SQL for Azure Databricks",
+          "description": "Serverless SQL for Azure Databricks is now generally available.\n\nThis capability provides instant compute to users for their BI and SQL workloads, with minimal management required.",
+          "pubDate": "Wed, 03 May 2023 17:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Serverless SQL for Azure Databricks is now generally available.\n\nThis capability provides instant compute to users for their BI and SQL workloads, with minimal management required."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -771,21 +820,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
-          "title": "Azure SQL—General availability updates for mid-April 2023",
-          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
@@ -795,6 +829,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
+          "title": "Azure SQL—General availability updates for mid-April 2023",
+          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
           },
           "content:encoded": null
         },
@@ -3021,51 +3070,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Provide a secure and improved user experience for migrating TDE databases and SQL/Windows logins to Azure SQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-4-tib-8-tib-and-16-tib-storage-per-node-for-azure-cosmos-db-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-4-tib-8-tib-and-16-tib-storage-per-node-for-azure-cosmos-db-for-postgresql/",
-          "title": "Generally available: 4 TiB, 8 TiB, and 16 TiB storage per node for Azure Cosmos DB for PostgreSQL",
-          "description": "Onboard even larger distributed Postgres workloads to Azure Cosmos DB for PostgreSQL with fewer nodes using 4 TiB, 8 TiB, or 16 TiB storage per node.",
-          "pubDate": "Wed, 01 Mar 2023 17:01:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Onboard even larger distributed Postgres workloads to Azure Cosmos DB for PostgreSQL with fewer nodes using 4 TiB, 8 TiB, or 16 TiB storage per node."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-confidential-containers-on-aci"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-confidential-containers-on-aci/",
-          "title": "Public preview: Confidential containers on ACI",
-          "description": "ACI now lets you run containers in a trusted execution environment (TEE)",
-          "pubDate": "Wed, 01 Mar 2023 17:01:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ACI now lets you run containers in a trusted execution environment (TEE)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-online-live-resize-of-persistent-volumes"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-online-live-resize-of-persistent-volumes/",
-          "title": "GA: Online live resize of persistent volumes",
-          "description": "Scale up persistent volumes without taking the application offline.",
-          "pubDate": "Wed, 01 Mar 2023 17:01:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Scale up persistent volumes without taking the application offline."
           },
           "content:encoded": null
         }
