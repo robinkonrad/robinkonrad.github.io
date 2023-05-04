@@ -12,13 +12,62 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 04 May 2023 17:11:57 Z",
+      "lastBuildDate": "Thu, 04 May 2023 18:16:30 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-iot-edge-supports-rhel-9"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-iot-edge-supports-rhel-9/",
+          "title": "General availability: Azure IoT Edge supports Red Hat Enterprise Linux 9",
+          "description": "The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices.",
+          "pubDate": "Thu, 04 May 2023 16:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-cold-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cold-storage/",
+          "title": "Public preview: Azure Cold Storage",
+          "description": "Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview.",
+          "pubDate": "Thu, 04 May 2023 16:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-palo-alto-networks-saas-cloud-ngfw-integration-with-virtual-wan"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-palo-alto-networks-saas-cloud-ngfw-integration-with-virtual-wan/",
+          "category": [
+            "Azure Networking",
+            "Azure Virtual WAN"
+          ],
+          "title": "Public Preview: Palo Alto Networks SaaS Cloud NGFW Integration with Virtual WAN",
+          "description": "The first security software-as-a-service (SaaS) solution to be integrated in Azure Virtual WAN, allowing you to protect your workloads with a highly available NGFW.",
+          "pubDate": "Thu, 04 May 2023 15:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The first security software-as-a-service (SaaS) solution to be integrated in Azure Virtual WAN, allowing you to protect your workloads with a highly available NGFW."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3025,51 +3074,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings/",
-          "title": "Public Preview: Azure Monitor container insights offers customizable cost optimization settings",
-          "description": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.",
-          "pubDate": "Wed, 01 Mar 2023 18:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-new-enhanced-connection-troubleshoot"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-new-enhanced-connection-troubleshoot/",
-          "title": "General availability: New enhanced connection troubleshoot",
-          "description": "Azure Network Watcher announces enhanced connection troubleshoot helping resolve network connectivity issue comprehensively along with actionable insights",
-          "pubDate": "Wed, 01 Mar 2023 18:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Network Watcher announces enhanced connection troubleshoot helping resolve network connectivity issue comprehensively along with actionable insights"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-login-and-tdeenabled-database-migrations-with-azure-database-migration-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-login-and-tdeenabled-database-migrations-with-azure-database-migration-service/",
-          "title": "Public preview: Login and TDE-enabled database migrations with Azure Database Migration Service",
-          "description": "Provide a secure and improved user experience for migrating TDE databases and SQL/Windows logins to Azure SQL.",
-          "pubDate": "Wed, 01 Mar 2023 17:01:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Provide a secure and improved user experience for migrating TDE databases and SQL/Windows logins to Azure SQL."
           },
           "content:encoded": null
         }
