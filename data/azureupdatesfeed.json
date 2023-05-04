@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 04 May 2023 15:14:09 Z",
+      "lastBuildDate": "Thu, 04 May 2023 16:27:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-iot-edge-supports-rhel-9"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-iot-edge-supports-rhel-9/",
+          "title": "General availability: Azure IoT Edge supports Red Hat Enterprise Linux 9",
+          "description": "The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices.",
+          "pubDate": "Thu, 04 May 2023 16:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-cold-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cold-storage/",
+          "title": "Public preview: Azure Cold Storage",
+          "description": "Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview.",
+          "pubDate": "Thu, 04 May 2023 16:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -839,21 +869,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
-          "title": "Azure SQL—General availability updates for mid-April 2023",
-          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
@@ -863,6 +878,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
+          "title": "Azure SQL—General availability updates for mid-April 2023",
+          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
           },
           "content:encoded": null
         },
@@ -1811,21 +1841,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -1836,6 +1851,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3044,36 +3074,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-container-insights-offers-customizable-cost-optimization-settings/",
-          "title": "Public Preview: Azure Monitor container insights offers customizable cost optimization settings",
-          "description": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.",
-          "pubDate": "Wed, 01 Mar 2023 18:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-new-enhanced-connection-troubleshoot"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-new-enhanced-connection-troubleshoot/",
-          "title": "General availability: New enhanced connection troubleshoot",
-          "description": "Azure Network Watcher announces enhanced connection troubleshoot helping resolve network connectivity issue comprehensively along with actionable insights",
-          "pubDate": "Wed, 01 Mar 2023 18:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Network Watcher announces enhanced connection troubleshoot helping resolve network connectivity issue comprehensively along with actionable insights"
           },
           "content:encoded": null
         }
