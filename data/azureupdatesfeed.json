@@ -12,13 +12,32 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 04 May 2023 14:12:53 Z",
+      "lastBuildDate": "Thu, 04 May 2023 15:14:09 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-palo-alto-networks-saas-cloud-ngfw-integration-with-virtual-wan"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-palo-alto-networks-saas-cloud-ngfw-integration-with-virtual-wan/",
+          "category": [
+            "Azure Networking",
+            "Azure Virtual WAN"
+          ],
+          "title": "Public Preview: Palo Alto Networks SaaS Cloud NGFW Integration with Virtual WAN",
+          "description": "The first security software-as-a-service (SaaS) solution to be integrated in Azure Virtual WAN, allowing you to protect your workloads with a highly available NGFW.",
+          "pubDate": "Thu, 04 May 2023 15:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The first security software-as-a-service (SaaS) solution to be integrated in Azure Virtual WAN, allowing you to protect your workloads with a highly available NGFW."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -820,21 +839,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
-          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
-          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-sql-general-availability-updates-for-midapril-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
@@ -844,6 +848,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
+          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
+          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
           },
           "content:encoded": null
         },
@@ -3055,21 +3074,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Network Watcher announces enhanced connection troubleshoot helping resolve network connectivity issue comprehensively along with actionable insights"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-login-and-tdeenabled-database-migrations-with-azure-database-migration-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-login-and-tdeenabled-database-migrations-with-azure-database-migration-service/",
-          "title": "Public preview: Login and TDE-enabled database migrations with Azure Database Migration Service",
-          "description": "Provide a secure and improved user experience for migrating TDE databases and SQL/Windows logins to Azure SQL.",
-          "pubDate": "Wed, 01 Mar 2023 17:01:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Provide a secure and improved user experience for migrating TDE databases and SQL/Windows logins to Azure SQL."
           },
           "content:encoded": null
         }
