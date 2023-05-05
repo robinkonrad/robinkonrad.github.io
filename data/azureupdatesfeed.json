@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 05 May 2023 22:12:07 Z",
+      "lastBuildDate": "Fri, 05 May 2023 23:13:24 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance/",
+          "title": "Retirement of SQL Server Native Client (SNAC) OLE DB provider for linked servers in Azure SQL Managed Instance",
+          "description": "All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL.",
+          "pubDate": "Fri, 05 May 2023 23:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -869,21 +884,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
-          "title": "Azure SQL—General availability updates for mid-April 2023",
-          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
@@ -893,6 +893,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
+          "title": "Azure SQL—General availability updates for mid-April 2023",
+          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
           },
           "content:encoded": null
         },
@@ -3058,22 +3073,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The initial stable release of the Azure Monitor Ingestion client libraries is now available. Upload custom logs to Log Analytics workspaces in .NET, Java, JavaScript, and Python."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-archive-storage-now-available-in-west-us-3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-west-us-3/",
-          "category": "Storage accounts; Blob storage; Archive storage",
-          "title": "General availability: Azure Archive Storage now available in West US 3",
-          "description": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions.",
-          "pubDate": "Wed, 01 Mar 2023 18:00:48 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions."
           },
           "content:encoded": null
         }
