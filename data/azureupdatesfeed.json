@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 08 May 2023 16:17:55 Z",
+      "lastBuildDate": "Mon, 08 May 2023 17:11:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-dns-private-resolver-is-available-in-8-additional-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-dns-private-resolver-is-available-in-8-additional-regions/",
+          "title": "Generally available: Azure DNS Private Resolver is available in 8 additional regions",
+          "description": "Azure DNS Private Resolver is now available in West US, Canada East, Qatar Central, UAE North, Australia Southeast, Norway East, Norway East, and Poland Central.",
+          "pubDate": "Mon, 08 May 2023 17:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure DNS Private Resolver is now available in West US, Canada East, Qatar Central, UAE North, Australia Southeast, Norway East, Norway East, and Poland Central."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -914,21 +929,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
-          "title": "Azure SQL—General availability updates for mid-April 2023",
-          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
@@ -938,6 +938,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-midapril-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
+          "title": "Azure SQL—General availability updates for mid-April 2023",
+          "description": "General availability enhancements and updates released for Azure SQL for mid-April 2023",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
           },
           "content:encoded": null
         },
@@ -1886,6 +1901,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -1896,21 +1926,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3058,21 +3073,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Provide end-to-end assessment experience with right-sized target recommendations for Azure Database for PostgreSQL using the Azure PostgreSQL migration extension in Azure Data Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-power-bi-with-azure-database-for-mysql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-power-bi-with-azure-database-for-mysql-flexible-server/",
-          "title": "General availability: Power BI with Azure Database for MySQL - Flexible Server",
-          "description": "Integrate Power BI with Azure Database for MySQL - Flexible Server directly from the Azure portal to quickly get started with building your data visualizations!",
-          "pubDate": "Wed, 01 Mar 2023 18:01:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integrate Power BI with Azure Database for MySQL - Flexible Server directly from the Azure portal to quickly get started with building your data visualizations!"
           },
           "content:encoded": null
         }
