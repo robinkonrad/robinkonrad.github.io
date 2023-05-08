@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2023 15:13:53 Z</lastBuildDate>
+    <lastBuildDate>Mon, 08 May 2023 16:17:55 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">alwaysserve</guid>
+      <link>https://azure.microsoft.com/en-us/updates/alwaysserve/</link>
+      <title>Public preview: Always Serve for Azure Traffic Manager</title>
+      <description>We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint.</description>
+      <pubDate>Mon, 08 May 2023 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">preview-automatic-scaling-for-app-service-web-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/preview-automatic-scaling-for-app-service-web-apps/</link>
+      <title>Preview: Automatic Scaling for App Service Web Apps</title>
+      <description>App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests. </description>
+      <pubDate>Mon, 08 May 2023 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance</guid>
@@ -743,17 +765,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/</link>
-      <title>Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop</title>
-      <description>Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.</description>
-      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">azure-sql-general-availability-updates-for-midapril-2023</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/</link>
       <title>Azure SQL—General availability updates for mid-April 2023</title>
@@ -761,6 +772,17 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
       <atom:content
         type="text">General availability enhancements and updates released for Azure SQL for mid-April 2023</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/</link>
+      <title>Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop</title>
+      <description>Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.</description>
+      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
+      <atom:content
+        type="text">Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2326,28 +2348,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Wed, 01 Mar 2023 18:01:02 Z</pubDate>
       <atom:content
         type="text">Integrate Power BI with Azure Database for MySQL - Flexible Server directly from the Azure portal to quickly get started with building your data visualizations! </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-burstable-compute-for-single-node-configurations-for-azure-cosmos-db-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-burstable-compute-for-single-node-configurations-for-azure-cosmos-db-for-postgresql/</link>
-      <title>Generally available: Burstable compute for single node configurations for Azure Cosmos DB for PostgreSQL</title>
-      <description>Use new burstable compute in single node configurations to start small with distributed Postgres and scale out later.</description>
-      <pubDate>Wed, 01 Mar 2023 18:00:56 Z</pubDate>
-      <atom:content
-        type="text">Use new burstable compute in single node configurations to start small with distributed Postgres and scale out later.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-monitor-ingestion-libraries</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-ingestion-libraries/</link>
-      <title>Now Available: Azure Monitor Ingestion client libraries</title>
-      <description>The initial stable release of the Azure Monitor Ingestion client libraries is now available. Upload custom logs to Log Analytics workspaces in .NET, Java, JavaScript, and Python.</description>
-      <pubDate>Wed, 01 Mar 2023 18:00:54 Z</pubDate>
-      <atom:content
-        type="text">The initial stable release of the Azure Monitor Ingestion client libraries is now available. Upload custom logs to Log Analytics workspaces in .NET, Java, JavaScript, and Python.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
