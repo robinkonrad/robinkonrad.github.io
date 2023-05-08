@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 08 May 2023 17:11:59 Z",
+      "lastBuildDate": "Mon, 08 May 2023 18:16:12 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -22,15 +22,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-dns-private-resolver-is-available-in-8-additional-regions"
+            "#text": "general-availability-inbound-icmpv4-pings-are-now-supported-on-azure-load-balancer"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-dns-private-resolver-is-available-in-8-additional-regions/",
-          "title": "Generally available: Azure DNS Private Resolver is available in 8 additional regions",
-          "description": "Azure DNS Private Resolver is now available in West US, Canada East, Qatar Central, UAE North, Australia Southeast, Norway East, Norway East, and Poland Central.",
-          "pubDate": "Mon, 08 May 2023 17:00:06 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-inbound-icmpv4-pings-are-now-supported-on-azure-load-balancer/",
+          "title": "General availability: Inbound ICMPv4 pings are now supported on Azure Load Balancer",
+          "description": "Inbound ICMPv4 pings are now supported on Azure Load Balancer.",
+          "pubDate": "Mon, 08 May 2023 18:00:06 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Azure DNS Private Resolver is now available in West US, Canada East, Qatar Central, UAE North, Australia Southeast, Norway East, Norway East, and Poland Central."
+            "#text": "Inbound ICMPv4 pings are now supported on Azure Load Balancer."
           },
           "content:encoded": null
         },
@@ -170,7 +170,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-serverless-sql-for-azure-databricks/",
           "title": "Generally available: Serverless SQL for Azure Databricks",
           "description": "Serverless SQL for Azure Databricks is now generally available.\n\nThis capability provides instant compute to users for their BI and SQL workloads, with minimal management required.",
-          "pubDate": "Wed, 03 May 2023 17:00:05 Z",
+          "pubDate": "Wed, 03 May 2023 17:00:04 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Serverless SQL for Azure Databricks is now generally available.\n\nThis capability provides instant compute to users for their BI and SQL workloads, with minimal management required."
@@ -1901,21 +1901,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -1926,6 +1911,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
