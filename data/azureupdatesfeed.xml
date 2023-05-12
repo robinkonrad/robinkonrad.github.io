@@ -6,11 +6,44 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 May 2023 11:10:42 Z</lastBuildDate>
+    <lastBuildDate>Fri, 12 May 2023 12:25:04 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-python3-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-python3-ga/</link>
+      <title>General Availability: Azure Automation supports Python 3.8 runbooks</title>
+      <description>Azure Automation support for Python 3.8 runbooks is now Generally Available.</description>
+      <pubDate>Thu, 11 May 2023 18:00:00 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation support for Python 3.8 runbooks is now Generally Available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">alert-processing-rules-fields-update</guid>
+      <link>https://azure.microsoft.com/en-us/updates/alert-processing-rules-fields-update/</link>
+      <title>Alert processing rules fields update </title>
+      <description>Alert processing rules are a set of rules that allow for modifications to be made to fired alerts, distinct from alert rules which generate new alerts. With alert processing rules, you can add or remove action groups from your fired alerts.</description>
+      <pubDate>Thu, 11 May 2023 17:00:50 Z</pubDate>
+      <atom:content
+        type="text">Alert processing rules are a set of rules that allow for modifications to be made to fired alerts, distinct from alert rules which generate new alerts. With alert processing rules, you can add or remove action groups from your fired alerts.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azacsnap-8-azure-application-consistent-snapshot-tool-updates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azacsnap-8-azure-application-consistent-snapshot-tool-updates/</link>
+      <title>General Availability: AzAcSnap 8 — Azure Application Consistent Snapshot tool updates</title>
+      <description>AzAcSnap Version 8 Release</description>
+      <pubDate>Thu, 11 May 2023 16:00:50 Z</pubDate>
+      <atom:content
+        type="text">AzAcSnap Version 8 Release</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-azure-bastion-shareable-links</guid>
@@ -20,6 +53,193 @@
       <pubDate>Wed, 10 May 2023 20:14:44 Z</pubDate>
       <atom:content
         type="text">Shareable links allows users to connect to target resources via Azure Bastion without access to the Azure portal.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-vmware-solution-now-available-in-qatar-with-av36p</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-qatar-with-av36p/</link>
+      <title>Azure VMware Solution now available in Qatar with AV36P</title>
+      <description>We are excited to announce that the Azure VMware Solution has gone live in Qatar Central and is now available to customers. </description>
+      <pubDate>Wed, 10 May 2023 20:09:53 Z</pubDate>
+      <atom:content
+        type="text">We are excited to announce that the Azure VMware Solution has gone live in Qatar Central and is now available to customers. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability-2/</link>
+      <title>Public Preview: Database-is-alive metrics for monitoring Azure Postgres Flexible Server database availability.</title>
+      <description> Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via database-is-alive metric.</description>
+      <pubDate>Wed, 10 May 2023 16:01:59 Z</pubDate>
+      <atom:content
+        type="text"> Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via database-is-alive metric.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-init-containers-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-init-containers-in-azure-container-apps/</link>
+      <title>Public preview: Init containers in Azure Container Apps </title>
+      <description>You can now have separate containers that run before application containers are started in a replica and can perform all of the initialization logic.</description>
+      <pubDate>Wed, 10 May 2023 16:01:53 Z</pubDate>
+      <atom:content
+        type="text">You can now have separate containers that run before application containers are started in a replica and can perform all of the initialization logic.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-cross-origin-resource-sharing-cors-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-cross-origin-resource-sharing-cors-in-azure-container-apps/</link>
+      <title>Public Preview: Cross Origin Resource Sharing (CORS) in Azure Container Apps </title>
+      <description>You can now enable CORS for your Azure Container App through the portal or CLI. </description>
+      <pubDate>Wed, 10 May 2023 16:01:47 Z</pubDate>
+      <atom:content
+        type="text">You can now enable CORS for your Azure Container App through the portal or CLI. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-cache-for-redis-now-supports-aaad-based-authentication-and-authorization</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-now-supports-aaad-based-authentication-and-authorization/</link>
+      <title>Public Preview – Azure Cache for Redis now supports aAAD based authentication and authorization</title>
+      <description>Preview password-free authentication with integrated Azure Active Directory (AAD) complemented with role-based access control supported by open source Redis.</description>
+      <pubDate>Wed, 10 May 2023 16:01:42 Z</pubDate>
+      <atom:content
+        type="text">Preview password-free authentication with integrated Azure Active Directory (AAD) complemented with role-based access control supported by open source Redis.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-azure-pipelines-task-to-build-and-deploy-to-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-azure-pipelines-task-to-build-and-deploy-to-azure-container-apps/</link>
+      <title>GA: Azure Pipelines task to build and deploy to Azure Container Apps</title>
+      <description>Use an Azure Pipelines task to build and deploy to Azure Container Apps.</description>
+      <pubDate>Wed, 10 May 2023 16:01:37 Z</pubDate>
+      <atom:content
+        type="text">Use an Azure Pipelines task to build and deploy to Azure Container Apps.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-database-for-mysql-flexible-server-major-version-upgrader</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-major-version-upgrader/</link>
+      <title>General Availability: Azure Database for MySQL - Flexible Server major version upgrader</title>
+      <description>Upgrade your Azure Database for MySQL flexible server version from 5.7 to 8.0.</description>
+      <pubDate>Wed, 10 May 2023 16:01:30 Z</pubDate>
+      <atom:content
+        type="text">Upgrade your Azure Database for MySQL flexible server version from 5.7 to 8.0.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-99th-percentile-latency-metric-in-azure-cache-for-redis</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-99th-percentile-latency-metric-in-azure-cache-for-redis/</link>
+      <title>Public preview: 99th percentile latency metric in Azure Cache for Redis</title>
+      <description>Debug server-side latency with a new Azure Cache for Redis metric</description>
+      <pubDate>Wed, 10 May 2023 16:01:24 Z</pubDate>
+      <atom:content
+        type="text">Debug server-side latency with a new Azure Cache for Redis metric</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-cache-for-redis-trigger-for-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-trigger-for-azure-functions/</link>
+      <title>Public preview: Azure Cache for Redis trigger for Azure Functions</title>
+      <description>Trigger serverless functions through Azure Cache for Redis</description>
+      <pubDate>Wed, 10 May 2023 16:01:18 Z</pubDate>
+      <atom:content
+        type="text">Trigger serverless functions through Azure Cache for Redis</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-troubleshooting-guides-for-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-troubleshooting-guides-for-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public Preview: Troubleshooting guides for Azure Database for PostgreSQL Flexible Server </title>
+      <description>Save time by analyzing and troubleshooting common performance issues with troubleshooting guides. </description>
+      <pubDate>Wed, 10 May 2023 16:01:12 Z</pubDate>
+      <atom:content
+        type="text">Save time by analyzing and troubleshooting common performance issues with troubleshooting guides. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-github-action-to-build-and-deploy-to-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-github-action-to-build-and-deploy-to-azure-container-apps/</link>
+      <title>GA: GitHub action to build and deploy to Azure Container Apps </title>
+      <description>Use a GitHub action to build and deploy to Azure Container Apps. </description>
+      <pubDate>Wed, 10 May 2023 16:01:06 Z</pubDate>
+      <atom:content
+        type="text">Use a GitHub action to build and deploy to Azure Container Apps. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-advisor-data-in-azure-resource-graph-is-now-available-in-azure-china-and-us-government-clouds</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-advisor-data-in-azure-resource-graph-is-now-available-in-azure-china-and-us-government-clouds/</link>
+      <title>Azure Advisor data in Azure Resource Graph is now available in Azure China and US Government clouds</title>
+      <description>Advisor recommendations are now available in Azure Resource Graph in Azure China and US Government clouds.</description>
+      <pubDate>Wed, 10 May 2023 16:01:00 Z</pubDate>
+      <atom:content
+        type="text">Advisor recommendations are now available in Azure Resource Graph in Azure China and US Government clouds.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-general-availability-updates-for-midmay-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midmay-2023/</link>
+      <title>Azure SQL—General availability updates for mid-May 2023</title>
+      <description>General availability enhancements and updates released for Azure SQL in mid-May 2023</description>
+      <pubDate>Wed, 10 May 2023 16:00:54 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in mid-May 2023</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-public-preview-updates-for-earlymay-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-earlymay-2023/</link>
+      <title>Azure SQL—Public preview updates for early-May 2023</title>
+      <description>Public preview enhancements and updates released for Azure SQL in mid-May 2023</description>
+      <pubDate>Wed, 10 May 2023 16:00:48 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in mid-May 2023</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-monitor-opentelemetry-distro-for-aspnet-core-javascript-nodejs-python</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-opentelemetry-distro-for-aspnet-core-javascript-nodejs-python/</link>
+      <title>Public Preview: Azure Monitor OpenTelemetry Distro for ASP.NET Core, JavaScript (Node.js), Python</title>
+      <description>Onboard to Azure Monitor Application Insights using standard, cloud-native APIs and SDKs with rich data collection capabilities and a first-class Azure experience.</description>
+      <pubDate>Wed, 10 May 2023 16:00:42 Z</pubDate>
+      <atom:content
+        type="text">Onboard to Azure Monitor Application Insights using standard, cloud-native APIs and SDKs with rich data collection capabilities and a first-class Azure experience.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-monitor-agent-supports-linux-hardening-for-cis-and-selinux</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-agent-supports-linux-hardening-for-cis-and-selinux/</link>
+      <title>Generally available: Azure Monitor Agent supports Linux Hardening for CIS and SELinux</title>
+      <description>Linux Azure Monitor Agent is now officially supported and tested on CIS and SELinux Operating Systems and Distros. Monitor will continue to test and support these hardening standards for AMA.</description>
+      <pubDate>Wed, 10 May 2023 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">Linux Azure Monitor Agent is now officially supported and tested on CIS and SELinux Operating Systems and Distros. Monitor will continue to test and support these hardening standards for AMA.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-vmware-solution-on-azure-government</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-vmware-solution-on-azure-government/</link>
+      <title>Azure VMware Solution on Azure Government</title>
+      <description>We are excited to share details for the General Availability of Azure VMware Solution on Microsoft Azure Government</description>
+      <pubDate>Wed, 10 May 2023 16:00:25 Z</pubDate>
+      <atom:content
+        type="text">We are excited to share details for the General Availability of Azure VMware Solution on Microsoft Azure Government</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -416,17 +636,6 @@ This capability provides instant compute to users for their BI and SQL workloads
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/</link>
-      <title>Public preview: Azure Key Vault references for secrets in Azure Container Apps</title>
-      <description>You can now source Container Apps secrets values from Azure Key Vault</description>
-      <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">You can now source Container Apps secrets values from Azure Key Vault</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-api-management-authorizations</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/</link>
       <title>Generally available: API Management Authorizations </title>
@@ -434,6 +643,17 @@ This capability provides instant compute to users for their BI and SQL workloads
       <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
       <atom:content
         type="text">API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/</link>
+      <title>Public preview: Azure Key Vault references for secrets in Azure Container Apps</title>
+      <description>You can now source Container Apps secrets values from Azure Key Vault</description>
+      <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
+      <atom:content
+        type="text">You can now source Container Apps secrets values from Azure Key Vault</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -520,7 +740,7 @@ This capability provides instant compute to users for their BI and SQL workloads
       <link>https://azure.microsoft.com/en-us/updates/azurefilessmblinuxad/</link>
       <title>General Availability: Support for Linux clients to use identity-based access to Azure file shares over SMB</title>
       <description>Linux SMB clients can now use Azure Files identity based authentication and authorization. This capability is available to devices that are domain joined to either customer-managed Microsoft AD DS or Azure AD DS. </description>
-      <pubDate>Wed, 19 Apr 2023 19:00:34 Z</pubDate>
+      <pubDate>Wed, 19 Apr 2023 19:00:36 Z</pubDate>
       <atom:content
         type="text">Linux SMB clients can now use Azure Files identity based authentication and authorization. This capability is available to devices that are domain joined to either customer-managed Microsoft AD DS or Azure AD DS. </atom:content>
       <content:encoded></content:encoded>
@@ -2127,227 +2347,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Wed, 15 Mar 2023 17:00:18 Z</pubDate>
       <atom:content
         type="text">You can now add an APEX custom domain to your Static Web Apps with A Records</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-march-2023-region-expansion-announcement</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-march-2023-region-expansion-announcement/</link>
-      <title>Azure Machine Learning – March 2023 Region Expansion Announcement  </title>
-      <description>Azure Machine Learning is now Generally Available in the UK West region. </description>
-      <pubDate>Wed, 15 Mar 2023 17:00:17 Z</pubDate>
-      <atom:content
-        type="text">Azure Machine Learning is now Generally Available in the UK West region. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-public-preview-updates-for-march-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-march-2023/</link>
-      <title>Azure Machine Learning - Public Preview updates for March 2023</title>
-      <description>New feature now available in Public Preview includes the ability to receive troubleshooting documentation on failed environment builds and shorten the training phase of large-scale distributed PyTorch models. </description>
-      <pubDate>Wed, 15 Mar 2023 17:00:17 Z</pubDate>
-      <atom:content
-        type="text">New feature now available in Public Preview includes the ability to receive troubleshooting documentation on failed environment builds and shorten the training phase of large-scale distributed PyTorch models. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">preview-selectivedisk-enhancedpolicy</guid>
-      <link>https://azure.microsoft.com/en-us/updates/preview-selectivedisk-enhancedpolicy/</link>
-      <title>Public Preview: Selective Disk Backup and Restore in Enhanced Policy for Azure VM Backup</title>
-      <description>We are adding the “Selective Disk Backup and Restore” capability in Enhanced Policy of Azure VM Backup.</description>
-      <pubDate>Wed, 15 Mar 2023 17:00:16 Z</pubDate>
-      <atom:content
-        type="text">We are adding the “Selective Disk Backup and Restore” capability in Enhanced Policy of Azure VM Backup.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-digital-twins-data-history-supports-graph-updates</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-digital-twins-data-history-supports-graph-updates/</link>
-      <title>Generally available: Azure Digital Twins Data history supports Graph updates </title>
-      <description>The Azure Digital Twins Data history now supports historizing twin property updates, twin lifecycle events, and relationship lifecycle events. </description>
-      <pubDate>Wed, 15 Mar 2023 17:00:15 Z</pubDate>
-      <atom:content
-        type="text">The Azure Digital Twins Data history now supports historizing twin property updates, twin lifecycle events, and relationship lifecycle events. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-illumio-for-azure-firewall</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-illumio-for-azure-firewall/</link>
-      <title>Public preview: Illumio for Azure Firewall</title>
-      <description>Illumio for Azure Firewall enables organizations to understand application traffic and dependencies and apply consistent protection across environments - limiting exposure, containing breaches, and improving efficiency.</description>
-      <pubDate>Tue, 14 Mar 2023 18:05:24 Z</pubDate>
-      <atom:content
-        type="text">Illumio for Azure Firewall enables organizations to understand application traffic and dependencies and apply consistent protection across environments - limiting exposure, containing breaches, and improving efficiency.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-cognitive-service-for-vision-powers-stateoftheart-computer-vision-development</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cognitive-service-for-vision-powers-stateoftheart-computer-vision-development/</link>
-      <title>Public preview: Azure Cognitive Service for Vision Powers State-of-the-Art Computer Vision Development</title>
-      <description>Extract robust insights from images and video content across multiple industry domains</description>
-      <pubDate>Tue, 14 Mar 2023 17:00:04 Z</pubDate>
-      <atom:content
-        type="text">Extract robust insights from images and video content across multiple industry domains</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-backup-immutable-vaults-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-backup-immutable-vaults-ga/</link>
-      <title>Generally available: Immutable vaults for Azure Backup</title>
-      <description>Immutable vaults help you protect your backups against threats like ransomware attacks and malicious actors by ensuring that your backup data cannot be deleted before its intended expiry time. </description>
-      <pubDate>Mon, 13 Mar 2023 20:13:29 Z</pubDate>
-      <atom:content
-        type="text">Immutable vaults help you protect your backups against threats like ransomware attacks and malicious actors by ensuring that your backup data cannot be deleted before its intended expiry time. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-chaos-studio-now-available-in</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-now-available-in/</link>
-      <title>Public Preview: Azure Chaos Studio now available in </title>
-      <description>Azure Chaos Studio is now available in East Asia region.</description>
-      <pubDate>Mon, 13 Mar 2023 17:00:24 Z</pubDate>
-      <atom:content
-        type="text">Azure Chaos Studio is now available in East Asia region.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/</link>
-      <title> General availability: Ephemeral OS disks supports encryption at host using customer managed keys</title>
-      <description>Create Ephemeral VMs with customer managed key encryption types for encryption at host.</description>
-      <pubDate>Mon, 13 Mar 2023 17:00:10 Z</pubDate>
-      <atom:content
-        type="text">Create Ephemeral VMs with customer managed key encryption types for encryption at host.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-accelerated-connections-for-network-virtual-appliances-now-in-azure-marketplace</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-accelerated-connections-for-network-virtual-appliances-now-in-azure-marketplace/</link>
-      <title>Public preview: Accelerated Connections for Network Virtual Appliances now in Azure Marketplace</title>
-      <description>Accelerated Connections is a new product that enhances Accelerated Networking enabled vNICs, enabling customers to increase connections per second and improve performance in multiple active connection scenarios.   </description>
-      <pubDate>Sat, 11 Mar 2023 02:52:24 Z</pubDate>
-      <atom:content
-        type="text">Accelerated Connections is a new product that enhances Accelerated Networking enabled vNICs, enabling customers to increase connections per second and improve performance in multiple active connection scenarios.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azurefilesvaultedbackups-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azurefilesvaultedbackups-2/</link>
-      <category>Azure Backup</category>
-      <title>Private Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.</title>
-      <description>You can now transfer the backups of Azure Files to the vault to get complete protection against various data loss scenarios.</description>
-      <pubDate>Thu, 09 Mar 2023 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">You can now transfer the backups of Azure Files to the vault to get complete protection against various data loss scenarios.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-spot-priority-mix</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-spot-priority-mix/</link>
-      <title>GA: Spot Priority Mix</title>
-      <description>Deploy a Virtual Machine Scale Set with both Spot and standard virtual machines using flexible orchestration mode.</description>
-      <pubDate>Thu, 09 Mar 2023 18:00:02 Z</pubDate>
-      <atom:content
-        type="text">Deploy a Virtual Machine Scale Set with both Spot and standard virtual machines using flexible orchestration mode.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-yocto-kirkstone-recipes-for-iot-edge-14-lts</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-yocto-kirkstone-recipes-for-iot-edge-14-lts/</link>
-      <title>General availability: Yocto Kirkstone recipes for IoT Edge 1.4 LTS</title>
-      <description>Announcing the addition of Kirkstone compatible recipes to build the latest IoT Edge 1.4.x LTS release.</description>
-      <pubDate>Thu, 09 Mar 2023 17:00:02 Z</pubDate>
-      <atom:content
-        type="text">Announcing the addition of Kirkstone compatible recipes to build the latest IoT Edge 1.4.x LTS release.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azureblobvaultedbackups</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azureblobvaultedbackups/</link>
-      <title>Public Preview: Azure Backup enables vaulted backups for Azure Blob for comprehensive data protection.</title>
-      <description>Enable scheduled backups for Azure Blob using Azure Backup to ensure business continuity and recovery from inadvertent or malicious deletion or ransomware attacks.</description>
-      <pubDate>Thu, 09 Mar 2023 13:28:29 Z</pubDate>
-      <atom:content
-        type="text">Enable scheduled backups for Azure Blob using Azure Backup to ensure business continuity and recovery from inadvertent or malicious deletion or ransomware attacks.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-ultra-disk-storage-in-the-china-north-3-azure-region</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-the-china-north-3-azure-region/</link>
-      <title>Generally available: Azure Ultra Disk Storage in the China North 3 Azure region </title>
-      <description>Now available in the China North 3 Azure region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads. </description>
-      <pubDate>Wed, 08 Mar 2023 18:00:31 Z</pubDate>
-      <atom:content
-        type="text">Now available in the China North 3 Azure region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-managed-service-for-prometheus-now-supports-querying-promql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-managed-service-for-prometheus-now-supports-querying-promql/</link>
-      <title>Public Preview: Azure Monitor managed service for Prometheus now supports querying PromQL </title>
-      <description>Azure Workbooks now have a Prometheus data source allowing users to write PromQL natively in the portal. The Prometheus explorer offers an out of the box querying experience.</description>
-      <pubDate>Wed, 08 Mar 2023 18:00:25 Z</pubDate>
-      <atom:content
-        type="text">Azure Workbooks now have a Prometheus data source allowing users to write PromQL natively in the portal. The Prometheus explorer offers an out of the box querying experience.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-app-insights-extension-for-azure-virtual-machines-and-vm-scale-sets</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-app-insights-extension-for-azure-virtual-machines-and-vm-scale-sets/</link>
-      <title>Generally available: App Insights Extension for Azure Virtual Machines and VM Scale Sets</title>
-      <description>Application insights extension enables easy to use application monitoring for IIS-hosted .NET Framework and .NET Core applications running on Azure VMs and VM scale sets. </description>
-      <pubDate>Tue, 07 Mar 2023 23:12:47 Z</pubDate>
-      <atom:content
-        type="text">Application insights extension enables easy to use application monitoring for IIS-hosted .NET Framework and .NET Core applications running on Azure VMs and VM scale sets. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-data-sharing-lineage-and-search-for-azure-storage-in-microsoft-purview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-data-sharing-lineage-and-search-for-azure-storage-in-microsoft-purview/</link>
-      <title>Public Preview: Data sharing lineage and search for Azure Storage in Microsoft Purview</title>
-      <description>Data Sharing Lineage is now available in Microsoft Purview for Azure Data Lake Storage (ADLS) Gen2 and Azure Blob (Blob) Storage in public preview. Data Sharing Lineage is aimed to provide detailed…</description>
-      <pubDate>Tue, 07 Mar 2023 18:00:01 Z</pubDate>
-      <atom:content
-        type="text">Data Sharing Lineage is now available in Microsoft Purview for Azure Data Lake Storage (ADLS) Gen2 and Azure Blob (Blob) Storage in public preview. Data Sharing Lineage is aimed to provide detailed…</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-serverless-realtime-inference-for-azure-databricks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-serverless-realtime-inference-for-azure-databricks/</link>
-      <title>Generally Available: Model Serving on Azure Databricks</title>
-      <description>Model Serving on Azure Databricks is now generally available</description>
-      <pubDate>Tue, 07 Mar 2023 18:00:00 Z</pubDate>
-      <atom:content
-        type="text">Model Serving on Azure Databricks is now generally available</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">more-transactions-at-no-additional-cost-for-azure-standard-ssd</guid>
-      <link>https://azure.microsoft.com/en-us/updates/more-transactions-at-no-additional-cost-for-azure-standard-ssd/</link>
-      <title>More transactions at no additional cost for Azure Standard SSD</title>
-      <description>Save money on billable transactions as we waive transaction fees for Azure Standard SSD customers that exceed the maximum hourly limit.</description>
-      <pubDate>Mon, 06 Mar 2023 18:00:05 Z</pubDate>
-      <atom:content
-        type="text">Save money on billable transactions as we waive transaction fees for Azure Standard SSD customers that exceed the maximum hourly limit.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
