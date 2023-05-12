@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 12 May 2023 22:12:35 Z",
+      "lastBuildDate": "Fri, 12 May 2023 23:12:39 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "were-retiring-speechtotext-rest-preview-api-v31preview1-on-may-12-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/were-retiring-speechtotext-rest-preview-api-v31preview1-on-may-12-2023/",
+          "category": [
+            "Retirement",
+            "Azure Speech",
+            "Speech to Text",
+            "SDK"
+          ],
+          "title": "We're retiring Speech-to-text REST preview API v3.1-preview.1 on May 12, 2023",
+          "description": "We recently made the Speech-to-text REST API version 3.1 generally available. With this release, we'll retire the preview version v3.1-preview.1 on May 12, 2023.",
+          "pubDate": "Fri, 12 May 2023 23:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We recently made the Speech-to-text REST API version 3.1 generally available. With this release, we'll retire the preview version v3.1-preview.1 on May 12, 2023."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3057,21 +3078,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the newly available pg_hint_plan extension to tweak PostgreSQL execution plans and semver extension to do semantic versioning in Azure Database for PostgreSQL – Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-static-web-apps-support-for-a-record"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-static-web-apps-support-for-a-record/",
-          "title": "Public preview: Azure Static Web Apps support for A Record",
-          "description": "You can now add an APEX custom domain to your Static Web Apps with A Records",
-          "pubDate": "Wed, 15 Mar 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now add an APEX custom domain to your Static Web Apps with A Records"
           },
           "content:encoded": null
         }
