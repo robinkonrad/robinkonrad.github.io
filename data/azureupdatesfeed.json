@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 15 May 2023 19:10:15 Z",
+      "lastBuildDate": "Mon, 15 May 2023 20:13:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026/",
+          "title": "Transition to Azure AD to query data from Azure Monitor application insights by 31 March 2026",
+          "description": "API keys for querying data from Azure Monitor application insights will be retired on 31 March 2026",
+          "pubDate": "Mon, 15 May 2023 19:51:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "API keys for querying data from Azure Monitor application insights will be retired on 31 March 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025/",
+          "title": "Switch to Azure AD authentication for application insights by 30 September 2025",
+          "description": "API keys used to stream live metrics telemetry into application insights will be retired on 30 September 2025.",
+          "pubDate": "Mon, 15 May 2023 19:22:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "API keys used to stream live metrics telemetry into application insights will be retired on 30 September 2025."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -312,21 +342,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Debug server-side latency with a new Azure Cache for Redis metric"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cache-for-redis-trigger-for-azure-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-trigger-for-azure-functions/",
-          "title": "Public preview: Azure Cache for Redis trigger for Azure Functions",
-          "description": "Trigger serverless functions through Azure Cache for Redis",
-          "pubDate": "Wed, 10 May 2023 16:01:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Trigger serverless functions through Azure Cache for Redis"
           },
           "content:encoded": null
         },
@@ -1435,21 +1450,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
-          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
-          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-sql-general-availability-updates-for-midapril-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
@@ -1459,6 +1459,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
+          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
+          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
           },
           "content:encoded": null
         },
@@ -2999,21 +3014,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
-          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
-          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-red-hat-openshift-march-updates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
@@ -3023,6 +3023,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
+          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
+          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
+          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
           },
           "content:encoded": null
         },
@@ -3068,21 +3083,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public preview enhancements and updates released for Azure SQL in mid-March 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-containerlogv2-schema-in-azure-monitor-container-insights"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-containerlogv2-schema-in-azure-monitor-container-insights/",
-          "title": "Generally available: ContainerLogV2 Schema in Azure Monitor container insights",
-          "description": "Azure Monitor container insights now offers a new, lightweight schema for the container logs in ContainerLogV2",
-          "pubDate": "Wed, 15 Mar 2023 18:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor container insights now offers a new, lightweight schema for the container logs in ContainerLogV2"
           },
           "content:encoded": null
         }
