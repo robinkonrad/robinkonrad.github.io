@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 15 May 2023 17:11:48 Z",
+      "lastBuildDate": "Mon, 15 May 2023 18:16:27 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -47,6 +47,55 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Storage is a new Azure service built natively for containers that enables customers to create and manage volumes for running production scale stateful container applications."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-monitor-for-sap-solutions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-sap-solutions/",
+          "category": [
+            "SAP",
+            "Azure monitor for SAP solutions"
+          ],
+          "title": "General Availability : Azure Monitor for SAP solutions",
+          "description": "This is a GA launch announcement blog for Azure Monitor for SAP solutions.",
+          "pubDate": "Mon, 15 May 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This is a GA launch announcement blog for Azure Monitor for SAP solutions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "private-preview-azure-backup-support-for-confidential-vms-using-customer-managed-keys"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/private-preview-azure-backup-support-for-confidential-vms-using-customer-managed-keys/",
+          "title": "Private preview: Azure Backup support for confidential VMs using Customer Managed Keys",
+          "description": "Azure Backup support for confidential VMs using Customer Managed Keys",
+          "pubDate": "Mon, 15 May 2023 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup support for confidential VMs using Customer Managed Keys"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-policy-analytics-for-azure-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-policy-analytics-for-azure-firewall/",
+          "title": "Generally available: Policy analytics for Azure Firewall",
+          "description": "Policy analytics for Azure Firewall, now in general availability, provides enhanced visibility into traffic flowing through Azure Firewall, enabling the optimization of your firewall configuration without impacting your application performance.",
+          "pubDate": "Mon, 15 May 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Policy analytics for Azure Firewall, now in general availability, provides enhanced visibility into traffic flowing through Azure Firewall, enabling the optimization of your firewall configuration without impacting your application performance."
           },
           "content:encoded": null
         },
@@ -932,21 +981,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -956,6 +990,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -3034,51 +3083,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor container insights now offers a new, lightweight schema for the container logs in ContainerLogV2"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-metric-charts-support-for-splitby-operations-on-multiple-dimensions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-metric-charts-support-for-splitby-operations-on-multiple-dimensions/",
-          "title": "Generally available: Metric charts support for split-by operations on multiple dimensions",
-          "description": "Azure Portal metric charts will now enable customers to analyze metrics on their Azure resources by supporting the split-by operator on more than one dimension.",
-          "pubDate": "Wed, 15 Mar 2023 18:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Portal metric charts will now enable customers to analyze metrics on their Azure resources by supporting the split-by operator on more than one dimension."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-firewall-basic"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-firewall-basic/",
-          "title": "Generally available: Azure Firewall Basic",
-          "description": "Azure Firewall Basic provides cost-effective, enterprise-grade network security for small and medium businesses (SMBs).",
-          "pubDate": "Wed, 15 Mar 2023 17:58:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Firewall Basic provides cost-effective, enterprise-grade network security for small and medium businesses (SMBs)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "backupforakspublicpreview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/backupforakspublicpreview/",
-          "title": "Public Preview - Backup for Azure Kubernetes Service (AKS)",
-          "description": "Azure Backup is announcing public preview of Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters.",
-          "pubDate": "Wed, 15 Mar 2023 17:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup is announcing public preview of Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters."
           },
           "content:encoded": null
         }
