@@ -12,13 +12,62 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 15 May 2023 15:13:51 Z",
+      "lastBuildDate": "Mon, 15 May 2023 16:17:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-monitor-for-sap-solutions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-sap-solutions/",
+          "category": [
+            "SAP",
+            "Azure monitor for SAP solutions"
+          ],
+          "title": "General Availability : Azure Monitor for SAP solutions",
+          "description": "This is a GA launch announcement blog for Azure Monitor for SAP solutions.",
+          "pubDate": "Mon, 15 May 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This is a GA launch announcement blog for Azure Monitor for SAP solutions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "private-preview-azure-backup-support-for-confidential-vms-using-customer-managed-keys"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/private-preview-azure-backup-support-for-confidential-vms-using-customer-managed-keys/",
+          "title": "Private preview: Azure Backup support for confidential VMs using Customer Managed Keys",
+          "description": "Azure Backup support for confidential VMs using Customer Managed Keys",
+          "pubDate": "Mon, 15 May 2023 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup support for confidential VMs using Customer Managed Keys"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-policy-analytics-for-azure-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-policy-analytics-for-azure-firewall/",
+          "title": "Generally available: Policy analytics for Azure Firewall",
+          "description": "Policy analytics for Azure Firewall, now in general availability, provides enhanced visibility into traffic flowing through Azure Firewall, enabling the optimization of your firewall configuration without impacting your application performance.",
+          "pubDate": "Mon, 15 May 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Policy analytics for Azure Firewall, now in general availability, provides enhanced visibility into traffic flowing through Azure Firewall, enabling the optimization of your firewall configuration without impacting your application performance."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -901,21 +950,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -925,6 +959,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -2327,6 +2376,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -2337,21 +2401,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3033,51 +3082,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Firewall Basic provides cost-effective, enterprise-grade network security for small and medium businesses (SMBs)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "backupforakspublicpreview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/backupforakspublicpreview/",
-          "title": "Public Preview - Backup for Azure Kubernetes Service (AKS)",
-          "description": "Azure Backup is announcing public preview of Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters.",
-          "pubDate": "Wed, 15 Mar 2023 17:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup is announcing public preview of Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-database-connections-support-in-azure-static-web-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-database-connections-support-in-azure-static-web-apps/",
-          "title": "Public preview: Database connections support in Azure Static Web Apps",
-          "description": "You can now make REST or GraphQL requests to a built-in `/data-api` endpoint to retrieve and modify contents of a connected database, without having to write backend code.",
-          "pubDate": "Wed, 15 Mar 2023 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now make REST or GraphQL requests to a built-in `/data-api` endpoint to retrieve and modify contents of a connected database, without having to write backend code."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-of-azure-hybrid-benefit-for-sql-server-on-azure-vmware-solution"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-of-azure-hybrid-benefit-for-sql-server-on-azure-vmware-solution/",
-          "title": "General Availability of Azure Hybrid Benefit for SQL Server on Azure VMware Solution",
-          "description": "Customers can now take advantage of the unlimited virtualization licensing capability included with the SQL Server Software Assurance with Azure Hybrid Benefit for SQL Server on Azure VMware Solution.",
-          "pubDate": "Wed, 15 Mar 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now take advantage of the unlimited virtualization licensing capability included with the SQL Server Software Assurance with Azure Hybrid Benefit for SQL Server on Azure VMware Solution."
           },
           "content:encoded": null
         }
