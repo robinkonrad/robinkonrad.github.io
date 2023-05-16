@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 16 May 2023 18:16:13 Z",
+      "lastBuildDate": "Tue, 16 May 2023 19:11:19 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-application-gateway-v2-config-to-policy-upgrade-experience"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-v2-config-to-policy-upgrade-experience/",
+          "title": "General availability: Seamlessly upgrade your Application Gateway V2 WAF configuration to a policy",
+          "description": "Azure’s regional Web Application Firewall (WAF) on Application Gateway now supports a fully automated experience when upgrading your WAF from configuration to policy.",
+          "pubDate": "Tue, 16 May 2023 19:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure’s regional Web Application Firewall (WAF) on Application Gateway now supports a fully automated experience when upgrading your WAF from configuration to policy."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3068,21 +3083,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Boost Azure Disk Storage IOPS and throughput with Performance Plus"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-change-data-capture-for-azure-cosmos-db-analytical-store"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-change-data-capture-for-azure-cosmos-db-analytical-store/",
-          "title": "Public Preview: Change data capture for Azure Cosmos DB analytical store",
-          "description": "Build CDC data flows from Azure Cosmos DB analytical store, at no RUs cost, with Azure Synapse Analytics or Azure Data Factory.",
-          "pubDate": "Wed, 15 Mar 2023 18:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Build CDC data flows from Azure Cosmos DB analytical store, at no RUs cost, with Azure Synapse Analytics or Azure Data Factory."
           },
           "content:encoded": null
         }
