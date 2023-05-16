@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 16 May 2023 16:17:31 Z",
+      "lastBuildDate": "Tue, 16 May 2023 17:11:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "customerrorpages"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/customerrorpages/",
+          "title": "App Service now supports Custom Error pages in public preview",
+          "description": "App Service supports custom error pages in public preview",
+          "pubDate": "Tue, 16 May 2023 17:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "App Service supports custom error pages in public preview"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -996,21 +1011,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-api-management-authorizations"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
-          "title": "Generally available: API Management Authorizations",
-          "description": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs.",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
@@ -1020,6 +1020,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now source Container Apps secrets values from Azure Key Vault"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-api-management-authorizations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
+          "title": "Generally available: API Management Authorizations",
+          "description": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs.",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
           },
           "content:encoded": null
         },
@@ -1450,21 +1465,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
-          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
-          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-sql-general-availability-updates-for-midapril-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
@@ -1474,6 +1474,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
+          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
+          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
           },
           "content:encoded": null
         },
@@ -2422,6 +2437,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -2432,21 +2462,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3068,21 +3083,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Build CDC data flows from Azure Cosmos DB analytical store, at no RUs cost, with Azure Synapse Analytics or Azure Data Factory."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-public-preview-updates-for-midmarch-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-midmarch-2023/",
-          "title": "Azure SQL—Public preview updates for mid-March 2023",
-          "description": "Public preview enhancements and updates released for Azure SQL in mid-March 2023",
-          "pubDate": "Wed, 15 Mar 2023 18:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in mid-March 2023"
           },
           "content:encoded": null
         }
