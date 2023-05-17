@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 17 May 2023 20:13:34 Z",
+      "lastBuildDate": "Wed, 17 May 2023 21:11:24 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "rollingupgradeswithmaxsurge"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/rollingupgradeswithmaxsurge/",
+          "category": [
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Features"
+          ],
+          "title": "Public preview: Rolling Upgrades with MaxSurge for Virtual Machine Scale Sets",
+          "description": "Rolling Upgrades with MaxSurge provides you a new way of upgrading VM instances in a Virtual Machine Scale Set to the latest scale set model.",
+          "pubDate": "Wed, 17 May 2023 21:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Rolling Upgrades with MaxSurge provides you a new way of upgrading VM instances in a Virtual Machine Scale Set to the latest scale set model."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1103,21 +1123,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -1127,6 +1132,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -2529,21 +2549,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -2554,6 +2559,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3070,21 +3090,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use an identity-based connection to access Azure Storage, instead of embedding secrets in connection strings."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-version-411-now-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-version-411-now-available/",
-          "title": "Azure Red Hat OpenShift version 4.11 now available",
-          "description": "Take advantage of the features in OpenShift version 4.11.",
-          "pubDate": "Wed, 15 Mar 2023 19:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Take advantage of the features in OpenShift version 4.11."
           },
           "content:encoded": null
         }
