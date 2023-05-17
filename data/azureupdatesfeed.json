@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 17 May 2023 15:13:46 Z",
+      "lastBuildDate": "Wed, 17 May 2023 16:17:12 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-routing-intent-and-virtual-wan-integrated-firewall-nvas"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-routing-intent-and-virtual-wan-integrated-firewall-nvas/",
+          "title": "General Availability: Routing Intent and Virtual WAN Integrated Firewall NVAs",
+          "description": "Routing intent supports inter-region/inter-hub traffic inspection and branch-to-branch traffic inspection for Azure Virtual WAN.",
+          "pubDate": "Wed, 17 May 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Routing intent supports inter-region/inter-hub traffic inspection and branch-to-branch traffic inspection for Azure Virtual WAN."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-backup-reports-now-includes-support-for-more-workloads"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-reports-now-includes-support-for-more-workloads/",
+          "title": "Azure Backup Reports now includes support for more workloads",
+          "description": "Azure Backup Reports now includes support for more workloads: Azure Database for PostgreSQL Servers, Azure Blobs and Azure Disks.",
+          "pubDate": "Wed, 17 May 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup Reports now includes support for more workloads: Azure Database for PostgreSQL Servers, Azure Blobs and Azure Disks."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3053,36 +3083,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Improve development velocity and efficiency via modern REST and GraphQL API using the new data API builder with support for multiple Azure databases."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-march-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-march-updates/",
-          "title": "Azure Red Hat OpenShift March Updates",
-          "description": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance.",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Expanded regional availability and several new features for workload optimization, enhanced security, and performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-brazil-southeast-south-africa-north-and-uae-north/",
-          "title": "Generally available: Azure Ultra Disk Storage in Brazil Southeast, South Africa North and UAE North",
-          "description": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads",
-          "pubDate": "Wed, 15 Mar 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in Brazil Southeast, South Africa North and UAE North region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most demanding workloads"
           },
           "content:encoded": null
         }
