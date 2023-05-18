@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 18 May 2023 16:17:14 Z",
+      "lastBuildDate": "Thu, 18 May 2023 17:11:27 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-edit-network-features"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-edit-network-features/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "Public Preview: Azure NetApp Files Standard Network Features - Edit Volumes",
+          "description": "Azure NetApp Files now supports ability to edit existing ANF volumes and upgrading Basic network features to Standard network features.",
+          "pubDate": "Thu, 18 May 2023 17:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files now supports ability to edit existing ANF volumes and upgrading Basic network features to Standard network features."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3075,21 +3095,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the Azure Database for MySQL - Flexible Server connector to connect to MySQL data and build with Power Apps and Logic Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-durable-functions-support-of-managed-identity-for-azure-storage"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-durable-functions-support-of-managed-identity-for-azure-storage/",
-          "title": "Generally Available: Durable Functions support of managed identity for Azure Storage",
-          "description": "You can now use an identity-based connection to access Azure Storage, instead of embedding secrets in connection strings.",
-          "pubDate": "Wed, 15 Mar 2023 19:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use an identity-based connection to access Azure Storage, instead of embedding secrets in connection strings."
           },
           "content:encoded": null
         }
