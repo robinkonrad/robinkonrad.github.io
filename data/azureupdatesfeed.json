@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 23 May 2023 14:13:30 Z",
+      "lastBuildDate": "Tue, 23 May 2023 15:14:14 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "custom-ta4h-release"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/custom-ta4h-release/",
+          "title": "Announcing the public preview of custom Text Analytics for health",
+          "description": "Custom Text Analytics for health is the newest healthcare NLP offering from Cognitive Services for Language. It allows you to add a layer of customization on top of Text Analytics for health using state-of-the-art machine learning models to build your own healthcare entity extraction model with your specific domain data. The model's authoring experience can be performed either using the graphical user interface on the Language Studio or programmatically using the REST APIs. The feature is now in public preview allowing you to make 5,000 text records of predictions per language resource for free using the Standard (S) pricing tier.",
+          "pubDate": "Tue, 23 May 2023 15:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Custom Text Analytics for health is the newest healthcare NLP offering from Cognitive Services for Language. It allows you to add a layer of customization on top of Text Analytics for health using state-of-the-art machine learning models to build your own healthcare entity extraction model with your specific domain data. The model's authoring experience can be performed either using the graphical user interface on the Language Studio or programmatically using the REST APIs. The feature is now in public preview allowing you to make 5,000 text records of predictions per language resource for free using the Standard (S) pricing tier."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2569,21 +2584,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
-          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
-          "description": "Migrate to containers before May 1, 2023",
-          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to containers before May 1, 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024"
           },
           "link": "https://azure.microsoft.com/en-us/updates/batch-custom-image-pools-using-vhd-or-managed-images-will-be-retired-on-31-march-2024/",
@@ -2594,6 +2594,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Transition custom image pools use images from Azure Compute Gallery"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/docker-container-runtime-retirement-for-windows-node-pools-effective-may-1-2023/",
+          "title": "Docker container runtime retirement for Windows node pools effective May 1, 2023",
+          "description": "Migrate to containers before May 1, 2023",
+          "pubDate": "Fri, 24 Mar 2023 23:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to containers before May 1, 2023"
           },
           "content:encoded": null
         },
@@ -3080,21 +3095,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure SQL Migration extension allows offline database migrations of on-premises and cloud SQL Server databases to Azure SQL Database, providing a comprehensive modernization experience in Azure Data Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-mysql-connector-for-power-apps-logic-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-connector-for-power-apps-logic-apps/",
-          "title": "Public preview: Azure Database for MySQL connector for Power Apps, Logic Apps",
-          "description": "Use the Azure Database for MySQL - Flexible Server connector to connect to MySQL data and build with Power Apps and Logic Apps.",
-          "pubDate": "Wed, 15 Mar 2023 19:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the Azure Database for MySQL - Flexible Server connector to connect to MySQL data and build with Power Apps and Logic Apps."
           },
           "content:encoded": null
         }
