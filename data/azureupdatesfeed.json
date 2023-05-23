@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 23 May 2023 18:16:07 Z",
+      "lastBuildDate": "Tue, 23 May 2023 19:11:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-exactly-once-eh"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-exactly-once-eh/",
+          "title": "Generally Available: Exactly Once Delivery to Event Hub Output",
+          "description": "Stream Analytics now supports end-to-end exactly once semantics when writing to Event Hub output.",
+          "pubDate": "Tue, 23 May 2023 19:02:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stream Analytics now supports end-to-end exactly once semantics when writing to Event Hub output."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-cosmos-db-sdks-opentelemetry-and-application-insights-integration"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-sdks-opentelemetry-and-application-insights-integration/",
+          "title": "Public Preview: Azure Cosmos DB SDKs OpenTelemetry and Application Insights integration",
+          "description": "Monitoring your applications is easier than ever with new support for OpenTelemetry and improved Application Insights integration.",
+          "pubDate": "Tue, 23 May 2023 19:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Monitoring your applications is easier than ever with new support for OpenTelemetry and improved Application Insights integration."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -499,21 +529,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-cosmos-db-sdks-opentelemetry-and-application-insights-integration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-sdks-opentelemetry-and-application-insights-integration/",
-          "title": "Public Preview: Azure Cosmos DB SDKs OpenTelemetry and Application Insights integration",
-          "description": "Monitoring your applications is easier than ever with new support for OpenTelemetry and improved Application Insights integration.",
-          "pubDate": "Tue, 23 May 2023 16:02:55 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Monitoring your applications is easier than ever with new support for OpenTelemetry and improved Application Insights integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-materialized-views-for-cosmos-db-nosql-api"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-materialized-views-for-cosmos-db-nosql-api/",
@@ -622,7 +637,7 @@
             "#text": "public-preview-azure-functions-can-now-run-on-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-can-now-run-on-azure-container-apps/",
-          "title": "Public preview: Azure Functions can now run on Azure Container Apps",
+          "title": "Public preview: Azure Functions for cloud-native microservices",
           "description": "Quickly build event driven, cloud native apps, with the flexibility to run functions along with other microservices, APIs, websites, workflows or any container hosted programs.",
           "pubDate": "Tue, 23 May 2023 16:02:50 Z",
           "atom:content": {
@@ -3082,21 +3097,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "SQL Server connector’s V1 actions and triggers will be retired on 31 March 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-notice-migrate-from-public-peering-by-march-31-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-migrate-from-public-peering-by-march-31-2024/",
-          "title": "Retirement notice: Migrate from Public Peering by March 31, 2024",
-          "description": "ExpressRoute Public Peering will be retired on March 31, 2024.",
-          "pubDate": "Fri, 31 Mar 2023 23:00:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute Public Peering will be retired on March 31, 2024."
           },
           "content:encoded": null
         }
