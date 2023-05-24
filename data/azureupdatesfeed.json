@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 24 May 2023 18:16:15 Z",
+      "lastBuildDate": "Wed, 24 May 2023 19:10:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-files-georedundancy-for-standard-large-file-shares"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-files-georedundancy-for-standard-large-file-shares/",
+          "title": "Public Preview: Azure Files geo-redundancy for standard large file shares",
+          "description": "Azure Files geo-redundancy for large file shares is now in public preview for standard SMB file shares.",
+          "pubDate": "Wed, 24 May 2023 19:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Files geo-redundancy for large file shares is now in public preview for standard SMB file shares."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3077,21 +3092,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We'll no longer place apps in disaster recovery mode in the event of a regional disaster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "the-managed-iot-edge-solution-on-azure-stack-edge-will-be-retired-on-march-31-2024-transition-your-iot-edge-workloads-to-an-i"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/the-managed-iot-edge-solution-on-azure-stack-edge-will-be-retired-on-march-31-2024-transition-your-iot-edge-workloads-to-an-i/",
-          "title": "The “managed” IoT Edge solution on Azure stack Edge will be retired on March 31, 2024. Transition your IoT Edge workloads to an IoT Edge solution running on a Linux VM on Azure Stack Edge.",
-          "description": "The “managed” IoT Edge solution on Azure Stack Edge will be retired on 31 March 2024",
-          "pubDate": "Fri, 31 Mar 2023 23:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The “managed” IoT Edge solution on Azure Stack Edge will be retired on 31 March 2024"
           },
           "content:encoded": null
         }
