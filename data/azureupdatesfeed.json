@@ -12,13 +12,103 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 24 May 2023 16:17:44 Z",
+      "lastBuildDate": "Wed, 24 May 2023 17:11:49 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-exactly-once-delivery-to-adls-gen2-output"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-exactly-once-delivery-to-adls-gen2-output/",
+          "title": "Generally Available: Exactly Once Delivery to ADLS Gen2 Output",
+          "description": "Azure Stream Analytics supports for end-to-end exactly once semantics when writing to Azure Data Lake Storage Gen2.",
+          "pubDate": "Wed, 24 May 2023 17:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Stream Analytics supports for end-to-end exactly once semantics when writing to Azure Data Lake Storage Gen2."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-azure-ai-content-safety"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-azure-ai-content-safety/",
+          "title": "Announcing Azure AI Content Safety",
+          "description": "Azure AI Content Safety is a new Azure AI service that identifies harmful online content, categorizes it, and assigns severity scores, supporting human content moderator workloads.",
+          "pubDate": "Wed, 24 May 2023 17:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure AI Content Safety is a new Azure AI service that identifies harmful online content, categorizes it, and assigns severity scores, supporting human content moderator workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-kafka-privatepreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-kafka-privatepreview/",
+          "title": "Private Preview: Kafka Input and Output with Azure Stream Analytics",
+          "description": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job.",
+          "pubDate": "Wed, 24 May 2023 17:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "virtual-network-integration-support-public-preview-for-azure-stream-analytics"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/virtual-network-integration-support-public-preview-for-azure-stream-analytics/",
+          "title": "Virtual Network Integration Support (Public Preview) for Azure Stream Analytics",
+          "description": "ASA is thrilled to announce public preview of Virtual Network Integration support for Azure Stream Analytics!",
+          "pubDate": "Wed, 24 May 2023 17:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ASA is thrilled to announce public preview of Virtual Network Integration support for Azure Stream Analytics!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-stream-analytics-is-launching-a-new-competitive-pricing-model"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-is-launching-a-new-competitive-pricing-model/",
+          "title": "Azure Stream Analytics is Launching a New Competitive Pricing Model!",
+          "description": "Up to 80% price reduction in Azure Stream Analytics",
+          "pubDate": "Wed, 24 May 2023 17:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Up to 80% price reduction in Azure Stream Analytics"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-backup-soft-delete-of-recovery-points"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-soft-delete-of-recovery-points/",
+          "title": "Public preview: Soft delete of Recovery Points for Azure Backup",
+          "description": "Azure Backup's soft delete of recovery points allows you to recover any recovery points that may have been accidentally or maliciously deleted owing to operations that could lead to deletion of one or more recovery points.",
+          "pubDate": "Wed, 24 May 2023 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup's soft delete of recovery points allows you to recover any recovery points that may have been accidentally or maliciously deleted owing to operations that could lead to deletion of one or more recovery points."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2115,21 +2205,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -2139,6 +2214,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -2569,21 +2659,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
-          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
-          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-sql-general-availability-updates-for-midapril-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
@@ -2593,6 +2668,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
+          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
+          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
           },
           "content:encoded": null
         },
@@ -3002,101 +3092,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The “managed” IoT Edge solution on Azure Stack Edge will be retired on 31 March 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-database-for-postgresql-single-server-will-be-retired-migrate-to-flexible-server-by-28-march-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-will-be-retired-migrate-to-flexible-server-by-28-march-2025/",
-          "category": [
-            "Azure Database for PostgreSQL",
-            "retirement",
-            "Postgres"
-          ],
-          "title": "Azure Database for PostgreSQL Single Server will be retired—migrate to Flexible Server by 28 March 2025",
-          "description": "On 28 March 2025, Azure Database for PostgreSQL Single Server will be retired, and you'll need to migrate to Azure Database for PostgreSQL Flexible Server by that date.",
-          "pubDate": "Fri, 31 Mar 2023 23:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "On 28 March 2025, Azure Database for PostgreSQL Single Server will be retired, and you'll need to migrate to Azure Database for PostgreSQL Flexible Server by that date."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "action-required-transition-to-dcrbased-kql-transformations-by-31-march-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/action-required-transition-to-dcrbased-kql-transformations-by-31-march-2026/",
-          "title": "Action Required: Transition to DCR-based KQL transformations by 31 March 2026",
-          "description": "Custom fields feature will be retired on 31 March 2026",
-          "pubDate": "Fri, 31 Mar 2023 23:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Custom fields feature will be retired on 31 March 2026"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-cdn-will-be-retiring-azure-cdn-standard-from-akamai-on-31-october-2023-transition-to-another-cdn-profile-to-avoid-servi"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-cdn-will-be-retiring-azure-cdn-standard-from-akamai-on-31-october-2023-transition-to-another-cdn-profile-to-avoid-servi/",
-          "title": "Azure CDN will be retiring Azure CDN Standard from Akamai on 31 October 2023 – transition to another CDN profile to avoid service interruption",
-          "description": "Azure CDN Standard from Akamai is being retired and services will end on 31 October 2023",
-          "pubDate": "Fri, 31 Mar 2023 23:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure CDN Standard from Akamai is being retired and services will end on 31 October 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/sql-server-connector-s-v1-actions-and-triggers-will-be-retired-on-31-march-2024-transition-to-sql-server-connector-s-v2-actio/",
-          "title": "SQL Server connector’s V1 actions and triggers will be retired on 31 March 2024 – transition to SQL Server connector’s V2 actions and triggers",
-          "description": "SQL Server connector’s V1 actions and triggers will be retired on 31 March 2024",
-          "pubDate": "Fri, 31 Mar 2023 23:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "SQL Server connector’s V1 actions and triggers will be retired on 31 March 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-notice-migrate-from-public-peering-by-march-31-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-migrate-from-public-peering-by-march-31-2024/",
-          "title": "Retirement notice: Migrate from Public Peering by March 31, 2024",
-          "description": "ExpressRoute Public Peering will be retired on March 31, 2024.",
-          "pubDate": "Fri, 31 Mar 2023 23:00:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute Public Peering will be retired on March 31, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "classic-vmware-dr-deprecation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/classic-vmware-dr-deprecation/",
-          "title": "Classic experience to protect VMware machines using Azure Site Recovery will be retired on 30 March 2026",
-          "description": "Azure Site Recovery’s classic experience to protect VMware VMs will be retired on 30 March 2026",
-          "pubDate": "Fri, 31 Mar 2023 23:00:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Site Recovery’s classic experience to protect VMware VMs will be retired on 30 March 2026"
           },
           "content:encoded": null
         }
