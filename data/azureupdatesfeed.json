@@ -12,13 +12,63 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 30 May 2023 16:15:23 Z",
+      "lastBuildDate": "Tue, 30 May 2023 17:10:03 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sphere-version-2305-is-delayed-new-os-will-be-issued-to-retail-eval"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2305-is-delayed-new-os-will-be-issued-to-retail-eval/",
+          "title": "General availability: Azure Sphere version 23.05 is delayed, new OS will be issued to Retail Eval",
+          "description": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.",
+          "pubDate": "Tue, 30 May 2023 17:00:26 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-nlog-sink-for-azure-data-explorer-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-nlog-sink-for-azure-data-explorer-2/",
+          "category": "Azure Data Explorer",
+          "title": "General availability: NLog Sink for Azure Data Explorer",
+          "description": "Azure Data Explorer now supports ingestion of data from .NET Applications via the NLog Sink.",
+          "pubDate": "Tue, 30 May 2023 17:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer now supports ingestion of data from .NET Applications via the NLog Sink."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-data-explorer-bindings-for-azure-functions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-bindings-for-azure-functions/",
+          "category": [
+            "Azure Data Explorer",
+            "Azure Functions"
+          ],
+          "title": "Public Preview: Azure Data Explorer bindings for Azure Functions",
+          "description": "Azure Data Explorer Bindings for Azure Functions (Public Preview)",
+          "pubDate": "Tue, 30 May 2023 17:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer Bindings for Azure Functions (Public Preview)"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2431,21 +2481,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-api-management-authorizations"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
-          "title": "Generally available: API Management Authorizations",
-          "description": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs.",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
@@ -2455,6 +2490,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now source Container Apps secrets values from Azure Key Vault"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-api-management-authorizations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
+          "title": "Generally available: API Management Authorizations",
+          "description": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs.",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
           },
           "content:encoded": null
         },
@@ -3048,51 +3098,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Introducing new burstable SKU’s (B4, B8, B12, B16, B20) for Azure Database for PostgreSQL Flexible Server, providing a cost-effective deployment solution for burstable workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-apps-offers-new-plan-and-pricing-structure"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-offers-new-plan-and-pricing-structure/",
-          "title": "Public preview: Azure Container Apps offers new plan and pricing structure",
-          "description": "You can now run your apps using serverless, consumption-based compute, and optionally run your apps on dedicated workload profiles that offer more CPU and memory if needed.",
-          "pubDate": "Wed, 12 Apr 2023 17:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now run your apps using serverless, consumption-based compute, and optionally run your apps on dedicated workload profiles that offer more CPU and memory if needed."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-of-query-performance-insight-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-of-query-performance-insight-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview of query performance insight for Azure Database for PostgreSQL- Flexible Server",
-          "description": "Introducing the public preview of query performance insight for Azure Database for PostgreSQL - Flexible Server, a new feature to help you improve the overall performance of your database.",
-          "pubDate": "Wed, 12 Apr 2023 17:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Introducing the public preview of query performance insight for Azure Database for PostgreSQL - Flexible Server, a new feature to help you improve the overall performance of your database."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-static-web-apps-support-for-python-310"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-static-web-apps-support-for-python-310/",
-          "title": "Generally available: Static Web Apps support for Python 3.10",
-          "description": "You can now build Static Web Apps applications using Python 3.10",
-          "pubDate": "Wed, 12 Apr 2023 17:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now build Static Web Apps applications using Python 3.10"
           },
           "content:encoded": null
         }
