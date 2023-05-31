@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 May 2023 16:17:00 Z</lastBuildDate>
+    <lastBuildDate>Wed, 31 May 2023 17:12:02 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">resource-centric-log-queries</guid>
+      <link>https://azure.microsoft.com/en-us/updates/resource-centric-log-queries/</link>
+      <title>Now Available: Resource-centric log queries in the Azure Monitor Query libraries</title>
+      <description>Resource-centric log query support is available in the latest stable release of the Azure Monitor Query client libraries. Query logs by Azure resource ID using .NET, Go, Java, JavaScript, or Python.</description>
+      <pubDate>Wed, 31 May 2023 17:00:17 Z</pubDate>
+      <atom:content
+        type="text">Resource-centric log query support is available in the latest stable release of the Azure Monitor Query client libraries. Query logs by Azure resource ID using .NET, Go, Java, JavaScript, or Python.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions/</link>
+      <title>Generally available: Zone Redundant Storage for Azure Disks is now available in more regions.</title>
+      <description>Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Brazil South, UK South, East US, East US 2, and South-Central US.</description>
+      <pubDate>Wed, 31 May 2023 17:00:03 Z</pubDate>
+      <atom:content
+        type="text">Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Brazil South, UK South, East US, East US 2, and South-Central US.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-azure-sphere-version-2305-is-delayed-new-os-will-be-issued-to-retail-eval</guid>
@@ -1826,17 +1848,6 @@ This capability provides instant compute to users for their BI and SQL workloads
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-api-management-authorizations</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/</link>
-      <title>Generally available: API Management Authorizations </title>
-      <description>API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </description>
-      <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/</link>
       <title>Public preview: Azure Key Vault references for secrets in Azure Container Apps</title>
@@ -1844,6 +1855,17 @@ This capability provides instant compute to users for their BI and SQL workloads
       <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
       <atom:content
         type="text">You can now source Container Apps secrets values from Azure Key Vault</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-api-management-authorizations</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/</link>
+      <title>Generally available: API Management Authorizations </title>
+      <description>API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </description>
+      <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
+      <atom:content
+        type="text">API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2252,17 +2274,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-sql-general-availability-updates-for-midapril-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/</link>
-      <title>Azure SQL—General availability updates for mid-April 2023</title>
-      <description>General availability enhancements and updates released for Azure SQL for mid-April 2023</description>
-      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">General availability enhancements and updates released for Azure SQL for mid-April 2023</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/</link>
       <title>Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop</title>
@@ -2270,6 +2281,17 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
       <atom:content
         type="text">Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-general-availability-updates-for-midapril-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/</link>
+      <title>Azure SQL—General availability updates for mid-April 2023</title>
+      <description>General availability enhancements and updates released for Azure SQL for mid-April 2023</description>
+      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL for mid-April 2023</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2349,28 +2371,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Wed, 12 Apr 2023 17:00:06 Z</pubDate>
       <atom:content
         type="text">Public preview enhancements and updates released for Azure SQL in mid-April 2023</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-database-for-postgresql-flexible-server-in-the-australia-central-region</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-database-for-postgresql-flexible-server-in-the-australia-central-region/</link>
-      <title>Generally Available: Azure Database for PostgreSQL - Flexible Server in the Australia Central region.</title>
-      <description>Introducing Azure Database for PostgreSQL – Flexible Server in Australia Central region. This expansion provides a simplified provisioning experience with the openness of the PostgreSQL database community version and more.</description>
-      <pubDate>Wed, 12 Apr 2023 17:00:05 Z</pubDate>
-      <atom:content
-        type="text">Introducing Azure Database for PostgreSQL – Flexible Server in Australia Central region. This expansion provides a simplified provisioning experience with the openness of the PostgreSQL database community version and more.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-new-burstable-skus-for-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-new-burstable-skus-for-azure-database-for-postgresql-flexible-server/</link>
-      <title>Generally Available: New burstable SKUs for Azure Database for PostgreSQL - Flexible Server </title>
-      <description>Introducing new burstable SKU’s (B4, B8, B12, B16, B20) for Azure Database for PostgreSQL Flexible Server, providing a cost-effective deployment solution for burstable workloads.</description>
-      <pubDate>Wed, 12 Apr 2023 17:00:05 Z</pubDate>
-      <atom:content
-        type="text">Introducing new burstable SKU’s (B4, B8, B12, B16, B20) for Azure Database for PostgreSQL Flexible Server, providing a cost-effective deployment solution for burstable workloads.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
