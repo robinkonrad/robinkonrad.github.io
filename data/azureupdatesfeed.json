@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 01 Jun 2023 18:17:17 Z",
+      "lastBuildDate": "Thu, 01 Jun 2023 19:10:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -52,6 +52,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Mv2 8TB Memory virtual machine is generally available now for your in-memory workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-load-balancer-per-vm-limit-removal"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-load-balancer-per-vm-limit-removal/",
+          "title": "General availability: Azure Load Balancer per VM limit removal",
+          "description": "Increase resiliency, higher availability, and flexibility by utilizing more than 2 Standard Load Balancers per VM.",
+          "pubDate": "Thu, 01 Jun 2023 16:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Increase resiliency, higher availability, and flexibility by utilizing more than 2 Standard Load Balancers per VM."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-support-plan-offer-extended-to-december-31-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-support-plan-offer-extended-to-december-31-2023/",
+          "title": "Azure Support Plan Offer extended to December 31, 2023",
+          "description": "The existing Azure Support offer is being extended. The promotion will run from July 1, 2023 to December 31, 2023.",
+          "pubDate": "Thu, 01 Jun 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The existing Azure Support offer is being extended. The promotion will run from July 1, 2023 to December 31, 2023."
           },
           "content:encoded": null
         },
@@ -3070,40 +3100,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can use this feature to stop unintended changes to AKS resources and reduce support issues."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-app-health-extension-rich-health-states"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-app-health-extension-rich-health-states/",
-          "category": [
-            "Features",
-            "VMSS"
-          ],
-          "title": "General Availability: Azure App Health Extension - Rich Health States",
-          "description": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications.",
-          "pubDate": "Wed, 12 Apr 2023 18:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-improved-scaling-model-for-azure-functions-with-target-based-scaling"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-improved-scaling-model-for-azure-functions-with-target-based-scaling/",
-          "title": "General availability: Improved scaling model for Azure Functions with Target Based Scaling",
-          "description": "Scaling improvement for Service Bus, Event Hubs, Storage Queue, and Cosmos DB is now available for the Azure Functions Consumption and Premium plans.",
-          "pubDate": "Wed, 12 Apr 2023 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Scaling improvement for Service Bus, Event Hubs, Storage Queue, and Cosmos DB is now available for the Azure Functions Consumption and Premium plans."
           },
           "content:encoded": null
         }
