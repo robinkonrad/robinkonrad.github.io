@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 01 Jun 2023 21:11:19 Z",
+      "lastBuildDate": "Thu, 01 Jun 2023 22:12:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-isovalent-cilium-enterprise-through-azure-marketplace"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-isovalent-cilium-enterprise-through-azure-marketplace/",
+          "title": "General Availability: Isovalent Cilium Enterprise through Azure Marketplace",
+          "description": "Isovalent Cilium Enterprise is now generally available through Azure Marketplace.",
+          "pubDate": "Thu, 01 Jun 2023 21:39:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Isovalent Cilium Enterprise is now generally available through Azure Marketplace."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -208,21 +223,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-isovalent-cilium-enterprise-through-azure-marketplace"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-isovalent-cilium-enterprise-through-azure-marketplace/",
-          "title": "General Availability: Isovalent Cilium Enterprise through Azure Marketplace",
-          "description": "Isovalent Cilium Enterprise is now generally available through Azure Marketplace.",
-          "pubDate": "Tue, 30 May 2023 15:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Isovalent Cilium Enterprise is now generally available through Azure Marketplace."
           },
           "content:encoded": null
         },
@@ -736,21 +736,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-hx-virtual-machines-for-hpc"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-hx-virtual-machines-for-hpc/",
-          "title": "General availability: Azure HX Virtual Machines for HPC",
-          "description": "HX-series VMs for HPC are now generally available in the Azure East US region.",
-          "pubDate": "Tue, 23 May 2023 16:03:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "HX-series VMs for HPC are now generally available in the Azure East US region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "key-vault-rbac-access-configuration"
           },
           "link": "https://azure.microsoft.com/en-us/updates/key-vault-rbac-access-configuration/",
@@ -760,21 +745,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure RBAC is now the recommended authorization system for the Azure Key Vault data plane."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-hbv4-virtual-machines-for-hpc"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-hbv4-virtual-machines-for-hpc/",
-          "title": "General availability: Azure HBv4 Virtual Machines for HPC",
-          "description": "HBv4-series VMs for HPC are now generally available in the Azure East US region.",
-          "pubDate": "Tue, 23 May 2023 16:03:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "HBv4-series VMs for HPC are now generally available in the Azure East US region."
           },
           "content:encoded": null
         },
@@ -2592,21 +2562,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-api-management-authorizations"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
-          "title": "Generally available: API Management Authorizations",
-          "description": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs.",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
@@ -2616,6 +2571,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now source Container Apps secrets values from Azure Key Vault"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-api-management-authorizations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
+          "title": "Generally available: API Management Authorizations",
+          "description": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs.",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
           },
           "content:encoded": null
         },
@@ -3100,6 +3070,40 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can use this feature to stop unintended changes to AKS resources and reduce support issues."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-app-health-extension-rich-health-states"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-app-health-extension-rich-health-states/",
+          "category": [
+            "Features",
+            "VMSS"
+          ],
+          "title": "General Availability: Azure App Health Extension - Rich Health States",
+          "description": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications.",
+          "pubDate": "Wed, 12 Apr 2023 18:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-improved-scaling-model-for-azure-functions-with-target-based-scaling"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-improved-scaling-model-for-azure-functions-with-target-based-scaling/",
+          "title": "General availability: Improved scaling model for Azure Functions with Target Based Scaling",
+          "description": "Scaling improvement for Service Bus, Event Hubs, Storage Queue, and Cosmos DB is now available for the Azure Functions Consumption and Premium plans.",
+          "pubDate": "Wed, 12 Apr 2023 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Scaling improvement for Service Bus, Event Hubs, Storage Queue, and Cosmos DB is now available for the Azure Functions Consumption and Premium plans."
           },
           "content:encoded": null
         }
