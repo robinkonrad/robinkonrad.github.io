@@ -12,13 +12,49 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 01 Jun 2023 17:11:38 Z",
+      "lastBuildDate": "Thu, 01 Jun 2023 18:17:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-jobs-api-to-support-bulk-import-in-azure-digital-twins"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-jobs-api-to-support-bulk-import-in-azure-digital-twins/",
+          "category": "Azure Digital Twins",
+          "title": "Generally available: Jobs API to support bulk import in Azure Digital Twins",
+          "description": "GA release for bulk import support for Azure Digital Twins",
+          "pubDate": "Thu, 01 Jun 2023 18:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "GA release for bulk import support for Azure Digital Twins"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-8tb-memory-mv2-virtual-machine"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-8tb-memory-mv2-virtual-machine/",
+          "category": [
+            "Virtual Machines",
+            "Mseries",
+            "Mv2"
+          ],
+          "title": "Generally available: 8TB memory Mv2 Virtual Machine",
+          "description": "Mv2 8TB Memory virtual machine is generally available now for your in-memory workloads.",
+          "pubDate": "Thu, 01 Jun 2023 18:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Mv2 8TB Memory virtual machine is generally available now for your in-memory workloads."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3068,36 +3104,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Scaling improvement for Service Bus, Event Hubs, Storage Queue, and Cosmos DB is now available for the Azure Functions Consumption and Premium plans."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-devops-2023-q1"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-devops-2023-q1/",
-          "title": "General availability: Azure DevOps 2023 Q1",
-          "description": "In Q1 we've delivered multiple features across our services. These included improvements on security and new features that have been prioritized based on customer feedback.",
-          "pubDate": "Wed, 12 Apr 2023 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "In Q1 we've delivered multiple features across our services. These included improvements on security and new features that have been prioritized based on customer feedback."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-read-replicas-for-azure-database-for-postgresql-flexible-server-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-read-replicas-for-azure-database-for-postgresql-flexible-server-2/",
-          "title": "General availability: Read replicas for Azure Database for PostgreSQL Flexible Server",
-          "description": "Improve performance and scale of read-intensive workloads with read replicas for Azure Database for PostgreSQL Flexible Server.",
-          "pubDate": "Wed, 12 Apr 2023 17:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Improve performance and scale of read-intensive workloads with read replicas for Azure Database for PostgreSQL Flexible Server."
           },
           "content:encoded": null
         }
