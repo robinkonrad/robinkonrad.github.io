@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 02 Jun 2023 11:11:11 Z",
+      "lastBuildDate": "Fri, 02 Jun 2023 12:27:25 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-introducing-ngads-v620series-vms-optimized-for-cloud-gaming"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-introducing-ngads-v620series-vms-optimized-for-cloud-gaming/",
+          "title": "Public preview: Introducing NGads V620-series VMs optimized for cloud gaming",
+          "description": "VGads V620-series virtual machines (VMs), now in public preview in the East US2, Europe west, and West US3 regions, enable service providers to build differentiated cloud gaming experiences.",
+          "pubDate": "Thu, 01 Jun 2023 23:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VGads V620-series virtual machines (VMs), now in public preview in the East US2, Europe west, and West US3 regions, enable service providers to build differentiated cloud gaming experiences."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2562,21 +2577,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -2586,6 +2586,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -3089,21 +3104,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-improved-scaling-model-for-azure-functions-with-target-based-scaling"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-improved-scaling-model-for-azure-functions-with-target-based-scaling/",
-          "title": "General availability: Improved scaling model for Azure Functions with Target Based Scaling",
-          "description": "Scaling improvement for Service Bus, Event Hubs, Storage Queue, and Cosmos DB is now available for the Azure Functions Consumption and Premium plans.",
-          "pubDate": "Wed, 12 Apr 2023 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Scaling improvement for Service Bus, Event Hubs, Storage Queue, and Cosmos DB is now available for the Azure Functions Consumption and Premium plans."
           },
           "content:encoded": null
         }
