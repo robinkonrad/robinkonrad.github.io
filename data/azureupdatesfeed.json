@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 05 Jun 2023 16:17:29 Z",
+      "lastBuildDate": "Mon, 05 Jun 2023 17:11:46 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "kusto-emulator-linux"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/kusto-emulator-linux/",
+          "title": "Generally available: Azure Data Explorer Kusto Emulator on Linux",
+          "description": "The Kusto Emulator is now available as a Linux Docker Container!",
+          "pubDate": "Mon, 05 Jun 2023 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Kusto Emulator is now available as a Linux Docker Container!"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2577,21 +2592,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -2601,6 +2601,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -3031,21 +3046,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
-          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
-          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
-          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-sql-general-availability-updates-for-midapril-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/",
@@ -3055,6 +3055,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL for mid-April 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/",
+          "title": "Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop",
+          "description": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 12 Apr 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters."
           },
           "content:encoded": null
         },
@@ -3085,25 +3100,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can use this feature to stop unintended changes to AKS resources and reduce support issues."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-app-health-extension-rich-health-states"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-app-health-extension-rich-health-states/",
-          "category": [
-            "Features",
-            "VMSS"
-          ],
-          "title": "General Availability: Azure App Health Extension - Rich Health States",
-          "description": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications.",
-          "pubDate": "Wed, 12 Apr 2023 18:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application Health Extension, Rich Health States allows for more detailed health reporting on your VM applications."
           },
           "content:encoded": null
         }
