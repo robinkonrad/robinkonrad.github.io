@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jun 2023 17:11:46 Z</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jun 2023 18:16:05 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,17 @@
       <pubDate>Mon, 05 Jun 2023 17:00:01 Z</pubDate>
       <atom:content
         type="text">The Kusto Emulator is now available as a Linux Docker Container!</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/</link>
+      <title>Public Preview: Azure Chaos Studio is now available in West US 2 region</title>
+      <description>Azure Chaos Studio is now available in West US 2 region.</description>
+      <pubDate>Mon, 05 Jun 2023 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">Azure Chaos Studio is now available in West US 2 region.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -163,6 +174,18 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">azure-cni-powered-by-cilium</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-cni-powered-by-cilium/</link>
+      <category>#Azure Kubernetes Service (AKS)  #Virtual Network  #Features</category>
+      <title>General availability: Azure CNI powered by Cilium</title>
+      <description>Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing.</description>
+      <pubDate>Tue, 30 May 2023 16:00:17 Z</pubDate>
+      <atom:content
+        type="text">Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">setting-up-a-cicd-pipeline-with-github-actions-for-stream-analytics-jobs</guid>
       <link>https://azure.microsoft.com/en-us/updates/setting-up-a-cicd-pipeline-with-github-actions-for-stream-analytics-jobs/</link>
       <title>Setting Up a CI/CD Pipeline with GitHub Actions for Stream Analytics Jobs</title>
@@ -170,18 +193,6 @@
       <pubDate>Tue, 30 May 2023 16:00:17 Z</pubDate>
       <atom:content
         type="text">Are you using GitHub for managing your Stream Analytics project and looking to leverage GitHub's powerful CI/CD pipeline? Follow this comprehensive guide and learn to set up a CI/CD pipeline with GitHub Actions for your Stream Analytics jobs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-cni-powered-by-cilium</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-cni-powered-by-cilium/</link>
-      <category>#Azure Kubernetes Service (AKS)  #Virtual Network  #Features</category>
-      <title>General availability: Azure CNI powered by Cilium</title>
-      <description>Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing.</description>
-      <pubDate>Tue, 30 May 2023 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1907,17 +1918,6 @@ This capability provides instant compute to users for their BI and SQL workloads
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-api-management-authorizations</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/</link>
-      <title>Generally available: API Management Authorizations </title>
-      <description>API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </description>
-      <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/</link>
       <title>Public preview: Azure Key Vault references for secrets in Azure Container Apps</title>
@@ -1925,6 +1925,17 @@ This capability provides instant compute to users for their BI and SQL workloads
       <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
       <atom:content
         type="text">You can now source Container Apps secrets values from Azure Key Vault</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-api-management-authorizations</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/</link>
+      <title>Generally available: API Management Authorizations </title>
+      <description>API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </description>
+      <pubDate>Wed, 26 Apr 2023 17:00:00 Z</pubDate>
+      <atom:content
+        type="text">API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2333,17 +2344,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-sql-general-availability-updates-for-midapril-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/</link>
-      <title>Azure SQL—General availability updates for mid-April 2023</title>
-      <description>General availability enhancements and updates released for Azure SQL for mid-April 2023</description>
-      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">General availability enhancements and updates released for Azure SQL for mid-April 2023</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/</link>
       <title>Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop</title>
@@ -2355,6 +2355,17 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
     </item>
     <item>
       <guid
+        isPermaLink="false">azure-sql-general-availability-updates-for-midapril-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/</link>
+      <title>Azure SQL—General availability updates for mid-April 2023</title>
+      <description>General availability enhancements and updates released for Azure SQL for mid-April 2023</description>
+      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL for mid-April 2023</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">azure-machine-learning-general-availability-for-april</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-april/</link>
       <title>Azure Machine Learning - General Availability for April</title>
@@ -2362,17 +2373,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Wed, 12 Apr 2023 18:00:02 Z</pubDate>
       <atom:content
         type="text">New features now available in GA include the ability to customize your compute instance and configure a compute instance to automatically stop if it is inactive. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-node-resource-group-nrg-lockdown</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-node-resource-group-nrg-lockdown/</link>
-      <title>Public preview: Node Resource Group (NRG) lockdown</title>
-      <description>You can use this feature to stop unintended changes to AKS resources and reduce support issues.</description>
-      <pubDate>Wed, 12 Apr 2023 18:00:02 Z</pubDate>
-      <atom:content
-        type="text">You can use this feature to stop unintended changes to AKS resources and reduce support issues.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
