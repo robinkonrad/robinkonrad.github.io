@@ -6,11 +6,75 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Jun 2023 15:13:41 Z</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jun 2023 16:17:06 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-files-rest-oauth</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-files-rest-oauth/</link>
+      <category>Azure Files</category>
+      <category>Storage Accounts</category>
+      <category>Features</category>
+      <title>Public Preview: Azure AD Support for Azure Files SMB shares REST API</title>
+      <description>With this announcement, cloud native and modern applications that use REST APIs to access Azure SMB shares can utilize identity-based authentication and authorization to access file shares.</description>
+      <pubDate>Tue, 06 Jun 2023 16:01:13 Z</pubDate>
+      <atom:content
+        type="text">With this announcement, cloud native and modern applications that use REST APIs to access Azure SMB shares can utilize identity-based authentication and authorization to access file shares.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-application-gateway-private-link</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-application-gateway-private-link/</link>
+      <category>Application Gateway</category>
+      <category>Features</category>
+      <category>Security</category>
+      <title>Generally available: Private Link support for Application Gateway</title>
+      <description>Application Gateway Private Link allows you to connect your workloads over a private connection spanning across VNets and subscriptions</description>
+      <pubDate>Tue, 06 Jun 2023 16:01:05 Z</pubDate>
+      <atom:content
+        type="text">Application Gateway Private Link allows you to connect your workloads over a private connection spanning across VNets and subscriptions</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-front-door-standardpremium-in-azure-government</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-front-door-standardpremium-in-azure-government/</link>
+      <title>Public preview: Azure Front Door Standard/Premium in Azure Government</title>
+      <description>Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</description>
+      <pubDate>Tue, 06 Jun 2023 16:00:58 Z</pubDate>
+      <atom:content
+        type="text">Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">multiple-backups-per-day</guid>
+      <link>https://azure.microsoft.com/en-us/updates/multiple-backups-per-day/</link>
+      <title>Generally available: Multiple backups per day for Azure Virtual Machines</title>
+      <description>Protect Azure Virtual Machines with Recovery Point Objective (RPO) as low as four hours.
+</description>
+      <pubDate>Tue, 06 Jun 2023 16:00:53 Z</pubDate>
+      <atom:content
+        type="text">Protect Azure Virtual Machines with Recovery Point Objective (RPO) as low as four hours.
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">geo-ip</guid>
+      <link>https://azure.microsoft.com/en-us/updates/geo-ip/</link>
+      <category>kusto</category>
+      <title>General availability: New KQL function to enrich your data analysis with geographic context</title>
+      <description>KQL introduces a new function to retrieve country, state, city, and coordinates from IP addresses using GeoLite2 data. Find out how to use geo_info_from_ip_address() and what it can do for your data analysis.</description>
+      <pubDate>Tue, 06 Jun 2023 16:00:41 Z</pubDate>
+      <atom:content
+        type="text">KQL introduces a new function to retrieve country, state, city, and coordinates from IP addresses using GeoLite2 data. Find out how to use geo_info_from_ip_address() and what it can do for your data analysis.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">kusto-emulator-linux</guid>
@@ -2318,61 +2382,6 @@ Please feel free to reach out at askcyclecloud@microsoft.com, or the AskCycleClo
       <pubDate>Thu, 13 Apr 2023 16:00:16 Z</pubDate>
       <atom:content
         type="text">You can connect your Azure Stream Analytics job to Azure Data Explorer / Kusto clusters using managed private endpoints</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">asa-applicationinsight</guid>
-      <link>https://azure.microsoft.com/en-us/updates/asa-applicationinsight/</link>
-      <title>Use Stream Analytics to process exported data from Application Insights</title>
-      <description>Use Stream Analytics to process exported data from Application Insights</description>
-      <pubDate>Thu, 13 Apr 2023 16:00:16 Z</pubDate>
-      <atom:content
-        type="text">Use Stream Analytics to process exported data from Application Insights</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-cosmos-db-for-postgresql-rest-apis</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-rest-apis/</link>
-      <title>Generally available: Azure Cosmos DB for PostgreSQL REST APIs</title>
-      <description>Use REST APIs for all cluster operations to streamline your ongoing management experience with one or many clusters.</description>
-      <pubDate>Wed, 12 Apr 2023 18:00:04 Z</pubDate>
-      <atom:content
-        type="text">Use REST APIs for all cluster operations to streamline your ongoing management experience with one or many clusters.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-for-postgresql-cluster-compute-start-and-stop/</link>
-      <title>Generally available: Azure Cosmos DB for PostgreSQL cluster compute start and stop</title>
-      <description>Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.</description>
-      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">Stop and start compute on all cluster nodes to optimize cost of your Azure Cosmos DB for PostgreSQL clusters.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-sql-general-availability-updates-for-midapril-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midapril-2023/</link>
-      <title>Azure SQL—General availability updates for mid-April 2023</title>
-      <description>General availability enhancements and updates released for Azure SQL for mid-April 2023</description>
-      <pubDate>Wed, 12 Apr 2023 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">General availability enhancements and updates released for Azure SQL for mid-April 2023</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-general-availability-for-april</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-april/</link>
-      <title>Azure Machine Learning - General Availability for April</title>
-      <description>New features now available in GA include the ability to customize your compute instance and configure a compute instance to automatically stop if it is inactive. </description>
-      <pubDate>Wed, 12 Apr 2023 18:00:02 Z</pubDate>
-      <atom:content
-        type="text">New features now available in GA include the ability to customize your compute instance and configure a compute instance to automatically stop if it is inactive. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
