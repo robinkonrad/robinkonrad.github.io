@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 07 Jun 2023 20:13:36 Z",
+      "lastBuildDate": "Wed, 07 Jun 2023 21:11:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -773,6 +773,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-network-observability-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-network-observability-addon-for-aks/",
+          "title": "Public preview: Network observability add-on for AKS",
+          "description": "Get complete observability into the network health and connectivity of your AKS cluster.",
+          "pubDate": "Tue, 23 May 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Get complete observability into the network health and connectivity of your AKS cluster."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "rualerts"
           },
           "link": "https://azure.microsoft.com/en-us/updates/rualerts/",
@@ -786,6 +801,25 @@
           "atom:content": {
             "@type": "text",
             "#text": "Activate reservation utilization alerts and take control of your Azure reservation strategy."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-announces-network-observability-aks-addon"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-announces-network-observability-aks-addon/",
+          "category": [
+            "AKS",
+            "Container insights"
+          ],
+          "title": "Public Preview: Azure Monitor announces Network Observability AKS add-on",
+          "description": "The new Network Observability AKS add-on provides complete observability into the network health and connectivity of your AKS cluster.",
+          "pubDate": "Tue, 23 May 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new Network Observability AKS add-on provides complete observability into the network health and connectivity of your AKS cluster."
           },
           "content:encoded": null
         },
@@ -2693,21 +2727,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -2717,6 +2736,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -3081,36 +3115,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure CNI Overlay utilizes an overlay network to reduce IP utilization while providing better performance and scale."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-notice-transition-to-the-authentication-methods-policy-for-azure-active-directory"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-transition-to-the-authentication-methods-policy-for-azure-active-directory/",
-          "title": "Retirement notice: transition to the Authentication methods policy for Azure Active Directory",
-          "description": "The ability to manage authentication methods in the legacy MFA and SSPR policies will be retired on 30 September 2024.",
-          "pubDate": "Fri, 14 Apr 2023 23:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ability to manage authentication methods in the legacy MFA and SSPR policies will be retired on 30 September 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "asa-azuredataexplorer-managed-private-endpoint"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/asa-azuredataexplorer-managed-private-endpoint/",
-          "title": "Connect Azure Stream Analytics to Azure Data Explorer using managed private endpoint.",
-          "description": "You can connect your Azure Stream Analytics job to Azure Data Explorer / Kusto clusters using managed private endpoints",
-          "pubDate": "Thu, 13 Apr 2023 16:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can connect your Azure Stream Analytics job to Azure Data Explorer / Kusto clusters using managed private endpoints"
           },
           "content:encoded": null
         }
