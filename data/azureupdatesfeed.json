@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 13 Jun 2023 15:13:33 Z",
+      "lastBuildDate": "Tue, 13 Jun 2023 16:17:29 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-of-azure-front-door-integration-with-managed-identities"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-of-azure-front-door-integration-with-managed-identities/",
+          "title": "General availability of Azure Front Door integration with managed identities",
+          "description": "Azure Front Door supports using managed identity to access Key Vault without the need to generate, store, and rotate secrets. This is a secure service to service authentication method to enhance security.",
+          "pubDate": "Tue, 13 Jun 2023 16:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Front Door supports using managed identity to access Key Vault without the need to generate, store, and rotate secrets. This is a secure service to service authentication method to enhance security."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-openai-uk-south-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-openai-uk-south-region/",
+          "category": "AzurePortal",
+          "title": "Generally available: Azure OpenAI Service in UK South",
+          "description": "Azure OpenAI Service is now available in the UK South region. UK South supports gpt-35-turbo at launch.",
+          "pubDate": "Mon, 12 Jun 2023 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure OpenAI Service is now available in the UK South region. UK South supports gpt-35-turbo at launch."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2821,21 +2852,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
-          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
-          "description": "You can now source Container Apps secrets values from Azure Key Vault",
-          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-api-management-authorizations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-api-management-authorizations/",
@@ -2845,6 +2861,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "API Management Authorizations are now generally available, providing a simple and reliable way to unbundle and abstract authorizations from web APIs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-key-vault-references-for-secrets-in-azure-container-apps/",
+          "title": "Public preview: Azure Key Vault references for secrets in Azure Container Apps",
+          "description": "You can now source Container Apps secrets values from Azure Key Vault",
+          "pubDate": "Wed, 26 Apr 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now source Container Apps secrets values from Azure Key Vault"
           },
           "content:encoded": null
         },
@@ -3086,36 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Get greater visibility into current and historic Kubernetes spend and resource allocation.."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-active-directory-workload-identity-with-aks-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-active-directory-workload-identity-with-aks-2/",
-          "title": "GA: Azure Active Directory workload identity with AKS",
-          "description": "You can now use AAD workload identity with AKS in production",
-          "pubDate": "Wed, 19 Apr 2023 06:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use AAD workload identity with AKS in production"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-service-operator-stable-release-version-20-now-available-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-service-operator-stable-release-version-20-now-available-2/",
-          "title": "Azure Service Operator stable release version 2.0 now available",
-          "description": "Create and manage over 100 Azure resources such as databases, storage accounts, VMs, and more from within Kubernetes.",
-          "pubDate": "Wed, 19 Apr 2023 06:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Create and manage over 100 Azure resources such as databases, storage accounts, VMs, and more from within Kubernetes."
           },
           "content:encoded": null
         }
