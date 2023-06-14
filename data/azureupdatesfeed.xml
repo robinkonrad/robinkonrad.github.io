@@ -6,11 +6,46 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2023 15:13:24 Z</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jun 2023 16:18:02 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-blob-storage-sdk-for-go</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-storage-sdk-for-go/</link>
+      <title>General availability: Azure Blob Storage SDK for Go</title>
+      <description>The new Azure Blob Storage SDK is now generally available for Go, allowing developers to build Go apps that interact with objects in Azure Blob Storage.</description>
+      <pubDate>Wed, 14 Jun 2023 16:00:49 Z</pubDate>
+      <atom:content
+        type="text">The new Azure Blob Storage SDK is now generally available for Go, allowing developers to build Go apps that interact with objects in Azure Blob Storage.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-event-hubs-sdk-for-go</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-event-hubs-sdk-for-go/</link>
+      <category>Golang</category>
+      <category>Go</category>
+      <title>General availability: Azure Event Hubs SDK for Go</title>
+      <description>The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs.</description>
+      <pubDate>Wed, 14 Jun 2023 16:00:46 Z</pubDate>
+      <atom:content
+        type="text">The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-netapp-files-availability-zone-volume-placement-enhancement-populate-existing-volume</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-availability-zone-volume-placement-enhancement-populate-existing-volume/</link>
+      <title>Public Preview:  Azure NetApp Files Availability zone volume placement enhancement – Populate existing volume</title>
+      <description>Populate previously deployed, existing volumes with the logical availability zone information to enable failure domain protection for workloads in specific availability zones.</description>
+      <pubDate>Wed, 14 Jun 2023 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">Populate previously deployed, existing volumes with the logical availability zone information to enable failure domain protection for workloads in specific availability zones.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-azure-hx-virtual-machines-for-hpc</guid>
@@ -343,17 +378,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
-      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
-      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
       <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
@@ -361,6 +385,17 @@
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
+      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2240,39 +2275,6 @@ Click here to learn more.</atom:content>
       <pubDate>Mon, 08 May 2023 16:00:05 Z</pubDate>
       <atom:content
         type="text">App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance</guid>
-      <link>https://azure.microsoft.com/en-us/updates/retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance/</link>
-      <title>Retirement of SQL Server Native Client (SNAC) OLE DB provider for linked servers in Azure SQL Managed Instance</title>
-      <description>All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL.</description>
-      <pubDate>Fri, 05 May 2023 23:00:21 Z</pubDate>
-      <atom:content
-        type="text">All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-iot-edge-supports-rhel-9</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-iot-edge-supports-rhel-9/</link>
-      <title>General availability: Azure IoT Edge supports Red Hat Enterprise Linux 9</title>
-      <description>The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices.</description>
-      <pubDate>Thu, 04 May 2023 16:00:44 Z</pubDate>
-      <atom:content
-        type="text">The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-cold-storage</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cold-storage/</link>
-      <title>Public preview: Azure Cold Storage</title>
-      <description>Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview.</description>
-      <pubDate>Thu, 04 May 2023 16:00:43 Z</pubDate>
-      <atom:content
-        type="text">Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

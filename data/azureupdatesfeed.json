@@ -12,13 +12,62 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 14 Jun 2023 15:13:24 Z",
+      "lastBuildDate": "Wed, 14 Jun 2023 16:18:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-blob-storage-sdk-for-go"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-storage-sdk-for-go/",
+          "title": "General availability: Azure Blob Storage SDK for Go",
+          "description": "The new Azure Blob Storage SDK is now generally available for Go, allowing developers to build Go apps that interact with objects in Azure Blob Storage.",
+          "pubDate": "Wed, 14 Jun 2023 16:00:49 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new Azure Blob Storage SDK is now generally available for Go, allowing developers to build Go apps that interact with objects in Azure Blob Storage."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-event-hubs-sdk-for-go"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-event-hubs-sdk-for-go/",
+          "category": [
+            "Golang",
+            "Go"
+          ],
+          "title": "General availability: Azure Event Hubs SDK for Go",
+          "description": "The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs.",
+          "pubDate": "Wed, 14 Jun 2023 16:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-availability-zone-volume-placement-enhancement-populate-existing-volume"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-availability-zone-volume-placement-enhancement-populate-existing-volume/",
+          "title": "Public Preview:  Azure NetApp Files Availability zone volume placement enhancement – Populate existing volume",
+          "description": "Populate previously deployed, existing volumes with the logical availability zone information to enable failure domain protection for workloads in specific availability zones.",
+          "pubDate": "Wed, 14 Jun 2023 16:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Populate previously deployed, existing volumes with the logical availability zone information to enable failure domain protection for workloads in specific availability zones."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -472,21 +521,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -496,6 +530,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -3053,51 +3102,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance/",
-          "title": "Retirement of SQL Server Native Client (SNAC) OLE DB provider for linked servers in Azure SQL Managed Instance",
-          "description": "All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL.",
-          "pubDate": "Fri, 05 May 2023 23:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-iot-edge-supports-rhel-9"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-iot-edge-supports-rhel-9/",
-          "title": "General availability: Azure IoT Edge supports Red Hat Enterprise Linux 9",
-          "description": "The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices.",
-          "pubDate": "Thu, 04 May 2023 16:00:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The latest Azure IoT Edge releases provide official packages for Red Hat Enterprise Linux 9 on AMD64 devices."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cold-storage"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cold-storage/",
-          "title": "Public preview: Azure Cold Storage",
-          "description": "Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview.",
-          "pubDate": "Thu, 04 May 2023 16:00:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Cold Storage, as the most cost-effective access tier with near real-time read latency for infrequently accessed unstructured data is available for public preview."
           },
           "content:encoded": null
         }
