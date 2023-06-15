@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Jun 2023 20:14:03 Z</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2023 21:12:07 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-it-service-management-connector-itsmc-is-now-certified-with-servicenow-utah-version</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-it-service-management-connector-itsmc-is-now-certified-with-servicenow-utah-version/</link>
+      <title>Public Preview: IT Service Management Connector (ITSMC) is now certified with ServiceNow Utah version</title>
+      <description>The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  </description>
+      <pubDate>Thu, 15 Jun 2023 20:59:04 Z</pubDate>
+      <atom:content
+        type="text">The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-azure-queue-storage-sdk-for-go</guid>
@@ -389,17 +400,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
-      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
-      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
       <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
@@ -407,6 +407,17 @@
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
+      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
+      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2264,17 +2275,6 @@ Click here to learn more.</atom:content>
       <pubDate>Mon, 08 May 2023 16:00:05 Z</pubDate>
       <atom:content
         type="text">App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance</guid>
-      <link>https://azure.microsoft.com/en-us/updates/retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance/</link>
-      <title>Retirement of SQL Server Native Client (SNAC) OLE DB provider for linked servers in Azure SQL Managed Instance</title>
-      <description>All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL.</description>
-      <pubDate>Fri, 05 May 2023 23:00:21 Z</pubDate>
-      <atom:content
-        type="text">All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
