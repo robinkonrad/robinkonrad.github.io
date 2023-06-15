@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 14 Jun 2023 23:14:24 Z",
+      "lastBuildDate": "Thu, 15 Jun 2023 01:15:03 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -164,7 +164,7 @@
             "#text": "public-preview-azure-virtual-desktop-insights-powered-by-the-azure-monitor-agent"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-virtual-desktop-insights-powered-by-the-azure-monitor-agent/",
-          "title": "Public Preview: Azure Virtual Desktop Insights Powered by the Azure Monitor Agent",
+          "title": "Azure Virtual Desktop Insights Powered by the Azure Monitor Agent",
           "description": "Public preview of Azure Virtual Desktop Insights Powered by Azure Monitor Agent feature in Azure Virtual Desktop",
           "pubDate": "Tue, 13 Jun 2023 17:01:38 Z",
           "atom:content": {
@@ -1571,36 +1571,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can use the Azure Portal to configure App Service auto-scaling rules."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-network-observability-addon-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-network-observability-addon-for-aks/",
-          "title": "Public preview: Network observability add-on for AKS",
-          "description": "Get complete observability into the network health and connectivity of your AKS cluster.",
-          "pubDate": "Tue, 23 May 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Get complete observability into the network health and connectivity of your AKS cluster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-network-observability-addon-for-aks-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-network-observability-addon-for-aks-2/",
-          "title": "Public preview: Network observability add-on for AKS",
-          "description": "Get complete observability into the network health and connectivity of your AKS cluster.",
-          "pubDate": "Tue, 23 May 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Get complete observability into the network health and connectivity of your AKS cluster."
           },
           "content:encoded": null
         },
@@ -3102,6 +3072,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-automatic-scaling-for-app-service-web-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-automatic-scaling-for-app-service-web-apps/",
+          "title": "Preview: Automatic Scaling for App Service Web Apps",
+          "description": "App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests.",
+          "pubDate": "Mon, 08 May 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-of-sql-server-native-client-snac-ole-db-provider-for-linked-servers-in-azure-sql-managed-instance/",
+          "title": "Retirement of SQL Server Native Client (SNAC) OLE DB provider for linked servers in Azure SQL Managed Instance",
+          "description": "All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL.",
+          "pubDate": "Fri, 05 May 2023 23:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "All existing linked server objects configured to use SQLNCLI will automatically switch to using the fully compatible third (current) generation of provider – known as Microsoft OLE DB Driver for SQL Server or MSOLEDBSQL."
           },
           "content:encoded": null
         }
