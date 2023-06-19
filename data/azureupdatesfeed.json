@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 19 Jun 2023 15:14:01 Z",
+      "lastBuildDate": "Mon, 19 Jun 2023 16:17:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "cosmos-db-adx-synapse-link-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/cosmos-db-adx-synapse-link-ga/",
+          "category": [
+            "adx",
+            "data-explorer",
+            "kusto",
+            "cosmosdb"
+          ],
+          "title": "Generally Available:  Azure Cosmos DB to Azure Data Explorer Synapse Link",
+          "description": "Now generally available:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time.",
+          "pubDate": "Mon, 19 Jun 2023 16:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now generally available:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -551,21 +572,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -575,6 +581,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -3087,21 +3108,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-automatic-scaling-for-app-service-web-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-automatic-scaling-for-app-service-web-apps/",
-          "title": "Preview: Automatic Scaling for App Service Web Apps",
-          "description": "App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests.",
-          "pubDate": "Mon, 08 May 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "App Service has an automatic scaling capability that adjusts the number of running instances of your application based on incoming HTTP requests."
           },
           "content:encoded": null
         }
