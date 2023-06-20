@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 20 Jun 2023 19:10:48 Z",
+      "lastBuildDate": "Tue, 20 Jun 2023 20:13:41 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-data-mappings-dropmappedfield"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-data-mappings-dropmappedfield/",
+          "category": "kusto",
+          "title": "General availability: Introducing DropMappedField transformation for data mappings in Azure Data Explorer",
+          "description": "Azure Data Explorer has added a new capability called \"DropMappedField\" to its data mappings. This feature allows users to map an object in a JSON document to a column while removing any nested fields that are already referenced by other column mappings.",
+          "pubDate": "Tue, 20 Jun 2023 16:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer has added a new capability called \"DropMappedField\" to its data mappings. This feature allows users to map an object in a JSON document to a column while removing any nested fields that are already referenced by other column mappings."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-premium-ssd-v2-disk-storage-in-southeast-asia-uk-south-south-central-us-and-west-us-3"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-premium-ssd-v2-disk-storage-in-southeast-asia-uk-south-south-central-us-and-west-us-3/",
+          "title": "Generally available: Azure Premium SSD v2 Disk Storage in Southeast Asia, UK South, South Central US and West US 3",
+          "description": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance.",
+          "pubDate": "Mon, 19 Jun 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -37,6 +68,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now generally available:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-move-to-azure-load-testing-ga-api-versions-by-10-september-2023-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-move-to-azure-load-testing-ga-api-versions-by-10-september-2023-2/",
+          "title": "Retirement notice: Move to Azure Load Testing GA API versions by 10 September 2023",
+          "description": "Retirement notice: Move to Azure Load Testing GA API versions by 10 September 2023",
+          "pubDate": "Fri, 16 Jun 2023 23:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Retirement notice: Move to Azure Load Testing GA API versions by 10 September 2023"
           },
           "content:encoded": null
         },
@@ -3063,51 +3109,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Inbound ICMPv4 pings are now supported on Azure Load Balancer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-dns-private-resolver-is-available-in-8-additional-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-dns-private-resolver-is-available-in-8-additional-regions/",
-          "title": "Generally available: Azure DNS Private Resolver is available in 8 additional regions",
-          "description": "Azure DNS Private Resolver is now available in West US, Canada East, Qatar Central, UAE North, Australia Southeast, Norway East, Norway East, and Poland Central.",
-          "pubDate": "Mon, 08 May 2023 17:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure DNS Private Resolver is now available in West US, Canada East, Qatar Central, UAE North, Australia Southeast, Norway East, Norway East, and Poland Central."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generalized-azure-compute-gallery-custom-image-support-in-update-management-center"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generalized-azure-compute-gallery-custom-image-support-in-update-management-center/",
-          "title": "Generalized Azure Compute Gallery custom image support in Update management center",
-          "description": "VM Image support for Update management center has expanded with the addition of support for generalized Azure Compute Gallery custom images.",
-          "pubDate": "Mon, 08 May 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VM Image support for Update management center has expanded with the addition of support for generalized Azure Compute Gallery custom images."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "alwaysserve"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/alwaysserve/",
-          "title": "Public preview: Always Serve for Azure Traffic Manager",
-          "description": "We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint.",
-          "pubDate": "Mon, 08 May 2023 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint."
           },
           "content:encoded": null
         }
