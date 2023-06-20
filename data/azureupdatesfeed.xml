@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Jun 2023 15:13:18 Z</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2023 16:18:51 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">adx-data-mappings-dropmappedfield</guid>
+      <link>https://azure.microsoft.com/en-us/updates/adx-data-mappings-dropmappedfield/</link>
+      <category>kusto</category>
+      <title>General availability: Introducing DropMappedField transformation for data mappings in Azure Data Explorer</title>
+      <description>Azure Data Explorer has added a new capability called "DropMappedField" to its data mappings. This feature allows users to map an object in a JSON document to a column while removing any nested fields that are already referenced by other column mappings. </description>
+      <pubDate>Tue, 20 Jun 2023 16:00:29 Z</pubDate>
+      <atom:content
+        type="text">Azure Data Explorer has added a new capability called "DropMappedField" to its data mappings. This feature allows users to map an object in a JSON document to a column while removing any nested fields that are already referenced by other column mappings. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">cosmos-db-adx-synapse-link-ga</guid>
@@ -2268,17 +2280,6 @@ Click here to learn more.</atom:content>
       <pubDate>Mon, 08 May 2023 17:00:00 Z</pubDate>
       <atom:content
         type="text">VM Image support for Update management center has expanded with the addition of support for generalized Azure Compute Gallery custom images. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">alwaysserve</guid>
-      <link>https://azure.microsoft.com/en-us/updates/alwaysserve/</link>
-      <title>Public preview: Always Serve for Azure Traffic Manager</title>
-      <description>We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint.</description>
-      <pubDate>Mon, 08 May 2023 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">We are excited to announce that the AlwaysServe feature for Azure Traffic Manager is now available in Public Preview. This feature allows customers to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
