@@ -16,7 +16,7 @@ lightgallery: true
 ---
 
 ## Talking about :rocket:
-{{< figure src="tthh_EDAS.png" title="Speakers Banner" >}}
+{{< figure src="tthh_EDAs.jpeg" title="Speakers Banner" >}}
 
 This month i held my talk about Event-Driven Architectures (EDAs) @ techcamp Hamburg. It was really a joy and a pleasure to get the opportunity to do this talk.
 
