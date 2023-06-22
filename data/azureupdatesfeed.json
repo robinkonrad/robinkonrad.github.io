@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 22 Jun 2023 16:16:49 Z",
+      "lastBuildDate": "Thu, 22 Jun 2023 17:11:35 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "network-observability-add-on"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/network-observability-add-on/",
+          "category": "#Azure Kubernetes Service (AKS) #Virtual Network #Azure Monitor #Features #Services #Container Networking",
+          "title": "Public Preview: Network Observability add-on on AKS",
+          "description": "Enable network observability add-on on AKS clusters to gain insights into how your cluster operate and to identify potential problems before they cause outages or performance degradation.",
+          "pubDate": "Thu, 22 Jun 2023 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable network observability add-on on AKS clusters to gain insights into how your cluster operate and to identify potential problems before they cause outages or performance degradation."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1029,7 +1045,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -2422,7 +2438,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-computed-properties/",
           "title": "Public Preview: Azure Cosmos DB computed properties",
           "description": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance.",
-          "pubDate": "Tue, 23 May 2023 16:00:53 Z",
+          "pubDate": "Tue, 23 May 2023 16:00:56 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance."
@@ -3094,21 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "app-service-min-tls-cipher-suite-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-min-tls-cipher-suite-preview/",
-          "title": "Public Preview: App Service Minimum TLS Cipher Suite Now on Azure Portal",
-          "description": "Disable Weak TLS Cipher Suites for Your App Service Web Apps (Preview)",
-          "pubDate": "Tue, 09 May 2023 15:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Disable Weak TLS Cipher Suites for Your App Service Web Apps (Preview)"
           },
           "content:encoded": null
         }
