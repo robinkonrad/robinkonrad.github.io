@@ -16,6 +16,8 @@ lightgallery: true
 ---
 
 ## Talking about :rocket:
+{{< figure src="tthh_EDAs.jpeg" title="Speakers Banner" >}}
+
 This month i held my talk about Event-Driven Architectures (EDAs) @ techcamp Hamburg. It was really a joy and a pleasure to get the opportunity to do this talk.
 
 Event-Driven architectures (EDA) are becoming increasingly popular as a way to build scalable, responsive, and resilient systems.
