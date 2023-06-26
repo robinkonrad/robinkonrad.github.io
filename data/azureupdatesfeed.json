@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 26 Jun 2023 20:16:34 Z",
+      "lastBuildDate": "Mon, 26 Jun 2023 21:13:04 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-using-a-common-port-for-public-and-private-listeners"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-using-a-common-port-for-public-and-private-listeners/",
+          "category": "Application Gateway",
+          "title": "Public preview: Using a common port for public and private listeners",
+          "description": "Easily manage public-facing and private-facing traffic on a common port.",
+          "pubDate": "Mon, 26 Jun 2023 20:47:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Easily manage public-facing and private-facing traffic on a common port."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-double-encryption-atrest"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-double-encryption-atrest/",
+          "title": "Public Preview: Azure NetApp Files double encryption at-rest",
+          "description": "Azure NetApp Files now supports multiple encryption layers for increased data security.",
+          "pubDate": "Fri, 23 Jun 2023 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files now supports multiple encryption layers for increased data security."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -649,21 +680,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -673,6 +689,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -3080,36 +3111,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Onboard to Azure Monitor Application Insights using standard, cloud-native APIs and SDKs with rich data collection capabilities and a first-class Azure experience."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-monitor-agent-supports-linux-hardening-for-cis-and-selinux"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-agent-supports-linux-hardening-for-cis-and-selinux/",
-          "title": "Generally available: Azure Monitor Agent supports Linux Hardening for CIS and SELinux",
-          "description": "Linux Azure Monitor Agent is now officially supported and tested on CIS and SELinux Operating Systems and Distros. Monitor will continue to test and support these hardening standards for AMA.",
-          "pubDate": "Wed, 10 May 2023 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Linux Azure Monitor Agent is now officially supported and tested on CIS and SELinux Operating Systems and Distros. Monitor will continue to test and support these hardening standards for AMA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-vmware-solution-on-azure-government"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-on-azure-government/",
-          "title": "Azure VMware Solution on Azure Government",
-          "description": "We are excited to share details for the General Availability of Azure VMware Solution on Microsoft Azure Government",
-          "pubDate": "Wed, 10 May 2023 16:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are excited to share details for the General Availability of Azure VMware Solution on Microsoft Azure Government"
           },
           "content:encoded": null
         }
