@@ -12,13 +12,133 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 05 Jul 2023 15:16:24 Z",
+      "lastBuildDate": "Wed, 05 Jul 2023 16:20:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-ingest-events-from-azure-event-hubs-to-azure-monitor-logs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-ingest-events-from-azure-event-hubs-to-azure-monitor-logs/",
+          "title": "Public Preview: Ingest events from Azure Event Hubs to Azure Monitor Logs",
+          "description": "You can now ingest data directly from an event hub into a Log Analytics workspace",
+          "pubDate": "Wed, 05 Jul 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now ingest data directly from an event hub into a Log Analytics workspace"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-pod-sandboxing-support-in-container-insights"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-pod-sandboxing-support-in-container-insights/",
+          "title": "Public Preview: Azure Monitor Pod Sandboxing support in Container insights",
+          "description": "Container Insights supports monitoring pod sandboxed containers. Pod Sandboxing safeguards against “Container Breakout” scenarios such as a malicious or legitimate user escaping container isolation to access host machine resources.",
+          "pubDate": "Wed, 05 Jul 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Container Insights supports monitoring pod sandboxed containers. Pod Sandboxing safeguards against “Container Breakout” scenarios such as a malicious or legitimate user escaping container isolation to access host machine resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-managed-private-endpoint-for-azure-managed-grafana"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-managed-private-endpoint-for-azure-managed-grafana/",
+          "title": "Public preview: Managed private endpoint for Azure Managed Grafana",
+          "description": "Managed private endpoint in Azure Managed Grafana enables a customer to connect their Grafana workspace privately to supported Azure data sources. It is simple to configure and manage.",
+          "pubDate": "Wed, 05 Jul 2023 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Managed private endpoint in Azure Managed Grafana enables a customer to connect their Grafana workspace privately to supported Azure data sources. It is simple to configure and manage."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-logs-improved-tablelevel-rbac"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-logs-improved-tablelevel-rbac/",
+          "title": "Public Preview: Azure Monitor Logs improved table-level RBAC",
+          "description": "Today we announce an improvement to the table-level RBAC used to assign permissions to specific tables",
+          "pubDate": "Wed, 05 Jul 2023 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Today we announce an improvement to the table-level RBAC used to assign permissions to specific tables"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-agent-health-experience"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-health-experience/",
+          "title": "Public preview: Azure Monitor Agent Health experience",
+          "description": "The Azure Monitor Agent Health experience is now available in preview. Identify data collection problems across your organization before they start impacting your business.",
+          "pubDate": "Wed, 05 Jul 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Monitor Agent Health experience is now available in preview. Identify data collection problems across your organization before they start impacting your business."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-application-insights-configurable-real-user-monitoring-for-java"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-application-insights-configurable-real-user-monitoring-for-java/",
+          "title": "Public preview: Azure Monitor application insights configurable Real User Monitoring for Java",
+          "description": "The new “browserSdkLoader” configuration in the Azure Monitor OpenTelemetry Java Distro makes it easier than ever to enable Real User Monitoring (RUM) in Application Insights.",
+          "pubDate": "Wed, 05 Jul 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new “browserSdkLoader” configuration in the Azure Monitor OpenTelemetry Java Distro makes it easier than ever to enable Real User Monitoring (RUM) in Application Insights."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-agent-supports-vm-insights-in-azure-government-cloud"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-supports-vm-insights-in-azure-government-cloud/",
+          "title": "Public Preview: Azure Monitor Agent supports VM Insights in Azure Government Cloud",
+          "description": "Azure Government Cloud customers can now enable VM Insights via the new Azure Monitor Agent, to monitor the client workload on the VMs or VMSS.",
+          "pubDate": "Wed, 05 Jul 2023 16:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Government Cloud customers can now enable VM Insights via the new Azure Monitor Agent, to monitor the client workload on the VMs or VMSS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-sensitive-data-protection-for-application-gateway-web-application-firewall-logs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sensitive-data-protection-for-application-gateway-web-application-firewall-logs/",
+          "title": "Public preview: Sensitive Data Protection for Application Gateway Web Application Firewall logs",
+          "description": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) logs using log scrubbing on Azure’s regional Web Application Firewall running on Application Gateway.",
+          "pubDate": "Wed, 05 Jul 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) logs using log scrubbing on Azure’s regional Web Application Firewall running on Application Gateway."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2991,126 +3111,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are excited to announce that the Azure VMware Solution has gone live in Qatar Central and is now available to customers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability-2/",
-          "title": "Public Preview: Database-is-alive metrics for monitoring Azure Postgres Flexible Server database availability.",
-          "description": "Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via database-is-alive metric.",
-          "pubDate": "Wed, 10 May 2023 16:01:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via database-is-alive metric."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-init-containers-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-init-containers-in-azure-container-apps/",
-          "title": "Public preview: Init containers in Azure Container Apps",
-          "description": "You can now have separate containers that run before application containers are started in a replica and can perform all of the initialization logic.",
-          "pubDate": "Wed, 10 May 2023 16:01:53 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now have separate containers that run before application containers are started in a replica and can perform all of the initialization logic."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-cross-origin-resource-sharing-cors-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-cross-origin-resource-sharing-cors-in-azure-container-apps/",
-          "title": "Public Preview: Cross Origin Resource Sharing (CORS) in Azure Container Apps",
-          "description": "You can now enable CORS for your Azure Container App through the portal or CLI.",
-          "pubDate": "Wed, 10 May 2023 16:01:47 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now enable CORS for your Azure Container App through the portal or CLI."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cache-for-redis-now-supports-aaad-based-authentication-and-authorization"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-now-supports-aaad-based-authentication-and-authorization/",
-          "title": "Public Preview – Azure Cache for Redis now supports aAAD based authentication and authorization",
-          "description": "Preview password-free authentication with integrated Azure Active Directory (AAD) complemented with role-based access control supported by open source Redis.",
-          "pubDate": "Wed, 10 May 2023 16:01:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Preview password-free authentication with integrated Azure Active Directory (AAD) complemented with role-based access control supported by open source Redis."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-pipelines-task-to-build-and-deploy-to-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-pipelines-task-to-build-and-deploy-to-azure-container-apps/",
-          "title": "GA: Azure Pipelines task to build and deploy to Azure Container Apps",
-          "description": "Use an Azure Pipelines task to build and deploy to Azure Container Apps.",
-          "pubDate": "Wed, 10 May 2023 16:01:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use an Azure Pipelines task to build and deploy to Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-database-for-mysql-flexible-server-major-version-upgrader"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-major-version-upgrader/",
-          "title": "General Availability: Azure Database for MySQL - Flexible Server major version upgrade",
-          "description": "Upgrade your Azure Database for MySQL flexible server version from 5.7 to 8.0.",
-          "pubDate": "Wed, 10 May 2023 16:01:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade your Azure Database for MySQL flexible server version from 5.7 to 8.0."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-99th-percentile-latency-metric-in-azure-cache-for-redis"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-99th-percentile-latency-metric-in-azure-cache-for-redis/",
-          "title": "Public preview: 99th percentile latency metric in Azure Cache for Redis",
-          "description": "Debug server-side latency with a new Azure Cache for Redis metric",
-          "pubDate": "Wed, 10 May 2023 16:01:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Debug server-side latency with a new Azure Cache for Redis metric"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-troubleshooting-guides-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-troubleshooting-guides-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Troubleshooting guides for Azure Database for PostgreSQL Flexible Server",
-          "description": "Save time by analyzing and troubleshooting common performance issues with troubleshooting guides.",
-          "pubDate": "Wed, 10 May 2023 16:01:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Save time by analyzing and troubleshooting common performance issues with troubleshooting guides."
           },
           "content:encoded": null
         }
