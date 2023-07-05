@@ -6,99 +6,11 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Jul 2023 16:20:59 Z</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2023 17:13:41 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
-    <item>
-      <guid
-        isPermaLink="false">public-preview-ingest-events-from-azure-event-hubs-to-azure-monitor-logs</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-ingest-events-from-azure-event-hubs-to-azure-monitor-logs/</link>
-      <title>Public Preview: Ingest events from Azure Event Hubs to Azure Monitor Logs</title>
-      <description>You can now ingest data directly from an event hub into a Log Analytics workspace</description>
-      <pubDate>Wed, 05 Jul 2023 16:00:07 Z</pubDate>
-      <atom:content
-        type="text">You can now ingest data directly from an event hub into a Log Analytics workspace</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-pod-sandboxing-support-in-container-insights</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-pod-sandboxing-support-in-container-insights/</link>
-      <title>Public Preview: Azure Monitor Pod Sandboxing support in Container insights</title>
-      <description>Container Insights supports monitoring pod sandboxed containers. Pod Sandboxing safeguards against “Container Breakout” scenarios such as a malicious or legitimate user escaping container isolation to access host machine resources.</description>
-      <pubDate>Wed, 05 Jul 2023 16:00:07 Z</pubDate>
-      <atom:content
-        type="text">Container Insights supports monitoring pod sandboxed containers. Pod Sandboxing safeguards against “Container Breakout” scenarios such as a malicious or legitimate user escaping container isolation to access host machine resources.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-managed-private-endpoint-for-azure-managed-grafana</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-managed-private-endpoint-for-azure-managed-grafana/</link>
-      <title>Public preview: Managed private endpoint for Azure Managed Grafana</title>
-      <description>Managed private endpoint in Azure Managed Grafana enables a customer to connect their Grafana workspace privately to supported Azure data sources. It is simple to configure and manage. </description>
-      <pubDate>Wed, 05 Jul 2023 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">Managed private endpoint in Azure Managed Grafana enables a customer to connect their Grafana workspace privately to supported Azure data sources. It is simple to configure and manage. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-logs-improved-tablelevel-rbac</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-logs-improved-tablelevel-rbac/</link>
-      <title>Public Preview: Azure Monitor Logs improved table-level RBAC</title>
-      <description>Today we announce an improvement to the table-level RBAC used to assign permissions to specific tables</description>
-      <pubDate>Wed, 05 Jul 2023 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">Today we announce an improvement to the table-level RBAC used to assign permissions to specific tables</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-agent-health-experience</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-health-experience/</link>
-      <title>Public preview: Azure Monitor Agent Health experience</title>
-      <description>The Azure Monitor Agent Health experience is now available in preview. Identify data collection problems across your organization before they start impacting your business. </description>
-      <pubDate>Wed, 05 Jul 2023 16:00:05 Z</pubDate>
-      <atom:content
-        type="text">The Azure Monitor Agent Health experience is now available in preview. Identify data collection problems across your organization before they start impacting your business. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-application-insights-configurable-real-user-monitoring-for-java</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-application-insights-configurable-real-user-monitoring-for-java/</link>
-      <title>Public preview: Azure Monitor application insights configurable Real User Monitoring for Java</title>
-      <description>The new “browserSdkLoader” configuration in the Azure Monitor OpenTelemetry Java Distro makes it easier than ever to enable Real User Monitoring (RUM) in Application Insights.</description>
-      <pubDate>Wed, 05 Jul 2023 16:00:05 Z</pubDate>
-      <atom:content
-        type="text">The new “browserSdkLoader” configuration in the Azure Monitor OpenTelemetry Java Distro makes it easier than ever to enable Real User Monitoring (RUM) in Application Insights.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-agent-supports-vm-insights-in-azure-government-cloud</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-supports-vm-insights-in-azure-government-cloud/</link>
-      <title>Public Preview: Azure Monitor Agent supports VM Insights in Azure Government Cloud</title>
-      <description>Azure Government Cloud customers can now enable VM Insights via the new Azure Monitor Agent, to monitor the client workload on the VMs or VMSS. </description>
-      <pubDate>Wed, 05 Jul 2023 16:00:04 Z</pubDate>
-      <atom:content
-        type="text">Azure Government Cloud customers can now enable VM Insights via the new Azure Monitor Agent, to monitor the client workload on the VMs or VMSS. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-sensitive-data-protection-for-application-gateway-web-application-firewall-logs</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-sensitive-data-protection-for-application-gateway-web-application-firewall-logs/</link>
-      <title>Public preview: Sensitive Data Protection for Application Gateway Web Application Firewall logs</title>
-      <description>Protect the sensitive data getting stored in your Web Application Firewall (WAF) logs using log scrubbing on Azure’s regional Web Application Firewall running on Application Gateway.</description>
-      <pubDate>Wed, 05 Jul 2023 16:00:03 Z</pubDate>
-      <atom:content
-        type="text">Protect the sensitive data getting stored in your Web Application Firewall (WAF) logs using log scrubbing on Azure’s regional Web Application Firewall running on Application Gateway.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-azure-native-new-relic-service</guid>
@@ -944,7 +856,7 @@
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/</link>
       <title>Public Preview: Azure Chaos Studio is now available in West US 2 region</title>
       <description>Azure Chaos Studio is now available in West US 2 region.</description>
-      <pubDate>Mon, 05 Jun 2023 16:00:03 Z</pubDate>
+      <pubDate>Mon, 05 Jun 2023 16:00:00 Z</pubDate>
       <atom:content
         type="text">Azure Chaos Studio is now available in West US 2 region.</atom:content>
       <content:encoded></content:encoded>
@@ -1969,7 +1881,7 @@ Click here to learn more.</atom:content>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-computed-properties/</link>
       <title>Public Preview: Azure Cosmos DB computed properties</title>
       <description>Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance.</description>
-      <pubDate>Tue, 23 May 2023 16:00:56 Z</pubDate>
+      <pubDate>Tue, 23 May 2023 16:00:53 Z</pubDate>
       <atom:content
         type="text">Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance.</atom:content>
       <content:encoded></content:encoded>
@@ -2286,6 +2198,94 @@ Click here to learn more.</atom:content>
       <pubDate>Wed, 10 May 2023 20:09:53 Z</pubDate>
       <atom:content
         type="text">We are excited to announce that the Azure VMware Solution has gone live in Qatar Central and is now available to customers. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-databaseisalive-metrics-for-monitoring-azure-postgres-flexible-server-database-availability-2/</link>
+      <title>Public Preview: Database-is-alive metrics for monitoring Azure Postgres Flexible Server database availability.</title>
+      <description> Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via database-is-alive metric.</description>
+      <pubDate>Wed, 10 May 2023 16:01:59 Z</pubDate>
+      <atom:content
+        type="text"> Monitor the database availability for Azure Database for PostgreSQL – Flexible Server via database-is-alive metric.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-init-containers-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-init-containers-in-azure-container-apps/</link>
+      <title>Public preview: Init containers in Azure Container Apps </title>
+      <description>You can now have separate containers that run before application containers are started in a replica and can perform all of the initialization logic.</description>
+      <pubDate>Wed, 10 May 2023 16:01:53 Z</pubDate>
+      <atom:content
+        type="text">You can now have separate containers that run before application containers are started in a replica and can perform all of the initialization logic.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-cross-origin-resource-sharing-cors-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-cross-origin-resource-sharing-cors-in-azure-container-apps/</link>
+      <title>Public Preview: Cross Origin Resource Sharing (CORS) in Azure Container Apps </title>
+      <description>You can now enable CORS for your Azure Container App through the portal or CLI. </description>
+      <pubDate>Wed, 10 May 2023 16:01:47 Z</pubDate>
+      <atom:content
+        type="text">You can now enable CORS for your Azure Container App through the portal or CLI. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-cache-for-redis-now-supports-aaad-based-authentication-and-authorization</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-now-supports-aaad-based-authentication-and-authorization/</link>
+      <title>Public Preview – Azure Cache for Redis now supports aAAD based authentication and authorization</title>
+      <description>Preview password-free authentication with integrated Azure Active Directory (AAD) complemented with role-based access control supported by open source Redis.</description>
+      <pubDate>Wed, 10 May 2023 16:01:42 Z</pubDate>
+      <atom:content
+        type="text">Preview password-free authentication with integrated Azure Active Directory (AAD) complemented with role-based access control supported by open source Redis.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-azure-pipelines-task-to-build-and-deploy-to-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-azure-pipelines-task-to-build-and-deploy-to-azure-container-apps/</link>
+      <title>GA: Azure Pipelines task to build and deploy to Azure Container Apps</title>
+      <description>Use an Azure Pipelines task to build and deploy to Azure Container Apps.</description>
+      <pubDate>Wed, 10 May 2023 16:01:37 Z</pubDate>
+      <atom:content
+        type="text">Use an Azure Pipelines task to build and deploy to Azure Container Apps.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-database-for-mysql-flexible-server-major-version-upgrader</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-major-version-upgrader/</link>
+      <title>General Availability: Azure Database for MySQL - Flexible Server major version upgrade</title>
+      <description>Upgrade your Azure Database for MySQL flexible server version from 5.7 to 8.0.</description>
+      <pubDate>Wed, 10 May 2023 16:01:30 Z</pubDate>
+      <atom:content
+        type="text">Upgrade your Azure Database for MySQL flexible server version from 5.7 to 8.0.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-99th-percentile-latency-metric-in-azure-cache-for-redis</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-99th-percentile-latency-metric-in-azure-cache-for-redis/</link>
+      <title>Public preview: 99th percentile latency metric in Azure Cache for Redis</title>
+      <description>Debug server-side latency with a new Azure Cache for Redis metric</description>
+      <pubDate>Wed, 10 May 2023 16:01:24 Z</pubDate>
+      <atom:content
+        type="text">Debug server-side latency with a new Azure Cache for Redis metric</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-troubleshooting-guides-for-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-troubleshooting-guides-for-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public Preview: Troubleshooting guides for Azure Database for PostgreSQL Flexible Server </title>
+      <description>Save time by analyzing and troubleshooting common performance issues with troubleshooting guides. </description>
+      <pubDate>Wed, 10 May 2023 16:01:12 Z</pubDate>
+      <atom:content
+        type="text">Save time by analyzing and troubleshooting common performance issues with troubleshooting guides. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
