@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 06 Jul 2023 18:18:25 Z",
+      "lastBuildDate": "Thu, 06 Jul 2023 19:11:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-virtual-network-encryption-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-virtual-network-encryption-2/",
-          "title": "Public preview: Azure Virtual Network encryption",
-          "description": "Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.",
-          "pubDate": "Thu, 06 Jul 2023 16:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -935,21 +920,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -959,6 +929,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -1346,7 +1331,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -2739,7 +2724,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-computed-properties/",
           "title": "Public Preview: Azure Cosmos DB computed properties",
           "description": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance.",
-          "pubDate": "Tue, 23 May 2023 16:00:53 Z",
+          "pubDate": "Tue, 23 May 2023 16:00:56 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance."
@@ -3111,6 +3096,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Automation support for Python 3.8 runbooks is now Generally Available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "alert-processing-rules-fields-update"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/alert-processing-rules-fields-update/",
+          "title": "Alert processing rules fields update",
+          "description": "Alert processing rules are a set of rules that allow for modifications to be made to fired alerts, distinct from alert rules which generate new alerts. With alert processing rules, you can add or remove action groups from your fired alerts.",
+          "pubDate": "Thu, 11 May 2023 17:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Alert processing rules are a set of rules that allow for modifications to be made to fired alerts, distinct from alert rules which generate new alerts. With alert processing rules, you can add or remove action groups from your fired alerts."
           },
           "content:encoded": null
         }
