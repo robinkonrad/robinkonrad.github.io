@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 06 Jul 2023 23:15:20 Z",
+      "lastBuildDate": "Fri, 07 Jul 2023 01:27:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-virtual-network-encryption-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-virtual-network-encryption-2/",
+          "title": "Public preview: Azure Virtual Network encryption",
+          "description": "Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.",
+          "pubDate": "Thu, 06 Jul 2023 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3096,21 +3111,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Automation support for Python 3.8 runbooks is now Generally Available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "alert-processing-rules-fields-update"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/alert-processing-rules-fields-update/",
-          "title": "Alert processing rules fields update",
-          "description": "Alert processing rules are a set of rules that allow for modifications to be made to fired alerts, distinct from alert rules which generate new alerts. With alert processing rules, you can add or remove action groups from your fired alerts.",
-          "pubDate": "Thu, 11 May 2023 17:00:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Alert processing rules are a set of rules that allow for modifications to be made to fired alerts, distinct from alert rules which generate new alerts. With alert processing rules, you can add or remove action groups from your fired alerts."
           },
           "content:encoded": null
         }
