@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 10 Jul 2023 22:13:49 Z",
+      "lastBuildDate": "Mon, 10 Jul 2023 23:14:34 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sql-general-availability-updates-for-early-july-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-early-july-2023/",
+          "category": [
+            "Azure SQL",
+            "Azure SQL DB",
+            "Azure SQL MI"
+          ],
+          "title": "Azure SQL—General availability updates for early July 2023",
+          "description": "General availability enhancements and updates released for Azure SQL in early July 2023.",
+          "pubDate": "Mon, 10 Jul 2023 23:07:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in early July 2023."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3094,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup support for confidential VMs using Customer Managed Keys"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-policy-analytics-for-azure-firewall"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-policy-analytics-for-azure-firewall/",
-          "title": "Generally available: Policy analytics for Azure Firewall",
-          "description": "Policy analytics for Azure Firewall, now in general availability, provides enhanced visibility into traffic flowing through Azure Firewall, enabling the optimization of your firewall configuration without impacting your application performance.",
-          "pubDate": "Mon, 15 May 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Policy analytics for Azure Firewall, now in general availability, provides enhanced visibility into traffic flowing through Azure Firewall, enabling the optimization of your firewall configuration without impacting your application performance."
           },
           "content:encoded": null
         }
