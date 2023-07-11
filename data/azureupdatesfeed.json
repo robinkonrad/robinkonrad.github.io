@@ -12,49 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 11 Jul 2023 16:19:22 Z",
+      "lastBuildDate": "Tue, 11 Jul 2023 17:13:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-latest-generation-burstable-vms-bsv2-basv2-and-bpsv2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-latest-generation-burstable-vms-bsv2-basv2-and-bpsv2/",
-          "title": "Public preview: Latest generation burstable VMs - Bsv2, Basv2, and Bpsv2",
-          "description": "The new second generation burstable VMs provide the lowest cost of entry to the Azure VM portfolio with greater performance.",
-          "pubDate": "Tue, 11 Jul 2023 16:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new second generation burstable VMs provide the lowest cost of entry to the Azure VM portfolio with greater performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-ad-is-becoming-microsoft-entra-id"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-ad-is-becoming-microsoft-entra-id/",
-          "category": [
-            "Azure AD",
-            "Azure Active Directory",
-            "AAD",
-            "Microsoft Entra"
-          ],
-          "title": "Azure AD is becoming Microsoft Entra ID",
-          "description": "Microsoft Entra ID is the new name for Azure Active Directory (Azure AD). No action is required from you.",
-          "pubDate": "Tue, 11 Jul 2023 16:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft Entra ID is the new name for Azure Active Directory (Azure AD). No action is required from you."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1056,21 +1020,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -1080,6 +1029,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -1467,7 +1431,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -2860,7 +2824,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-computed-properties/",
           "title": "Public Preview: Azure Cosmos DB computed properties",
           "description": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance.",
-          "pubDate": "Tue, 23 May 2023 16:00:53 Z",
+          "pubDate": "Tue, 23 May 2023 16:00:56 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance."
@@ -3116,6 +3080,41 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Payment HSM Service now supports two host IP network interfaces"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-container-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-storage/",
+          "category": "#azureportal",
+          "title": "Public preview: Azure Container Storage",
+          "description": "Azure Container Storage is a new Azure service built natively for containers that enables customers to create and manage volumes for running production scale stateful container applications.",
+          "pubDate": "Mon, 15 May 2023 17:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Container Storage is a new Azure service built natively for containers that enables customers to create and manage volumes for running production scale stateful container applications."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-monitor-for-sap-solutions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-for-sap-solutions/",
+          "category": [
+            "SAP",
+            "Azure monitor for SAP solutions"
+          ],
+          "title": "General Availability : Azure Monitor for SAP solutions",
+          "description": "This is a GA launch announcement blog for Azure Monitor for SAP solutions.",
+          "pubDate": "Mon, 15 May 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This is a GA launch announcement blog for Azure Monitor for SAP solutions."
           },
           "content:encoded": null
         }
