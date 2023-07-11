@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jul 2023 23:14:34 Z</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2023 01:18:11 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -58,6 +58,18 @@
       <pubDate>Mon, 10 Jul 2023 16:00:14 Z</pubDate>
       <atom:content
         type="text">Azure Load Balancer support for cross-region load balancing is now generally available. You can now load balance across Azure regions enabling a globally redundant architecture via Azure Load Balancer. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">adx-external-tables</guid>
+      <link>https://azure.microsoft.com/en-us/updates/adx-external-tables/</link>
+      <category>kusto</category>
+      <title>General availability: Azure Data Explorer adds support for PostgreSQL, MySQL, and CosmosDB SQL external tables</title>
+      <description>Azure Data Explorer has released three new types of external tables: PostgrSQL, MySQL, and CosmosDB SQL. These new external tables allow users to query data from these sources directly within Azure Data Explorer using the Kusto Query Language (KQL).</description>
+      <pubDate>Mon, 10 Jul 2023 15:00:14 Z</pubDate>
+      <atom:content
+        type="text">Azure Data Explorer has released three new types of external tables: PostgrSQL, MySQL, and CosmosDB SQL. These new external tables allow users to query data from these sources directly within Azure Data Explorer using the Kusto Query Language (KQL).</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -735,17 +747,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
-      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
-      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
       <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
@@ -753,6 +754,17 @@
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
+      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2276,17 +2288,6 @@ Click here to learn more.</atom:content>
       <pubDate>Mon, 15 May 2023 16:00:07 Z</pubDate>
       <atom:content
         type="text">This is a GA launch announcement blog for Azure Monitor for SAP solutions. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">private-preview-azure-backup-support-for-confidential-vms-using-customer-managed-keys</guid>
-      <link>https://azure.microsoft.com/en-us/updates/private-preview-azure-backup-support-for-confidential-vms-using-customer-managed-keys/</link>
-      <title>Private preview: Azure Backup support for confidential VMs using Customer Managed Keys</title>
-      <description>Azure Backup support for confidential VMs using Customer Managed Keys</description>
-      <pubDate>Mon, 15 May 2023 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">Azure Backup support for confidential VMs using Customer Managed Keys</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
