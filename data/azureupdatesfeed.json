@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 12 Jul 2023 17:13:09 Z",
+      "lastBuildDate": "Wed, 12 Jul 2023 18:18:38 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-host-resize"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-host-resize/",
+          "category": "ADH",
+          "title": "Public Preview: Azure Dedicated Host - Resize",
+          "description": "Introducing resize capability for Azure dedicated hosts",
+          "pubDate": "Wed, 12 Jul 2023 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Introducing resize capability for Azure dedicated hosts"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3102,21 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Evaluate the reliability posture of your workloads, assess risks and plan improvements using the new Reliability workbook template which is now available in Azure Advisor."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-application-gateway-v2-config-to-policy-upgrade-experience"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-v2-config-to-policy-upgrade-experience/",
-          "title": "General availability: Seamlessly upgrade your Application Gateway V2 WAF configuration to a policy",
-          "description": "Azure’s regional Web Application Firewall (WAF) on Application Gateway now supports a fully automated experience when upgrading your WAF from configuration to policy.",
-          "pubDate": "Tue, 16 May 2023 19:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure’s regional Web Application Firewall (WAF) on Application Gateway now supports a fully automated experience when upgrading your WAF from configuration to policy."
           },
           "content:encoded": null
         }
