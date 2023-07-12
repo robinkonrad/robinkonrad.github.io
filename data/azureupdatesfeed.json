@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 12 Jul 2023 15:15:14 Z",
+      "lastBuildDate": "Wed, 12 Jul 2023 16:19:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-expressroute-private-peering-support-for-bgp-communities"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-expressroute-private-peering-support-for-bgp-communities/",
+          "title": "General availability: ExpressRoute private peering support for BGP communities",
+          "description": "Set BGP community tags on traffic sent from Azure to on-premises over ExpressRoute, enabling a greater variety of hybrid network designs.",
+          "pubDate": "Wed, 12 Jul 2023 16:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Set BGP community tags on traffic sent from Azure to on-premises over ExpressRoute, enabling a greater variety of hybrid network designs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3102,21 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "App Service supports custom error pages in public preview"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/transition-to-azure-ad-to-query-data-from-azure-monitor-application-insights-by-31-march-2026/",
-          "title": "Transition to Azure AD to query data from Azure Monitor application insights by 31 March 2026",
-          "description": "API keys for querying data from Azure Monitor application insights will be retired on 31 March 2026",
-          "pubDate": "Mon, 15 May 2023 19:51:58 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "API keys for querying data from Azure Monitor application insights will be retired on 31 March 2026"
           },
           "content:encoded": null
         }
