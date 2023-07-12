@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 12 Jul 2023 14:13:38 Z",
+      "lastBuildDate": "Wed, 12 Jul 2023 15:15:14 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-call-automation-capabilities-for-azure-communication-services-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-call-automation-capabilities-for-azure-communication-services-2/",
+          "category": "Azure Communication Services; CPaaS; Calling; Apps; PSTN; VoIP",
+          "title": "General availability: Call automation capabilities for Azure Communication Services",
+          "description": "A new set of APIs are in preview, to help developers build server-based, calling workflows.",
+          "pubDate": "Wed, 12 Jul 2023 15:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "A new set of APIs are in preview, to help developers build server-based, calling workflows."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3101,21 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "API keys for querying data from Azure Monitor application insights will be retired on 31 March 2026"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/switch-to-azure-ad-authentication-for-application-insights-by-30-september-2025/",
-          "title": "Switch to Azure AD authentication for application insights by 30 September 2025",
-          "description": "API keys used to stream live metrics telemetry into application insights will be retired on 30 September 2025.",
-          "pubDate": "Mon, 15 May 2023 19:22:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "API keys used to stream live metrics telemetry into application insights will be retired on 30 September 2025."
           },
           "content:encoded": null
         }
