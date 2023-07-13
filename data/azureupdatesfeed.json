@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 13 Jul 2023 19:10:42 Z",
+      "lastBuildDate": "Thu, 13 Jul 2023 20:15:49 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-autoscale-stream-analytics-jobs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-autoscale-stream-analytics-jobs/",
+          "title": "Generally available: Autoscale Stream Analytics jobs",
+          "description": "Generally available: Autoscale Stream Analytics jobs",
+          "pubDate": "Thu, 13 Jul 2023 20:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Generally available: Autoscale Stream Analytics jobs"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3103,21 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup Reports now includes support for more workloads: Azure Database for PostgreSQL Servers, Azure Blobs and Azure Disks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-optimize-your-workloads-for-reliability-using-new-workbook-template-in-azure-advisor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-optimize-your-workloads-for-reliability-using-new-workbook-template-in-azure-advisor/",
-          "title": "Public preview: Optimize your workloads for reliability using new workbook template in Azure Advisor",
-          "description": "Evaluate the reliability posture of your workloads, assess risks and plan improvements using the new Reliability workbook template which is now available in Azure Advisor.",
-          "pubDate": "Tue, 16 May 2023 19:17:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Evaluate the reliability posture of your workloads, assess risks and plan improvements using the new Reliability workbook template which is now available in Azure Advisor."
           },
           "content:encoded": null
         }
