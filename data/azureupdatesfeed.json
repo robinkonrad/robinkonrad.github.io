@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 14 Jul 2023 22:13:28 Z",
+      "lastBuildDate": "Fri, 14 Jul 2023 23:14:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-azure-media-services-is-being-retired-on-30-june-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-azure-media-services-is-being-retired-on-30-june-2024/",
+          "title": "Retirement notice: Azure Media Services is being retired on 30 June 2024",
+          "description": "Azure Media Services will be retired on 30 June 2024 - transition to a Microsoft partner solution or Azure Video Indexer",
+          "pubDate": "Fri, 14 Jul 2023 23:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Media Services will be retired on 30 June 2024 - transition to a Microsoft partner solution or Azure Video Indexer"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3103,21 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Routing intent supports inter-region/inter-hub traffic inspection and branch-to-branch traffic inspection for Azure Virtual WAN."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-backup-reports-now-includes-support-for-more-workloads"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-reports-now-includes-support-for-more-workloads/",
-          "title": "Azure Backup Reports now includes support for more workloads",
-          "description": "Azure Backup Reports now includes support for more workloads: Azure Database for PostgreSQL Servers, Azure Blobs and Azure Disks.",
-          "pubDate": "Wed, 17 May 2023 16:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup Reports now includes support for more workloads: Azure Database for PostgreSQL Servers, Azure Blobs and Azure Disks."
           },
           "content:encoded": null
         }
