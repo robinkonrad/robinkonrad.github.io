@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 18 Jul 2023 15:14:26 Z",
+      "lastBuildDate": "Tue, 18 Jul 2023 16:19:45 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -22,31 +22,40 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "hotpatch-is-now-generally-available-on-windows-server-2022-azure-edition-vms-with-the-desktop-experience-installation-mode"
+            "#text": "extendedsecurityupdatesenabledbyazurearc"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/hotpatch-is-now-generally-available-on-windows-server-2022-azure-edition-vms-with-the-desktop-experience-installation-mode/",
-          "title": "Hotpatch is now generally available on Windows Server VMs on Azure with the Desktop Experience installation mode",
-          "description": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!",
-          "pubDate": "Tue, 18 Jul 2023 15:00:24 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/extendedsecurityupdatesenabledbyazurearc/",
+          "category": [
+            "Windows Server",
+            "SQL Server",
+            "Extended Security Updates",
+            "ESU",
+            "ESUs",
+            "Azure Arc",
+            "Arc"
+          ],
+          "title": "New Extended Security Updates (ESUs) enabled by Azure Arc",
+          "description": "At Inspire, we are announcing Extended Security Updates (ESUs) enabled by Azure Arc. Customers will be able to purchase and seamlessly deploy ESUs through Azure Arc in on-premises or multicloud environments, right from the Azure portal.",
+          "pubDate": "Tue, 18 Jul 2023 16:00:18 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+            "#text": "At Inspire, we are announcing Extended Security Updates (ESUs) enabled by Azure Arc. Customers will be able to purchase and seamlessly deploy ESUs through Azure Arc in on-premises or multicloud environments, right from the Azure portal."
           },
           "content:encoded": null
         },
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+            "#text": "public-preview-vector-search-a-feature-of-azure-cognitive-search"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
-          "category": "AzureCosmosDB",
-          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
-          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
-          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-vector-search-a-feature-of-azure-cognitive-search/",
+          "category": "Azure AI; Azure Cognitive Search",
+          "title": "Public Preview: Vector search, a feature of Azure Cognitive Search",
+          "description": "With Vector search, Developers can store, index, and deliver search applications over vector representations of organizational data including text, images, audio, video, and more.",
+          "pubDate": "Tue, 18 Jul 2023 15:30:18 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
+            "#text": "With Vector search, Developers can store, index, and deliver search applications over vector representations of organizational data including text, images, audio, video, and more."
           },
           "content:encoded": null
         },
@@ -1651,7 +1660,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3044,7 +3053,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-computed-properties/",
           "title": "Public Preview: Azure Cosmos DB computed properties",
           "description": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance.",
-          "pubDate": "Tue, 23 May 2023 16:00:56 Z",
+          "pubDate": "Tue, 23 May 2023 16:00:53 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance."
