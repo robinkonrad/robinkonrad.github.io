@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 18 Jul 2023 18:18:14 Z",
+      "lastBuildDate": "Tue, 18 Jul 2023 19:11:11 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-iot-hub-service-upgrade"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-iot-hub-service-upgrade/",
+          "title": "General availability: IoT Hub Service Upgrade",
+          "description": "All IoT Hubs will be going through a service upgrade between July 2023 and November 2023 with potential impact to your IoT Hub.",
+          "pubDate": "Tue, 18 Jul 2023 19:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "All IoT Hubs will be going through a service upgrade between July 2023 and November 2023 with potential impact to your IoT Hub."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3102,21 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "New features now available in PuPr include the ability to evaluate text/image data fairness and enjoy one platform to build, tune, evaluate, deploy, and test AI workflow with LLM."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-general-availability-for-build"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-build/",
-          "title": "Azure Machine Learning - General Availability for Build",
-          "description": "New features now available in GA include the ability to enable MLOPs across dev, test, and prod environments to promote assets across multiple workspaces.",
-          "pubDate": "Tue, 23 May 2023 16:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New features now available in GA include the ability to enable MLOPs across dev, test, and prod environments to promote assets across multiple workspaces."
           },
           "content:encoded": null
         }
