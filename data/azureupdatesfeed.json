@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 18 Jul 2023 17:12:40 Z",
+      "lastBuildDate": "Tue, 18 Jul 2023 18:18:14 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-crash-consistent-vm-restore-points"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-crash-consistent-vm-restore-points/",
+          "title": "Public Preview : Crash Consistent VM Restore points",
+          "description": "For Azure partners and customers seeking to develop business continuity and disaster recovery solutions, crash-consistent VM restore points serve as feature-rich building blocks, offering an agentless solution available natively on the Azure platform.",
+          "pubDate": "Tue, 18 Jul 2023 17:30:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "For Azure partners and customers seeking to develop business continuity and disaster recovery solutions, crash-consistent VM restore points serve as feature-rich building blocks, offering an agentless solution available natively on the Azure platform."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3102,21 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "New features now available in GA include the ability to enable MLOPs across dev, test, and prod environments to promote assets across multiple workspaces."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "custom-ta4h-release"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/custom-ta4h-release/",
-          "title": "Announcing the public preview of custom Text Analytics for health",
-          "description": "Custom Text Analytics for health is the newest healthcare NLP offering from Cognitive Services for Language. It allows you to add a layer of customization on top of Text Analytics for health using state-of-the-art machine learning models to build your own healthcare entity extraction model with your specific domain data. The model's authoring experience can be performed either using the graphical user interface on the Language Studio or programmatically using the REST APIs. The feature is now in public preview allowing you to make 5,000 text records of predictions per language resource for free using the Standard (S) pricing tier.",
-          "pubDate": "Tue, 23 May 2023 15:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Custom Text Analytics for health is the newest healthcare NLP offering from Cognitive Services for Language. It allows you to add a layer of customization on top of Text Analytics for health using state-of-the-art machine learning models to build your own healthcare entity extraction model with your specific domain data. The model's authoring experience can be performed either using the graphical user interface on the Language Studio or programmatically using the REST APIs. The feature is now in public preview allowing you to make 5,000 text records of predictions per language resource for free using the Standard (S) pricing tier."
           },
           "content:encoded": null
         }
