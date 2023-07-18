@@ -12,13 +12,59 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 17 Jul 2023 15:15:45 Z",
+      "lastBuildDate": "Tue, 18 Jul 2023 01:47:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "alwaysservega"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/alwaysservega/",
+          "title": "General availability: Always Serve for Azure Traffic Manager",
+          "description": "Always Serve feature for Azure Traffic Manager (ATM) is now generally available. This feature allows you to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint.",
+          "pubDate": "Mon, 17 Jul 2023 18:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Always Serve feature for Azure Traffic Manager (ATM) is now generally available. This feature allows you to disable endpoint health checks from an ATM profile and always serve traffic to that given endpoint."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-stream-analytics-nocode-editor-available-in-azure-stream-analytics-portal"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-stream-analytics-nocode-editor-available-in-azure-stream-analytics-portal/",
+          "category": "Stream Analytics",
+          "title": "Public preview: Stream Analytics No-Code Editor available in Azure Stream Analytics Portal",
+          "description": "The no-code editor is now available in Azure Stream Analytics portal to enable building your Stream Analytics jobs effortlessly, no coding required.",
+          "pubDate": "Mon, 17 Jul 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The no-code editor is now available in Azure Stream Analytics portal to enable building your Stream Analytics jobs effortlessly, no coding required."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-customer-managed-failover-for-adls-gen-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-customer-managed-failover-for-adls-gen-2/",
+          "title": "Public Preview: Customer Managed Failover for ADLS Gen 2",
+          "description": "Customer-managed failover now supports ADLS Gen 2",
+          "pubDate": "Mon, 17 Jul 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customer-managed failover now supports ADLS Gen 2"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1163,21 +1209,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -1187,6 +1218,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -3071,53 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Rolling Upgrades with MaxSurge provides you a new way of upgrading VM instances in a Virtual Machine Scale Set to the latest scale set model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-site-recovery-update-rollup-67-may-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-67-may-2023/",
-          "category": "azure-site-recovery",
-          "title": "Generally available: Azure Site Recovery update rollup 67 - May 2023",
-          "description": "This article describes the improvements for the latest version of Azure Site Recovery components.",
-          "pubDate": "Wed, 17 May 2023 17:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "This article describes the improvements for the latest version of Azure Site Recovery components."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-data-explorer-adds-new-geospatial-capabilities-buffer"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-data-explorer-adds-new-geospatial-capabilities-buffer/",
-          "category": "kusto",
-          "title": "General availability: Azure Data Explorer adds new geospatial capabilities",
-          "description": "Azure Data Explorer now supports geospatial analysis with three new functions: geo_point_buffer, geo_line_buffer, and geo_polygon_buffer. These functions let you create polygonal buffers around points, lines, or polygons.",
-          "pubDate": "Wed, 17 May 2023 17:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Data Explorer now supports geospatial analysis with three new functions: geo_point_buffer, geo_line_buffer, and geo_polygon_buffer. These functions let you create polygonal buffers around points, lines, or polygons."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-routing-intent-and-virtual-wan-integrated-firewall-nvas"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-routing-intent-and-virtual-wan-integrated-firewall-nvas/",
-          "title": "General Availability: Routing Intent and Virtual WAN Integrated Firewall NVAs",
-          "description": "Routing intent supports inter-region/inter-hub traffic inspection and branch-to-branch traffic inspection for Azure Virtual WAN.",
-          "pubDate": "Wed, 17 May 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Routing intent supports inter-region/inter-hub traffic inspection and branch-to-branch traffic inspection for Azure Virtual WAN."
           },
           "content:encoded": null
         }
