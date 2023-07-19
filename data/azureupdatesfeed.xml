@@ -6,11 +6,55 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 20:13:10 Z</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 21:11:38 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">preview-azure-boost</guid>
+      <link>https://azure.microsoft.com/en-us/updates/preview-azure-boost/</link>
+      <title>Preview: Azure Boost</title>
+      <description>Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact.</description>
+      <pubDate>Wed, 19 Jul 2023 20:38:11 Z</pubDate>
+      <atom:content
+        type="text">Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-bring-your-own-key-on-ephemeral-os-disk-for-aks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-bring-your-own-key-on-ephemeral-os-disk-for-aks/</link>
+      <title>Public preview: Bring your own key on Ephemeral OS disk for AKS</title>
+      <description>You can now use your own keys to encrypt your ephemeral OS disks. </description>
+      <pubDate>Wed, 19 Jul 2023 20:36:42 Z</pubDate>
+      <atom:content
+        type="text">You can now use your own keys to encrypt your ephemeral OS disks. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-network-observability-addon-for-aks-4</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-network-observability-addon-for-aks-4/</link>
+      <title>Public preview: Network observability add-on for AKS </title>
+      <description>You can now get complete observability into the network health and connectivity of your AKS cluster. </description>
+      <pubDate>Wed, 19 Jul 2023 20:36:24 Z</pubDate>
+      <atom:content
+        type="text">You can now get complete observability into the network health and connectivity of your AKS cluster. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-support-for-python-311-in-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-python-311-in-azure-functions/</link>
+      <title>Public preview: Support for Python 3.11 in Azure Functions</title>
+      <description>Take advantage of Python 3.11 features with Azure Functions</description>
+      <pubDate>Wed, 19 Jul 2023 20:35:58 Z</pubDate>
+      <atom:content
+        type="text">Take advantage of Python 3.11 features with Azure Functions</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-odata-api-type-in-azure-api-management-2</guid>
@@ -983,17 +1027,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
-      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
-      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
       <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
@@ -1001,6 +1034,17 @@
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
+      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
+      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2247,50 +2291,6 @@ Click here to learn more.</atom:content>
       <pubDate>Tue, 23 May 2023 16:01:31 Z</pubDate>
       <atom:content
         type="text">You can now run Windows workloads on Generation 2 VMs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-linux-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-linux-support-in-aks/</link>
-      <title>Generally Available: Azure Linux support in AKS </title>
-      <description>Deploy Azure Linux as the node pool host OS in the AKS cluster and build apps on top of the preferred container. </description>
-      <pubDate>Tue, 23 May 2023 16:01:25 Z</pubDate>
-      <atom:content
-        type="text">Deploy Azure Linux as the node pool host OS in the AKS cluster and build apps on top of the preferred container. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-new-features-in-azure-container-storage</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-features-in-azure-container-storage/</link>
-      <title>Public preview: New features in Azure Container Storage </title>
-      <description>Azure Container Storage, a unique storage provisioning and management service built natively for containers, is introducing several new features in preview.</description>
-      <pubDate>Tue, 23 May 2023 16:01:18 Z</pubDate>
-      <atom:content
-        type="text">Azure Container Storage, a unique storage provisioning and management service built natively for containers, is introducing several new features in preview.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-database-hyperscale-elastic-pools</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-database-hyperscale-elastic-pools/</link>
-      <title>Public preview: Azure SQL Database Hyperscale elastic pools</title>
-      <description>You can now efficiently provision and scale compute resources independent of data size by deploying multiple Azure SQL Hyperscale databases with varying workloads in elastic pools.</description>
-      <pubDate>Tue, 23 May 2023 16:01:12 Z</pubDate>
-      <atom:content
-        type="text">You can now efficiently provision and scale compute resources independent of data size by deploying multiple Azure SQL Hyperscale databases with varying workloads in elastic pools.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-enhanced-document-expiration-with-time-to-live-ttl-on-any-field</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-enhanced-document-expiration-with-time-to-live-ttl-on-any-field/</link>
-      <title>Generally Available: Enhanced document expiration with Time to Live (TTL) on any field.</title>
-      <description>Effortlessly set a TTL on any field in a collection, giving you more flexibility to control how your documents expire in Azure Cosmos DB for MongoDB RU.</description>
-      <pubDate>Tue, 23 May 2023 16:01:06 Z</pubDate>
-      <atom:content
-        type="text">Effortlessly set a TTL on any field in a collection, giving you more flexibility to control how your documents expire in Azure Cosmos DB for MongoDB RU.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
