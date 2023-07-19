@@ -12,13 +12,83 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 18 Jul 2023 23:12:46 Z",
+      "lastBuildDate": "Wed, 19 Jul 2023 02:35:41 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-iot-hub-service-upgrade"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-iot-hub-service-upgrade/",
+          "title": "General availability: IoT Hub Service Upgrade",
+          "description": "All IoT Hubs will be going through a service upgrade between July 2023 and November 2023 with potential impact to your IoT Hub.",
+          "pubDate": "Tue, 18 Jul 2023 19:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "All IoT Hubs will be going through a service upgrade between July 2023 and November 2023 with potential impact to your IoT Hub."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-crash-consistent-vm-restore-points"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-crash-consistent-vm-restore-points/",
+          "title": "Public Preview : Crash Consistent VM Restore points",
+          "description": "For Azure partners and customers seeking to develop business continuity and disaster recovery solutions, crash-consistent VM restore points serve as feature-rich building blocks, offering an agentless solution available natively on the Azure platform.",
+          "pubDate": "Tue, 18 Jul 2023 17:30:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "For Azure partners and customers seeking to develop business continuity and disaster recovery solutions, crash-consistent VM restore points serve as feature-rich building blocks, offering an agentless solution available natively on the Azure platform."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "extendedsecurityupdatesenabledbyazurearc"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/extendedsecurityupdatesenabledbyazurearc/",
+          "category": [
+            "Windows Server",
+            "SQL Server",
+            "Extended Security Updates",
+            "ESU",
+            "ESUs",
+            "Azure Arc",
+            "Arc"
+          ],
+          "title": "New Extended Security Updates (ESUs) enabled by Azure Arc",
+          "description": "At Inspire, we are announcing Extended Security Updates (ESUs) enabled by Azure Arc. Customers will be able to purchase and seamlessly deploy ESUs through Azure Arc in on-premises or multicloud environments, right from the Azure portal.",
+          "pubDate": "Tue, 18 Jul 2023 16:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "At Inspire, we are announcing Extended Security Updates (ESUs) enabled by Azure Arc. Customers will be able to purchase and seamlessly deploy ESUs through Azure Arc in on-premises or multicloud environments, right from the Azure portal."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-vector-search-a-feature-of-azure-cognitive-search"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-vector-search-a-feature-of-azure-cognitive-search/",
+          "category": "Azure AI; Azure Cognitive Search",
+          "title": "Public Preview: Vector search, a feature of Azure Cognitive Search",
+          "description": "With Vector search, Developers can store, index, and deliver search applications over vector representations of organizational data including text, images, audio, video, and more.",
+          "pubDate": "Tue, 18 Jul 2023 15:30:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With Vector search, Developers can store, index, and deliver search applications over vector representations of organizational data including text, images, audio, video, and more."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -31,22 +101,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
-          "category": "AzureCosmosDB",
-          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
-          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
-          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -1240,21 +1294,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -1264,6 +1303,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -3063,51 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now generally available, Azure Cosmos DB burst capacity helps improve performance by allowing you to use idle throughput to handle temporary spikes in traffic."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning/",
-          "title": "Azure Machine Learning - Public Preview for Build",
-          "description": "New features now available in PuPr include the ability to evaluate text/image data fairness and enjoy one platform to build, tune, evaluate, deploy, and test AI workflow with LLM.",
-          "pubDate": "Tue, 23 May 2023 16:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New features now available in PuPr include the ability to evaluate text/image data fairness and enjoy one platform to build, tune, evaluate, deploy, and test AI workflow with LLM."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-general-availability-for-build"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-build/",
-          "title": "Azure Machine Learning - General Availability for Build",
-          "description": "New features now available in GA include the ability to enable MLOPs across dev, test, and prod environments to promote assets across multiple workspaces.",
-          "pubDate": "Tue, 23 May 2023 16:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New features now available in GA include the ability to enable MLOPs across dev, test, and prod environments to promote assets across multiple workspaces."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "custom-ta4h-release"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/custom-ta4h-release/",
-          "title": "Announcing the public preview of custom Text Analytics for health",
-          "description": "Custom Text Analytics for health is the newest healthcare NLP offering from Cognitive Services for Language. It allows you to add a layer of customization on top of Text Analytics for health using state-of-the-art machine learning models to build your own healthcare entity extraction model with your specific domain data. The model's authoring experience can be performed either using the graphical user interface on the Language Studio or programmatically using the REST APIs. The feature is now in public preview allowing you to make 5,000 text records of predictions per language resource for free using the Standard (S) pricing tier.",
-          "pubDate": "Tue, 23 May 2023 15:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Custom Text Analytics for health is the newest healthcare NLP offering from Cognitive Services for Language. It allows you to add a layer of customization on top of Text Analytics for health using state-of-the-art machine learning models to build your own healthcare entity extraction model with your specific domain data. The model's authoring experience can be performed either using the graphical user interface on the Language Studio or programmatically using the REST APIs. The feature is now in public preview allowing you to make 5,000 text records of predictions per language resource for free using the Standard (S) pricing tier."
           },
           "content:encoded": null
         }
