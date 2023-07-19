@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 19 Jul 2023 06:17:38 Z",
+      "lastBuildDate": "Wed, 19 Jul 2023 07:12:35 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-general-availability-for-july"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-july/",
+          "title": "Azure Machine Learning  - General Availability for July",
+          "description": "A new feature now available in GA enables you to create compute clusters in locations that are different from the location of the workspace.",
+          "pubDate": "Wed, 19 Jul 2023 07:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "A new feature now available in GA enables you to create compute clusters in locations that are different from the location of the workspace."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1294,21 +1309,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -1318,6 +1318,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -3102,21 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Simplify complex queries using computed properties which can represent frequently used query logic such as expressions based on persisted item properties and can be indexed for increased performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-cosmos-db-burst-capacity"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-burst-capacity/",
-          "title": "Generally Available: Azure Cosmos DB burst capacity",
-          "description": "Now generally available, Azure Cosmos DB burst capacity helps improve performance by allowing you to use idle throughput to handle temporary spikes in traffic.",
-          "pubDate": "Tue, 23 May 2023 16:00:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now generally available, Azure Cosmos DB burst capacity helps improve performance by allowing you to use idle throughput to handle temporary spikes in traffic."
           },
           "content:encoded": null
         }
