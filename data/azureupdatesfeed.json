@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 19 Jul 2023 16:17:28 Z",
+      "lastBuildDate": "Wed, 19 Jul 2023 17:12:03 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-event-grid-upgrade-enhancements-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-event-grid-upgrade-enhancements-for-aks/",
+          "title": "Generally available: Event Grid upgrade enhancements for AKS",
+          "description": "You can now receive and programmatically handle AKS generated upgrade events in Event Grid",
+          "pubDate": "Wed, 19 Jul 2023 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now receive and programmatically handle AKS generated upgrade events in Event Grid"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3103,21 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Effortlessly set a TTL on any field in a collection, giving you more flexibility to control how your documents expire in Azure Cosmos DB for MongoDB RU."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-inaccount-restore-for-continuous-backup-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-inaccount-restore-for-continuous-backup-accounts/",
-          "title": "Public Preview: In-Account restore for continuous backup accounts",
-          "description": "Customers can restore the deleted database and containers in the same continuous backup account.",
-          "pubDate": "Tue, 23 May 2023 16:00:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can restore the deleted database and containers in the same continuous backup account."
           },
           "content:encoded": null
         }
