@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 20 Jul 2023 15:13:39 Z",
+      "lastBuildDate": "Thu, 20 Jul 2023 16:17:21 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "windows-server-endofsupport-eos-upgrade-seamlessly-with-azure-migrate-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/windows-server-endofsupport-eos-upgrade-seamlessly-with-azure-migrate-public-preview/",
+          "title": "Windows Server end-of-support (EOS): Upgrade seamlessly with Azure Migrate (Public preview)",
+          "description": "With Azure Migrate, seamlessly upgrade legacy Windows servers while migrating to Azure, minimizing effort, downtime, and risk. By creating a copy of the server in Azure and performing the upgrade there, the impact on the original server is minimized, ensuring a secure and efficient transition.",
+          "pubDate": "Thu, 20 Jul 2023 16:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With Azure Migrate, seamlessly upgrade legacy Windows servers while migrating to Azure, minimizing effort, downtime, and risk. By creating a copy of the server in Azure and performing the upgrade there, the impact on the original server is minimized, ensuring a secure and efficient transition."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1400,21 +1415,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -1424,6 +1424,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -3103,21 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Access to a vibrant ecosystem of first-party and third-party solutions for building robust enterprise solutions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-generation-2-vm-for-windows"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-generation-2-vm-for-windows/",
-          "title": "Generally Available: Generation 2 VM for Windows",
-          "description": "You can now run Windows workloads on Generation 2 VMs.",
-          "pubDate": "Tue, 23 May 2023 16:01:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now run Windows workloads on Generation 2 VMs."
           },
           "content:encoded": null
         }
