@@ -12,58 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 24 Jul 2023 16:17:25 Z",
+      "lastBuildDate": "Mon, 24 Jul 2023 17:12:03 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "the-classic-vms-retirement-deadline-is-now-september-6-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/the-classic-vms-retirement-deadline-is-now-september-6-2023/",
-          "title": "The Classic VMs retirement deadline is now September 6, 2023",
-          "description": "Migrate your Classic VMs before September 6, 2023 to avoid service disruptions.",
-          "pubDate": "Mon, 24 Jul 2023 16:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate your Classic VMs before September 6, 2023 to avoid service disruptions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-application-gateway-for-containers"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-for-containers/",
-          "title": "Public preview: Azure Application Gateway for Containers",
-          "description": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements.",
-          "pubDate": "Mon, 24 Jul 2023 16:00:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-firmware-analysis-in-defender-for-iot"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-firmware-analysis-in-defender-for-iot/",
-          "title": "Public Preview: Firmware analysis in Defender for IoT",
-          "description": "The new firmware analysis feature in Defender for IoT enables security teams to get deeper visibility into IoT/OT devices by providing better insights into the foundational software they are built on.",
-          "pubDate": "Mon, 24 Jul 2023 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new firmware analysis feature in Defender for IoT enables security teams to get deeper visibility into IoT/OT devices by providing better insights into the foundational software they are built on."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -282,6 +237,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
+          "category": "AzureCosmosDB",
+          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
+          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
+          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -1460,21 +1431,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -1484,6 +1440,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -1871,7 +1842,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3118,6 +3089,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Easily create and deploy GitHub Actions to automate your deployments."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-multicluster-update-support-in-azure-kubernetes-fleet-manager"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-multicluster-update-support-in-azure-kubernetes-fleet-manager/",
+          "title": "Public preview: Multi-cluster update support in Azure Kubernetes Fleet Manager",
+          "description": "Orchestrate upgrades to your clusters in a planned manner across multiple clusters to achieve a consistent environment across a set of clusters.",
+          "pubDate": "Tue, 23 May 2023 16:01:57 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Orchestrate upgrades to your clusters in a planned manner across multiple clusters to achieve a consistent environment across a set of clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-custom-node-config-for-windows"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-custom-node-config-for-windows/",
+          "title": "Public preview: Custom node config for Windows",
+          "description": "You can now modify the node configuration on Windows nodes, as you do with Linux.",
+          "pubDate": "Tue, 23 May 2023 16:01:48 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now modify the node configuration on Windows nodes, as you do with Linux."
           },
           "content:encoded": null
         }
