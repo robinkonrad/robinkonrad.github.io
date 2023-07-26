@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 26 Jul 2023 14:11:55 Z",
+      "lastBuildDate": "Wed, 26 Jul 2023 15:13:14 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "speechtotext-rest-api-v30-will-be-retired-by-31-march-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/speechtotext-rest-api-v30-will-be-retired-by-31-march-2026/",
+          "title": "Speech-to-text REST API v3.0 will be retired by 31 March 2026.",
+          "description": "Speech-to-text REST API v3.0 will be retired by 31 March 2026. Update your code that uses Speech-to-text REST API.\n\nWe recently updated the Speech-to-text REST API to version 3.1. Version 3.1 builds on the capabilities of the previous version and adds new features including language identification and multi-speaker diarization. With these enhancements, we'll retire version 3.0 of the API on 31 March 2026.",
+          "pubDate": "Wed, 26 Jul 2023 15:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Speech-to-text REST API v3.0 will be retired by 31 March 2026. Update your code that uses Speech-to-text REST API.\n\nWe recently updated the Speech-to-text REST API to version 3.1. Version 3.1 builds on the capabilities of the previous version and adds new features including language identification and multi-speaker diarization. With these enhancements, we'll retire version 3.0 of the API on 31 March 2026."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1492,21 +1507,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -1516,6 +1516,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now mount secrets as volumes in Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-free-managed-tls-certificates-for-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-free-managed-tls-certificates-for-azure-container-apps/",
-          "title": "Public preview: Free managed TLS certificates for Azure Container Apps",
-          "description": "You can now use managed certificates with Azure Container Apps",
-          "pubDate": "Tue, 23 May 2023 16:02:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use managed certificates with Azure Container Apps"
           },
           "content:encoded": null
         }
