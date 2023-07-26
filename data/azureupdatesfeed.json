@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 26 Jul 2023 16:16:56 Z",
+      "lastBuildDate": "Wed, 26 Jul 2023 17:11:38 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-devops-july-2023-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-devops-july-2023-updates/",
+          "title": "Azure DevOps July 2023 updates",
+          "description": "In July, we've delivered multiple improvements across Azure DevOps services. You can now dismiss dependency scanning alerts in Advanced Security that you believe to be a false positive or acceptable risk. In Azure Repos, we changed the default behavior to remove \"Edit policies\" permission when creating a new branch.",
+          "pubDate": "Wed, 26 Jul 2023 17:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "In July, we've delivered multiple improvements across Azure DevOps services. You can now dismiss dependency scanning alerts in Advanced Security that you believe to be a false positive or acceptable risk. In Azure Repos, we changed the default behavior to remove \"Edit policies\" permission when creating a new branch."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1507,21 +1522,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -1531,6 +1531,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-secrets-volume-mounts-for-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-secrets-volume-mounts-for-azure-container-apps/",
-          "title": "Public preview: Secrets volume mounts for Azure Container Apps",
-          "description": "You can now mount secrets as volumes in Azure Container Apps.",
-          "pubDate": "Tue, 23 May 2023 16:02:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now mount secrets as volumes in Azure Container Apps."
           },
           "content:encoded": null
         }
