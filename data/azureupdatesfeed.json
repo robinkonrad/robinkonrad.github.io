@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 27 Jul 2023 15:12:56 Z",
+      "lastBuildDate": "Thu, 27 Jul 2023 16:16:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "default-tls-policy-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/default-tls-policy-2022/",
+          "title": "Updated default TLS policy for Azure Application Gateway",
+          "description": "The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101.",
+          "pubDate": "Thu, 27 Jul 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1522,21 +1537,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -1546,6 +1546,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Microsoft Dev Box is introducing several new capabilities to enhance developer experience and boost productivity. In addition, Dev Box general availability will begin in July."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-github-advanced-security-for-azure-devops"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-github-advanced-security-for-azure-devops/",
-          "title": "Public Preview: GitHub Advanced Security for Azure DevOps",
-          "description": "Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps.",
-          "pubDate": "Tue, 23 May 2023 16:02:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps."
           },
           "content:encoded": null
         }

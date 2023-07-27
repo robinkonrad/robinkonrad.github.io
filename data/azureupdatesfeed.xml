@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jul 2023 15:12:56 Z</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 16:16:54 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">default-tls-policy-2022</guid>
+      <link>https://azure.microsoft.com/en-us/updates/default-tls-policy-2022/</link>
+      <title>Updated default TLS policy for Azure Application Gateway</title>
+      <description>The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101. </description>
+      <pubDate>Thu, 27 Jul 2023 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-devops-july-2023-updates</guid>
@@ -1121,17 +1132,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
     </item>
     <item>
       <guid
-        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
-      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
-      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
       <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
@@ -1139,6 +1139,17 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
+      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
+      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2286,17 +2297,6 @@ Click here to learn more.</atom:content>
       <pubDate>Tue, 23 May 2023 16:02:43 Z</pubDate>
       <atom:content
         type="text">Microsoft Dev Box is introducing several new capabilities to enhance developer experience and boost productivity. In addition, Dev Box general availability will begin in July.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-github-advanced-security-for-azure-devops</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-github-advanced-security-for-azure-devops/</link>
-      <title>Public Preview: GitHub Advanced Security for Azure DevOps</title>
-      <description>Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps.</description>
-      <pubDate>Tue, 23 May 2023 16:02:41 Z</pubDate>
-      <atom:content
-        type="text">Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
