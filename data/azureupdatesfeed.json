@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 28 Jul 2023 20:13:14 Z",
+      "lastBuildDate": "Fri, 28 Jul 2023 21:10:50 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -343,6 +343,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
+          "category": "AzureCosmosDB",
+          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
+          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
+          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -1932,7 +1948,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3104,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Microsoft Dev Box is introducing several new capabilities to enhance developer experience and boost productivity. In addition, Dev Box general availability will begin in July."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-github-advanced-security-for-azure-devops"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-github-advanced-security-for-azure-devops/",
-          "title": "Public Preview: GitHub Advanced Security for Azure DevOps",
-          "description": "Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps.",
-          "pubDate": "Tue, 23 May 2023 16:02:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps."
           },
           "content:encoded": null
         }
