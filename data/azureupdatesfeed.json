@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 28 Jul 2023 01:06:23 Z",
+      "lastBuildDate": "Fri, 28 Jul 2023 02:28:01 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "default-tls-policy-2022"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/default-tls-policy-2022/",
+          "title": "Updated default TLS policy for Azure Application Gateway",
+          "description": "The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101.",
+          "pubDate": "Thu, 27 Jul 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3104,21 +3119,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Learn how GitHub Advanced Security for Azure DevOps implements code scanning, secret scanning, and dependency scanning in Azure DevOps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-secrets-volume-mounts-for-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-secrets-volume-mounts-for-azure-container-apps/",
-          "title": "Public preview: Secrets volume mounts for Azure Container Apps",
-          "description": "You can now mount secrets as volumes in Azure Container Apps.",
-          "pubDate": "Tue, 23 May 2023 16:02:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now mount secrets as volumes in Azure Container Apps."
           },
           "content:encoded": null
         }
