@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 31 Jul 2023 19:10:15 Z",
+      "lastBuildDate": "Mon, 31 Jul 2023 20:13:43 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -420,6 +420,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The no-code editor is now available in Azure Stream Analytics portal to enable building your Stream Analytics jobs effortlessly, no coding required."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-customer-managed-failover-for-adls-gen-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-customer-managed-failover-for-adls-gen-2/",
+          "title": "Public Preview: Customer Managed Failover for ADLS Gen2",
+          "description": "Customer-managed failover now supports ADLS Gen2",
+          "pubDate": "Mon, 17 Jul 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customer-managed failover now supports ADLS Gen2"
           },
           "content:encoded": null
         },
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "With input and output bindings for SQL, you can now can quickly write Azure Functions that read and write from your databases."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-aspnet-core-integration-in-azure-functions-net-isolated-model"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-aspnet-core-integration-in-azure-functions-net-isolated-model/",
-          "title": "Public preview: ASP.NET Core integration in Azure Functions .NET isolated model",
-          "description": "Use familiar ASP.NET Core types to construct HTTP-triggered functions in the isolated worker model.",
-          "pubDate": "Tue, 23 May 2023 16:02:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use familiar ASP.NET Core types to construct HTTP-triggered functions in the isolated worker model."
           },
           "content:encoded": null
         }
