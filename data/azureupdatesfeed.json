@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 01 Aug 2023 15:13:37 Z",
+      "lastBuildDate": "Tue, 01 Aug 2023 16:16:31 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-route-server-hub-routing-preference"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
+          "title": "Public preview: Route Server hub routing preference",
+          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
+          "pubDate": "Tue, 01 Aug 2023 16:15:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now link your backend APIs to your Static Web Apps applications for seamless routing and integrated security."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-functions-can-now-run-on-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-can-now-run-on-azure-container-apps/",
-          "title": "Public preview: Azure Functions for cloud-native microservices",
-          "description": "Quickly build event driven, cloud native apps, with the flexibility to run functions along with other microservices, APIs, websites, workflows or any container hosted programs.",
-          "pubDate": "Tue, 23 May 2023 16:02:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Quickly build event driven, cloud native apps, with the flexibility to run functions along with other microservices, APIs, websites, workflows or any container hosted programs."
           },
           "content:encoded": null
         }
