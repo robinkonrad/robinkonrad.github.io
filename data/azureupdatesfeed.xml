@@ -6,11 +6,88 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Aug 2023 14:12:10 Z</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2023 15:12:29 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-autoscale-iops-in-azure-database-for-mysql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-autoscale-iops-in-azure-database-for-mysql-flexible-server/</link>
+      <title>General availability: Autoscale IOPS in Azure Database for MySQL – Flexible Server </title>
+      <description>Effortlessly scale your storage IOPS to match workload demands with the autoscale IOPS feature in Azure Database for MySQL - Flexible Server.</description>
+      <pubDate>Wed, 02 Aug 2023 15:00:37 Z</pubDate>
+      <atom:content
+        type="text">Effortlessly scale your storage IOPS to match workload demands with the autoscale IOPS feature in Azure Database for MySQL - Flexible Server.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-postgresql-15-support-with-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-postgresql-15-support-with-azure-database-for-postgresql-flexible-server/</link>
+      <title> General availability: PostgreSQL 15 support in Azure Database for PostgreSQL – Flexible Server </title>
+      <description>Azure Database for PostgreSQL - Flexible Server now provides support for PostgreSQL 15 across all Azure regions.</description>
+      <pubDate>Wed, 02 Aug 2023 15:00:37 Z</pubDate>
+      <atom:content
+        type="text">Azure Database for PostgreSQL - Flexible Server now provides support for PostgreSQL 15 across all Azure regions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-general-availability-updates-for-earlyaugust-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-earlyaugust-2023/</link>
+      <title>General availability: Azure SQL updates for early-August 2023 </title>
+      <description>General availability enhancements and updates released for Azure SQL in early-August 2023.</description>
+      <pubDate>Wed, 02 Aug 2023 15:00:36 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in early-August 2023.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-public-preview-updates-for-earlyaugust-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-earlyaugust-2023/</link>
+      <title>Public preview: Azure SQL updates for early-August 2023</title>
+      <description>Public preview enhancements and updates released for Azure SQL in early-August 2023</description>
+      <pubDate>Wed, 02 Aug 2023 15:00:36 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in early-August 2023</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-intraaccount-container-copy-in-azure-cosmos-db-for-mongodb-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-intraaccount-container-copy-in-azure-cosmos-db-for-mongodb-2/</link>
+      <title>Public Preview: Intra-account container copy in Azure Cosmos DB for MongoDB</title>
+      <description>With intra-account container copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</description>
+      <pubDate>Wed, 02 Aug 2023 15:00:35 Z</pubDate>
+      <atom:content
+        type="text">With intra-account container copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-major-version-upgrade-in-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-major-version-upgrade-in-azure-database-for-postgresql-flexible-server/</link>
+      <title>General Availability: Major version upgrade in Azure Database for PostgreSQL – Flexible Server </title>
+      <description>Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server.</description>
+      <pubDate>Wed, 02 Aug 2023 15:00:35 Z</pubDate>
+      <atom:content
+        type="text">Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-json-support-for-active-georeplication-on-azure-cache-for-redis</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-json-support-for-active-georeplication-on-azure-cache-for-redis/</link>
+      <title>General availability: JSON support for active geo-replication on Azure Cache for Redis</title>
+      <description>Work with JSON-style documents synced across multiple regions</description>
+      <pubDate>Wed, 02 Aug 2023 15:00:34 Z</pubDate>
+      <atom:content
+        type="text">Work with JSON-style documents synced across multiple regions</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">containerinsightscostoptimization</guid>
@@ -1209,17 +1286,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
     </item>
     <item>
       <guid
-        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
-      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
-      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
       <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
@@ -1227,6 +1293,17 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
+      <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
+      <description>Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2127,17 +2204,6 @@ Click here to learn more.</atom:content>
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-sql-managed-instance-public-preview-updates-for-latemay-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-public-preview-updates-for-latemay-2023/</link>
-      <title>Azure SQL Managed Instance —Public preview updates for late-May 2023</title>
-      <description>Public preview enhancements and updates released for Azure SQL in late-May 2023</description>
-      <pubDate>Tue, 23 May 2023 16:03:01 Z</pubDate>
-      <atom:content
-        type="text">Public preview enhancements and updates released for Azure SQL in late-May 2023</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-costoptimizations-with-transformations-on-log-analytics-for-troubleshooting-cosmos-db</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-costoptimizations-with-transformations-on-log-analytics-for-troubleshooting-cosmos-db/</link>
       <title>Generally Available: Cost-optimizations with transformations on Log Analytics for troubleshooting Cosmos DB</title>
@@ -2145,6 +2211,17 @@ Click here to learn more.</atom:content>
       <pubDate>Tue, 23 May 2023 16:03:01 Z</pubDate>
       <atom:content
         type="text">Optimize costs on your Log Analytics workspace by adding transformation rules to your Cosmos DB LA tables. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-sql-managed-instance-public-preview-updates-for-latemay-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-public-preview-updates-for-latemay-2023/</link>
+      <title>Azure SQL Managed Instance —Public preview updates for late-May 2023</title>
+      <description>Public preview enhancements and updates released for Azure SQL in late-May 2023</description>
+      <pubDate>Tue, 23 May 2023 16:03:01 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in late-May 2023</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2211,92 +2288,6 @@ Click here to learn more.</atom:content>
       <pubDate>Tue, 23 May 2023 16:02:57 Z</pubDate>
       <atom:content
         type="text"> Seamless data migration from Oracle to Azure with the new Azure Database Migration Service extension </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-cosmos-db-serverless-container-with-1-tb-storage-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-serverless-container-with-1-tb-storage-2/</link>
-      <title>Generally Available: Azure Cosmos DB serverless container with 1 TB storage</title>
-      <description>Azure Cosmos DB serverless 1-TB is now generally available. Enjoy expanded storage capacity, allowing you to store up to 1 TB of data in a single container.</description>
-      <pubDate>Tue, 23 May 2023 16:02:57 Z</pubDate>
-      <atom:content
-        type="text">Azure Cosmos DB serverless 1-TB is now generally available. Enjoy expanded storage capacity, allowing you to store up to 1 TB of data in a single container.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-cosmos-db-hierarchical-partition-keys</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-hierarchical-partition-keys/</link>
-      <title>Generally Available: Azure Cosmos DB hierarchical partition keys</title>
-      <description>Now generally available, hierarchical partition keys in Azure Cosmos DB enables you to partition your data with up to three levels of keys.</description>
-      <pubDate>Tue, 23 May 2023 16:02:56 Z</pubDate>
-      <atom:content
-        type="text">Now generally available, hierarchical partition keys in Azure Cosmos DB enables you to partition your data with up to three levels of keys.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-cosmos-db-all-versions-and-deletes-change-feed-mode</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-all-versions-and-deletes-change-feed-mode/</link>
-      <title>Public Preview: Azure Cosmos DB all versions and deletes change feed mode</title>
-      <description>The new all versions and deletes mode for change feed allows you to read item creates, updates, and deletes that occurred within the continuous backup period configured on your account.</description>
-      <pubDate>Tue, 23 May 2023 16:02:56 Z</pubDate>
-      <atom:content
-        type="text">The new all versions and deletes mode for change feed allows you to read item creates, updates, and deletes that occurred within the continuous backup period configured on your account.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-materialized-views-for-cosmos-db-nosql-api</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-materialized-views-for-cosmos-db-nosql-api/</link>
-      <title>Public Preview: Materialized views for Cosmos DB NoSQL API</title>
-      <description>Create materialized views on top of your NoSQL containers to reduce cross partition queries, improve speed, and reduce costs.</description>
-      <pubDate>Tue, 23 May 2023 16:02:55 Z</pubDate>
-      <atom:content
-        type="text">Create materialized views on top of your NoSQL containers to reduce cross partition queries, improve speed, and reduce costs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-managed-service-for-prometheus-for-azure-arcenabled-kubernetes</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-managed-service-for-prometheus-for-azure-arcenabled-kubernetes/</link>
-      <category>Arc</category>
-      <category>AKS</category>
-      <category>Containers</category>
-      <category>prometheus</category>
-      <title>Public preview: Azure Monitor managed service for Prometheus for Azure Arc-enabled Kubernetes</title>
-      <description>Azure Monitor managed service for Prometheus is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. </description>
-      <pubDate>Tue, 23 May 2023 16:02:54 Z</pubDate>
-      <atom:content
-        type="text">Azure Monitor managed service for Prometheus is now extending monitoring support for Kubernetes clusters hosted on Azure Arc. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-container-insights-introduces-cluster-optimization-workbook</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-container-insights-introduces-cluster-optimization-workbook/</link>
-      <category>Container insights</category>
-      <category>AKS</category>
-      <title>Public Preview: Azure Monitor Container insights introduces "Cluster Optimization" workbook</title>
-      <description>Customers can now use Azure Monitor Container insights “Cluster Optimization” workbook to optimize container limits and request, identify event anomalies and detect liveness probe failures.</description>
-      <pubDate>Tue, 23 May 2023 16:02:52 Z</pubDate>
-      <atom:content
-        type="text">Customers can now use Azure Monitor Container insights “Cluster Optimization” workbook to optimize container limits and request, identify event anomalies and detect liveness probe failures.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-monitor-announces-managed-services-for-prometheus</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-announces-managed-services-for-prometheus/</link>
-      <category>Managed Prometheus</category>
-      <category>Containers</category>
-      <category>AKS</category>
-      <title>Generally Available: Azure Monitor announces managed services for Prometheus</title>
-      <description>Azure Monitor managed service for Prometheus delivers the best of the open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention.</description>
-      <pubDate>Tue, 23 May 2023 16:02:51 Z</pubDate>
-      <atom:content
-        type="text">Azure Monitor managed service for Prometheus delivers the best of the open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
