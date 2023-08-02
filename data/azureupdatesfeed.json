@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 02 Aug 2023 16:17:24 Z",
+      "lastBuildDate": "Wed, 02 Aug 2023 17:11:34 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-red-hat-openshift-august-2023-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-august-2023-updates/",
+          "title": "Azure Red Hat OpenShift August 2023 updates",
+          "description": "Azure Red Hat OpenShift is now DoD IL4 certified, allows you to deploy infrastructure nodes without an OpenShift subscription fee, and provides increased security by allowing private clusters without public IP.",
+          "pubDate": "Wed, 02 Aug 2023 17:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Red Hat OpenShift is now DoD IL4 certified, allows you to deploy infrastructure nodes without an OpenShift subscription fee, and provides increased security by allowing private clusters without public IP."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1762,21 +1777,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -1786,6 +1786,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -3090,21 +3105,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Vector search in Azure Cosmos DB for MongoDB vCore enhances AI-driven applications using OpenAI API or custom-built solutions by incorporating vector similarity search into your database."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-database-schema-conversion-toolkit-for-oracle"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-database-schema-conversion-toolkit-for-oracle/",
-          "title": "General Availability – Database Schema Conversion Toolkit for Oracle",
-          "description": "An extension that automates and provides code conversion from Oracle to SQL to simplify and accelerate the migration process.",
-          "pubDate": "Tue, 23 May 2023 16:02:58 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "An extension that automates and provides code conversion from Oracle to SQL to simplify and accelerate the migration process."
           },
           "content:encoded": null
         }
