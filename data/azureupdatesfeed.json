@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 02 Aug 2023 01:05:30 Z",
+      "lastBuildDate": "Wed, 02 Aug 2023 02:24:48 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -61,6 +61,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "enhanced-security-and-compliance-addon-for-azure-databricks-now-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/enhanced-security-and-compliance-addon-for-azure-databricks-now-generally-available/",
+          "title": "Enhanced Security and Compliance add-on for Azure Databricks now Generally Available",
+          "description": "Enhanced Security and Compliance (ESC) add-on helps simplify the complexity of meeting security and regulatory requirements for Azure Databricks customers.",
+          "pubDate": "Tue, 01 Aug 2023 15:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enhanced Security and Compliance (ESC) add-on helps simplify the complexity of meeting security and regulatory requirements for Azure Databricks customers."
           },
           "content:encoded": null
         },
@@ -418,6 +433,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
+          "category": "AzureCosmosDB",
+          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
+          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
+          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -1611,21 +1642,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -1635,6 +1651,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -2022,7 +2053,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3089,36 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor managed service for Prometheus delivers the best of the open-source ecosystem while automating complex tasks such as scaling, high-availability, and long-term data retention."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-log-alerts-support-for-azure-data-explorer"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-data-explorer/",
-          "title": "Public Preview: Azure Log Alerts support for Azure Data Explorer",
-          "description": "Azure Monitor Log Alerts is expanding to support monitoring based on data that stored in Azure Data Explorer (ADX) tables, empowering customers to leverage ADX without compromising their service monitoring.",
-          "pubDate": "Tue, 23 May 2023 16:02:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor Log Alerts is expanding to support monitoring based on data that stored in Azure Data Explorer (ADX) tables, empowering customers to leverage ADX without compromising their service monitoring."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-linked-backends-for-azure-static-web-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-linked-backends-for-azure-static-web-apps/",
-          "title": "Generally Available: Linked backends for Azure Static Web Apps",
-          "description": "You can now link your backend APIs to your Static Web Apps applications for seamless routing and integrated security.",
-          "pubDate": "Tue, 23 May 2023 16:02:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now link your backend APIs to your Static Web Apps applications for seamless routing and integrated security."
           },
           "content:encoded": null
         }
