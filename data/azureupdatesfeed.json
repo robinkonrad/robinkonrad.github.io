@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 03 Aug 2023 15:13:17 Z",
+      "lastBuildDate": "Thu, 03 Aug 2023 16:15:47 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-chaos-studio-is-now-available-in-southeast-asia-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-southeast-asia-region/",
+          "title": "Public Preview: Azure Chaos Studio is now available in Southeast Asia region",
+          "description": "Azure Chaos Studio is now available in Southeast Asia region.",
+          "pubDate": "Thu, 03 Aug 2023 16:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio is now available in Southeast Asia region."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-chaos-studio-supports-new-faults-for-app-service-and-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-supports-new-faults-for-app-service-and-virtual-machines/",
+          "title": "Public Preview: Azure Chaos Studio supports new faults for App Service and Virtual Machines",
+          "description": "Azure Chaos Studio supports new App Service and Virtual Machine faults.",
+          "pubDate": "Thu, 03 Aug 2023 16:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio supports new App Service and Virtual Machine faults."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1860,21 +1890,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -1884,6 +1899,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -3083,36 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Database for MySQL connector for Power Platform, Azure Logic Apps is now available and allows you to connect to any MySQL Flexible Server database to read and write data."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-confidential-containers-on-azure-container-instances-aci"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-confidential-containers-on-azure-container-instances-aci/",
-          "title": "General availability: Confidential containers on Azure Container Instances (ACI)",
-          "description": "ACI now lets you run containers in a trusted execution environment (TEE)",
-          "pubDate": "Tue, 23 May 2023 16:03:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ACI now lets you run containers in a trusted execution environment (TEE)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-costoptimizations-with-transformations-on-log-analytics-for-troubleshooting-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-costoptimizations-with-transformations-on-log-analytics-for-troubleshooting-cosmos-db/",
-          "title": "Generally Available: Cost-optimizations with transformations on Log Analytics for troubleshooting Cosmos DB",
-          "description": "Optimize costs on your Log Analytics workspace by adding transformation rules to your Cosmos DB LA tables.",
-          "pubDate": "Tue, 23 May 2023 16:03:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Optimize costs on your Log Analytics workspace by adding transformation rules to your Cosmos DB LA tables."
           },
           "content:encoded": null
         }
