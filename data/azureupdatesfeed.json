@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 03 Aug 2023 19:10:11 Z",
+      "lastBuildDate": "Thu, 03 Aug 2023 20:13:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -46,6 +46,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in Southeast Asia region."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-chaos-studio-supports-new-faults-for-app-service-and-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-supports-new-faults-for-app-service-and-virtual-machines/",
+          "title": "Public Preview: Azure Chaos Studio supports new faults for App Service and Virtual Machines",
+          "description": "Azure Chaos Studio supports new App Service and Virtual Machine faults.",
+          "pubDate": "Thu, 03 Aug 2023 16:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio supports new App Service and Virtual Machine faults."
           },
           "content:encoded": null
         },
@@ -3089,21 +3104,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Deployment Environments is now generally available. With Deployment Environments, developers can self-deploy the environments they need on demand using infrastructure-as-code templates."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-automated-deployments-in-aks-now-supports-draft"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-automated-deployments-in-aks-now-supports-draft/",
-          "title": "Public preview: Automated deployments in AKS now supports Draft",
-          "description": "Configure automated deployments to create a Dockerfile, build a container image and create Kubernetes deployment files directly from your source code.",
-          "pubDate": "Tue, 23 May 2023 16:02:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Configure automated deployments to create a Dockerfile, build a container image and create Kubernetes deployment files directly from your source code."
           },
           "content:encoded": null
         }
