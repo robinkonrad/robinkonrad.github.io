@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 04 Aug 2023 01:09:25 Z",
+      "lastBuildDate": "Fri, 04 Aug 2023 02:27:37 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -61,6 +61,74 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio supports new App Service and Virtual Machine faults."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-load-testing-run-tests-for-up-to-24-hours"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-run-tests-for-up-to-24-hours/",
+          "category": "AzureLoadTesting",
+          "title": "Azure Load Testing: Run tests for up to 24 hours",
+          "description": "Azure Load Testing now enables running tests for durations up to 24 hours.",
+          "pubDate": "Thu, 03 Aug 2023 15:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing now enables running tests for durations up to 24 hours."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-load-testing-create-and-manage-tests-and-test-runs-using-azure-cli"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-create-and-manage-tests-and-test-runs-using-azure-cli/",
+          "category": "AzureLoadTesting",
+          "title": "Azure Load Testing: Create and manage tests and test runs using Azure CLI",
+          "description": "Azure Load Testing now supports managing tests and test runs from Azure CLI",
+          "pubDate": "Thu, 03 Aug 2023 15:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing now supports managing tests and test runs from Azure CLI"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-load-testing-run-tests-with-100000-virtual-users"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-run-tests-with-100000-virtual-users/",
+          "category": "Azure Load Testing",
+          "title": "Azure Load Testing: Run tests with 100,000 virtual users",
+          "description": "Azure Load Testing now supports running tests with 100,000 virtual users, using up to 400 engine instances.",
+          "pubDate": "Thu, 03 Aug 2023 15:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing now supports running tests with 100,000 virtual users, using up to 400 engine instances."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-jboss-eap-on-app-service-clustering"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-jboss-eap-on-app-service-clustering/",
+          "category": [
+            "JBoss EAP",
+            "Azure App Service",
+            "Features"
+          ],
+          "title": "General availability: JBoss EAP on App Service Clustering",
+          "description": "JBoss EAP on App Service clustering is now generally available on Azure, enabling automatic, efficient clustering and auto-scaling for your high-availability applications.",
+          "pubDate": "Thu, 03 Aug 2023 15:00:49 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "JBoss EAP on App Service clustering is now generally available on Azure, enabling automatic, efficient clustering and auto-scaling for your high-availability applications."
           },
           "content:encoded": null
         },
@@ -3044,66 +3112,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "ACI now lets you run containers in a trusted execution environment (TEE)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-costoptimizations-with-transformations-on-log-analytics-for-troubleshooting-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-costoptimizations-with-transformations-on-log-analytics-for-troubleshooting-cosmos-db/",
-          "title": "Generally Available: Cost-optimizations with transformations on Log Analytics for troubleshooting Cosmos DB",
-          "description": "Optimize costs on your Log Analytics workspace by adding transformation rules to your Cosmos DB LA tables.",
-          "pubDate": "Tue, 23 May 2023 16:03:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Optimize costs on your Log Analytics workspace by adding transformation rules to your Cosmos DB LA tables."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-managed-instance-public-preview-updates-for-latemay-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-managed-instance-public-preview-updates-for-latemay-2023/",
-          "title": "Azure SQL Managed Instance —Public preview updates for late-May 2023",
-          "description": "Public preview enhancements and updates released for Azure SQL in late-May 2023",
-          "pubDate": "Tue, 23 May 2023 16:03:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in late-May 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "database-migration-service-pack-for-oracle-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/database-migration-service-pack-for-oracle-preview/",
-          "title": "Database Migration Service Pack for Oracle - Preview",
-          "description": "An Azure Data Studio extension pack for end-to-end Oracle database schema and data migration to Azure Data (SQL and PostgreSQL)",
-          "pubDate": "Tue, 23 May 2023 16:03:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "An Azure Data Studio extension pack for end-to-end Oracle database schema and data migration to Azure Data (SQL and PostgreSQL)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "microsoft-azure-deployment-environments-is-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/microsoft-azure-deployment-environments-is-now-generally-available/",
-          "title": "Microsoft Azure Deployment Environments is now generally available.",
-          "description": "Azure Deployment Environments is now generally available. With Deployment Environments, developers can self-deploy the environments they need on demand using infrastructure-as-code templates.",
-          "pubDate": "Tue, 23 May 2023 16:02:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Deployment Environments is now generally available. With Deployment Environments, developers can self-deploy the environments they need on demand using infrastructure-as-code templates."
           },
           "content:encoded": null
         }
