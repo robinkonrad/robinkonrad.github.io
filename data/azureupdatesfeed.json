@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 04 Aug 2023 14:11:43 Z",
+      "lastBuildDate": "Fri, 04 Aug 2023 15:13:10 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-load-testing-now-supports-jmeter-backend-listeners"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-jmeter-backend-listeners/",
+          "category": "AzureLoadTesting",
+          "title": "Azure Load Testing: Now supports JMeter backend listeners",
+          "description": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.",
+          "pubDate": "Fri, 04 Aug 2023 15:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3097,21 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Database for MySQL connector for Power Platform, Azure Logic Apps is now available and allows you to connect to any MySQL Flexible Server database to read and write data."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-confidential-containers-on-azure-container-instances-aci"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-confidential-containers-on-azure-container-instances-aci/",
-          "title": "General availability: Confidential containers on Azure Container Instances (ACI)",
-          "description": "ACI now lets you run containers in a trusted execution environment (TEE)",
-          "pubDate": "Tue, 23 May 2023 16:03:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ACI now lets you run containers in a trusted execution environment (TEE)"
           },
           "content:encoded": null
         }
