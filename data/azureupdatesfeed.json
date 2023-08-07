@@ -12,29 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 07 Aug 2023 16:16:42 Z",
+      "lastBuildDate": "Mon, 07 Aug 2023 17:11:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-now-supports-jmeter-backend-listeners"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-jmeter-backend-listeners/",
-          "category": "AzureLoadTesting",
-          "title": "Azure Load Testing: Now supports JMeter backend listeners",
-          "description": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.",
-          "pubDate": "Fri, 04 Aug 2023 15:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -316,12 +300,27 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "general-availability-route-server-hub-routing-preference"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
+          "title": "Public preview: Route Server hub routing preference",
+          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-route-server-hub-routing-preference"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:15:37 Z",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
@@ -697,6 +696,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
+          "category": "AzureCosmosDB",
+          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
+          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
+          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -2301,7 +2316,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3098,21 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Rewind to read previous transactions in Synapse Link containers to analyze previous versions of your document with time-travel for Azure Synapse Link"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "available-azure-database-for-mysql-connector-for-power-platform-and-azure-logic-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/available-azure-database-for-mysql-connector-for-power-platform-and-azure-logic-apps/",
-          "title": "Available: Azure Database for MySQL connector for Power Platform and Azure Logic Apps",
-          "description": "Azure Database for MySQL connector for Power Platform, Azure Logic Apps is now available and allows you to connect to any MySQL Flexible Server database to read and write data.",
-          "pubDate": "Tue, 23 May 2023 16:03:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Database for MySQL connector for Power Platform, Azure Logic Apps is now available and allows you to connect to any MySQL Flexible Server database to read and write data."
           },
           "content:encoded": null
         }
