@@ -12,13 +12,89 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 10 Aug 2023 21:11:07 Z",
+      "lastBuildDate": "Thu, 10 Aug 2023 22:11:24 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-new-custom-error-pages-in-application-gateway"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-new-custom-error-pages-in-application-gateway/",
+          "title": "Public preview: Support for new custom error pages in Application Gateway",
+          "description": "Azure Application Gateway introduces more response codes to configure the custom error pages.",
+          "pubDate": "Thu, 10 Aug 2023 17:37:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Application Gateway introduces more response codes to configure the custom error pages."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "wordpress-on-app-service-integration-with-azure-communication-services-email"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/wordpress-on-app-service-integration-with-azure-communication-services-email/",
+          "title": "WordPress on App Service: Integration with Azure Communication Services Email",
+          "description": "Facilitates communication and drives engagement without requiring 3rd party plugins",
+          "pubDate": "Thu, 10 Aug 2023 16:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Facilitates communication and drives engagement without requiring 3rd party plugins"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-site-recovery-update-rollup-68-august-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-68-august-2023/",
+          "category": "azure-site-recovery",
+          "title": "Generally available: Azure Site Recovery update rollup 68 - August 2023",
+          "description": "This article describes the improvements for the latest version of Azure Site Recovery components.",
+          "pubDate": "Thu, 10 Aug 2023 16:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This article describes the improvements for the latest version of Azure Site Recovery components."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-more-regions-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-more-regions-2/",
+          "title": "Generally available: Azure Premium SSD v2 Disk Storage is now available in more regions",
+          "description": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance.",
+          "pubDate": "Thu, 10 Aug 2023 16:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cold-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cold-storage/",
+          "title": "Generally available: Azure Blob Storage Cold Tier",
+          "description": "Azure Blob Storage Cold Tier is an online tier specifically designed for efficiently storing data that is infrequently accessed or modified, all while ensuring immediate availability.",
+          "pubDate": "Thu, 10 Aug 2023 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Storage Cold Tier is an online tier specifically designed for efficiently storing data that is infrequently accessed or modified, all while ensuring immediate availability."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -46,22 +122,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio has User-Assigned Managed Identity and Custom Role Assignment."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-now-supports-jmeter-backend-listeners"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-jmeter-backend-listeners/",
-          "category": "AzureLoadTesting",
-          "title": "Azure Load Testing: Now supports JMeter backend listeners",
-          "description": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.",
-          "pubDate": "Fri, 04 Aug 2023 15:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice."
           },
           "content:encoded": null
         },
@@ -351,7 +411,22 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:15:37 Z",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-route-server-hub-routing-preference"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
+          "title": "Public preview: Route Server hub routing preference",
+          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
@@ -727,6 +802,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
+          "category": "AzureCosmosDB",
+          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
+          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
+          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -2331,7 +2422,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3023,96 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "User of AMD-based confidential VMs can now select the RHEL 9.2 technical preview as their guest OS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "amd-confidential-vm-option-for-azure-databricks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/amd-confidential-vm-option-for-azure-databricks/",
-          "title": "AMD Confidential VM option for Azure Databricks",
-          "description": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes.",
-          "pubDate": "Tue, 23 May 2023 16:03:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-amd-confidential-vm-option-for-azure-data-explorer-adx"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-amd-confidential-vm-option-for-azure-data-explorer-adx/",
-          "title": "Public Preview: AMD confidential VM option for Azure Data Explorer (ADX)",
-          "description": "Users can now run their most sensitive data workloads in ADX clusters on AMD-based confidential VM SKUs.",
-          "pubDate": "Tue, 23 May 2023 16:03:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Users can now run their most sensitive data workloads in ADX clusters on AMD-based confidential VM SKUs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "build-2023-new-azure-app-service-plans-fuel-greater-choice-and-savings"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/build-2023-new-azure-app-service-plans-fuel-greater-choice-and-savings/",
-          "title": "Build 2023: New Azure App Service plans fuel greater choice and savings",
-          "description": "New plans for Microsoft Azure App Service customers with two new offerings in the Premium v3 (Pv3) service tier, and expansion in the Isolated v2 tier.",
-          "pubDate": "Tue, 23 May 2023 16:03:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New plans for Microsoft Azure App Service customers with two new offerings in the Premium v3 (Pv3) service tier, and expansion in the Isolated v2 tier."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-v2-programming-model-for-azure-functions-using-python"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-v2-programming-model-for-azure-functions-using-python/",
-          "title": "Generally Available: V2 programming model for Azure Functions using Python",
-          "description": "A simplified programming model for Python developers.",
-          "pubDate": "Tue, 23 May 2023 16:03:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "A simplified programming model for Python developers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "key-vault-rbac-access-configuration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/key-vault-rbac-access-configuration/",
-          "title": "Azure Key Vault Access Configuration Update",
-          "description": "Azure RBAC is now the recommended authorization system for the Azure Key Vault data plane.",
-          "pubDate": "Tue, 23 May 2023 16:03:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure RBAC is now the recommended authorization system for the Azure Key Vault data plane."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "database-migration-assessment-for-oracle-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/database-migration-assessment-for-oracle-ga/",
-          "title": "Database Migration Assessment for Oracle - GA",
-          "description": "Database Migration Assessment for Oracle extension analyzes an organization's Oracle database, identifying performance requirements and code compatibility with the target Azure database for a smooth migration.",
-          "pubDate": "Tue, 23 May 2023 16:03:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Database Migration Assessment for Oracle extension analyzes an organization's Oracle database, identifying performance requirements and code compatibility with the target Azure database for a smooth migration."
           },
           "content:encoded": null
         }
