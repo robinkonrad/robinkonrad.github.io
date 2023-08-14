@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 14 Aug 2023 18:15:39 Z",
+      "lastBuildDate": "Mon, 14 Aug 2023 19:10:15 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-help-api-provides-access-to-selfhelp-diagnostics"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-help-api-provides-access-to-selfhelp-diagnostics/",
+          "category": "Azure Portal",
+          "title": "General Availability : Help API provides access to self-help diagnostics",
+          "description": "Help API is now Generally Available! Help API provides you relevant and high-quality, self-help solutions to resolve issues with your Azure resource quickly and conveniently.",
+          "pubDate": "Mon, 14 Aug 2023 19:00:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Help API is now Generally Available! Help API provides you relevant and high-quality, self-help solutions to resolve issues with your Azure resource quickly and conveniently."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3099,21 +3115,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The new Network Observability AKS add-on provides complete observability into the network health and connectivity of your AKS cluster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-red-hat-enterprise-linux-rhel-92-support-for-amd-confidential-vms"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-red-hat-enterprise-linux-rhel-92-support-for-amd-confidential-vms/",
-          "title": "Preview: Red Hat Enterprise Linux (RHEL) 9.2 support for AMD confidential VMs",
-          "description": "User of AMD-based confidential VMs can now select the RHEL 9.2 technical preview as their guest OS.",
-          "pubDate": "Tue, 23 May 2023 16:03:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "User of AMD-based confidential VMs can now select the RHEL 9.2 technical preview as their guest OS."
           },
           "content:encoded": null
         }
