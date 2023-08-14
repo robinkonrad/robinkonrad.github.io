@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 14 Aug 2023 17:11:56 Z",
+      "lastBuildDate": "Mon, 14 Aug 2023 18:15:39 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-backup-now-supports-cross-region-restore-for-postgresql-backups"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-backup-now-supports-cross-region-restore-for-postgresql-backups/",
+          "title": "Public Preview: Azure Backup now supports Cross Region Restore for PostgreSQL backups",
+          "description": "Cross Region Restore for PostgreSQL backups fore Azure Backup customers is now supported and is available in multiple public regions.",
+          "pubDate": "Mon, 14 Aug 2023 18:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Cross Region Restore for PostgreSQL backups fore Azure Backup customers is now supported and is available in multiple public regions."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3099,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "User of AMD-based confidential VMs can now select the RHEL 9.2 technical preview as their guest OS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "amd-confidential-vm-option-for-azure-databricks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/amd-confidential-vm-option-for-azure-databricks/",
-          "title": "AMD Confidential VM option for Azure Databricks",
-          "description": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes.",
-          "pubDate": "Tue, 23 May 2023 16:03:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes."
           },
           "content:encoded": null
         }
