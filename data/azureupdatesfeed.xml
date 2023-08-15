@@ -6,46 +6,11 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2023 20:13:25 Z</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 21:11:23 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-netapp-files-cloud-backup-for-virtual-machines</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/</link>
-      <category>Azure NetApp Files</category>
-      <title>Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines</title>
-      <description>Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview</description>
-      <pubDate>Tue, 15 Aug 2023 16:00:51 Z</pubDate>
-      <atom:content
-        type="text">Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-load-testing-in-japan-east-and-brazil-south</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/</link>
-      <category>AzureLoadTesting</category>
-      <title>Generally available: Azure Load Testing in Japan East and Brazil South</title>
-      <description>Azure Load Testing is in generally available in Japan East and Brazil South.</description>
-      <pubDate>Tue, 15 Aug 2023 16:00:50 Z</pubDate>
-      <atom:content
-        type="text">Azure Load Testing is in generally available in Japan East and Brazil South.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-mv3-medium-memory-virtual-machines</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-mv3-medium-memory-virtual-machines/</link>
-      <title>Public preview: Azure Mv3 Medium Memory (MM) Virtual Machines</title>
-      <description>Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.</description>
-      <pubDate>Tue, 15 Aug 2023 15:00:50 Z</pubDate>
-      <atom:content
-        type="text">Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-help-api-provides-access-to-selfhelp-diagnostics</guid>
@@ -178,18 +143,6 @@
       <pubDate>Mon, 07 Aug 2023 18:03:24 Z</pubDate>
       <atom:content
         type="text">Azure Chaos Studio has User-Assigned Managed Identity and Custom Role Assignment. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-load-testing-now-supports-jmeter-backend-listeners</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-jmeter-backend-listeners/</link>
-      <category>AzureLoadTesting</category>
-      <title>Azure Load Testing: Now supports JMeter backend listeners</title>
-      <description>Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.</description>
-      <pubDate>Fri, 04 Aug 2023 15:00:04 Z</pubDate>
-      <atom:content
-        type="text">Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -356,11 +309,11 @@
       <guid
         isPermaLink="false">public-preview-intraaccount-container-copy-in-azure-cosmos-db-for-mongodb-2</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-intraaccount-container-copy-in-azure-cosmos-db-for-mongodb-2/</link>
-      <title>Public Preview: Intra-account collection copy in Azure Cosmos DB for MongoDB</title>
-      <description>With intra-account collection copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</description>
+      <title>Public Preview: Intra-account container copy in Azure Cosmos DB for MongoDB</title>
+      <description>With intra-account container copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</description>
       <pubDate>Wed, 02 Aug 2023 15:00:35 Z</pubDate>
       <atom:content
-        type="text">With intra-account collection copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</atom:content>
+        type="text">With intra-account container copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -398,11 +351,22 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">general-availability-route-server-hub-routing-preference</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/</link>
+      <title>Public preview: Route Server hub routing preference</title>
+      <description>Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</description>
+      <pubDate>Tue, 01 Aug 2023 16:30:39 Z</pubDate>
+      <atom:content
+        type="text">Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">public-preview-route-server-hub-routing-preference</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/</link>
       <title>Public preview: Route Server hub routing preference</title>
       <description>Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</description>
-      <pubDate>Tue, 01 Aug 2023 16:15:37 Z</pubDate>
+      <pubDate>Tue, 01 Aug 2023 16:30:39 Z</pubDate>
       <atom:content
         type="text">Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</atom:content>
       <content:encoded></content:encoded>
@@ -683,6 +647,18 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 18 Jul 2023 15:00:24 Z</pubDate>
       <atom:content
         type="text">Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot! </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/</link>
+      <category>AzureCosmosDB</category>
+      <title>General availability: Partial document update in the Azure Cosmos DB Python SDK</title>
+      <description>Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.</description>
+      <pubDate>Tue, 18 Jul 2023 15:00:18 Z</pubDate>
+      <atom:content
+        type="text">Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1862,7 +1838,7 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/</link>
       <title>Public Preview: Azure Chaos Studio is now available in West US 2 region</title>
       <description>Azure Chaos Studio is now available in West US 2 region.</description>
-      <pubDate>Mon, 05 Jun 2023 16:00:03 Z</pubDate>
+      <pubDate>Mon, 05 Jun 2023 16:00:00 Z</pubDate>
       <atom:content
         type="text">Azure Chaos Studio is now available in West US 2 region.</atom:content>
       <content:encoded></content:encoded>
@@ -2294,6 +2270,28 @@ Click here to learn more.</atom:content>
       <pubDate>Tue, 23 May 2023 18:00:42 Z</pubDate>
       <atom:content
         type="text">Activate reservation utilization alerts and take control of your Azure reservation strategy.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-monitor-managed-service-for-prometheus</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-managed-service-for-prometheus/</link>
+      <title>General Availability: Azure Monitor managed service for Prometheus</title>
+      <description>Azure Monitor managed service for Prometheus is now Generally Available.</description>
+      <pubDate>Tue, 23 May 2023 17:38:14 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor managed service for Prometheus is now Generally Available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-dynamic-blob-container-name</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-dynamic-blob-container-name/</link>
+      <title>Public Preview: Dynamic Blob container name</title>
+      <description>Azure Stream Analytics offers dynamic blob container name to give customers the flexibility to customize container names in Blob storage output.</description>
+      <pubDate>Tue, 23 May 2023 17:37:27 Z</pubDate>
+      <atom:content
+        type="text">Azure Stream Analytics offers dynamic blob container name to give customers the flexibility to customize container names in Blob storage output.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
