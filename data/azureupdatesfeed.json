@@ -12,13 +12,45 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 15 Aug 2023 15:12:23 Z",
+      "lastBuildDate": "Tue, 15 Aug 2023 16:16:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
+          "category": "Azure NetApp Files",
+          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
+          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
+          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-load-testing-in-japan-east-and-brazil-south"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/",
+          "category": "AzureLoadTesting",
+          "title": "Generally available: Azure Load Testing in Japan East and Brazil South",
+          "description": "Azure Load Testing is in generally available in Japan East and Brazil South.",
+          "pubDate": "Tue, 15 Aug 2023 16:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing is in generally available in Japan East and Brazil South."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3077,36 +3109,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Activate reservation utilization alerts and take control of your Azure reservation strategy."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-monitor-managed-service-for-prometheus"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-managed-service-for-prometheus/",
-          "title": "General Availability: Azure Monitor managed service for Prometheus",
-          "description": "Azure Monitor managed service for Prometheus is now Generally Available.",
-          "pubDate": "Tue, 23 May 2023 17:38:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor managed service for Prometheus is now Generally Available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dynamic-blob-container-name"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-blob-container-name/",
-          "title": "Public Preview: Dynamic Blob container name",
-          "description": "Azure Stream Analytics offers dynamic blob container name to give customers the flexibility to customize container names in Blob storage output.",
-          "pubDate": "Tue, 23 May 2023 17:37:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Stream Analytics offers dynamic blob container name to give customers the flexibility to customize container names in Blob storage output."
           },
           "content:encoded": null
         }
