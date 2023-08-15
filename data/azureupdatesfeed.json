@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 15 Aug 2023 14:11:28 Z",
+      "lastBuildDate": "Tue, 15 Aug 2023 15:12:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-mv3-medium-memory-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-mv3-medium-memory-virtual-machines/",
+          "title": "Public preview: Azure Mv3 Medium Memory (MM) Virtual Machines",
+          "description": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.",
+          "pubDate": "Tue, 15 Aug 2023 15:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3092,21 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Stream Analytics offers dynamic blob container name to give customers the flexibility to customize container names in Blob storage output."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "asaschemaregistry"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/asaschemaregistry/",
-          "title": "Public Preview: Azure Stream Analytics Schema Registry Integration",
-          "description": "Azure Stream Analytics can now fetch schema from the Schema Registry and deserialize data from Event Hub inputs for Avro format.",
-          "pubDate": "Tue, 23 May 2023 17:36:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Stream Analytics can now fetch schema from the Schema Registry and deserialize data from Event Hub inputs for Avro format."
           },
           "content:encoded": null
         }
