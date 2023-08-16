@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 16 Aug 2023 17:11:14 Z",
+      "lastBuildDate": "Wed, 16 Aug 2023 18:15:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-elastic-san-updates-private-endpoints-shared-volumes"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-private-endpoints-shared-volumes/",
+          "category": "Tag=AzurePortal",
+          "title": "Public Preview: Azure Elastic SAN Updates: Private endpoints & shared volumes",
+          "description": "Introducing the latest updates to Azure Elastic SAN (in preview), private endpoint support and volume sharing support via SCSI (Small Computer System Interface) Persistent Reservation.",
+          "pubDate": "Wed, 16 Aug 2023 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Introducing the latest updates to Azure Elastic SAN (in preview), private endpoint support and volume sharing support via SCSI (Small Computer System Interface) Persistent Reservation."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3097,21 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Microsoft has re-envisioned data transformations in Azure Logic Apps (Standard) by building a new data mapper experience from the ground up."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "publicpreview-azure-api-management-api-center"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/publicpreview-azure-api-management-api-center/",
-          "title": "PublicPreview: Azure API Management: API Center",
-          "description": "Centrally organize and manage APIs across the entire organization, regardless of API type, deployment location, lifecycle stage, or choice of API gateway or API management solution using Azure API Center.  \n\nBoost developer productivity by facilitating API discovery and promoting API reuse. \nEstablish a governance model for API portfolio across the entire organization. \nElevate API inventory management by organizing and enriching APIs with custom metadata, API versions, and deployment details. \nClick here to learn more.",
-          "pubDate": "Thu, 25 May 2023 17:01:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Centrally organize and manage APIs across the entire organization, regardless of API type, deployment location, lifecycle stage, or choice of API gateway or API management solution using Azure API Center.  \n\nBoost developer productivity by facilitating API discovery and promoting API reuse. \nEstablish a governance model for API portfolio across the entire organization. \nElevate API inventory management by organizing and enriching APIs with custom metadata, API versions, and deployment details. \nClick here to learn more."
           },
           "content:encoded": null
         }
