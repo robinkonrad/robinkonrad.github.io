@@ -12,13 +12,134 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 16 Aug 2023 15:13:07 Z",
+      "lastBuildDate": "Wed, 16 Aug 2023 16:16:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-active-directory-integration-with-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-integration-with-azure-cosmos-db-for-postgresql/",
+          "title": "Public Preview: Azure Active Directory integration with Azure Cosmos DB for PostgreSQL",
+          "description": "Now you can use Azure Active Directory (AAD) authentication on Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 16 Aug 2023 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can use Azure Active Directory (AAD) authentication on Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-simplified-flush-operation-for-caches-using-active-georeplication"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-simplified-flush-operation-for-caches-using-active-georeplication/",
+          "title": "General availability: Simplified flush operation for caches using active geo-replication",
+          "description": "Flush all data from active geo-replicated caches using the portal, PowerShell, or CLI.",
+          "pubDate": "Wed, 16 Aug 2023 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Flush all data from active geo-replicated caches using the portal, PowerShell, or CLI."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-99th-percentile-latency-metric-in-azure-cache-for-redis"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-99th-percentile-latency-metric-in-azure-cache-for-redis/",
+          "title": "General availability: 99th percentile latency metric in Azure Cache for Redis",
+          "description": "Debug server-side latency with a new Azure Cache for Redis metric.",
+          "pubDate": "Wed, 16 Aug 2023 16:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Debug server-side latency with a new Azure Cache for Redis metric."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-storage-autogrow-online-disk-scaling-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-storage-autogrow-online-disk-scaling-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Storage auto-grow & online disk scaling for Azure Database for PostgreSQL Flexible Server",
+          "description": "With auto-grow enabled, Azure Database for PostgreSQL Flexible Server will automatically increase the size of your provisioned storage.",
+          "pubDate": "Wed, 16 Aug 2023 16:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With auto-grow enabled, Azure Database for PostgreSQL Flexible Server will automatically increase the size of your provisioned storage."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-terraform-support-for-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-terraform-support-for-azure-cosmos-db-for-postgresql/",
+          "title": "General availability: Terraform support for Azure Cosmos DB for PostgreSQL",
+          "description": "Now you can use Terraform for unified inventory and management operations for Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 16 Aug 2023 16:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can use Terraform for unified inventory and management operations for Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-vnet-flow-logs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-vnet-flow-logs/",
+          "title": "Public preview: Azure VNet flow logs",
+          "description": "Gain visibility of IP traffic flowing through your Virtual Networks",
+          "pubDate": "Wed, 16 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Gain visibility of IP traffic flowing through your Virtual Networks"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-incremental-snapshots-for-premium-ssd-v2-disk-and-ultra-disk-storage-3"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-incremental-snapshots-for-premium-ssd-v2-disk-and-ultra-disk-storage-3/",
+          "category": "Tag = AzurePortal",
+          "title": "General Availability: Incremental snapshots for Premium SSD v2 Disk and Ultra Disk Storage",
+          "description": "Incremental snapshots for Premium SSD v2 and Ultra Disk Storage with instant restore capability are now generally available (GA)",
+          "pubDate": "Wed, 16 Aug 2023 16:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Incremental snapshots for Premium SSD v2 and Ultra Disk Storage with instant restore capability are now generally available (GA)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-august"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-august/",
+          "title": "Azure Machine Learning - Public Preview for August",
+          "description": "Two new features now available in PuPr enable you to work with improved data size and model support and generate a default Responsible AI dashboard for the best AutoML model.",
+          "pubDate": "Wed, 16 Aug 2023 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Two new features now available in PuPr enable you to work with improved data size and model support and generate a default Responsible AI dashboard for the best AutoML model."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2149,21 +2270,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
-          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
-          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
@@ -2173,6 +2279,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
+          "title": "Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server",
+          "description": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
           },
           "content:encoded": null
         },
@@ -2981,126 +3102,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Files geo-redundancy for large file shares is now in public preview for standard SMB file shares."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-exactly-once-delivery-to-adls-gen2-output"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-exactly-once-delivery-to-adls-gen2-output/",
-          "title": "Generally Available: Exactly Once Delivery to ADLS Gen2 Output",
-          "description": "Azure Stream Analytics supports for end-to-end exactly once semantics when writing to Azure Data Lake Storage Gen2.",
-          "pubDate": "Wed, 24 May 2023 17:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Stream Analytics supports for end-to-end exactly once semantics when writing to Azure Data Lake Storage Gen2."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-azure-ai-content-safety"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-azure-ai-content-safety/",
-          "title": "Public Preview: Azure AI Content Safety",
-          "description": "Azure AI Content Safety is a new Azure AI service that identifies harmful online content, categorizes it and assigns severity scores to support human content moderator workloads.",
-          "pubDate": "Wed, 24 May 2023 17:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure AI Content Safety is a new Azure AI service that identifies harmful online content, categorizes it and assigns severity scores to support human content moderator workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "asa-kafka-privatepreview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/asa-kafka-privatepreview/",
-          "title": "Private Preview: Kafka Input and Output with Azure Stream Analytics",
-          "description": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job.",
-          "pubDate": "Wed, 24 May 2023 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "virtual-network-integration-support-public-preview-for-azure-stream-analytics"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/virtual-network-integration-support-public-preview-for-azure-stream-analytics/",
-          "title": "Virtual Network Integration Support (Public Preview) for Azure Stream Analytics",
-          "description": "ASA is thrilled to announce public preview of Virtual Network Integration support for Azure Stream Analytics!",
-          "pubDate": "Wed, 24 May 2023 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ASA is thrilled to announce public preview of Virtual Network Integration support for Azure Stream Analytics!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-stream-analytics-is-launching-a-new-competitive-pricing-model"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-stream-analytics-is-launching-a-new-competitive-pricing-model/",
-          "title": "Azure Stream Analytics is Launching a New Competitive Pricing Model!",
-          "description": "Up to 80% price reduction in Azure Stream Analytics",
-          "pubDate": "Wed, 24 May 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Up to 80% price reduction in Azure Stream Analytics"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-backup-soft-delete-of-recovery-points"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-soft-delete-of-recovery-points/",
-          "title": "Public preview: Soft delete of Recovery Points for Azure Backup",
-          "description": "Azure Backup's soft delete of recovery points allows you to recover any recovery points that may have been accidentally or maliciously deleted owing to operations that could lead to deletion of one or more recovery points.",
-          "pubDate": "Wed, 24 May 2023 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup's soft delete of recovery points allows you to recover any recovery points that may have been accidentally or maliciously deleted owing to operations that could lead to deletion of one or more recovery points."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "asa-exactly-once-eh"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/asa-exactly-once-eh/",
-          "title": "Generally Available: Exactly Once Delivery to Event Hub Output",
-          "description": "Stream Analytics now supports end-to-end exactly once semantics when writing to Event Hub output.",
-          "pubDate": "Tue, 23 May 2023 19:02:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stream Analytics now supports end-to-end exactly once semantics when writing to Event Hub output."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cosmos-db-sdks-opentelemetry-and-application-insights-integration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-sdks-opentelemetry-and-application-insights-integration/",
-          "title": "Public Preview: Azure Cosmos DB SDKs OpenTelemetry and Application Insights integration",
-          "description": "Monitoring your applications is easier than ever with new support for OpenTelemetry and improved Application Insights integration.",
-          "pubDate": "Tue, 23 May 2023 19:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Monitoring your applications is easier than ever with new support for OpenTelemetry and improved Application Insights integration."
           },
           "content:encoded": null
         }
