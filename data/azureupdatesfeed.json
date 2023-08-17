@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 17 Aug 2023 15:12:30 Z",
+      "lastBuildDate": "Thu, 17 Aug 2023 16:16:25 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-custom-nfsv41-id-domain-in-azure-netapp-files"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-custom-nfsv41-id-domain-in-azure-netapp-files/",
+          "title": "Public Preview: Custom NFSv4.1 ID Domain in Azure NetApp Files",
+          "description": "Non-LDAP volumes can now be configured to use a custom authentication ID Domain that matches your NFS environment.",
+          "pubDate": "Thu, 17 Aug 2023 16:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Non-LDAP volumes can now be configured to use a custom authentication ID Domain that matches your NFS environment."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3098,21 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are announcing the native support for WebSocket APIs in the self-hosted gateway feature inside Azure API Management."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-data-mapping-designer-in-azure-logic-apps-standard"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-data-mapping-designer-in-azure-logic-apps-standard/",
-          "title": "Public Preview: Data mapping designer in Azure Logic Apps (Standard)",
-          "description": "Microsoft has re-envisioned data transformations in Azure Logic Apps (Standard) by building a new data mapper experience from the ground up.",
-          "pubDate": "Thu, 25 May 2023 17:01:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft has re-envisioned data transformations in Azure Logic Apps (Standard) by building a new data mapper experience from the ground up."
           },
           "content:encoded": null
         }
