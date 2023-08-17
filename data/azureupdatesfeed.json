@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 17 Aug 2023 16:16:25 Z",
+      "lastBuildDate": "Thu, 17 Aug 2023 17:11:05 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-custom-nfsv41-id-domain-in-azure-netapp-files"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-custom-nfsv41-id-domain-in-azure-netapp-files/",
-          "title": "Public Preview: Custom NFSv4.1 ID Domain in Azure NetApp Files",
-          "description": "Non-LDAP volumes can now be configured to use a custom authentication ID Domain that matches your NFS environment.",
-          "pubDate": "Thu, 17 Aug 2023 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Non-LDAP volumes can now be configured to use a custom authentication ID Domain that matches your NFS environment."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -334,29 +319,13 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
-          "category": "Azure NetApp Files",
-          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
-          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
-          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-load-testing-in-japan-east-and-brazil-south"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/",
           "category": "AzureLoadTesting",
           "title": "Generally available: Azure Load Testing in Japan East and Brazil South",
           "description": "Azure Load Testing is in generally available in Japan East and Brazil South.",
-          "pubDate": "Tue, 15 Aug 2023 16:00:50 Z",
+          "pubDate": "Tue, 15 Aug 2023 22:49:49 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing is in generally available in Japan East and Brazil South."
@@ -371,10 +340,26 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-mv3-medium-memory-virtual-machines/",
           "title": "Public preview: Azure Mv3 Medium Memory (MM) Virtual Machines",
           "description": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.",
-          "pubDate": "Tue, 15 Aug 2023 15:00:50 Z",
+          "pubDate": "Tue, 15 Aug 2023 22:39:23 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
+          "category": "Azure NetApp Files",
+          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
+          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
+          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
           },
           "content:encoded": null
         },
@@ -572,6 +557,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Illumio for Azure Firewall enables organizations to understand application traffic and dependencies and apply consistent protection across environments - limiting exposure, containing breaches, and improving efficiency."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-load-testing-now-supports-jmeter-backend-listeners"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-jmeter-backend-listeners/",
+          "category": "AzureLoadTesting",
+          "title": "Azure Load Testing: Now supports JMeter backend listeners",
+          "description": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.",
+          "pubDate": "Fri, 04 Aug 2023 15:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice."
           },
           "content:encoded": null
         },
@@ -856,27 +857,12 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-route-server-hub-routing-preference"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
-          "title": "Public preview: Route Server hub routing preference",
-          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-route-server-hub-routing-preference"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
+          "pubDate": "Tue, 01 Aug 2023 16:15:37 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
@@ -1252,22 +1238,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
-          "category": "AzureCosmosDB",
-          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
-          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
-          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -2872,7 +2842,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3113,6 +3083,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are announcing the native support for WebSocket APIs in the self-hosted gateway feature inside Azure API Management."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-data-mapping-designer-in-azure-logic-apps-standard"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-data-mapping-designer-in-azure-logic-apps-standard/",
+          "title": "Public Preview: Data mapping designer in Azure Logic Apps (Standard)",
+          "description": "Microsoft has re-envisioned data transformations in Azure Logic Apps (Standard) by building a new data mapper experience from the ground up.",
+          "pubDate": "Thu, 25 May 2023 17:01:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft has re-envisioned data transformations in Azure Logic Apps (Standard) by building a new data mapper experience from the ground up."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "publicpreview-azure-api-management-api-center"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/publicpreview-azure-api-management-api-center/",
+          "title": "PublicPreview: Azure API Management: API Center",
+          "description": "Centrally organize and manage APIs across the entire organization, regardless of API type, deployment location, lifecycle stage, or choice of API gateway or API management solution using Azure API Center.  \n\nBoost developer productivity by facilitating API discovery and promoting API reuse. \nEstablish a governance model for API portfolio across the entire organization. \nElevate API inventory management by organizing and enriching APIs with custom metadata, API versions, and deployment details. \nClick here to learn more.",
+          "pubDate": "Thu, 25 May 2023 17:01:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Centrally organize and manage APIs across the entire organization, regardless of API type, deployment location, lifecycle stage, or choice of API gateway or API management solution using Azure API Center.  \n\nBoost developer productivity by facilitating API discovery and promoting API reuse. \nEstablish a governance model for API portfolio across the entire organization. \nElevate API inventory management by organizing and enriching APIs with custom metadata, API versions, and deployment details. \nClick here to learn more."
           },
           "content:encoded": null
         }
