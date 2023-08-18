@@ -12,43 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 18 Aug 2023 21:10:41 Z",
+      "lastBuildDate": "Fri, 18 Aug 2023 22:11:34 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-40mbstib-and-500mbstib-performance-tiers-for-azure-managed-lustre"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-40mbstib-and-500mbstib-performance-tiers-for-azure-managed-lustre/",
-          "title": "Generally available: 40MB/s/TiB and 500MB/s/TiB performance tiers for Azure Managed Lustre",
-          "description": "Azure Managed Lustre now offers two new performance tiers, offering tailored solutions and added cost and performance flexibility for various workload sizes: 40MB/s/TiB and 500MB/s/TiB",
-          "pubDate": "Fri, 18 Aug 2023 18:37:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Managed Lustre now offers two new performance tiers, offering tailored solutions and added cost and performance flexibility for various workload sizes: 40MB/s/TiB and 500MB/s/TiB"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-front-door-standardpremium-in-azure-government"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-standardpremium-in-azure-government/",
-          "title": "General availability: Azure Front Door Standard/Premium in Azure Government",
-          "description": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.",
-          "pubDate": "Fri, 18 Aug 2023 18:01:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -364,13 +334,29 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
+          "category": "Azure NetApp Files",
+          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
+          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
+          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-azure-load-testing-in-japan-east-and-brazil-south"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/",
           "category": "AzureLoadTesting",
           "title": "Generally available: Azure Load Testing in Japan East and Brazil South",
           "description": "Azure Load Testing is in generally available in Japan East and Brazil South.",
-          "pubDate": "Tue, 15 Aug 2023 22:49:49 Z",
+          "pubDate": "Tue, 15 Aug 2023 16:00:50 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing is in generally available in Japan East and Brazil South."
@@ -385,26 +371,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-mv3-medium-memory-virtual-machines/",
           "title": "Public preview: Azure Mv3 Medium Memory (MM) Virtual Machines",
           "description": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.",
-          "pubDate": "Tue, 15 Aug 2023 22:39:23 Z",
+          "pubDate": "Tue, 15 Aug 2023 15:00:50 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
-          "category": "Azure NetApp Files",
-          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
-          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
-          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
           },
           "content:encoded": null
         },
@@ -602,22 +572,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Illumio for Azure Firewall enables organizations to understand application traffic and dependencies and apply consistent protection across environments - limiting exposure, containing breaches, and improving efficiency."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-now-supports-jmeter-backend-listeners"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-jmeter-backend-listeners/",
-          "category": "AzureLoadTesting",
-          "title": "Azure Load Testing: Now supports JMeter backend listeners",
-          "description": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.",
-          "pubDate": "Fri, 04 Aug 2023 15:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice."
           },
           "content:encoded": null
         },
@@ -907,7 +861,22 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:15:37 Z",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-route-server-hub-routing-preference"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
+          "title": "Public preview: Route Server hub routing preference",
+          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
@@ -1283,6 +1252,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
+          "category": "AzureCosmosDB",
+          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
+          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
+          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -2887,7 +2872,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3113,6 +3098,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Are you using GitHub for managing your Stream Analytics project and looking to leverage GitHub's powerful CI/CD pipeline? Follow this comprehensive guide and learn to set up a CI/CD pipeline with GitHub Actions for your Stream Analytics jobs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-websocket-apis-in-azure-api-management-selfhosted-gateway"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-websocket-apis-in-azure-api-management-selfhosted-gateway/",
+          "title": "Public Preview – Support for WebSocket APIs in Azure API Management Self-hosted Gateway",
+          "description": "We are announcing the native support for WebSocket APIs in the self-hosted gateway feature inside Azure API Management.",
+          "pubDate": "Thu, 25 May 2023 17:01:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are announcing the native support for WebSocket APIs in the self-hosted gateway feature inside Azure API Management."
           },
           "content:encoded": null
         }
