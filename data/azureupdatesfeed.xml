@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Aug 2023 00:54:24 Z</lastBuildDate>
+    <lastBuildDate>Sat, 19 Aug 2023 01:40:14 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -23,6 +23,28 @@
       <pubDate>Fri, 18 Aug 2023 23:00:41 Z</pubDate>
       <atom:content
         type="text">If you're using Azure Resource Manager API version 2022-06-01-preview or 2022-11-01-preview to manage Azure Container Apps, please update your API requests to use version 2023-04-01-preview or later. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-40mbstib-and-500mbstib-performance-tiers-for-azure-managed-lustre</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-40mbstib-and-500mbstib-performance-tiers-for-azure-managed-lustre/</link>
+      <title>Generally available: 40MB/s/TiB and 500MB/s/TiB performance tiers for Azure Managed Lustre</title>
+      <description>Azure Managed Lustre now offers two new performance tiers, offering tailored solutions and added cost and performance flexibility for various workload sizes: 40MB/s/TiB and 500MB/s/TiB</description>
+      <pubDate>Fri, 18 Aug 2023 18:37:24 Z</pubDate>
+      <atom:content
+        type="text">Azure Managed Lustre now offers two new performance tiers, offering tailored solutions and added cost and performance flexibility for various workload sizes: 40MB/s/TiB and 500MB/s/TiB</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-front-door-standardpremium-in-azure-government</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-standardpremium-in-azure-government/</link>
+      <title>General availability: Azure Front Door Standard/Premium in Azure Government</title>
+      <description>Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</description>
+      <pubDate>Fri, 18 Aug 2023 18:01:16 Z</pubDate>
+      <atom:content
+        type="text">Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -639,8 +661,8 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">general-availability-route-server-hub-routing-preference</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/</link>
+        isPermaLink="false">public-preview-route-server-hub-routing-preference</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/</link>
       <title>Public preview: Route Server hub routing preference</title>
       <description>Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</description>
       <pubDate>Tue, 01 Aug 2023 16:30:39 Z</pubDate>
@@ -650,8 +672,8 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-route-server-hub-routing-preference</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/</link>
+        isPermaLink="false">general-availability-route-server-hub-routing-preference</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/</link>
       <title>Public preview: Route Server hub routing preference</title>
       <description>Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</description>
       <pubDate>Tue, 01 Aug 2023 16:30:39 Z</pubDate>
@@ -1824,17 +1846,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
-      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
-      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
       <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
@@ -1842,6 +1853,17 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
+      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2268,29 +2290,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 30 May 2023 17:00:06 Z</pubDate>
       <atom:content
         type="text">Azure Data Explorer Bindings for Azure Functions (Public Preview)</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-cni-powered-by-cilium</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-cni-powered-by-cilium/</link>
-      <category>#Azure Kubernetes Service (AKS)  #Virtual Network  #Features</category>
-      <title>General availability: Azure CNI powered by Cilium</title>
-      <description>Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing.</description>
-      <pubDate>Tue, 30 May 2023 16:00:17 Z</pubDate>
-      <atom:content
-        type="text">Leverage next generation eBPF dataplane for pod networking, Kubernetes network policies and service load balancing.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">setting-up-a-cicd-pipeline-with-github-actions-for-stream-analytics-jobs</guid>
-      <link>https://azure.microsoft.com/en-us/updates/setting-up-a-cicd-pipeline-with-github-actions-for-stream-analytics-jobs/</link>
-      <title>Setting Up a CI/CD Pipeline with GitHub Actions for Stream Analytics Jobs</title>
-      <description>Are you using GitHub for managing your Stream Analytics project and looking to leverage GitHub's powerful CI/CD pipeline? Follow this comprehensive guide and learn to set up a CI/CD pipeline with GitHub Actions for your Stream Analytics jobs.</description>
-      <pubDate>Tue, 30 May 2023 16:00:17 Z</pubDate>
-      <atom:content
-        type="text">Are you using GitHub for managing your Stream Analytics project and looking to leverage GitHub's powerful CI/CD pipeline? Follow this comprehensive guide and learn to set up a CI/CD pipeline with GitHub Actions for your Stream Analytics jobs.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
