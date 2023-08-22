@@ -12,43 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 22 Aug 2023 18:15:38 Z",
+      "lastBuildDate": "Tue, 22 Aug 2023 19:10:10 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-ratelimit-rules-for-application-gateway-web-application-firewall"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-ratelimit-rules-for-application-gateway-web-application-firewall/",
-          "title": "Public preview: Rate-limit rules for Application Gateway Web Application Firewall",
-          "description": "Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.",
-          "pubDate": "Tue, 22 Aug 2023 16:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-cross-subscription-restore-for-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-cross-subscription-restore-for-azure-virtual-machines/",
-          "title": "Generally available: Cross Subscription Restore for Azure Virtual Machines",
-          "description": "Cross Subscription Restore support for Azure VM is generally available.",
-          "pubDate": "Tue, 22 Aug 2023 16:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Cross Subscription Restore support for Azure VM is generally available."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -414,13 +384,29 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
+          "category": "Azure NetApp Files",
+          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
+          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
+          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-azure-load-testing-in-japan-east-and-brazil-south"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/",
           "category": "AzureLoadTesting",
           "title": "Generally available: Azure Load Testing in Japan East and Brazil South",
           "description": "Azure Load Testing is in generally available in Japan East and Brazil South.",
-          "pubDate": "Tue, 15 Aug 2023 22:49:49 Z",
+          "pubDate": "Tue, 15 Aug 2023 16:00:50 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing is in generally available in Japan East and Brazil South."
@@ -435,26 +421,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-mv3-medium-memory-virtual-machines/",
           "title": "Public preview: Azure Mv3 Medium Memory (MM) Virtual Machines",
           "description": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.",
-          "pubDate": "Tue, 15 Aug 2023 22:39:23 Z",
+          "pubDate": "Tue, 15 Aug 2023 15:00:50 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
-          "category": "Azure NetApp Files",
-          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
-          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
-          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
           },
           "content:encoded": null
         },
@@ -652,22 +622,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Illumio for Azure Firewall enables organizations to understand application traffic and dependencies and apply consistent protection across environments - limiting exposure, containing breaches, and improving efficiency."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-now-supports-jmeter-backend-listeners"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-jmeter-backend-listeners/",
-          "category": "AzureLoadTesting",
-          "title": "Azure Load Testing: Now supports JMeter backend listeners",
-          "description": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.",
-          "pubDate": "Fri, 04 Aug 2023 15:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice."
           },
           "content:encoded": null
         },
@@ -957,7 +911,22 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:15:37 Z",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-route-server-hub-routing-preference"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
+          "title": "Public preview: Route Server hub routing preference",
+          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
+          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
@@ -1333,6 +1302,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Hotpatch is now available for Windows Server Azure Edition VMs using the newly released images. Hotpatch is a feature that allows you to patch and install OS security updates to Windows Server Azure Edition VMs on Azure without requiring a reboot!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-partial-document-update-in-the-azure-cosmos-db-python-sdk/",
+          "category": "AzureCosmosDB",
+          "title": "General availability: Partial document update in the Azure Cosmos DB Python SDK",
+          "description": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK.",
+          "pubDate": "Tue, 18 Jul 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Modify just the required fields without having to replace the whole document with partial document update in the Azure Cosmos DB Python SDK."
           },
           "content:encoded": null
         },
@@ -2937,7 +2922,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/",
           "title": "Public Preview: Azure Chaos Studio is now available in West US 2 region",
           "description": "Azure Chaos Studio is now available in West US 2 region.",
-          "pubDate": "Mon, 05 Jun 2023 16:00:03 Z",
+          "pubDate": "Mon, 05 Jun 2023 16:00:00 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio is now available in West US 2 region."
@@ -3113,6 +3098,25 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Data Explorer now supports ingestion of data from .NET Applications via the NLog Sink."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-data-explorer-bindings-for-azure-functions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-bindings-for-azure-functions/",
+          "category": [
+            "Azure Data Explorer",
+            "Azure Functions"
+          ],
+          "title": "Public Preview: Azure Data Explorer bindings for Azure Functions",
+          "description": "Azure Data Explorer Bindings for Azure Functions (Public Preview)",
+          "pubDate": "Tue, 30 May 2023 17:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer Bindings for Azure Functions (Public Preview)"
           },
           "content:encoded": null
         }
