@@ -1,6 +1,6 @@
 ---
 title: "Event-Driven Architectures on Azure - done right @ DWX 2023"
-date: 2023-06-02
+date: 2023-06-29
 draft: false
 
 description: "I held my talk about EDAs at Developer Week 2023 this month"
