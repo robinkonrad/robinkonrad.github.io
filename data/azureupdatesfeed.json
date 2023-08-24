@@ -12,13 +12,58 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 24 Aug 2023 15:13:13 Z",
+      "lastBuildDate": "Thu, 24 Aug 2023 16:16:37 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
+          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
+          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
+          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
+          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates/",
+          "title": "General Availability: AzAcSnap 9 — Azure Application Consistent Snapshot tool updates",
+          "description": "AzAcSnap Version 9 Release",
+          "pubDate": "Thu, 24 Aug 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AzAcSnap Version 9 Release"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2541,21 +2586,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
-          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
-          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
-          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/",
@@ -2565,6 +2595,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-insights-distributed-tracing-support-for-java-function-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/",
+          "title": "GA: Application Insights Distributed tracing support for Java Function Apps",
+          "description": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions",
+          "pubDate": "Tue, 13 Jun 2023 17:01:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions"
           },
           "content:encoded": null
         },
@@ -3067,51 +3112,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Files has increased the root directory handle limit per share from 2,000 to 10,000 for standard and premium file shares."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "resource-centric-log-queries"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/resource-centric-log-queries/",
-          "title": "Now Available: Resource-centric log queries in the Azure Monitor Query libraries",
-          "description": "Resource-centric log query support is available in the latest stable release of the Azure Monitor Query client libraries. Query logs by Azure resource ID using .NET, Go, Java, JavaScript, or Python.",
-          "pubDate": "Wed, 31 May 2023 17:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Resource-centric log query support is available in the latest stable release of the Azure Monitor Query client libraries. Query logs by Azure resource ID using .NET, Go, Java, JavaScript, or Python."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions/",
-          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in more regions.",
-          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Brazil South, UK South, East US, East US 2, and South-Central US.",
-          "pubDate": "Wed, 31 May 2023 17:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Brazil South, UK South, East US, East US 2, and South-Central US."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2305-is-delayed-new-os-will-be-issued-to-retail-eval"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2305-is-delayed-new-os-will-be-issued-to-retail-eval/",
-          "title": "General availability: Azure Sphere version 23.05 is delayed, new OS will be issued to Retail Eval",
-          "description": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing.",
-          "pubDate": "Tue, 30 May 2023 17:00:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides 14 days for backward compatibility testing."
           },
           "content:encoded": null
         }
