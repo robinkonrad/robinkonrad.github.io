@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Aug 2023 22:11:55 Z</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2023 23:12:53 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023/</link>
+      <title>Azure Logic Apps (Standard): Upgrade to Node 18 LTS by 11 September 2023 </title>
+      <description>Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023. </description>
+      <pubDate>Fri, 25 Aug 2023 23:00:28 Z</pubDate>
+      <atom:content
+        type="text">Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">retirement-kubernetes-124-support-in-aks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/retirement-kubernetes-124-support-in-aks/</link>
+      <title>Retirement: Kubernetes 1.24 support in AKS </title>
+      <description>Migrate to Kubernetes 1.25 or higher in AKS. </description>
+      <pubDate>Fri, 25 Aug 2023 23:00:27 Z</pubDate>
+      <atom:content
+        type="text">Migrate to Kubernetes 1.25 or higher in AKS. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">quick-create-azure-front-door-endpoints-for-storage-accounts</guid>
@@ -716,8 +738,8 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">general-availability-route-server-hub-routing-preference</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/</link>
+        isPermaLink="false">public-preview-route-server-hub-routing-preference</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/</link>
       <title>Public preview: Route Server hub routing preference</title>
       <description>Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</description>
       <pubDate>Tue, 01 Aug 2023 16:30:39 Z</pubDate>
@@ -727,8 +749,8 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-route-server-hub-routing-preference</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/</link>
+        isPermaLink="false">general-availability-route-server-hub-routing-preference</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/</link>
       <title>Public preview: Route Server hub routing preference</title>
       <description>Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</description>
       <pubDate>Tue, 01 Aug 2023 16:30:39 Z</pubDate>
@@ -1901,17 +1923,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
-      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
-      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
-      <atom:content
-        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">ga-application-insights-distributed-tracing-support-for-java-function-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-application-insights-distributed-tracing-support-for-java-function-apps/</link>
       <title>GA: Application Insights Distributed tracing support for Java Function Apps </title>
@@ -1919,6 +1930,17 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
       <atom:content
         type="text">Use the application map for a more complete view of end-to-end transactions to better diagnose issues and interactions</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-power-bi-integration-with-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public preview: Power BI integration with Azure Database for PostgreSQL – Flexible Server</title>
+      <description>Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</description>
+      <pubDate>Tue, 13 Jun 2023 17:01:23 Z</pubDate>
+      <atom:content
+        type="text">Empower your organization to unlock actionable insights from your Azure Database for PostgreSQL – Flexible Server data with a Power BI integration.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2265,28 +2287,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Thu, 01 Jun 2023 16:00:04 Z</pubDate>
       <atom:content
         type="text">Increase resiliency, higher availability, and flexibility by utilizing more than 2 Standard Load Balancers per VM. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-support-plan-offer-extended-to-december-31-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-support-plan-offer-extended-to-december-31-2023/</link>
-      <title>Azure Support Plan Offer extended to December 31, 2023</title>
-      <description>The existing Azure Support offer is being extended. The promotion will run from July 1, 2023 to December 31, 2023.</description>
-      <pubDate>Thu, 01 Jun 2023 16:00:03 Z</pubDate>
-      <atom:content
-        type="text">The existing Azure Support offer is being extended. The promotion will run from July 1, 2023 to December 31, 2023.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-files-scalability-improvement-for-azure-virtual-desktop-and-other-workloads</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-files-scalability-improvement-for-azure-virtual-desktop-and-other-workloads/</link>
-      <title>Generally available: Azure Files scalability improvement for Azure Virtual Desktop and other workloads that open root directory handles</title>
-      <description>Azure Files has increased the root directory handle limit per share from 2,000 to 10,000 for standard and premium file shares.</description>
-      <pubDate>Wed, 31 May 2023 19:00:01 Z</pubDate>
-      <atom:content
-        type="text">Azure Files has increased the root directory handle limit per share from 2,000 to 10,000 for standard and premium file shares.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
