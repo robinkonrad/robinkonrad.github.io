@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 29 Aug 2023 15:13:20 Z",
+      "lastBuildDate": "Tue, 29 Aug 2023 16:16:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-site-recovery-higher-churn-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-higher-churn-support/",
+          "title": "Generally available: Azure Site Recovery Higher Churn Support",
+          "description": "Azure Site Recovery High Churn Support",
+          "pubDate": "Tue, 29 Aug 2023 16:00:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Site Recovery High Churn Support"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3093,26 +3108,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "GA release for bulk import support for Azure Digital Twins"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-8tb-memory-mv2-virtual-machine"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-8tb-memory-mv2-virtual-machine/",
-          "category": [
-            "Virtual Machines",
-            "Mseries",
-            "Mv2"
-          ],
-          "title": "Generally available: 8TB memory Mv2 Virtual Machine",
-          "description": "Mv2 8TB Memory virtual machine is generally available now for your in-memory workloads.",
-          "pubDate": "Thu, 01 Jun 2023 18:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Mv2 8TB Memory virtual machine is generally available now for your in-memory workloads."
           },
           "content:encoded": null
         }
