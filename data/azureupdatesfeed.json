@@ -12,13 +12,158 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 30 Aug 2023 16:16:42 Z",
+      "lastBuildDate": "Wed, 30 Aug 2023 17:11:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-net-8-support-in-linux-plans"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-net-8-support-in-linux-plans/",
+          "title": "Public preview: Azure Functions .NET 8 support in Linux plans",
+          "description": "Azure Functions now supports .NET 8 preview 7, using the isolated worker model.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Functions now supports .NET 8 preview 7, using the isolated worker model."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-container-apps-supports-environment-level-mtls-encryption"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-supports-environment-level-mtls-encryption/",
+          "title": "Public Preview: Azure Container Apps supports environment level mTLS encryption",
+          "description": "You can now encrypt traffic transmitted between applications within an environment using mTLS.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now encrypt traffic transmitted between applications within an environment using mTLS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-container-apps-jobs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-jobs/",
+          "title": "Generally available: Azure Container Apps jobs",
+          "description": "You can now run production workloads that perform a task for a finite duration and exit, and schedule these workloads or run them in response to events.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run production workloads that perform a task for a finite duration and exit, and schedule these workloads or run them in response to events."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-container-apps-supports-additional-tcp-ports"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-supports-additional-tcp-ports/",
+          "title": "Public preview: Azure Container Apps supports additional TCP ports",
+          "description": "You can now run applications that accept TCP connections on multiple ports.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run applications that accept TCP connections on multiple ports."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-container-apps-support-for-udr-nat-gateway-and-smaller-subnets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-support-for-udr-nat-gateway-and-smaller-subnets/",
+          "title": "Generally Available: Azure Container Apps support for UDR, NAT Gateway, and smaller subnets",
+          "description": "You can now define UDRs to manage how outbound traffic is routed for your container app environment’s subnet.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now define UDRs to manage how outbound traffic is routed for your container app environment’s subnet."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-net-worker-cold-start-improvements"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-net-worker-cold-start-improvements/",
+          "category": [
+            "Azure Functions",
+            "Features",
+            "SDK and Tools"
+          ],
+          "title": "Public preview: Azure Functions .NET worker cold start improvements",
+          "description": "Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model through a preview configuration.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model through a preview configuration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-container-apps-dedicated-plan"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-dedicated-plan/",
+          "title": "Generally available: Azure Container Apps dedicated plan",
+          "description": "You can now run your apps on dedicated workload profiles that offer more CPU and memory if needed.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run your apps on dedicated workload profiles that offer more CPU and memory if needed."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aspnet-core-integration-in-azure-functions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aspnet-core-integration-in-azure-functions/",
+          "category": [
+            "Azure Functions",
+            "Features",
+            "SDK and Tools"
+          ],
+          "title": "Generally Available: ASP.NET Core integration in Azure Functions",
+          "description": "Azure Functions now supports using ASP.NET types such as HttpRequest, HttpResponse, and IActionResult from .NET isolated function projects.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Functions now supports using ASP.NET types such as HttpRequest, HttpResponse, and IActionResult from .NET isolated function projects."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-autoupgrade-scheduled-maintenance-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-autoupgrade-scheduled-maintenance-for-aks/",
+          "title": "Generally Available: Auto-upgrade scheduled maintenance for AKS",
+          "description": "You can now have dedicated maintenance for weekly AKS releases, auto upgrades and Node OS patching.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now have dedicated maintenance for weekly AKS releases, auto upgrades and Node OS patching."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2957,156 +3102,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Upgrade from standard to premium for enhanced Web Application Firewall rules and private connectivity to your origins using Private Link."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-inbound-icmpv6-pings-and-traceroute-are-now-supported-on-azure-load-balancer"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-inbound-icmpv6-pings-and-traceroute-are-now-supported-on-azure-load-balancer/",
-          "title": "General availability: Inbound ICMPv6 pings and traceroute are now supported on Azure Load Balancer",
-          "description": "Ping and traceroute to both IPv4 and IPv6 frontend of a Standard Public Load Balancer like you natively would on an on-premises device without any external software needed.",
-          "pubDate": "Thu, 08 Jun 2023 21:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Ping and traceroute to both IPv4 and IPv6 frontend of a Standard Public Load Balancer like you natively would on an on-premises device without any external software needed."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-front-door-standardpremium-in-azure-government"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-front-door-standardpremium-in-azure-government/",
-          "title": "Public preview: Azure Front Door Standard/Premium in Azure Government",
-          "description": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.",
-          "pubDate": "Thu, 08 Jun 2023 17:27:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-the-new-azure-container-registry-libraries"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-the-new-azure-container-registry-libraries/",
-          "category": [
-            "Azure Container Registry",
-            "Azure Kubernetes Service"
-          ],
-          "title": "Announcing the new Azure Container Registry libraries",
-          "description": "We’re pleased to announce that version 1.1.0 of the Azure Container Registry (ACR) libraries for .NET, Java, JavaScript/TypeScript, and Python are now generally available.",
-          "pubDate": "Thu, 08 Jun 2023 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We’re pleased to announce that version 1.1.0 of the Azure Container Registry (ACR) libraries for .NET, Java, JavaScript/TypeScript, and Python are now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-instancesaci-spot-containers"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-instancesaci-spot-containers/",
-          "title": "Public preview: Azure Container Instances(ACI) Spot containers",
-          "description": "You can now take advantage of unused Azure computing with Azure Container Instances (ACI)",
-          "pubDate": "Wed, 07 Jun 2023 17:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now take advantage of unused Azure computing with Azure Container Instances (ACI)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-files-rest-oauth"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-files-rest-oauth/",
-          "category": [
-            "Azure Files",
-            "Storage Accounts",
-            "Features"
-          ],
-          "title": "Public Preview: Azure AD Support for Azure Files SMB shares REST API",
-          "description": "With this announcement, cloud native and modern applications that use REST APIs to access Azure SMB shares can utilize identity-based authentication and authorization to access file shares.",
-          "pubDate": "Tue, 06 Jun 2023 16:01:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With this announcement, cloud native and modern applications that use REST APIs to access Azure SMB shares can utilize identity-based authentication and authorization to access file shares."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-application-gateway-private-link"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-application-gateway-private-link/",
-          "category": [
-            "Application Gateway",
-            "Features",
-            "Security"
-          ],
-          "title": "Generally available: Private Link support for Application Gateway",
-          "description": "Application Gateway Private Link allows you to connect your workloads over a private connection spanning across VNets and subscriptions",
-          "pubDate": "Tue, 06 Jun 2023 16:01:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application Gateway Private Link allows you to connect your workloads over a private connection spanning across VNets and subscriptions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "multiple-backups-per-day"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/multiple-backups-per-day/",
-          "title": "Generally available: Multiple backups per day for Azure Virtual Machines",
-          "description": "Protect Azure Virtual Machines with Recovery Point Objective (RPO) as low as four hours.",
-          "pubDate": "Tue, 06 Jun 2023 16:00:53 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Protect Azure Virtual Machines with Recovery Point Objective (RPO) as low as four hours."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "geo-ip"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/geo-ip/",
-          "category": "kusto",
-          "title": "General availability: New KQL function to enrich your data analysis with geographic context",
-          "description": "KQL introduces a new function to retrieve country, state, city, and coordinates from IP addresses using GeoLite2 data. Find out how to use geo_info_from_ip_address() and what it can do for your data analysis.",
-          "pubDate": "Tue, 06 Jun 2023 16:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "KQL introduces a new function to retrieve country, state, city, and coordinates from IP addresses using GeoLite2 data. Find out how to use geo_info_from_ip_address() and what it can do for your data analysis."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "kusto-emulator-linux"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/kusto-emulator-linux/",
-          "title": "Generally available: Azure Data Explorer Kusto Emulator on Linux",
-          "description": "The Kusto Emulator is now available as a Linux Docker Container!",
-          "pubDate": "Mon, 05 Jun 2023 17:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Kusto Emulator is now available as a Linux Docker Container!"
           },
           "content:encoded": null
         }
