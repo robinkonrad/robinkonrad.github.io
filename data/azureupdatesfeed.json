@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 30 Aug 2023 17:11:26 Z",
+      "lastBuildDate": "Wed, 30 Aug 2023 18:16:12 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-trusted-launch-as-default-for-vms-deployed-through-the-azure-portal"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-as-default-for-vms-deployed-through-the-azure-portal/",
+          "title": "Generally Available: Trusted launch as default for VMs deployed through the Azure portal",
+          "description": "Trusted launch is now enabled by default for VMS deployed through the Azure portal, enhancing the foundational security of these VMs.",
+          "pubDate": "Wed, 30 Aug 2023 17:48:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Trusted launch is now enabled by default for VMS deployed through the Azure portal, enhancing the foundational security of these VMs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3087,21 +3102,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-front-door-upgrade-from-standard-to-premium"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-upgrade-from-standard-to-premium/",
-          "title": "General availability: Azure Front Door upgrade from standard to premium",
-          "description": "Upgrade from standard to premium for enhanced Web Application Firewall rules and private connectivity to your origins using Private Link.",
-          "pubDate": "Mon, 12 Jun 2023 16:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade from standard to premium for enhanced Web Application Firewall rules and private connectivity to your origins using Private Link."
           },
           "content:encoded": null
         }
