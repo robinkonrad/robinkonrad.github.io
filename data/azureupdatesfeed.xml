@@ -6,11 +6,55 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Aug 2023 15:13:16 Z</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2023 16:16:42 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sql-updates-for-lateaugust-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-lateaugust-2023/</link>
+      <title>General availability: Azure SQL updates for late-August 2023 </title>
+      <description>General availability enhancements and updates released for Azure SQL in late-August 2023.</description>
+      <pubDate>Wed, 30 Aug 2023 16:00:42 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in late-August 2023.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-additional-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-additional-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/</link>
+      <title>Generally available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server</title>
+      <description>Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.3, 14.8, 13.11, 12.15, 11.20.</description>
+      <pubDate>Wed, 30 Aug 2023 16:00:41 Z</pubDate>
+      <atom:content
+        type="text">Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.3, 14.8, 13.11, 12.15, 11.20.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-universal-geo-restore-on-azure-database-for-mysql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-universal-geo-restore-on-azure-database-for-mysql-flexible-server/</link>
+      <title>Public Preview: Universal geo restore on Azure Database for MySQL- Flexible Server</title>
+      <description>Restore Azure Database for MySQL – Flexible Server to any Azure supported region.</description>
+      <pubDate>Wed, 30 Aug 2023 16:00:41 Z</pubDate>
+      <atom:content
+        type="text">Restore Azure Database for MySQL – Flexible Server to any Azure supported region.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-portal-experience-for-azure-database-migration-service</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-portal-experience-for-azure-database-migration-service/</link>
+      <title>Public Preview – Azure Portal experience for Azure Database Migration Service</title>
+      <description>The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL targets using DMS.</description>
+      <pubDate>Wed, 30 Aug 2023 16:00:40 Z</pubDate>
+      <atom:content
+        type="text">The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL targets using DMS.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-azure-site-recovery-higher-churn-support</guid>
@@ -2240,51 +2284,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Mon, 05 Jun 2023 17:00:01 Z</pubDate>
       <atom:content
         type="text">The Kusto Emulator is now available as a Linux Docker Container!</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-west-us-2-region/</link>
-      <title>Public Preview: Azure Chaos Studio is now available in West US 2 region</title>
-      <description>Azure Chaos Studio is now available in West US 2 region.</description>
-      <pubDate>Mon, 05 Jun 2023 16:00:03 Z</pubDate>
-      <atom:content
-        type="text">Azure Chaos Studio is now available in West US 2 region.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-introducing-ngads-v620series-vms-optimized-for-cloud-gaming</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-introducing-ngads-v620series-vms-optimized-for-cloud-gaming/</link>
-      <title>Public preview: Introducing NGads V620-series VMs optimized for cloud gaming  </title>
-      <description>VGads V620-series virtual machines (VMs), now in public preview in the East US2, Europe west, and West US3 regions, enable service providers to build differentiated cloud gaming experiences.</description>
-      <pubDate>Thu, 01 Jun 2023 23:00:00 Z</pubDate>
-      <atom:content
-        type="text">VGads V620-series virtual machines (VMs), now in public preview in the East US2, Europe west, and West US3 regions, enable service providers to build differentiated cloud gaming experiences.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-isovalent-cilium-enterprise-through-azure-marketplace</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-isovalent-cilium-enterprise-through-azure-marketplace/</link>
-      <title>General Availability: Isovalent Cilium Enterprise through Azure Marketplace</title>
-      <description>Isovalent Cilium Enterprise is now generally available through Azure Marketplace.</description>
-      <pubDate>Thu, 01 Jun 2023 21:39:10 Z</pubDate>
-      <atom:content
-        type="text">Isovalent Cilium Enterprise is now generally available through Azure Marketplace.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-jobs-api-to-support-bulk-import-in-azure-digital-twins</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-jobs-api-to-support-bulk-import-in-azure-digital-twins/</link>
-      <category>Azure Digital Twins</category>
-      <title>Generally available: Jobs API to support bulk import in Azure Digital Twins</title>
-      <description>GA release for bulk import support for Azure Digital Twins </description>
-      <pubDate>Thu, 01 Jun 2023 18:00:04 Z</pubDate>
-      <atom:content
-        type="text">GA release for bulk import support for Azure Digital Twins </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
