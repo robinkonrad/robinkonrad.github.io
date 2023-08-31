@@ -12,13 +12,89 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 31 Aug 2023 15:13:14 Z",
+      "lastBuildDate": "Thu, 31 Aug 2023 16:16:52 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-firewall-singleclick-upgrade-and-downgrade-is-now-in-general-availability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-firewall-singleclick-upgrade-and-downgrade-is-now-in-general-availability/",
+          "title": "Azure Firewall Single-Click Upgrade and Downgrade is now in general availability",
+          "description": "This feature allows you to upgrade your firewall without service downtime, with a single click of a button.",
+          "pubDate": "Thu, 31 Aug 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This feature allows you to upgrade your firewall without service downtime, with a single click of a button."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-firewall-poland-central-region-are-now-in-general-availability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-firewall-poland-central-region-are-now-in-general-availability/",
+          "title": "Azure Firewall: Poland Central Region is now in general availability",
+          "description": "Azure Firewall is now generally available in the Poland Central region.",
+          "pubDate": "Thu, 31 Aug 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Firewall is now generally available in the Poland Central region."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-firewall-explicit-proxy-is-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-firewall-explicit-proxy-is-now-in-public-preview/",
+          "title": "Azure Firewall: Explicit Proxy is now in public preview",
+          "description": "This configuration allows traffic from the sending application to be directed to the private IP address of the firewall, facilitating direct egress from the firewall without the need for a UDR.",
+          "pubDate": "Thu, 31 Aug 2023 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This configuration allows traffic from the sending application to be directed to the private IP address of the firewall, facilitating direct egress from the firewall without the need for a UDR."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-firewall-autolearn-snat-routes-feature-is-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-firewall-autolearn-snat-routes-feature-is-now-in-public-preview/",
+          "title": "Azure Firewall: Auto-Learn SNAT routes feature is now in public preview",
+          "description": "Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges.",
+          "pubDate": "Thu, 31 Aug 2023 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-log-alerts-support-for-azure-resource-graph-arg"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-resource-graph-arg/",
+          "category": "Azure monitor",
+          "title": "Public Preview: Azure Log Alerts support for Azure Resource Graph (ARG)",
+          "description": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.",
+          "pubDate": "Thu, 31 Aug 2023 16:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3026,82 +3102,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Video indexer will be adding Advanced Audio and Video SKUs for Advanced presets and a 40% price reduction on the Basic Audio Analysis, Audio Analysis and Video Analysis SKUs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-june-2023-pupr-announcement-view-status-of-jobs-in-azure-pipelines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-june-2023-pupr-announcement-view-status-of-jobs-in-azure-pipelines/",
-          "title": "Azure Machine Learning - June 2023 PuPr Announcement - View status of jobs in Azure Pipelines",
-          "description": "New feature now available in Public Preview enables you to view job statuses without unnecessary compute cost accrual.",
-          "pubDate": "Tue, 13 Jun 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New feature now available in Public Preview enables you to view job statuses without unnecessary compute cost accrual."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-of-azure-front-door-integration-with-managed-identities"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-of-azure-front-door-integration-with-managed-identities/",
-          "title": "General availability of Azure Front Door integration with managed identities",
-          "description": "Azure Front Door supports using managed identity to access Key Vault without the need to generate, store, and rotate secrets. This is a secure service to service authentication method to enhance security.",
-          "pubDate": "Tue, 13 Jun 2023 16:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Front Door supports using managed identity to access Key Vault without the need to generate, store, and rotate secrets. This is a secure service to service authentication method to enhance security."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-openai-uk-south-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-openai-uk-south-region/",
-          "category": "AzurePortal",
-          "title": "Generally available: Azure OpenAI Service in UK South",
-          "description": "Azure OpenAI Service is now available in the UK South region. UK South supports gpt-35-turbo at launch.",
-          "pubDate": "Mon, 12 Jun 2023 17:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure OpenAI Service is now available in the UK South region. UK South supports gpt-35-turbo at launch."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2305-is-delayed-to-20-june-and-the-updated-os-has-been-issued-to-retail-eval"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2305-is-delayed-to-20-june-and-the-updated-os-has-been-issued-to-retail-eval/",
-          "title": "General availability: Azure Sphere version 23.05 is delayed to 20 June, and the updated OS has been issued to Retail Eval",
-          "description": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides seven days for backward compatibility testing.",
-          "pubDate": "Mon, 12 Jun 2023 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides seven days for backward compatibility testing."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-front-door-migration-from-classic-to-standardpremium"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-migration-from-classic-to-standardpremium/",
-          "title": "General availability: Azure Front Door Migration from classic to standard/premium",
-          "description": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.",
-          "pubDate": "Mon, 12 Jun 2023 16:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model."
           },
           "content:encoded": null
         }

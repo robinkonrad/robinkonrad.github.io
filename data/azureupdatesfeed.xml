@@ -6,11 +6,67 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 15:13:14 Z</lastBuildDate>
+    <lastBuildDate>Thu, 31 Aug 2023 16:16:52 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-firewall-singleclick-upgrade-and-downgrade-is-now-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-singleclick-upgrade-and-downgrade-is-now-in-general-availability/</link>
+      <title>Azure Firewall Single-Click Upgrade and Downgrade is now in general availability </title>
+      <description>This feature allows you to upgrade your firewall without service downtime, with a single click of a button.</description>
+      <pubDate>Thu, 31 Aug 2023 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">This feature allows you to upgrade your firewall without service downtime, with a single click of a button.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-firewall-poland-central-region-are-now-in-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-poland-central-region-are-now-in-general-availability/</link>
+      <title>Azure Firewall: Poland Central Region is now in general availability </title>
+      <description>Azure Firewall is now generally available in the Poland Central region.</description>
+      <pubDate>Thu, 31 Aug 2023 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">Azure Firewall is now generally available in the Poland Central region.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-firewall-explicit-proxy-is-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-explicit-proxy-is-now-in-public-preview/</link>
+      <title>Azure Firewall: Explicit Proxy is now in public preview</title>
+      <description>This configuration allows traffic from the sending application to be directed to the private IP address of the firewall, facilitating direct egress from the firewall without the need for a UDR.</description>
+      <pubDate>Thu, 31 Aug 2023 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">This configuration allows traffic from the sending application to be directed to the private IP address of the firewall, facilitating direct egress from the firewall without the need for a UDR.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-firewall-autolearn-snat-routes-feature-is-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-autolearn-snat-routes-feature-is-now-in-public-preview/</link>
+      <title>Azure Firewall: Auto-Learn SNAT routes feature is now in public preview</title>
+      <description>Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges. </description>
+      <pubDate>Thu, 31 Aug 2023 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-log-alerts-support-for-azure-resource-graph-arg</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-resource-graph-arg/</link>
+      <category>Azure monitor</category>
+      <title>Public Preview: Azure Log Alerts support for Azure Resource Graph (ARG)</title>
+      <description>We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.</description>
+      <pubDate>Thu, 31 Aug 2023 16:00:00 Z</pubDate>
+      <atom:content
+        type="text">We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-trusted-launch-as-default-for-vms-deployed-through-the-azure-portal</guid>
@@ -2223,62 +2279,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 13 Jun 2023 17:00:26 Z</pubDate>
       <atom:content
         type="text">Azure Video indexer will be adding Advanced Audio and Video SKUs for Advanced presets and a 40% price reduction on the Basic Audio Analysis, Audio Analysis and Video Analysis SKUs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-june-2023-pupr-announcement-view-status-of-jobs-in-azure-pipelines</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-june-2023-pupr-announcement-view-status-of-jobs-in-azure-pipelines/</link>
-      <title>Azure Machine Learning - June 2023 PuPr Announcement - View status of jobs in Azure Pipelines</title>
-      <description>New feature now available in Public Preview enables you to view job statuses without unnecessary compute cost accrual. </description>
-      <pubDate>Tue, 13 Jun 2023 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">New feature now available in Public Preview enables you to view job statuses without unnecessary compute cost accrual. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-of-azure-front-door-integration-with-managed-identities</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-of-azure-front-door-integration-with-managed-identities/</link>
-      <title>General availability of Azure Front Door integration with managed identities</title>
-      <description>Azure Front Door supports using managed identity to access Key Vault without the need to generate, store, and rotate secrets. This is a secure service to service authentication method to enhance security.</description>
-      <pubDate>Tue, 13 Jun 2023 16:00:22 Z</pubDate>
-      <atom:content
-        type="text">Azure Front Door supports using managed identity to access Key Vault without the need to generate, store, and rotate secrets. This is a secure service to service authentication method to enhance security.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-openai-uk-south-region</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-openai-uk-south-region/</link>
-      <category>AzurePortal</category>
-      <title>Generally available: Azure OpenAI Service in UK South</title>
-      <description>Azure OpenAI Service is now available in the UK South region. UK South supports gpt-35-turbo at launch.</description>
-      <pubDate>Mon, 12 Jun 2023 17:00:09 Z</pubDate>
-      <atom:content
-        type="text">Azure OpenAI Service is now available in the UK South region. UK South supports gpt-35-turbo at launch.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-sphere-version-2305-is-delayed-to-20-june-and-the-updated-os-has-been-issued-to-retail-eval</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2305-is-delayed-to-20-june-and-the-updated-os-has-been-issued-to-retail-eval/</link>
-      <title>General availability: Azure Sphere version 23.05 is delayed to 20 June, and the updated OS has been issued to Retail Eval </title>
-      <description>Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides seven days for backward compatibility testing.</description>
-      <pubDate>Mon, 12 Jun 2023 16:00:21 Z</pubDate>
-      <atom:content
-        type="text">Participate in the retail evaluation now to ensure full compatibility. The OS evaluation period provides seven days for backward compatibility testing.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-front-door-migration-from-classic-to-standardpremium</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-migration-from-classic-to-standardpremium/</link>
-      <title>General availability: Azure Front Door Migration from classic to standard/premium</title>
-      <description>Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</description>
-      <pubDate>Mon, 12 Jun 2023 16:00:19 Z</pubDate>
-      <atom:content
-        type="text">Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
