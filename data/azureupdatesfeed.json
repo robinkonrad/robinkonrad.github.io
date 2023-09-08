@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 08 Sep 2023 14:11:42 Z",
+      "lastBuildDate": "Fri, 08 Sep 2023 15:11:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -200,22 +200,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-log-alerts-support-for-azure-resource-graph-arg"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-resource-graph-arg/",
-          "category": "Azure monitor",
-          "title": "Public Preview: Azure Log Alerts support for Azure Resource Graph (ARG)",
-          "description": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.",
-          "pubDate": "Thu, 31 Aug 2023 16:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query."
           },
           "content:encoded": null
         },
@@ -3106,6 +3090,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL in mid-June 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-japan-east-and-korea-central"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-japan-east-and-korea-central/",
+          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in Japan East and Korea Central",
+          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Japan East and Korea Central.",
+          "pubDate": "Tue, 13 Jun 2023 17:01:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Japan East and Korea Central."
           },
           "content:encoded": null
         }
