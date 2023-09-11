@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 11 Sep 2023 14:12:25 Z",
+      "lastBuildDate": "Mon, 11 Sep 2023 15:13:20 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "kusto-graph-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-public-preview/",
+          "category": "kusto",
+          "title": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
+          "description": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.",
+          "pubDate": "Mon, 11 Sep 2023 15:00:47 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3090,21 +3106,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL in mid-June 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-japan-east-and-korea-central"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-japan-east-and-korea-central/",
-          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in Japan East and Korea Central",
-          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Japan East and Korea Central.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Japan East and Korea Central."
           },
           "content:encoded": null
         }
