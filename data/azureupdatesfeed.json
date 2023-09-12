@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 12 Sep 2023 22:11:57 Z",
+      "lastBuildDate": "Tue, 12 Sep 2023 23:12:24 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-latest-generation-burstable-vms-bsv2-basv2-and-bpsv2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-latest-generation-burstable-vms-bsv2-basv2-and-bpsv2/",
+          "title": "GA: Latest generation burstable VMs - Bsv2, Basv2, and Bpsv2",
+          "description": "The new second generation burstable VMs provide the lowest cost of entry to the Azure VM portfolio with greater performance.",
+          "pubDate": "Tue, 12 Sep 2023 22:22:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new second generation burstable VMs provide the lowest cost of entry to the Azure VM portfolio with greater performance."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3093,21 +3108,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Stretched clusters for Azure VMware Solution (AVS) is now Generally Available, providing 99.99% uptime for mission critical applications that require the highest availability."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-read-replica-ha-enabled-azure-database-for-mysql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-read-replica-ha-enabled-azure-database-for-mysql-flexible-server/",
-          "title": "General availability: Read replica HA enabled Azure Database for MySQL - Flexible Server",
-          "description": "Provision up to 10 read replicas in geo-paired regions on Azure Database for MySQL— Flexible Server.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Provision up to 10 read replicas in geo-paired regions on Azure Database for MySQL— Flexible Server."
           },
           "content:encoded": null
         }
