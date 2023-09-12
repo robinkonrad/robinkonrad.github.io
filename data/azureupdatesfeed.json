@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 12 Sep 2023 17:11:28 Z",
+      "lastBuildDate": "Tue, 12 Sep 2023 18:16:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-service-fabric-91-sixth-refresh-release"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-service-fabric-91-sixth-refresh-release/",
+          "title": "Azure Service Fabric 9.1 Sixth Refresh Release",
+          "description": "This release includes quality improvements.",
+          "pubDate": "Tue, 12 Sep 2023 18:13:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This release includes quality improvements."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -564,21 +579,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
-          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
-          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
@@ -588,6 +588,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
+          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
+          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
           },
           "content:encoded": null
         },
@@ -3092,21 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Build your apps now using Vercel to easily connect an existing Azure Cosmos DB database to your Vercel projects."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-vmware-solution-stretched-clusters-with-customermanaged-keys-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-vmware-solution-stretched-clusters-with-customermanaged-keys-2/",
-          "title": "Generally Available: Azure VMware Solution Stretched Clusters with Customer-Managed Keys",
-          "description": "Stretched clusters for Azure VMware Solution (AVS) is now Generally Available, providing 99.99% uptime for mission critical applications that require the highest availability.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Stretched clusters for Azure VMware Solution (AVS) is now Generally Available, providing 99.99% uptime for mission critical applications that require the highest availability."
           },
           "content:encoded": null
         }
