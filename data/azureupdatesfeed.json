@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Sep 2023 16:16:02 Z",
+      "lastBuildDate": "Wed, 13 Sep 2023 17:11:14 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-higher-default-value-for-azure-functions-event-hubs-max-batch-size"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-higher-default-value-for-azure-functions-event-hubs-max-batch-size/",
+          "title": "Generally available: Higher default value for Azure Functions Event Hubs max batch size",
+          "description": "Starting with version 6.0.0 of the Azure Functions Event Hubs extension, a higher default value of 100 will be used for max batch size",
+          "pubDate": "Wed, 13 Sep 2023 17:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Starting with version 6.0.0 of the Azure Functions Event Hubs extension, a higher default value of 100 will be used for max batch size"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3095,21 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "HDInsight is now generally available in Poland Central."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "microsoft-azure-load-testing-additional-azure-components-for-serverside-monitoring"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/microsoft-azure-load-testing-additional-azure-components-for-serverside-monitoring/",
-          "title": "Microsoft Azure Load Testing - additional Azure components for server-side monitoring",
-          "description": "Azure Load Testing load testing now supports additional Azure components for server-side monitoring during a load test run.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing load testing now supports additional Azure components for server-side monitoring during a load test run."
           },
           "content:encoded": null
         }
