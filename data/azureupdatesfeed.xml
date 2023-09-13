@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2023 14:11:52 Z</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 15:13:25 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">kusto-show-databases-entities</guid>
+      <link>https://azure.microsoft.com/en-us/updates/kusto-show-databases-entities/</link>
+      <category>Kusto</category>
+      <title>New in Kusto: `.show databases entities` command for viewing tables, functions, and more</title>
+      <description>View the entities of all accessible cluster databases with the new `.show databases entities` command for Kusto, and customize the output with various options.</description>
+      <pubDate>Wed, 13 Sep 2023 15:00:13 Z</pubDate>
+      <atom:content
+        type="text">View the entities of all accessible cluster databases with the new `.show databases entities` command for Kusto, and customize the output with various options.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">ga-latest-generation-burstable-vms-bsv2-basv2-and-bpsv2</guid>
@@ -2281,17 +2293,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 13 Jun 2023 17:01:28 Z</pubDate>
       <atom:content
         type="text">Managed Identity is a secure &amp; simplified authentication model where our agent uses the cluster’s managed identity to send data to Azure Monitor. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-cache-for-redis-trigger-for-azure-functions-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-trigger-for-azure-functions-2/</link>
-      <title>Public preview: Azure Cache for Redis trigger for Azure Functions</title>
-      <description>Trigger serverless functions through Azure Cache for Redis.</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:26 Z</pubDate>
-      <atom:content
-        type="text">Trigger serverless functions through Azure Cache for Redis.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

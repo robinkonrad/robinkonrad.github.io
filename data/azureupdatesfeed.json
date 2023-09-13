@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Sep 2023 14:11:52 Z",
+      "lastBuildDate": "Wed, 13 Sep 2023 15:13:25 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "kusto-show-databases-entities"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/kusto-show-databases-entities/",
+          "category": "Kusto",
+          "title": "New in Kusto: `.show databases entities` command for viewing tables, functions, and more",
+          "description": "View the entities of all accessible cluster databases with the new `.show databases entities` command for Kusto, and customize the output with various options.",
+          "pubDate": "Wed, 13 Sep 2023 15:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "View the entities of all accessible cluster databases with the new `.show databases entities` command for Kusto, and customize the output with various options."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3094,21 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Managed Identity is a secure & simplified authentication model where our agent uses the cluster’s managed identity to send data to Azure Monitor."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cache-for-redis-trigger-for-azure-functions-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-trigger-for-azure-functions-2/",
-          "title": "Public preview: Azure Cache for Redis trigger for Azure Functions",
-          "description": "Trigger serverless functions through Azure Cache for Redis.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Trigger serverless functions through Azure Cache for Redis."
           },
           "content:encoded": null
         }
