@@ -6,11 +6,63 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Sep 2023 15:13:25 Z</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 16:16:02 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-use-azure-key-vault-to-securely-store-and-retrieve-access-key-when-mounting-azure-storage-as-a-local-sha</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-use-azure-key-vault-to-securely-store-and-retrieve-access-key-when-mounting-azure-storage-as-a-local-sha/</link>
+      <title>General availability: Use Azure Key Vault to securely store and retrieve access key when mounting Azure Storage as a local share in App Service</title>
+      <description>You can now use Azure Key Vault to securely store and retrieve Azure Storage account access key when mounting it as a local share in App Service. Azure Key Vault has the benefits of storing application secrets centrally and securely with the ability to monitor, administer, and integrate with other Azure services like Azure App Service.
+
+This feature is available for App Service Linux code and container, Windows containers and Windows code.
+
+Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-connect-to-azure-storage?tabs=key-vault%2Ccli&amp;pivots=container-linux for more details.</description>
+      <pubDate>Wed, 13 Sep 2023 16:00:16 Z</pubDate>
+      <atom:content
+        type="text">You can now use Azure Key Vault to securely store and retrieve Azure Storage account access key when mounting it as a local share in App Service. Azure Key Vault has the benefits of storing application secrets centrally and securely with the ability to monitor, administer, and integrate with other Azure services like Azure App Service.
+
+This feature is available for App Service Linux code and container, Windows containers and Windows code.
+
+Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-connect-to-azure-storage?tabs=key-vault%2Ccli&amp;pivots=container-linux for more details.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-configure-customermanaged-keys-on-existing-cosmos-db-accounts</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-configure-customermanaged-keys-on-existing-cosmos-db-accounts/</link>
+      <title>Public Preview: Configure customer-managed keys on existing Cosmos DB accounts</title>
+      <description>Configure customer-managed keys for your existing Azure Cosmos DB account with Azure Key Vault.</description>
+      <pubDate>Wed, 13 Sep 2023 16:00:15 Z</pubDate>
+      <atom:content
+        type="text">Configure customer-managed keys for your existing Azure Cosmos DB account with Azure Key Vault.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sql-updates-for-midseptember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midseptember-2023/</link>
+      <title>General Availability: Azure SQL updates for mid-September 2023 </title>
+      <description>General availability enhancements and updates released for Azure SQL in mid-September 2023 </description>
+      <pubDate>Wed, 13 Sep 2023 16:00:15 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in mid-September 2023 </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-cosmos-db-javascript-sdk-v40</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-javascript-sdk-v40/</link>
+      <title>Public Preview: Azure Cosmos DB Javascript SDK v4.0</title>
+      <description>Open-source Azure Cosmos DB JavaScript v4.0 SDK empowers developers to streamline operations with enhanced ease and efficiency. </description>
+      <pubDate>Wed, 13 Sep 2023 16:00:14 Z</pubDate>
+      <atom:content
+        type="text">Open-source Azure Cosmos DB JavaScript v4.0 SDK empowers developers to streamline operations with enhanced ease and efficiency. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">kusto-show-databases-entities</guid>
@@ -2249,50 +2301,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Tue, 13 Jun 2023 17:01:30 Z</pubDate>
       <atom:content
         type="text">Azure Load Testing load testing now supports additional Azure components for server-side monitoring during a load test run.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-pgvector-extension-on-azure-cosmos-db-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-pgvector-extension-on-azure-cosmos-db-for-postgresql/</link>
-      <title>Generally available: Pgvector extension on Azure Cosmos DB for PostgreSQL</title>
-      <description>Native vector data type enables easy storage of AI generated embeddings performing Euclidean and inner product and cosine distance searches--directly within the database.</description>
-      <pubDate>Tue, 13 Jun 2023 17:01:29 Z</pubDate>
-      <atom:content
-        type="text">Native vector data type enables easy storage of AI generated embeddings performing Euclidean and inner product and cosine distance searches--directly within the database.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">microsoft-azure-load-testing-configure-auto-stop-criteria</guid>
-      <link>https://azure.microsoft.com/en-us/updates/microsoft-azure-load-testing-configure-auto-stop-criteria/</link>
-      <title>Microsoft Azure Load Testing - configure auto stop criteria</title>
-      <description>Configure auto stop criteria automatically stops a load test if the error percentage exceeds a given threshold for a certain time window. </description>
-      <pubDate>Tue, 13 Jun 2023 17:01:29 Z</pubDate>
-      <atom:content
-        type="text">Configure auto stop criteria automatically stops a load test if the error percentage exceeds a given threshold for a certain time window. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-hdinsight-spark-24-approaching-eol</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-hdinsight-spark-24-approaching-eol/</link>
-      <title>Azure HDinsight Spark 2.4 approaching EOL</title>
-      <description>Azure HDInsight for Apache Spark 2.4 will be retired as of February 10, 2024. </description>
-      <pubDate>Tue, 13 Jun 2023 17:01:28 Z</pubDate>
-      <atom:content
-        type="text">Azure HDInsight for Apache Spark 2.4 will be retired as of February 10, 2024. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-managed-identity-authentication-in-azure-monitor-container-insights</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-managed-identity-authentication-in-azure-monitor-container-insights/</link>
-      <title>Generally Available: Managed identity authentication in Azure Monitor container insights</title>
-      <description>Managed Identity is a secure &amp; simplified authentication model where our agent uses the cluster’s managed identity to send data to Azure Monitor. </description>
-      <pubDate>Tue, 13 Jun 2023 17:01:28 Z</pubDate>
-      <atom:content
-        type="text">Managed Identity is a secure &amp; simplified authentication model where our agent uses the cluster’s managed identity to send data to Azure Monitor. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

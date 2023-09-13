@@ -12,13 +12,73 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Sep 2023 15:13:25 Z",
+      "lastBuildDate": "Wed, 13 Sep 2023 16:16:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-use-azure-key-vault-to-securely-store-and-retrieve-access-key-when-mounting-azure-storage-as-a-local-sha"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-use-azure-key-vault-to-securely-store-and-retrieve-access-key-when-mounting-azure-storage-as-a-local-sha/",
+          "title": "General availability: Use Azure Key Vault to securely store and retrieve access key when mounting Azure Storage as a local share in App Service",
+          "description": "You can now use Azure Key Vault to securely store and retrieve Azure Storage account access key when mounting it as a local share in App Service. Azure Key Vault has the benefits of storing application secrets centrally and securely with the ability to monitor, administer, and integrate with other Azure services like Azure App Service.\n\nThis feature is available for App Service Linux code and container, Windows containers and Windows code.\n\nPlease refer to https://learn.microsoft.com/en-us/azure/app-service/configure-connect-to-azure-storage?tabs=key-vault%2Ccli&pivots=container-linux for more details.",
+          "pubDate": "Wed, 13 Sep 2023 16:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure Key Vault to securely store and retrieve Azure Storage account access key when mounting it as a local share in App Service. Azure Key Vault has the benefits of storing application secrets centrally and securely with the ability to monitor, administer, and integrate with other Azure services like Azure App Service.\n\nThis feature is available for App Service Linux code and container, Windows containers and Windows code.\n\nPlease refer to https://learn.microsoft.com/en-us/azure/app-service/configure-connect-to-azure-storage?tabs=key-vault%2Ccli&pivots=container-linux for more details."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-configure-customermanaged-keys-on-existing-cosmos-db-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-configure-customermanaged-keys-on-existing-cosmos-db-accounts/",
+          "title": "Public Preview: Configure customer-managed keys on existing Cosmos DB accounts",
+          "description": "Configure customer-managed keys for your existing Azure Cosmos DB account with Azure Key Vault.",
+          "pubDate": "Wed, 13 Sep 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Configure customer-managed keys for your existing Azure Cosmos DB account with Azure Key Vault."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-midseptember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midseptember-2023/",
+          "title": "General Availability: Azure SQL updates for mid-September 2023",
+          "description": "General availability enhancements and updates released for Azure SQL in mid-September 2023",
+          "pubDate": "Wed, 13 Sep 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in mid-September 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-cosmos-db-javascript-sdk-v40"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-javascript-sdk-v40/",
+          "title": "Public Preview: Azure Cosmos DB Javascript SDK v4.0",
+          "description": "Open-source Azure Cosmos DB JavaScript v4.0 SDK empowers developers to streamline operations with enhanced ease and efficiency.",
+          "pubDate": "Wed, 13 Sep 2023 16:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Open-source Azure Cosmos DB JavaScript v4.0 SDK empowers developers to streamline operations with enhanced ease and efficiency."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3050,66 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing load testing now supports additional Azure components for server-side monitoring during a load test run."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-pgvector-extension-on-azure-cosmos-db-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-pgvector-extension-on-azure-cosmos-db-for-postgresql/",
-          "title": "Generally available: Pgvector extension on Azure Cosmos DB for PostgreSQL",
-          "description": "Native vector data type enables easy storage of AI generated embeddings performing Euclidean and inner product and cosine distance searches--directly within the database.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Native vector data type enables easy storage of AI generated embeddings performing Euclidean and inner product and cosine distance searches--directly within the database."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "microsoft-azure-load-testing-configure-auto-stop-criteria"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/microsoft-azure-load-testing-configure-auto-stop-criteria/",
-          "title": "Microsoft Azure Load Testing - configure auto stop criteria",
-          "description": "Configure auto stop criteria automatically stops a load test if the error percentage exceeds a given threshold for a certain time window.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Configure auto stop criteria automatically stops a load test if the error percentage exceeds a given threshold for a certain time window."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-hdinsight-spark-24-approaching-eol"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-hdinsight-spark-24-approaching-eol/",
-          "title": "Azure HDinsight Spark 2.4 approaching EOL",
-          "description": "Azure HDInsight for Apache Spark 2.4 will be retired as of February 10, 2024.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure HDInsight for Apache Spark 2.4 will be retired as of February 10, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-managed-identity-authentication-in-azure-monitor-container-insights"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-managed-identity-authentication-in-azure-monitor-container-insights/",
-          "title": "Generally Available: Managed identity authentication in Azure Monitor container insights",
-          "description": "Managed Identity is a secure & simplified authentication model where our agent uses the cluster’s managed identity to send data to Azure Monitor.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Managed Identity is a secure & simplified authentication model where our agent uses the cluster’s managed identity to send data to Azure Monitor."
           },
           "content:encoded": null
         }
