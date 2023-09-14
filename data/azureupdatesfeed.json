@@ -12,13 +12,58 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 14 Sep 2023 17:11:48 Z",
+      "lastBuildDate": "Thu, 14 Sep 2023 18:16:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-save-azure-backup-recovery-services-agent-mars-passphrase-to-azure-key-vault"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-save-azure-backup-recovery-services-agent-mars-passphrase-to-azure-key-vault/",
+          "title": "Preview: Save Azure Backup Recovery Services Agent (MARS) passphrase to Azure Key Vault",
+          "description": "Azure Backup customers using the Recovery Services Agent (MARS) can now save your encryption passphrase directly to Azure Key Vault.",
+          "pubDate": "Thu, 14 Sep 2023 18:00:30 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup customers using the Recovery Services Agent (MARS) can now save your encryption passphrase directly to Azure Key Vault."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-selectivedisk-enhancedpolicy"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-selectivedisk-enhancedpolicy/",
+          "title": "General availability: Selective Disk Backup and Restore in Enhanced Policy for Azure VM Backup",
+          "description": "We are adding the “Selective Disk Backup and Restore” capability in Enhanced Policy of Azure VM Backup.",
+          "pubDate": "Thu, 14 Sep 2023 18:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are adding the “Selective Disk Backup and Restore” capability in Enhanced Policy of Azure VM Backup."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-mars-crr"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-mars-crr/",
+          "title": "Preview: Cross Region Restore (CRR) for Recovery Services Agent (MARS) using Azure Backup",
+          "description": "Cross Region Restore for Recovery Services Agent for Azure Backup customers is now supported and is available for preview in all Azure public regions.",
+          "pubDate": "Thu, 14 Sep 2023 18:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Cross Region Restore for Recovery Services Agent for Azure Backup customers is now supported and is available for preview in all Azure public regions."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3065,51 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "New Azure Virtual Desktop feature for creating custom VM images now in public preview!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cache-for-redis-now-supports-up-to-30-shards"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-now-supports-up-to-30-shards/",
-          "title": "Public Preview: Azure Cache for Redis now supports up to 30 shards",
-          "description": "Scale your cache instances to up to 30 shards with Azure Cache for Redis.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Scale your cache instances to up to 30 shards with Azure Cache for Redis."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-hdinsight-for-apache-spark-33-is-now-available-for-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-hdinsight-for-apache-spark-33-is-now-available-for-public-preview/",
-          "title": "Azure HDInsight for Apache Spark 3.3 is now available for public preview",
-          "description": "Apache Spark™ 3.3 on HDInsight is now in preview.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Apache Spark™ 3.3 on HDInsight is now in preview."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "enhanced-autoscale-capabilities-added-to-hdinsight-clusters"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/enhanced-autoscale-capabilities-added-to-hdinsight-clusters/",
-          "title": "Enhanced autoscale capabilities added to HDInsight clusters",
-          "description": "Azure HDInsight has made notable improvements in stability and latency on Autoscale.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure HDInsight has made notable improvements in stability and latency on Autoscale."
           },
           "content:encoded": null
         }
