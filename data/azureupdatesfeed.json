@@ -12,13 +12,73 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 15 Sep 2023 22:11:30 Z",
+      "lastBuildDate": "Fri, 15 Sep 2023 23:12:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-azure-ai-document-intelligence-v20-api-will-be-retired-on-31-august-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-azure-ai-document-intelligence-v20-api-will-be-retired-on-31-august-2026/",
+          "title": "Retirement: Azure AI Document Intelligence v2.0 API will be retired on 31 August 2026",
+          "description": "Azure AI Document Intelligence v2.0 API will be retired on 31 August 2026 – Upgrade to v3.1 general availability API version",
+          "pubDate": "Fri, 15 Sep 2023 23:00:47 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure AI Document Intelligence v2.0 API will be retired on 31 August 2026 – Upgrade to v3.1 general availability API version"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "project-azure-farmbeats-will-be-retired-on-30-sep-2023-transition-to-azure-data-manager-for-agriculture"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/project-azure-farmbeats-will-be-retired-on-30-sep-2023-transition-to-azure-data-manager-for-agriculture/",
+          "title": "Project Azure FarmBeats will be retired on 30 Sep 2023 – transition to Azure Data Manager for Agriculture.",
+          "description": "Project Azure FarmBeats will be retired on September 30, 2023",
+          "pubDate": "Fri, 15 Sep 2023 23:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Project Azure FarmBeats will be retired on September 30, 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-maps-gen1-price-tier-retirement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-gen1-price-tier-retirement/",
+          "title": "Azure Maps Gen1 Price Tier will be retired on 15 September 2026 -- transition to Azure Maps Gen2 Price Tier",
+          "description": "Azure Maps Gen1 Price Tier will be retired on 15 September 2026",
+          "pubDate": "Fri, 15 Sep 2023 23:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Maps Gen1 Price Tier will be retired on 15 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "important-notice-azure-product-retirement-end-of-life-announcement-of-azure-sphere-classic-cli-on-30-september-2024-replace-w"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/important-notice-azure-product-retirement-end-of-life-announcement-of-azure-sphere-classic-cli-on-30-september-2024-replace-w/",
+          "title": "Important Notice: Azure Product Retirement: End of Life Announcement of Azure Sphere classic CLI on 30 September 2024. Replace with Azure Sphere CLI",
+          "description": "Azure Sphere support for Azure Sphere classic CLI will be retired on 30 September 2024",
+          "pubDate": "Fri, 15 Sep 2023 23:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Sphere support for Azure Sphere classic CLI will be retired on 30 September 2024"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3050,66 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "VGads V620 series virtual machines (VMs), now in public preview in the East US2, Europe west, and West US3 regions, enable service providers to build differentiated cloud gaming experiences."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-online-migrations-for-azure-database-for-mysql-instances"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-online-migrations-for-azure-database-for-mysql-instances/",
-          "title": "General Availability: Online migrations for Azure Database for MySQL instances",
-          "description": "Migrate your MySQL instances using Azure Database Migration Service with minimal downtime to Azure Database for MySQL – Flexible Server.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate your MySQL instances using Azure Database Migration Service with minimal downtime to Azure Database for MySQL – Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-mysql-extension-for-azure-data-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-mysql-extension-for-azure-data-studio/",
-          "title": "General availability: MySQL extension for Azure Data Studio",
-          "description": "Connect to, query, and develop for MySQL hosted on-premises or in the cloud with the MySQL extension for Azure Data Studio.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Connect to, query, and develop for MySQL hosted on-premises or in the cloud with the MySQL extension for Azure Data Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-confidential-virtual-machines-vm-support-in-azure-virtual-desktop"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-confidential-virtual-machines-vm-support-in-azure-virtual-desktop/",
-          "title": "Public preview: Confidential Virtual Machines (VM) support in Azure Virtual Desktop",
-          "description": "Users can now specify an AMD SEV-SNP based confidential VM for their Windows 11 Azure Virtual Desktop, allowing the execution of sensitive desktop workloads by protecting data in use.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Users can now specify an AMD SEV-SNP based confidential VM for their Windows 11 Azure Virtual Desktop, allowing the execution of sensitive desktop workloads by protecting data in use."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-monitor-container-insights-for-aks-cluster-with-arm64-nodes"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-container-insights-for-aks-cluster-with-arm64-nodes/",
-          "title": "Generally available: Azure Monitor container insights for AKS cluster with ARM64 nodes",
-          "description": "Azure Monitor container insights is now generally available for AKS clusters with ARM64 nodes.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor container insights is now generally available for AKS clusters with ARM64 nodes."
           },
           "content:encoded": null
         }
