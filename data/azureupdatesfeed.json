@@ -12,13 +12,78 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 18 Sep 2023 16:17:08 Z",
+      "lastBuildDate": "Mon, 18 Sep 2023 17:11:39 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "openai-whisper-model-in-preview-in-azure-openai-service-and-azure-ai-speech"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/openai-whisper-model-in-preview-in-azure-openai-service-and-azure-ai-speech/",
+          "title": "OpenAI Whisper model in preview in Azure OpenAI service and Azure AI Speech",
+          "description": "The OpenAI Whisper model has multi-lingual capabilities that offer precise and efficient transcription of human speech in 57 languages, and translation into English.",
+          "pubDate": "Mon, 18 Sep 2023 17:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The OpenAI Whisper model has multi-lingual capabilities that offer precise and efficient transcription of human speech in 57 languages, and translation into English."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-service-fabric-100-release"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-service-fabric-100-release/",
+          "title": "Azure Service Fabric 10.0 Release",
+          "description": "This release includes new features and quality improvements.",
+          "pubDate": "Mon, 18 Sep 2023 17:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "This release includes new features and quality improvements."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "authenticate-azure-monitor-logs-connector"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/authenticate-azure-monitor-logs-connector/",
+          "category": [
+            "Log Analytics",
+            "Azure Monitor",
+            "Application Insight"
+          ],
+          "title": "Authenticate Azure Monitor logs connector in Logic App with managed identity",
+          "description": "When you enable managed identity authentication in Logic App, and grant it permissions in Log Analytics workspace, or Application Insights component, you can query data without needing...",
+          "pubDate": "Mon, 18 Sep 2023 17:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "When you enable managed identity authentication in Logic App, and grant it permissions in Log Analytics workspace, or Application Insights component, you can query data without needing..."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-timeline-view-for-azure-monitor-alerts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-timeline-view-for-azure-monitor-alerts/",
+          "title": "Public preview: Alerts timeline view",
+          "description": "A new timeline view simplifies the consumption experience of fired alerts.",
+          "pubDate": "Mon, 18 Sep 2023 17:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "A new timeline view simplifies the consumption experience of fired alerts."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -918,21 +983,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
-          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
-          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
           },
           "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
@@ -942,6 +992,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
+          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
+          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
           },
           "content:encoded": null
         },
@@ -3056,66 +3121,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "HBv4-series VMs for HPC are now generally available in the Azure East US region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-vmware-solution-now-available-in-north-switzerland"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-north-switzerland/",
-          "title": "Azure VMware Solution now available in North Switzerland",
-          "description": "We are excited to announce that Azure VMware Solution has gone live in North Switzerland and is now available to customers.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are excited to announce that Azure VMware Solution has gone live in North Switzerland and is now available to customers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-assess-impact-of-service-retirements-workbook-template-in-azure-advisor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-assess-impact-of-service-retirements-workbook-template-in-azure-advisor/",
-          "title": "Public preview: Assess impact of service retirements using new workbook template in Azure Advisor",
-          "description": "Review upcoming service and feature retirements and their impact on your workloads using the new Service Retirement workbook template which is available in Azure Advisor.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Review upcoming service and feature retirements and their impact on your workloads using the new Service Retirement workbook template which is available in Azure Advisor."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-graphql-resolvers-for-azure-cosmos-db-azure-sql-in-azure-api-management"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-graphql-resolvers-for-azure-cosmos-db-azure-sql-in-azure-api-management/",
-          "title": "Public Preview: GraphQL resolvers for Azure Cosmos DB, Azure SQL in Azure API Management",
-          "description": "We are thrilled to announce the public preview of Azure Cosmos DB and Azure SQL resolvers for GraphQL in Azure API Management.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are thrilled to announce the public preview of Azure Cosmos DB and Azure SQL resolvers for GraphQL in Azure API Management."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-virtual-desktop-insights-powered-by-the-azure-monitor-agent"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-virtual-desktop-insights-powered-by-the-azure-monitor-agent/",
-          "title": "Azure Virtual Desktop Insights Powered by the Azure Monitor Agent",
-          "description": "Public preview of Azure Virtual Desktop Insights Powered by Azure Monitor Agent feature in Azure Virtual Desktop",
-          "pubDate": "Tue, 13 Jun 2023 17:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview of Azure Virtual Desktop Insights Powered by Azure Monitor Agent feature in Azure Virtual Desktop"
           },
           "content:encoded": null
         }
