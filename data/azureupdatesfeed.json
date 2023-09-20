@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 20 Sep 2023 16:17:27 Z",
+      "lastBuildDate": "Wed, 20 Sep 2023 17:11:48 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-opentelemetrybased-distro-for-nodejs-and-python"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-opentelemetrybased-distro-for-nodejs-and-python/",
+          "title": "Generally available: Azure Monitor OpenTelemetry-based Distro for Node.js and Python",
+          "description": "Use OpenTelemetry-based instrumentation with vender-neutral APIs to power metrics, logs, and distributed traces in Azure Monitor application insights.",
+          "pubDate": "Wed, 20 Sep 2023 17:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use OpenTelemetry-based instrumentation with vender-neutral APIs to power metrics, logs, and distributed traces in Azure Monitor application insights."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1949,9 +1964,9 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-route-server-hub-routing-preference"
+            "#text": "general-availability-route-server-hub-routing-preference"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
           "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
@@ -1964,9 +1979,9 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-route-server-hub-routing-preference"
+            "#text": "public-preview-route-server-hub-routing-preference"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
           "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
@@ -3113,21 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "HX-series VMs for HPC are now generally available in the Azure East US region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-hbv4-virtual-machines-for-hpc"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-hbv4-virtual-machines-for-hpc/",
-          "title": "General availability: Azure HBv4 Virtual Machines for HPC",
-          "description": "HBv4-series VMs for HPC are now generally available in the Azure East US region.",
-          "pubDate": "Tue, 13 Jun 2023 18:30:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "HBv4-series VMs for HPC are now generally available in the Azure East US region."
           },
           "content:encoded": null
         }
