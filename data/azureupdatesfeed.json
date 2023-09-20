@@ -12,13 +12,35 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 20 Sep 2023 14:12:55 Z",
+      "lastBuildDate": "Wed, 20 Sep 2023 15:13:24 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-github-advanced-security-for-azure-devops"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-github-advanced-security-for-azure-devops/",
+          "category": [
+            "Azure DevOps",
+            "GitHub Advanced Security",
+            "DevOps",
+            "AppSec",
+            "Security"
+          ],
+          "title": "General Availability: GitHub Advanced Security for Azure DevOps",
+          "description": "Learn how to enable GitHub Advanced Security for Azure DevOps code scanning, secret scanning, and dependency scanning in Azure DevOps and connect to Microsoft Defender for Cloud.",
+          "pubDate": "Wed, 20 Sep 2023 15:00:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Learn how to enable GitHub Advanced Security for Azure DevOps code scanning, secret scanning, and dependency scanning in Azure DevOps and connect to Microsoft Defender for Cloud."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -968,21 +990,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
-          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
-          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
@@ -992,6 +999,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
+          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
+          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
           },
           "content:encoded": null
         },
@@ -3106,21 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "HBv4-series VMs for HPC are now generally available in the Azure East US region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-vmware-solution-now-available-in-north-switzerland"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-vmware-solution-now-available-in-north-switzerland/",
-          "title": "Azure VMware Solution now available in North Switzerland",
-          "description": "We are excited to announce that Azure VMware Solution has gone live in North Switzerland and is now available to customers.",
-          "pubDate": "Tue, 13 Jun 2023 17:01:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are excited to announce that Azure VMware Solution has gone live in North Switzerland and is now available to customers."
           },
           "content:encoded": null
         }
