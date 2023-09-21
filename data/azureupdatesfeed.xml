@@ -6,11 +6,38 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Sep 2023 15:12:16 Z</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2023 16:16:09 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-update-manager-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-update-manager-ga/</link>
+      <category>Update Manager</category>
+      <category>Azure Update Manager</category>
+      <category>Hybrid</category>
+      <category>Management</category>
+      <category>Governance</category>
+      <title>Generally Available: Azure Update Manager</title>
+      <description>Azure Update Manager, previously known as Update Management Center, is now generally available.</description>
+      <pubDate>Thu, 21 Sep 2023 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">Azure Update Manager, previously known as Update Management Center, is now generally available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-web-pubsub-support-for-socketio</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-web-pubsub-support-for-socketio/</link>
+      <title>Public Preview:  Web PubSub support for Socket.IO</title>
+      <description>Use your preferred Socket.IO APIs, while letting Azure handle messages and scaling for you</description>
+      <pubDate>Thu, 21 Sep 2023 16:00:05 Z</pubDate>
+      <atom:content
+        type="text">Use your preferred Socket.IO APIs, while letting Azure handle messages and scaling for you</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-monitor-opentelemetrybased-distro-for-nodejs-and-python</guid>
@@ -748,17 +775,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
     </item>
     <item>
       <guid
-        isPermaLink="false">general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/</link>
-      <title>General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.</title>
-      <description>Avoid downtime and business interruptions by migrating your virtual machines to availability zones </description>
-      <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
-      <atom:content
-        type="text">Avoid downtime and business interruptions by migrating your virtual machines to availability zones </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">quick-create-azure-front-door-endpoints-for-storage-accounts</guid>
       <link>https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/</link>
       <title>Quick create Azure Front Door endpoints for Azure Storage accounts</title>
@@ -766,6 +782,17 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
       <atom:content
         type="text">Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/</link>
+      <title>General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.</title>
+      <description>Avoid downtime and business interruptions by migrating your virtual machines to availability zones </description>
+      <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
+      <atom:content
+        type="text">Avoid downtime and business interruptions by migrating your virtual machines to availability zones </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2291,28 +2318,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Wed, 14 Jun 2023 16:00:46 Z</pubDate>
       <atom:content
         type="text">The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-netapp-files-availability-zone-volume-placement-enhancement-populate-existing-volume</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-availability-zone-volume-placement-enhancement-populate-existing-volume/</link>
-      <title>Public Preview:  Azure NetApp Files Availability zone volume placement enhancement – Populate existing volume</title>
-      <description>Populate previously deployed, existing volumes with the logical availability zone information to enable failure domain protection for workloads in specific availability zones.</description>
-      <pubDate>Wed, 14 Jun 2023 16:00:36 Z</pubDate>
-      <atom:content
-        type="text">Populate previously deployed, existing volumes with the logical availability zone information to enable failure domain protection for workloads in specific availability zones.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-hx-virtual-machines-for-hpc</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-hx-virtual-machines-for-hpc/</link>
-      <title>General availability: Azure HX Virtual Machines for HPC  </title>
-      <description>HX-series VMs for HPC are now generally available in the Azure East US region. </description>
-      <pubDate>Tue, 13 Jun 2023 18:30:34 Z</pubDate>
-      <atom:content
-        type="text">HX-series VMs for HPC are now generally available in the Azure East US region. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
