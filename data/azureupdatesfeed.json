@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 21 Sep 2023 19:10:06 Z",
+      "lastBuildDate": "Thu, 21 Sep 2023 20:12:29 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-share-images-publicly-with-azure-compute-gallery-feature-community-gallery"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-share-images-publicly-with-azure-compute-gallery-feature-community-gallery/",
+          "category": [
+            "Virtual Machines",
+            "Virtual Machine Scale Sets",
+            "Management",
+            "Features"
+          ],
+          "title": "General Availability: Share VM images publicly with community gallery - Azure Compute Gallery feature",
+          "description": "With community gallery, you can now share VM images with the broader Azure community.",
+          "pubDate": "Thu, 21 Sep 2023 19:38:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With community gallery, you can now share VM images with the broader Azure community."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1042,21 +1063,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
-          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
-          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
@@ -1066,6 +1072,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
+          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
+          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
           },
           "content:encoded": null
         },
@@ -2001,9 +2022,9 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-route-server-hub-routing-preference"
+            "#text": "general-availability-route-server-hub-routing-preference"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
           "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
@@ -2016,9 +2037,9 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-route-server-hub-routing-preference"
+            "#text": "public-preview-route-server-hub-routing-preference"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-route-server-hub-routing-preference/",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
           "title": "Public preview: Route Server hub routing preference",
           "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
           "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
@@ -3116,25 +3137,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The new Azure Blob Storage SDK is now generally available for Go, allowing developers to build Go apps that interact with objects in Azure Blob Storage."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-event-hubs-sdk-for-go"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-event-hubs-sdk-for-go/",
-          "category": [
-            "Golang",
-            "Go"
-          ],
-          "title": "General availability: Azure Event Hubs SDK for Go",
-          "description": "The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs.",
-          "pubDate": "Wed, 14 Jun 2023 16:00:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs."
           },
           "content:encoded": null
         }
