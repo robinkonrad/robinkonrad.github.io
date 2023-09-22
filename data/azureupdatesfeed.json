@@ -12,13 +12,179 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 22 Sep 2023 22:11:30 Z",
+      "lastBuildDate": "Fri, 22 Sep 2023 23:12:14 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-for-aksengine-will-not-be-supported-on-14-september-2026/",
+          "category": "Retirements",
+          "title": "Azure Monitor for AKS-Engine will not be supported on 14 September 2026",
+          "description": "Azure Monitor for AKS-Engine will not be supported after 14 September 2026 - enable Azure Monitor to monitor AKS clusters migrated from AKS-Engine",
+          "pubDate": "Fri, 22 Sep 2023 23:00:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor for AKS-Engine will not be supported after 14 September 2026 - enable Azure Monitor to monitor AKS clusters migrated from AKS-Engine"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-will-be-retired-on-19-september-2025-migrate-to-azure-database-for-mysql-flexible-server/",
+          "title": "Azure Database for MariaDB will be retired on 19 September 2025 – Migrate to Azure Database for MySQL Flexible Server",
+          "description": "Azure Database for MariaDB will be retired on 19 September 2025",
+          "pubDate": "Fri, 22 Sep 2023 23:00:57 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Database for MariaDB will be retired on 19 September 2025"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-data-collection-api-retirement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-data-collection-api-retirement/",
+          "title": "Azure Monitor Data Collection API Retirement",
+          "description": "Support for Data Collector API feature is being discontinued. This feature allowed users to ingest custom logs into Log Analytics workspaces. DCR-based Log Ingestion API now provides similar capabilities with added flexibility of data transformation and support of secure authentication methods.",
+          "pubDate": "Fri, 22 Sep 2023 23:00:57 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Support for Data Collector API feature is being discontinued. This feature allowed users to ingest custom logs into Log Analytics workspaces. DCR-based Log Ingestion API now provides similar capabilities with added flexibility of data transformation and support of secure authentication methods."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/transition-to-using-standard-tests-for-singlestep-availability-testing-in-azure-monitor-application-insights-by-30-september/",
+          "title": "Transition to using standard tests for single-step availability testing in Azure Monitor application insights by 30 September 2026",
+          "description": "URL ping tests in the application insights feature will be retired on 30 September 2026.",
+          "pubDate": "Fri, 22 Sep 2023 23:00:56 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "URL ping tests in the application insights feature will be retired on 30 September 2026."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-maps-data-v1-v2-apis-will-be-retired-on-16-september-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-data-v1-v2-apis-will-be-retired-on-16-september-2024/",
+          "title": "Azure Maps Data V1 / V2 APIs will be retired on 16 September 2024 – transition to Azure Maps Data Registry APIs",
+          "description": "Azure Maps Data V1 / V2 APIs will be retired on 16 September 2024",
+          "pubDate": "Fri, 22 Sep 2023 23:00:56 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Maps Data V1 / V2 APIs will be retired on 16 September 2024"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-http-application-routing-addon-preview-for-aks-will-retire-03032025"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-http-application-routing-addon-preview-for-aks-will-retire-03032025/",
+          "title": "Retirement: HTTP application routing add-on (preview) for AKS will retire 03/03/2025",
+          "description": "Transition your ingresses to Web Application routing add-on before 3/3/2025 to avoid service disruptions.",
+          "pubDate": "Fri, 22 Sep 2023 23:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Transition your ingresses to Web Application routing add-on before 3/3/2025 to avoid service disruptions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-maps-render-v1-apis-will-be-retired-on-17-september-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-render-v1-apis-will-be-retired-on-17-september-2026/",
+          "title": "Azure Maps Render V1 APIs will be retired on 17 September 2026 – transition to Azure Maps Render V2 APIs",
+          "description": "Azure Maps Render V1 APIs will be retired on 17 September 2026",
+          "pubDate": "Fri, 22 Sep 2023 23:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Maps Render V1 APIs will be retired on 17 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-the-legacy-azure-storage-python-client-libraries-will-be-retired-on-13-september-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-the-legacy-azure-storage-python-client-libraries-will-be-retired-on-13-september-2024/",
+          "title": "Retirement notice: The legacy Azure Storage Python client libraries will be retired on 13 September 2024",
+          "description": "Upgrade to the latest version of the libraries before the Legacy Azure Storage Python client libraries are retired  on 13 September 2024.",
+          "pubDate": "Fri, 22 Sep 2023 23:00:49 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Upgrade to the latest version of the libraries before the Legacy Azure Storage Python client libraries are retired  on 13 September 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-the-azure-storage-ruby-client-libraries-will-be-retired-on-13-september-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-the-azure-storage-ruby-client-libraries-will-be-retired-on-13-september-2024/",
+          "title": "Retirement notice: The Azure Storage Ruby client libraries will be retired on 13 September 2024",
+          "description": "Azure Storage Ruby client libraries are being retired on 13 September 2024 - Transition to calling the Azure Storage REST API directly from your Ruby applications",
+          "pubDate": "Fri, 22 Sep 2023 23:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage Ruby client libraries are being retired on 13 September 2024 - Transition to calling the Azure Storage REST API directly from your Ruby applications"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-the-legacy-azure-storage-go-client-libraries-will-be-retired-on-13-september-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-the-legacy-azure-storage-go-client-libraries-will-be-retired-on-13-september-2024/",
+          "title": "Retirement notice: The legacy Azure Storage Go client libraries will be retired on 13 September 2024",
+          "description": "Upgrade to the latest version of the libraries before the Legacy Azure Storage Go client libraries are retired on 13 September 2024.",
+          "pubDate": "Fri, 22 Sep 2023 23:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Upgrade to the latest version of the libraries before the Legacy Azure Storage Go client libraries are retired on 13 September 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "videoindexer-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/videoindexer-2/",
+          "title": "Azure AI Video Indexer features adjustments following Media Services Retirement",
+          "description": "Azure AI Video Indexer classic accounts will be retired on 30 June 2024 due to Azure Media Service retirement - migrate your current resources to ARM accounts.",
+          "pubDate": "Fri, 22 Sep 2023 23:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure AI Video Indexer classic accounts will be retired on 30 June 2024 due to Azure Media Service retirement - migrate your current resources to ARM accounts."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2964,183 +3130,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Easily manage public-facing and private-facing traffic on a common port."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-double-encryption-atrest"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-double-encryption-atrest/",
-          "title": "Public Preview: Azure NetApp Files double encryption at-rest",
-          "description": "Azure NetApp Files now supports multiple encryption layers for increased data security.",
-          "pubDate": "Fri, 23 Jun 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files now supports multiple encryption layers for increased data security."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "network-observability-add-on"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/network-observability-add-on/",
-          "category": "#Azure Kubernetes Service (AKS) #Virtual Network #Azure Monitor #Features #Services #Container Networking",
-          "title": "Public Preview: Network Observability add-on on AKS",
-          "description": "Enable network observability add-on on AKS clusters to gain insights into how your cluster operate and to identify potential problems before they cause outages or performance degradation.",
-          "pubDate": "Thu, 22 Jun 2023 17:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable network observability add-on on AKS clusters to gain insights into how your cluster operate and to identify potential problems before they cause outages or performance degradation."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-version-2305"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2305/",
-          "title": "General Availability: Azure Sphere version 23.05",
-          "description": "The Azure Sphere version 23.05 release includes various new features and developer resources.",
-          "pubDate": "Wed, 21 Jun 2023 23:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Sphere version 23.05 release includes various new features and developer resources."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "adx-data-mappings-dropmappedfield"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/adx-data-mappings-dropmappedfield/",
-          "category": "kusto",
-          "title": "General availability: Introducing DropMappedField transformation for data mappings in Azure Data Explorer",
-          "description": "Azure Data Explorer has added a new capability called \"DropMappedField\" to its data mappings. This feature allows users to map an object in a JSON document to a column while removing any nested fields that are already referenced by other column mappings.",
-          "pubDate": "Tue, 20 Jun 2023 16:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Data Explorer has added a new capability called \"DropMappedField\" to its data mappings. This feature allows users to map an object in a JSON document to a column while removing any nested fields that are already referenced by other column mappings."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-premium-ssd-v2-disk-storage-in-southeast-asia-uk-south-south-central-us-and-west-us-3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-premium-ssd-v2-disk-storage-in-southeast-asia-uk-south-south-central-us-and-west-us-3/",
-          "title": "Generally available: Azure Premium SSD v2 Disk Storage in Southeast Asia, UK South, South Central US and West US 3",
-          "description": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance.",
-          "pubDate": "Mon, 19 Jun 2023 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "cosmos-db-adx-synapse-link-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/cosmos-db-adx-synapse-link-ga/",
-          "category": [
-            "adx",
-            "data-explorer",
-            "kusto",
-            "cosmosdb"
-          ],
-          "title": "Generally Available:  Azure Cosmos DB to Azure Data Explorer Synapse Link",
-          "description": "Now generally available:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time.",
-          "pubDate": "Mon, 19 Jun 2023 16:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now generally available:  managed ingestion from Azure Cosmos DB to Azure Data Explorer in near real time."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-notice-move-to-azure-load-testing-ga-api-versions-by-10-september-2023-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-move-to-azure-load-testing-ga-api-versions-by-10-september-2023-2/",
-          "title": "Retirement notice: Move to Azure Load Testing GA API versions by 10 September 2023",
-          "description": "Retirement notice: Move to Azure Load Testing GA API versions by 10 September 2023",
-          "pubDate": "Fri, 16 Jun 2023 23:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Retirement notice: Move to Azure Load Testing GA API versions by 10 September 2023"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-it-service-management-connector-itsmc-is-now-certified-with-servicenow-utah-version"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-it-service-management-connector-itsmc-is-now-certified-with-servicenow-utah-version/",
-          "title": "Public Preview: IT Service Management Connector (ITSMC) is now certified with ServiceNow Utah version",
-          "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Thu, 15 Jun 2023 20:59:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-queue-storage-sdk-for-go"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-queue-storage-sdk-for-go/",
-          "title": "General availability: Azure Queue Storage SDK for Go",
-          "description": "The new Azure Queue Storage SDK is now generally available for Go, allowing developers to build Go apps that can store and retrieve messages in Azure Queue Storage.",
-          "pubDate": "Wed, 14 Jun 2023 17:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new Azure Queue Storage SDK is now generally available for Go, allowing developers to build Go apps that can store and retrieve messages in Azure Queue Storage."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-blob-storage-sdk-for-go"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-blob-storage-sdk-for-go/",
-          "title": "General availability: Azure Blob Storage SDK for Go",
-          "description": "The new Azure Blob Storage SDK is now generally available for Go, allowing developers to build Go apps that interact with objects in Azure Blob Storage.",
-          "pubDate": "Wed, 14 Jun 2023 16:00:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new Azure Blob Storage SDK is now generally available for Go, allowing developers to build Go apps that interact with objects in Azure Blob Storage."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-event-hubs-sdk-for-go"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-event-hubs-sdk-for-go/",
-          "category": [
-            "Golang",
-            "Go"
-          ],
-          "title": "General availability: Azure Event Hubs SDK for Go",
-          "description": "The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs.",
-          "pubDate": "Wed, 14 Jun 2023 16:00:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new Azure Event Hubs SDK is now generally available for Go, allowing developers to build Go apps that send and receive events from Azure Event Hubs."
           },
           "content:encoded": null
         }
