@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 26 Sep 2023 16:17:12 Z",
+      "lastBuildDate": "Tue, 26 Sep 2023 17:11:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ungated-public-preview-azure-api-center"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ungated-public-preview-azure-api-center/",
+          "title": "Ungated Public Preview: Azure API Center",
+          "description": "We're thrilled to share that Azure API Center is now open for everyone to try during our ungated public preview!",
+          "pubDate": "Tue, 26 Sep 2023 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're thrilled to share that Azure API Center is now open for everyone to try during our ungated public preview!"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3114,21 +3129,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-default-rule-set-21-for-regional-waf-with-application-gateway"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-default-rule-set-21-for-regional-waf-with-application-gateway/",
-          "title": "Public Preview: Default Rule Set 2.1 for Regional WAF with Application Gateway",
-          "description": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now in preview on Azure's regional Web Application Firewall (WAF) with Application Gateway.",
-          "pubDate": "Thu, 29 Jun 2023 19:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now in preview on Azure's regional Web Application Firewall (WAF) with Application Gateway."
           },
           "content:encoded": null
         }
