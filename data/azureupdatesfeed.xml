@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Sep 2023 17:12:02 Z</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2023 18:17:00 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -134,13 +134,57 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-keda-addon-for-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-keda-addon-for-aks/</link>
-      <title>Generally Available: KEDA add-on for AKS </title>
-      <description>KEDA add-on makes it easier to scale your applications on AKS cluster. </description>
-      <pubDate>Wed, 27 Sep 2023 17:00:02 Z</pubDate>
+        isPermaLink="false">public-preview-azure-database-for-mysql-flexible-maintenance</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-maintenance/</link>
+      <title>Public preview: Azure Database for MySQL flexible maintenance  </title>
+      <description>Tailor your maintenance windows to suit your schedule with Azure MySQL flexible maintenance.</description>
+      <pubDate>Wed, 27 Sep 2023 16:00:03 Z</pubDate>
       <atom:content
-        type="text">KEDA add-on makes it easier to scale your applications on AKS cluster. </atom:content>
+        type="text">Tailor your maintenance windows to suit your schedule with Azure MySQL flexible maintenance.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-custom-partitioning-in-azure-synapse-link-for-azure-cosmos-db</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-custom-partitioning-in-azure-synapse-link-for-azure-cosmos-db/</link>
+      <title>Generally available: Custom partitioning in Azure Synapse Link for Azure Cosmos DB</title>
+      <description>You can now partition your data in analytical store using keys that are critical for your business logic to achieve better query and data load performance. </description>
+      <pubDate>Wed, 27 Sep 2023 16:00:03 Z</pubDate>
+      <atom:content
+        type="text">You can now partition your data in analytical store using keys that are critical for your business logic to achieve better query and data load performance. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-database-free-offer</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-database-free-offer/</link>
+      <title>Public Preview: Azure SQL Database free offer </title>
+      <description>Get one free serverless Azure SQL Database per subscription for the lifetime of the subscription.</description>
+      <pubDate>Wed, 27 Sep 2023 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">Get one free serverless Azure SQL Database per subscription for the lifetime of the subscription.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sql-updates-for-lateseptember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-lateseptember-2023/</link>
+      <title>General availability: Azure SQL updates for late-September 2023 </title>
+      <description>General availability enhancements and updates released for Azure SQL in late-September 2023.</description>
+      <pubDate>Wed, 27 Sep 2023 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in late-September 2023.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-additional-cache-sizes-for-azure-cache-for-redis-enterprise</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-additional-cache-sizes-for-azure-cache-for-redis-enterprise/</link>
+      <title>Public Preview: Additional cache sizes for Azure Cache for Redis Enterprise </title>
+      <description>Utilize additional Enterprise-tier cache sizes to optimize the price and performance of your Redis workload. </description>
+      <pubDate>Wed, 27 Sep 2023 16:00:01 Z</pubDate>
+      <atom:content
+        type="text">Utilize additional Enterprise-tier cache sizes to optimize the price and performance of your Redis workload. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2265,51 +2309,6 @@ We recently updated the Speech-to-text REST API to version 3.1. Version 3.1 buil
       <pubDate>Mon, 10 Jul 2023 16:00:14 Z</pubDate>
       <atom:content
         type="text">Azure Load Balancer support for cross-region load balancing is now generally available. You can now load balance across Azure regions enabling a globally redundant architecture via Azure Load Balancer. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">adx-external-tables</guid>
-      <link>https://azure.microsoft.com/en-us/updates/adx-external-tables/</link>
-      <category>kusto</category>
-      <title>General availability: Azure Data Explorer adds support for PostgreSQL, MySQL, and CosmosDB SQL external tables</title>
-      <description>Azure Data Explorer has released three new types of external tables: PostgrSQL, MySQL, and CosmosDB SQL. These new external tables allow users to query data from these sources directly within Azure Data Explorer using the Kusto Query Language (KQL).</description>
-      <pubDate>Mon, 10 Jul 2023 15:00:14 Z</pubDate>
-      <atom:content
-        type="text">Azure Data Explorer has released three new types of external tables: PostgrSQL, MySQL, and CosmosDB SQL. These new external tables allow users to query data from these sources directly within Azure Data Explorer using the Kusto Query Language (KQL).</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-virtual-network-encryption-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-virtual-network-encryption-2/</link>
-      <title>Public preview: Azure Virtual Network encryption</title>
-      <description>Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.</description>
-      <pubDate>Thu, 06 Jul 2023 16:00:17 Z</pubDate>
-      <atom:content
-        type="text">Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-service-fabric-90-tenth-refresh-release</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-service-fabric-90-tenth-refresh-release/</link>
-      <title>Azure Service Fabric 9.0 Tenth Refresh Release</title>
-      <description>This release includes bug fixes and quality improvements.</description>
-      <pubDate>Thu, 06 Jul 2023 00:00:09 Z</pubDate>
-      <atom:content
-        type="text">This release includes bug fixes and quality improvements.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-service-fabric-91-fifth-refresh-release</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-service-fabric-91-fifth-refresh-release/</link>
-      <title>Azure Service Fabric 9.1 Fifth Refresh Release</title>
-      <description>This release includes bug fixes and quality improvements.</description>
-      <pubDate>Thu, 06 Jul 2023 00:00:08 Z</pubDate>
-      <atom:content
-        type="text">This release includes bug fixes and quality improvements.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

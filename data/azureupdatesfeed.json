@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 27 Sep 2023 17:12:02 Z",
+      "lastBuildDate": "Wed, 27 Sep 2023 18:17:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -187,15 +187,75 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-keda-addon-for-aks"
+            "#text": "public-preview-azure-database-for-mysql-flexible-maintenance"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-keda-addon-for-aks/",
-          "title": "Generally Available: KEDA add-on for AKS",
-          "description": "KEDA add-on makes it easier to scale your applications on AKS cluster.",
-          "pubDate": "Wed, 27 Sep 2023 17:00:02 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-maintenance/",
+          "title": "Public preview: Azure Database for MySQL flexible maintenance",
+          "description": "Tailor your maintenance windows to suit your schedule with Azure MySQL flexible maintenance.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:03 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "KEDA add-on makes it easier to scale your applications on AKS cluster."
+            "#text": "Tailor your maintenance windows to suit your schedule with Azure MySQL flexible maintenance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-custom-partitioning-in-azure-synapse-link-for-azure-cosmos-db"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-custom-partitioning-in-azure-synapse-link-for-azure-cosmos-db/",
+          "title": "Generally available: Custom partitioning in Azure Synapse Link for Azure Cosmos DB",
+          "description": "You can now partition your data in analytical store using keys that are critical for your business logic to achieve better query and data load performance.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now partition your data in analytical store using keys that are critical for your business logic to achieve better query and data load performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-database-free-offer"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-database-free-offer/",
+          "title": "Public Preview: Azure SQL Database free offer",
+          "description": "Get one free serverless Azure SQL Database per subscription for the lifetime of the subscription.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Get one free serverless Azure SQL Database per subscription for the lifetime of the subscription."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-lateseptember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-lateseptember-2023/",
+          "title": "General availability: Azure SQL updates for late-September 2023",
+          "description": "General availability enhancements and updates released for Azure SQL in late-September 2023.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in late-September 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-additional-cache-sizes-for-azure-cache-for-redis-enterprise"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-additional-cache-sizes-for-azure-cache-for-redis-enterprise/",
+          "title": "Public Preview: Additional cache sizes for Azure Cache for Redis Enterprise",
+          "description": "Utilize additional Enterprise-tier cache sizes to optimize the price and performance of your Redis workload.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Utilize additional Enterprise-tier cache sizes to optimize the price and performance of your Redis workload."
           },
           "content:encoded": null
         },
@@ -3068,67 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Balancer support for cross-region load balancing is now generally available. You can now load balance across Azure regions enabling a globally redundant architecture via Azure Load Balancer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "adx-external-tables"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/adx-external-tables/",
-          "category": "kusto",
-          "title": "General availability: Azure Data Explorer adds support for PostgreSQL, MySQL, and CosmosDB SQL external tables",
-          "description": "Azure Data Explorer has released three new types of external tables: PostgrSQL, MySQL, and CosmosDB SQL. These new external tables allow users to query data from these sources directly within Azure Data Explorer using the Kusto Query Language (KQL).",
-          "pubDate": "Mon, 10 Jul 2023 15:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Data Explorer has released three new types of external tables: PostgrSQL, MySQL, and CosmosDB SQL. These new external tables allow users to query data from these sources directly within Azure Data Explorer using the Kusto Query Language (KQL)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-virtual-network-encryption-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-virtual-network-encryption-2/",
-          "title": "Public preview: Azure Virtual Network encryption",
-          "description": "Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.",
-          "pubDate": "Thu, 06 Jul 2023 16:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-service-fabric-90-tenth-refresh-release"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-service-fabric-90-tenth-refresh-release/",
-          "title": "Azure Service Fabric 9.0 Tenth Refresh Release",
-          "description": "This release includes bug fixes and quality improvements.",
-          "pubDate": "Thu, 06 Jul 2023 00:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "This release includes bug fixes and quality improvements."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-service-fabric-91-fifth-refresh-release"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-service-fabric-91-fifth-refresh-release/",
-          "title": "Azure Service Fabric 9.1 Fifth Refresh Release",
-          "description": "This release includes bug fixes and quality improvements.",
-          "pubDate": "Thu, 06 Jul 2023 00:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "This release includes bug fixes and quality improvements."
           },
           "content:encoded": null
         }
