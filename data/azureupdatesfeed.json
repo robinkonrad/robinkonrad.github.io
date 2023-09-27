@@ -12,13 +12,103 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 27 Sep 2023 15:13:51 Z",
+      "lastBuildDate": "Wed, 27 Sep 2023 16:17:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-communication-services-job-router"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-communication-services-job-router/",
+          "title": "Public Preview: Azure Communication Services Job Router",
+          "description": "Intelligent queueing and routing of inbound customer communications.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Intelligent queueing and routing of inbound customer communications."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-database-for-mysql-flexible-maintenance"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-maintenance/",
+          "title": "Public preview: Azure Database for MySQL flexible maintenance",
+          "description": "Tailor your maintenance windows to suit your schedule with Azure MySQL flexible maintenance.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Tailor your maintenance windows to suit your schedule with Azure MySQL flexible maintenance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-custom-partitioning-in-azure-synapse-link-for-azure-cosmos-db"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-custom-partitioning-in-azure-synapse-link-for-azure-cosmos-db/",
+          "title": "Generally available: Custom partitioning in Azure Synapse Link for Azure Cosmos DB",
+          "description": "You can now partition your data in analytical store using keys that are critical for your business logic to achieve better query and data load performance.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now partition your data in analytical store using keys that are critical for your business logic to achieve better query and data load performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-database-free-offer"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-database-free-offer/",
+          "title": "Public Preview: Azure SQL Database free offer",
+          "description": "Get one free serverless Azure SQL Database per subscription for the lifetime of the subscription.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Get one free serverless Azure SQL Database per subscription for the lifetime of the subscription."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-lateseptember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-lateseptember-2023/",
+          "title": "General availability: Azure SQL updates for late-September 2023",
+          "description": "General availability enhancements and updates released for Azure SQL in late-September 2023.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in late-September 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-additional-cache-sizes-for-azure-cache-for-redis-enterprise"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-additional-cache-sizes-for-azure-cache-for-redis-enterprise/",
+          "title": "Public Preview: Additional cache sizes for Azure Cache for Redis Enterprise",
+          "description": "Utilize additional Enterprise-tier cache sizes to optimize the price and performance of your Redis workload.",
+          "pubDate": "Wed, 27 Sep 2023 16:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Utilize additional Enterprise-tier cache sizes to optimize the price and performance of your Redis workload."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3039,96 +3129,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Today we announce an improvement to the table-level RBAC used to assign permissions to specific tables"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-monitor-application-insights-configurable-real-user-monitoring-for-java"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-application-insights-configurable-real-user-monitoring-for-java/",
-          "title": "Public preview: Azure Monitor application insights configurable Real User Monitoring for Java",
-          "description": "The new “browserSdkLoader” configuration in the Azure Monitor OpenTelemetry Java Distro makes it easier than ever to enable Real User Monitoring (RUM) in Application Insights.",
-          "pubDate": "Wed, 05 Jul 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new “browserSdkLoader” configuration in the Azure Monitor OpenTelemetry Java Distro makes it easier than ever to enable Real User Monitoring (RUM) in Application Insights."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-monitor-agent-health-experience"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-health-experience/",
-          "title": "Public preview: Azure Monitor Agent Health experience",
-          "description": "The Azure Monitor Agent Health experience is now available in preview. Identify data collection problems across your organization before they start impacting your business.",
-          "pubDate": "Wed, 05 Jul 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Monitor Agent Health experience is now available in preview. Identify data collection problems across your organization before they start impacting your business."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-monitor-agent-supports-vm-insights-in-azure-government-cloud"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-supports-vm-insights-in-azure-government-cloud/",
-          "title": "Public Preview: Azure Monitor Agent supports VM Insights in Azure Government Cloud",
-          "description": "Azure Government Cloud customers can now enable VM Insights via the new Azure Monitor Agent, to monitor the client workload on the VMs or VMSS.",
-          "pubDate": "Wed, 05 Jul 2023 16:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Government Cloud customers can now enable VM Insights via the new Azure Monitor Agent, to monitor the client workload on the VMs or VMSS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-sensitive-data-protection-for-application-gateway-web-application-firewall-logs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sensitive-data-protection-for-application-gateway-web-application-firewall-logs/",
-          "title": "Public preview: Sensitive Data Protection for Application Gateway Web Application Firewall logs",
-          "description": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) logs using log scrubbing on Azure’s regional Web Application Firewall running on Application Gateway.",
-          "pubDate": "Wed, 05 Jul 2023 16:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) logs using log scrubbing on Azure’s regional Web Application Firewall running on Application Gateway."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-native-new-relic-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-native-new-relic-service/",
-          "title": "General Availability: Azure Native New Relic Service",
-          "description": "Enable full stack cloud monitoring and leverage rich deep integration capabilities between Azure and New Relic, with Azure Native New Relic Service now generally available.",
-          "pubDate": "Mon, 03 Jul 2023 17:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable full stack cloud monitoring and leverage rich deep integration capabilities between Azure and New Relic, with Azure Native New Relic Service now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-archive-storage-now-available-in-sweden-central"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-sweden-central/",
-          "title": "General availability: Azure Archive Storage now available in Sweden Central",
-          "description": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions.",
-          "pubDate": "Mon, 03 Jul 2023 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Reduce spending by storing rarely accessed data to Azure Archive Storage, now in new regions."
           },
           "content:encoded": null
         }
