@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 28 Sep 2023 15:13:34 Z",
+      "lastBuildDate": "Thu, 28 Sep 2023 16:17:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-3"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-3/",
+          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in more regions",
+          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in China North 3, India Central, Switzerland North, South Africa North and Sweden Central regions..",
+          "pubDate": "Thu, 28 Sep 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in China North 3, India Central, Switzerland North, South Africa North and Sweden Central regions.."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3110,21 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL in early July 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-managed-lustre-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-managed-lustre-now-generally-available/",
-          "title": "Azure Managed Lustre now generally available",
-          "description": "Reduce infrastructure setup with a managed file system optimized for HPC and AI workloads.",
-          "pubDate": "Mon, 10 Jul 2023 16:55:56 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Reduce infrastructure setup with a managed file system optimized for HPC and AI workloads."
           },
           "content:encoded": null
         }
