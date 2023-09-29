@@ -10,7 +10,7 @@ authorLink: "https://robinkonrad.de"
 
 resources:
 - name: "featured-image"
-  src: "microsoft-certified-fundamentals-badge.svg"
+  src: "microsoft-certified-fundamentals-badge.png"
 
 tags: ["About", "Work"]
 categories: ["About Me"]
