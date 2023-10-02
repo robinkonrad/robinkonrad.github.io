@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Oct 2023 15:13:52 Z</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 16:17:19 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-log-alerts-support-for-azure-resource-graph-arg</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-resource-graph-arg/</link>
+      <category>Azure monitor</category>
+      <title>Public Preview: Azure Log Alerts support for Azure Resource Graph (ARG)</title>
+      <description>We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.</description>
+      <pubDate>Mon, 02 Oct 2023 16:00:12 Z</pubDate>
+      <atom:content
+        type="text">We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">action-required-retirement-of-get-alert-smart-groups-in-azure-monitor-6</guid>
@@ -284,17 +296,6 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
     </item>
     <item>
       <guid
-        isPermaLink="false">python38support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
-      <title>Extended support for Python 3.8 ends on October 2024  </title>
-      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
-      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
-      <atom:content
-        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">python-opencensus-retirement</guid>
       <link>https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/</link>
       <title>Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro</title>
@@ -302,6 +303,17 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
       <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
       <atom:content
         type="text">Azure Monitor support for OpenCensus will end on 30 September 2024 </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">python38support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
+      <title>Extended support for Python 3.8 ends on October 2024  </title>
+      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
+      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
+      <atom:content
+        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2301,17 +2313,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Mon, 31 Jul 2023 16:00:05 Z</pubDate>
       <atom:content
         type="text">Review cost optimization insights for your Azure environment and identify savings using the new Cost Optimization workbook template in Azure Advisor. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">default-tls-policy-2022</guid>
-      <link>https://azure.microsoft.com/en-us/updates/default-tls-policy-2022/</link>
-      <title>Updated default TLS policy for Azure Application Gateway</title>
-      <description>The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101. </description>
-      <pubDate>Thu, 27 Jul 2023 16:00:05 Z</pubDate>
-      <atom:content
-        type="text">The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

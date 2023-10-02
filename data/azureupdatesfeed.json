@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 02 Oct 2023 15:13:52 Z",
+      "lastBuildDate": "Mon, 02 Oct 2023 16:17:19 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-log-alerts-support-for-azure-resource-graph-arg"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-resource-graph-arg/",
+          "category": "Azure monitor",
+          "title": "Public Preview: Azure Log Alerts support for Azure Resource Graph (ARG)",
+          "description": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.",
+          "pubDate": "Mon, 02 Oct 2023 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -367,21 +383,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "python38support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/python38support/",
-          "title": "Extended support for Python 3.8 ends on October 2024",
-          "description": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9",
-          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "python-opencensus-retirement"
           },
           "link": "https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/",
@@ -391,6 +392,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor support for OpenCensus will end on 30 September 2024"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "python38support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/python38support/",
+          "title": "Extended support for Python 3.8 ends on October 2024",
+          "description": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9",
+          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9"
           },
           "content:encoded": null
         },
@@ -3098,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Review cost optimization insights for your Azure environment and identify savings using the new Cost Optimization workbook template in Azure Advisor."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "default-tls-policy-2022"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/default-tls-policy-2022/",
-          "title": "Updated default TLS policy for Azure Application Gateway",
-          "description": "The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101.",
-          "pubDate": "Thu, 27 Jul 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The default TLS policy for new deployments of Azure Application Gateway is now set to AppGwSslPolicy20220101."
           },
           "content:encoded": null
         }
