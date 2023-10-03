@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 03 Oct 2023 00:58:59 Z",
+      "lastBuildDate": "Tue, 03 Oct 2023 01:54:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now take advantage of Azure savings plan pricing for Azure Container Apps."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-log-alerts-support-for-azure-resource-graph-arg"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-resource-graph-arg/",
+          "category": "Azure monitor",
+          "title": "Public Preview: Azure Log Alerts support for Azure Resource Graph (ARG)",
+          "description": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.",
+          "pubDate": "Mon, 02 Oct 2023 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query."
           },
           "content:encoded": null
         },
@@ -382,21 +398,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "python-opencensus-retirement"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/",
-          "title": "Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro",
-          "description": "Azure Monitor support for OpenCensus will end on 30 September 2024",
-          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor support for OpenCensus will end on 30 September 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "python38support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/python38support/",
@@ -406,6 +407,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "python-opencensus-retirement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/",
+          "title": "Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro",
+          "description": "Azure Monitor support for OpenCensus will end on 30 September 2024",
+          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor support for OpenCensus will end on 30 September 2024"
           },
           "content:encoded": null
         },
@@ -3099,21 +3115,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The first ISV next-generation firewall service natively integrated in Azure is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-assess-cost-optimization-opportunities-using-new-workbook-template-in-azure-advisor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-assess-cost-optimization-opportunities-using-new-workbook-template-in-azure-advisor/",
-          "title": "Public preview: Assess cost optimization opportunities using new workbook template in Azure Advisor",
-          "description": "Review cost optimization insights for your Azure environment and identify savings using the new Cost Optimization workbook template in Azure Advisor.",
-          "pubDate": "Mon, 31 Jul 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Review cost optimization insights for your Azure environment and identify savings using the new Cost Optimization workbook template in Azure Advisor."
           },
           "content:encoded": null
         }
