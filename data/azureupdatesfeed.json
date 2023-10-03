@@ -12,13 +12,61 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 03 Oct 2023 15:14:13 Z",
+      "lastBuildDate": "Tue, 03 Oct 2023 16:17:31 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-backup-mua-backup-vaults-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-ga/",
+          "category": "= AzurePortal",
+          "title": "Generally Available: Multi-user authorisation for Backup vaults",
+          "description": "Multi-user authorization provides enhanced protection for your backup data against unauthorized critical operations.",
+          "pubDate": "Tue, 03 Oct 2023 16:00:27 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Multi-user authorization provides enhanced protection for your backup data against unauthorized critical operations."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-backup-enhanced-soft-delete-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-ga/",
+          "category": "= AzurePortal",
+          "title": "Generally available: Enhanced soft delete for Azure Backup",
+          "description": "Enhanced soft delete helps you recover your backup data even after it has been deleted, giving you protection against data loss scenarios like ransomwares, malicious actors, and accidental deletes.",
+          "pubDate": "Tue, 03 Oct 2023 16:00:26 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enhanced soft delete helps you recover your backup data even after it has been deleted, giving you protection against data loss scenarios like ransomwares, malicious actors, and accidental deletes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-data-explorer-addon-for-splunk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-addon-for-splunk/",
+          "category": "Azure Data Explorer",
+          "title": "Public Preview: Azure Data Explorer Add-On for Splunk",
+          "description": "Azure Data Explorer Add-On for Splunk (Public Preview)",
+          "pubDate": "Tue, 03 Oct 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer Add-On for Splunk (Public Preview)"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3070,51 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-route-server-hub-routing-preference"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
-          "title": "Public preview: Route Server hub routing preference",
-          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:15:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "enhanced-security-and-compliance-addon-for-azure-databricks-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/enhanced-security-and-compliance-addon-for-azure-databricks-now-generally-available/",
-          "title": "Enhanced Security and Compliance add-on for Azure Databricks now Generally Available",
-          "description": "Enhanced Security and Compliance (ESC) add-on helps simplify the complexity of meeting security and regulatory requirements for Azure Databricks customers.",
-          "pubDate": "Tue, 01 Aug 2023 15:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enhanced Security and Compliance (ESC) add-on helps simplify the complexity of meeting security and regulatory requirements for Azure Databricks customers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-cloud-nextgeneration-firewall-ngfw-by-palo-alto-networks-an-azure-native-isv-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-cloud-nextgeneration-firewall-ngfw-by-palo-alto-networks-an-azure-native-isv-service/",
-          "title": "Generally available: Cloud Next-Generation Firewall (NGFW) by Palo Alto Networks - an Azure Native ISV Service",
-          "description": "The first ISV next-generation firewall service natively integrated in Azure is now generally available.",
-          "pubDate": "Mon, 31 Jul 2023 16:02:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The first ISV next-generation firewall service natively integrated in Azure is now generally available."
           },
           "content:encoded": null
         }

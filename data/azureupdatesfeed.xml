@@ -6,11 +6,47 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Oct 2023 15:14:13 Z</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 16:17:31 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-backup-mua-backup-vaults-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-ga/</link>
+      <category>= AzurePortal</category>
+      <title>Generally Available: Multi-user authorisation for Backup vaults</title>
+      <description>Multi-user authorization provides enhanced protection for your backup data against unauthorized critical operations.</description>
+      <pubDate>Tue, 03 Oct 2023 16:00:27 Z</pubDate>
+      <atom:content
+        type="text">Multi-user authorization provides enhanced protection for your backup data against unauthorized critical operations.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-backup-enhanced-soft-delete-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-ga/</link>
+      <category>= AzurePortal</category>
+      <title>Generally available: Enhanced soft delete for Azure Backup</title>
+      <description>Enhanced soft delete helps you recover your backup data even after it has been deleted, giving you protection against data loss scenarios like ransomwares, malicious actors, and accidental deletes.</description>
+      <pubDate>Tue, 03 Oct 2023 16:00:26 Z</pubDate>
+      <atom:content
+        type="text">Enhanced soft delete helps you recover your backup data even after it has been deleted, giving you protection against data loss scenarios like ransomwares, malicious actors, and accidental deletes.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-data-explorer-addon-for-splunk</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-addon-for-splunk/</link>
+      <category>Azure Data Explorer</category>
+      <title>Public Preview: Azure Data Explorer Add-On for Splunk</title>
+      <description>Azure Data Explorer Add-On for Splunk (Public Preview)</description>
+      <pubDate>Tue, 03 Oct 2023 16:00:15 Z</pubDate>
+      <atom:content
+        type="text">Azure Data Explorer Add-On for Splunk (Public Preview)</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-azure-container-apps-savings-plan-support</guid>
@@ -2281,39 +2317,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Tue, 01 Aug 2023 17:15:22 Z</pubDate>
       <atom:content
         type="text">Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-route-server-hub-routing-preference</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/</link>
-      <title>Public preview: Route Server hub routing preference</title>
-      <description>Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</description>
-      <pubDate>Tue, 01 Aug 2023 16:15:37 Z</pubDate>
-      <atom:content
-        type="text">Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">enhanced-security-and-compliance-addon-for-azure-databricks-now-generally-available</guid>
-      <link>https://azure.microsoft.com/en-us/updates/enhanced-security-and-compliance-addon-for-azure-databricks-now-generally-available/</link>
-      <title>Enhanced Security and Compliance add-on for Azure Databricks now Generally Available</title>
-      <description>Enhanced Security and Compliance (ESC) add-on helps simplify the complexity of meeting security and regulatory requirements for Azure Databricks customers.</description>
-      <pubDate>Tue, 01 Aug 2023 15:00:20 Z</pubDate>
-      <atom:content
-        type="text">Enhanced Security and Compliance (ESC) add-on helps simplify the complexity of meeting security and regulatory requirements for Azure Databricks customers.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-cloud-nextgeneration-firewall-ngfw-by-palo-alto-networks-an-azure-native-isv-service</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-cloud-nextgeneration-firewall-ngfw-by-palo-alto-networks-an-azure-native-isv-service/</link>
-      <title>Generally available: Cloud Next-Generation Firewall (NGFW) by Palo Alto Networks - an Azure Native ISV Service</title>
-      <description>The first ISV next-generation firewall service natively integrated in Azure is now generally available.</description>
-      <pubDate>Mon, 31 Jul 2023 16:02:35 Z</pubDate>
-      <atom:content
-        type="text">The first ISV next-generation firewall service natively integrated in Azure is now generally available.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
