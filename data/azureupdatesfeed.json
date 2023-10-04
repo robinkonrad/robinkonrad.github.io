@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 04 Oct 2023 15:13:58 Z",
+      "lastBuildDate": "Wed, 04 Oct 2023 16:17:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "upgrade-your-existing-azure-gen2-vms-to-trusted-launch"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/upgrade-your-existing-azure-gen2-vms-to-trusted-launch/",
+          "category": [
+            "Security",
+            "Compliance",
+            "Virtual Machines",
+            "Trusted Launch"
+          ],
+          "title": "General Availability: Upgrade your existing Azure Gen2 VMs to Trusted Launch",
+          "description": "Enable Trusted Launch foundational compute security on existing Azure Generation 2 VMs.",
+          "pubDate": "Wed, 04 Oct 2023 16:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable Trusted Launch foundational compute security on existing Azure Generation 2 VMs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2164,21 +2185,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
-          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
-          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
@@ -2188,6 +2194,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
+          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
+          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
           },
           "content:encoded": null
         },
@@ -3102,21 +3123,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Work with JSON-style documents synced across multiple regions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "containerinsightscostoptimization"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/containerinsightscostoptimization/",
-          "title": "Generally Available: Azure Monitor container insights offers customizable cost optimization settings",
-          "description": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.",
-          "pubDate": "Tue, 01 Aug 2023 17:15:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion."
           },
           "content:encoded": null
         }
