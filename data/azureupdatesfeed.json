@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 04 Oct 2023 14:13:12 Z",
+      "lastBuildDate": "Wed, 04 Oct 2023 15:13:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-microsoft-azure-now-available-from-new-cloud-region-in-italy"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-italy/",
+          "title": "General availability: Microsoft Azure now available from new cloud region in Italy",
+          "description": "Microsoft launched its first cloud region in Italy.",
+          "pubDate": "Wed, 04 Oct 2023 15:07:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft launched its first cloud region in Italy."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3102,21 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-route-server-hub-routing-preference"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-route-server-hub-routing-preference/",
-          "title": "Public preview: Route Server hub routing preference",
-          "description": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs.",
-          "pubDate": "Tue, 01 Aug 2023 16:30:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Configure hub routing preference to influence path selection for the same on-premises destination prefixes learned over (S2S) VPN, ExpressRoute, and SD-WAN NVAs."
           },
           "content:encoded": null
         }
