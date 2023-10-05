@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 05 Oct 2023 14:12:01 Z",
+      "lastBuildDate": "Thu, 05 Oct 2023 15:13:51 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-announcing-microsoft-playwright-testing-service-scalable-endtoend-testing-for-modern-web-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-announcing-microsoft-playwright-testing-service-scalable-endtoend-testing-for-modern-web-apps/",
+          "category": "AzurePortal",
+          "title": "Public preview: Announcing Microsoft Playwright Testing service: Scalable end-to-end testing for modern web apps",
+          "description": "Now in preview: Microsoft Playwright Testing, a new service for running Playwright tests easily at scale. \n\nPlaywright, a fast-growing, open-source framework, enables reliable end-to-end testing and automation for modern web apps. Microsoft Playwright Testing service uses the cloud, enabling you to simultaneously run Playwright tests with much higher parallelization across different operating system-browser combinations. Learn more https://aka.ms/MPT/about",
+          "pubDate": "Thu, 05 Oct 2023 15:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now in preview: Microsoft Playwright Testing, a new service for running Playwright tests easily at scale. \n\nPlaywright, a fast-growing, open-source framework, enables reliable end-to-end testing and automation for modern web apps. Microsoft Playwright Testing service uses the cloud, enabling you to simultaneously run Playwright tests with much higher parallelization across different operating system-browser combinations. Learn more https://aka.ms/MPT/about"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3103,21 +3119,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-json-support-for-active-georeplication-on-azure-cache-for-redis"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-json-support-for-active-georeplication-on-azure-cache-for-redis/",
-          "title": "General availability: JSON support for active geo-replication on Azure Cache for Redis",
-          "description": "Work with JSON-style documents synced across multiple regions",
-          "pubDate": "Wed, 02 Aug 2023 15:00:34 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Work with JSON-style documents synced across multiple regions"
           },
           "content:encoded": null
         }
