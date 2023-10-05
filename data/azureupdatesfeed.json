@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 05 Oct 2023 17:11:43 Z",
+      "lastBuildDate": "Thu, 05 Oct 2023 18:17:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-backup-and-restore-over-azure-virtual-network"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-backup-and-restore-over-azure-virtual-network/",
+          "title": "App Service: Backup and Restore over Azure Virtual Network",
+          "description": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.",
+          "pubDate": "Thu, 05 Oct 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability enhancements and updates released for Azure SQL in early-August 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-public-preview-updates-for-earlyaugust-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-earlyaugust-2023/",
-          "title": "Public preview: Azure SQL updates for early-August 2023",
-          "description": "Public preview enhancements and updates released for Azure SQL in early-August 2023",
-          "pubDate": "Wed, 02 Aug 2023 15:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in early-August 2023"
           },
           "content:encoded": null
         }
