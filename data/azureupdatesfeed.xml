@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Oct 2023 16:17:56 Z</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2023 17:11:43 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">iot-hub-cosmos-db-endpoint</guid>
+      <link>https://azure.microsoft.com/en-us/updates/iot-hub-cosmos-db-endpoint/</link>
+      <category>Azure Cosmos DB</category>
+      <title>Generally Available: Add an Azure Cosmos DB custom endpoint in Azure IoT Hub</title>
+      <description>Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly. </description>
+      <pubDate>Thu, 05 Oct 2023 17:00:19 Z</pubDate>
+      <atom:content
+        type="text">Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-customermanaged-keys-for-azure-netapp-files-volume-encryption-is-now-available-in-us-gov-regions-preview</guid>
@@ -381,17 +393,6 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
     </item>
     <item>
       <guid
-        isPermaLink="false">python38support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
-      <title>Extended support for Python 3.8 ends on October 2024  </title>
-      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
-      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
-      <atom:content
-        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">python-opencensus-retirement</guid>
       <link>https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/</link>
       <title>Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro</title>
@@ -399,6 +400,17 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
       <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
       <atom:content
         type="text">Azure Monitor support for OpenCensus will end on 30 September 2024 </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">python38support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
+      <title>Extended support for Python 3.8 ends on October 2024  </title>
+      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
+      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
+      <atom:content
+        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2311,17 +2323,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Wed, 02 Aug 2023 15:00:36 Z</pubDate>
       <atom:content
         type="text">Public preview enhancements and updates released for Azure SQL in early-August 2023</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-intraaccount-container-copy-in-azure-cosmos-db-for-mongodb-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-intraaccount-container-copy-in-azure-cosmos-db-for-mongodb-2/</link>
-      <title>Public Preview: Intra-account collection copy in Azure Cosmos DB for MongoDB</title>
-      <description>With intra-account collection copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</description>
-      <pubDate>Wed, 02 Aug 2023 15:00:35 Z</pubDate>
-      <atom:content
-        type="text">With intra-account collection copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
