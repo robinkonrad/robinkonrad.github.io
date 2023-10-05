@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 05 Oct 2023 01:55:52 Z",
+      "lastBuildDate": "Thu, 05 Oct 2023 02:23:07 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-microsoft-azure-now-available-from-new-cloud-region-in-italy"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-italy/",
+          "title": "General availability: Microsoft Azure now available from new cloud region in Italy",
+          "description": "Microsoft launched its first cloud region in Italy.",
+          "pubDate": "Wed, 04 Oct 2023 15:07:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft launched its first cloud region in Italy."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -386,21 +401,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "computer-vision-api-retirements-13-9-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
-          "title": "Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026",
-          "description": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
           },
           "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
@@ -410,6 +410,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to App Service Environment v3 by 31 August 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "computer-vision-api-retirements-13-9-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
+          "title": "Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026",
+          "description": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
           },
           "content:encoded": null
         },
@@ -446,21 +461,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "python38support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/python38support/",
-          "title": "Extended support for Python 3.8 ends on October 2024",
-          "description": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9",
-          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "python-opencensus-retirement"
           },
           "link": "https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/",
@@ -470,6 +470,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor support for OpenCensus will end on 30 September 2024"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "python38support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/python38support/",
+          "title": "Extended support for Python 3.8 ends on October 2024",
+          "description": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9",
+          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9"
           },
           "content:encoded": null
         },
@@ -3103,21 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Work with JSON-style documents synced across multiple regions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "containerinsightscostoptimization"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/containerinsightscostoptimization/",
-          "title": "Generally Available: Azure Monitor container insights offers customizable cost optimization settings",
-          "description": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion.",
-          "pubDate": "Tue, 01 Aug 2023 17:15:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor container insights now allows customers to configure custom collection settings for the Perf, Inventory, InsightsMetrics, and KubeEvents tables to reduce their Log Analytics ingestion."
           },
           "content:encoded": null
         }
