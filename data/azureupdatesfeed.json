@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 05 Oct 2023 15:13:51 Z",
+      "lastBuildDate": "Thu, 05 Oct 2023 16:17:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-customermanaged-keys-for-azure-netapp-files-volume-encryption-is-now-available-in-us-gov-regions-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-netapp-files-volume-encryption-is-now-available-in-us-gov-regions-preview/",
+          "title": "Public Preview: Customer-managed keys for Azure NetApp Files volume encryption is now available in US Gov regions (Preview)",
+          "description": "Customer keys are protected from attacks for maximum security of their Azure NetApp File volumes; the feature is now available in US Gov regions (Preview)",
+          "pubDate": "Thu, 05 Oct 2023 16:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customer keys are protected from attacks for maximum security of their Azure NetApp File volumes; the feature is now available in US Gov regions (Preview)"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -477,21 +492,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "python-opencensus-retirement"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/",
-          "title": "Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro",
-          "description": "Azure Monitor support for OpenCensus will end on 30 September 2024",
-          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor support for OpenCensus will end on 30 September 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "python38support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/python38support/",
@@ -501,6 +501,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "python-opencensus-retirement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/",
+          "title": "Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro",
+          "description": "Azure Monitor support for OpenCensus will end on 30 September 2024",
+          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor support for OpenCensus will end on 30 September 2024"
           },
           "content:encoded": null
         },
@@ -3104,21 +3119,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "With intra-account collection copy in the Azure Cosmos DB API for MongoDB you can migrate data from one collection to another in an offline manner."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-major-version-upgrade-in-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-major-version-upgrade-in-azure-database-for-postgresql-flexible-server/",
-          "title": "General Availability: Major version upgrade in Azure Database for PostgreSQL – Flexible Server",
-          "description": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server.",
-          "pubDate": "Wed, 02 Aug 2023 15:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Eliminate the need to set up new servers and complete manual upgrades with in-place major version upgrade for Azure Database for PostgreSQL – Flexible Server."
           },
           "content:encoded": null
         }
