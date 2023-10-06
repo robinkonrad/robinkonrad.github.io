@@ -12,13 +12,133 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 06 Oct 2023 22:11:47 Z",
+      "lastBuildDate": "Fri, 06 Oct 2023 23:12:20 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "migrate-to-azure-resource-manager-control-plane-api-version-20211101-by-30-september-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-resource-manager-control-plane-api-version-20211101-by-30-september-2026/",
+          "title": "Migrate to Azure Resource Manager control plane API version 2021-11-01 by 30 September 2026",
+          "description": "Older control plane APIs in Azure Service Bus, Azure Event Hubs, and Azure Relay will be retired.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:48 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Older control plane APIs in Azure Service Bus, Azure Event Hubs, and Azure Relay will be retired."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-bing-speech-will-be-retired-on-3-november-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-bing-speech-will-be-retired-on-3-november-2023/",
+          "title": "Retirement notice: Bing Speech will be retired on 3 November 2023",
+          "description": "Migrate from Bing Speech to Speech Services and the Speech SDK by 3 November 2023",
+          "pubDate": "Fri, 06 Oct 2023 23:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate from Bing Speech to Speech Services and the Speech SDK by 3 November 2023"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurecosmosdb-notebooks-retirement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurecosmosdb-notebooks-retirement/",
+          "title": "Azure Cosmos DB built-in Jupyter notebooks will be retired March 30, 2024",
+          "description": "On 30 March 2024, the Azure Cosmos DB preview of built-in Jupyter notebooks will be retired. If you’re using notebooks to interact with your Azure Cosmos DB account, transition to run these notebooks using Visual Studio Code’s support for Jupyter notebooks, or your preferred notebooks client.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "On 30 March 2024, the Azure Cosmos DB preview of built-in Jupyter notebooks will be retired. If you’re using notebooks to interact with your Azure Cosmos DB account, transition to run these notebooks using Visual Studio Code’s support for Jupyter notebooks, or your preferred notebooks client."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-activity-logs-legacy-solution-is-replaced-by-diagnostic-settings/",
+          "title": "Azure Activity Logs Legacy solution is replaced by Diagnostic settings",
+          "description": "Deprecation of Azure Activity Logs legacy solution and auto migration",
+          "pubDate": "Fri, 06 Oct 2023 23:00:32 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Deprecation of Azure Activity Logs legacy solution and auto migration"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "support-for-tls-1011-on-azure-cache-for-redis-ending-on-30-september-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/support-for-tls-1011-on-azure-cache-for-redis-ending-on-30-september-2024/",
+          "title": "Support for TLS 1.0/1.1 on Azure Cache for Redis ending on 30 September 2024",
+          "description": "Azure Cache for Redis support for TLS 1.0/1.1 will be retired on 30 September 2024.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Cache for Redis support for TLS 1.0/1.1 will be retired on 30 September 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "aml-explanation-fairness-retirement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/aml-explanation-fairness-retirement/",
+          "title": "Support for Azure Machine Learning Explanation and Fairness Dashboards is ending on 14 March 2025",
+          "description": "The Explanation and Fairness Dashboard will be retired on 14 March 2025, please transition to the Responsible AI Dashboard (generally available) by that date.  The Responsible AI dashboard will have feature parity and new additional features. You can still create and view the Explanation and Fairness dashboards with our open-source offerings (InterpretML and Fairlearn respectively), which are free for public use on GitHub and will continue to be maintained.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Explanation and Fairness Dashboard will be retired on 14 March 2025, please transition to the Responsible AI Dashboard (generally available) by that date.  The Responsible AI dashboard will have feature parity and new additional features. You can still create and view the Explanation and Fairness dashboards with our open-source offerings (InterpretML and Fairlearn respectively), which are free for public use on GitHub and will continue to be maintained."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
+          "title": "Migrate to Azure Monitor agent–based VM insights by 31 August 2024",
+          "description": "Log Analytics agent–based VM insights will be retired.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Log Analytics agent–based VM insights will be retired."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
+          "title": "Some Azure Service Bus SDK libraries will be retired on 30 September 2026—migrate to the latest SDKs",
+          "description": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -463,21 +583,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "computer-vision-api-retirements-13-9-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
-          "title": "Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026",
-          "description": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
           },
           "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
@@ -487,6 +592,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to App Service Environment v3 by 31 August 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "computer-vision-api-retirements-13-9-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
+          "title": "Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026",
+          "description": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
           },
           "content:encoded": null
         },
@@ -2994,132 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing now supports managing tests and test runs from Azure CLI"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-run-tests-with-100000-virtual-users"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-run-tests-with-100000-virtual-users/",
-          "category": "Azure Load Testing",
-          "title": "Azure Load Testing: Run tests with 100,000 virtual users",
-          "description": "Azure Load Testing now supports running tests with 100,000 virtual users, using up to 400 engine instances.",
-          "pubDate": "Thu, 03 Aug 2023 15:00:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports running tests with 100,000 virtual users, using up to 400 engine instances."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-jboss-eap-on-app-service-clustering"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-jboss-eap-on-app-service-clustering/",
-          "category": [
-            "JBoss EAP",
-            "Azure App Service",
-            "Features"
-          ],
-          "title": "General availability: JBoss EAP on App Service Clustering",
-          "description": "JBoss EAP on App Service clustering is now generally available on Azure, enabling automatic, efficient clustering and auto-scaling for your high-availability applications.",
-          "pubDate": "Thu, 03 Aug 2023 15:00:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "JBoss EAP on App Service clustering is now generally available on Azure, enabling automatic, efficient clustering and auto-scaling for your high-availability applications."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "private-preview-dr-for-shared-disks-azure-site-recovery"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/private-preview-dr-for-shared-disks-azure-site-recovery/",
-          "title": "Private Preview – DR for Shared Disks – Azure Site Recovery",
-          "description": "Now you can protect, monitor, and recover your WSFC-clusters as a single unit across its DR Lifecycle, while also generating cluster-consistent recovery points – which are consistent across all the disks (including the Shared Disk) of the cluster.",
-          "pubDate": "Thu, 03 Aug 2023 08:00:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can protect, monitor, and recover your WSFC-clusters as a single unit across its DR Lifecycle, while also generating cluster-consistent recovery points – which are consistent across all the disks (including the Shared Disk) of the cluster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-august-2023-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-august-2023-updates/",
-          "title": "Azure Red Hat OpenShift August 2023 updates",
-          "description": "Azure Red Hat OpenShift is now DoD IL4 certified, allows you to deploy infrastructure nodes without an OpenShift subscription fee, and provides increased security by allowing private clusters without public IP.",
-          "pubDate": "Wed, 02 Aug 2023 17:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Red Hat OpenShift is now DoD IL4 certified, allows you to deploy infrastructure nodes without an OpenShift subscription fee, and provides increased security by allowing private clusters without public IP."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-east-asia"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-east-asia/",
-          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in East Asia",
-          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in East Asia",
-          "pubDate": "Wed, 02 Aug 2023 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in East Asia"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-autoscale-iops-in-azure-database-for-mysql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-autoscale-iops-in-azure-database-for-mysql-flexible-server/",
-          "title": "General availability: Autoscale IOPS in Azure Database for MySQL – Flexible Server",
-          "description": "Effortlessly scale your storage IOPS to match workload demands with the autoscale IOPS feature in Azure Database for MySQL - Flexible Server.",
-          "pubDate": "Wed, 02 Aug 2023 15:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Effortlessly scale your storage IOPS to match workload demands with the autoscale IOPS feature in Azure Database for MySQL - Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-postgresql-15-support-with-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-postgresql-15-support-with-azure-database-for-postgresql-flexible-server/",
-          "title": "General availability: PostgreSQL 15 support in Azure Database for PostgreSQL – Flexible Server",
-          "description": "Azure Database for PostgreSQL - Flexible Server now provides support for PostgreSQL 15 across all Azure regions.",
-          "pubDate": "Wed, 02 Aug 2023 15:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Database for PostgreSQL - Flexible Server now provides support for PostgreSQL 15 across all Azure regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sql-general-availability-updates-for-earlyaugust-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-earlyaugust-2023/",
-          "title": "General availability: Azure SQL updates for early-August 2023",
-          "description": "General availability enhancements and updates released for Azure SQL in early-August 2023.",
-          "pubDate": "Wed, 02 Aug 2023 15:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL in early-August 2023."
           },
           "content:encoded": null
         }
