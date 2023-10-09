@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 09 Oct 2023 15:14:26 Z",
+      "lastBuildDate": "Mon, 09 Oct 2023 16:17:43 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-chaos-studio-querybased-dynamic-targets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-querybased-dynamic-targets/",
+          "title": "Public Preview: Azure Chaos Studio has Query-Based Dynamic Targets",
+          "description": "Azure Chaos Studio has Query-Based Dynamic Targets.",
+          "pubDate": "Mon, 09 Oct 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio has Query-Based Dynamic Targets."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3098,22 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing now enables running tests for durations up to 24 hours."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-create-and-manage-tests-and-test-runs-using-azure-cli"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-create-and-manage-tests-and-test-runs-using-azure-cli/",
-          "category": "AzureLoadTesting",
-          "title": "Azure Load Testing: Create and manage tests and test runs using Azure CLI",
-          "description": "Azure Load Testing now supports managing tests and test runs from Azure CLI",
-          "pubDate": "Thu, 03 Aug 2023 15:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports managing tests and test runs from Azure CLI"
           },
           "content:encoded": null
         }
