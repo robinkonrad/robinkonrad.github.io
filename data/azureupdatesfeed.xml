@@ -6,11 +6,49 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2023 15:14:00 Z</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 16:17:40 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azurefilessupportforunicodecharacters</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azurefilessupportforunicodecharacters/</link>
+      <category>Storage</category>
+      <category>AzureStorage</category>
+      <category>AzureFiles</category>
+      <title>Azure Files has been improved to support all valid Unicode characters </title>
+      <description>Azure Files now supports an expanded character set enabling file and directory names with all valid Unicode characters.</description>
+      <pubDate>Tue, 10 Oct 2023 16:00:08 Z</pubDate>
+      <atom:content
+        type="text">Azure Files now supports an expanded character set enabling file and directory names with all valid Unicode characters.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">expressroute-traffic-collector-is-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/expressroute-traffic-collector-is-now-generally-available/</link>
+      <title>ExpressRoute Traffic Collector is now generally available </title>
+      <description>Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit.
+</description>
+      <pubDate>Tue, 10 Oct 2023 16:00:07 Z</pubDate>
+      <atom:content
+        type="text">Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit.
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">lsa-payload-update-for-fixes-on-15jan</guid>
+      <link>https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/</link>
+      <title>LSA payload update for fixes on 15-Jan</title>
+      <description>On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.</description>
+      <pubDate>Tue, 10 Oct 2023 16:00:06 Z</pubDate>
+      <atom:content
+        type="text">On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-azure-chaos-studio-querybased-dynamic-targets</guid>
@@ -518,17 +556,6 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
     </item>
     <item>
       <guid
-        isPermaLink="false">python38support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
-      <title>Extended support for Python 3.8 ends on October 2024  </title>
-      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
-      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
-      <atom:content
-        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">python-opencensus-retirement</guid>
       <link>https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/</link>
       <title>Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro</title>
@@ -536,6 +563,17 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
       <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
       <atom:content
         type="text">Azure Monitor support for OpenCensus will end on 30 September 2024 </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">python38support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
+      <title>Extended support for Python 3.8 ends on October 2024  </title>
+      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
+      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
+      <atom:content
+        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2288,39 +2326,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Fri, 04 Aug 2023 15:00:04 Z</pubDate>
       <atom:content
         type="text">Azure Load Testing now supports JMeter backend listeners, so you can now configure a backend listener to export load test results to a data store, of your choice.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-netapp-files-smb-continuous-availability-ca-shares</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-smb-continuous-availability-ca-shares/</link>
-      <title>General availability | Azure NetApp Files: SMB Continuous Availability (CA) shares</title>
-      <description>Azure NetApp Files SMB Continuous Availability (CA) shares is now Generally Available (GA) </description>
-      <pubDate>Thu, 03 Aug 2023 18:00:02 Z</pubDate>
-      <atom:content
-        type="text">Azure NetApp Files SMB Continuous Availability (CA) shares is now Generally Available (GA) </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-chaos-studio-is-now-available-in-southeast-asia-region</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-is-now-available-in-southeast-asia-region/</link>
-      <title>Public Preview: Azure Chaos Studio is now available in Southeast Asia region</title>
-      <description>Azure Chaos Studio is now available in Southeast Asia region.</description>
-      <pubDate>Thu, 03 Aug 2023 16:00:51 Z</pubDate>
-      <atom:content
-        type="text">Azure Chaos Studio is now available in Southeast Asia region.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-chaos-studio-supports-new-faults-for-app-service-and-virtual-machines</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-supports-new-faults-for-app-service-and-virtual-machines/</link>
-      <title>Public Preview: Azure Chaos Studio supports new faults for App Service and Virtual Machines</title>
-      <description>Azure Chaos Studio supports new App Service and Virtual Machine faults.</description>
-      <pubDate>Thu, 03 Aug 2023 16:00:50 Z</pubDate>
-      <atom:content
-        type="text">Azure Chaos Studio supports new App Service and Virtual Machine faults.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
