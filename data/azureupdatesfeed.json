@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 11 Oct 2023 16:17:43 Z",
+      "lastBuildDate": "Wed, 11 Oct 2023 17:12:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "private-preview-regional-disaster-recovery-by-azure-backup-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/private-preview-regional-disaster-recovery-by-azure-backup-for-aks/",
+          "title": "Private Preview: Regional Disaster Recovery by Azure Backup for AKS",
+          "description": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario.",
+          "pubDate": "Wed, 11 Oct 2023 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2507,21 +2522,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
-          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
-          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
           },
           "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
@@ -2531,6 +2531,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
+          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
+          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
           },
           "content:encoded": null
         },
@@ -3107,21 +3122,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "This article describes the improvements for the latest version of Azure Site Recovery components."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-more-regions-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-more-regions-2/",
-          "title": "Generally available: Azure Premium SSD v2 Disk Storage is now available in more regions",
-          "description": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance.",
-          "pubDate": "Thu, 10 Aug 2023 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance."
           },
           "content:encoded": null
         }
