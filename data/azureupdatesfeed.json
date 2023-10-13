@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 13 Oct 2023 01:00:08 Z",
+      "lastBuildDate": "Fri, 13 Oct 2023 01:57:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-dedicated-host-resize"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-dedicated-host-resize/",
+          "category": "ADH",
+          "title": "Generally Available: Azure Dedicated Host - Resize",
+          "description": "Resize capability for Azure dedicated hosts is now generally available",
+          "pubDate": "Thu, 12 Oct 2023 16:00:34 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Resize capability for Azure dedicated hosts is now generally available"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3112,21 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Application Gateway introduces more response codes to configure the custom error pages."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "wordpress-on-app-service-integration-with-azure-communication-services-email"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/wordpress-on-app-service-integration-with-azure-communication-services-email/",
-          "title": "WordPress on App Service: Integration with Azure Communication Services Email",
-          "description": "Facilitates communication and drives engagement without requiring 3rd party plugins",
-          "pubDate": "Thu, 10 Aug 2023 16:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Facilitates communication and drives engagement without requiring 3rd party plugins"
           },
           "content:encoded": null
         }
