@@ -12,13 +12,32 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 17 Oct 2023 21:11:38 Z",
+      "lastBuildDate": "Tue, 17 Oct 2023 22:12:24 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-vmss-automatic-instance-repairs-reimage-restart-repair-actions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-vmss-automatic-instance-repairs-reimage-restart-repair-actions/",
+          "category": [
+            "Features",
+            "VMSS"
+          ],
+          "title": "Public Preview: VMSS Automatic Instance Repairs - Reimage, Restart Repair Actions",
+          "description": "New recovery options available on automatic instance repairs provides the capability for less-disruptive repair actions on sensitive workloads.",
+          "pubDate": "Tue, 17 Oct 2023 21:59:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "New recovery options available on automatic instance repairs provides the capability for less-disruptive repair actions on sensitive workloads."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2593,21 +2612,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
-          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
-          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
@@ -2617,6 +2621,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
+          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
+          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
           },
           "content:encoded": null
         },
@@ -3117,21 +3136,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Resource Health and Embedded Firewall Workbooks are now in public preview."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-new-monitoring-and-logging-updates-in-azure-firewall"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-new-monitoring-and-logging-updates-in-azure-firewall/",
-          "title": "General availability: New Monitoring and Logging Updates in Azure Firewall",
-          "description": "Structured Logs and Latency Probe Metric are now in general availability.",
-          "pubDate": "Mon, 14 Aug 2023 16:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Structured Logs and Latency Probe Metric are now in general availability."
           },
           "content:encoded": null
         }
