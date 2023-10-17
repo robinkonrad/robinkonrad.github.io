@@ -12,43 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 17 Oct 2023 16:17:25 Z",
+      "lastBuildDate": "Tue, 17 Oct 2023 17:11:53 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-general-availability-for-october"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-october/",
-          "title": "Azure Machine Learning - General Availability for October",
-          "description": "Three features now available in GA enable you to streamline your network isolation experience, deploy your model locally prior to production, and automate the ML lifecycle without accruing extra compute hours or requiring manual intervention.",
-          "pubDate": "Mon, 16 Oct 2023 17:00:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in GA enable you to streamline your network isolation experience, deploy your model locally prior to production, and automate the ML lifecycle without accruing extra compute hours or requiring manual intervention."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-october"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-october/",
-          "title": "Azure Machine Learning - Public Preview for October",
-          "description": "Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning.",
-          "pubDate": "Mon, 16 Oct 2023 17:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -373,7 +343,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
           "title": "Migrate to Azure Monitor agent–based VM insights by 31 August 2024",
           "description": "Log Analytics agent–based VM insights will be retired.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:14 Z",
+          "pubDate": "Fri, 06 Oct 2023 23:00:11 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics agent–based VM insights will be retired."
@@ -2117,7 +2087,7 @@
           "category": "AzureLoadTesting",
           "title": "Configure load testing in your CI/CD pipeline from Azure portal",
           "description": "Configure load testing in your CI/CD pipeline from Azure portal in just a few steps.",
-          "pubDate": "Tue, 12 Sep 2023 15:00:23 Z",
+          "pubDate": "Tue, 12 Sep 2023 15:00:14 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure load testing in your CI/CD pipeline from Azure portal in just a few steps."
@@ -2148,7 +2118,7 @@
           "category": "kusto",
           "title": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
           "description": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.",
-          "pubDate": "Mon, 11 Sep 2023 15:00:47 Z",
+          "pubDate": "Mon, 11 Sep 2023 15:00:46 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs."
@@ -2211,7 +2181,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-storage-updates-expanded-regions-and-performance-options/",
           "title": "Public Preview: Azure Container Storage Updates: Expanded regions and performance options",
           "description": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs.",
-          "pubDate": "Thu, 07 Sep 2023 17:00:27 Z",
+          "pubDate": "Thu, 07 Sep 2023 17:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs."
@@ -3060,13 +3030,29 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
+          "category": "Azure NetApp Files",
+          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
+          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
+          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-azure-load-testing-in-japan-east-and-brazil-south"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/",
           "category": "AzureLoadTesting",
           "title": "Generally available: Azure Load Testing in Japan East and Brazil South",
           "description": "Azure Load Testing is in generally available in Japan East and Brazil South.",
-          "pubDate": "Tue, 15 Aug 2023 22:49:49 Z",
+          "pubDate": "Tue, 15 Aug 2023 16:00:50 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing is in generally available in Japan East and Brazil South."
@@ -3081,26 +3067,10 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-mv3-medium-memory-virtual-machines/",
           "title": "Public preview: Azure Mv3 Medium Memory (MM) Virtual Machines",
           "description": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.",
-          "pubDate": "Tue, 15 Aug 2023 22:39:23 Z",
+          "pubDate": "Tue, 15 Aug 2023 15:00:50 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
-          "category": "Azure NetApp Files",
-          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
-          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
-          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
           },
           "content:encoded": null
         },
@@ -3132,6 +3102,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Cross Region Restore for PostgreSQL backups fore Azure Backup customers is now supported and is available in multiple public regions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "new-monitoring-and-logging-updates-in-azure-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/new-monitoring-and-logging-updates-in-azure-firewall/",
+          "title": "Public preview: New Monitoring and Logging Updates in Azure Firewall",
+          "description": "Resource Health and Embedded Firewall Workbooks are now in public preview.",
+          "pubDate": "Mon, 14 Aug 2023 16:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Resource Health and Embedded Firewall Workbooks are now in public preview."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-new-monitoring-and-logging-updates-in-azure-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-new-monitoring-and-logging-updates-in-azure-firewall/",
+          "title": "General availability: New Monitoring and Logging Updates in Azure Firewall",
+          "description": "Structured Logs and Latency Probe Metric are now in general availability.",
+          "pubDate": "Mon, 14 Aug 2023 16:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Structured Logs and Latency Probe Metric are now in general availability."
           },
           "content:encoded": null
         }
