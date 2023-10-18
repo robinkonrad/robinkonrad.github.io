@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Oct 2023 23:12:36 Z</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 00:59:00 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -22,6 +22,28 @@
       <pubDate>Tue, 17 Oct 2023 21:59:51 Z</pubDate>
       <atom:content
         type="text">New recovery options available on automatic instance repairs provides the capability for less-disruptive repair actions on sensitive workloads. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-general-availability-for-october</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-october/</link>
+      <title>Azure Machine Learning - General Availability for October </title>
+      <description>Three features now available in GA enable you to streamline your network isolation experience, deploy your model locally prior to production, and automate the ML lifecycle without accruing extra compute hours or requiring manual intervention. </description>
+      <pubDate>Mon, 16 Oct 2023 17:00:32 Z</pubDate>
+      <atom:content
+        type="text">Three features now available in GA enable you to streamline your network isolation experience, deploy your model locally prior to production, and automate the ML lifecycle without accruing extra compute hours or requiring manual intervention. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-for-october</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-october/</link>
+      <title>Azure Machine Learning - Public Preview for October </title>
+      <description>Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning. </description>
+      <pubDate>Mon, 16 Oct 2023 17:00:31 Z</pubDate>
+      <atom:content
+        type="text">Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1949,17 +1971,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
     </item>
     <item>
       <guid
-        isPermaLink="false">quick-create-azure-front-door-endpoints-for-storage-accounts</guid>
-      <link>https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/</link>
-      <title>Quick create Azure Front Door endpoints for Azure Storage accounts</title>
-      <description>Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin </description>
-      <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
-      <atom:content
-        type="text">Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/</link>
       <title>General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.</title>
@@ -1967,6 +1978,17 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
       <atom:content
         type="text">Avoid downtime and business interruptions by migrating your virtual machines to availability zones </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">quick-create-azure-front-door-endpoints-for-storage-accounts</guid>
+      <link>https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/</link>
+      <title>Quick create Azure Front Door endpoints for Azure Storage accounts</title>
+      <description>Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin </description>
+      <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
+      <atom:content
+        type="text">Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2311,28 +2333,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Mon, 14 Aug 2023 19:00:38 Z</pubDate>
       <atom:content
         type="text">Help API is now Generally Available! Help API provides you relevant and high-quality, self-help solutions to resolve issues with your Azure resource quickly and conveniently.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-backup-now-supports-cross-region-restore-for-postgresql-backups</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-backup-now-supports-cross-region-restore-for-postgresql-backups/</link>
-      <title>Public Preview: Azure Backup now supports Cross Region Restore for PostgreSQL backups</title>
-      <description>Cross Region Restore for PostgreSQL backups fore Azure Backup customers is now supported and is available in multiple public regions. </description>
-      <pubDate>Mon, 14 Aug 2023 18:00:37 Z</pubDate>
-      <atom:content
-        type="text">Cross Region Restore for PostgreSQL backups fore Azure Backup customers is now supported and is available in multiple public regions. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">new-monitoring-and-logging-updates-in-azure-firewall</guid>
-      <link>https://azure.microsoft.com/en-us/updates/new-monitoring-and-logging-updates-in-azure-firewall/</link>
-      <title>Public preview: New Monitoring and Logging Updates in Azure Firewall </title>
-      <description>Resource Health and Embedded Firewall Workbooks are now in public preview. </description>
-      <pubDate>Mon, 14 Aug 2023 16:00:37 Z</pubDate>
-      <atom:content
-        type="text">Resource Health and Embedded Firewall Workbooks are now in public preview. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
