@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 19 Oct 2023 16:17:19 Z",
+      "lastBuildDate": "Thu, 19 Oct 2023 17:11:51 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -22,31 +22,16 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "default-outbound-access-for-vms-in-azure-will-be-retired-updates-and-more-information"
+            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-norway-east-uae-north-regions"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-updates-and-more-information/",
-          "title": "Default outbound access for VMs in Azure will be retired— updates and more information",
-          "description": "Default outbound access connectivity for virtual machines will be retired in September 2025 -- updates and more information",
-          "pubDate": "Thu, 19 Oct 2023 16:00:13 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-norway-east-uae-north-regions/",
+          "category": "AzurePortal",
+          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in more regions",
+          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Norway East and UAE North regions.",
+          "pubDate": "Thu, 19 Oct 2023 17:00:14 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Default outbound access connectivity for virtual machines will be retired in September 2025 -- updates and more information"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-of-azure-ai-content-safety"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-of-azure-ai-content-safety/",
-          "category": "Azure AI",
-          "title": "General Availability: Azure AI Content Safety",
-          "description": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio",
-          "pubDate": "Wed, 18 Oct 2023 16:00:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio"
+            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Norway East and UAE North regions."
           },
           "content:encoded": null
         },
@@ -182,6 +167,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-open-ai-use-your-data-integration-with-azure-cosmos-db-for-mongodb-vcore"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-use-your-data-integration-with-azure-cosmos-db-for-mongodb-vcore/",
+          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
+          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
+          "pubDate": "Wed, 11 Oct 2023 16:00:31 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
           },
           "content:encoded": null
         },
@@ -408,7 +408,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
           "title": "Migrate to Azure Monitor agent–based VM insights by 31 August 2024",
           "description": "Log Analytics agent–based VM insights will be retired.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:11 Z",
+          "pubDate": "Fri, 06 Oct 2023 23:00:14 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics agent–based VM insights will be retired."
@@ -604,6 +604,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "action-required-retirement-of-get-alert-smart-groups-in-azure-monitor-6"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/action-required-retirement-of-get-alert-smart-groups-in-azure-monitor-6/",
+          "title": "Action required: Retirement of “Get Alert Smart groups” in Azure Monitor",
+          "description": "The GetSmartGroups  API will be retired on 30 September 2026",
+          "pubDate": "Sat, 30 Sep 2023 00:20:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The GetSmartGroups  API will be retired on 30 September 2026"
           },
           "content:encoded": null
         },
@@ -880,21 +895,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
-          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "computer-vision-api-retirements-13-9-2026"
           },
           "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
@@ -904,6 +904,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
+          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
+          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
           },
           "content:encoded": null
         },
@@ -2137,7 +2152,7 @@
           "category": "AzureLoadTesting",
           "title": "Configure load testing in your CI/CD pipeline from Azure portal",
           "description": "Configure load testing in your CI/CD pipeline from Azure portal in just a few steps.",
-          "pubDate": "Tue, 12 Sep 2023 15:00:14 Z",
+          "pubDate": "Tue, 12 Sep 2023 15:00:23 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure load testing in your CI/CD pipeline from Azure portal in just a few steps."
@@ -2168,7 +2183,7 @@
           "category": "kusto",
           "title": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
           "description": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.",
-          "pubDate": "Mon, 11 Sep 2023 15:00:46 Z",
+          "pubDate": "Mon, 11 Sep 2023 15:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs."
@@ -2231,7 +2246,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-storage-updates-expanded-regions-and-performance-options/",
           "title": "Public Preview: Azure Container Storage Updates: Expanded regions and performance options",
           "description": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs.",
-          "pubDate": "Thu, 07 Sep 2023 17:00:36 Z",
+          "pubDate": "Thu, 07 Sep 2023 17:00:27 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs."
@@ -3080,29 +3095,13 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
-          "category": "Azure NetApp Files",
-          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
-          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
-          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-azure-load-testing-in-japan-east-and-brazil-south"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/",
           "category": "AzureLoadTesting",
           "title": "Generally available: Azure Load Testing in Japan East and Brazil South",
           "description": "Azure Load Testing is in generally available in Japan East and Brazil South.",
-          "pubDate": "Tue, 15 Aug 2023 16:00:50 Z",
+          "pubDate": "Tue, 15 Aug 2023 22:49:49 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing is in generally available in Japan East and Brazil South."
@@ -3117,7 +3116,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-mv3-medium-memory-virtual-machines/",
           "title": "Public preview: Azure Mv3 Medium Memory (MM) Virtual Machines",
           "description": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines.",
-          "pubDate": "Tue, 15 Aug 2023 15:00:50 Z",
+          "pubDate": "Tue, 15 Aug 2023 22:39:23 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines."
@@ -3127,16 +3126,16 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-help-api-provides-access-to-selfhelp-diagnostics"
+            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-help-api-provides-access-to-selfhelp-diagnostics/",
-          "category": "Azure Portal",
-          "title": "General Availability : Help API provides access to self-help diagnostics",
-          "description": "Help API is now Generally Available! Help API provides you relevant and high-quality, self-help solutions to resolve issues with your Azure resource quickly and conveniently.",
-          "pubDate": "Mon, 14 Aug 2023 19:00:38 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
+          "category": "Azure NetApp Files",
+          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
+          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
+          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Help API is now Generally Available! Help API provides you relevant and high-quality, self-help solutions to resolve issues with your Azure resource quickly and conveniently."
+            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
           },
           "content:encoded": null
         }
