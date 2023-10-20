@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 20 Oct 2023 06:17:47 Z",
+      "lastBuildDate": "Fri, 20 Oct 2023 07:12:15 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -47,6 +47,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Default outbound access connectivity for virtual machines will be retired in September 2025 -- updates and more information"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-of-azure-ai-content-safety"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-of-azure-ai-content-safety/",
+          "category": "Azure AI",
+          "title": "General Availability: Azure AI Content Safety",
+          "description": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio",
+          "pubDate": "Wed, 18 Oct 2023 16:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio"
           },
           "content:encoded": null
         },
@@ -182,21 +198,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-open-ai-use-your-data-integration-with-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-use-your-data-integration-with-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
-          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
-          "pubDate": "Wed, 11 Oct 2023 16:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
           },
           "content:encoded": null
         },
@@ -619,21 +620,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "action-required-retirement-of-get-alert-smart-groups-in-azure-monitor-6"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/action-required-retirement-of-get-alert-smart-groups-in-azure-monitor-6/",
-          "title": "Action required: Retirement of “Get Alert Smart groups” in Azure Monitor",
-          "description": "The GetSmartGroups  API will be retired on 30 September 2026",
-          "pubDate": "Sat, 30 Sep 2023 00:20:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The GetSmartGroups  API will be retired on 30 September 2026"
           },
           "content:encoded": null
         },
@@ -3135,6 +3121,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Get improved performance and higher reliability for your memory-optimized workloads with the public preview of the new generation Mv3 Medium Memory (MM) Virtual Machines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
+          "category": "Azure NetApp Files",
+          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
+          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
+          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
           },
           "content:encoded": null
         }
