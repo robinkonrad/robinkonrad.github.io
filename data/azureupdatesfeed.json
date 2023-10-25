@@ -12,13 +12,163 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 25 Oct 2023 15:13:19 Z",
+      "lastBuildDate": "Wed, 25 Oct 2023 16:16:48 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-standard-storage-with-cool-access"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-storage-with-cool-access/",
+          "title": "Public preview: Azure NetApp Files standard storage with cool access",
+          "description": "Azure NetApp Files standard storage with cool access is now in public preview. With the new cool access feature, you can enable standard volumes with the ability to transparently store data more cost-effectively on Azure storage accounts based on its access pattern.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files standard storage with cool access is now in public preview. With the new cool access feature, you can enable standard volumes with the ability to transparently store data more cost-effectively on Azure storage accounts based on its access pattern."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "protect-sql-server-2014-workloads-with-extended-security-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/protect-sql-server-2014-workloads-with-extended-security-updates/",
+          "title": "Protect SQL Server 2014 workloads with Extended Security Updates",
+          "description": "SQL Server 2014 will reach its end of ten-year product lifecycle on July 9th, 2024. To provide you with the flexibility to stay secure while you plan for the future, we are announcing SQL Server 2014 Extended Security Updates.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "SQL Server 2014 will reach its end of ten-year product lifecycle on July 9th, 2024. To provide you with the flexibility to stay secure while you plan for the future, we are announcing SQL Server 2014 Extended Security Updates."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-builtin-azure-monitor-alerts-for-azure-site-recovery"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-builtin-azure-monitor-alerts-for-azure-site-recovery/",
+          "title": "Public preview: Built-in Azure Monitor alerts for Azure Site Recovery",
+          "description": "Learn about the new and improved alerting capabilities offered for Azure Site Recovery, via Azure Monitor",
+          "pubDate": "Wed, 25 Oct 2023 16:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Learn about the new and improved alerting capabilities offered for Azure Site Recovery, via Azure Monitor"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-storage-autogrow-online-disk-scaling-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-storage-autogrow-online-disk-scaling-for-azure-database-for-postgresql-flexible-server/",
+          "title": "General availability: Storage auto-grow & online disk scaling for Azure Database for PostgreSQL - Flexible Server",
+          "description": "With auto-grow enabled, Azure Database for PostgreSQL - Flexible Server will automatically increase the size of your provisioned storage.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With auto-grow enabled, Azure Database for PostgreSQL - Flexible Server will automatically increase the size of your provisioned storage."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/",
+          "title": "General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server",
+          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.4, 14.9, 13.12, 12.16, 11.21.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.4, 14.9, 13.12, 12.16, 11.21."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-flush-data-operation-for-azure-cache-for-redis"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-flush-data-operation-for-azure-cache-for-redis/",
+          "title": "Public preview: Flush data operation for Azure Cache for Redis",
+          "description": "Basic, Standard, and Premium tier caches now support a built-in flush operation that can be started as a management operation.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Basic, Standard, and Premium tier caches now support a built-in flush operation that can be started as a management operation."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-synapse-link-for-existing-mongodb-collections"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-synapse-link-for-existing-mongodb-collections/",
+          "title": "General availability: Azure Synapse Link for existing MongoDB collections",
+          "description": "Azure Synapse Link for Azure Cosmos DB enables near real time analytics, now available for existing MongoDB collections in Azure Cosmos DB for Mongo DB.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Synapse Link for Azure Cosmos DB enables near real time analytics, now available for existing MongoDB collections in Azure Cosmos DB for Mongo DB."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-update-channel-for-basic-standard-and-premium-caches"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-update-channel-for-basic-standard-and-premium-caches/",
+          "title": "Public preview: Update channel for Basic, Standard and Premium Caches",
+          "description": "Receive early updates by configuring the update channel for your Basic, Standard and Premium tier cache instances.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Receive early updates by configuring the update channel for your Basic, Standard and Premium tier cache instances."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-synapse-link-compatibility-with-cosmos-db-continuous-backup"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-link-compatibility-with-cosmos-db-continuous-backup/",
+          "title": "Public Preview: Azure Synapse Link compatibility with Cosmos DB continuous backup",
+          "description": "Now Azure Cosmos DB customers using continuous backup can enable Synapse Link in their database accounts.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now Azure Cosmos DB customers using continuous backup can enable Synapse Link in their database accounts."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-postgresql-16-production-support-in-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-postgresql-16-production-support-in-azure-cosmos-db-for-postgresql/",
+          "title": "General availability: PostgreSQL 16 production support in Azure Cosmos DB for PostgreSQL",
+          "description": "You can now choose PostgreSQL 16 when creating PostgreSQL clusters in Azure Cosmos DB for PostgreSQL, a managed service for distributed Postgres database.",
+          "pubDate": "Wed, 25 Oct 2023 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now choose PostgreSQL 16 when creating PostgreSQL clusters in Azure Cosmos DB for PostgreSQL, a managed service for distributed Postgres database."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -945,21 +1095,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
-          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "computer-vision-api-retirements-13-9-2026"
           },
           "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
@@ -969,6 +1104,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
+          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
+          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
           },
           "content:encoded": null
         },
@@ -2988,158 +3138,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use init containers with Azure Container Apps in production."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-cross-origin-resource-sharing-cors-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-cross-origin-resource-sharing-cors-in-azure-container-apps/",
-          "title": "Generally Available: Cross Origin Resource Sharing (CORS) in Azure Container Apps",
-          "description": "You can now setup Cross Origin Resource Sharing (CORS) from the portal or through the CLI.",
-          "pubDate": "Wed, 16 Aug 2023 17:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now setup Cross Origin Resource Sharing (CORS) from the portal or through the CLI."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-active-directory-integration-with-azure-cosmos-db-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-integration-with-azure-cosmos-db-for-postgresql/",
-          "title": "Public Preview: Azure Active Directory integration with Azure Cosmos DB for PostgreSQL",
-          "description": "Now you can use Azure Active Directory (AAD) authentication on Azure Cosmos DB for PostgreSQL clusters.",
-          "pubDate": "Wed, 16 Aug 2023 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can use Azure Active Directory (AAD) authentication on Azure Cosmos DB for PostgreSQL clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-simplified-flush-operation-for-caches-using-active-georeplication"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-simplified-flush-operation-for-caches-using-active-georeplication/",
-          "title": "General availability: Simplified flush operation for caches using active geo-replication",
-          "description": "Flush all data from active geo-replicated caches using the portal, PowerShell, or CLI.",
-          "pubDate": "Wed, 16 Aug 2023 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Flush all data from active geo-replicated caches using the portal, PowerShell, or CLI."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-99th-percentile-latency-metric-in-azure-cache-for-redis"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-99th-percentile-latency-metric-in-azure-cache-for-redis/",
-          "title": "General availability: 99th percentile latency metric in Azure Cache for Redis",
-          "description": "Debug server-side latency with a new Azure Cache for Redis metric.",
-          "pubDate": "Wed, 16 Aug 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Debug server-side latency with a new Azure Cache for Redis metric."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-storage-autogrow-online-disk-scaling-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-storage-autogrow-online-disk-scaling-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Storage auto-grow & online disk scaling for Azure Database for PostgreSQL Flexible Server",
-          "description": "With auto-grow enabled, Azure Database for PostgreSQL Flexible Server will automatically increase the size of your provisioned storage.",
-          "pubDate": "Wed, 16 Aug 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With auto-grow enabled, Azure Database for PostgreSQL Flexible Server will automatically increase the size of your provisioned storage."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-terraform-support-for-azure-cosmos-db-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-terraform-support-for-azure-cosmos-db-for-postgresql/",
-          "title": "General availability: Terraform support for Azure Cosmos DB for PostgreSQL",
-          "description": "Now you can use Terraform for unified inventory and management operations for Azure Cosmos DB for PostgreSQL clusters.",
-          "pubDate": "Wed, 16 Aug 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can use Terraform for unified inventory and management operations for Azure Cosmos DB for PostgreSQL clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-vnet-flow-logs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-vnet-flow-logs/",
-          "title": "Public preview: Azure VNet flow logs",
-          "description": "Gain visibility of IP traffic flowing through your Virtual Networks",
-          "pubDate": "Wed, 16 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Gain visibility of IP traffic flowing through your Virtual Networks"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-incremental-snapshots-for-premium-ssd-v2-disk-and-ultra-disk-storage-3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-incremental-snapshots-for-premium-ssd-v2-disk-and-ultra-disk-storage-3/",
-          "category": "Tag = AzurePortal",
-          "title": "General Availability: Incremental snapshots for Premium SSD v2 Disk and Ultra Disk Storage",
-          "description": "Incremental snapshots for Premium SSD v2 and Ultra Disk Storage with instant restore capability are now generally available (GA)",
-          "pubDate": "Wed, 16 Aug 2023 16:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Incremental snapshots for Premium SSD v2 and Ultra Disk Storage with instant restore capability are now generally available (GA)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-august"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-august/",
-          "title": "Azure Machine Learning - Public Preview for August",
-          "description": "Two new features now available in PuPr enable you to work with improved data size and model support and generate a default Responsible AI dashboard for the best AutoML model.",
-          "pubDate": "Wed, 16 Aug 2023 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Two new features now available in PuPr enable you to work with improved data size and model support and generate a default Responsible AI dashboard for the best AutoML model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-load-testing-in-japan-east-and-brazil-south"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-load-testing-in-japan-east-and-brazil-south/",
-          "category": "AzureLoadTesting",
-          "title": "Generally available: Azure Load Testing in Japan East and Brazil South",
-          "description": "Azure Load Testing is in generally available in Japan East and Brazil South.",
-          "pubDate": "Tue, 15 Aug 2023 22:49:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing is in generally available in Japan East and Brazil South."
           },
           "content:encoded": null
         }
