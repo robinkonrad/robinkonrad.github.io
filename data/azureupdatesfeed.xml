@@ -6,11 +6,55 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Oct 2023 16:16:48 Z</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2023 17:11:05 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">ga-performance-optimizations-for-the-isolated-worker-model-in-net-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-performance-optimizations-for-the-isolated-worker-model-in-net-azure-functions/</link>
+      <title>GA: Performance optimizations for the isolated worker model in .NET Azure Functions </title>
+      <description>Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model.</description>
+      <pubDate>Wed, 25 Oct 2023 17:00:37 Z</pubDate>
+      <atom:content
+        type="text">Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-service-bus-message-settlement-in-isolated-worker-model-for-net-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-service-bus-message-settlement-in-isolated-worker-model-for-net-azure-functions/</link>
+      <title>GA: Service Bus message settlement in isolated worker model for .NET Azure Functions</title>
+      <description>Functions using the ServiceBusTrigger can perform message settlement actions in the isolated worker model for .NET applications</description>
+      <pubDate>Wed, 25 Oct 2023 17:00:37 Z</pubDate>
+      <atom:content
+        type="text">Functions using the ServiceBusTrigger can perform message settlement actions in the isolated worker model for .NET applications</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-disable-secure-shell-ssh-support-in-aks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-disable-secure-shell-ssh-support-in-aks/</link>
+      <title>Public preview: Disable Secure Shell (SSH) support in AKS</title>
+      <description>You can now disable secure shell (SSH) in AKS</description>
+      <pubDate>Wed, 25 Oct 2023 17:00:36 Z</pubDate>
+      <atom:content
+        type="text">You can now disable secure shell (SSH) in AKS</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-bring-our-own-keys-byok-on-ephemeral-os-disk</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-bring-our-own-keys-byok-on-ephemeral-os-disk/</link>
+      <title>GA: Bring our own keys (BYOK) on Ephemeral OS Disk </title>
+      <description>You can now encrypt OS and Data disks of your AKS nodes in production with your own managed keys.</description>
+      <pubDate>Wed, 25 Oct 2023 17:00:36 Z</pubDate>
+      <atom:content
+        type="text">You can now encrypt OS and Data disks of your AKS nodes in production with your own managed keys.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-azure-netapp-files-standard-storage-with-cool-access</guid>
@@ -2303,50 +2347,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Wed, 16 Aug 2023 17:00:09 Z</pubDate>
       <atom:content
         type="text">You can now use Azure Key Vault references to access your secrets in Azure Container Apps. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-private-link-service-integration</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-private-link-service-integration/</link>
-      <title>Generally Available: Private Link service integration </title>
-      <description>You can now directly create a Private Link Service (PLS) for Kubernetes services via annotations in the service manifest file.</description>
-      <pubDate>Wed, 16 Aug 2023 17:00:09 Z</pubDate>
-      <atom:content
-        type="text">You can now directly create a Private Link Service (PLS) for Kubernetes services via annotations in the service manifest file.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-secrets-volume-mounts-for-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-secrets-volume-mounts-for-azure-container-apps/</link>
-      <title>Generally available: Secrets volume mounts for Azure Container Apps</title>
-      <description>You can now mount secrets as volumes in Azure Container Apps.</description>
-      <pubDate>Wed, 16 Aug 2023 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">You can now mount secrets as volumes in Azure Container Apps.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-session-affinity-for-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-session-affinity-for-azure-container-apps/</link>
-      <title>Generally available: Session affinity for Azure Container Apps </title>
-      <description>Azure Container Apps now supports sticky sessions. </description>
-      <pubDate>Wed, 16 Aug 2023 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Azure Container Apps now supports sticky sessions. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-init-containers-in-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-init-containers-in-azure-container-apps/</link>
-      <title>Generally available: Init containers in Azure Container Apps</title>
-      <description>You can now use init containers with Azure Container Apps in production. </description>
-      <pubDate>Wed, 16 Aug 2023 17:00:07 Z</pubDate>
-      <atom:content
-        type="text">You can now use init containers with Azure Container Apps in production. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
