@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 26 Oct 2023 15:13:20 Z",
+      "lastBuildDate": "Thu, 26 Oct 2023 16:16:40 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-traffic-splitting-for-azure-static-web-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-traffic-splitting-for-azure-static-web-apps/",
+          "title": "Public preview: Traffic Splitting for Azure Static Web Apps",
+          "description": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested.",
+          "pubDate": "Thu, 26 Oct 2023 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-snippets-for-azure-static-web-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-snippets-for-azure-static-web-apps/",
+          "title": "Public preview: Snippets for Azure Static Web Apps",
+          "description": "Inject snippets into your website’s pages to add analytics, customizations and integrations, or to optimize performance without changing your source code.",
+          "pubDate": "Thu, 26 Oct 2023 16:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Inject snippets into your website’s pages to add analytics, customizations and integrations, or to optimize performance without changing your source code."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,37 +3135,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Incremental snapshots for Premium SSD v2 and Ultra Disk Storage with instant restore capability are now generally available (GA)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-august"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-august/",
-          "title": "Azure Machine Learning - Public Preview for August",
-          "description": "Two new features now available in PuPr enable you to work with improved data size and model support and generate a default Responsible AI dashboard for the best AutoML model.",
-          "pubDate": "Wed, 16 Aug 2023 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Two new features now available in PuPr enable you to work with improved data size and model support and generate a default Responsible AI dashboard for the best AutoML model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-cloud-backup-for-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-cloud-backup-for-virtual-machines/",
-          "category": "Azure NetApp Files",
-          "title": "Public Preview: Azure NetApp Files Cloud Backup for Virtual Machines",
-          "description": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview",
-          "pubDate": "Tue, 15 Aug 2023 16:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files datastores now supports Cloud Backup for Virtual Machines in preview"
           },
           "content:encoded": null
         }
