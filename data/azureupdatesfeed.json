@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 27 Oct 2023 16:16:14 Z",
+      "lastBuildDate": "Fri, 27 Oct 2023 17:10:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Participate in retail evaluation now to ensure compatibility. The Azure Sphere team has also updated the trusted keystore of Azure Sphere devices, resulting in an additional reboot for production devices."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-traffic-splitting-for-azure-static-web-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-traffic-splitting-for-azure-static-web-apps/",
+          "title": "Public preview: Traffic Splitting for Azure Static Web Apps",
+          "description": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested.",
+          "pubDate": "Thu, 26 Oct 2023 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-snippets-for-azure-static-web-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-snippets-for-azure-static-web-apps/",
+          "title": "Public preview: Snippets for Azure Static Web Apps",
+          "description": "Inject snippets into your website’s pages to add analytics, customizations and integrations, or to optimize performance without changing your source code.",
+          "pubDate": "Thu, 26 Oct 2023 16:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Inject snippets into your website’s pages to add analytics, customizations and integrations, or to optimize performance without changing your source code."
           },
           "content:encoded": null
         },
@@ -220,7 +250,7 @@
             "#text": "public-preview-azure-synapse-link-compatibility-with-cosmos-db-continuous-backup"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-link-compatibility-with-cosmos-db-continuous-backup/",
-          "title": "Public Preview: Azure Synapse Link compatibility with Cosmos DB continuous backup",
+          "title": "General availability: Azure Synapse Link compatibility with Cosmos DB continuous backup",
           "description": "Now Azure Cosmos DB customers using continuous backup can enable Synapse Link in their database accounts.",
           "pubDate": "Wed, 25 Oct 2023 16:00:37 Z",
           "atom:content": {
@@ -3108,36 +3138,6 @@
           "atom:content": {
             "@type": "text",
             "#text": ".NET function apps using the isolated worker model can now better control how telemetry is emitted to Application Insights."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-durable-functions-for-python-v2-programming-model"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-durable-functions-for-python-v2-programming-model/",
-          "title": "Generally Available: Durable Functions for Python v2 Programming Model",
-          "description": "You can now develop durable functions in Azure Functions using the Python v2 programming model",
-          "pubDate": "Wed, 16 Aug 2023 17:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now develop durable functions in Azure Functions using the Python v2 programming model"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-kubernetes-127-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubernetes-127-support-in-aks/",
-          "title": "Generally Available: Kubernetes 1.27 support in AKS",
-          "description": "You can now take advantage of Kubernetes release 1.27 enhancements in production.",
-          "pubDate": "Wed, 16 Aug 2023 17:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now take advantage of Kubernetes release 1.27 enhancements in production."
           },
           "content:encoded": null
         }
