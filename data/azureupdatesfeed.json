@@ -12,13 +12,47 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 30 Oct 2023 15:13:31 Z",
+      "lastBuildDate": "Mon, 30 Oct 2023 16:16:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "new-email-templates-for-log-search-alerts-api-version-20210801-and-up"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/new-email-templates-for-log-search-alerts-api-version-20210801-and-up/",
+          "category": [
+            "Alerts",
+            "Email"
+          ],
+          "title": "New E-mail templates for Log search alerts - API version 2021-08-01 and up",
+          "description": "During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template.",
+          "pubDate": "Mon, 30 Oct 2023 16:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations/",
+          "title": "Generally available: Azure Blob Storage Cold Tier support on Blob Batch operations",
+          "description": "Azure Blob Batch operations now support Azure Blob Storage Cold Tier.",
+          "pubDate": "Mon, 30 Oct 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Batch operations now support Azure Blob Storage Cold Tier."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3098,46 +3132,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Introducing the latest updates to Azure Elastic SAN (in preview), private endpoint support and volume sharing support via SCSI (Small Computer System Interface) Persistent Reservation."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-sdk-type-bindings-in-azure-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-sdk-type-bindings-in-azure-functions/",
-          "category": [
-            "Azure Functions",
-            "Features",
-            "SDK and Tools"
-          ],
-          "title": "Generally Available: SDK type bindings in Azure Functions",
-          "description": "Azure Functions now supports binding to types from the Azure SDK, providing a richer development experience.",
-          "pubDate": "Wed, 16 Aug 2023 17:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions now supports binding to types from the Azure SDK, providing a richer development experience."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-application-insights-integration-for-the-azure-functions-net-worker"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-application-insights-integration-for-the-azure-functions-net-worker/",
-          "category": [
-            "Azure Functions",
-            "Features",
-            "SDK and Tools"
-          ],
-          "title": "Generally Available: Application Insights integration for the Azure Functions .NET worker",
-          "description": ".NET function apps using the isolated worker model can now better control how telemetry is emitted to Application Insights.",
-          "pubDate": "Wed, 16 Aug 2023 17:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": ".NET function apps using the isolated worker model can now better control how telemetry is emitted to Application Insights."
           },
           "content:encoded": null
         }
