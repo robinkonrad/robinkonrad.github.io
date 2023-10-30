@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 30 Oct 2023 18:16:56 Z",
+      "lastBuildDate": "Mon, 30 Oct 2023 19:10:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-bastion-developer-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-bastion-developer-public-preview/",
+          "title": "Public preview: Announcing the new Azure Bastion Developer SKU",
+          "description": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.",
+          "pubDate": "Mon, 30 Oct 2023 18:23:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3116,22 +3131,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Non-LDAP volumes can now be configured to use a custom authentication ID Domain that matches your NFS environment."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-elastic-san-updates-private-endpoints-shared-volumes"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-private-endpoints-shared-volumes/",
-          "category": "Tag=AzurePortal",
-          "title": "Public Preview: Azure Elastic SAN Updates: Private endpoints & shared volumes",
-          "description": "Introducing the latest updates to Azure Elastic SAN (in preview), private endpoint support and volume sharing support via SCSI (Small Computer System Interface) Persistent Reservation.",
-          "pubDate": "Wed, 16 Aug 2023 18:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Introducing the latest updates to Azure Elastic SAN (in preview), private endpoint support and volume sharing support via SCSI (Small Computer System Interface) Persistent Reservation."
           },
           "content:encoded": null
         }
