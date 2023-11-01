@@ -12,13 +12,78 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 01 Nov 2023 15:13:30 Z",
+      "lastBuildDate": "Wed, 01 Nov 2023 16:17:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "tls-12-to-become-the-minimum-tls-version-for-azure-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/tls-12-to-become-the-minimum-tls-version-for-azure-storage/",
+          "category": "Azure blob storage",
+          "title": "TLS 1.2 to become the minimum TLS version for Azure Storage",
+          "description": "TLS 1.2 to become the minimum TLS version for Azure Storage",
+          "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "TLS 1.2 to become the minimum TLS version for Azure Storage"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "grpcappservice"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/grpcappservice/",
+          "title": "GA: gRPC support on Azure App Service",
+          "description": "Host your gRPC workloads on App Service Linux.",
+          "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Host your gRPC workloads on App Service Linux."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "new-email-templates-for-log-search-alerts-api-version-20210801-and-up"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/new-email-templates-for-log-search-alerts-api-version-20210801-and-up/",
+          "category": [
+            "Alerts",
+            "Email"
+          ],
+          "title": "New E-mail templates for Log search alerts - API version 2021-08-01 and up",
+          "description": "During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template.",
+          "pubDate": "Mon, 30 Oct 2023 16:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations/",
+          "title": "Generally available: Azure Blob Storage Cold Tier support on Blob Batch operations",
+          "description": "Azure Blob Batch operations now support Azure Blob Storage Cold Tier.",
+          "pubDate": "Mon, 30 Oct 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Batch operations now support Azure Blob Storage Cold Tier."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3067,77 +3132,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-custom-nfsv41-id-domain-in-azure-netapp-files"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-custom-nfsv41-id-domain-in-azure-netapp-files/",
-          "title": "Public Preview: Custom NFSv4.1 ID Domain in Azure NetApp Files",
-          "description": "Non-LDAP volumes can now be configured to use a custom authentication ID Domain that matches your NFS environment.",
-          "pubDate": "Thu, 17 Aug 2023 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Non-LDAP volumes can now be configured to use a custom authentication ID Domain that matches your NFS environment."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-elastic-san-updates-private-endpoints-shared-volumes"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-private-endpoints-shared-volumes/",
-          "category": "Tag=AzurePortal",
-          "title": "Public Preview: Azure Elastic SAN Updates: Private endpoints & shared volumes",
-          "description": "Introducing the latest updates to Azure Elastic SAN (in preview), private endpoint support and volume sharing support via SCSI (Small Computer System Interface) Persistent Reservation.",
-          "pubDate": "Wed, 16 Aug 2023 18:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Introducing the latest updates to Azure Elastic SAN (in preview), private endpoint support and volume sharing support via SCSI (Small Computer System Interface) Persistent Reservation."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-sdk-type-bindings-in-azure-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-sdk-type-bindings-in-azure-functions/",
-          "category": [
-            "Azure Functions",
-            "Features",
-            "SDK and Tools"
-          ],
-          "title": "Generally Available: SDK type bindings in Azure Functions",
-          "description": "Azure Functions now supports binding to types from the Azure SDK, providing a richer development experience.",
-          "pubDate": "Wed, 16 Aug 2023 17:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions now supports binding to types from the Azure SDK, providing a richer development experience."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-application-insights-integration-for-the-azure-functions-net-worker"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-application-insights-integration-for-the-azure-functions-net-worker/",
-          "category": [
-            "Azure Functions",
-            "Features",
-            "SDK and Tools"
-          ],
-          "title": "Generally Available: Application Insights integration for the Azure Functions .NET worker",
-          "description": ".NET function apps using the isolated worker model can now better control how telemetry is emitted to Application Insights.",
-          "pubDate": "Wed, 16 Aug 2023 17:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": ".NET function apps using the isolated worker model can now better control how telemetry is emitted to Application Insights."
           },
           "content:encoded": null
         }
