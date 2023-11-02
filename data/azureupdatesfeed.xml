@@ -6,11 +6,60 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Nov 2023 16:17:48 Z</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 17:12:15 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-integration-with-canonical-s-snapshot-service-for-safe-deployment</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-integration-with-canonical-s-snapshot-service-for-safe-deployment/</link>
+      <category>Linux on Azure</category>
+      <category>Ubuntu</category>
+      <category>Azure Virtual Machines</category>
+      <category>Azure Kubernetes Service</category>
+      <title>Public Preview: Azure integration with Canonical’s Snapshot Service for safe deployment</title>
+      <description>Azure Guest Patching Service and Azure Kubernetes Service will now apply the same package update from a specific date to all regions following safe deployment principles.</description>
+      <pubDate>Thu, 02 Nov 2023 17:00:14 Z</pubDate>
+      <atom:content
+        type="text">Azure Guest Patching Service and Azure Kubernetes Service will now apply the same package update from a specific date to all regions following safe deployment principles.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-more-regions-pcu</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-more-regions-pcu/</link>
+      <title>Generally available: Azure Premium SSD v2 Disk Storage is now available in more regions</title>
+      <description>Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance</description>
+      <pubDate>Thu, 02 Nov 2023 17:00:04 Z</pubDate>
+      <atom:content
+        type="text">Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">tls-12-to-become-the-minimum-tls-version-for-azure-storage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/tls-12-to-become-the-minimum-tls-version-for-azure-storage/</link>
+      <category>Azure blob storage</category>
+      <title>TLS 1.2 to become the minimum TLS version for Azure Storage</title>
+      <description>TLS 1.2 to become the minimum TLS version for Azure Storage</description>
+      <pubDate>Wed, 01 Nov 2023 16:00:17 Z</pubDate>
+      <atom:content
+        type="text">TLS 1.2 to become the minimum TLS version for Azure Storage</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">grpcappservice</guid>
+      <link>https://azure.microsoft.com/en-us/updates/grpcappservice/</link>
+      <title>GA: gRPC support on Azure App Service</title>
+      <description>Host your gRPC workloads on App Service Linux.  </description>
+      <pubDate>Wed, 01 Nov 2023 16:00:17 Z</pubDate>
+      <atom:content
+        type="text">Host your gRPC workloads on App Service Linux.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-default-rule-set-21-for-regional-waf-with-application-gateway</guid>
@@ -319,7 +368,7 @@ Additionally, Identity emails will now be sent from Microsoft Security (MSSecuri
 Learn more: https://aka.ms/contentsafety 
 
 Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio</description>
-      <pubDate>Wed, 18 Oct 2023 16:00:18 Z</pubDate>
+      <pubDate>Wed, 18 Oct 2023 16:00:23 Z</pubDate>
       <atom:content
         type="text">Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.
 
@@ -590,7 +639,7 @@ Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystud
       <link>https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/</link>
       <title>Migrate to Azure Monitor agent–based VM insights by 31 August 2024</title>
       <description>Log Analytics agent–based VM insights will be retired.</description>
-      <pubDate>Fri, 06 Oct 2023 23:00:14 Z</pubDate>
+      <pubDate>Fri, 06 Oct 2023 23:00:11 Z</pubDate>
       <atom:content
         type="text">Log Analytics agent–based VM insights will be retired.</atom:content>
       <content:encoded></content:encoded>
@@ -1003,17 +1052,6 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
     </item>
     <item>
       <guid
-        isPermaLink="false">python38support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
-      <title>Extended support for Python 3.8 ends on October 2024  </title>
-      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
-      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
-      <atom:content
-        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">python-opencensus-retirement</guid>
       <link>https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/</link>
       <title>Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro</title>
@@ -1021,6 +1059,17 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
       <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
       <atom:content
         type="text">Azure Monitor support for OpenCensus will end on 30 September 2024 </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">python38support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/python38support/</link>
+      <title>Extended support for Python 3.8 ends on October 2024  </title>
+      <description>Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </description>
+      <pubDate>Fri, 29 Sep 2023 23:00:39 Z</pubDate>
+      <atom:content
+        type="text">Extended support for Python 3.8 ends on October 2024 — upgrade your apps to Python 3.9 </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1881,7 +1930,7 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <title>Configure load testing in your CI/CD pipeline from Azure portal</title>
       <description>Configure load testing in your CI/CD pipeline from Azure portal in just a few steps.
 </description>
-      <pubDate>Tue, 12 Sep 2023 15:00:23 Z</pubDate>
+      <pubDate>Tue, 12 Sep 2023 15:00:14 Z</pubDate>
       <atom:content
         type="text">Configure load testing in your CI/CD pipeline from Azure portal in just a few steps.
 </atom:content>
@@ -1905,7 +1954,7 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <category>kusto</category>
       <title>Introducing Graph Semantics in Kusto, a new way to contextualize time series data</title>
       <description>Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.</description>
-      <pubDate>Mon, 11 Sep 2023 15:00:47 Z</pubDate>
+      <pubDate>Mon, 11 Sep 2023 15:00:46 Z</pubDate>
       <atom:content
         type="text">Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.</atom:content>
       <content:encoded></content:encoded>
@@ -1954,7 +2003,7 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-container-storage-updates-expanded-regions-and-performance-options/</link>
       <title>Public Preview: Azure Container Storage Updates: Expanded regions and performance options </title>
       <description>Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize &amp; cloning and choose from an expanded list of Disk SKUs. </description>
-      <pubDate>Thu, 07 Sep 2023 17:00:27 Z</pubDate>
+      <pubDate>Thu, 07 Sep 2023 17:00:36 Z</pubDate>
       <atom:content
         type="text">Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize &amp; cloning and choose from an expanded list of Disk SKUs. </atom:content>
       <content:encoded></content:encoded>
@@ -2295,53 +2344,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Tue, 22 Aug 2023 16:00:39 Z</pubDate>
       <atom:content
         type="text">Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-cross-subscription-restore-for-azure-virtual-machines</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-cross-subscription-restore-for-azure-virtual-machines/</link>
-      <title>Generally available: Cross Subscription Restore for Azure Virtual Machines</title>
-      <description>Cross Subscription Restore support for Azure VM is generally available.</description>
-      <pubDate>Tue, 22 Aug 2023 16:00:37 Z</pubDate>
-      <atom:content
-        type="text">Cross Subscription Restore support for Azure VM is generally available.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">retirement-azure-container-apps-preview-api-versions-20220601preview-and-20221101preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/retirement-azure-container-apps-preview-api-versions-20220601preview-and-20221101preview/</link>
-      <category>Azure Functions</category>
-      <category>Features</category>
-      <category>SDK and Tools</category>
-      <title>Retirement: Azure Container Apps preview API versions 2022-06-01-preview and 2022-11-01-preview</title>
-      <description>If you're using Azure Resource Manager API version 2022-06-01-preview or 2022-11-01-preview to manage Azure Container Apps, please update your API requests to use version 2023-04-01-preview or later. </description>
-      <pubDate>Fri, 18 Aug 2023 23:00:41 Z</pubDate>
-      <atom:content
-        type="text">If you're using Azure Resource Manager API version 2022-06-01-preview or 2022-11-01-preview to manage Azure Container Apps, please update your API requests to use version 2023-04-01-preview or later. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-40mbstib-and-500mbstib-performance-tiers-for-azure-managed-lustre</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-40mbstib-and-500mbstib-performance-tiers-for-azure-managed-lustre/</link>
-      <title>Generally available: 40MB/s/TiB and 500MB/s/TiB performance tiers for Azure Managed Lustre</title>
-      <description>Azure Managed Lustre now offers two new performance tiers, offering tailored solutions and added cost and performance flexibility for various workload sizes: 40MB/s/TiB and 500MB/s/TiB</description>
-      <pubDate>Fri, 18 Aug 2023 18:37:24 Z</pubDate>
-      <atom:content
-        type="text">Azure Managed Lustre now offers two new performance tiers, offering tailored solutions and added cost and performance flexibility for various workload sizes: 40MB/s/TiB and 500MB/s/TiB</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-front-door-standardpremium-in-azure-government</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-front-door-standardpremium-in-azure-government/</link>
-      <title>General availability: Azure Front Door Standard/Premium in Azure Government</title>
-      <description>Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</description>
-      <pubDate>Fri, 18 Aug 2023 18:01:16 Z</pubDate>
-      <atom:content
-        type="text">Azure Front Door Standard/Premium is the new Azure native, modern cloud content delivery network (CDN) catering to both dynamic and static content delivery acceleration with enhanced security and a simple and predictable pricing model.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
