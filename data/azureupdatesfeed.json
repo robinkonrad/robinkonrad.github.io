@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 06 Nov 2023 17:11:48 Z",
+      "lastBuildDate": "Mon, 06 Nov 2023 18:16:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines/",
+          "title": "Latency metrics for disks and performance metrics for temporary disks on Azure Virtual Machines",
+          "description": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.",
+          "pubDate": "Mon, 06 Nov 2023 18:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
+          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
+          "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
+          "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3111,36 +3141,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Export Cost Management data to secure storage accounts with firewall"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-app-configuration-public-preview-release-of-snapshots-feature"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-app-configuration-public-preview-release-of-snapshots-feature/",
-          "title": "Azure App Configuration - public preview release of snapshots feature",
-          "description": "Key-value pairs from App Config store ensure controlled deployments.",
-          "pubDate": "Mon, 28 Aug 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Key-value pairs from App Config store ensure controlled deployments."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023/",
-          "title": "Azure Logic Apps (Standard): Upgrade to Node 18 LTS by 11 September 2023",
-          "description": "Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023.",
-          "pubDate": "Fri, 25 Aug 2023 23:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023."
           },
           "content:encoded": null
         }
