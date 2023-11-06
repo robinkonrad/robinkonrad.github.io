@@ -6,11 +6,61 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Nov 2023 16:18:03 Z</lastBuildDate>
+    <lastBuildDate>Mon, 06 Nov 2023 17:11:48 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/</link>
+      <title>General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage</title>
+      <description>Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn </description>
+      <pubDate>Mon, 06 Nov 2023 17:00:28 Z</pubDate>
+      <atom:content
+        type="text">Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ability-to-add-dynamic-values-in-alert-s-custom-fields</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/</link>
+      <category>Alerts</category>
+      <category>Email</category>
+      <title>Ability to add dynamic values in Alert’s custom fields</title>
+      <description>Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.
+We added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.</description>
+      <pubDate>Mon, 06 Nov 2023 17:00:18 Z</pubDate>
+      <atom:content
+        type="text">Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.
+We added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-application-gateway-now-supports-ipv6-frontend</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-now-supports-ipv6-frontend/</link>
+      <category>Application Gateway</category>
+      <category>Features</category>
+      <title>Public preview: Application Gateway IPv6 support</title>
+      <description>Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.</description>
+      <pubDate>Mon, 06 Nov 2023 17:00:10 Z</pubDate>
+      <atom:content
+        type="text">Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions/</link>
+      <title>Azure Monitor managed service for Prometheus is available in 7 additional Azure regions</title>
+      <description>Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions.</description>
+      <pubDate>Mon, 06 Nov 2023 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">game-dev-vm-marketplace-application-will-be-retired-on-january-31st-2024</guid>
@@ -2300,50 +2350,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Fri, 25 Aug 2023 23:00:28 Z</pubDate>
       <atom:content
         type="text">Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">retirement-kubernetes-124-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/retirement-kubernetes-124-support-in-aks/</link>
-      <title>Retirement: Kubernetes 1.24 support in AKS </title>
-      <description>Migrate to Kubernetes 1.25 or higher in AKS. </description>
-      <pubDate>Fri, 25 Aug 2023 23:00:27 Z</pubDate>
-      <atom:content
-        type="text">Migrate to Kubernetes 1.25 or higher in AKS. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/</link>
-      <title>General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.</title>
-      <description>Avoid downtime and business interruptions by migrating your virtual machines to availability zones </description>
-      <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
-      <atom:content
-        type="text">Avoid downtime and business interruptions by migrating your virtual machines to availability zones </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">quick-create-azure-front-door-endpoints-for-storage-accounts</guid>
-      <link>https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/</link>
-      <title>Quick create Azure Front Door endpoints for Azure Storage accounts</title>
-      <description>Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin </description>
-      <pubDate>Thu, 24 Aug 2023 16:00:09 Z</pubDate>
-      <atom:content
-        type="text">Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates/</link>
-      <title>General Availability: AzAcSnap 9 — Azure Application Consistent Snapshot tool updates</title>
-      <description>AzAcSnap Version 9 Release</description>
-      <pubDate>Thu, 24 Aug 2023 16:00:07 Z</pubDate>
-      <atom:content
-        type="text">AzAcSnap Version 9 Release</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

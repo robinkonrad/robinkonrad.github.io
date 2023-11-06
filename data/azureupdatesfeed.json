@@ -12,13 +12,81 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 06 Nov 2023 16:18:03 Z",
+      "lastBuildDate": "Mon, 06 Nov 2023 17:11:48 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/",
+          "title": "General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage",
+          "description": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn",
+          "pubDate": "Mon, 06 Nov 2023 17:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ability-to-add-dynamic-values-in-alert-s-custom-fields"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/",
+          "category": [
+            "Alerts",
+            "Email"
+          ],
+          "title": "Ability to add dynamic values in Alert’s custom fields",
+          "description": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.",
+          "pubDate": "Mon, 06 Nov 2023 17:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-application-gateway-now-supports-ipv6-frontend"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-now-supports-ipv6-frontend/",
+          "category": [
+            "Application Gateway",
+            "Features"
+          ],
+          "title": "Public preview: Application Gateway IPv6 support",
+          "description": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.",
+          "pubDate": "Mon, 06 Nov 2023 17:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions/",
+          "title": "Azure Monitor managed service for Prometheus is available in 7 additional Azure regions",
+          "description": "Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions.",
+          "pubDate": "Mon, 06 Nov 2023 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3073,66 +3141,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-kubernetes-124-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-kubernetes-124-support-in-aks/",
-          "title": "Retirement: Kubernetes 1.24 support in AKS",
-          "description": "Migrate to Kubernetes 1.25 or higher in AKS.",
-          "pubDate": "Fri, 25 Aug 2023 23:00:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to Kubernetes 1.25 or higher in AKS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
-          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
-          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
-          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
-          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates/",
-          "title": "General Availability: AzAcSnap 9 — Azure Application Consistent Snapshot tool updates",
-          "description": "AzAcSnap Version 9 Release",
-          "pubDate": "Thu, 24 Aug 2023 16:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AzAcSnap Version 9 Release"
           },
           "content:encoded": null
         }
