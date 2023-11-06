@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 06 Nov 2023 18:16:59 Z",
+      "lastBuildDate": "Mon, 06 Nov 2023 19:10:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-azure-container-storage-in-aks-cli-experience"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-azure-container-storage-in-aks-cli-experience/",
+          "title": "Preview: Azure Container Storage in AKS",
+          "description": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience.",
+          "pubDate": "Mon, 06 Nov 2023 18:30:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3125,22 +3140,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Site Recovery High Churn Support"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "exportbehindfirewall"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/exportbehindfirewall/",
-          "category": "AzurePortal",
-          "title": "Preview: Export Cost Management data to secure storage accounts with firewall",
-          "description": "Export Cost Management data to secure storage accounts with firewall",
-          "pubDate": "Mon, 28 Aug 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Export Cost Management data to secure storage accounts with firewall"
           },
           "content:encoded": null
         }
