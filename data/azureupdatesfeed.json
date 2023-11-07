@@ -12,306 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 07 Nov 2023 22:12:16 Z",
+      "lastBuildDate": "Tue, 07 Nov 2023 23:13:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "customermanaged-keys-preview-integration-with-azure-chaos-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/customermanaged-keys-preview-integration-with-azure-chaos-studio/",
-          "title": "Customer-Managed Keys (preview) integration with Azure Chaos Studio",
-          "description": "Customer-Managed Keys (preview) integration with Azure Chaos Studio",
-          "pubDate": "Tue, 07 Nov 2023 17:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customer-Managed Keys (preview) integration with Azure Chaos Studio"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-netapp-files-datastores-for-azure-vmware-solution-is-available-in-us-government-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-netapp-files-datastores-for-azure-vmware-solution-is-available-in-us-government-regions/",
-          "title": "Azure NetApp Files datastores for Azure VMware Solution is available in US Government regions.",
-          "description": "Azure NetApp Files datastores for Azure VMware Solution is available in US Government (VA, AZ) regions.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files datastores for Azure VMware Solution is available in US Government (VA, AZ) regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-november-2023-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-november-2023-updates/",
-          "title": "Azure Red Hat OpenShift November 2023 updates",
-          "description": "Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "provider-for-running-karpenter-on-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/provider-for-running-karpenter-on-azure-kubernetes-service-aks/",
-          "title": "Provider for running Karpenter on Azure Kubernetes Service (AKS)",
-          "description": "You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-kubernetes-eventdriven-autoscaling-keda-addon-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-kubernetes-eventdriven-autoscaling-keda-addon-for-aks/",
-          "title": "GA: Kubernetes Event-driven Autoscaling (KEDA) Add-on for AKS",
-          "description": "You can now use the KEDA add-on for AKS in production.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use the KEDA add-on for AKS in production."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-kubernetes-128-support-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-kubernetes-128-support-in-azure-kubernetes-service-aks/",
-          "title": "GA: Kubernetes 1.28 support in Azure Kubernetes Service (AKS)",
-          "description": "You can now take advantage of Kubernetes 1.28 features in production.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now take advantage of Kubernetes 1.28 features in production."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-application-routing-addon-for-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-routing-addon-for-azure-kubernetes-service-aks/",
-          "title": "GA: Application routing add-on for Azure Kubernetes Service (AKS)",
-          "description": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS",
-          "pubDate": "Tue, 07 Nov 2023 16:00:55 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
-          "title": "GA: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
-          "description": "You will now see AKS reserve up to 20% less memory on nodes due to improved AKS Kube-reserved resource optimization logic.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You will now see AKS reserve up to 20% less memory on nodes due to improved AKS Kube-reserved resource optimization logic."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dualstack-networking-in-azure-cni-overlay-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dualstack-networking-in-azure-cni-overlay-for-aks/",
-          "title": "Public preview: Dual-stack networking in Azure CNI Overlay for AKS",
-          "description": "You can now use dual-stack networking to communicate with services requiring IPv6 communication..",
-          "pubDate": "Tue, 07 Nov 2023 16:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use dual-stack networking to communicate with services requiring IPv6 communication.."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks/",
-          "title": "Public preview: Enhancements for Istio-based service mesh add-on for AKS",
-          "description": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-review-artifact-streaming-support-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-review-artifact-streaming-support-in-azure-kubernetes-service-aks/",
-          "title": "Public preview: Artifact streaming support in Azure Kubernetes Service (AKS)",
-          "description": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-image-integrity-support-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-image-integrity-support-in-azure-kubernetes-service-aks/",
-          "title": "Public preview: Image integrity support in Azure Kubernetes Service (AKS)",
-          "description": "You can now ensure that only signed container images are deployed to your AKS clusters.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now ensure that only signed container images are deployed to your AKS clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-azure-container-storage-in-aks-cli-experience"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-azure-container-storage-in-aks-cli-experience/",
-          "title": "Preview: Azure Container Storage in AKS",
-          "description": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience.",
-          "pubDate": "Mon, 06 Nov 2023 18:30:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines/",
-          "title": "Latency metrics for disks and performance metrics for temporary disks on Azure Virtual Machines",
-          "description": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.",
-          "pubDate": "Mon, 06 Nov 2023 18:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
-          "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
-          "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/",
-          "title": "General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage",
-          "description": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn",
-          "pubDate": "Mon, 06 Nov 2023 17:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ability-to-add-dynamic-values-in-alert-s-custom-fields"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/",
-          "category": [
-            "Alerts",
-            "Email"
-          ],
-          "title": "Ability to add dynamic values in Alert’s custom fields",
-          "description": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.",
-          "pubDate": "Mon, 06 Nov 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-application-gateway-now-supports-ipv6-frontend"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-now-supports-ipv6-frontend/",
-          "category": [
-            "Application Gateway",
-            "Features"
-          ],
-          "title": "Public preview: Application Gateway IPv6 support",
-          "description": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.",
-          "pubDate": "Mon, 06 Nov 2023 17:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions/",
-          "title": "Azure Monitor managed service for Prometheus is available in 7 additional Azure regions",
-          "description": "Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions.",
-          "pubDate": "Mon, 06 Nov 2023 17:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -802,7 +509,7 @@
           "category": "Azure AI",
           "title": "General Availability: Azure AI Content Safety",
           "description": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio",
-          "pubDate": "Wed, 18 Oct 2023 16:00:23 Z",
+          "pubDate": "Wed, 18 Oct 2023 16:00:18 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio"
@@ -1167,7 +874,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
           "title": "Migrate to Azure Monitor agent–based VM insights by 31 August 2024",
           "description": "Log Analytics agent–based VM insights will be retired.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:11 Z",
+          "pubDate": "Fri, 06 Oct 2023 23:00:14 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics agent–based VM insights will be retired."
@@ -1639,21 +1346,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
-          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "computer-vision-api-retirements-13-9-2026"
           },
           "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
@@ -1663,6 +1355,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
+          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
+          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
           },
           "content:encoded": null
         },
@@ -2881,7 +2588,7 @@
           "category": "AzureLoadTesting",
           "title": "Configure load testing in your CI/CD pipeline from Azure portal",
           "description": "Configure load testing in your CI/CD pipeline from Azure portal in just a few steps.",
-          "pubDate": "Tue, 12 Sep 2023 15:00:14 Z",
+          "pubDate": "Tue, 12 Sep 2023 15:00:23 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Configure load testing in your CI/CD pipeline from Azure portal in just a few steps."
@@ -2912,7 +2619,7 @@
           "category": "kusto",
           "title": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
           "description": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.",
-          "pubDate": "Mon, 11 Sep 2023 15:00:46 Z",
+          "pubDate": "Mon, 11 Sep 2023 15:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs."
@@ -2975,7 +2682,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-storage-updates-expanded-regions-and-performance-options/",
           "title": "Public Preview: Azure Container Storage Updates: Expanded regions and performance options",
           "description": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs.",
-          "pubDate": "Thu, 07 Sep 2023 17:00:36 Z",
+          "pubDate": "Thu, 07 Sep 2023 17:00:27 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs."
@@ -3130,6 +2837,302 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now encrypt traffic transmitted between applications within an environment using mTLS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-container-apps-jobs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-jobs/",
+          "title": "Generally available: Azure Container Apps jobs",
+          "description": "You can now run production workloads that perform a task for a finite duration and exit, and schedule these workloads or run them in response to events.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run production workloads that perform a task for a finite duration and exit, and schedule these workloads or run them in response to events."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-container-apps-supports-additional-tcp-ports"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-supports-additional-tcp-ports/",
+          "title": "Public preview: Azure Container Apps supports additional TCP ports",
+          "description": "You can now run applications that accept TCP connections on multiple ports.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run applications that accept TCP connections on multiple ports."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-container-apps-support-for-udr-nat-gateway-and-smaller-subnets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-support-for-udr-nat-gateway-and-smaller-subnets/",
+          "title": "Generally Available: Azure Container Apps support for UDR, NAT Gateway, and smaller subnets",
+          "description": "You can now define UDRs to manage how outbound traffic is routed for your container app environment’s subnet.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now define UDRs to manage how outbound traffic is routed for your container app environment’s subnet."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-net-worker-cold-start-improvements"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-net-worker-cold-start-improvements/",
+          "category": [
+            "Azure Functions",
+            "Features",
+            "SDK and Tools"
+          ],
+          "title": "Public preview: Azure Functions .NET worker cold start improvements",
+          "description": "Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model through a preview configuration.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model through a preview configuration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-container-apps-dedicated-plan"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-dedicated-plan/",
+          "title": "Generally available: Azure Container Apps dedicated plan",
+          "description": "You can now run your apps on dedicated workload profiles that offer more CPU and memory if needed.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run your apps on dedicated workload profiles that offer more CPU and memory if needed."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aspnet-core-integration-in-azure-functions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aspnet-core-integration-in-azure-functions/",
+          "category": [
+            "Azure Functions",
+            "Features",
+            "SDK and Tools"
+          ],
+          "title": "Generally Available: ASP.NET Core integration in Azure Functions",
+          "description": "Azure Functions now supports using ASP.NET types such as HttpRequest, HttpResponse, and IActionResult from .NET isolated function projects.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Functions now supports using ASP.NET types such as HttpRequest, HttpResponse, and IActionResult from .NET isolated function projects."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-autoupgrade-scheduled-maintenance-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-autoupgrade-scheduled-maintenance-for-aks/",
+          "title": "Generally Available: Auto-upgrade scheduled maintenance for AKS",
+          "description": "You can now have dedicated maintenance for weekly AKS releases, auto upgrades and Node OS patching.",
+          "pubDate": "Wed, 30 Aug 2023 17:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now have dedicated maintenance for weekly AKS releases, auto upgrades and Node OS patching."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-lateaugust-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-lateaugust-2023/",
+          "title": "General availability: Azure SQL updates for late-August 2023",
+          "description": "General availability enhancements and updates released for Azure SQL in late-August 2023.",
+          "pubDate": "Wed, 30 Aug 2023 16:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in late-August 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-additional-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-additional-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/",
+          "title": "Generally available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server",
+          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.3, 14.8, 13.11, 12.15, 11.20.",
+          "pubDate": "Wed, 30 Aug 2023 16:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.3, 14.8, 13.11, 12.15, 11.20."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-universal-geo-restore-on-azure-database-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-universal-geo-restore-on-azure-database-for-mysql-flexible-server/",
+          "title": "Public Preview: Universal geo restore on Azure Database for MySQL- Flexible Server",
+          "description": "Restore Azure Database for MySQL – Flexible Server to any Azure supported region.",
+          "pubDate": "Wed, 30 Aug 2023 16:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Restore Azure Database for MySQL – Flexible Server to any Azure supported region."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-portal-experience-for-azure-database-migration-service"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-portal-experience-for-azure-database-migration-service/",
+          "title": "Public Preview – Azure Portal experience for Azure Database Migration Service",
+          "description": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL targets using DMS.",
+          "pubDate": "Wed, 30 Aug 2023 16:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL targets using DMS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-site-recovery-higher-churn-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-higher-churn-support/",
+          "title": "Generally available: Azure Site Recovery Higher Churn Support",
+          "description": "Azure Site Recovery High Churn Support",
+          "pubDate": "Tue, 29 Aug 2023 16:00:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Site Recovery High Churn Support"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "exportbehindfirewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/exportbehindfirewall/",
+          "category": "AzurePortal",
+          "title": "Preview: Export Cost Management data to secure storage accounts with firewall",
+          "description": "Export Cost Management data to secure storage accounts with firewall",
+          "pubDate": "Mon, 28 Aug 2023 16:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Export Cost Management data to secure storage accounts with firewall"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-app-configuration-public-preview-release-of-snapshots-feature"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-app-configuration-public-preview-release-of-snapshots-feature/",
+          "title": "Azure App Configuration - public preview release of snapshots feature",
+          "description": "Key-value pairs from App Config store ensure controlled deployments.",
+          "pubDate": "Mon, 28 Aug 2023 16:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Key-value pairs from App Config store ensure controlled deployments."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023/",
+          "title": "Azure Logic Apps (Standard): Upgrade to Node 18 LTS by 11 September 2023",
+          "description": "Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023.",
+          "pubDate": "Fri, 25 Aug 2023 23:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-kubernetes-124-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-kubernetes-124-support-in-aks/",
+          "title": "Retirement: Kubernetes 1.24 support in AKS",
+          "description": "Migrate to Kubernetes 1.25 or higher in AKS.",
+          "pubDate": "Fri, 25 Aug 2023 23:00:27 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to Kubernetes 1.25 or higher in AKS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
+          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
+          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "quick-create-azure-front-door-endpoints-for-storage-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/quick-create-azure-front-door-endpoints-for-storage-accounts/",
+          "title": "Quick create Azure Front Door endpoints for Azure Storage accounts",
+          "description": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin",
+          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Storage is announcing native integration with Azure Front Door for content delivery with blob storage as your origin"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azacsnap-9-azure-application-consistent-snapshot-tool-updates/",
+          "title": "General Availability: AzAcSnap 9 — Azure Application Consistent Snapshot tool updates",
+          "description": "AzAcSnap Version 9 Release",
+          "pubDate": "Thu, 24 Aug 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AzAcSnap Version 9 Release"
           },
           "content:encoded": null
         }
