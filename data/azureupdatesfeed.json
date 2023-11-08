@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 08 Nov 2023 21:11:54 Z",
+      "lastBuildDate": "Wed, 08 Nov 2023 22:12:03 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios/",
+          "title": "General availability: Introducing NGads V620 Series VMs optimized for gaming scenarios",
+          "description": "The NGads V620 Series are now in public preview in the East US2, Europe West and West US3 regions.  This new series enables service providers to build differentiated cloud gaming experiences.",
+          "pubDate": "Wed, 08 Nov 2023 22:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The NGads V620 Series are now in public preview in the East US2, Europe West and West US3 regions.  This new series enables service providers to build differentiated cloud gaming experiences."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1591,21 +1606,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
-          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "computer-vision-api-retirements-13-9-2026"
           },
           "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
@@ -1615,6 +1615,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
+          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
+          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
           },
           "content:encoded": null
         },
@@ -3112,21 +3127,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now run applications that accept TCP connections on multiple ports."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-container-apps-support-for-udr-nat-gateway-and-smaller-subnets"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-support-for-udr-nat-gateway-and-smaller-subnets/",
-          "title": "Generally Available: Azure Container Apps support for UDR, NAT Gateway, and smaller subnets",
-          "description": "You can now define UDRs to manage how outbound traffic is routed for your container app environment’s subnet.",
-          "pubDate": "Wed, 30 Aug 2023 17:00:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now define UDRs to manage how outbound traffic is routed for your container app environment’s subnet."
           },
           "content:encoded": null
         }
