@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Nov 2023 22:12:03 Z</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2023 23:12:53 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -192,13 +192,74 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines</guid>
+      <link>https://azure.microsoft.com/en-us/updates/latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines/</link>
+      <title>Latency metrics for disks and performance metrics for temporary disks on Azure Virtual Machines </title>
+      <description>New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.</description>
+      <pubDate>Mon, 06 Nov 2023 18:00:11 Z</pubDate>
+      <atom:content
+        type="text">New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">azure-elastic-san-updates-snapshots-security-and-usability</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/</link>
-      <title>Azure Elastic SAN updates: Security, and Usability</title>
+      <title>Azure Elastic SAN updates: Snapshots, Security, and Usability</title>
       <description>Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution</description>
       <pubDate>Mon, 06 Nov 2023 18:00:01 Z</pubDate>
       <atom:content
         type="text">Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/</link>
+      <title>General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage</title>
+      <description>Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn </description>
+      <pubDate>Mon, 06 Nov 2023 17:00:28 Z</pubDate>
+      <atom:content
+        type="text">Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ability-to-add-dynamic-values-in-alert-s-custom-fields</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/</link>
+      <category>Alerts</category>
+      <category>Email</category>
+      <title>Ability to add dynamic values in Alert’s custom fields</title>
+      <description>Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.
+We added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.</description>
+      <pubDate>Mon, 06 Nov 2023 17:00:18 Z</pubDate>
+      <atom:content
+        type="text">Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.
+We added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-application-gateway-now-supports-ipv6-frontend</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-now-supports-ipv6-frontend/</link>
+      <category>Application Gateway</category>
+      <category>Features</category>
+      <title>Public preview: Application Gateway IPv6 support</title>
+      <description>Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.</description>
+      <pubDate>Mon, 06 Nov 2023 17:00:10 Z</pubDate>
+      <atom:content
+        type="text">Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-7-additional-azure-regions/</link>
+      <title>Azure Monitor managed service for Prometheus is available in 7 additional Azure regions</title>
+      <description>Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions.</description>
+      <pubDate>Mon, 06 Nov 2023 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">Azure Managed Prometheus was announced GA in May 2023 and is available in 19 regions, with this new update Azure Managed Prometheus will be available in 7 additional regions.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1209,17 +1270,6 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
     </item>
     <item>
       <guid
-        isPermaLink="false">computer-vision-api-retirements-13-9-2026</guid>
-      <link>https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/</link>
-      <title>Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026</title>
-      <description>Migrate to Azure Computer Vision 3.2 API before 13 September 2026</description>
-      <pubDate>Fri, 29 Sep 2023 23:00:41 Z</pubDate>
-      <atom:content
-        type="text">Migrate to Azure Computer Vision 3.2 API before 13 September 2026</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2</guid>
       <link>https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/</link>
       <title>App Service Environment version 1 and version 2 will be retired on 31 August 2024</title>
@@ -1227,6 +1277,17 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
       <pubDate>Fri, 29 Sep 2023 23:00:41 Z</pubDate>
       <atom:content
         type="text">Migrate to App Service Environment v3 by 31 August 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">computer-vision-api-retirements-13-9-2026</guid>
+      <link>https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/</link>
+      <title>Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026</title>
+      <description>Migrate to Azure Computer Vision 3.2 API before 13 September 2026</description>
+      <pubDate>Fri, 29 Sep 2023 23:00:41 Z</pubDate>
+      <atom:content
+        type="text">Migrate to Azure Computer Vision 3.2 API before 13 September 2026</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2285,61 +2346,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Thu, 31 Aug 2023 16:00:02 Z</pubDate>
       <atom:content
         type="text">Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-trusted-launch-as-default-for-vms-deployed-through-the-azure-portal</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-as-default-for-vms-deployed-through-the-azure-portal/</link>
-      <title>Generally Available: Trusted launch as default for VMs deployed through the Azure portal</title>
-      <description>Trusted launch is now enabled by default for VMS deployed through the Azure portal, enhancing the foundational security of these VMs. </description>
-      <pubDate>Wed, 30 Aug 2023 17:48:20 Z</pubDate>
-      <atom:content
-        type="text">Trusted launch is now enabled by default for VMS deployed through the Azure portal, enhancing the foundational security of these VMs. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-functions-net-8-support-in-linux-plans</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-net-8-support-in-linux-plans/</link>
-      <title>Public preview: Azure Functions .NET 8 support in Linux plans </title>
-      <description>Azure Functions now supports .NET 8 preview 7, using the isolated worker model.</description>
-      <pubDate>Wed, 30 Aug 2023 17:00:45 Z</pubDate>
-      <atom:content
-        type="text">Azure Functions now supports .NET 8 preview 7, using the isolated worker model.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-container-apps-supports-environment-level-mtls-encryption</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-supports-environment-level-mtls-encryption/</link>
-      <title>Public Preview: Azure Container Apps supports environment level mTLS encryption </title>
-      <description>You can now encrypt traffic transmitted between applications within an environment using mTLS.</description>
-      <pubDate>Wed, 30 Aug 2023 17:00:44 Z</pubDate>
-      <atom:content
-        type="text">You can now encrypt traffic transmitted between applications within an environment using mTLS.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-container-apps-jobs</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-jobs/</link>
-      <title>Generally available: Azure Container Apps jobs </title>
-      <description>You can now run production workloads that perform a task for a finite duration and exit, and schedule these workloads or run them in response to events.</description>
-      <pubDate>Wed, 30 Aug 2023 17:00:44 Z</pubDate>
-      <atom:content
-        type="text">You can now run production workloads that perform a task for a finite duration and exit, and schedule these workloads or run them in response to events.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-container-apps-supports-additional-tcp-ports</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-supports-additional-tcp-ports/</link>
-      <title>Public preview: Azure Container Apps supports additional TCP ports </title>
-      <description>You can now run applications that accept TCP connections on multiple ports.</description>
-      <pubDate>Wed, 30 Aug 2023 17:00:43 Z</pubDate>
-      <atom:content
-        type="text">You can now run applications that accept TCP connections on multiple ports.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
