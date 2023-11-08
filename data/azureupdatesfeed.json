@@ -12,13 +12,48 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 08 Nov 2023 17:11:55 Z",
+      "lastBuildDate": "Wed, 08 Nov 2023 18:16:39 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-using-a-common-port-for-public-and-private-listeners"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-using-a-common-port-for-public-and-private-listeners/",
+          "category": [
+            "Application Gateway",
+            "Features",
+            "Management"
+          ],
+          "title": "General availability: Using a common port for public and private listeners",
+          "description": "Easily manage public-facing and private-facing traffic on a common port.",
+          "pubDate": "Wed, 08 Nov 2023 18:03:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Easily manage public-facing and private-facing traffic on a common port."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-ratelimit-rules-for-application-gateway-web-application-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ratelimit-rules-for-application-gateway-web-application-firewall/",
+          "title": "General availability: Rate-limit rules for Application Gateway Web Application Firewall",
+          "description": "Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.",
+          "pubDate": "Wed, 08 Nov 2023 18:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -31,6 +66,171 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public preview enhancements and updates released for Azure SQL in early-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-red-hat-openshift-november-2023-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-november-2023-updates/",
+          "title": "Azure Red Hat OpenShift November 2023 updates",
+          "description": "Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support.",
+          "pubDate": "Tue, 07 Nov 2023 16:01:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "provider-for-running-karpenter-on-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/provider-for-running-karpenter-on-azure-kubernetes-service-aks/",
+          "title": "Provider for running Karpenter on Azure Kubernetes Service (AKS)",
+          "description": "You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters.",
+          "pubDate": "Tue, 07 Nov 2023 16:01:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-kubernetes-eventdriven-autoscaling-keda-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-kubernetes-eventdriven-autoscaling-keda-addon-for-aks/",
+          "title": "GA: Kubernetes Event-driven Autoscaling (KEDA) Add-on for AKS",
+          "description": "You can now use the KEDA add-on for AKS in production.",
+          "pubDate": "Tue, 07 Nov 2023 16:01:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use the KEDA add-on for AKS in production."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-kubernetes-128-support-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-kubernetes-128-support-in-azure-kubernetes-service-aks/",
+          "title": "GA: Kubernetes 1.28 support in Azure Kubernetes Service (AKS)",
+          "description": "You can now take advantage of Kubernetes 1.28 features in production.",
+          "pubDate": "Tue, 07 Nov 2023 16:01:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now take advantage of Kubernetes 1.28 features in production."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-application-routing-addon-for-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-application-routing-addon-for-azure-kubernetes-service-aks/",
+          "title": "GA: Application routing add-on for Azure Kubernetes Service (AKS)",
+          "description": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS",
+          "pubDate": "Tue, 07 Nov 2023 16:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
+          "title": "GA: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
+          "description": "You will now see AKS reserve up to 20% less memory on nodes due to improved AKS Kube-reserved resource optimization logic.",
+          "pubDate": "Tue, 07 Nov 2023 16:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You will now see AKS reserve up to 20% less memory on nodes due to improved AKS Kube-reserved resource optimization logic."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-dualstack-networking-in-azure-cni-overlay-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dualstack-networking-in-azure-cni-overlay-for-aks/",
+          "title": "Public preview: Dual-stack networking in Azure CNI Overlay for AKS",
+          "description": "You can now use dual-stack networking to communicate with services requiring IPv6 communication..",
+          "pubDate": "Tue, 07 Nov 2023 16:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use dual-stack networking to communicate with services requiring IPv6 communication.."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks/",
+          "title": "Public preview: Enhancements for Istio-based service mesh add-on for AKS",
+          "description": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades.",
+          "pubDate": "Tue, 07 Nov 2023 16:00:32 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-review-artifact-streaming-support-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-review-artifact-streaming-support-in-azure-kubernetes-service-aks/",
+          "title": "Public preview: Artifact streaming support in Azure Kubernetes Service (AKS)",
+          "description": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters.",
+          "pubDate": "Tue, 07 Nov 2023 16:00:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-image-integrity-support-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-image-integrity-support-in-azure-kubernetes-service-aks/",
+          "title": "Public preview: Image integrity support in Azure Kubernetes Service (AKS)",
+          "description": "You can now ensure that only signed container images are deployed to your AKS clusters.",
+          "pubDate": "Tue, 07 Nov 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now ensure that only signed container images are deployed to your AKS clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-azure-container-storage-in-aks-cli-experience"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-azure-container-storage-in-aks-cli-experience/",
+          "title": "Preview: Azure Container Storage in AKS",
+          "description": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience.",
+          "pubDate": "Mon, 06 Nov 2023 18:30:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience."
           },
           "content:encoded": null
         },
@@ -2932,207 +3132,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model through a preview configuration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-container-apps-dedicated-plan"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-dedicated-plan/",
-          "title": "Generally available: Azure Container Apps dedicated plan",
-          "description": "You can now run your apps on dedicated workload profiles that offer more CPU and memory if needed.",
-          "pubDate": "Wed, 30 Aug 2023 17:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now run your apps on dedicated workload profiles that offer more CPU and memory if needed."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-aspnet-core-integration-in-azure-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aspnet-core-integration-in-azure-functions/",
-          "category": [
-            "Azure Functions",
-            "Features",
-            "SDK and Tools"
-          ],
-          "title": "Generally Available: ASP.NET Core integration in Azure Functions",
-          "description": "Azure Functions now supports using ASP.NET types such as HttpRequest, HttpResponse, and IActionResult from .NET isolated function projects.",
-          "pubDate": "Wed, 30 Aug 2023 17:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions now supports using ASP.NET types such as HttpRequest, HttpResponse, and IActionResult from .NET isolated function projects."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-autoupgrade-scheduled-maintenance-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-autoupgrade-scheduled-maintenance-for-aks/",
-          "title": "Generally Available: Auto-upgrade scheduled maintenance for AKS",
-          "description": "You can now have dedicated maintenance for weekly AKS releases, auto upgrades and Node OS patching.",
-          "pubDate": "Wed, 30 Aug 2023 17:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now have dedicated maintenance for weekly AKS releases, auto upgrades and Node OS patching."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-updates-for-lateaugust-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-lateaugust-2023/",
-          "title": "General availability: Azure SQL updates for late-August 2023",
-          "description": "General availability enhancements and updates released for Azure SQL in late-August 2023.",
-          "pubDate": "Wed, 30 Aug 2023 16:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL in late-August 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-additional-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-additional-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/",
-          "title": "Generally available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server",
-          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.3, 14.8, 13.11, 12.15, 11.20.",
-          "pubDate": "Wed, 30 Aug 2023 16:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.3, 14.8, 13.11, 12.15, 11.20."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-universal-geo-restore-on-azure-database-for-mysql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-universal-geo-restore-on-azure-database-for-mysql-flexible-server/",
-          "title": "Public Preview: Universal geo restore on Azure Database for MySQL- Flexible Server",
-          "description": "Restore Azure Database for MySQL – Flexible Server to any Azure supported region.",
-          "pubDate": "Wed, 30 Aug 2023 16:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Restore Azure Database for MySQL – Flexible Server to any Azure supported region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-portal-experience-for-azure-database-migration-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-portal-experience-for-azure-database-migration-service/",
-          "title": "Public Preview – Azure Portal experience for Azure Database Migration Service",
-          "description": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL targets using DMS.",
-          "pubDate": "Wed, 30 Aug 2023 16:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL targets using DMS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-site-recovery-higher-churn-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-higher-churn-support/",
-          "title": "Generally available: Azure Site Recovery Higher Churn Support",
-          "description": "Azure Site Recovery High Churn Support",
-          "pubDate": "Tue, 29 Aug 2023 16:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Site Recovery High Churn Support"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "exportbehindfirewall"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/exportbehindfirewall/",
-          "category": "AzurePortal",
-          "title": "Preview: Export Cost Management data to secure storage accounts with firewall",
-          "description": "Export Cost Management data to secure storage accounts with firewall",
-          "pubDate": "Mon, 28 Aug 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Export Cost Management data to secure storage accounts with firewall"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-app-configuration-public-preview-release-of-snapshots-feature"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-app-configuration-public-preview-release-of-snapshots-feature/",
-          "title": "Azure App Configuration - public preview release of snapshots feature",
-          "description": "Key-value pairs from App Config store ensure controlled deployments.",
-          "pubDate": "Mon, 28 Aug 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Key-value pairs from App Config store ensure controlled deployments."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-logic-apps-standard-upgrade-to-node-18-lts-by-11-september-2023/",
-          "title": "Azure Logic Apps (Standard): Upgrade to Node 18 LTS by 11 September 2023",
-          "description": "Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023.",
-          "pubDate": "Fri, 25 Aug 2023 23:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Support for Node 16 LTS is ending on 11 September 2023. Any application hosted on Azure Logic Apps that relies on this version will not be supported and must be upgraded to Node 18 LTS by 11 September 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-kubernetes-124-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-kubernetes-124-support-in-aks/",
-          "title": "Retirement: Kubernetes 1.24 support in AKS",
-          "description": "Migrate to Kubernetes 1.25 or higher in AKS.",
-          "pubDate": "Fri, 25 Aug 2023 23:00:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to Kubernetes 1.25 or higher in AKS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-elevate-vm-resiliency-with-azure-advisors-availability-zone-recommendation/",
-          "title": "General Availability: Improve VM resiliency with Azure Advisor's Availability Zone recommendation.",
-          "description": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones",
-          "pubDate": "Thu, 24 Aug 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Avoid downtime and business interruptions by migrating your virtual machines to availability zones"
           },
           "content:encoded": null
         }
