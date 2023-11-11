@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 10 Nov 2023 23:12:27 Z",
+      "lastBuildDate": "Sat, 11 Nov 2023 00:58:45 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-support-tls-will-end-by-31-october-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-support-tls-will-end-by-31-october-2024-2/",
+          "title": "Azure support for TLS 1.0 and TLS 1.1 will end by 31 October 2024",
+          "description": "If you have resources that interact with Azure services and still use TLS 1.1 or earlier, transition them to TLS 1.2 or later by 31 October 2024",
+          "pubDate": "Sat, 11 Nov 2023 00:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "If you have resources that interact with Azure services and still use TLS 1.1 or earlier, transition them to TLS 1.2 or later by 31 October 2024"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3115,21 +3130,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Functions now supports .NET 8 preview 7, using the isolated worker model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-apps-supports-environment-level-mtls-encryption"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-supports-environment-level-mtls-encryption/",
-          "title": "Public Preview: Azure Container Apps supports environment level mTLS encryption",
-          "description": "You can now encrypt traffic transmitted between applications within an environment using mTLS.",
-          "pubDate": "Wed, 30 Aug 2023 17:00:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now encrypt traffic transmitted between applications within an environment using mTLS."
           },
           "content:encoded": null
         }
