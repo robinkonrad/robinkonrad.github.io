@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Nov 2023 03:15:39 Z</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2023 04:15:16 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,64 @@
       <pubDate>Sat, 11 Nov 2023 00:00:03 Z</pubDate>
       <atom:content
         type="text">If you have resources that interact with Azure services and still use TLS 1.1 or earlier, transition them to TLS 1.2 or later by 31 October 2024</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios/</link>
+      <title>General availability: Introducing NGads V620 Series VMs optimized for gaming scenarios </title>
+      <description>The NGads V620 Series are now in public preview in the East US2, Europe West and West US3 regions.  This new series enables service providers to build differentiated cloud gaming experiences.  </description>
+      <pubDate>Wed, 08 Nov 2023 22:00:13 Z</pubDate>
+      <atom:content
+        type="text">The NGads V620 Series are now in public preview in the East US2, Europe West and West US3 regions.  This new series enables service providers to build differentiated cloud gaming experiences.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-logs-archive-provides-up-to-12-years-of-retention</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-logs-archive-provides-up-to-12-years-of-retention/</link>
+      <title>Azure Monitor Logs archive provides up to 12 years of retention</title>
+      <description>Azure Monitor Logs extends archive retention to up to 12 years</description>
+      <pubDate>Wed, 08 Nov 2023 20:00:12 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor Logs extends archive retention to up to 12 years</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-using-a-common-port-for-public-and-private-listeners</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-using-a-common-port-for-public-and-private-listeners/</link>
+      <category>Application Gateway</category>
+      <category>Features</category>
+      <category>Management</category>
+      <title>General availability: Using a common port for public and private listeners</title>
+      <description>Easily manage public-facing and private-facing traffic on a common port.</description>
+      <pubDate>Wed, 08 Nov 2023 18:03:42 Z</pubDate>
+      <atom:content
+        type="text">Easily manage public-facing and private-facing traffic on a common port.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-ratelimit-rules-for-application-gateway-web-application-firewall</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-ratelimit-rules-for-application-gateway-web-application-firewall/</link>
+      <title>General availability: Rate-limit rules for Application Gateway Web Application Firewall</title>
+      <description>Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.</description>
+      <pubDate>Wed, 08 Nov 2023 18:00:11 Z</pubDate>
+      <atom:content
+        type="text">Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-earlynovember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-earlynovember-2023/</link>
+      <title>Public Preview: Azure SQL updates for early-November 2023</title>
+      <description>Public preview enhancements and updates released for Azure SQL in early-November 2023.</description>
+      <pubDate>Wed, 08 Nov 2023 17:00:11 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in early-November 2023.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2288,61 +2346,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Thu, 31 Aug 2023 16:00:03 Z</pubDate>
       <atom:content
         type="text">This feature allows you to upgrade your firewall without service downtime, with a single click of a button.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-firewall-poland-central-region-are-now-in-general-availability</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-poland-central-region-are-now-in-general-availability/</link>
-      <title>Azure Firewall: Poland Central Region is now in general availability </title>
-      <description>Azure Firewall is now generally available in the Poland Central region.</description>
-      <pubDate>Thu, 31 Aug 2023 16:00:03 Z</pubDate>
-      <atom:content
-        type="text">Azure Firewall is now generally available in the Poland Central region.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-firewall-explicit-proxy-is-now-in-public-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-explicit-proxy-is-now-in-public-preview/</link>
-      <title>Azure Firewall: Explicit Proxy is now in public preview</title>
-      <description>This configuration allows traffic from the sending application to be directed to the private IP address of the firewall, facilitating direct egress from the firewall without the need for a UDR.</description>
-      <pubDate>Thu, 31 Aug 2023 16:00:02 Z</pubDate>
-      <atom:content
-        type="text">This configuration allows traffic from the sending application to be directed to the private IP address of the firewall, facilitating direct egress from the firewall without the need for a UDR.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-firewall-autolearn-snat-routes-feature-is-now-in-public-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-autolearn-snat-routes-feature-is-now-in-public-preview/</link>
-      <title>Azure Firewall: Auto-Learn SNAT routes feature is now in public preview</title>
-      <description>Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges. </description>
-      <pubDate>Thu, 31 Aug 2023 16:00:02 Z</pubDate>
-      <atom:content
-        type="text">Azure Firewall can now learn address ranges and automatically configure them to be excluded from SNAT, to reduce time and complexity spent manually defining SNAT private ranges. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-trusted-launch-as-default-for-vms-deployed-through-the-azure-portal</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-as-default-for-vms-deployed-through-the-azure-portal/</link>
-      <title>Generally Available: Trusted launch as default for VMs deployed through the Azure portal</title>
-      <description>Trusted launch is now enabled by default for VMS deployed through the Azure portal, enhancing the foundational security of these VMs. </description>
-      <pubDate>Wed, 30 Aug 2023 17:48:20 Z</pubDate>
-      <atom:content
-        type="text">Trusted launch is now enabled by default for VMS deployed through the Azure portal, enhancing the foundational security of these VMs. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-functions-net-8-support-in-linux-plans</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-net-8-support-in-linux-plans/</link>
-      <title>Public preview: Azure Functions .NET 8 support in Linux plans </title>
-      <description>Azure Functions now supports .NET 8 preview 7, using the isolated worker model.</description>
-      <pubDate>Wed, 30 Aug 2023 17:00:45 Z</pubDate>
-      <atom:content
-        type="text">Azure Functions now supports .NET 8 preview 7, using the isolated worker model.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
