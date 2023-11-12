@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2023 07:12:16 Z</lastBuildDate>
+    <lastBuildDate>Sun, 12 Nov 2023 08:15:26 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,17 @@
       <pubDate>Sat, 11 Nov 2023 00:00:03 Z</pubDate>
       <atom:content
         type="text">If you have resources that interact with Azure services and still use TLS 1.1 or earlier, transition them to TLS 1.2 or later by 31 October 2024</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">app-service-e2e-encryption-linux-multi-tenant-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/app-service-e2e-encryption-linux-multi-tenant-preview/</link>
+      <title>Public Preview: App Service End-to-end (E2E) Encryption for Linux Multi-tenant Resources</title>
+      <description>Encrypt traffic between multi-tenant App Service front-ends and workers using the new End-to-end (E2E) TLS Encryption (Preview) feature.</description>
+      <pubDate>Thu, 09 Nov 2023 16:00:10 Z</pubDate>
+      <atom:content
+        type="text">Encrypt traffic between multi-tenant App Service front-ends and workers using the new End-to-end (E2E) TLS Encryption (Preview) feature.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2335,17 +2346,6 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <pubDate>Thu, 31 Aug 2023 20:00:19 Z</pubDate>
       <atom:content
         type="text">VM Insights using Azure Monitor Agent provides various benefits like cost savings, simplified management experience and enhanced security &amp; performance.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-firewall-singleclick-upgrade-and-downgrade-is-now-in-general-availability</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-singleclick-upgrade-and-downgrade-is-now-in-general-availability/</link>
-      <title>Azure Firewall Single-Click Upgrade and Downgrade is now in general availability </title>
-      <description>This feature allows you to upgrade your firewall without service downtime, with a single click of a button.</description>
-      <pubDate>Thu, 31 Aug 2023 16:00:03 Z</pubDate>
-      <atom:content
-        type="text">This feature allows you to upgrade your firewall without service downtime, with a single click of a button.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
