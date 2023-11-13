@@ -12,13 +12,79 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 13 Nov 2023 16:17:39 Z",
+      "lastBuildDate": "Mon, 13 Nov 2023 17:11:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway/",
+          "category": "Azure API Management",
+          "title": "Public Preview: Support for GraphQL APIs in Azure API Management Self-hosted Gateway",
+          "description": "Customers now have the power to expose GraphQL APIs through Azure API Management's self-hosted gateway.",
+          "pubDate": "Mon, 13 Nov 2023 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers now have the power to expose GraphQL APIs through Azure API Management's self-hosted gateway."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-agent-json-log-collection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-json-log-collection/",
+          "title": "Public Preview: Azure Monitor Agent JSON log collection",
+          "description": "Azure Monitoring Agent team has released for public preview JSON log collection. New collection types enable customers to migrate from other competing data collection services to Azure Monitor.",
+          "pubDate": "Mon, 13 Nov 2023 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitoring Agent team has released for public preview JSON log collection. New collection types enable customers to migrate from other competing data collection services to Azure Monitor."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway/",
+          "category": "Azure API Management",
+          "title": "Public Preview: Support for gRPC APIs in Azure API Management Self-Hosted Gateway",
+          "description": "We are thrilled to announce the public preview of gRPC support in Azure API Management through the self-hosted gateway. This exciting feature empowers customers to seamlessly manage their gRPC services as APIs within Azure API Management.",
+          "pubDate": "Mon, 13 Nov 2023 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are thrilled to announce the public preview of gRPC support in Azure API Management through the self-hosted gateway. This exciting feature empowers customers to seamlessly manage their gRPC services as APIs within Azure API Management."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-alerts-integration-with-event-grid-for-azure-key-vault-system-events"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-alerts-integration-with-event-grid-for-azure-key-vault-system-events/",
+          "category": [
+            "Alerts",
+            "Email"
+          ],
+          "title": "Public Preview: Azure Monitor Alerts integration with Event Grid for Azure Key Vault system events",
+          "description": "​​​​​​​Azure Monitor alerts as a destination in Event Grid event subscriptions allow you to receive notification of critical events via action groups as Short Message Service (SMS), email, push notification, and more. You can leverage on the low latency event delivery of Event Grid with the flexibility and direct-to-customer notifications of Azure Monitor alerts.",
+          "pubDate": "Mon, 13 Nov 2023 17:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "​​​​​​​Azure Monitor alerts as a destination in Event Grid event subscriptions allow you to receive notification of critical events via action groups as Short Message Service (SMS), email, push notification, and more. You can leverage on the low latency event delivery of Event Grid with the flexibility and direct-to-customer notifications of Azure Monitor alerts."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3074,68 +3140,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing resources can now move across resource groups and subscriptions without losing tests /test runs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-australiaeast-francecentral-norwayeast-uaenorth"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-premium-ssd-v2-disk-storage-is-now-available-in-australiaeast-francecentral-norwayeast-uaenorth/",
-          "category": "Tag=AzurePortal",
-          "title": "Generally available: Azure Premium SSD v2 Disk Storage is now available in more regions",
-          "description": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance",
-          "pubDate": "Thu, 07 Sep 2023 17:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-storage-updates-expanded-regions-and-performance-options"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-storage-updates-expanded-regions-and-performance-options/",
-          "title": "Public Preview: Azure Container Storage Updates: Expanded regions and performance options",
-          "description": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs.",
-          "pubDate": "Thu, 07 Sep 2023 17:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest updates you can now deploy in 26 regions, use volume resize & cloning and choose from an expanded list of Disk SKUs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "build-aiassisted-calling-workflows-with-azure-ai-speech-and-azure-communication-services"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/build-aiassisted-calling-workflows-with-azure-ai-speech-and-azure-communication-services/",
-          "title": "Build AI-assisted calling workflows with  Azure AI Speech and Azure Communication Services",
-          "description": "Add speech capabilities into Azure Communication Services call automation workflows with Azure AI Speech.",
-          "pubDate": "Wed, 06 Sep 2023 15:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Add speech capabilities into Azure Communication Services call automation workflows with Azure AI Speech."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-test-single-graphql-resolver-in-azure-api-management-portal"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-test-single-graphql-resolver-in-azure-api-management-portal/",
-          "category": "#AzureAPIManagement #GraphQL #DeveloperExperience",
-          "title": "Public Preview: Test Single GraphQL Resolver in Azure API Management Portal",
-          "description": "Customers using Azure API Management can seamlessly evaluate their GraphQL resolvers directly within the portal during the configuration phase in Azure portal.",
-          "pubDate": "Tue, 05 Sep 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers using Azure API Management can seamlessly evaluate their GraphQL resolvers directly within the portal during the configuration phase in Azure portal."
           },
           "content:encoded": null
         }
