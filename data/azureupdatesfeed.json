@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 13 Nov 2023 15:13:59 Z",
+      "lastBuildDate": "Mon, 13 Nov 2023 16:17:39 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "export-cost-using-focus"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/export-cost-using-focus/",
+          "category": "FinOps AzurePortal CostManagement",
+          "title": "Export cost details using the FinOps Open Cost and Usage Specification (FOCUS)",
+          "description": "Sign up for an early preview of Cost Management exports that provide cost data aligned to the open-source FinOps Open Cost and Usage Specification (FOCUS).",
+          "pubDate": "Mon, 13 Nov 2023 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Sign up for an early preview of Cost Management exports that provide cost data aligned to the open-source FinOps Open Cost and Usage Specification (FOCUS)."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3120,21 +3136,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers using Azure API Management can seamlessly evaluate their GraphQL resolvers directly within the portal during the configuration phase in Azure portal."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-monitor-vm-insights-using-azure-monitor-agent"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-vm-insights-using-azure-monitor-agent/",
-          "title": "Generally Available: Azure Monitor VM Insights using Azure Monitor Agent",
-          "description": "VM Insights using Azure Monitor Agent provides various benefits like cost savings, simplified management experience and enhanced security & performance.",
-          "pubDate": "Thu, 31 Aug 2023 20:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VM Insights using Azure Monitor Agent provides various benefits like cost savings, simplified management experience and enhanced security & performance."
           },
           "content:encoded": null
         }
