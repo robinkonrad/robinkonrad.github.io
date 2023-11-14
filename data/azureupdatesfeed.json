@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 14 Nov 2023 16:14:37 Z",
+      "lastBuildDate": "Tue, 14 Nov 2023 17:10:31 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-ubuntu-server-to-ubuntu-pro-inplace-upgrade-now-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ubuntu-server-to-ubuntu-pro-inplace-upgrade-now-available/",
+          "category": [
+            "Linux on Azure",
+            "Ubuntu",
+            "Azure Virtual Machines",
+            "Azure Kubernetes Service"
+          ],
+          "title": "General Availability: Ubuntu Server to Ubuntu Pro in-place upgrade now available",
+          "description": "Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime.",
+          "pubDate": "Tue, 14 Nov 2023 17:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3124,22 +3145,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing now supports uploading files greater than 50 MB by compressing them into a ZIP file."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "move-azure-load-testing-resources-across-resource-groups-and-subscriptions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/move-azure-load-testing-resources-across-resource-groups-and-subscriptions/",
-          "category": "AzureLoadTesting",
-          "title": "Move Azure Load Testing resources across resource groups and subscriptions",
-          "description": "Azure Load Testing resources can now move across resource groups and subscriptions without losing tests /test runs.",
-          "pubDate": "Thu, 07 Sep 2023 18:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing resources can now move across resource groups and subscriptions without losing tests /test runs."
           },
           "content:encoded": null
         }
