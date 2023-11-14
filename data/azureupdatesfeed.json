@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 14 Nov 2023 17:10:31 Z",
+      "lastBuildDate": "Tue, 14 Nov 2023 18:14:43 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Tue, 14 Nov 2023 18:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-functions-supports-net-8-in-the-isolated-worker-model"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-functions-supports-net-8-in-the-isolated-worker-model/",
+          "title": "GA: Azure Functions supports .NET 8 in the isolated worker model",
+          "description": "Azure Functions now supports .NET 8, using the isolated worker model.",
+          "pubDate": "Tue, 14 Nov 2023 18:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Functions now supports .NET 8, using the isolated worker model."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3113,38 +3143,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Front Door Standard and Premium support bring your own certificated based domain validation, streamlining the steps and efforts required to validate domain ownership."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "kusto-graph-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-public-preview/",
-          "category": "kusto",
-          "title": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
-          "description": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.",
-          "pubDate": "Mon, 11 Sep 2023 15:00:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-now-supports-uploading-large-files-as-zip"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-now-supports-uploading-large-files-as-zip/",
-          "category": "AzureLoadTesting",
-          "title": "Azure Load Testing now supports uploading large files as ZIP",
-          "description": "Azure Load Testing now supports uploading files greater than 50 MB by compressing them into a ZIP file.",
-          "pubDate": "Thu, 07 Sep 2023 18:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports uploading files greater than 50 MB by compressing them into a ZIP file."
           },
           "content:encoded": null
         }
