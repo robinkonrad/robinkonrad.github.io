@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 14 Nov 2023 21:09:38 Z",
+      "lastBuildDate": "Tue, 14 Nov 2023 22:12:30 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "experiment-templates-now-available-in-azure-chaos-studio"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/experiment-templates-now-available-in-azure-chaos-studio/",
+          "title": "Experiment templates now available in Azure Chaos Studio",
+          "description": "Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios.",
+          "pubDate": "Tue, 14 Nov 2023 21:38:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio/",
+          "title": "General availability: Start and stop load (Azure Load Testing) faults in Azure Chaos Studio",
+          "description": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load.",
+          "pubDate": "Tue, 14 Nov 2023 21:38:31 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3113,37 +3143,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Configure load testing in your CI/CD pipeline from Azure portal in just a few steps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-front-door-standard-and-premium-support-bring-your-own-certificated-based-domain-validation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-front-door-standard-and-premium-support-bring-your-own-certificated-based-domain-validation/",
-          "title": "Azure Front Door Standard and Premium support bring your own certificated based domain validation",
-          "description": "Azure Front Door Standard and Premium support bring your own certificated based domain validation, streamlining the steps and efforts required to validate domain ownership.",
-          "pubDate": "Mon, 11 Sep 2023 16:00:47 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Front Door Standard and Premium support bring your own certificated based domain validation, streamlining the steps and efforts required to validate domain ownership."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "kusto-graph-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-public-preview/",
-          "category": "kusto",
-          "title": "Introducing Graph Semantics in Kusto, a new way to contextualize time series data",
-          "description": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs.",
-          "pubDate": "Mon, 11 Sep 2023 15:00:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Analyze networks, connected assets and more with Kusto's graph semantics extension to the Kusto Query Language (KQL). Find out how to contextualize your time series data in KQL, and how to leverage time-aware graphs."
           },
           "content:encoded": null
         }
