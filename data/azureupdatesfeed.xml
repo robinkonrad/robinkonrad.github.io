@@ -6,42 +6,86 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Nov 2023 15:14:05 Z</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 16:18:08 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
     <item>
       <guid
-        isPermaLink="false">experiment-templates-now-available-in-azure-chaos-studio</guid>
-      <link>https://azure.microsoft.com/en-us/updates/experiment-templates-now-available-in-azure-chaos-studio/</link>
-      <title>Experiment templates now available in Azure Chaos Studio </title>
-      <description>Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios. </description>
-      <pubDate>Tue, 14 Nov 2023 21:38:44 Z</pubDate>
+        isPermaLink="false">introducing-new-capabilities-in-microsoft-dev-box</guid>
+      <link>https://azure.microsoft.com/en-us/updates/introducing-new-capabilities-in-microsoft-dev-box/</link>
+      <title>Introducing New Capabilities in Microsoft Dev Box</title>
+      <description>Microsoft Dev Box is introducing new capabilities to support greater customization and simplify Dev Box setup for development teams.</description>
+      <pubDate>Wed, 15 Nov 2023 16:00:36 Z</pubDate>
       <atom:content
-        type="text">Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios. </atom:content>
+        type="text">Microsoft Dev Box is introducing new capabilities to support greater customization and simplify Dev Box setup for development teams.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
       <guid
-        isPermaLink="false">general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio/</link>
-      <title>General availability: Start and stop load (Azure Load Testing) faults in Azure Chaos Studio </title>
-      <description>Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load. </description>
-      <pubDate>Tue, 14 Nov 2023 21:38:31 Z</pubDate>
+        isPermaLink="false">public-preview-3rd-party-support-for-arm-solutions-in-azure-marketplace</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-3rd-party-support-for-arm-solutions-in-azure-marketplace/</link>
+      <title>Public preview: 3rd party support for Arm solutions in Azure Marketplace</title>
+      <description>Partners can now publish solutions built for Arm-based architecture to the Azure Marketplace. Enabling has broader support for ARM64 for all customers and partners in Azure.</description>
+      <pubDate>Wed, 15 Nov 2023 16:00:36 Z</pubDate>
       <atom:content
-        type="text">Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load. </atom:content>
+        type="text">Partners can now publish solutions built for Arm-based architecture to the Azure Marketplace. Enabling has broader support for ARM64 for all customers and partners in Azure.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
       <guid
-        isPermaLink="false">ga-azure-functions-supports-net-8-in-the-isolated-worker-model</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-azure-functions-supports-net-8-in-the-isolated-worker-model/</link>
-      <title>GA: Azure Functions supports .NET 8 in the isolated worker model </title>
-      <description>Azure Functions now supports .NET 8, using the isolated worker model.</description>
-      <pubDate>Tue, 14 Nov 2023 18:00:21 Z</pubDate>
+        isPermaLink="false">introducing-new-capabilities-in-azure-deployment-environments</guid>
+      <link>https://azure.microsoft.com/en-us/updates/introducing-new-capabilities-in-azure-deployment-environments/</link>
+      <title>Introducing New Capabilities in Azure Deployment Environments</title>
+      <description>Azure Deployment Environments is adding new capabilities to deliver an end-to-end developer experience, broader infrastructure-as-code (IaC) template support, and the ability to control costs by configuring auto-delete schedules.</description>
+      <pubDate>Wed, 15 Nov 2023 16:00:36 Z</pubDate>
       <atom:content
-        type="text">Azure Functions now supports .NET 8, using the isolated worker model.</atom:content>
+        type="text">Azure Deployment Environments is adding new capabilities to deliver an end-to-end developer experience, broader infrastructure-as-code (IaC) template support, and the ability to control costs by configuring auto-delete schedules.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-vm-hibernation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-vm-hibernation/</link>
+      <title>Public preview: VM Hibernation</title>
+      <description>VMs can now be put into a hibernate state in which you don't pay for any VM usage, while the VM state can be saved and be restored at a later time. </description>
+      <pubDate>Wed, 15 Nov 2023 16:00:35 Z</pubDate>
+      <atom:content
+        type="text">VMs can now be put into a hibernate state in which you don't pay for any VM usage, while the VM state can be saved and be restored at a later time. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-vmss-zonal-expansion</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-vmss-zonal-expansion/</link>
+      <title>Public preview: Azure VMSS Zonal Expansion</title>
+      <description>Zonal expansion for VMs and VM Scale Sets empowers users to smoothly transition their regionally configured VMs or VM scale sets into a zonal configuration across Azure availability zones, resulting an increased availability Service Level Agreement (SLA) from 99.95% to 99.99%.</description>
+      <pubDate>Wed, 15 Nov 2023 16:00:28 Z</pubDate>
+      <atom:content
+        type="text">Zonal expansion for VMs and VM Scale Sets empowers users to smoothly transition their regionally configured VMs or VM scale sets into a zonal configuration across Azure availability zones, resulting an increased availability Service Level Agreement (SLA) from 99.95% to 99.99%.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-new-generation-amd-vms-eav6dav6fav6</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-generation-amd-vms-eav6dav6fav6/</link>
+      <title>GA: Azure Boost</title>
+      <description>Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact.</description>
+      <pubDate>Wed, 15 Nov 2023 16:00:20 Z</pubDate>
+      <atom:content
+        type="text">Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-new-generation-amd-vms-dav6eav6fav6</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-generation-amd-vms-dav6eav6fav6/</link>
+      <title>Public preview: New Generation AMD VMs - Dasv6/Easv6/Fasv6</title>
+      <description>Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU.</description>
+      <pubDate>Wed, 15 Nov 2023 16:00:10 Z</pubDate>
+      <atom:content
+        type="text">Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -57,66 +101,6 @@
       <pubDate>Tue, 14 Nov 2023 17:00:21 Z</pubDate>
       <atom:content
         type="text">Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway/</link>
-      <category>Azure API Management</category>
-      <title>Public Preview: Support for GraphQL APIs in Azure API Management Self-hosted Gateway  </title>
-      <description>Customers now have the power to expose GraphQL APIs through Azure API Management's self-hosted gateway. </description>
-      <pubDate>Mon, 13 Nov 2023 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Customers now have the power to expose GraphQL APIs through Azure API Management's self-hosted gateway. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-agent-json-log-collection</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-json-log-collection/</link>
-      <title>Public Preview: Azure Monitor Agent JSON log collection </title>
-      <description>Azure Monitoring Agent team has released for public preview JSON log collection. New collection types enable customers to migrate from other competing data collection services to Azure Monitor.</description>
-      <pubDate>Mon, 13 Nov 2023 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Azure Monitoring Agent team has released for public preview JSON log collection. New collection types enable customers to migrate from other competing data collection services to Azure Monitor.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway/</link>
-      <category>Azure API Management</category>
-      <title>Public Preview: Support for gRPC APIs in Azure API Management Self-Hosted Gateway</title>
-      <description>We are thrilled to announce the public preview of gRPC support in Azure API Management through the self-hosted gateway. This exciting feature empowers customers to seamlessly manage their gRPC services as APIs within Azure API Management. </description>
-      <pubDate>Mon, 13 Nov 2023 17:00:07 Z</pubDate>
-      <atom:content
-        type="text">We are thrilled to announce the public preview of gRPC support in Azure API Management through the self-hosted gateway. This exciting feature empowers customers to seamlessly manage their gRPC services as APIs within Azure API Management. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-alerts-integration-with-event-grid-for-azure-key-vault-system-events</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-alerts-integration-with-event-grid-for-azure-key-vault-system-events/</link>
-      <category>Alerts</category>
-      <category>Email</category>
-      <title>Public Preview: Azure Monitor Alerts integration with Event Grid for Azure Key Vault system events</title>
-      <description>​​​​​​​Azure Monitor alerts as a destination in Event Grid event subscriptions allow you to receive notification of critical events via action groups as Short Message Service (SMS), email, push notification, and more. You can leverage on the low latency event delivery of Event Grid with the flexibility and direct-to-customer notifications of Azure Monitor alerts.</description>
-      <pubDate>Mon, 13 Nov 2023 17:00:06 Z</pubDate>
-      <atom:content
-        type="text">​​​​​​​Azure Monitor alerts as a destination in Event Grid event subscriptions allow you to receive notification of critical events via action groups as Short Message Service (SMS), email, push notification, and more. You can leverage on the low latency event delivery of Event Grid with the flexibility and direct-to-customer notifications of Azure Monitor alerts.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">export-cost-using-focus</guid>
-      <link>https://azure.microsoft.com/en-us/updates/export-cost-using-focus/</link>
-      <category>FinOps AzurePortal CostManagement</category>
-      <title>Export cost details using the FinOps Open Cost and Usage Specification (FOCUS)</title>
-      <description>Sign up for an early preview of Cost Management exports that provide cost data aligned to the open-source FinOps Open Cost and Usage Specification (FOCUS).</description>
-      <pubDate>Mon, 13 Nov 2023 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">Sign up for an early preview of Cost Management exports that provide cost data aligned to the open-source FinOps Open Cost and Usage Specification (FOCUS).</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -357,7 +341,7 @@
       <guid
         isPermaLink="false">azure-elastic-san-updates-snapshots-security-and-usability</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/</link>
-      <title>Azure Elastic SAN updates: Security, and Usability</title>
+      <title>Azure Elastic SAN updates: Snapshots, Security, and Usability</title>
       <description>Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution</description>
       <pubDate>Mon, 06 Nov 2023 18:00:01 Z</pubDate>
       <atom:content
@@ -782,7 +766,7 @@ Additionally, Identity emails will now be sent from Microsoft Security (MSSecuri
 Learn more: https://aka.ms/contentsafety 
 
 Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio</description>
-      <pubDate>Wed, 18 Oct 2023 16:00:23 Z</pubDate>
+      <pubDate>Wed, 18 Oct 2023 16:00:18 Z</pubDate>
       <atom:content
         type="text">Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.
 
@@ -1053,7 +1037,7 @@ Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystud
       <link>https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/</link>
       <title>Migrate to Azure Monitor agent–based VM insights by 31 August 2024</title>
       <description>Log Analytics agent–based VM insights will be retired.</description>
-      <pubDate>Fri, 06 Oct 2023 23:00:11 Z</pubDate>
+      <pubDate>Fri, 06 Oct 2023 23:00:14 Z</pubDate>
       <atom:content
         type="text">Log Analytics agent–based VM insights will be retired.</atom:content>
       <content:encoded></content:encoded>
@@ -1422,17 +1406,6 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
     </item>
     <item>
       <guid
-        isPermaLink="false">app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/</link>
-      <title>App Service Environment version 1 and version 2 will be retired on 31 August 2024</title>
-      <description>Migrate to App Service Environment v3 by 31 August 2024.</description>
-      <pubDate>Fri, 29 Sep 2023 23:00:41 Z</pubDate>
-      <atom:content
-        type="text">Migrate to App Service Environment v3 by 31 August 2024.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">computer-vision-api-retirements-13-9-2026</guid>
       <link>https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/</link>
       <title>Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026</title>
@@ -1440,6 +1413,17 @@ Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virt
       <pubDate>Fri, 29 Sep 2023 23:00:41 Z</pubDate>
       <atom:content
         type="text">Migrate to Azure Computer Vision 3.2 API before 13 September 2026</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/</link>
+      <title>App Service Environment version 1 and version 2 will be retired on 31 August 2024</title>
+      <description>Migrate to App Service Environment v3 by 31 August 2024.</description>
+      <pubDate>Fri, 29 Sep 2023 23:00:41 Z</pubDate>
+      <atom:content
+        type="text">Migrate to App Service Environment v3 by 31 August 2024.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2344,10 +2328,21 @@ Please refer to https://learn.microsoft.com/en-us/azure/app-service/configure-co
       <title>Configure load testing in your CI/CD pipeline from Azure portal</title>
       <description>Configure load testing in your CI/CD pipeline from Azure portal in just a few steps.
 </description>
-      <pubDate>Tue, 12 Sep 2023 15:00:14 Z</pubDate>
+      <pubDate>Tue, 12 Sep 2023 15:00:23 Z</pubDate>
       <atom:content
         type="text">Configure load testing in your CI/CD pipeline from Azure portal in just a few steps.
 </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-front-door-standard-and-premium-support-bring-your-own-certificated-based-domain-validation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-front-door-standard-and-premium-support-bring-your-own-certificated-based-domain-validation/</link>
+      <title>Azure Front Door Standard and Premium support bring your own certificated based domain validation</title>
+      <description>Azure Front Door Standard and Premium support bring your own certificated based domain validation, streamlining the steps and efforts required to validate domain ownership.</description>
+      <pubDate>Mon, 11 Sep 2023 16:00:47 Z</pubDate>
+      <atom:content
+        type="text">Azure Front Door Standard and Premium support bring your own certificated based domain validation, streamlining the steps and efforts required to validate domain ownership.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
