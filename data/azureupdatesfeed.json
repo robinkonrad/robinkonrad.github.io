@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 15 Nov 2023 19:10:50 Z",
+      "lastBuildDate": "Wed, 15 Nov 2023 20:14:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-attach-and-vms-to-and-from-existing-virtual-machine-scale-sets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-attach-and-vms-to-and-from-existing-virtual-machine-scale-sets/",
+          "title": "Public Preview: Attach and VMs to and from Existing Virtual Machine Scale Sets",
+          "description": "You can now easily bring existing VMs to an existing Virtual Machine Scale Set with Flexible Orchestration Mode to take advantage of the scaling orchestrations offered by scale sets. You can now detach a VM from the scale set for isolation and troubleshooting.",
+          "pubDate": "Wed, 15 Nov 2023 20:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now easily bring existing VMs to an existing Virtual Machine Scale Set with Flexible Orchestration Mode to take advantage of the scaling orchestrations offered by scale sets. You can now detach a VM from the scale set for isolation and troubleshooting."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -870,21 +885,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
-          "title": "Public preview: Dynamic scaling per partition and per region",
-          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
@@ -894,6 +894,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
+          "title": "Public preview: Dynamic scaling per partition and per region",
+          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
+          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
           },
           "content:encoded": null
         },
@@ -2993,21 +3008,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
-          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "computer-vision-api-retirements-13-9-2026"
           },
           "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
@@ -3017,6 +3017,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
+          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
+          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
           },
           "content:encoded": null
         },
@@ -3092,21 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Extended support for PHP 8.1 ends on 25 November 2024 — upgrade your apps to PHP 8.2"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access/",
-          "title": "Default outbound access for VMs in Azure will be retired— transition to a new method of internet access",
-          "description": "Default outbound access connectivity for virtual machines will be retired in September 2025",
-          "pubDate": "Fri, 29 Sep 2023 23:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Default outbound access connectivity for virtual machines will be retired in September 2025"
           },
           "content:encoded": null
         }
