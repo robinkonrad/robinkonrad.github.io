@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 15 Nov 2023 23:13:31 Z",
+      "lastBuildDate": "Thu, 16 Nov 2023 01:02:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-attach-and-vms-to-and-from-existing-virtual-machine-scale-sets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-attach-and-vms-to-and-from-existing-virtual-machine-scale-sets/",
+          "title": "Public Preview: Attach and VMs to and from Existing Virtual Machine Scale Sets",
+          "description": "You can now easily bring existing VMs to an existing Virtual Machine Scale Set with Flexible Orchestration Mode to take advantage of the scaling orchestrations offered by scale sets. You can now detach a VM from the scale set for isolation and troubleshooting.",
+          "pubDate": "Wed, 15 Nov 2023 20:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now easily bring existing VMs to an existing Virtual Machine Scale Set with Flexible Orchestration Mode to take advantage of the scaling orchestrations offered by scale sets. You can now detach a VM from the scale set for isolation and troubleshooting."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -429,6 +444,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Deploy and build decentralized governance applications with granular confidentiality amongst members."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-azure-confidential-vms-with-nvidia-h100-tensor-core-gpus"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-azure-confidential-vms-with-nvidia-h100-tensor-core-gpus/",
+          "title": "Preview: Azure confidential VMs with NVIDIA H100 Tensor Core GPUs",
+          "description": "Azure confidential VMs with NVIDIA H100 Tensor Core GPUs is open for preview. Please use the sign-up at aka.ms/accgpusignup for your onboarding request.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure confidential VMs with NVIDIA H100 Tensor Core GPUs is open for preview. Please use the sign-up at aka.ms/accgpusignup for your onboarding request."
           },
           "content:encoded": null
         },
@@ -1557,21 +1587,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use dual-stack networking to communicate with services requiring IPv6 communication.."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks/",
-          "title": "Public preview: Enhancements for Istio-based service mesh add-on for AKS",
-          "description": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades."
           },
           "content:encoded": null
         },
@@ -3099,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "SAP HANA Large Instance (HLI) on Gen4/Gen4.5 is being retired - Migrate to SAP certified Azure Virtual Machines before 30 June 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "python-opencensus-retirement"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/python-opencensus-retirement/",
-          "title": "Azure Monitor support for OpenCensus will end on 30 September 2024 - transition to using Azure Monitor OpenTelemetry Python Distro",
-          "description": "Azure Monitor support for OpenCensus will end on 30 September 2024",
-          "pubDate": "Fri, 29 Sep 2023 23:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor support for OpenCensus will end on 30 September 2024"
           },
           "content:encoded": null
         }
