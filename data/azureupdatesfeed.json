@@ -12,43 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 16 Nov 2023 17:11:55 Z",
+      "lastBuildDate": "Thu, 16 Nov 2023 18:17:15 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor/",
-          "title": "General availability: Integration of Azure Monitor Agent support with Connection Monitor",
-          "description": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations",
-          "pubDate": "Thu, 16 Nov 2023 17:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-private-subnet"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-private-subnet/",
-          "title": "Public preview: Private subnet",
-          "description": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation",
-          "pubDate": "Thu, 16 Nov 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation"
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -435,6 +405,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -585,21 +570,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -609,6 +579,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -1230,6 +1215,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio/",
+          "title": "General availability: Start and stop load (Azure Load Testing) faults in Azure Chaos Studio",
+          "description": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load.",
+          "pubDate": "Wed, 15 Nov 2023 00:34:49 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "experiment-templates-now-available-in-azure-chaos-studio"
           },
           "link": "https://azure.microsoft.com/en-us/updates/experiment-templates-now-available-in-azure-chaos-studio/",
@@ -1239,21 +1239,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio/",
-          "title": "General availability: Start and stop load (Azure Load Testing) faults in Azure Chaos Studio",
-          "description": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load.",
-          "pubDate": "Tue, 14 Nov 2023 21:38:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load."
           },
           "content:encoded": null
         },
@@ -1623,6 +1608,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-enhancements-for-istiobased-service-mesh-addon-for-aks/",
+          "title": "Public preview: Enhancements for Istio-based service mesh add-on for AKS",
+          "description": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades.",
+          "pubDate": "Tue, 07 Nov 2023 16:00:32 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Istio-based service mesh add-on for AKS, currently in public preview, offers new features related to security and upgrades."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-review-artifact-streaming-support-in-azure-kubernetes-service-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-review-artifact-streaming-support-in-azure-kubernetes-service-aks/",
@@ -1686,7 +1686,7 @@
             "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Security, and Usability",
+          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
           "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
           "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
           "atom:content": {
@@ -2253,7 +2253,7 @@
           "category": "Azure AI",
           "title": "General Availability: Azure AI Content Safety",
           "description": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio",
-          "pubDate": "Wed, 18 Oct 2023 16:00:23 Z",
+          "pubDate": "Wed, 18 Oct 2023 16:00:18 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio"
@@ -2618,7 +2618,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
           "title": "Migrate to Azure Monitor agent–based VM insights by 31 August 2024",
           "description": "Log Analytics agent–based VM insights will be retired.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:11 Z",
+          "pubDate": "Fri, 06 Oct 2023 23:00:14 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics agent–based VM insights will be retired."
@@ -3090,21 +3090,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
-          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "computer-vision-api-retirements-13-9-2026"
           },
           "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
@@ -3114,6 +3099,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
+          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
+          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
+          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
           },
           "content:encoded": null
         }
