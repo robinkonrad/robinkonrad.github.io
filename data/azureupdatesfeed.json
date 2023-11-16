@@ -12,13 +12,58 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 16 Nov 2023 19:08:51 Z",
+      "lastBuildDate": "Thu, 16 Nov 2023 20:14:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-red-hat-enterprise-linux-93-now-supported-on-azure-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-red-hat-enterprise-linux-93-now-supported-on-azure-virtual-machines/",
+          "title": "Generally Available: Red Hat Enterprise Linux 9.3 now supported on Azure Virtual Machines",
+          "description": "Red Hat Enterprise Linux (RHEL) 9.3, the latest version of RHEL 9 from Red Hat is now generally available on Azure Virtual Machines (VMs). Availability of RHEL 9.3 for VMs on Azure is a step forward towards offering a more scalable, flexible Linux platform that pairs container innovation with a strong security posture.",
+          "pubDate": "Thu, 16 Nov 2023 20:08:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Red Hat Enterprise Linux (RHEL) 9.3, the latest version of RHEL 9 from Red Hat is now generally available on Azure Virtual Machines (VMs). Availability of RHEL 9.3 for VMs on Azure is a step forward towards offering a more scalable, flexible Linux platform that pairs container innovation with a strong security posture."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor/",
+          "title": "General availability: Integration of Azure Monitor Agent support with Connection Monitor",
+          "description": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations",
+          "pubDate": "Thu, 16 Nov 2023 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-private-subnet"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-private-subnet/",
+          "title": "Public preview: Private subnet",
+          "description": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation",
+          "pubDate": "Thu, 16 Nov 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -158,21 +203,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for PostgreSQL- Flexible server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
           },
           "content:encoded": null
         },
@@ -3084,36 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "<b>Because Azure Virtual Desktop (classic) will retire on 30 September 2026</b>, please transition to Azure Virtual Desktop by that date.\n<br><br>\nAzure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virtual Desktop includes, but isn’t limited to, the following benefits:\n•\tDeployments via Azure Resource Manager\n•\tUnified resource management\n•\tImproved networking and security\n•\tScaling and automation features\n•\tFeature availability and updates"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "computer-vision-api-retirements-13-9-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/computer-vision-api-retirements-13-9-2026/",
-          "title": "Computer Vision v1.0, v2.0, v2.1, v3.0, and v3.1 APIs will be retired on 13 September 2026",
-          "description": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to Azure Computer Vision 3.2 API before 13 September 2026"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-2/",
-          "title": "App Service Environment version 1 and version 2 will be retired on 31 August 2024",
-          "description": "Migrate to App Service Environment v3 by 31 August 2024.",
-          "pubDate": "Fri, 29 Sep 2023 23:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate to App Service Environment v3 by 31 August 2024."
           },
           "content:encoded": null
         }
