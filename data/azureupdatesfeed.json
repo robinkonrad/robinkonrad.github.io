@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 16 Nov 2023 22:12:35 Z",
+      "lastBuildDate": "Thu, 16 Nov 2023 23:13:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-fabric-capacity-reservations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-fabric-capacity-reservations/",
+          "title": "General availability: Reservations for Microsoft Fabric",
+          "description": "You can now save up to 40.5% on Microsoft Fabric capacity when you commit to one-year reservations.",
+          "pubDate": "Thu, 16 Nov 2023 23:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now save up to 40.5% on Microsoft Fabric capacity when you commit to one-year reservations."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -450,21 +465,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "announcing-azure-api-management-credential-manager-azure-api-management-authorizations-renamed"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-azure-api-management-credential-manager-azure-api-management-authorizations-renamed/",
-          "title": "Announcing Azure API Management Credential Manager: Azure API Management Authorizations Renamed",
-          "description": "We're thrilled to introduce the rebranding and feature enhancements of Azure API Management's Credential Manager, formerly known as Authorizations. The updated Credential Manager now boasts additional capabilities for user-delegated permissions.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:57 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We're thrilled to introduce the rebranding and feature enhancements of Azure API Management's Credential Manager, formerly known as Authorizations. The updated Credential Manager now boasts additional capabilities for user-delegated permissions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -474,6 +474,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-azure-api-management-credential-manager-azure-api-management-authorizations-renamed"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-azure-api-management-credential-manager-azure-api-management-authorizations-renamed/",
+          "title": "Announcing Azure API Management Credential Manager: Azure API Management Authorizations Renamed",
+          "description": "We're thrilled to introduce the rebranding and feature enhancements of Azure API Management's Credential Manager, formerly known as Authorizations. The updated Credential Manager now boasts additional capabilities for user-delegated permissions.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:57 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're thrilled to introduce the rebranding and feature enhancements of Azure API Management's Credential Manager, formerly known as Authorizations. The updated Credential Manager now boasts additional capabilities for user-delegated permissions."
           },
           "content:encoded": null
         },
@@ -3099,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "AI Services Metrics Advisor will be retired on 1 October 2026."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-virtual-desktop-classic-will-be-retired-on-30-september-2026-please-transition-to-azure-virtual-desktop"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-classic-will-be-retired-on-30-september-2026-please-transition-to-azure-virtual-desktop/",
-          "title": "Azure Virtual Desktop (classic) will be retired on 30 September 2026 - Please transition to Azure Virtual Desktop",
-          "description": "<b>Because Azure Virtual Desktop (classic) will retire on 30 September 2026</b>, please transition to Azure Virtual Desktop by that date.\n<br><br>\nAzure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virtual Desktop includes, but isn’t limited to, the following benefits:\n•\tDeployments via Azure Resource Manager\n•\tUnified resource management\n•\tImproved networking and security\n•\tScaling and automation features\n•\tFeature availability and updates",
-          "pubDate": "Fri, 29 Sep 2023 23:09:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "<b>Because Azure Virtual Desktop (classic) will retire on 30 September 2026</b>, please transition to Azure Virtual Desktop by that date.\n<br><br>\nAzure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virtual Desktop includes, but isn’t limited to, the following benefits:\n•\tDeployments via Azure Resource Manager\n•\tUnified resource management\n•\tImproved networking and security\n•\tScaling and automation features\n•\tFeature availability and updates"
           },
           "content:encoded": null
         }
