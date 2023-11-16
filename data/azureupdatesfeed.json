@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 16 Nov 2023 15:14:18 Z",
+      "lastBuildDate": "Thu, 16 Nov 2023 16:18:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-private-subnet"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-private-subnet/",
+          "title": "Public preview: Private subnet",
+          "description": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation",
+          "pubDate": "Thu, 16 Nov 2023 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -660,21 +675,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
-          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
-          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
@@ -684,6 +684,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
+          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
+          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
           },
           "content:encoded": null
         },
@@ -3099,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "SMART on FHIR proxy feature in Azure Health Data Services will be retired on 21st September 2026 - Transition to SMART on FHIR (Enhanced) to enable SMART on FHIR scenarios."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "sap-hana-on-azure-large-instances-will-be-retired-by-30-june-2025-transition-to-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/sap-hana-on-azure-large-instances-will-be-retired-by-30-june-2025-transition-to-virtual-machines/",
-          "title": "SAP HANA on Azure Large Instances will be retired by 30 June 2025 – transition to Virtual Machines",
-          "description": "SAP HANA Large Instance (HLI) on Gen4/Gen4.5 is being retired - Migrate to SAP certified Azure Virtual Machines before 30 June 2025",
-          "pubDate": "Fri, 29 Sep 2023 23:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "SAP HANA Large Instance (HLI) on Gen4/Gen4.5 is being retired - Migrate to SAP certified Azure Virtual Machines before 30 June 2025"
           },
           "content:encoded": null
         }
