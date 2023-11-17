@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 17 Nov 2023 02:26:13 Z",
+      "lastBuildDate": "Fri, 17 Nov 2023 03:13:53 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -257,7 +257,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -465,21 +465,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
-          "title": "Generally available: AMD confidential VM option for Azure Databricks",
-          "description": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:57 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "announcing-azure-api-management-credential-manager-azure-api-management-authorizations-renamed"
           },
           "link": "https://azure.microsoft.com/en-us/updates/announcing-azure-api-management-credential-manager-azure-api-management-authorizations-renamed/",
@@ -489,6 +474,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "We're thrilled to introduce the rebranding and feature enhancements of Azure API Management's Credential Manager, formerly known as Authorizations. The updated Credential Manager now boasts additional capabilities for user-delegated permissions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
+          "title": "Generally available: AMD confidential VM option for Azure Databricks",
+          "description": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:57 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Users can now select AMD-based confidential VMs for their Azure Databricks cluster driver node and cluster worker nodes."
           },
           "content:encoded": null
         },
@@ -795,21 +795,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
-          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
-          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
@@ -819,6 +804,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
+          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
+          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
           },
           "content:encoded": null
         },
