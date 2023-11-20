@@ -6,11 +6,70 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Nov 2023 15:14:47 Z</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2023 16:18:34 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">container-insights-syslog-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/container-insights-syslog-ga/</link>
+      <title>Generally Available: Collect Syslog from AKS nodes using Azure Monitor Container Insights</title>
+      <description>The Syslog collection feature in Azure Monitor - Container Insights is generally available.</description>
+      <pubDate>Mon, 20 Nov 2023 16:00:29 Z</pubDate>
+      <atom:content
+        type="text">The Syslog collection feature in Azure Monitor - Container Insights is generally available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">partnumbers-3</guid>
+      <link>https://azure.microsoft.com/en-us/updates/partnumbers-3/</link>
+      <category>AzurePortal</category>
+      <title>Part numbers from EA invoice are now added to the cost and usage file.</title>
+      <description>All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded.</description>
+      <pubDate>Mon, 20 Nov 2023 16:00:24 Z</pubDate>
+      <atom:content
+        type="text">All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">partnumbers</guid>
+      <link>https://azure.microsoft.com/en-us/updates/partnumbers/</link>
+      <category>AzurePortal</category>
+      <title>Part numbers from EA invoice are now added to the cost and usage file.</title>
+      <description>All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded.</description>
+      <pubDate>Mon, 20 Nov 2023 16:00:21 Z</pubDate>
+      <atom:content
+        type="text">All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">delete-jobs-api-to-support-bulk-delete-in-azure-digital-twins</guid>
+      <link>https://azure.microsoft.com/en-us/updates/delete-jobs-api-to-support-bulk-delete-in-azure-digital-twins/</link>
+      <category>Azure Digital Twins</category>
+      <title>Generally available: Delete Jobs API to support bulk delete in Azure Digital Twins</title>
+      <description>GA release for bulk delete support for Azure Digital Twins </description>
+      <pubDate>Mon, 20 Nov 2023 16:00:11 Z</pubDate>
+      <atom:content
+        type="text">GA release for bulk delete support for Azure Digital Twins </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services/</link>
+      <category>Azure Health Data Services; FHIR service; DICOM service</category>
+      <title>General availability: Encryption with customer-managed keys in Azure Health Data Services</title>
+      <description>The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.</description>
+      <pubDate>Mon, 20 Nov 2023 16:00:02 Z</pubDate>
+      <atom:content
+        type="text">The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-fabric-capacity-reservations</guid>
@@ -527,17 +586,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
-      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
-      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
-      <atom:content
-        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
       <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
@@ -545,6 +593,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
       <atom:content
         type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
+      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
+      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2243,80 +2302,6 @@ Playwright, a fast-growing, open-source framework, enables reliable end-to-end t
       <pubDate>Fri, 29 Sep 2023 23:11:34 Z</pubDate>
       <atom:content
         type="text">Community support for Automatic configuration of LVM for Azure CycleCloud volume mounts is ending on 30 September 2024 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ai-services-personalizer-will-be-retired-on-1-october-2026</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ai-services-personalizer-will-be-retired-on-1-october-2026/</link>
-      <category>Retirements</category>
-      <title>AI Services Personalizer will be retired on 1 October 2026   </title>
-      <description> AI Services Personalizer will be retired on 1 October 2026  </description>
-      <pubDate>Fri, 29 Sep 2023 23:11:10 Z</pubDate>
-      <atom:content
-        type="text"> AI Services Personalizer will be retired on 1 October 2026  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-ai-translator-s2s4-billing-instances-will-be-retired-on-1-october-2026-transition-to-commitment-tiers-for-discounted-pr</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-ai-translator-s2s4-billing-instances-will-be-retired-on-1-october-2026-transition-to-commitment-tiers-for-discounted-pr/</link>
-      <category>retjrements</category>
-      <title>Azure AI Translator S2-S4 billing instances will be retired on 1 October 2026 – transition to Commitment Tiers for discounted pricing. </title>
-      <description>Retirement notice: Translator S2-S4 Volume Discount Instances will be retired on 1 October 2026 </description>
-      <pubDate>Fri, 29 Sep 2023 23:10:57 Z</pubDate>
-      <atom:content
-        type="text">Retirement notice: Translator S2-S4 Volume Discount Instances will be retired on 1 October 2026 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ai-services-anomaly-detector-will-be-retired-on-1-october-2026</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ai-services-anomaly-detector-will-be-retired-on-1-october-2026/</link>
-      <title>AI Services Anomaly Detector will be retired on 1 October 2026   </title>
-      <description> AI Services Anomaly Detector will be retired on 1 October 2026   </description>
-      <pubDate>Fri, 29 Sep 2023 23:10:29 Z</pubDate>
-      <atom:content
-        type="text"> AI Services Anomaly Detector will be retired on 1 October 2026   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ai-services-metrics-advisor-will-be-retired-on-1-october-2026</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ai-services-metrics-advisor-will-be-retired-on-1-october-2026/</link>
-      <category>service</category>
-      <title>AI Services Metrics Advisor will be retired on 1 October 2026</title>
-      <description>AI Services Metrics Advisor will be retired on 1 October 2026.</description>
-      <pubDate>Fri, 29 Sep 2023 23:10:12 Z</pubDate>
-      <atom:content
-        type="text">AI Services Metrics Advisor will be retired on 1 October 2026.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-virtual-desktop-classic-will-be-retired-on-30-september-2026-please-transition-to-azure-virtual-desktop</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-virtual-desktop-classic-will-be-retired-on-30-september-2026-please-transition-to-azure-virtual-desktop/</link>
-      <title>Azure Virtual Desktop (classic) will be retired on 30 September 2026 - Please transition to Azure Virtual Desktop</title>
-      <description>&lt;b&gt;Because Azure Virtual Desktop (classic) will retire on 30 September 2026&lt;/b&gt;, please transition to Azure Virtual Desktop by that date.
-&lt;br&gt;&lt;br&gt;
-Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virtual Desktop includes, but isn’t limited to, the following benefits:
-•	Deployments via Azure Resource Manager
-•	Unified resource management
-•	Improved networking and security
-•	Scaling and automation features
-•	Feature availability and updates
-</description>
-      <pubDate>Fri, 29 Sep 2023 23:09:50 Z</pubDate>
-      <atom:content
-        type="text">&lt;b&gt;Because Azure Virtual Desktop (classic) will retire on 30 September 2026&lt;/b&gt;, please transition to Azure Virtual Desktop by that date.
-&lt;br&gt;&lt;br&gt;
-Azure Virtual Desktop fully replaces Azure Virtual Desktop (classic). Azure Virtual Desktop includes, but isn’t limited to, the following benefits:
-•	Deployments via Azure Resource Manager
-•	Unified resource management
-•	Improved networking and security
-•	Scaling and automation features
-•	Feature availability and updates
-</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
