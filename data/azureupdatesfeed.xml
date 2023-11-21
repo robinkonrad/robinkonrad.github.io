@@ -6,11 +6,34 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 16:18:55 Z</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 17:15:30 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-static-web-apps-now-supports-net-8</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-static-web-apps-now-supports-net-8/</link>
+      <title>Generally available: Azure Static Web Apps now supports .NET 8</title>
+      <description>Azure Static Web Apps now supports .NET 8, enabling you to build and deploy frontend and full-stack .NET 8 web applications. With .NET 8 support, you can build and deploy Blazor WebAssembly apps to Azure Static Web Apps. You can also deploy .NET 8 managed functions to your Azure Static Web Apps.</description>
+      <pubDate>Tue, 21 Nov 2023 17:00:02 Z</pubDate>
+      <atom:content
+        type="text">Azure Static Web Apps now supports .NET 8, enabling you to build and deploy frontend and full-stack .NET 8 web applications. With .NET 8 support, you can build and deploy Blazor WebAssembly apps to Azure Static Web Apps. You can also deploy .NET 8 managed functions to your Azure Static Web Apps.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">cmk-for-backup-vaults-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/cmk-for-backup-vaults-2/</link>
+      <category>= AzurePortal</category>
+      <title>Public Preview: Encryption using Customer Managed Keys for Backup Vaults</title>
+      <description>Encryption of data in Backup vaults using Customer Managed Keys is now in Public Preview.</description>
+      <pubDate>Tue, 21 Nov 2023 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">Encryption of data in Backup vaults using Customer Managed Keys is now in Public Preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-azure-red-hat-openshift-in-italy-north</guid>
@@ -553,17 +576,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
-      <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
-      <description>AMD confidential VMs now in Italy North, Germany West Central, UAE North. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
-      <atom:content
-        type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
       <title>Azure Machine Learning  - Public Preview for November </title>
@@ -571,6 +583,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
       <atom:content
         type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
+      <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
+      <description>AMD confidential VMs now in Italy North, Germany West Central, UAE North. </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
+      <atom:content
+        type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -784,17 +807,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/</link>
-      <title>Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore</title>
-      <description>Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
-      <atom:content
-        type="text">Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-dynamic-scaling-per-partition-and-per-region</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/</link>
       <title>Public preview: Dynamic scaling per partition and per region </title>
@@ -802,6 +814,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
       <atom:content
         type="text">Autoscale gets even better with two new improvements -- scaling per partition and per region!</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/</link>
+      <title>Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore</title>
+      <description>Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
+      <atom:content
+        type="text">Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2276,28 +2299,6 @@ Playwright, a fast-growing, open-source framework, enables reliable end-to-end t
       <pubDate>Fri, 29 Sep 2023 23:17:49 Z</pubDate>
       <atom:content
         type="text">End of Life Announcement of Azure Batch CLI Extensions on 30 September 2024</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">action-required-migrate-to-using-arg-query-for-get-alert-summary-in-azure-monitor</guid>
-      <link>https://azure.microsoft.com/en-us/updates/action-required-migrate-to-using-arg-query-for-get-alert-summary-in-azure-monitor/</link>
-      <title>Action required: Migrate to using ARG query for “Get Alert Summary” in Azure Monitor   </title>
-      <description>The GetAlertSummary API will be retired on 30-Sep-2026.</description>
-      <pubDate>Fri, 29 Sep 2023 23:16:27 Z</pubDate>
-      <atom:content
-        type="text">The GetAlertSummary API will be retired on 30-Sep-2026.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">we-re-ending-support-for-the-20170301ga-api</guid>
-      <link>https://azure.microsoft.com/en-us/updates/we-re-ending-support-for-the-20170301ga-api/</link>
-      <title>We’re ending support for the 2017-03-01-GA API.</title>
-      <description>You’re receiving this email because you currently use the 2017-03-01-GA API of Azure Container Registry.</description>
-      <pubDate>Fri, 29 Sep 2023 23:12:31 Z</pubDate>
-      <atom:content
-        type="text">You’re receiving this email because you currently use the 2017-03-01-GA API of Azure Container Registry.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
