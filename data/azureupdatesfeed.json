@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 21 Nov 2023 17:15:30 Z",
+      "lastBuildDate": "Tue, 21 Nov 2023 18:18:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-user-and-group-quota-management-in-azure-netapp-files"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-user-and-group-quota-management-in-azure-netapp-files/",
+          "title": "General Availability: User and group quota management in Azure NetApp Files",
+          "description": "Default and individual user/group quotas allows you to stay in control of capacity consumption on volumes; the feature is now Generally Available (GA)",
+          "pubDate": "Tue, 21 Nov 2023 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Default and individual user/group quotas allows you to stay in control of capacity consumption on volumes; the feature is now Generally Available (GA)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-standard-network-features-support-in-us-government-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-standard-network-features-support-in-us-government-region/",
+          "title": "General Availability: Standard network features support in US Gov regions",
+          "description": "Standard network features for azure NetApp files are now available in the US Gov regions",
+          "pubDate": "Tue, 21 Nov 2023 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Standard network features for azure NetApp files are now available in the US Gov regions"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -890,21 +920,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
-          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
-          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
@@ -914,6 +929,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
+          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
+          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
           },
           "content:encoded": null
         },
@@ -965,21 +995,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
@@ -989,6 +1004,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
           },
           "content:encoded": null
         },
@@ -1100,21 +1130,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
-          "title": "Public preview: Dynamic scaling per partition and per region",
-          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
@@ -1124,6 +1139,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
+          "title": "Public preview: Dynamic scaling per partition and per region",
+          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
+          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
           },
           "content:encoded": null
         },
@@ -3080,38 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of life announcement for select marketplace images for Batch pools"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-batch-pool-list-usage-metrics-api-will-be-retired-on-30-september-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-batch-pool-list-usage-metrics-api-will-be-retired-on-30-september-2024/",
-          "category": "Batch",
-          "title": "Azure Batch pool list usage metrics API will be retired on 30 September 2024",
-          "description": "End of Life Announcement of Azure Batch Pool List Usage Metrics API on 30 September 2024",
-          "pubDate": "Fri, 29 Sep 2023 23:18:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Life Announcement of Azure Batch Pool List Usage Metrics API on 30 September 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-batch-cli-extensions-will-be-retired-on-30-september-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-batch-cli-extensions-will-be-retired-on-30-september-2024/",
-          "category": "Batch",
-          "title": "Azure Batch CLI extensions will be retired on 30 September 2024",
-          "description": "End of Life Announcement of Azure Batch CLI Extensions on 30 September 2024",
-          "pubDate": "Fri, 29 Sep 2023 23:17:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Life Announcement of Azure Batch CLI Extensions on 30 September 2024"
           },
           "content:encoded": null
         }
