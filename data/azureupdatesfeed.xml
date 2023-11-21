@@ -6,11 +6,26 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Nov 2023 19:11:16 Z</lastBuildDate>
+    <lastBuildDate>Tue, 21 Nov 2023 20:12:56 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azureappconfiguration-kubernetesprovider-ga</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azureappconfiguration-kubernetesprovider-ga/</link>
+      <category>App Configuration</category>
+      <category>Kubernetes</category>
+      <category>Configuration</category>
+      <category>Config</category>
+      <title>General Availability of Azure App Configuration Kubernetes Provider</title>
+      <description>Azure App Configuration Kubernetes Provider lets you centrally configure the applications running in Kubernetes clusters. The latest version offers workload identity authentication in the provider and dynamic refresh of the configuration data.</description>
+      <pubDate>Tue, 21 Nov 2023 20:00:03 Z</pubDate>
+      <atom:content
+        type="text">Azure App Configuration Kubernetes Provider lets you centrally configure the applications running in Kubernetes clusters. The latest version offers workload identity authentication in the provider and dynamic refresh of the configuration data.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-user-and-group-quota-management-in-azure-netapp-files</guid>
@@ -598,17 +613,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
-      <title>Azure Machine Learning  - Public Preview for November </title>
-      <description>Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
-      <atom:content
-        type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
       <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
@@ -616,6 +620,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
       <atom:content
         type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
+      <title>Azure Machine Learning  - Public Preview for November </title>
+      <description>Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
+      <atom:content
+        type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -829,17 +844,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-dynamic-scaling-per-partition-and-per-region</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/</link>
-      <title>Public preview: Dynamic scaling per partition and per region </title>
-      <description>Autoscale gets even better with two new improvements -- scaling per partition and per region!</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
-      <atom:content
-        type="text">Autoscale gets even better with two new improvements -- scaling per partition and per region!</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/</link>
       <title>Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore</title>
@@ -847,6 +851,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
       <atom:content
         type="text">Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-dynamic-scaling-per-partition-and-per-region</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/</link>
+      <title>Public preview: Dynamic scaling per partition and per region </title>
+      <description>Autoscale gets even better with two new improvements -- scaling per partition and per region!</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
+      <atom:content
+        type="text">Autoscale gets even better with two new improvements -- scaling per partition and per region!</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2285,18 +2300,6 @@ Playwright, a fast-growing, open-source framework, enables reliable end-to-end t
       <pubDate>Fri, 29 Sep 2023 23:19:24 Z</pubDate>
       <atom:content
         type="text">With the upgraded offering of ContainerLogV2 becoming generally available, on 30th September 2026, the ContainerLog table will be retired. If you currently ingest container insights data to the ContainerLog table, please make sure to transition to using ContainerLogV2 prior to that date.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">support-for-select-marketplace-images-for-batch-pools-will-be-retired</guid>
-      <link>https://azure.microsoft.com/en-us/updates/support-for-select-marketplace-images-for-batch-pools-will-be-retired/</link>
-      <category>Batch</category>
-      <title>Support for select marketplace images for Batch pools will be retired </title>
-      <description>End of life announcement for select marketplace images for Batch pools </description>
-      <pubDate>Fri, 29 Sep 2023 23:18:26 Z</pubDate>
-      <atom:content
-        type="text">End of life announcement for select marketplace images for Batch pools </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

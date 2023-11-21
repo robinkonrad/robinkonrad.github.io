@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 21 Nov 2023 19:11:16 Z",
+      "lastBuildDate": "Tue, 21 Nov 2023 20:12:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azureappconfiguration-kubernetesprovider-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azureappconfiguration-kubernetesprovider-ga/",
+          "category": [
+            "App Configuration",
+            "Kubernetes",
+            "Configuration",
+            "Config"
+          ],
+          "title": "General Availability of Azure App Configuration Kubernetes Provider",
+          "description": "Azure App Configuration Kubernetes Provider lets you centrally configure the applications running in Kubernetes clusters. The latest version offers workload identity authentication in the provider and dynamic refresh of the configuration data.",
+          "pubDate": "Tue, 21 Nov 2023 20:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure App Configuration Kubernetes Provider lets you centrally configure the applications running in Kubernetes clusters. The latest version offers workload identity authentication in the provider and dynamic refresh of the configuration data."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -815,21 +836,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -839,6 +845,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -1130,21 +1151,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
-          "title": "Public preview: Dynamic scaling per partition and per region",
-          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
@@ -1154,6 +1160,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
+          "title": "Public preview: Dynamic scaling per partition and per region",
+          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
+          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
           },
           "content:encoded": null
         },
@@ -3094,22 +3115,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "With the upgraded offering of ContainerLogV2 becoming generally available, on 30th September 2026, the ContainerLog table will be retired. If you currently ingest container insights data to the ContainerLog table, please make sure to transition to using ContainerLogV2 prior to that date."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "support-for-select-marketplace-images-for-batch-pools-will-be-retired"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/support-for-select-marketplace-images-for-batch-pools-will-be-retired/",
-          "category": "Batch",
-          "title": "Support for select marketplace images for Batch pools will be retired",
-          "description": "End of life announcement for select marketplace images for Batch pools",
-          "pubDate": "Fri, 29 Sep 2023 23:18:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of life announcement for select marketplace images for Batch pools"
           },
           "content:encoded": null
         }
