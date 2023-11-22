@@ -12,13 +12,148 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 22 Nov 2023 16:18:03 Z",
+      "lastBuildDate": "Wed, 22 Nov 2023 17:12:43 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-kafka-publicpreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-kafka-publicpreview/",
+          "title": "Public Preview: Kafka Input and Output with Azure Stream Analytics",
+          "description": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-schema-migration-for-target-azure-sql-db"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-schema-migration-for-target-azure-sql-db/",
+          "title": "Public preview: Schema migration for target Azure SQL DB",
+          "description": "Transfer your database schema from source to target Azure SQL DB using DMS from the Azure Portal.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Transfer your database schema from source to target Azure SQL DB using DMS from the Azure Portal."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "asa-protobuf-publicpreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/asa-protobuf-publicpreview/",
+          "title": "Public Preview Preview: Protocol Buffers (Protobuf) with Azure Stream Analytics",
+          "description": "You can ingest events in protobuf format into Azure Stream Analytics using a built-in deserializer.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can ingest events in protobuf format into Azure Stream Analytics using a built-in deserializer."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-portal-experience-for-azure-database-migration-service"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-portal-experience-for-azure-database-migration-service/",
+          "title": "General availability: Azure Portal experience for Azure Database Migration Service",
+          "description": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL Targets using DMS.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL Targets using DMS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-sku-recommendation-in-azure-sql-migration-extension-azure-data-studio"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-sku-recommendation-in-azure-sql-migration-extension-azure-data-studio/",
+          "title": "General availability: SKU recommendation in Azure SQL Migration extension - Azure Data Studio",
+          "description": "Support for SKU recommendation in the Azure SQL Migration extension for Azure Data Studio is in GA.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Support for SKU recommendation in the Azure SQL Migration extension for Azure Data Studio is in GA."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-pgvector-051-extension"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-pgvector-051-extension/",
+          "title": "General Availability: pgvector 0.5.1 extension",
+          "description": "Pgvector 0.5.1, includes support for HSNW indexing, l1_distance, and sum aggregates since the prior supported version 0.4.0",
+          "pubDate": "Wed, 22 Nov 2023 17:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Pgvector 0.5.1, includes support for HSNW indexing, l1_distance, and sum aggregates since the prior supported version 0.4.0"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-server-logs-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-server-logs-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Server logs for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Enhance your database monitoring with the new server log feature for Azure Database for PostgreSQL, offering customizable retention and straightforward downloading for operational excellence.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enhance your database monitoring with the new server log feature for Azure Database for PostgreSQL, offering customizable retention and straightforward downloading for operational excellence."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-time-travel-in-azure-synapse-link-for-azure-cosmos-db"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-time-travel-in-azure-synapse-link-for-azure-cosmos-db/",
+          "title": "General availability: Time travel in Azure Synapse Link for Azure Cosmos DB",
+          "description": "We are announcing the general availability of the time travel capability in Azure Synapse Link for Azure Cosmos DB for NoSQL and MongoDB API.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are announcing the general availability of the time travel capability in Azure Synapse Link for Azure Cosmos DB for NoSQL and MongoDB API."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-change-data-capture-in-azure-cosmos-db-analytical-store"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-change-data-capture-in-azure-cosmos-db-analytical-store/",
+          "title": "General availability: Change data capture in Azure Cosmos DB analytical store",
+          "description": "We are announcing the general availability of the CDC capability from Azure Cosmos DB analytical store.",
+          "pubDate": "Wed, 22 Nov 2023 17:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are announcing the general availability of the CDC capability from Azure Cosmos DB analytical store."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -836,21 +971,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
-          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
-          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-machine-learning-public-preview-for-november"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
@@ -860,6 +980,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
+          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
+          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
           },
           "content:encoded": null
         },
@@ -1016,21 +1151,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
@@ -1040,6 +1160,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
           },
           "content:encoded": null
         },
@@ -1151,21 +1286,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
-          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
-          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
@@ -1175,6 +1295,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
+          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
+          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
           },
           "content:encoded": null
         },
@@ -2971,150 +3106,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Enable Trusted Launch foundational compute security on existing Azure Generation 2 VMs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-microsoft-azure-now-available-from-new-cloud-region-in-italy"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-italy/",
-          "title": "General availability: Microsoft Azure now available from new cloud region in Italy",
-          "description": "Microsoft launched its first cloud region in Italy.",
-          "pubDate": "Wed, 04 Oct 2023 15:07:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft launched its first cloud region in Italy."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-backup-mua-backup-vaults-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-ga/",
-          "category": "= AzurePortal",
-          "title": "Generally Available: Multi-user authorisation for Backup vaults",
-          "description": "Multi-user authorization provides enhanced protection for your backup data against unauthorized critical operations.",
-          "pubDate": "Tue, 03 Oct 2023 16:00:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Multi-user authorization provides enhanced protection for your backup data against unauthorized critical operations."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-backup-enhanced-soft-delete-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-ga/",
-          "category": "= AzurePortal",
-          "title": "Generally available: Enhanced soft delete for Azure Backup",
-          "description": "Enhanced soft delete helps you recover your backup data even after it has been deleted, giving you protection against data loss scenarios like ransomwares, malicious actors, and accidental deletes.",
-          "pubDate": "Tue, 03 Oct 2023 16:00:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enhanced soft delete helps you recover your backup data even after it has been deleted, giving you protection against data loss scenarios like ransomwares, malicious actors, and accidental deletes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-data-explorer-addon-for-splunk"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-addon-for-splunk/",
-          "category": "Azure Data Explorer",
-          "title": "Public Preview: Azure Data Explorer Add-On for Splunk",
-          "description": "Azure Data Explorer Add-On for Splunk (Public Preview)",
-          "pubDate": "Tue, 03 Oct 2023 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Data Explorer Add-On for Splunk (Public Preview)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-container-apps-savings-plan-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-savings-plan-support/",
-          "title": "Azure Container Apps is now eligible for Azure savings plan for compute",
-          "description": "You can now take advantage of Azure savings plan pricing for Azure Container Apps.",
-          "pubDate": "Mon, 02 Oct 2023 17:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now take advantage of Azure savings plan pricing for Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-log-alerts-support-for-azure-resource-graph-arg"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-log-alerts-support-for-azure-resource-graph-arg/",
-          "category": "Azure monitor",
-          "title": "Public Preview: Azure Log Alerts support for Azure Resource Graph (ARG)",
-          "description": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query.",
-          "pubDate": "Mon, 02 Oct 2023 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are now introducing support for running queries also on Azure Resource Graph (ARG) tables, and even joining data between Azure Resource Graph (ARG) data sources from your Log Analytics workspace and Application Insights resources in a single query."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-api-for-fhir-retirement"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-api-for-fhir-retirement/",
-          "category": [
-            "Azure API for FHIR",
-            "Retirements"
-          ],
-          "title": "Azure API for FHIR retiring on 30 September 2026",
-          "description": "Migrate your data from Azure API for FHIR to Azure Health Data Services FHIR service for richer data integration and analytics capabilities.",
-          "pubDate": "Fri, 29 Sep 2023 23:20:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate your data from Azure API for FHIR to Azure Health Data Services FHIR service for richer data integration and analytics capabilities."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-internet-analyzer-will-be-retired-on-15-march-2024-delete-profiles"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-internet-analyzer-will-be-retired-on-15-march-2024-delete-profiles/",
-          "category": "Retirements",
-          "title": "Azure Internet Analyzer will be retired on 15 March 2024 – delete profiles",
-          "description": "Azure Internet Analyzer will be retired on 15 March 2024",
-          "pubDate": "Fri, 29 Sep 2023 23:20:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Internet Analyzer will be retired on 15 March 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "transition-to-the-containerlogv2-table-by-30-september-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/transition-to-the-containerlogv2-table-by-30-september-2026/",
-          "title": "Transition to the ContainerLogV2 table by 30 September 2026",
-          "description": "With the upgraded offering of ContainerLogV2 becoming generally available, on 30th September 2026, the ContainerLog table will be retired. If you currently ingest container insights data to the ContainerLog table, please make sure to transition to using ContainerLogV2 prior to that date.",
-          "pubDate": "Fri, 29 Sep 2023 23:19:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With the upgraded offering of ContainerLogV2 becoming generally available, on 30th September 2026, the ContainerLog table will be retired. If you currently ingest container insights data to the ContainerLog table, please make sure to transition to using ContainerLogV2 prior to that date."
           },
           "content:encoded": null
         }
