@@ -12,13 +12,32 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 22 Nov 2023 17:12:43 Z",
+      "lastBuildDate": "Wed, 22 Nov 2023 18:17:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "aksbackupga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/aksbackupga/",
+          "category": [
+            "Azure Backup",
+            "Azure Kubernetes Service"
+          ],
+          "title": "General Availability - Azure Backup for AKS",
+          "description": "Azure Backup is announcing General Availability of Azure Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters.",
+          "pubDate": "Wed, 22 Nov 2023 18:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup is announcing General Availability of Azure Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1076,21 +1095,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -1100,6 +1104,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3085,27 +3104,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now in preview: Microsoft Playwright Testing, a new service for running Playwright tests easily at scale. \n\nPlaywright, a fast-growing, open-source framework, enables reliable end-to-end testing and automation for modern web apps. Microsoft Playwright Testing service uses the cloud, enabling you to simultaneously run Playwright tests with much higher parallelization across different operating system-browser combinations. Learn more https://aka.ms/MPT/about"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "upgrade-your-existing-azure-gen2-vms-to-trusted-launch"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/upgrade-your-existing-azure-gen2-vms-to-trusted-launch/",
-          "category": [
-            "Security",
-            "Compliance",
-            "Virtual Machines",
-            "Trusted Launch"
-          ],
-          "title": "General Availability: Upgrade your existing Azure Gen2 VMs to Trusted Launch",
-          "description": "Enable Trusted Launch foundational compute security on existing Azure Generation 2 VMs.",
-          "pubDate": "Wed, 04 Oct 2023 16:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable Trusted Launch foundational compute security on existing Azure Generation 2 VMs."
           },
           "content:encoded": null
         }
