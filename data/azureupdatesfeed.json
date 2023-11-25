@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 24 Nov 2023 23:12:43 Z",
+      "lastBuildDate": "Sat, 25 Nov 2023 00:58:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "dotnet6support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/dotnet6support/",
+          "title": "Extended support for .NET 6 (LTS) ends on 12 November 2024",
+          "description": "Extended support for .NET 6 (LTS) ends 12 November 2024 - upgrade your apps to .NET 8 (LTS)",
+          "pubDate": "Sat, 25 Nov 2023 00:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Extended support for .NET 6 (LTS) ends 12 November 2024 - upgrade your apps to .NET 8 (LTS)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "dotnet7support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/dotnet7support/",
+          "title": "Extended support for .NET 7 (STS) ends on 14 May 2024",
+          "description": "Extended support for .NET 7 (STS) ends on 14 May 2024 - upgrade your apps to .NET 8 (LTS)",
+          "pubDate": "Sat, 25 Nov 2023 00:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Extended support for .NET 7 (STS) ends on 14 May 2024 - upgrade your apps to .NET 8 (LTS)"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -990,21 +1020,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -1014,6 +1029,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -1170,21 +1200,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
@@ -1194,6 +1209,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
           },
           "content:encoded": null
         },
@@ -3073,37 +3103,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-customermanaged-keys-for-azure-netapp-files-volume-encryption-is-now-available-in-us-gov-regions-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-customermanaged-keys-for-azure-netapp-files-volume-encryption-is-now-available-in-us-gov-regions-preview/",
-          "title": "Public Preview: Customer-managed keys for Azure NetApp Files volume encryption is now available in US Gov regions (Preview)",
-          "description": "Customer keys are protected from attacks for maximum security of their Azure NetApp File volumes; the feature is now available in US Gov regions (Preview)",
-          "pubDate": "Thu, 05 Oct 2023 16:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customer keys are protected from attacks for maximum security of their Azure NetApp File volumes; the feature is now available in US Gov regions (Preview)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-announcing-microsoft-playwright-testing-service-scalable-endtoend-testing-for-modern-web-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-announcing-microsoft-playwright-testing-service-scalable-endtoend-testing-for-modern-web-apps/",
-          "category": "AzurePortal",
-          "title": "Public preview: Announcing Microsoft Playwright Testing service: Scalable end-to-end testing for modern web apps",
-          "description": "Now in preview: Microsoft Playwright Testing, a new service for running Playwright tests easily at scale. \n\nPlaywright, a fast-growing, open-source framework, enables reliable end-to-end testing and automation for modern web apps. Microsoft Playwright Testing service uses the cloud, enabling you to simultaneously run Playwright tests with much higher parallelization across different operating system-browser combinations. Learn more https://aka.ms/MPT/about",
-          "pubDate": "Thu, 05 Oct 2023 15:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now in preview: Microsoft Playwright Testing, a new service for running Playwright tests easily at scale. \n\nPlaywright, a fast-growing, open-source framework, enables reliable end-to-end testing and automation for modern web apps. Microsoft Playwright Testing service uses the cloud, enabling you to simultaneously run Playwright tests with much higher parallelization across different operating system-browser combinations. Learn more https://aka.ms/MPT/about"
           },
           "content:encoded": null
         }
