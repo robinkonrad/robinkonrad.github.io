@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 27 Nov 2023 16:18:08 Z",
+      "lastBuildDate": "Mon, 27 Nov 2023 17:12:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-general-availability-of-microsoft-defender-for-apis"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/",
+          "category": "Azure API Management",
+          "title": "Announcing General Availability of Microsoft Defender for APIs",
+          "description": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context.",
+          "pubDate": "Mon, 27 Nov 2023 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/",
+          "title": "Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal",
+          "description": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal",
+          "pubDate": "Mon, 27 Nov 2023 16:27:59 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1020,21 +1051,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -1044,6 +1060,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -3072,37 +3103,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "app-service-backup-and-restore-over-azure-virtual-network"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-backup-and-restore-over-azure-virtual-network/",
-          "title": "App Service: Backup and Restore over Azure Virtual Network",
-          "description": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.",
-          "pubDate": "Thu, 05 Oct 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "iot-hub-cosmos-db-endpoint"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/iot-hub-cosmos-db-endpoint/",
-          "category": "Azure Cosmos DB",
-          "title": "Generally Available: Add an Azure Cosmos DB custom endpoint in Azure IoT Hub",
-          "description": "Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly.",
-          "pubDate": "Thu, 05 Oct 2023 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure IoT Hub now supports the ability to setup an Azure Cosmos DB account as a custom endpoint. This will help route device data from IoT Hub to Azure Cosmos DB directly."
           },
           "content:encoded": null
         }
