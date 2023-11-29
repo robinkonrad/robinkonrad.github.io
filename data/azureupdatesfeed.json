@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 29 Nov 2023 17:12:19 Z",
+      "lastBuildDate": "Wed, 29 Nov 2023 18:19:15 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -22,46 +22,30 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-powershell7-2-general-availability"
+            "#text": "public-preview-azure-netapp-files-support-for-1-tib-capacity-pools"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-powershell7-2-general-availability/",
-          "title": "General Availability: Azure Automation supports PowerShell 7.2 runbooks",
-          "description": "Azure Automation supports PowerShell 7.2 runbooks (General Availability).",
-          "pubDate": "Tue, 28 Nov 2023 00:00:12 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-support-for-1-tib-capacity-pools/",
+          "title": "Public preview: Azure NetApp Files support for 1 TiB capacity pools",
+          "description": "Azure NetApp Files 1 TiB capacity pool sizes, when used with volumes using standard network features is now in preview.",
+          "pubDate": "Wed, 29 Nov 2023 18:00:24 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Azure Automation supports PowerShell 7.2 runbooks (General Availability)."
+            "#text": "Azure NetApp Files 1 TiB capacity pool sizes, when used with volumes using standard network features is now in preview."
           },
           "content:encoded": null
         },
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "announcing-general-availability-of-microsoft-defender-for-apis"
+            "#text": "general-availability-azure-netapp-files-support-for-2tib-capacity-pools"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/",
-          "category": "Azure API Management",
-          "title": "Announcing General Availability of Microsoft Defender for APIs",
-          "description": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context.",
-          "pubDate": "Mon, 27 Nov 2023 17:00:07 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-2tib-capacity-pools/",
+          "title": "General Availability: Azure NetApp Files support for 2 TiB capacity pools",
+          "description": "Azure NetApp Files now supports smaller 2 TiB capacity pool sizes, lowered from 4 TiB, when used with volumes using standard network features.",
+          "pubDate": "Wed, 29 Nov 2023 18:00:13 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/",
-          "title": "Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal",
-          "description": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal",
-          "pubDate": "Mon, 27 Nov 2023 16:27:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal"
+            "#text": "Azure NetApp Files now supports smaller 2 TiB capacity pool sizes, lowered from 4 TiB, when used with volumes using standard network features."
           },
           "content:encoded": null
         },
@@ -601,7 +585,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -675,21 +659,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -723,7 +692,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -916,6 +885,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -1066,21 +1050,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -1090,6 +1059,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -1246,21 +1230,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
-          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
-          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
@@ -1270,6 +1239,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
+          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
+          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
           },
           "content:encoded": null
         },
@@ -1381,21 +1365,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
-          "title": "Public preview: Dynamic scaling per partition and per region",
-          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
@@ -1405,6 +1374,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
+          "title": "Public preview: Dynamic scaling per partition and per region",
+          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
+          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
           },
           "content:encoded": null
         },
@@ -2167,7 +2151,7 @@
             "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
+          "title": "Azure Elastic SAN updates: Security, and Usability",
           "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
           "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
           "atom:content": {
@@ -2734,7 +2718,7 @@
           "category": "Azure AI",
           "title": "General Availability: Azure AI Content Safety",
           "description": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio",
-          "pubDate": "Wed, 18 Oct 2023 16:00:18 Z",
+          "pubDate": "Wed, 18 Oct 2023 16:00:23 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio"
@@ -3099,10 +3083,25 @@
           "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
           "title": "Migrate to Azure Monitor agent–based VM insights by 31 August 2024",
           "description": "Log Analytics agent–based VM insights will be retired.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:14 Z",
+          "pubDate": "Fri, 06 Oct 2023 23:00:11 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics agent–based VM insights will be retired."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
+          "title": "Some Azure Service Bus SDK libraries will be retired on 30 September 2026—migrate to the latest SDKs",
+          "description": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end."
           },
           "content:encoded": null
         }
