@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 29 Nov 2023 23:13:09 Z",
+      "lastBuildDate": "Thu, 30 Nov 2023 01:01:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -435,22 +435,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "GA release for bulk delete support for Azure Digital Twins"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services/",
-          "category": "Azure Health Data Services; FHIR service; DICOM service",
-          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
-          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
-          "pubDate": "Mon, 20 Nov 2023 16:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
           },
           "content:encoded": null
         },
@@ -3102,6 +3086,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-backup-and-restore-over-azure-virtual-network"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-backup-and-restore-over-azure-virtual-network/",
+          "title": "App Service: Backup and Restore over Azure Virtual Network",
+          "description": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.",
+          "pubDate": "Thu, 05 Oct 2023 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
           },
           "content:encoded": null
         }
