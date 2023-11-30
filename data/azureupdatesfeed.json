@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 30 Nov 2023 14:12:55 Z",
+      "lastBuildDate": "Thu, 30 Nov 2023 15:12:53 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -46,6 +46,52 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files now supports smaller 2 TiB capacity pool sizes, lowered from 4 TiB, when used with volumes using standard network features."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-powershell7-2-general-availability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-powershell7-2-general-availability/",
+          "title": "General Availability: Azure Automation supports PowerShell 7.2 runbooks",
+          "description": "Azure Automation supports PowerShell 7.2 runbooks (General Availability).",
+          "pubDate": "Tue, 28 Nov 2023 00:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation supports PowerShell 7.2 runbooks (General Availability)."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-general-availability-of-microsoft-defender-for-apis"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/",
+          "category": "Azure API Management",
+          "title": "Announcing General Availability of Microsoft Defender for APIs",
+          "description": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context.",
+          "pubDate": "Mon, 27 Nov 2023 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/",
+          "title": "Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal",
+          "description": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal",
+          "pubDate": "Mon, 27 Nov 2023 16:27:59 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal"
           },
           "content:encoded": null
         },
@@ -3056,51 +3102,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Explanation and Fairness Dashboard will be retired on 14 March 2025, please transition to the Responsible AI Dashboard (generally available) by that date.  The Responsible AI dashboard will have feature parity and new additional features. You can still create and view the Explanation and Fairness dashboards with our open-source offerings (InterpretML and Fairlearn respectively), which are free for public use on GitHub and will continue to be maintained."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-agent-based-vm-insights-by-31-august-2024/",
-          "title": "Migrate to Azure Monitor agent–based VM insights by 31 August 2024",
-          "description": "Log Analytics agent–based VM insights will be retired.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Log Analytics agent–based VM insights will be retired."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
-          "title": "Some Azure Service Bus SDK libraries will be retired on 30 September 2026—migrate to the latest SDKs",
-          "description": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "app-service-backup-and-restore-over-azure-virtual-network"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-backup-and-restore-over-azure-virtual-network/",
-          "title": "App Service: Backup and Restore over Azure Virtual Network",
-          "description": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.",
-          "pubDate": "Thu, 05 Oct 2023 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
           },
           "content:encoded": null
         }
