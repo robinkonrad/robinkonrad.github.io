@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 01 Dec 2023 18:17:02 Z",
+      "lastBuildDate": "Fri, 01 Dec 2023 19:10:50 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -2074,21 +2074,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
-          "title": "GA: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
-          "description": "You will now see AKS reserve up to 20% less memory on nodes due to improved AKS Kube-reserved resource optimization logic.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You will now see AKS reserve up to 20% less memory on nodes due to improved AKS Kube-reserved resource optimization logic."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-dualstack-networking-in-azure-cni-overlay-for-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-dualstack-networking-in-azure-cni-overlay-for-aks/",
@@ -3103,6 +3088,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Log Analytics agent–based VM insights will be retired."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-update-your-azure-service-bus-sdk-libraries-by-30-september-2026/",
+          "title": "Some Azure Service Bus SDK libraries will be retired on 30 September 2026—migrate to the latest SDKs",
+          "description": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end.",
+          "pubDate": "Fri, 06 Oct 2023 23:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Service Bus SDK libraries that don't conform to Azure SDK guidelines will be retired and support will end."
           },
           "content:encoded": null
         }
