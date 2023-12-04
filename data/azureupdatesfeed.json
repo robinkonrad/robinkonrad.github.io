@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 04 Dec 2023 16:18:15 Z",
+      "lastBuildDate": "Mon, 04 Dec 2023 17:12:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview/",
+          "title": "Azure Event Grid system topics support for resource management and health resources now in Public Preview",
+          "description": "Health resources and resource management alerts available through Event Grid system topics",
+          "pubDate": "Mon, 04 Dec 2023 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Health resources and resource management alerts available through Event Grid system topics"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-vnet-migration"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-vnet-migration/",
+          "title": "Migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints",
+          "description": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly.",
+          "pubDate": "Mon, 04 Dec 2023 17:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1504,21 +1534,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
-          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
-          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
@@ -1528,6 +1543,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
+          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
+          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
           },
           "content:encoded": null
         },
@@ -3076,36 +3106,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "lsa-payload-update-for-fixes-on-15jan"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/",
-          "title": "LSA payload update for fixes on 15-Jan",
-          "description": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.",
-          "pubDate": "Tue, 10 Oct 2023 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-chaos-studio-querybased-dynamic-targets"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-querybased-dynamic-targets/",
-          "title": "Public Preview: Azure Chaos Studio has Query-Based Dynamic Targets",
-          "description": "Azure Chaos Studio has Query-Based Dynamic Targets.",
-          "pubDate": "Mon, 09 Oct 2023 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Chaos Studio has Query-Based Dynamic Targets."
           },
           "content:encoded": null
         }

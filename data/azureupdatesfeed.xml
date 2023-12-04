@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Dec 2023 16:18:15 Z</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 17:12:32 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview/</link>
+      <title>Azure Event Grid system topics support for resource management and health resources now in Public Preview</title>
+      <description>Health resources and resource management alerts available through Event Grid system topics</description>
+      <pubDate>Mon, 04 Dec 2023 17:00:35 Z</pubDate>
+      <atom:content
+        type="text">Health resources and resource management alerts available through Event Grid system topics</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">adx-vnet-migration</guid>
+      <link>https://azure.microsoft.com/en-us/updates/adx-vnet-migration/</link>
+      <title>Migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints</title>
+      <description>If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly.</description>
+      <pubDate>Mon, 04 Dec 2023 17:00:24 Z</pubDate>
+      <atom:content
+        type="text">If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-support-plan-offer-extended-063024</guid>
@@ -1105,17 +1127,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/</link>
-      <title>Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore</title>
-      <description>Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
-      <atom:content
-        type="text">Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-dynamic-scaling-per-partition-and-per-region</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/</link>
       <title>Public preview: Dynamic scaling per partition and per region </title>
@@ -1123,6 +1134,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
       <atom:content
         type="text">Autoscale gets even better with two new improvements -- scaling per partition and per region!</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/</link>
+      <title>Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore</title>
+      <description>Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
+      <atom:content
+        type="text">Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2269,28 +2291,6 @@ Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystud
       <atom:content
         type="text">Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit.
 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">lsa-payload-update-for-fixes-on-15jan</guid>
-      <link>https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/</link>
-      <title>LSA payload update for fixes on 15-Jan</title>
-      <description>On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.</description>
-      <pubDate>Tue, 10 Oct 2023 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-chaos-studio-querybased-dynamic-targets</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-querybased-dynamic-targets/</link>
-      <title>Public Preview: Azure Chaos Studio has Query-Based Dynamic Targets</title>
-      <description>Azure Chaos Studio has Query-Based Dynamic Targets. </description>
-      <pubDate>Mon, 09 Oct 2023 16:00:15 Z</pubDate>
-      <atom:content
-        type="text">Azure Chaos Studio has Query-Based Dynamic Targets. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
