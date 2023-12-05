@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 05 Dec 2023 21:11:57 Z",
+      "lastBuildDate": "Tue, 05 Dec 2023 22:12:53 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -575,6 +575,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "GA release for bulk delete support for Azure Digital Twins"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services/",
+          "category": "Azure Health Data Services; FHIR service; DICOM service",
+          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
+          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
+          "pubDate": "Mon, 20 Nov 2023 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
           },
           "content:encoded": null
         },
@@ -3091,21 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Chaos Studio has Query-Based Dynamic Targets."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "migrate-to-azure-resource-manager-control-plane-api-version-20211101-by-30-september-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-resource-manager-control-plane-api-version-20211101-by-30-september-2026/",
-          "title": "Migrate to Azure Resource Manager control plane API version 2021-11-01 by 30 September 2026",
-          "description": "Older control plane APIs in Azure Service Bus, Azure Event Hubs, and Azure Relay will be retired.",
-          "pubDate": "Fri, 06 Oct 2023 23:00:48 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Older control plane APIs in Azure Service Bus, Azure Event Hubs, and Azure Relay will be retired."
           },
           "content:encoded": null
         }
