@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 05 Dec 2023 22:12:53 Z",
+      "lastBuildDate": "Tue, 05 Dec 2023 23:13:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-encryption-with-customermanaged-keys-in-azure-health-data-services"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-with-customermanaged-keys-in-azure-health-data-services/",
+          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
+          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
+          "pubDate": "Tue, 05 Dec 2023 23:13:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3092,21 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-chaos-studio-querybased-dynamic-targets"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-querybased-dynamic-targets/",
-          "title": "Public Preview: Azure Chaos Studio has Query-Based Dynamic Targets",
-          "description": "Azure Chaos Studio has Query-Based Dynamic Targets.",
-          "pubDate": "Mon, 09 Oct 2023 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Chaos Studio has Query-Based Dynamic Targets."
           },
           "content:encoded": null
         }
