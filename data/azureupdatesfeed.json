@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 05 Dec 2023 23:13:44 Z",
+      "lastBuildDate": "Wed, 06 Dec 2023 01:02:48 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -22,15 +22,60 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-encryption-with-customermanaged-keys-in-azure-health-data-services"
+            "#text": "generally-available-azure-site-recovery-update-rollup-69-november-2023"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-with-customermanaged-keys-in-azure-health-data-services/",
-          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
-          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
-          "pubDate": "Tue, 05 Dec 2023 23:13:17 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-69-november-2023/",
+          "title": "Generally available: Azure Site Recovery update rollup 69 - November 2023",
+          "description": "This article describes the improvements for the latest version of Azure Site Recovery components.",
+          "pubDate": "Tue, 05 Dec 2023 17:00:02 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
+            "#text": "This article describes the improvements for the latest version of Azure Site Recovery components."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview/",
+          "title": "Azure Event Grid system topics support for resource management and health resources now in Public Preview",
+          "description": "Health resources and resource management alerts available through Event Grid system topics",
+          "pubDate": "Mon, 04 Dec 2023 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Health resources and resource management alerts available through Event Grid system topics"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-vnet-migration"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-vnet-migration/",
+          "title": "Migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints",
+          "description": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly.",
+          "pubDate": "Mon, 04 Dec 2023 17:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-support-plan-offer-extended-063024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-support-plan-offer-extended-063024/",
+          "title": "Azure support plan offer extended to June 30, 2024",
+          "description": "Beginning January 1, 2024, all new and renewing Azure customers who purchase an Enterprise Agreement (EA or EES) or are part of the field-led Microsoft Customer Agreement (MCA) will receive Azure Standard support.  Qualifications for the promotion will end on June 30, 2024.",
+          "pubDate": "Mon, 04 Dec 2023 16:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Beginning January 1, 2024, all new and renewing Azure customers who purchase an Enterprise Agreement (EA or EES) or are part of the field-led Microsoft Customer Agreement (MCA) will receive Azure Standard support.  Qualifications for the promotion will end on June 30, 2024."
           },
           "content:encoded": null
         },
@@ -596,22 +641,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services/",
-          "category": "Azure Health Data Services; FHIR service; DICOM service",
-          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
-          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
-          "pubDate": "Mon, 20 Nov 2023 16:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-fabric-capacity-reservations"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-fabric-capacity-reservations/",
@@ -740,7 +769,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -814,6 +843,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "ga-ultra-disk-performance-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
+          "title": "GA: Ultra Disk performance updates",
+          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
+          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -847,7 +891,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
+          "title": "Azure Functions brings new flexibility with unlimited execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -1040,21 +1084,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "erlocations-112023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
-          "title": "General availability: Additional Azure ExpressRoute peering locations",
-          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -1205,21 +1234,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
-          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
-          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-machine-learning-public-preview-for-november"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
@@ -1229,6 +1243,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
+          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
+          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
           },
           "content:encoded": null
         },
@@ -2291,7 +2320,7 @@
             "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Security, and Usability",
+          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
           "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
           "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
           "atom:content": {
@@ -2858,7 +2887,7 @@
           "category": "Azure AI",
           "title": "General Availability: Azure AI Content Safety",
           "description": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio",
-          "pubDate": "Wed, 18 Oct 2023 16:00:23 Z",
+          "pubDate": "Wed, 18 Oct 2023 16:00:18 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio"
@@ -3077,36 +3106,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Files now supports an expanded character set enabling file and directory names with all valid Unicode characters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "expressroute-traffic-collector-is-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/expressroute-traffic-collector-is-now-generally-available/",
-          "title": "ExpressRoute Traffic Collector is now generally available",
-          "description": "Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit.",
-          "pubDate": "Tue, 10 Oct 2023 16:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "lsa-payload-update-for-fixes-on-15jan"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/",
-          "title": "LSA payload update for fixes on 15-Jan",
-          "description": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.",
-          "pubDate": "Tue, 10 Oct 2023 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services."
           },
           "content:encoded": null
         }
