@@ -12,13 +12,73 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 06 Dec 2023 17:12:33 Z",
+      "lastBuildDate": "Wed, 06 Dec 2023 18:17:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-sql-trigger-for-azure-functions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions/",
+          "title": "GA: Azure SQL Trigger for Azure Functions",
+          "description": "Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-node-autoprovision-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
+          "title": "Public preview: Node autoprovision support in AKS",
+          "description": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-functions-support-on-apple-silicon-macs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-on-apple-silicon-macs/",
+          "title": "Generally Available: Azure Functions support on Apple Silicon Macs",
+          "description": "You can now develop Azure Functions locally on the new Apple Silicon Macs.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now develop Azure Functions locally on the new Apple Silicon Macs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3034,73 +3094,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Upgrade Azure Functions to use Python 3.9 or above."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "windows-server-2012r2-reaches-end-of-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/windows-server-2012r2-reaches-end-of-support/",
-          "title": "Windows Server 2012/R2 reaches end of support",
-          "description": "Windows Server 2012/R2 reaches end of support today on October 10, 2023. Microsoft has several options for organizations to remain protected.",
-          "pubDate": "Fri, 13 Oct 2023 23:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Windows Server 2012/R2 reaches end of support today on October 10, 2023. Microsoft has several options for organizations to remain protected."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-dedicated-host-resize"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-dedicated-host-resize/",
-          "category": "ADH",
-          "title": "Generally Available: Azure Dedicated Host - Resize",
-          "description": "Resize capability for Azure dedicated hosts is now generally available",
-          "pubDate": "Thu, 12 Oct 2023 16:00:34 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Resize capability for Azure dedicated hosts is now generally available"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "breaking-change-notice-vmss-create-default-orchestration-mode-changing-from-uniform-to-flexible-on-powershell-azure-cli"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/breaking-change-notice-vmss-create-default-orchestration-mode-changing-from-uniform-to-flexible-on-powershell-azure-cli/",
-          "category": [
-            "Virtual Machine Scale Sets",
-            "Breaking Change",
-            "PowerShell",
-            "Azure CLI"
-          ],
-          "title": "Breaking Change Notice: Virtual Machine Scale Set Default Orchestration Mode changing from Uniform to Flexible on PowerShell, Azure CLI",
-          "description": "Starting November 2023, Virtual Machine Scale Sets created on PowerShell and Azure CLI will automatically default to Flexible orchestration mode.",
-          "pubDate": "Wed, 11 Oct 2023 20:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Starting November 2023, Virtual Machine Scale Sets created on PowerShell and Azure CLI will automatically default to Flexible orchestration mode."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "private-preview-regional-disaster-recovery-by-azure-backup-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/private-preview-regional-disaster-recovery-by-azure-backup-for-aks/",
-          "title": "Private Preview: Regional Disaster Recovery by Azure Backup for AKS",
-          "description": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario.",
-          "pubDate": "Wed, 11 Oct 2023 17:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
           },
           "content:encoded": null
         }
