@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 07 Dec 2023 17:12:55 Z",
+      "lastBuildDate": "Thu, 07 Dec 2023 18:17:31 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -22,211 +22,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "akscostviews"
+            "#text": "general-availability-encryption-with-customermanaged-keys-in-azure-health-data-services"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/akscostviews/",
-          "category": "Azure portal",
-          "title": "Public Preview: New AKS cost views for standard and premium tier clusters",
-          "description": "New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters.",
-          "pubDate": "Wed, 06 Dec 2023 23:51:04 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-with-customermanaged-keys-in-azure-health-data-services/",
+          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
+          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
+          "pubDate": "Tue, 05 Dec 2023 23:13:17 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-sql-trigger-for-azure-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions/",
-          "title": "GA: Azure SQL Trigger for Azure Functions",
-          "description": "Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-node-autoprovision-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
-          "title": "Public preview: Node autoprovision support in AKS",
-          "description": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-functions-support-on-apple-silicon-macs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-on-apple-silicon-macs/",
-          "title": "Generally Available: Azure Functions support on Apple Silicon Macs",
-          "description": "You can now develop Azure Functions locally on the new Apple Silicon Macs.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now develop Azure Functions locally on the new Apple Silicon Macs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-connection-audit-logs-for-enterprise-tier-caches-for-azure-cache-for-redis"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-connection-audit-logs-for-enterprise-tier-caches-for-azure-cache-for-redis/",
-          "title": "General Availability: Connection audit logs for Enterprise tier caches for Azure Cache for Redis",
-          "description": "Log all connections to your cache.",
-          "pubDate": "Wed, 06 Dec 2023 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Log all connections to your cache."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-accelerated-logs-in-azure-database-for-mysql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-accelerated-logs-in-azure-database-for-mysql-flexible-server/",
-          "title": "Public Preview: Accelerated logs in Azure Database for MySQL - Flexible Server",
-          "description": "Gain a performance boost in the Business-Critical service tier of Azure Database for MySQL - Flexible Server with accelerated logs.",
-          "pubDate": "Wed, 06 Dec 2023 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Gain a performance boost in the Business-Critical service tier of Azure Database for MySQL - Flexible Server with accelerated logs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-postgresql-16-support-in-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-postgresql-16-support-in-azure-database-for-postgresql-flexible-server/",
-          "title": "Generally available: PostgreSQL 16 support in Azure Database for PostgreSQL – Flexible Server",
-          "description": "Unlock advanced logical replication, query optimizations, and faster data loading with PostgreSQL 16 on Azure Database for PostgreSQL – Flexible Server.",
-          "pubDate": "Wed, 06 Dec 2023 17:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Unlock advanced logical replication, query optimizations, and faster data loading with PostgreSQL 16 on Azure Database for PostgreSQL – Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-flexible-server-enhanced-disaster-recovery-features"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-flexible-server-enhanced-disaster-recovery-features/",
-          "title": "Public Preview: Azure Database for PostgreSQL - Flexible Server, enhanced disaster recovery features",
-          "description": "Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL.",
-          "pubDate": "Wed, 06 Dec 2023 17:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/",
-          "title": "GA: Azure Kubernetes Service (AKS) support for 5K Node limit by default for Standard tier clusters",
-          "description": "You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting.",
-          "pubDate": "Wed, 06 Dec 2023 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-site-recovery-update-rollup-69-november-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-69-november-2023/",
-          "title": "Generally available: Azure Site Recovery update rollup 69 - November 2023",
-          "description": "This article describes the improvements for the latest version of Azure Site Recovery components.",
-          "pubDate": "Tue, 05 Dec 2023 17:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "This article describes the improvements for the latest version of Azure Site Recovery components."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview/",
-          "title": "Azure Event Grid system topics support for resource management and health resources now in Public Preview",
-          "description": "Health resources and resource management alerts available through Event Grid system topics",
-          "pubDate": "Mon, 04 Dec 2023 17:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Health resources and resource management alerts available through Event Grid system topics"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "adx-vnet-migration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/adx-vnet-migration/",
-          "title": "Migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints",
-          "description": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly.",
-          "pubDate": "Mon, 04 Dec 2023 17:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-support-plan-offer-extended-063024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-support-plan-offer-extended-063024/",
-          "title": "Azure support plan offer extended to June 30, 2024",
-          "description": "Beginning January 1, 2024, all new and renewing Azure customers who purchase an Enterprise Agreement (EA or EES) or are part of the field-led Microsoft Customer Agreement (MCA) will receive Azure Standard support.  Qualifications for the promotion will end on June 30, 2024.",
-          "pubDate": "Mon, 04 Dec 2023 16:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Beginning January 1, 2024, all new and renewing Azure customers who purchase an Enterprise Agreement (EA or EES) or are part of the field-led Microsoft Customer Agreement (MCA) will receive Azure Standard support.  Qualifications for the promotion will end on June 30, 2024."
+            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
           },
           "content:encoded": null
         },
@@ -920,7 +724,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -994,21 +798,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -1042,7 +831,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -1229,6 +1018,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The general availability of Azure Chaos Studios provides a fully managed experimentation platform for discovering challenging issues through experiment templates, dynamic targets and a more guided user interface."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
           },
           "content:encoded": null
         },
@@ -2471,7 +2275,7 @@
             "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
+          "title": "Azure Elastic SAN updates: Security, and Usability",
           "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
           "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
           "atom:content": {
@@ -3038,7 +2842,7 @@
           "category": "Azure AI",
           "title": "General Availability: Azure AI Content Safety",
           "description": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio",
-          "pubDate": "Wed, 18 Oct 2023 16:00:18 Z",
+          "pubDate": "Wed, 18 Oct 2023 16:00:23 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.\n\nLearn more: https://aka.ms/contentsafety \n\nGet started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio"
@@ -3091,6 +2895,217 @@
           "atom:content": {
             "@type": "text",
             "#text": "Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-functions-support-for-python-38-is-ending-on-14-october-2023-6"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-functions-support-for-python-38-is-ending-on-14-october-2023-6/",
+          "category": [
+            "Azure Functions",
+            "Retirements"
+          ],
+          "title": "Azure Functions support for Python 3.8 is ending on 14 October 2024",
+          "description": "Upgrade Azure Functions to use Python 3.9 or above.",
+          "pubDate": "Fri, 13 Oct 2023 23:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Upgrade Azure Functions to use Python 3.9 or above."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "windows-server-2012r2-reaches-end-of-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/windows-server-2012r2-reaches-end-of-support/",
+          "title": "Windows Server 2012/R2 reaches end of support",
+          "description": "Windows Server 2012/R2 reaches end of support today on October 10, 2023. Microsoft has several options for organizations to remain protected.",
+          "pubDate": "Fri, 13 Oct 2023 23:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Windows Server 2012/R2 reaches end of support today on October 10, 2023. Microsoft has several options for organizations to remain protected."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-dedicated-host-resize"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-dedicated-host-resize/",
+          "category": "ADH",
+          "title": "Generally Available: Azure Dedicated Host - Resize",
+          "description": "Resize capability for Azure dedicated hosts is now generally available",
+          "pubDate": "Thu, 12 Oct 2023 16:00:34 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Resize capability for Azure dedicated hosts is now generally available"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "breaking-change-notice-vmss-create-default-orchestration-mode-changing-from-uniform-to-flexible-on-powershell-azure-cli"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/breaking-change-notice-vmss-create-default-orchestration-mode-changing-from-uniform-to-flexible-on-powershell-azure-cli/",
+          "category": [
+            "Virtual Machine Scale Sets",
+            "Breaking Change",
+            "PowerShell",
+            "Azure CLI"
+          ],
+          "title": "Breaking Change Notice: Virtual Machine Scale Set Default Orchestration Mode changing from Uniform to Flexible on PowerShell, Azure CLI",
+          "description": "Starting November 2023, Virtual Machine Scale Sets created on PowerShell and Azure CLI will automatically default to Flexible orchestration mode.",
+          "pubDate": "Wed, 11 Oct 2023 20:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Starting November 2023, Virtual Machine Scale Sets created on PowerShell and Azure CLI will automatically default to Flexible orchestration mode."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "private-preview-regional-disaster-recovery-by-azure-backup-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/private-preview-regional-disaster-recovery-by-azure-backup-for-aks/",
+          "title": "Private Preview: Regional Disaster Recovery by Azure Backup for AKS",
+          "description": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario.",
+          "pubDate": "Wed, 11 Oct 2023 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-private-link-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-private-link-for-mysql-flexible-server/",
+          "title": "General Availability: Azure Private Link for MySQL – Flexible Server",
+          "description": "Use Azure Private Link for private connectivity with MySQL – Flexible Server.",
+          "pubDate": "Wed, 11 Oct 2023 16:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use Azure Private Link for private connectivity with MySQL – Flexible Server."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-universal-crossregion-read-replica-on-azure-database-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-universal-crossregion-read-replica-on-azure-database-for-mysql-flexible-server/",
+          "title": "General Availability: Universal cross-region read replica on Azure Database for MySQL - Flexible Server",
+          "description": "Provision up to 10 read replicas in universal regions on Azure Database for MySQL - Flexible Server.",
+          "pubDate": "Wed, 11 Oct 2023 16:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Provision up to 10 read replicas in universal regions on Azure Database for MySQL - Flexible Server."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-earlyoctober-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-earlyoctober-2023/",
+          "title": "General availability: Azure SQL updates for early-October 2023",
+          "description": "General availability enhancements and updates released for Azure SQL in early-October 2023.",
+          "pubDate": "Wed, 11 Oct 2023 16:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in early-October 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-public-preview-of-azure-api-management-pricing-tiers-basic-v2-and-standard-v2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-azure-api-management-pricing-tiers-basic-v2-and-standard-v2/",
+          "title": "Announcing Public Preview of Azure API Management Pricing Tiers: Basic v2 and Standard v2",
+          "description": "We're thrilled to announce the public preview launch of our latest Azure API Management pricing tiers: Basic v2 and Standard v2. These new tiers address highly sought-after customer requests, bring quality-of-service enhancements, and offer a flexible starting point for API Management, allowing organizations of any size to embark on their API journey.",
+          "pubDate": "Tue, 10 Oct 2023 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're thrilled to announce the public preview launch of our latest Azure API Management pricing tiers: Basic v2 and Standard v2. These new tiers address highly sought-after customer requests, bring quality-of-service enhancements, and offer a flexible starting point for API Management, allowing organizations of any size to embark on their API journey."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurefilessupportforunicodecharacters"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurefilessupportforunicodecharacters/",
+          "category": [
+            "Storage",
+            "AzureStorage",
+            "AzureFiles"
+          ],
+          "title": "Azure Files has been improved to support all valid Unicode characters",
+          "description": "Azure Files now supports an expanded character set enabling file and directory names with all valid Unicode characters.",
+          "pubDate": "Tue, 10 Oct 2023 16:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Files now supports an expanded character set enabling file and directory names with all valid Unicode characters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "expressroute-traffic-collector-is-now-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/expressroute-traffic-collector-is-now-generally-available/",
+          "title": "ExpressRoute Traffic Collector is now generally available",
+          "description": "Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit.",
+          "pubDate": "Tue, 10 Oct 2023 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "lsa-payload-update-for-fixes-on-15jan"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/",
+          "title": "LSA payload update for fixes on 15-Jan",
+          "description": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.",
+          "pubDate": "Tue, 10 Oct 2023 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-chaos-studio-querybased-dynamic-targets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-querybased-dynamic-targets/",
+          "title": "Public Preview: Azure Chaos Studio has Query-Based Dynamic Targets",
+          "description": "Azure Chaos Studio has Query-Based Dynamic Targets.",
+          "pubDate": "Mon, 09 Oct 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio has Query-Based Dynamic Targets."
           },
           "content:encoded": null
         }
