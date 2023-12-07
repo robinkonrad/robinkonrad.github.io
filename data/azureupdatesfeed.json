@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 06 Dec 2023 23:13:23 Z",
+      "lastBuildDate": "Thu, 07 Dec 2023 01:02:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "akscostviews"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/akscostviews/",
+          "category": "Azure portal",
+          "title": "Public Preview: New AKS cost views for standard and premium tier clusters",
+          "description": "New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters.",
+          "pubDate": "Wed, 06 Dec 2023 23:51:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1474,21 +1490,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -1498,6 +1499,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -1549,21 +1565,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
@@ -1573,6 +1574,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
           },
           "content:encoded": null
         },
@@ -3075,25 +3091,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-functions-support-for-python-38-is-ending-on-14-october-2023-6"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-functions-support-for-python-38-is-ending-on-14-october-2023-6/",
-          "category": [
-            "Azure Functions",
-            "Retirements"
-          ],
-          "title": "Azure Functions support for Python 3.8 is ending on 14 October 2024",
-          "description": "Upgrade Azure Functions to use Python 3.9 or above.",
-          "pubDate": "Fri, 13 Oct 2023 23:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade Azure Functions to use Python 3.9 or above."
           },
           "content:encoded": null
         }
