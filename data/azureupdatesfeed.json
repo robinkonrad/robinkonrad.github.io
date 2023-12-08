@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 08 Dec 2023 12:25:50 Z",
+      "lastBuildDate": "Fri, 08 Dec 2023 13:16:01 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,51 @@
           "atom:content": {
             "@type": "text",
             "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-event-grid-system-topics-support-for-resource-management-and-health-resources-now-in-public-preview/",
+          "title": "Azure Event Grid system topics support for resource management and health resources now in Public Preview",
+          "description": "Health resources and resource management alerts available through Event Grid system topics",
+          "pubDate": "Mon, 04 Dec 2023 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Health resources and resource management alerts available through Event Grid system topics"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-vnet-migration"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-vnet-migration/",
+          "title": "Migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints",
+          "description": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly.",
+          "pubDate": "Mon, 04 Dec 2023 17:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "If you are using VNet injection to secure your Azure Data Explorer (ADX) cluster, you may face some challenges such as complexity, scalability, and public IP dependency. We recommend that you switch to Azure Private Endpoints, which allow you to connect to your cluster privately within your VNet. We have released a preview feature that lets you migrate your VNet injected ADX cluster to Private Endpoints easily and quickly."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-support-plan-offer-extended-063024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-support-plan-offer-extended-063024/",
+          "title": "Azure support plan offer extended to June 30, 2024",
+          "description": "Beginning January 1, 2024, all new and renewing Azure customers who purchase an Enterprise Agreement (EA or EES) or are part of the field-led Microsoft Customer Agreement (MCA) will receive Azure Standard support.  Qualifications for the promotion will end on June 30, 2024.",
+          "pubDate": "Mon, 04 Dec 2023 16:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Beginning January 1, 2024, all new and renewing Azure customers who purchase an Enterprise Agreement (EA or EES) or are part of the field-led Microsoft Customer Agreement (MCA) will receive Azure Standard support.  Qualifications for the promotion will end on June 30, 2024."
           },
           "content:encoded": null
         },
@@ -3061,51 +3106,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Files now supports an expanded character set enabling file and directory names with all valid Unicode characters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "expressroute-traffic-collector-is-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/expressroute-traffic-collector-is-now-generally-available/",
-          "title": "ExpressRoute Traffic Collector is now generally available",
-          "description": "Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit.",
-          "pubDate": "Tue, 10 Oct 2023 16:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use ExpressRoute Traffic Collector to enable collection of flow logs for traffic sent over your ExpressRoute direct circuit."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "lsa-payload-update-for-fixes-on-15jan"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/lsa-payload-update-for-fixes-on-15jan/",
-          "title": "LSA payload update for fixes on 15-Jan",
-          "description": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services.",
-          "pubDate": "Tue, 10 Oct 2023 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "On the 15-Jan we are going to fix those 2 values in LSA payload to contain the correct values according to our other alerts services."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-chaos-studio-querybased-dynamic-targets"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-chaos-studio-querybased-dynamic-targets/",
-          "title": "Public Preview: Azure Chaos Studio has Query-Based Dynamic Targets",
-          "description": "Azure Chaos Studio has Query-Based Dynamic Targets.",
-          "pubDate": "Mon, 09 Oct 2023 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Chaos Studio has Query-Based Dynamic Targets."
           },
           "content:encoded": null
         }
