@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Dec 2023 07:11:31 Z</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2023 08:16:07 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,123 @@
       <pubDate>Sat, 09 Dec 2023 00:00:04 Z</pubDate>
       <atom:content
         type="text">Azure Resource Manager API version 2023-04-01-preview will be retired in March 2024. Upgrade to a newer version before then. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">akscostviews</guid>
+      <link>https://azure.microsoft.com/en-us/updates/akscostviews/</link>
+      <category>Azure portal</category>
+      <title>Public Preview: New AKS cost views for standard and premium tier clusters </title>
+      <description>New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters.
+
+
+</description>
+      <pubDate>Wed, 06 Dec 2023 23:51:04 Z</pubDate>
+      <atom:content
+        type="text">New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters.
+
+
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-azure-sql-trigger-for-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions/</link>
+      <title>GA: Azure SQL Trigger for Azure Functions </title>
+      <description>Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database.</description>
+      <pubDate>Wed, 06 Dec 2023 18:00:15 Z</pubDate>
+      <atom:content
+        type="text">Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-node-autoprovision-support-in-aks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/</link>
+      <title>Public preview: Node autoprovision support in AKS </title>
+      <description>AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.  </description>
+      <pubDate>Wed, 06 Dec 2023 18:00:15 Z</pubDate>
+      <atom:content
+        type="text">AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-aks-support-for-api-breaking-change-detection</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/</link>
+      <title>Generally Available: AKS support for API breaking change detection </title>
+      <description>AKS now alerts you on API breaking changes on minor version change cluster upgrades.</description>
+      <pubDate>Wed, 06 Dec 2023 18:00:14 Z</pubDate>
+      <atom:content
+        type="text">AKS now alerts you on API breaking changes on minor version change cluster upgrades.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-functions-support-on-apple-silicon-macs</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-on-apple-silicon-macs/</link>
+      <title>Generally Available: Azure Functions support on Apple Silicon Macs </title>
+      <description>You can now develop Azure Functions locally on the new Apple Silicon Macs.</description>
+      <pubDate>Wed, 06 Dec 2023 18:00:13 Z</pubDate>
+      <atom:content
+        type="text">You can now develop Azure Functions locally on the new Apple Silicon Macs.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-connection-audit-logs-for-enterprise-tier-caches-for-azure-cache-for-redis</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-connection-audit-logs-for-enterprise-tier-caches-for-azure-cache-for-redis/</link>
+      <title>General Availability: Connection audit logs for Enterprise tier caches for Azure Cache for Redis</title>
+      <description>Log all connections to your cache.</description>
+      <pubDate>Wed, 06 Dec 2023 17:00:14 Z</pubDate>
+      <atom:content
+        type="text">Log all connections to your cache.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-accelerated-logs-in-azure-database-for-mysql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-accelerated-logs-in-azure-database-for-mysql-flexible-server/</link>
+      <title>Public Preview: Accelerated logs in Azure Database for MySQL - Flexible Server</title>
+      <description>Gain a performance boost in the Business-Critical service tier of Azure Database for MySQL - Flexible Server with accelerated logs.  </description>
+      <pubDate>Wed, 06 Dec 2023 17:00:14 Z</pubDate>
+      <atom:content
+        type="text">Gain a performance boost in the Business-Critical service tier of Azure Database for MySQL - Flexible Server with accelerated logs.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-postgresql-16-support-in-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-postgresql-16-support-in-azure-database-for-postgresql-flexible-server/</link>
+      <title>Generally available: PostgreSQL 16 support in Azure Database for PostgreSQL – Flexible Server</title>
+      <description>Unlock advanced logical replication, query optimizations, and faster data loading with PostgreSQL 16 on Azure Database for PostgreSQL – Flexible Server. </description>
+      <pubDate>Wed, 06 Dec 2023 17:00:13 Z</pubDate>
+      <atom:content
+        type="text">Unlock advanced logical replication, query optimizations, and faster data loading with PostgreSQL 16 on Azure Database for PostgreSQL – Flexible Server. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-database-for-postgresql-flexible-server-enhanced-disaster-recovery-features</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-flexible-server-enhanced-disaster-recovery-features/</link>
+      <title>Public Preview: Azure Database for PostgreSQL - Flexible Server, enhanced disaster recovery features</title>
+      <description>Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL.</description>
+      <pubDate>Wed, 06 Dec 2023 17:00:12 Z</pubDate>
+      <atom:content
+        type="text">Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/</link>
+      <title>GA: Azure Kubernetes Service (AKS) support for 5K Node limit by default for Standard tier clusters</title>
+      <description>You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting.</description>
+      <pubDate>Wed, 06 Dec 2023 16:00:12 Z</pubDate>
+      <atom:content
+        type="text">You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2172,125 +2289,6 @@ Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystud
 Learn more: https://aka.ms/contentsafety 
 
 Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-vmss-automatic-instance-repairs-reimage-restart-repair-actions</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-vmss-automatic-instance-repairs-reimage-restart-repair-actions/</link>
-      <category>Features</category>
-      <category>VMSS</category>
-      <title>Public Preview: VMSS Automatic Instance Repairs - Reimage, Restart Repair Actions</title>
-      <description>New recovery options available on automatic instance repairs provides the capability for less-disruptive repair actions on sensitive workloads. </description>
-      <pubDate>Tue, 17 Oct 2023 21:59:51 Z</pubDate>
-      <atom:content
-        type="text">New recovery options available on automatic instance repairs provides the capability for less-disruptive repair actions on sensitive workloads. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-general-availability-for-october</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-october/</link>
-      <title>Azure Machine Learning - General Availability for October </title>
-      <description>Three features now available in GA enable you to streamline your network isolation experience, deploy your model locally prior to production, and automate the ML lifecycle without accruing extra compute hours or requiring manual intervention. </description>
-      <pubDate>Mon, 16 Oct 2023 17:00:32 Z</pubDate>
-      <atom:content
-        type="text">Three features now available in GA enable you to streamline your network isolation experience, deploy your model locally prior to production, and automate the ML lifecycle without accruing extra compute hours or requiring manual intervention. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-public-preview-for-october</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-october/</link>
-      <title>Azure Machine Learning - Public Preview for October </title>
-      <description>Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning. </description>
-      <pubDate>Mon, 16 Oct 2023 17:00:31 Z</pubDate>
-      <atom:content
-        type="text">Four features now available in Public Preview enable you to customize your compute instance experience by using curated or custom environments, collect all model dependencies in a single operation to generate a package than can be move and deployed across environments, label your images at each pixel level with high quality, and conenct and fine-tune Azure OpenAI models with Azure Machine Learning. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-functions-support-for-python-38-is-ending-on-14-october-2023-6</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-functions-support-for-python-38-is-ending-on-14-october-2023-6/</link>
-      <category>Azure Functions</category>
-      <category>Retirements</category>
-      <title>Azure Functions support for Python 3.8 is ending on 14 October 2024</title>
-      <description>Upgrade Azure Functions to use Python 3.9 or above.</description>
-      <pubDate>Fri, 13 Oct 2023 23:00:20 Z</pubDate>
-      <atom:content
-        type="text">Upgrade Azure Functions to use Python 3.9 or above.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">windows-server-2012r2-reaches-end-of-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/windows-server-2012r2-reaches-end-of-support/</link>
-      <title>Windows Server 2012/R2 reaches end of support</title>
-      <description>Windows Server 2012/R2 reaches end of support today on October 10, 2023. Microsoft has several options for organizations to remain protected. </description>
-      <pubDate>Fri, 13 Oct 2023 23:00:16 Z</pubDate>
-      <atom:content
-        type="text">Windows Server 2012/R2 reaches end of support today on October 10, 2023. Microsoft has several options for organizations to remain protected. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-azure-dedicated-host-resize</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-azure-dedicated-host-resize/</link>
-      <category>ADH</category>
-      <title>Generally Available: Azure Dedicated Host - Resize</title>
-      <description>Resize capability for Azure dedicated hosts is now generally available</description>
-      <pubDate>Thu, 12 Oct 2023 16:00:34 Z</pubDate>
-      <atom:content
-        type="text">Resize capability for Azure dedicated hosts is now generally available</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">breaking-change-notice-vmss-create-default-orchestration-mode-changing-from-uniform-to-flexible-on-powershell-azure-cli</guid>
-      <link>https://azure.microsoft.com/en-us/updates/breaking-change-notice-vmss-create-default-orchestration-mode-changing-from-uniform-to-flexible-on-powershell-azure-cli/</link>
-      <category>Virtual Machine Scale Sets</category>
-      <category>Breaking Change</category>
-      <category>PowerShell</category>
-      <category>Azure CLI</category>
-      <title>Breaking Change Notice: Virtual Machine Scale Set Default Orchestration Mode changing from Uniform to Flexible on PowerShell, Azure CLI</title>
-      <description>Starting November 2023, Virtual Machine Scale Sets created on PowerShell and Azure CLI will automatically default to Flexible orchestration mode. </description>
-      <pubDate>Wed, 11 Oct 2023 20:00:10 Z</pubDate>
-      <atom:content
-        type="text">Starting November 2023, Virtual Machine Scale Sets created on PowerShell and Azure CLI will automatically default to Flexible orchestration mode. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">private-preview-regional-disaster-recovery-by-azure-backup-for-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/private-preview-regional-disaster-recovery-by-azure-backup-for-aks/</link>
-      <title>Private Preview: Regional Disaster Recovery by Azure Backup for AKS</title>
-      <description>Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </description>
-      <pubDate>Wed, 11 Oct 2023 17:00:09 Z</pubDate>
-      <atom:content
-        type="text">Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-private-link-for-mysql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-private-link-for-mysql-flexible-server/</link>
-      <title>General Availability: Azure Private Link for MySQL – Flexible Server</title>
-      <description>Use Azure Private Link for private connectivity with MySQL – Flexible Server. </description>
-      <pubDate>Wed, 11 Oct 2023 16:00:24 Z</pubDate>
-      <atom:content
-        type="text">Use Azure Private Link for private connectivity with MySQL – Flexible Server. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-universal-crossregion-read-replica-on-azure-database-for-mysql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-universal-crossregion-read-replica-on-azure-database-for-mysql-flexible-server/</link>
-      <title>General Availability: Universal cross-region read replica on Azure Database for MySQL - Flexible Server</title>
-      <description>Provision up to 10 read replicas in universal regions on Azure Database for MySQL - Flexible Server.</description>
-      <pubDate>Wed, 11 Oct 2023 16:00:18 Z</pubDate>
-      <atom:content
-        type="text">Provision up to 10 read replicas in universal regions on Azure Database for MySQL - Flexible Server.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
