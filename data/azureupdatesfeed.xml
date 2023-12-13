@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Dec 2023 01:02:31 Z</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 02:27:07 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">event-grid-graph-api-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/event-grid-graph-api-public-preview/</link>
+      <title>Azure Event Grid releases public preview support for events from services like Microsoft Entra ID, Microsoft Outlook, and Microsoft Teams.</title>
+      <description>Support for Microsoft Graph API events helps you automate actions in response to Microsoft resource changes.</description>
+      <pubDate>Mon, 11 Dec 2023 17:00:55 Z</pubDate>
+      <atom:content
+        type="text">Support for Microsoft Graph API events helps you automate actions in response to Microsoft resource changes.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">retirement-azure-container-apps-preview-api-versions-20230401preview</guid>
@@ -2265,26 +2276,6 @@ Additionally, Identity emails will now be sent from Microsoft Security (MSSecuri
       <pubDate>Thu, 19 Oct 2023 16:00:13 Z</pubDate>
       <atom:content
         type="text">Default outbound access connectivity for virtual machines will be retired in September 2025 -- updates and more information</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-of-azure-ai-content-safety</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-of-azure-ai-content-safety/</link>
-      <category>Azure AI</category>
-      <title>General Availability: Azure AI Content Safety </title>
-      <description>Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.
-
-Learn more: https://aka.ms/contentsafety 
-
-Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio</description>
-      <pubDate>Wed, 18 Oct 2023 16:00:18 Z</pubDate>
-      <atom:content
-        type="text">Azure AI Content Safety, now generally available, is a service that enables developers to build safer online environments by detecting and assigning severity scores to unsafe images and text across content categories and languages. These capabilities empower businesses to effectively prioritize and streamline the review of both human and AI-generated content, enabling the responsible development of next-generation AI applications.
-
-Learn more: https://aka.ms/contentsafety 
-
-Get started in Azure AI Content Safety Studio: https://aka.ms/contentsafetystudio</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
