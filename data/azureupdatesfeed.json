@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Dec 2023 17:12:37 Z",
+      "lastBuildDate": "Wed, 13 Dec 2023 18:15:35 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates/",
+          "title": "Public preview: Intel TDX based confidential VMs now available in the Azure portal, Azure CLI and ARM templates",
+          "description": "The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications.",
+          "pubDate": "Wed, 13 Dec 2023 18:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1461,21 +1476,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
-          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
-          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-machine-learning-public-preview-for-november"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
@@ -1485,6 +1485,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
+          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
+          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
           },
           "content:encoded": null
         },
@@ -1566,21 +1581,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -1590,6 +1590,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3071,22 +3086,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "New settings will enable admins to restrict end users from viewing and editing security groups in My Groups. The existing settings that allow enabling or disabling of My Groups will be retired in June 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-norway-east-uae-north-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-norway-east-uae-north-regions/",
-          "category": "AzurePortal",
-          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in more regions",
-          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Norway East and UAE North regions.",
-          "pubDate": "Thu, 19 Oct 2023 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Norway East and UAE North regions."
           },
           "content:encoded": null
         }
