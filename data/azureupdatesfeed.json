@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Dec 2023 16:17:17 Z",
+      "lastBuildDate": "Wed, 13 Dec 2023 17:12:37 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "delaying-domain-front-block-on-afd-and-cdn-services"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/",
+          "title": "Delaying Domain Front Block on AFD and CDN services",
+          "description": "Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.",
+          "pubDate": "Wed, 13 Dec 2023 17:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1551,21 +1566,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
-          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
-          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
@@ -1575,6 +1575,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
+          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
+          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
           },
           "content:encoded": null
         },
@@ -3072,21 +3087,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in Norway East and UAE North regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "default-outbound-access-for-vms-in-azure-will-be-retired-updates-and-more-information"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/default-outbound-access-for-vms-in-azure-will-be-retired-updates-and-more-information/",
-          "title": "Default outbound access for VMs in Azure will be retired— updates and more information",
-          "description": "Default outbound access connectivity for virtual machines will be retired in September 2025 -- updates and more information",
-          "pubDate": "Thu, 19 Oct 2023 16:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Default outbound access connectivity for virtual machines will be retired in September 2025 -- updates and more information"
           },
           "content:encoded": null
         }
