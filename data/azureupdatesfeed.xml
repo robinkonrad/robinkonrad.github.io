@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2023 20:14:33 Z</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2023 21:11:56 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates/</link>
+      <title>Public preview: Intel TDX based confidential VMs now available in the Azure portal, Azure CLI and ARM templates</title>
+      <description>The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications. </description>
+      <pubDate>Wed, 13 Dec 2023 18:00:06 Z</pubDate>
+      <atom:content
+        type="text">The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">delaying-domain-front-block-on-afd-and-cdn-services</guid>
+      <link>https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/</link>
+      <title>Delaying Domain Front Block on AFD and CDN services</title>
+      <description>Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.</description>
+      <pubDate>Wed, 13 Dec 2023 17:00:06 Z</pubDate>
+      <atom:content
+        type="text">Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azureappconfiguration-snapshots-ga</guid>
@@ -43,7 +65,7 @@
       <category>Email</category>
       <title>Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version</title>
       <description>The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  </description>
-      <pubDate>Mon, 11 Dec 2023 17:00:47 Z</pubDate>
+      <pubDate>Mon, 11 Dec 2023 17:00:39 Z</pubDate>
       <atom:content
         type="text">The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  </atom:content>
       <content:encoded></content:encoded>
@@ -79,6 +101,17 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">generally-available-aks-support-for-api-breaking-change-detection</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/</link>
+      <title>Generally Available: AKS support for API breaking change detection </title>
+      <description>AKS now alerts you on API breaking changes on minor version change cluster upgrades.</description>
+      <pubDate>Wed, 06 Dec 2023 18:00:15 Z</pubDate>
+      <atom:content
+        type="text">AKS now alerts you on API breaking changes on minor version change cluster upgrades.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">ga-azure-sql-trigger-for-azure-functions</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions/</link>
       <title>GA: Azure SQL Trigger for Azure Functions </title>
@@ -97,17 +130,6 @@
       <pubDate>Wed, 06 Dec 2023 18:00:15 Z</pubDate>
       <atom:content
         type="text">AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-aks-support-for-api-breaking-change-detection</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/</link>
-      <title>Generally Available: AKS support for API breaking change detection </title>
-      <description>AKS now alerts you on API breaking changes on minor version change cluster upgrades.</description>
-      <pubDate>Wed, 06 Dec 2023 18:00:14 Z</pubDate>
-      <atom:content
-        type="text">AKS now alerts you on API breaking changes on minor version change cluster upgrades.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -753,7 +775,7 @@
       <category>Azure API Management</category>
       <title>General Availability of Application Insights Enhancements for Azure Logic Apps (standard)  </title>
       <description>We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs. </description>
-      <pubDate>Wed, 15 Nov 2023 19:00:36 Z</pubDate>
+      <pubDate>Wed, 15 Nov 2023 19:00:37 Z</pubDate>
       <atom:content
         type="text">We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs. </atom:content>
       <content:encoded></content:encoded>
@@ -808,6 +830,17 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">ga-ultra-disk-performance-updates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/</link>
+      <title>GA: Ultra Disk performance updates </title>
+      <description>Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.</description>
+      <pubDate>Wed, 15 Nov 2023 18:01:38 Z</pubDate>
+      <atom:content
+        type="text">Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/</link>
       <title>GA: Stateful entities in Durable Functions on the isolated worker model for .NET </title>
@@ -832,7 +865,7 @@
       <guid
         isPermaLink="false">register-for-access-to-upcoming-azure-functions-flex-consumption</guid>
       <link>https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/</link>
-      <title>Azure Functions brings new flexibility with scale, VNet and long execution time</title>
+      <title>Azure Functions brings new flexibility with unlimited execution time </title>
       <description>You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.</description>
       <pubDate>Wed, 15 Nov 2023 18:01:36 Z</pubDate>
       <atom:content
@@ -974,21 +1007,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">erlocations-112023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/erlocations-112023/</link>
-      <title>General availability: Additional Azure ExpressRoute peering locations</title>
-      <description>ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.
-
-</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:58 Z</pubDate>
-      <atom:content
-        type="text">ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.
-
-</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-amd-confidential-vm-option-for-azure-databricks</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/</link>
       <title>Generally available: AMD confidential VM option for Azure Databricks </title>
@@ -1099,17 +1117,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
-      <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
-      <description>AMD confidential VMs now in Italy North, Germany West Central, UAE North. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
-      <atom:content
-        type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
       <title>Azure Machine Learning  - Public Preview for November </title>
@@ -1117,6 +1124,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
       <atom:content
         type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
+      <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
+      <description>AMD confidential VMs now in Italy North, Germany West Central, UAE North. </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
+      <atom:content
+        type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1176,17 +1194,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
-      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
-      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
-      <atom:content
-        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
       <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
@@ -1194,6 +1201,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
       <atom:content
         type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
+      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
+      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1231,17 +1249,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/</link>
-      <title>Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server</title>
-      <description>Benefit from long term data retention and improved compliance using Azure Backup.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
-      <atom:content
-        type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
       <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
@@ -1249,6 +1256,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
       <atom:content
         type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server</title>
+      <description>Benefit from long term data retention and improved compliance using Azure Backup.</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
+      <atom:content
+        type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1330,17 +1348,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/</link>
-      <title>Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore</title>
-      <description>Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
-      <atom:content
-        type="text">Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-dynamic-scaling-per-partition-and-per-region</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/</link>
       <title>Public preview: Dynamic scaling per partition and per region </title>
@@ -1348,6 +1355,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
       <atom:content
         type="text">Autoscale gets even better with two new improvements -- scaling per partition and per region!</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/</link>
+      <title>Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore</title>
+      <description>Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:36 Z</pubDate>
+      <atom:content
+        type="text">Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the "Use your data" feature in Azure OpenAI Studio.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1894,7 +1912,7 @@
       <guid
         isPermaLink="false">azure-elastic-san-updates-snapshots-security-and-usability</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/</link>
-      <title>Azure Elastic SAN updates: Security, and Usability</title>
+      <title>Azure Elastic SAN updates: Snapshots, Security, and Usability</title>
       <description>Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution</description>
       <pubDate>Mon, 06 Nov 2023 18:00:01 Z</pubDate>
       <atom:content
@@ -2257,32 +2275,6 @@ We added to the Custom properties section in the alert payload ability to add d
       <atom:content
         type="text">The availability of Azure compute reservations exchanges extended until at least July 1st, 2024
 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azureadrename</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azureadrename/</link>
-      <title>Microsoft Security email update and Resources for Azure AD rename to Microsoft Entra ID </title>
-      <description>Microsoft Entra ID is the new name for Azure Active Directory (Azure AD). The rename and new product icon are being rolled out across experiences from Microsoft. Most updates will be complete by mid-November of this year. Resources are also now available to support the renaming of your product experiences. 
-
-Additionally, Identity emails will now be sent from Microsoft Security (MSSecurity-noreply@microsoft.com). The emails are currently coming from Microsoft Azure (azure-noreply@microsoft.com). You may need to update Outlook rules as a result. </description>
-      <pubDate>Mon, 23 Oct 2023 16:00:09 Z</pubDate>
-      <atom:content
-        type="text">Microsoft Entra ID is the new name for Azure Active Directory (Azure AD). The rename and new product icon are being rolled out across experiences from Microsoft. Most updates will be complete by mid-November of this year. Resources are also now available to support the renaming of your product experiences. 
-
-Additionally, Identity emails will now be sent from Microsoft Security (MSSecurity-noreply@microsoft.com). The emails are currently coming from Microsoft Azure (azure-noreply@microsoft.com). You may need to update Outlook rules as a result. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">changes-to-my-groups-admin-controls</guid>
-      <link>https://azure.microsoft.com/en-us/updates/changes-to-my-groups-admin-controls/</link>
-      <title>Changes to My Groups admin controls</title>
-      <description>New settings will enable admins to restrict end users from viewing and editing security groups in My Groups. The existing settings that allow enabling or disabling of My Groups will be retired in June 2024. </description>
-      <pubDate>Fri, 20 Oct 2023 23:00:31 Z</pubDate>
-      <atom:content
-        type="text">New settings will enable admins to restrict end users from viewing and editing security groups in My Groups. The existing settings that allow enabling or disabling of My Groups will be retired in June 2024. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
