@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Dec 2023 15:12:16 Z</lastBuildDate>
+    <lastBuildDate>Sat, 16 Dec 2023 16:16:01 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,28 @@
       <pubDate>Sat, 16 Dec 2023 00:00:08 Z</pubDate>
       <atom:content
         type="text">Transition to Prometheus recommended alert rules (preview) before 31 May 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates/</link>
+      <title>Public preview: Intel TDX based confidential VMs now available in the Azure portal, Azure CLI and ARM templates</title>
+      <description>The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications. </description>
+      <pubDate>Wed, 13 Dec 2023 18:00:06 Z</pubDate>
+      <atom:content
+        type="text">The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">delaying-domain-front-block-on-afd-and-cdn-services</guid>
+      <link>https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/</link>
+      <title>Delaying Domain Front Block on AFD and CDN services</title>
+      <description>Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.</description>
+      <pubDate>Wed, 13 Dec 2023 17:00:06 Z</pubDate>
+      <atom:content
+        type="text">Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2253,36 +2275,6 @@ We added to the Custom properties section in the alert payload ability to add d
       <pubDate>Wed, 25 Oct 2023 16:00:35 Z</pubDate>
       <atom:content
         type="text">You can now choose PostgreSQL 16 when creating PostgreSQL clusters in Azure Cosmos DB for PostgreSQL, a managed service for distributed Postgres database.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">the-availability-of-azure-compute-reservations-exchanges-extended-until-at-least-july-1st-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/the-availability-of-azure-compute-reservations-exchanges-extended-until-at-least-july-1st-2024/</link>
-      <category>Reservations</category>
-      <category>Reserved Instances</category>
-      <title>The availability of Azure compute reservations exchanges extended until at least July 1st, 2024</title>
-      <description>The availability of Azure compute reservations exchanges extended until at least July 1st, 2024
-</description>
-      <pubDate>Tue, 24 Oct 2023 18:00:24 Z</pubDate>
-      <atom:content
-        type="text">The availability of Azure compute reservations exchanges extended until at least July 1st, 2024
-</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azureadrename</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azureadrename/</link>
-      <title>Microsoft Security email update and Resources for Azure AD rename to Microsoft Entra ID </title>
-      <description>Microsoft Entra ID is the new name for Azure Active Directory (Azure AD). The rename and new product icon are being rolled out across experiences from Microsoft. Most updates will be complete by mid-November of this year. Resources are also now available to support the renaming of your product experiences. 
-
-Additionally, Identity emails will now be sent from Microsoft Security (MSSecurity-noreply@microsoft.com). The emails are currently coming from Microsoft Azure (azure-noreply@microsoft.com). You may need to update Outlook rules as a result. </description>
-      <pubDate>Mon, 23 Oct 2023 16:00:09 Z</pubDate>
-      <atom:content
-        type="text">Microsoft Entra ID is the new name for Azure Active Directory (Azure AD). The rename and new product icon are being rolled out across experiences from Microsoft. Most updates will be complete by mid-November of this year. Resources are also now available to support the renaming of your product experiences. 
-
-Additionally, Identity emails will now be sent from Microsoft Security (MSSecurity-noreply@microsoft.com). The emails are currently coming from Microsoft Azure (azure-noreply@microsoft.com). You may need to update Outlook rules as a result. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
