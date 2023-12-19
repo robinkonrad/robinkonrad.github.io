@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 19 Dec 2023 15:13:51 Z",
+      "lastBuildDate": "Tue, 19 Dec 2023 16:15:35 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-red-hat-openshift-v413-at-install-time"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-v413-at-install-time/",
+          "title": "Generally Available: Azure Red Hat OpenShift v4.13 at install time",
+          "description": "Azure Red Hat OpenShift version 4.13 is now available at install time.",
+          "pubDate": "Tue, 19 Dec 2023 16:00:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Red Hat OpenShift version 4.13 is now available at install time."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3082,21 +3097,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "With auto-grow enabled, Azure Database for PostgreSQL - Flexible Server will automatically increase the size of your provisioned storage."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server/",
-          "title": "General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server",
-          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.4, 14.9, 13.12, 12.16, 11.21.",
-          "pubDate": "Wed, 25 Oct 2023 16:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 15.4, 14.9, 13.12, 12.16, 11.21."
           },
           "content:encoded": null
         }
