@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 21 Dec 2023 19:09:37 Z",
+      "lastBuildDate": "Thu, 21 Dec 2023 20:13:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-stream-analytics-in-seven-more-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-seven-more-regions/",
-          "title": "Generally available: Azure Stream Analytics in seven more regions",
-          "description": "Tag = AzurePortal",
-          "pubDate": "Thu, 21 Dec 2023 17:00:26 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Tag = AzurePortal"
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -61,6 +46,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Explore the power of SQL Managed Instance for free.  It's perfect for testing out cloud migrations and elevating your database experience."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-red-hat-openshift-v413-at-install-time"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-v413-at-install-time/",
+          "title": "Generally Available: Azure Red Hat OpenShift v4.13 at install time",
+          "description": "Azure Red Hat OpenShift version 4.13 is now available at install time.",
+          "pubDate": "Tue, 19 Dec 2023 16:00:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Red Hat OpenShift version 4.13 is now available at install time."
           },
           "content:encoded": null
         },
@@ -237,7 +237,7 @@
           ],
           "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
           "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:39 Z",
+          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
@@ -278,15 +278,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+            "#text": "ga-azure-sql-trigger-for-azure-functions"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions/",
+          "title": "GA: Azure SQL Trigger for Azure Functions",
+          "description": "Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database.",
           "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
+            "#text": "Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database."
           },
           "content:encoded": null
         },
@@ -302,6 +302,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
           },
           "content:encoded": null
         },
@@ -1176,7 +1191,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -1250,21 +1265,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -1298,7 +1298,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -1491,6 +1491,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -1641,21 +1656,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -1665,6 +1665,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -1746,21 +1761,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
-          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
-          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
@@ -1770,6 +1770,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
+          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
+          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
           },
           "content:encoded": null
         },
@@ -1821,21 +1836,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
-          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
-          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
@@ -1845,6 +1845,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
+          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
+          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
           },
           "content:encoded": null
         },
@@ -2727,7 +2742,7 @@
             "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
+          "title": "Azure Elastic SAN updates: Security, and Usability",
           "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
           "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
           "atom:content": {
@@ -3082,21 +3097,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "SQL Server 2014 will reach its end of ten-year product lifecycle on July 9th, 2024. To provide you with the flexibility to stay secure while you plan for the future, we are announcing SQL Server 2014 Extended Security Updates."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-builtin-azure-monitor-alerts-for-azure-site-recovery"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-builtin-azure-monitor-alerts-for-azure-site-recovery/",
-          "title": "Public preview: Built-in Azure Monitor alerts for Azure Site Recovery",
-          "description": "Learn about the new and improved alerting capabilities offered for Azure Site Recovery, via Azure Monitor",
-          "pubDate": "Wed, 25 Oct 2023 16:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Learn about the new and improved alerting capabilities offered for Azure Site Recovery, via Azure Monitor"
           },
           "content:encoded": null
         }
