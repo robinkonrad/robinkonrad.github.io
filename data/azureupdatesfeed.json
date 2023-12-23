@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 22 Dec 2023 23:14:06 Z",
+      "lastBuildDate": "Sat, 23 Dec 2023 00:58:53 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "updatemanagement-retired-31august2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/updatemanagement-retired-31august2024/",
+          "title": "On 31 August 2024, both the update management feature of Azure Automation and the Log Analytics agent it uses will be retired",
+          "description": "n 31 August 2024, both the update management feature of Azure Automation and the Log Analytics agent it uses will be retired",
+          "pubDate": "Sat, 23 Dec 2023 00:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "n 31 August 2024, both the update management feature of Azure Automation and the Log Analytics agent it uses will be retired"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "changetrackingwithla-retirement-31august2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/changetrackingwithla-retirement-31august2024/",
+          "title": "Change tracking and inventory with Log Analytics agent in Azure Automation will be retired on 31 August 2024",
+          "description": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired.",
+          "pubDate": "Sat, 23 Dec 2023 00:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3067,36 +3097,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now encrypt OS and Data disks of your AKS nodes in production with your own managed keys."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-standard-storage-with-cool-access"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-storage-with-cool-access/",
-          "title": "Public preview: Azure NetApp Files standard storage with cool access",
-          "description": "Azure NetApp Files standard storage with cool access is now in public preview. With the new cool access feature, you can enable standard volumes with the ability to transparently store data more cost-effectively on Azure storage accounts based on its access pattern.",
-          "pubDate": "Wed, 25 Oct 2023 16:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files standard storage with cool access is now in public preview. With the new cool access feature, you can enable standard volumes with the ability to transparently store data more cost-effectively on Azure storage accounts based on its access pattern."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "protect-sql-server-2014-workloads-with-extended-security-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/protect-sql-server-2014-workloads-with-extended-security-updates/",
-          "title": "Protect SQL Server 2014 workloads with Extended Security Updates",
-          "description": "SQL Server 2014 will reach its end of ten-year product lifecycle on July 9th, 2024. To provide you with the flexibility to stay secure while you plan for the future, we are announcing SQL Server 2014 Extended Security Updates.",
-          "pubDate": "Wed, 25 Oct 2023 16:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "SQL Server 2014 will reach its end of ten-year product lifecycle on July 9th, 2024. To provide you with the flexibility to stay secure while you plan for the future, we are announcing SQL Server 2014 Extended Security Updates."
           },
           "content:encoded": null
         }
