@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Dec 2023 06:16:29 Z</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 07:11:41 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -223,17 +223,6 @@
 
 
 </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-azure-sql-trigger-for-azure-functions</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions/</link>
-      <title>GA: Azure SQL Trigger for Azure Functions </title>
-      <description>Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database.</description>
-      <pubDate>Wed, 06 Dec 2023 18:00:15 Z</pubDate>
-      <atom:content
-        type="text">Users can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2280,6 +2269,17 @@ We added to the Custom properties section in the alert payload ability to add d
       <pubDate>Wed, 25 Oct 2023 17:00:36 Z</pubDate>
       <atom:content
         type="text">You can now encrypt OS and Data disks of your AKS nodes in production with your own managed keys.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-netapp-files-standard-storage-with-cool-access</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-storage-with-cool-access/</link>
+      <title>Public preview: Azure NetApp Files standard storage with cool access </title>
+      <description>Azure NetApp Files standard storage with cool access is now in public preview. With the new cool access feature, you can enable standard volumes with the ability to transparently store data more cost-effectively on Azure storage accounts based on its access pattern. </description>
+      <pubDate>Wed, 25 Oct 2023 16:00:42 Z</pubDate>
+      <atom:content
+        type="text">Azure NetApp Files standard storage with cool access is now in public preview. With the new cool access feature, you can enable standard volumes with the ability to transparently store data more cost-effectively on Azure storage accounts based on its access pattern. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
