@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Sun, 24 Dec 2023 23:12:53 Z",
+      "lastBuildDate": "Mon, 25 Dec 2023 01:02:27 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-security-update-for-application-gateway-waf-cve202350164"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-security-update-for-application-gateway-waf-cve202350164/",
+          "title": "General availability: Security Update for Application Gateway WAF CVE-2023-50164",
+          "description": "Stay protected against CVE-2023-50164 with the help of Azure’s regional WAF running on Application Gateway.",
+          "pubDate": "Mon, 25 Dec 2023 01:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Stay protected against CVE-2023-50164 with the help of Azure’s regional WAF running on Application Gateway."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3082,21 +3097,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now disable secure shell (SSH) in AKS"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-bring-our-own-keys-byok-on-ephemeral-os-disk"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-bring-our-own-keys-byok-on-ephemeral-os-disk/",
-          "title": "GA: Bring our own keys (BYOK) on Ephemeral OS Disk",
-          "description": "You can now encrypt OS and Data disks of your AKS nodes in production with your own managed keys.",
-          "pubDate": "Wed, 25 Oct 2023 17:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now encrypt OS and Data disks of your AKS nodes in production with your own managed keys."
           },
           "content:encoded": null
         }
