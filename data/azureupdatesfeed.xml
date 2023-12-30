@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2023 00:59:12 Z</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2023 01:54:14 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-security-update-for-azure-front-door-waf-cve202350164</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-security-update-for-azure-front-door-waf-cve202350164/</link>
+      <title>General availability: Security Update for Azure Front Door WAF CVE-2023-50164</title>
+      <description>Stay protected against CVE-2023-50164 with the help of Azure’s global WAF running on Azure Front Door.</description>
+      <pubDate>Sat, 30 Dec 2023 01:00:20 Z</pubDate>
+      <atom:content
+        type="text">Stay protected against CVE-2023-50164 with the help of Azure’s global WAF running on Azure Front Door.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-azure-site-recovery-update-rollup-70-december-2023</guid>
@@ -1346,17 +1357,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
-      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
-      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
-      <atom:content
-        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
       <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
@@ -1364,6 +1364,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
       <atom:content
         type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
+      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
+      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2269,17 +2280,6 @@ We added to the Custom properties section in the alert payload ability to add d
       <pubDate>Wed, 25 Oct 2023 17:00:37 Z</pubDate>
       <atom:content
         type="text">Major cold start improvements are available to .NET apps on the Azure Functions isolated worker model.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-service-bus-message-settlement-in-isolated-worker-model-for-net-azure-functions</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-service-bus-message-settlement-in-isolated-worker-model-for-net-azure-functions/</link>
-      <title>GA: Service Bus message settlement in isolated worker model for .NET Azure Functions</title>
-      <description>Functions using the ServiceBusTrigger can perform message settlement actions in the isolated worker model for .NET applications</description>
-      <pubDate>Wed, 25 Oct 2023 17:00:37 Z</pubDate>
-      <atom:content
-        type="text">Functions using the ServiceBusTrigger can perform message settlement actions in the isolated worker model for .NET applications</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
