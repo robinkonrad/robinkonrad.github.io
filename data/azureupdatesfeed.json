@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 08 Jan 2024 19:11:26 Z",
+      "lastBuildDate": "Mon, 08 Jan 2024 20:14:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-data-explorer-connector-for-apache-flink"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-connector-for-apache-flink/",
+          "title": "Public Preview: Azure Data Explorer connector for Apache Flink",
+          "description": "Azure Data Explorer connector for Apache Flink (Public Preview)",
+          "pubDate": "Mon, 08 Jan 2024 20:04:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Explorer connector for Apache Flink (Public Preview)"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1899,21 +1914,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -1923,6 +1923,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3085,21 +3100,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations/",
-          "title": "Generally available: Azure Blob Storage Cold Tier support on Blob Batch operations",
-          "description": "Azure Blob Batch operations now support Azure Blob Storage Cold Tier.",
-          "pubDate": "Mon, 30 Oct 2023 16:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Blob Batch operations now support Azure Blob Storage Cold Tier."
           },
           "content:encoded": null
         }
