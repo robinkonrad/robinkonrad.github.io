@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 08 Jan 2024 17:12:19 Z",
+      "lastBuildDate": "Mon, 08 Jan 2024 18:17:48 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-ultra-disk-storage-is-now-available-in-uk-west-and-poland-central"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-uk-west-and-poland-central/",
+          "title": "Azure Ultra Disk Storage is now available in UK West and Poland Central",
+          "description": "Now available in the UK West and Poland Central regions, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.",
+          "pubDate": "Mon, 08 Jan 2024 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in the UK West and Poland Central regions, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-5"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-5/",
+          "category": "AzurePortal",
+          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in more regions",
+          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the West US3 and Germany West Central regions.",
+          "pubDate": "Mon, 08 Jan 2024 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the West US3 and Germany West Central regions."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -304,7 +335,7 @@
             "#text": "delaying-domain-front-block-on-afd-and-cdn-services"
           },
           "link": "https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/",
-          "title": "Delaying Domain Front Block on AFD and CDN services",
+          "title": "Delaying Domain Front Block on Azure Front Door and CDN services",
           "description": "Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.",
           "pubDate": "Wed, 13 Dec 2023 17:00:06 Z",
           "atom:content": {
@@ -3069,36 +3100,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Blob Batch operations now support Azure Blob Storage Cold Tier."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sphere-os-version-2310-expected-on-november-8"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2310-expected-on-november-8/",
-          "title": "General availability: Azure Sphere OS version 23.10 expected on November 8",
-          "description": "Participate in retail evaluation now to ensure compatibility. The Azure Sphere team has also updated the trusted keystore of Azure Sphere devices, resulting in an additional reboot for production devices.",
-          "pubDate": "Thu, 26 Oct 2023 18:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Participate in retail evaluation now to ensure compatibility. The Azure Sphere team has also updated the trusted keystore of Azure Sphere devices, resulting in an additional reboot for production devices."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-traffic-splitting-for-azure-static-web-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-traffic-splitting-for-azure-static-web-apps/",
-          "title": "Public preview: Traffic Splitting for Azure Static Web Apps",
-          "description": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested.",
-          "pubDate": "Thu, 26 Oct 2023 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested."
           },
           "content:encoded": null
         }
