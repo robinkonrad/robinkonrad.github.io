@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 09 Jan 2024 17:12:30 Z",
+      "lastBuildDate": "Tue, 09 Jan 2024 18:14:07 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter/",
+          "title": "Azure Load Testing supports Web Driver Sampler plugin for Apache JMeter",
+          "description": "With Azure Load Testing, you can now measure response time as experienced by the end user leveraging the Web Driver Sampler plugin for Apache JMeter",
+          "pubDate": "Tue, 09 Jan 2024 18:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With Azure Load Testing, you can now measure response time as experienced by the end user leveraging the Web Driver Sampler plugin for Apache JMeter"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-load-testing-supports-fetching-secrets-from-azure-key-vault-with-access-restrictions-private-akv"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-fetching-secrets-from-azure-key-vault-with-access-restrictions-private-akv/",
+          "title": "Azure Load Testing supports fetching secrets from Azure Key Vault with access restrictions (private AKV)",
+          "description": "You can now use secrets from an Azure Key Vault with access restrictions in Azure Load Testing.",
+          "pubDate": "Tue, 09 Jan 2024 18:00:30 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use secrets from an Azure Key Vault with access restrictions in Azure Load Testing."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3066,40 +3096,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-bastion-developer-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-bastion-developer-public-preview/",
-          "title": "Public preview: Announcing the new Azure Bastion Developer SKU",
-          "description": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.",
-          "pubDate": "Mon, 30 Oct 2023 18:23:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "new-email-templates-for-log-search-alerts-api-version-20210801-and-up"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/new-email-templates-for-log-search-alerts-api-version-20210801-and-up/",
-          "category": [
-            "Alerts",
-            "Email"
-          ],
-          "title": "New E-mail templates for Log search alerts - API version 2021-08-01 and up",
-          "description": "During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template.",
-          "pubDate": "Mon, 30 Oct 2023 16:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template."
           },
           "content:encoded": null
         }
