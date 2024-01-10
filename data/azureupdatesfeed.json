@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 10 Jan 2024 16:18:04 Z",
+      "lastBuildDate": "Wed, 10 Jan 2024 17:12:19 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "premium-ssd-v2-and-ultra-disks-support-with-trusted-launch-vm"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-and-ultra-disks-support-with-trusted-launch-vm/",
+          "category": [
+            "Security",
+            "Virtual Machines",
+            "Trusted Launch",
+            "Managed disks"
+          ],
+          "title": "General Availability: Premium SSD v2 and Ultra disks support with Trusted launch",
+          "description": "Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage.",
+          "pubDate": "Wed, 10 Jan 2024 16:45:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1943,21 +1964,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
@@ -1967,6 +1973,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
+          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
           },
           "content:encoded": null
         },
@@ -3084,21 +3105,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Participate in retail evaluation now to ensure compatibility. The Azure Sphere team has also updated the trusted keystore of Azure Sphere devices, resulting in an additional reboot for production devices."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-traffic-splitting-for-azure-static-web-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-traffic-splitting-for-azure-static-web-apps/",
-          "title": "Public preview: Traffic Splitting for Azure Static Web Apps",
-          "description": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested.",
-          "pubDate": "Thu, 26 Oct 2023 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Split traffic to your Azure Static Web Apps across multiple environments to gradually rollout features and compare versions being tested."
           },
           "content:encoded": null
         }
