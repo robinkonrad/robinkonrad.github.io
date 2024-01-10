@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Jan 2024 17:12:19 Z</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jan 2024 18:17:14 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -24,6 +24,40 @@
       <pubDate>Wed, 10 Jan 2024 16:45:03 Z</pubDate>
       <atom:content
         type="text">Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-data-explorer-connector-for-apache-flink</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-connector-for-apache-flink/</link>
+      <title>Public Preview: Azure Data Explorer connector for Apache Flink</title>
+      <description>Azure Data Explorer connector for Apache Flink (Public Preview)</description>
+      <pubDate>Mon, 08 Jan 2024 20:04:46 Z</pubDate>
+      <atom:content
+        type="text">Azure Data Explorer connector for Apache Flink (Public Preview)</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-ultra-disk-storage-is-now-available-in-uk-west-and-poland-central</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-uk-west-and-poland-central/</link>
+      <title>Azure Ultra Disk Storage is now available in UK West and Poland Central</title>
+      <description>Now available in the UK West and Poland Central regions, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.</description>
+      <pubDate>Mon, 08 Jan 2024 18:00:19 Z</pubDate>
+      <atom:content
+        type="text">Now available in the UK West and Poland Central regions, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-5</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-5/</link>
+      <category>AzurePortal</category>
+      <title>Generally available: Zone Redundant Storage for Azure Disks is now available in more regions</title>
+      <description>Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the West US3 and Germany West Central regions.</description>
+      <pubDate>Mon, 08 Jan 2024 18:00:08 Z</pubDate>
+      <atom:content
+        type="text">Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the West US3 and Germany West Central regions.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -237,7 +271,7 @@
       <guid
         isPermaLink="false">delaying-domain-front-block-on-afd-and-cdn-services</guid>
       <link>https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/</link>
-      <title>Delaying Domain Front Block on AFD and CDN services</title>
+      <title>Delaying Domain Front Block on Azure Front Door and CDN services</title>
       <description>Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.</description>
       <pubDate>Wed, 13 Dec 2023 17:00:06 Z</pubDate>
       <atom:content
@@ -385,17 +419,6 @@
       <pubDate>Wed, 06 Dec 2023 17:00:12 Z</pubDate>
       <atom:content
         type="text">Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/</link>
-      <title>GA: Azure Kubernetes Service (AKS) support for 5K Node limit by default for Standard tier clusters</title>
-      <description>You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting.</description>
-      <pubDate>Wed, 06 Dec 2023 16:00:12 Z</pubDate>
-      <atom:content
-        type="text">You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1394,17 +1417,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
-      <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
-      <description>VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
-      <atom:content
-        type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
       <title>Public Preview: Azure SQL updates for mid-November 2023</title>
@@ -1412,6 +1424,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
       <atom:content
         type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
+      <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
+      <description>VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1449,17 +1472,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
-      <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
-      <description>Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
-      <atom:content
-        type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/</link>
       <title>Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server</title>
@@ -1467,6 +1479,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
       <atom:content
         type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
+      <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
+      <description>Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
+      <atom:content
+        type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2262,28 +2285,6 @@ We added to the Custom properties section in the alert payload ability to add d
       <pubDate>Mon, 30 Oct 2023 16:00:19 Z</pubDate>
       <atom:content
         type="text">During November, we will replace log search alerts (API version 2021-08-01 and up) that uses non-common schema template with an upgraded and more informative email template. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-blob-batch-operations/</link>
-      <title>Generally available: Azure Blob Storage Cold Tier support on Blob Batch operations </title>
-      <description>Azure Blob Batch operations now support Azure Blob Storage Cold Tier.</description>
-      <pubDate>Mon, 30 Oct 2023 16:00:09 Z</pubDate>
-      <atom:content
-        type="text">Azure Blob Batch operations now support Azure Blob Storage Cold Tier.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-sphere-os-version-2310-expected-on-november-8</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2310-expected-on-november-8/</link>
-      <title>General availability: Azure Sphere OS version 23.10 expected on November 8 </title>
-      <description>Participate in retail evaluation now to ensure compatibility. The Azure Sphere team has also updated the trusted keystore of Azure Sphere devices, resulting in an additional reboot for production devices.</description>
-      <pubDate>Thu, 26 Oct 2023 18:00:02 Z</pubDate>
-      <atom:content
-        type="text">Participate in retail evaluation now to ensure compatibility. The Azure Sphere team has also updated the trusted keystore of Azure Sphere devices, resulting in an additional reboot for production devices.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
