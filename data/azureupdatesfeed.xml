@@ -6,11 +6,39 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2024 16:18:08 Z</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 17:12:10 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption/</link>
+      <category>Features</category>
+      <category>Security</category>
+      <category>Tags</category>
+      <title>General Availability: Customer-managed keys for Azure NetApp Files volume encryption </title>
+      <description>Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.</description>
+      <pubDate>Thu, 11 Jan 2024 17:00:24 Z</pubDate>
+      <atom:content
+        type="text">Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">announcing-public-preview-of-the-azure-arc-visual-studio-code-extension</guid>
+      <link>https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-the-azure-arc-visual-studio-code-extension/</link>
+      <category>Azure Arc</category>
+      <category>hybrid</category>
+      <category>multicloud</category>
+      <title>Announcing Public Preview of the Azure Arc Visual Studio Code Extension </title>
+      <description>Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension. </description>
+      <pubDate>Thu, 11 Jan 2024 17:00:19 Z</pubDate>
+      <atom:content
+        type="text">Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">create-tests-by-adding-http-requests-in-azure-load-testing</guid>
@@ -35,6 +63,28 @@
       <pubDate>Wed, 10 Jan 2024 16:45:03 Z</pubDate>
       <atom:content
         type="text">Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter/</link>
+      <title>Azure Load Testing supports Web Driver Sampler plugin for Apache JMeter</title>
+      <description>With Azure Load Testing, you can now measure response time as experienced by the end user leveraging the Web Driver Sampler plugin for Apache JMeter</description>
+      <pubDate>Tue, 09 Jan 2024 18:00:39 Z</pubDate>
+      <atom:content
+        type="text">With Azure Load Testing, you can now measure response time as experienced by the end user leveraging the Web Driver Sampler plugin for Apache JMeter</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-load-testing-supports-fetching-secrets-from-azure-key-vault-with-access-restrictions-private-akv</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-fetching-secrets-from-azure-key-vault-with-access-restrictions-private-akv/</link>
+      <title>Azure Load Testing supports fetching secrets from Azure Key Vault with access restrictions (private AKV)</title>
+      <description>You can now use secrets from an Azure Key Vault with access restrictions in Azure Load Testing.</description>
+      <pubDate>Tue, 09 Jan 2024 18:00:30 Z</pubDate>
+      <atom:content
+        type="text">You can now use secrets from an Azure Key Vault with access restrictions in Azure Load Testing.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1428,17 +1478,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
-      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
-      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
-      <atom:content
-        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
       <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
@@ -1446,6 +1485,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
       <atom:content
         type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
+      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
+      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1483,17 +1533,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/</link>
-      <title>Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server</title>
-      <description>Benefit from long term data retention and improved compliance using Azure Backup.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
-      <atom:content
-        type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
       <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
@@ -1501,6 +1540,17 @@
       <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
       <atom:content
         type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server</title>
+      <description>Benefit from long term data retention and improved compliance using Azure Backup.</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
+      <atom:content
+        type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2238,51 +2288,6 @@ We added to the Custom properties section in the alert payload ability to add d
       <pubDate>Thu, 02 Nov 2023 17:00:04 Z</pubDate>
       <atom:content
         type="text">Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">tls-12-to-become-the-minimum-tls-version-for-azure-storage</guid>
-      <link>https://azure.microsoft.com/en-us/updates/tls-12-to-become-the-minimum-tls-version-for-azure-storage/</link>
-      <category>Azure blob storage</category>
-      <title>TLS 1.2 to become the minimum TLS version for Azure Storage</title>
-      <description>TLS 1.2 to become the minimum TLS version for Azure Storage</description>
-      <pubDate>Wed, 01 Nov 2023 16:00:17 Z</pubDate>
-      <atom:content
-        type="text">TLS 1.2 to become the minimum TLS version for Azure Storage</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">grpcappservice</guid>
-      <link>https://azure.microsoft.com/en-us/updates/grpcappservice/</link>
-      <title>GA: gRPC support on Azure App Service</title>
-      <description>Host your gRPC workloads on App Service Linux.  </description>
-      <pubDate>Wed, 01 Nov 2023 16:00:17 Z</pubDate>
-      <atom:content
-        type="text">Host your gRPC workloads on App Service Linux.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-default-rule-set-21-for-regional-waf-with-application-gateway</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-default-rule-set-21-for-regional-waf-with-application-gateway/</link>
-      <title>General availability: Default Rule Set 2.1 for regional WAF with Application Gateway</title>
-      <description>Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway</description>
-      <pubDate>Tue, 31 Oct 2023 15:59:28 Z</pubDate>
-      <atom:content
-        type="text">Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-bastion-developer-public-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-bastion-developer-public-preview/</link>
-      <title>Public preview: Announcing the new Azure Bastion Developer SKU</title>
-      <description>The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.</description>
-      <pubDate>Mon, 30 Oct 2023 18:23:29 Z</pubDate>
-      <atom:content
-        type="text">The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
