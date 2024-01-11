@@ -12,89 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 11 Jan 2024 19:11:32 Z",
+      "lastBuildDate": "Thu, 11 Jan 2024 20:15:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption/",
-          "category": [
-            "Features",
-            "Security",
-            "Tags"
-          ],
-          "title": "General Availability: Customer-managed keys for Azure NetApp Files volume encryption",
-          "description": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.",
-          "pubDate": "Thu, 11 Jan 2024 17:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-public-preview-of-the-azure-arc-visual-studio-code-extension"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-the-azure-arc-visual-studio-code-extension/",
-          "category": [
-            "Azure Arc",
-            "hybrid",
-            "multicloud"
-          ],
-          "title": "Announcing Public Preview of the Azure Arc Visual Studio Code Extension",
-          "description": "Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension.",
-          "pubDate": "Thu, 11 Jan 2024 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "create-tests-by-adding-http-requests-in-azure-load-testing"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/create-tests-by-adding-http-requests-in-azure-load-testing/",
-          "title": "Create tests by adding HTTP requests in Azure Load Testing",
-          "description": "Azure Load Testing now supports creating load tests by HTTP requests.",
-          "pubDate": "Thu, 11 Jan 2024 15:56:53 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports creating load tests by HTTP requests."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "premium-ssd-v2-and-ultra-disks-support-with-trusted-launch-vm"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-and-ultra-disks-support-with-trusted-launch-vm/",
-          "category": [
-            "Security",
-            "Virtual Machines",
-            "Trusted Launch",
-            "Managed disks"
-          ],
-          "title": "General Availability: Premium SSD v2 and Ultra disks support with Trusted launch",
-          "description": "Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage.",
-          "pubDate": "Wed, 10 Jan 2024 16:45:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -196,7 +120,7 @@
           "category": "Azure Spring Apps",
           "title": "Azure Spring Apps Enterprise is now eligible for Azure savings plan for compute",
           "description": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise.",
-          "pubDate": "Thu, 04 Jan 2024 17:00:39 Z",
+          "pubDate": "Thu, 04 Jan 2024 17:00:40 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise."
@@ -271,7 +195,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/changetrackingwithla-retirement-31august2024/",
           "title": "Change tracking and inventory with Log Analytics agent in Azure Automation will be retired on 31 August 2024",
           "description": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired.",
-          "pubDate": "Sat, 23 Dec 2023 00:00:03 Z",
+          "pubDate": "Sat, 23 Dec 2023 00:00:04 Z",
           "atom:content": {
             "@type": "text",
             "#text": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired."
@@ -511,7 +435,7 @@
           ],
           "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
           "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:39 Z",
+          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
@@ -552,21 +476,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-node-autoprovision-support-in-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
@@ -576,6 +485,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
           },
           "content:encoded": null
         },
@@ -651,6 +575,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/",
+          "title": "GA: Azure Kubernetes Service (AKS) support for 5K Node limit by default for Standard tier clusters",
+          "description": "You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting.",
+          "pubDate": "Wed, 06 Dec 2023 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting."
           },
           "content:encoded": null
         },
@@ -1435,7 +1374,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -1509,21 +1448,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -1557,7 +1481,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -1744,6 +1668,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The general availability of Azure Chaos Studios provides a fully managed experimentation platform for discovering challenging issues through experiment templates, dynamic targets and a more guided user interface."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
           },
           "content:encoded": null
         },
@@ -2005,21 +1944,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -2029,6 +1953,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -2986,7 +2925,7 @@
             "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
+          "title": "Azure Elastic SAN updates: Security, and Usability",
           "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
           "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
           "atom:content": {
@@ -3111,6 +3050,52 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "tls-12-to-become-the-minimum-tls-version-for-azure-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/tls-12-to-become-the-minimum-tls-version-for-azure-storage/",
+          "category": "Azure blob storage",
+          "title": "TLS 1.2 to become the minimum TLS version for Azure Storage",
+          "description": "TLS 1.2 to become the minimum TLS version for Azure Storage",
+          "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "TLS 1.2 to become the minimum TLS version for Azure Storage"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "grpcappservice"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/grpcappservice/",
+          "title": "GA: gRPC support on Azure App Service",
+          "description": "Host your gRPC workloads on App Service Linux.",
+          "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Host your gRPC workloads on App Service Linux."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-default-rule-set-21-for-regional-waf-with-application-gateway"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-default-rule-set-21-for-regional-waf-with-application-gateway/",
+          "title": "General availability: Default Rule Set 2.1 for regional WAF with Application Gateway",
+          "description": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway",
+          "pubDate": "Tue, 31 Oct 2023 15:59:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway"
           },
           "content:encoded": null
         }
