@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 11 Jan 2024 23:13:49 Z",
+      "lastBuildDate": "Fri, 12 Jan 2024 01:03:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption/",
+          "category": [
+            "Features",
+            "Security",
+            "Tags"
+          ],
+          "title": "General Availability: Customer-managed keys for Azure NetApp Files volume encryption",
+          "description": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.",
+          "pubDate": "Thu, 11 Jan 2024 17:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3081,21 +3101,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Host your gRPC workloads on App Service Linux."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-default-rule-set-21-for-regional-waf-with-application-gateway"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-default-rule-set-21-for-regional-waf-with-application-gateway/",
-          "title": "General availability: Default Rule Set 2.1 for regional WAF with Application Gateway",
-          "description": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway",
-          "pubDate": "Tue, 31 Oct 2023 15:59:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway"
           },
           "content:encoded": null
         }

@@ -6,11 +6,25 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2024 23:13:49 Z</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 01:03:23 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption/</link>
+      <category>Features</category>
+      <category>Security</category>
+      <category>Tags</category>
+      <title>General Availability: Customer-managed keys for Azure NetApp Files volume encryption </title>
+      <description>Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.</description>
+      <pubDate>Thu, 11 Jan 2024 17:00:24 Z</pubDate>
+      <atom:content
+        type="text">Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter</guid>
@@ -2272,17 +2286,6 @@ We added to the Custom properties section in the alert payload ability to add d
       <pubDate>Wed, 01 Nov 2023 16:00:17 Z</pubDate>
       <atom:content
         type="text">Host your gRPC workloads on App Service Linux.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-default-rule-set-21-for-regional-waf-with-application-gateway</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-default-rule-set-21-for-regional-waf-with-application-gateway/</link>
-      <title>General availability: Default Rule Set 2.1 for regional WAF with Application Gateway</title>
-      <description>Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway</description>
-      <pubDate>Tue, 31 Oct 2023 15:59:28 Z</pubDate>
-      <atom:content
-        type="text">Increase your security posture and reduce false positives with Default Rule Set 2.1, now generally available on the regional WAF with Application Gateway</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
