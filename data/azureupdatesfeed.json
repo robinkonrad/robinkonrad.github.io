@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 12 Jan 2024 16:17:38 Z",
+      "lastBuildDate": "Fri, 12 Jan 2024 17:12:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -36,6 +36,27 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "premium-ssd-v2-and-ultra-disks-support-with-trusted-launch-vm"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-and-ultra-disks-support-with-trusted-launch-vm/",
+          "category": [
+            "Security",
+            "Virtual Machines",
+            "Trusted Launch",
+            "Managed disks"
+          ],
+          "title": "General Availability: Premium SSD v2 and Ultra disks support with Trusted launch",
+          "description": "Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage.",
+          "pubDate": "Wed, 10 Jan 2024 16:45:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage."
           },
           "content:encoded": null
         },
@@ -595,21 +616,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/",
-          "title": "GA: Azure Kubernetes Service (AKS) support for 5K Node limit by default for Standard tier clusters",
-          "description": "You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting.",
-          "pubDate": "Wed, 06 Dec 2023 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now scale your AKS clusters to larger than 1000 nodes without having to request any special limit increases or whitelisting."
           },
           "content:encoded": null
         },
@@ -1964,21 +1970,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
-          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
-          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
@@ -1988,6 +1979,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
+          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
+          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
           },
           "content:encoded": null
         },
