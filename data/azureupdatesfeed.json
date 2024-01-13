@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Sat, 13 Jan 2024 17:11:24 Z",
+      "lastBuildDate": "Sat, 13 Jan 2024 18:16:19 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -36,6 +36,41 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "announcing-public-preview-of-the-azure-arc-visual-studio-code-extension"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-the-azure-arc-visual-studio-code-extension/",
+          "category": [
+            "Azure Arc",
+            "hybrid",
+            "multicloud"
+          ],
+          "title": "Announcing Public Preview of the Azure Arc Visual Studio Code Extension",
+          "description": "Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension.",
+          "pubDate": "Thu, 11 Jan 2024 17:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "create-tests-by-adding-http-requests-in-azure-load-testing"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/create-tests-by-adding-http-requests-in-azure-load-testing/",
+          "title": "Create tests by adding HTTP requests in Azure Load Testing",
+          "description": "Azure Load Testing now supports creating load tests by HTTP requests.",
+          "pubDate": "Thu, 11 Jan 2024 15:56:53 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Testing now supports creating load tests by HTTP requests."
           },
           "content:encoded": null
         },
@@ -1970,21 +2005,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -1994,6 +2014,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3076,37 +3111,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Premium SSD v2 Disk Storage is now available in more regions and offers the most advanced general-purpose block storage solution with the best price performance"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "tls-12-to-become-the-minimum-tls-version-for-azure-storage"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/tls-12-to-become-the-minimum-tls-version-for-azure-storage/",
-          "category": "Azure blob storage",
-          "title": "TLS 1.2 to become the minimum TLS version for Azure Storage",
-          "description": "TLS 1.2 to become the minimum TLS version for Azure Storage",
-          "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "TLS 1.2 to become the minimum TLS version for Azure Storage"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "grpcappservice"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/grpcappservice/",
-          "title": "GA: gRPC support on Azure App Service",
-          "description": "Host your gRPC workloads on App Service Linux.",
-          "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Host your gRPC workloads on App Service Linux."
           },
           "content:encoded": null
         }
