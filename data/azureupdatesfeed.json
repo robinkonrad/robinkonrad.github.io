@@ -12,13 +12,80 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 22 Jan 2024 16:18:02 Z",
+      "lastBuildDate": "Mon, 22 Jan 2024 17:12:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-circuit-breaker-in-azure-api-management"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-circuit-breaker-in-azure-api-management/",
+          "category": "Azure API Management",
+          "title": "Public Preview: Circuit Breaker in Azure API Management",
+          "description": "Customers now have the capability to configure the circuit breaker property in the backend resource, providing protection for a backend service against being overwhelmed by excessive requests.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers now have the capability to configure the circuit breaker property in the backend resource, providing protection for a backend service against being overwhelmed by excessive requests."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-load-balancer-in-azure-api-management"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-load-balancer-in-azure-api-management/",
+          "category": "Azure API Management",
+          "title": "Public Preview: Load Balancer in Azure API Management",
+          "description": "Customers have the ability to create a load balancer that directs traffic to multiple endpoints.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers have the ability to create a load balancer that directs traffic to multiple endpoints."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurespringasppsq42024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurespringasppsq42024/",
+          "category": [
+            "AzureSpringApps",
+            "Java",
+            "Spring"
+          ],
+          "title": "Azure Spring Apps Feature Update Q4 2024: Spring Cloud Gateway supports a response cache and more",
+          "description": "Recent updates to the Enterprise plan include improved response caching in Spring Cloud Gateway, a more secure try-out option in API Portal, and enhanced application-level settings in Service Connector. Additionally, there's richer build history information to help with troubleshooting. For both Enterprise and Basic/Standard plans, Azure Spring Apps now offer scheduled maintenance for updates and an auto-sync feature for certificates, making application management more efficient and secure.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Recent updates to the Enterprise plan include improved response caching in Spring Cloud Gateway, a more secure try-out option in API Portal, and enhanced application-level settings in Service Connector. Additionally, there's richer build history information to help with troubleshooting. For both Enterprise and Basic/Standard plans, Azure Spring Apps now offer scheduled maintenance for updates and an auto-sync feature for certificates, making application management more efficient and secure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "premium-ssd-v2-asr-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-asr-support/",
+          "title": "Private Preview: Support for Azure VMs using Premium SSD v2 in Azure Site Recovery",
+          "description": "Private preview for the support for Azure VMs using Premium SSD v2 in Azure Site Recovery.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Private preview for the support for Azure VMs using Premium SSD v2 in Azure Site Recovery."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2146,21 +2213,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
-          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
-          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
@@ -2170,6 +2222,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
+          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
+          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
           },
           "content:encoded": null
         },
@@ -3043,74 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
-          "title": "Azure Elastic SAN updates: Snapshots, Security, and Usability",
-          "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
-          "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/",
-          "title": "General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage",
-          "description": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn",
-          "pubDate": "Mon, 06 Nov 2023 17:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ability-to-add-dynamic-values-in-alert-s-custom-fields"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/",
-          "category": [
-            "Alerts",
-            "Email"
-          ],
-          "title": "Ability to add dynamic values in Alert’s custom fields",
-          "description": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.",
-          "pubDate": "Mon, 06 Nov 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-application-gateway-now-supports-ipv6-frontend"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-application-gateway-now-supports-ipv6-frontend/",
-          "category": [
-            "Application Gateway",
-            "Features"
-          ],
-          "title": "Public preview: Application Gateway IPv6 support",
-          "description": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.",
-          "pubDate": "Mon, 06 Nov 2023 17:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications."
           },
           "content:encoded": null
         }
