@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 22 Jan 2024 18:18:02 Z",
+      "lastBuildDate": "Mon, 22 Jan 2024 19:11:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-fhir-service-integration-azure-ad-b2c"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-fhir-service-integration-azure-ad-b2c/",
+          "title": "Generally available: FHIR service integration with Azure Active Directory B2C",
+          "description": "Use the FHIR service in Azure Health Data Services with Azure Active Directory B2C (Azure AD B2C). This capability gives healthcare organizations a secure and convenient way to grant access the FHIR service in Azure Health Data Services without creating or commingling user accounts in their organization’s Microsoft Entra ID tenant.",
+          "pubDate": "Mon, 22 Jan 2024 19:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use the FHIR service in Azure Health Data Services with Azure Active Directory B2C (Azure AD B2C). This capability gives healthcare organizations a secure and convenient way to grant access the FHIR service in Azure Health Data Services without creating or commingling user accounts in their organization’s Microsoft Entra ID tenant."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "laadvisor"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/laadvisor/",
+          "title": "Azure Advisor integration with Azure Monitor Log Analytics Workspace",
+          "description": "Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments.\n\nIt analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, Reliability, and security of your Azure resources.  \n\nWe in Azure Monitor believe that observability should be cost effective, and we want to help our customers control their cost, operational excellence, performance, reliability, and security of their  Azure  resources. This, in turn, helps grow their overall satisfaction with, and usage of Azure. \n\nWe have introduced several cost optimization related recommendations and added Azure Advisor to the Log Analytics Workspace admin experience. more recommendations are on the way.",
+          "pubDate": "Mon, 22 Jan 2024 19:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments.\n\nIt analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, Reliability, and security of your Azure resources.  \n\nWe in Azure Monitor believe that observability should be cost effective, and we want to help our customers control their cost, operational excellence, performance, reliability, and security of their  Azure  resources. This, in turn, helps grow their overall satisfaction with, and usage of Azure. \n\nWe have introduced several cost optimization related recommendations and added Azure Advisor to the Log Analytics Workspace admin experience. more recommendations are on the way."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2033,21 +2063,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -2057,6 +2072,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -3080,36 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now ensure that only signed container images are deployed to your AKS clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-azure-container-storage-in-aks-cli-experience"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-azure-container-storage-in-aks-cli-experience/",
-          "title": "Preview: Azure Container Storage in AKS",
-          "description": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience.",
-          "pubDate": "Mon, 06 Nov 2023 18:30:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines/",
-          "title": "Latency metrics for disks and performance metrics for temporary disks on Azure Virtual Machines",
-          "description": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.",
-          "pubDate": "Mon, 06 Nov 2023 18:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks."
           },
           "content:encoded": null
         }
