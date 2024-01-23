@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jan 2024 19:11:18 Z</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jan 2024 20:15:06 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">automatic-image-creation-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/automatic-image-creation-general-availability/</link>
+      <title>Automatic Image Creation using Azure VM Image Builder is now generally available</title>
+      <description>We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically.</description>
+      <pubDate>Tue, 23 Jan 2024 20:00:09 Z</pubDate>
+      <atom:content
+        type="text">We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-fhir-service-integration-azure-ad-b2c</guid>
@@ -2275,21 +2286,6 @@
       <pubDate>Mon, 06 Nov 2023 17:00:28 Z</pubDate>
       <atom:content
         type="text">Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ability-to-add-dynamic-values-in-alert-s-custom-fields</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/</link>
-      <category>Alerts</category>
-      <category>Email</category>
-      <title>Ability to add dynamic values in Alert’s custom fields</title>
-      <description>Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.
-We added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.</description>
-      <pubDate>Mon, 06 Nov 2023 17:00:18 Z</pubDate>
-      <atom:content
-        type="text">Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.
-We added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 23 Jan 2024 19:11:18 Z",
+      "lastBuildDate": "Tue, 23 Jan 2024 20:15:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "automatic-image-creation-general-availability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/automatic-image-creation-general-availability/",
+          "title": "Automatic Image Creation using Azure VM Image Builder is now generally available",
+          "description": "We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically.",
+          "pubDate": "Tue, 23 Jan 2024 20:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3088,25 +3103,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ability-to-add-dynamic-values-in-alert-s-custom-fields"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/",
-          "category": [
-            "Alerts",
-            "Email"
-          ],
-          "title": "Ability to add dynamic values in Alert’s custom fields",
-          "description": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.",
-          "pubDate": "Mon, 06 Nov 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload."
           },
           "content:encoded": null
         }
