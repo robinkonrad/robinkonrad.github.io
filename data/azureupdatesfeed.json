@@ -12,44 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 23 Jan 2024 18:17:41 Z",
+      "lastBuildDate": "Tue, 23 Jan 2024 19:11:18 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "kusto-adds-new-geospatial-capabilities-angleazimuthpolyh3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/kusto-adds-new-geospatial-capabilities-angleazimuthpolyh3/",
-          "category": "kusto",
-          "title": "General availability: Azure Data Explorer adds new geospatial capabilities",
-          "description": "Kusto now has three new geospatial functions: geo_polygon_to_h3cells(), geo_angle() and geo_azimuth(). These functions are designed to help you better understand and analyze your geospatial data.",
-          "pubDate": "Tue, 23 Jan 2024 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Kusto now has three new geospatial functions: geo_polygon_to_h3cells(), geo_angle() and geo_azimuth(). These functions are designed to help you better understand and analyze your geospatial data."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-monitor-vm-insights-dependency-agent-support-for-rhel-86-linux-vms"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-vm-insights-dependency-agent-support-for-rhel-86-linux-vms/",
-          "title": "Generally Available: Azure Monitor VM Insights Dependency Agent support for RHEL 8.6 Linux VMs",
-          "description": "Azure Monitor VM Insights now supports Dependency Agent for RHEL 8.6 Linux VMs, enabling you to monitor their network connections and processes in the Azure portal.",
-          "pubDate": "Tue, 23 Jan 2024 16:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor VM Insights now supports Dependency Agent for RHEL 8.6 Linux VMs, enabling you to monitor their network connections and processes in the Azure portal."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -62,88 +31,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can use the FHIR service in Azure Health Data Services with Azure Active Directory B2C (Azure AD B2C). This capability gives healthcare organizations a secure and convenient way to grant access the FHIR service in Azure Health Data Services without creating or comingling user accounts in their organization’s Microsoft Entra ID tenant."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "laadvisor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/laadvisor/",
-          "title": "Azure Advisor integration with Azure Monitor Log Analytics Workspace",
-          "description": "Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments.\n\nIt analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, Reliability, and security of your Azure resources.  \n\nWe in Azure Monitor believe that observability should be cost effective, and we want to help our customers control their cost, operational excellence, performance, reliability, and security of their  Azure  resources. This, in turn, helps grow their overall satisfaction with, and usage of Azure. \n\nWe have introduced several cost optimization related recommendations and added Azure Advisor to the Log Analytics Workspace admin experience. more recommendations are on the way.",
-          "pubDate": "Mon, 22 Jan 2024 19:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments.\n\nIt analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, Reliability, and security of your Azure resources.  \n\nWe in Azure Monitor believe that observability should be cost effective, and we want to help our customers control their cost, operational excellence, performance, reliability, and security of their  Azure  resources. This, in turn, helps grow their overall satisfaction with, and usage of Azure. \n\nWe have introduced several cost optimization related recommendations and added Azure Advisor to the Log Analytics Workspace admin experience. more recommendations are on the way."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-circuit-breaker-in-azure-api-management"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-circuit-breaker-in-azure-api-management/",
-          "category": "Azure API Management",
-          "title": "Public Preview: Circuit Breaker in Azure API Management",
-          "description": "Customers now have the capability to configure the circuit breaker property in the backend resource, providing protection for a backend service against being overwhelmed by excessive requests.",
-          "pubDate": "Mon, 22 Jan 2024 17:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers now have the capability to configure the circuit breaker property in the backend resource, providing protection for a backend service against being overwhelmed by excessive requests."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-load-balancer-in-azure-api-management"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-load-balancer-in-azure-api-management/",
-          "category": "Azure API Management",
-          "title": "Public Preview: Load Balancer in Azure API Management",
-          "description": "Customers have the ability to create a load balancer that directs traffic to multiple endpoints.",
-          "pubDate": "Mon, 22 Jan 2024 17:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers have the ability to create a load balancer that directs traffic to multiple endpoints."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azurespringasppsq42024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azurespringasppsq42024/",
-          "category": [
-            "AzureSpringApps",
-            "Java",
-            "Spring"
-          ],
-          "title": "Azure Spring Apps Feature Update Q4 2024: Spring Cloud Gateway supports a response cache and more",
-          "description": "Recent updates to the Enterprise plan include improved response caching in Spring Cloud Gateway, a more secure try-out option in API Portal, and enhanced application-level settings in Service Connector. Additionally, there's richer build history information to help with troubleshooting. For both Enterprise and Basic/Standard plans, Azure Spring Apps now offer scheduled maintenance for updates and an auto-sync feature for certificates, making application management more efficient and secure.",
-          "pubDate": "Mon, 22 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Recent updates to the Enterprise plan include improved response caching in Spring Cloud Gateway, a more secure try-out option in API Portal, and enhanced application-level settings in Service Connector. Additionally, there's richer build history information to help with troubleshooting. For both Enterprise and Basic/Standard plans, Azure Spring Apps now offer scheduled maintenance for updates and an auto-sync feature for certificates, making application management more efficient and secure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "premium-ssd-v2-asr-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-asr-support/",
-          "title": "Private Preview: Support for Azure VMs using Premium SSD v2 in Azure Site Recovery",
-          "description": "Private preview for the support for Azure VMs using Premium SSD v2 in Azure Site Recovery.",
-          "pubDate": "Mon, 22 Jan 2024 17:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Private preview for the support for Azure VMs using Premium SSD v2 in Azure Site Recovery."
           },
           "content:encoded": null
         },
@@ -390,7 +277,7 @@
           "category": "Azure Spring Apps",
           "title": "Azure Spring Apps Enterprise is now eligible for Azure savings plan for compute",
           "description": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise.",
-          "pubDate": "Thu, 04 Jan 2024 17:00:39 Z",
+          "pubDate": "Thu, 04 Jan 2024 17:00:40 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise."
@@ -465,7 +352,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/changetrackingwithla-retirement-31august2024/",
           "title": "Change tracking and inventory with Log Analytics agent in Azure Automation will be retired on 31 August 2024",
           "description": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired.",
-          "pubDate": "Sat, 23 Dec 2023 00:00:03 Z",
+          "pubDate": "Sat, 23 Dec 2023 00:00:04 Z",
           "atom:content": {
             "@type": "text",
             "#text": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired."
@@ -705,7 +592,7 @@
           ],
           "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
           "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:39 Z",
+          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
@@ -746,21 +633,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-node-autoprovision-support-in-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
@@ -770,6 +642,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
           },
           "content:encoded": null
         },
@@ -1629,7 +1516,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -1703,21 +1590,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -1751,7 +1623,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -1944,6 +1816,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -2094,21 +1981,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -2118,6 +1990,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -3111,6 +2998,115 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use dual-stack networking to communicate with services requiring IPv6 communication.."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-review-artifact-streaming-support-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-review-artifact-streaming-support-in-azure-kubernetes-service-aks/",
+          "title": "Public preview: Artifact streaming support in Azure Kubernetes Service (AKS)",
+          "description": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters.",
+          "pubDate": "Tue, 07 Nov 2023 16:00:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-image-integrity-support-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-image-integrity-support-in-azure-kubernetes-service-aks/",
+          "title": "Public preview: Image integrity support in Azure Kubernetes Service (AKS)",
+          "description": "You can now ensure that only signed container images are deployed to your AKS clusters.",
+          "pubDate": "Tue, 07 Nov 2023 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now ensure that only signed container images are deployed to your AKS clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-azure-container-storage-in-aks-cli-experience"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-azure-container-storage-in-aks-cli-experience/",
+          "title": "Preview: Azure Container Storage in AKS",
+          "description": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience.",
+          "pubDate": "Mon, 06 Nov 2023 18:30:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines/",
+          "title": "Latency metrics for disks and performance metrics for temporary disks on Azure Virtual Machines",
+          "description": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.",
+          "pubDate": "Mon, 06 Nov 2023 18:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-elastic-san-updates-snapshots-security-and-usability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/",
+          "title": "Azure Elastic SAN updates: Security, and Usability",
+          "description": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution",
+          "pubDate": "Mon, 06 Nov 2023 18:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/",
+          "title": "General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage",
+          "description": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn",
+          "pubDate": "Mon, 06 Nov 2023 17:00:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ability-to-add-dynamic-values-in-alert-s-custom-fields"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ability-to-add-dynamic-values-in-alert-s-custom-fields/",
+          "category": [
+            "Alerts",
+            "Email"
+          ],
+          "title": "Ability to add dynamic values in Alert’s custom fields",
+          "description": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload.",
+          "pubDate": "Mon, 06 Nov 2023 17:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Alerts help you detect and address issues before users notice them by proactively notifying you when Azure Monitor data indicates there might be a problem with your infrastructure or application.\nWe added to the Custom properties section in the alert payload ability to add dynamic value extracted from the alert payload, or a combination of both can be added to the alert notification payload."
           },
           "content:encoded": null
         }
