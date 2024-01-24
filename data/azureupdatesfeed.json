@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 24 Jan 2024 18:16:44 Z",
+      "lastBuildDate": "Wed, 24 Jan 2024 19:11:50 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -62,6 +62,37 @@
           "atom:content": {
             "@type": "text",
             "#text": "We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "kusto-adds-new-geospatial-capabilities-angleazimuthpolyh3"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/kusto-adds-new-geospatial-capabilities-angleazimuthpolyh3/",
+          "category": "kusto",
+          "title": "General availability: Azure Data Explorer adds new geospatial capabilities",
+          "description": "Kusto now has three new geospatial functions: geo_polygon_to_h3cells(), geo_angle() and geo_azimuth(). These functions are designed to help you better understand and analyze your geospatial data.",
+          "pubDate": "Tue, 23 Jan 2024 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Kusto now has three new geospatial functions: geo_polygon_to_h3cells(), geo_angle() and geo_azimuth(). These functions are designed to help you better understand and analyze your geospatial data."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-monitor-vm-insights-dependency-agent-support-for-rhel-86-linux-vms"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-monitor-vm-insights-dependency-agent-support-for-rhel-86-linux-vms/",
+          "title": "Generally Available: Azure Monitor VM Insights Dependency Agent support for RHEL 8.6 Linux VMs",
+          "description": "Azure Monitor VM Insights now supports Dependency Agent for RHEL 8.6 Linux VMs, enabling you to monitor their network connections and processes in the Azure portal.",
+          "pubDate": "Tue, 23 Jan 2024 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor VM Insights now supports Dependency Agent for RHEL 8.6 Linux VMs, enabling you to monitor their network connections and processes in the Azure portal."
           },
           "content:encoded": null
         },
@@ -3076,36 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use dual-stack networking to communicate with services requiring IPv6 communication.."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-review-artifact-streaming-support-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-review-artifact-streaming-support-in-azure-kubernetes-service-aks/",
-          "title": "Public preview: Artifact streaming support in Azure Kubernetes Service (AKS)",
-          "description": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now scale your AKS workloads without having to fully wait for images to be pulled into the clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-image-integrity-support-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-image-integrity-support-in-azure-kubernetes-service-aks/",
-          "title": "Public preview: Image integrity support in Azure Kubernetes Service (AKS)",
-          "description": "You can now ensure that only signed container images are deployed to your AKS clusters.",
-          "pubDate": "Tue, 07 Nov 2023 16:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now ensure that only signed container images are deployed to your AKS clusters."
           },
           "content:encoded": null
         }
