@@ -6,11 +6,34 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2024 16:18:42 Z</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2024 17:12:46 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">kusto-graph-cycles-nonlinear-patterns</guid>
+      <link>https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/</link>
+      <category>kusto</category>
+      <title>New Features for graph-match KQL Operator: Enhanced Pattern Matching and Cycle Control</title>
+      <description>The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.</description>
+      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
+      <atom:content
+        type="text">The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
+      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
+      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
+      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">automatic-image-creation-general-availability</guid>
@@ -2264,28 +2287,6 @@
       <pubDate>Mon, 06 Nov 2023 18:00:11 Z</pubDate>
       <atom:content
         type="text">New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-elastic-san-updates-snapshots-security-and-usability</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-elastic-san-updates-snapshots-security-and-usability/</link>
-      <title>Azure Elastic SAN updates: Security, and Usability</title>
-      <description>Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution</description>
-      <pubDate>Mon, 06 Nov 2023 18:00:01 Z</pubDate>
-      <atom:content
-        type="text">Introducing the latest update to Azure Elastic SAN (in preview), which now offers snapshot capabilities, enhanced security features, new features for a more simplified use experience, and an entirely new integration with Azure VMware Solution</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-recommendation-enhances-the-reliability-of-azure-disks-with-zone-redundant-storage/</link>
-      <title>General Availability: Azure Advisor recommendation improves the reliability of Azure Disks with Zone Redundant Storage</title>
-      <description>Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn </description>
-      <pubDate>Mon, 06 Nov 2023 17:00:28 Z</pubDate>
-      <atom:content
-        type="text">Enable disks to tolerate zonal failures without causing disruptions to your application. To learn more, visit Reliability recommendations - Azure Advisor | Microsoft Learn </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
