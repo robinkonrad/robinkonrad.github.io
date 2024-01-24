@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 24 Jan 2024 17:12:46 Z",
+      "lastBuildDate": "Wed, 24 Jan 2024 18:16:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -77,6 +77,38 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can use the FHIR service in Azure Health Data Services with Azure Active Directory B2C (Azure AD B2C). This capability gives healthcare organizations a secure and convenient way to grant access the FHIR service in Azure Health Data Services without creating or comingling user accounts in their organization’s Microsoft Entra ID tenant."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-circuit-breaker-in-azure-api-management"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-circuit-breaker-in-azure-api-management/",
+          "category": "Azure API Management",
+          "title": "Public Preview: Circuit Breaker in Azure API Management",
+          "description": "Customers now have the capability to configure the circuit breaker property in the backend resource, providing protection for a backend service against being overwhelmed by excessive requests.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers now have the capability to configure the circuit breaker property in the backend resource, providing protection for a backend service against being overwhelmed by excessive requests."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-load-balancer-in-azure-api-management"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-load-balancer-in-azure-api-management/",
+          "category": "Azure API Management",
+          "title": "Public Preview: Load Balancer in Azure API Management",
+          "description": "Customers have the ability to create a load balancer that directs traffic to multiple endpoints.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers have the ability to create a load balancer that directs traffic to multiple endpoints."
           },
           "content:encoded": null
         },
@@ -3074,36 +3106,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now ensure that only signed container images are deployed to your AKS clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-azure-container-storage-in-aks-cli-experience"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-azure-container-storage-in-aks-cli-experience/",
-          "title": "Preview: Azure Container Storage in AKS",
-          "description": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience.",
-          "pubDate": "Mon, 06 Nov 2023 18:30:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now easily deploy and use Azure Container Storage (in preview) seamlessly via the Azure Kubernetes Service (AKS) preview CLI experience."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/latency-metrics-for-azure-disks-and-performance-metrics-for-temporary-disks-on-azure-virtual-machines/",
-          "title": "Latency metrics for disks and performance metrics for temporary disks on Azure Virtual Machines",
-          "description": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks.",
-          "pubDate": "Mon, 06 Nov 2023 18:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New latency metrics on OS, data and temporary disks are now available in preview, allowing you to see how long it takes to complete input/output (IO) requests to Azure Disks . In addition, new performance metrics for temporary disks are generally available now and allow users to see the IOPS, throughput and queue depth for virtual machines with temporary disks."
           },
           "content:encoded": null
         }
