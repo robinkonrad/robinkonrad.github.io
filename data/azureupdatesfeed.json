@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 24 Jan 2024 19:11:50 Z",
+      "lastBuildDate": "Wed, 24 Jan 2024 20:15:09 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -114,6 +114,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "laadvisor"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/laadvisor/",
+          "title": "Azure Advisor integration with Azure Monitor Log Analytics Workspace",
+          "description": "Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments.\n\nIt analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, Reliability, and security of your Azure resources.  \n\nWe in Azure Monitor believe that observability should be cost effective, and we want to help our customers control their cost, operational excellence, performance, reliability, and security of their  Azure  resources. This, in turn, helps grow their overall satisfaction with, and usage of Azure. \n\nWe have introduced several cost optimization related recommendations and added Azure Advisor to the Log Analytics Workspace admin experience. more recommendations are on the way.",
+          "pubDate": "Mon, 22 Jan 2024 19:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments.\n\nIt analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, Reliability, and security of your Azure resources.  \n\nWe in Azure Monitor believe that observability should be cost effective, and we want to help our customers control their cost, operational excellence, performance, reliability, and security of their  Azure  resources. This, in turn, helps grow their overall satisfaction with, and usage of Azure. \n\nWe have introduced several cost optimization related recommendations and added Azure Advisor to the Log Analytics Workspace admin experience. more recommendations are on the way."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-circuit-breaker-in-azure-api-management"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-circuit-breaker-in-azure-api-management/",
@@ -140,6 +155,41 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers have the ability to create a load balancer that directs traffic to multiple endpoints."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurespringasppsq42024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurespringasppsq42024/",
+          "category": [
+            "AzureSpringApps",
+            "Java",
+            "Spring"
+          ],
+          "title": "Azure Spring Apps Feature Update Q4 2024: Spring Cloud Gateway supports a response cache and more",
+          "description": "Recent updates to the Enterprise plan include improved response caching in Spring Cloud Gateway, a more secure try-out option in API Portal, and enhanced application-level settings in Service Connector. Additionally, there's richer build history information to help with troubleshooting. For both Enterprise and Basic/Standard plans, Azure Spring Apps now offer scheduled maintenance for updates and an auto-sync feature for certificates, making application management more efficient and secure.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Recent updates to the Enterprise plan include improved response caching in Spring Cloud Gateway, a more secure try-out option in API Portal, and enhanced application-level settings in Service Connector. Additionally, there's richer build history information to help with troubleshooting. For both Enterprise and Basic/Standard plans, Azure Spring Apps now offer scheduled maintenance for updates and an auto-sync feature for certificates, making application management more efficient and secure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "premium-ssd-v2-asr-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-asr-support/",
+          "title": "Private Preview: Support for Azure VMs using Premium SSD v2 in Azure Site Recovery",
+          "description": "Private preview for the support for Azure VMs using Premium SSD v2 in Azure Site Recovery.",
+          "pubDate": "Mon, 22 Jan 2024 17:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Private preview for the support for Azure VMs using Premium SSD v2 in Azure Site Recovery."
           },
           "content:encoded": null
         },
@@ -3062,51 +3112,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use the KEDA add-on for AKS in production."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-kubernetes-128-support-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-kubernetes-128-support-in-azure-kubernetes-service-aks/",
-          "title": "GA: Kubernetes 1.28 support in Azure Kubernetes Service (AKS)",
-          "description": "You can now take advantage of Kubernetes 1.28 features in production.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now take advantage of Kubernetes 1.28 features in production."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-application-routing-addon-for-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-routing-addon-for-azure-kubernetes-service-aks/",
-          "title": "GA: Application routing add-on for Azure Kubernetes Service (AKS)",
-          "description": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS",
-          "pubDate": "Tue, 07 Nov 2023 16:00:55 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dualstack-networking-in-azure-cni-overlay-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dualstack-networking-in-azure-cni-overlay-for-aks/",
-          "title": "Public preview: Dual-stack networking in Azure CNI Overlay for AKS",
-          "description": "You can now use dual-stack networking to communicate with services requiring IPv6 communication..",
-          "pubDate": "Tue, 07 Nov 2023 16:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use dual-stack networking to communicate with services requiring IPv6 communication.."
           },
           "content:encoded": null
         }
