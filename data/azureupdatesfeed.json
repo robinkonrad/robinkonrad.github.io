@@ -12,13 +12,47 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 25 Jan 2024 18:18:08 Z",
+      "lastBuildDate": "Thu, 25 Jan 2024 19:11:01 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier/",
+          "category": [
+            "Azure Monitor",
+            "Log Analytics; azure monitor; logs"
+          ],
+          "title": "Dedicated clusters in Azure Monitor logs now support any commitment tier",
+          "description": "We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…",
+          "pubDate": "Thu, 25 Jan 2024 18:30:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "automatic-image-creation-general-availability"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/automatic-image-creation-general-availability/",
+          "title": "Automatic Image Creation using Azure VM Image Builder is now generally available",
+          "description": "We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically.",
+          "pubDate": "Tue, 23 Jan 2024 20:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3081,36 +3115,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now take advantage of Kubernetes 1.28 features in production."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-application-routing-addon-for-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-application-routing-addon-for-azure-kubernetes-service-aks/",
-          "title": "GA: Application routing add-on for Azure Kubernetes Service (AKS)",
-          "description": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS",
-          "pubDate": "Tue, 07 Nov 2023 16:00:55 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dualstack-networking-in-azure-cni-overlay-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dualstack-networking-in-azure-cni-overlay-for-aks/",
-          "title": "Public preview: Dual-stack networking in Azure CNI Overlay for AKS",
-          "description": "You can now use dual-stack networking to communicate with services requiring IPv6 communication..",
-          "pubDate": "Tue, 07 Nov 2023 16:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use dual-stack networking to communicate with services requiring IPv6 communication.."
           },
           "content:encoded": null
         }

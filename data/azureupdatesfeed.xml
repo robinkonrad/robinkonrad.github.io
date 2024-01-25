@@ -6,11 +6,35 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jan 2024 18:18:08 Z</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2024 19:11:01 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier</guid>
+      <link>https://azure.microsoft.com/en-us/updates/dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier/</link>
+      <category>Azure Monitor</category>
+      <category>Log Analytics; azure monitor; logs</category>
+      <title>Dedicated clusters in Azure Monitor logs now support any commitment tier</title>
+      <description>We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…</description>
+      <pubDate>Thu, 25 Jan 2024 18:30:18 Z</pubDate>
+      <atom:content
+        type="text">We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">automatic-image-creation-general-availability</guid>
+      <link>https://azure.microsoft.com/en-us/updates/automatic-image-creation-general-availability/</link>
+      <title>Automatic Image Creation using Azure VM Image Builder is now generally available</title>
+      <description>We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically.</description>
+      <pubDate>Tue, 23 Jan 2024 20:00:09 Z</pubDate>
+      <atom:content
+        type="text">We’re happy to announce automatic image creation using Azure Image Builder is now generally available. This feature improves your speed and efficiency by allowing you the ability to start image builds for new base images automatically.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">kusto-adds-new-geospatial-capabilities-angleazimuthpolyh3</guid>
@@ -2278,28 +2302,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Tue, 07 Nov 2023 16:01:00 Z</pubDate>
       <atom:content
         type="text">You can now take advantage of Kubernetes 1.28 features in production.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-application-routing-addon-for-azure-kubernetes-service-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-application-routing-addon-for-azure-kubernetes-service-aks/</link>
-      <title>GA: Application routing add-on for Azure Kubernetes Service (AKS) </title>
-      <description>You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS</description>
-      <pubDate>Tue, 07 Nov 2023 16:00:55 Z</pubDate>
-      <atom:content
-        type="text">You can now enable an ingress controller with SSL termination to quickly and securely access your applications in AKS</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-dualstack-networking-in-azure-cni-overlay-for-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-dualstack-networking-in-azure-cni-overlay-for-aks/</link>
-      <title>Public preview: Dual-stack networking in Azure CNI Overlay for AKS </title>
-      <description>You can now use dual-stack networking to communicate with services requiring IPv6 communication..</description>
-      <pubDate>Tue, 07 Nov 2023 16:00:42 Z</pubDate>
-      <atom:content
-        type="text">You can now use dual-stack networking to communicate with services requiring IPv6 communication..</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
