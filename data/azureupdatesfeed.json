@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 25 Jan 2024 22:11:04 Z",
+      "lastBuildDate": "Thu, 25 Jan 2024 23:13:43 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -22,19 +22,31 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier"
+            "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier/",
-          "category": [
-            "Azure Monitor",
-            "Log Analytics; azure monitor; logs"
-          ],
-          "title": "Dedicated clusters in Azure Monitor logs now support any commitment tier",
-          "description": "We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…",
-          "pubDate": "Thu, 25 Jan 2024 18:30:18 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
+          "category": "kusto",
+          "title": "New Features for graph-match KQL Operator: Enhanced Pattern Matching and Cycle Control",
+          "description": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…"
+            "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -424,7 +436,7 @@
           "category": "Azure Spring Apps",
           "title": "Azure Spring Apps Enterprise is now eligible for Azure savings plan for compute",
           "description": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise.",
-          "pubDate": "Thu, 04 Jan 2024 17:00:39 Z",
+          "pubDate": "Thu, 04 Jan 2024 17:00:40 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise."
@@ -499,7 +511,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/changetrackingwithla-retirement-31august2024/",
           "title": "Change tracking and inventory with Log Analytics agent in Azure Automation will be retired on 31 August 2024",
           "description": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired.",
-          "pubDate": "Sat, 23 Dec 2023 00:00:03 Z",
+          "pubDate": "Sat, 23 Dec 2023 00:00:04 Z",
           "atom:content": {
             "@type": "text",
             "#text": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired."
@@ -739,7 +751,7 @@
           ],
           "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
           "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:39 Z",
+          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
@@ -780,21 +792,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-node-autoprovision-support-in-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
@@ -804,6 +801,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
           },
           "content:encoded": null
         },
@@ -1663,7 +1675,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -1737,21 +1749,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -1785,7 +1782,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -1972,6 +1969,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The general availability of Azure Chaos Studios provides a fully managed experimentation platform for discovering challenging issues through experiment templates, dynamic targets and a more guided user interface."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
           },
           "content:encoded": null
         },
@@ -3100,21 +3112,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use the KEDA add-on for AKS in production."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-kubernetes-128-support-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-kubernetes-128-support-in-azure-kubernetes-service-aks/",
-          "title": "GA: Kubernetes 1.28 support in Azure Kubernetes Service (AKS)",
-          "description": "You can now take advantage of Kubernetes 1.28 features in production.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now take advantage of Kubernetes 1.28 features in production."
           },
           "content:encoded": null
         }
