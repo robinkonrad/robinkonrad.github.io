@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 26 Jan 2024 23:13:21 Z",
+      "lastBuildDate": "Sat, 27 Jan 2024 00:57:53 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "cloud-services-classic-retirement-announcement-jan2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-jan2024/",
+          "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
+          "description": "Migrate your cloud services to a new deployment model before 31 August 2024.",
+          "pubDate": "Sat, 27 Jan 2024 00:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate your cloud services to a new deployment model before 31 August 2024."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3097,21 +3112,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-kubernetes-eventdriven-autoscaling-keda-addon-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-kubernetes-eventdriven-autoscaling-keda-addon-for-aks/",
-          "title": "GA: Kubernetes Event-driven Autoscaling (KEDA) Add-on for AKS",
-          "description": "You can now use the KEDA add-on for AKS in production.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use the KEDA add-on for AKS in production."
           },
           "content:encoded": null
         }
