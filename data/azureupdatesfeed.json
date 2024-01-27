@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Sat, 27 Jan 2024 17:12:53 Z",
+      "lastBuildDate": "Sat, 27 Jan 2024 18:14:27 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,25 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate your cloud services to a new deployment model before 31 August 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier/",
+          "category": [
+            "Azure Monitor",
+            "Log Analytics; azure monitor; logs"
+          ],
+          "title": "Dedicated clusters in Azure Monitor logs now support any commitment tier",
+          "description": "We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…",
+          "pubDate": "Thu, 25 Jan 2024 18:30:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…"
           },
           "content:encoded": null
         },
@@ -2260,21 +2279,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -2284,6 +2288,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3097,21 +3116,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "provider-for-running-karpenter-on-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/provider-for-running-karpenter-on-azure-kubernetes-service-aks/",
-          "title": "Provider for running Karpenter on Azure Kubernetes Service (AKS)",
-          "description": "You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters."
           },
           "content:encoded": null
         }
