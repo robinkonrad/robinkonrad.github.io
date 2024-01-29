@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 29 Jan 2024 18:15:40 Z",
+      "lastBuildDate": "Mon, 29 Jan 2024 19:09:52 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-selectable-search-parameter-capability-for-the-fhir-service-in-azure-health-data-services"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-selectable-search-parameter-capability-for-the-fhir-service-in-azure-health-data-services/",
+          "title": "Preview: Selectable search parameter capability for the FHIR service in Azure Health Data Services",
+          "description": "The selectable search parameter capability for the FHIR service in Azure Health Data Services allows you to tailor and enhance searches on FHIR resources. You can choose which inbuilt search parameters to enable or disable for the FHIR service according to your unique requirements. By enabling only the search parameters you need, you can store more FHIR resources and potentially improve performance of FHIR search queries.",
+          "pubDate": "Mon, 29 Jan 2024 19:00:34 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The selectable search parameter capability for the FHIR service in Azure Health Data Services allows you to tailor and enhance searches on FHIR resources. You can choose which inbuilt search parameters to enable or disable for the FHIR service according to your unique requirements. By enabling only the search parameters you need, you can store more FHIR resources and potentially improve performance of FHIR search queries."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3101,21 +3116,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files datastores for Azure VMware Solution is available in US Government (VA, AZ) regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-red-hat-openshift-november-2023-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-november-2023-updates/",
-          "title": "Azure Red Hat OpenShift November 2023 updates",
-          "description": "Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support.",
-          "pubDate": "Tue, 07 Nov 2023 16:01:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support."
           },
           "content:encoded": null
         }
