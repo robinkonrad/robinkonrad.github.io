@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 30 Jan 2024 16:16:23 Z",
+      "lastBuildDate": "Tue, 30 Jan 2024 17:13:07 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adxstreamingingestion"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adxstreamingingestion/",
+          "title": "Use Streaming Ingestion to Azure Data Explorer with Azure Stream Analytics",
+          "description": "Use Streaming Ingestion to output data to Azure Data Explorer with Azure Stream Analytics",
+          "pubDate": "Tue, 30 Jan 2024 17:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use Streaming Ingestion to output data to Azure Data Explorer with Azure Stream Analytics"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2340,21 +2355,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -2364,6 +2364,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3102,21 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Easily manage public-facing and private-facing traffic on a common port."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-ratelimit-rules-for-application-gateway-web-application-firewall"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ratelimit-rules-for-application-gateway-web-application-firewall/",
-          "title": "General availability: Rate-limit rules for Application Gateway Web Application Firewall",
-          "description": "Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.",
-          "pubDate": "Wed, 08 Nov 2023 18:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway."
           },
           "content:encoded": null
         }
