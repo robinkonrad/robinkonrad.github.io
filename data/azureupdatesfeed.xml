@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jan 2024 20:12:54 Z</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 21:13:08 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">exrguidedportalexperience</guid>
+      <link>https://azure.microsoft.com/en-us/updates/exrguidedportalexperience/</link>
+      <title>Public preview: ExpressRoute guided portal experience for multi-site resiliency</title>
+      <description>With multi-site resiliency, you can configure your ExpressRoute circuits through more than a single peering location. This helps ensure that your’ private connection to Microsoft remains available even if one of the locations experiences an outage. The experience is targeted at helping you design a highly resilient ExpressRoute solution to connect their on-premises with Microsoft backbone and Azure Virtual Networks. </description>
+      <pubDate>Tue, 30 Jan 2024 20:36:42 Z</pubDate>
+      <atom:content
+        type="text">With multi-site resiliency, you can configure your ExpressRoute circuits through more than a single peering location. This helps ensure that your’ private connection to Microsoft remains available even if one of the locations experiences an outage. The experience is targeted at helping you design a highly resilient ExpressRoute solution to connect their on-premises with Microsoft backbone and Azure Virtual Networks. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">dedicated-clusters-in-azure-monitor-logs-now-support-any-commitment-tier</guid>
@@ -26,17 +37,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
-      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
-      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
-      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
-      <atom:content
-        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">kusto-graph-cycles-nonlinear-patterns</guid>
       <link>https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/</link>
       <category>kusto</category>
@@ -45,6 +45,17 @@
       <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
       <atom:content
         type="text">The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
+      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
+      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
+      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1602,17 +1613,6 @@ We have introduced several cost optimization related recommendations and added A
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
-      <title>Azure Machine Learning  - Public Preview for November </title>
-      <description>Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
-      <atom:content
-        type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
       <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
@@ -1620,6 +1620,17 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
       <atom:content
         type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
+      <title>Azure Machine Learning  - Public Preview for November </title>
+      <description>Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
+      <atom:content
+        type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1734,17 +1745,6 @@ We have introduced several cost optimization related recommendations and added A
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
-      <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
-      <description>Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
-      <atom:content
-        type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/</link>
       <title>Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server</title>
@@ -1752,6 +1752,17 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
       <atom:content
         type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
+      <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
+      <description>Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</description>
+      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
+      <atom:content
+        type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2292,17 +2303,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Tue, 07 Nov 2023 16:01:22 Z</pubDate>
       <atom:content
         type="text">Azure Red Hat OpenShift now offers extended support, larger cluster size, and tagging support. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">provider-for-running-karpenter-on-azure-kubernetes-service-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/provider-for-running-karpenter-on-azure-kubernetes-service-aks/</link>
-      <title>Provider for running Karpenter on Azure Kubernetes Service (AKS) </title>
-      <description>You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters. </description>
-      <pubDate>Tue, 07 Nov 2023 16:01:15 Z</pubDate>
-      <atom:content
-        type="text">You can now use an open-source provider for running Karpenter on AKS to improve the efficiency and cost of running workloads on Kubernetes clusters. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
