@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 31 Jan 2024 15:12:40 Z",
+      "lastBuildDate": "Wed, 31 Jan 2024 16:15:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -62,6 +62,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "With multi-site resiliency, you can configure your ExpressRoute circuits through more than a single peering location. This helps ensure that your’ private connection to Microsoft remains available even if one of the locations experiences an outage. The experience is targeted at helping you design a highly resilient ExpressRoute solution to connect their on-premises with Microsoft backbone and Azure Virtual Networks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-business-continuity-center-is-now-available-in-all-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-business-continuity-center-is-now-available-in-all-regions/",
+          "title": "Public Preview: Azure Business Continuity Center is now available in all regions",
+          "description": "Azure Business Continuity Center is now available in all regions",
+          "pubDate": "Tue, 30 Jan 2024 18:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Business Continuity Center is now available in all regions"
           },
           "content:encoded": null
         },
@@ -123,6 +138,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The selectable search parameter capability for the FHIR service in Azure Health Data Services allows you to tailor and enhance searches on FHIR resources. You can choose which inbuilt search parameters to enable or disable for the FHIR service according to your unique requirements. By enabling only the search parameters you need, you can store more FHIR resources and potentially improve performance of FHIR search queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "cloud-services-classic-retirement-announcement-jan2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-jan2024/",
+          "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
+          "description": "Migrate your cloud services to a new deployment model before 31 August 2024.",
+          "pubDate": "Sat, 27 Jan 2024 00:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate your cloud services to a new deployment model before 31 August 2024."
           },
           "content:encoded": null
         },
@@ -2371,21 +2401,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
-          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
-          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
@@ -2395,6 +2410,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
+          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
+          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
           },
           "content:encoded": null
         },
@@ -3083,36 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Encrypt traffic between multi-tenant App Service front-ends and workers using the new End-to-end (E2E) TLS Encryption (Preview) feature."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-introducing-ngads-v620-series-vms-optimized-for-gaming-scenarios/",
-          "title": "General availability: Introducing NGads V620 Series VMs optimized for gaming scenarios",
-          "description": "The NGads V620 Series are now in public preview in the East US2, Europe West and West US3 regions.  This new series enables service providers to build differentiated cloud gaming experiences.",
-          "pubDate": "Wed, 08 Nov 2023 22:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The NGads V620 Series are now in public preview in the East US2, Europe West and West US3 regions.  This new series enables service providers to build differentiated cloud gaming experiences."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-monitor-logs-archive-provides-up-to-12-years-of-retention"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-logs-archive-provides-up-to-12-years-of-retention/",
-          "title": "Azure Monitor Logs archive provides up to 12 years of retention",
-          "description": "Azure Monitor Logs extends archive retention to up to 12 years",
-          "pubDate": "Wed, 08 Nov 2023 20:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor Logs extends archive retention to up to 12 years"
           },
           "content:encoded": null
         }
