@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Jan 2024 13:14:18 Z</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 14:11:55 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -43,6 +43,53 @@
       <pubDate>Tue, 30 Jan 2024 20:36:42 Z</pubDate>
       <atom:content
         type="text">With multi-site resiliency, you can configure your ExpressRoute circuits through more than a single peering location. This helps ensure that your’ private connection to Microsoft remains available even if one of the locations experiences an outage. The experience is targeted at helping you design a highly resilient ExpressRoute solution to connect their on-premises with Microsoft backbone and Azure Virtual Networks. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">improved-exports-experience</guid>
+      <link>https://azure.microsoft.com/en-us/updates/improved-exports-experience/</link>
+      <category>AzurePortal</category>
+      <title>Improved exports experience</title>
+      <description>Introducing an improved exports experience that makes FinOps easier and more efficient with access to additional datasets and optimized for handling large data. You can also create and manage your exports with a few clicks, download your cost data in FOCUS format, and maintain compatibility with previous schema versions, enhance your security and compliance while saving time and money.
+</description>
+      <pubDate>Mon, 29 Jan 2024 21:00:35 Z</pubDate>
+      <atom:content
+        type="text">Introducing an improved exports experience that makes FinOps easier and more efficient with access to additional datasets and optimized for handling large data. You can also create and manage your exports with a few clicks, download your cost data in FOCUS format, and maintain compatibility with previous schema versions, enhance your security and compliance while saving time and money.
+</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-up-to-50-test-criteria-in-azure-load-testing</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-up-to-50-test-criteria-in-azure-load-testing/</link>
+      <title>Generally available: Up to 50 test fail criteria in Azure Load Testing</title>
+      <description>You can now specify up to 50 test criteria in your load test.</description>
+      <pubDate>Mon, 29 Jan 2024 20:00:35 Z</pubDate>
+      <atom:content
+        type="text">You can now specify up to 50 test criteria in your load test.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-red-hat-openshift-january-2024-updates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-red-hat-openshift-january-2024-updates/</link>
+      <title>Azure Red Hat OpenShift January 2024 updates</title>
+      <description>Azure Red Hat OpenShift now offers Resource Health for clusters with integration with Azure Monitor via Signals and Alerts.</description>
+      <pubDate>Mon, 29 Jan 2024 20:00:34 Z</pubDate>
+      <atom:content
+        type="text">Azure Red Hat OpenShift now offers Resource Health for clusters with integration with Azure Monitor via Signals and Alerts.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">preview-selectable-search-parameter-capability-for-the-fhir-service-in-azure-health-data-services</guid>
+      <link>https://azure.microsoft.com/en-us/updates/preview-selectable-search-parameter-capability-for-the-fhir-service-in-azure-health-data-services/</link>
+      <title>Preview: Selectable search parameter capability for the FHIR service in Azure Health Data Services</title>
+      <description>The selectable search parameter capability for the FHIR service in Azure Health Data Services allows you to tailor and enhance searches on FHIR resources. You can choose which inbuilt search parameters to enable or disable for the FHIR service according to your unique requirements. By enabling only the search parameters you need, you can store more FHIR resources and potentially improve performance of FHIR search queries.</description>
+      <pubDate>Mon, 29 Jan 2024 19:00:34 Z</pubDate>
+      <atom:content
+        type="text">The selectable search parameter capability for the FHIR service in Azure Health Data Services allows you to tailor and enhance searches on FHIR resources. You can choose which inbuilt search parameters to enable or disable for the FHIR service according to your unique requirements. By enabling only the search parameters you need, you can store more FHIR resources and potentially improve performance of FHIR search queries.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1713,17 +1760,6 @@ We have introduced several cost optimization related recommendations and added A
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
-      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
-      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
-      <atom:content
-        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
       <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
@@ -1731,6 +1767,17 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
       <atom:content
         type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
+      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
+      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2257,53 +2304,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 08 Nov 2023 20:00:12 Z</pubDate>
       <atom:content
         type="text">Azure Monitor Logs extends archive retention to up to 12 years</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-using-a-common-port-for-public-and-private-listeners</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-using-a-common-port-for-public-and-private-listeners/</link>
-      <category>Application Gateway</category>
-      <category>Features</category>
-      <category>Management</category>
-      <title>General availability: Using a common port for public and private listeners</title>
-      <description>Easily manage public-facing and private-facing traffic on a common port.</description>
-      <pubDate>Wed, 08 Nov 2023 18:03:42 Z</pubDate>
-      <atom:content
-        type="text">Easily manage public-facing and private-facing traffic on a common port.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-ratelimit-rules-for-application-gateway-web-application-firewall</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-ratelimit-rules-for-application-gateway-web-application-firewall/</link>
-      <title>General availability: Rate-limit rules for Application Gateway Web Application Firewall</title>
-      <description>Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.</description>
-      <pubDate>Wed, 08 Nov 2023 18:00:11 Z</pubDate>
-      <atom:content
-        type="text">Protect applications from abnormally high levels of traffic with rate-limit rules on Azure’s regional Web Application Firewall running on Application Gateway.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-earlynovember-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-earlynovember-2023/</link>
-      <title>Public Preview: Azure SQL updates for early-November 2023</title>
-      <description>Public preview enhancements and updates released for Azure SQL in early-November 2023.</description>
-      <pubDate>Wed, 08 Nov 2023 17:00:11 Z</pubDate>
-      <atom:content
-        type="text">Public preview enhancements and updates released for Azure SQL in early-November 2023.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">customermanaged-keys-preview-integration-with-azure-chaos-studio</guid>
-      <link>https://azure.microsoft.com/en-us/updates/customermanaged-keys-preview-integration-with-azure-chaos-studio/</link>
-      <title>Customer-Managed Keys (preview) integration with Azure Chaos Studio</title>
-      <description>Customer-Managed Keys (preview) integration with Azure Chaos Studio</description>
-      <pubDate>Tue, 07 Nov 2023 17:00:15 Z</pubDate>
-      <atom:content
-        type="text">Customer-Managed Keys (preview) integration with Azure Chaos Studio</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
