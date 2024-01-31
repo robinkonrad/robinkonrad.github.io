@@ -12,13 +12,193 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 31 Jan 2024 17:11:11 Z",
+      "lastBuildDate": "Wed, 31 Jan 2024 18:12:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca/",
+          "title": "Public preview: Istio add-on for AKS now supports plug-in certificate authority (CA)",
+          "description": "You can now bring your own certificates and keys to use with Istio add-on for signing workload certificates for improved security.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now bring your own certificates and keys to use with Istio add-on for signing workload certificates for improved security."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "support-for-cross-region-restore-for-postgresql-backups-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/support-for-cross-region-restore-for-postgresql-backups-generally-available/",
+          "title": "Generally Available: Support for Cross Region Restore for PostgreSQL backups",
+          "description": "Cross region for Backup vault using Azure Backup is now generally available.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Cross region for Backup vault using Azure Backup is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-upgrade-support-in-istio-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-upgrade-support-in-istio-addon-for-aks/",
+          "title": "Public preview: Upgrade support in Istio add-on for AKS",
+          "description": "You can now upgrade to new Istio revisions as they are made available in the Istio add-on for AKS.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now upgrade to new Istio revisions as they are made available in the Istio add-on for AKS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-new-major-version-of-durable-functions-extension"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-major-version-of-durable-functions-extension/",
+          "title": "Public Preview: New major version of durable Functions extension",
+          "description": "Durable Functions extension v3.0.0 is currently in public preview. This new major version introduces major changes that benefit those using Azure Storage backend.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Durable Functions extension v3.0.0 is currently in public preview. This new major version introduces major changes that benefit those using Azure Storage backend."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-support-for-java-21-on-linux"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-java-21-on-linux/",
+          "title": "Public Preview: Azure Functions Support for Java 21 on Linux",
+          "description": "Azure Functions now supports Java 21 in preview on dedicated, consumption, and premium plans for Linux.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Functions now supports Java 21 in preview on dedicated, consumption, and premium plans for Linux."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-container-apps-supports-additional-tcp-ports"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-supports-additional-tcp-ports/",
+          "title": "Generally Available: Azure Container Apps supports additional TCP ports",
+          "description": "You can now run containers apps that accept TCP connections on multiple ports.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run containers apps that accept TCP connections on multiple ports."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-distributed-tracing-v2-for-durable-functions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-distributed-tracing-v2-for-durable-functions/",
+          "title": "Public Preview: Distributed tracing v2 for durable Functions",
+          "description": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "visual-studio-code-extension-update-for-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-update-for-azure-kubernetes-service-aks/",
+          "title": "Visual Studio Code extension update for Azure Kubernetes Service (AKS)",
+          "description": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-node-os-api-options-feature-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-os-api-options-feature-for-aks/",
+          "title": "Public preview: Node OS API options feature for AKS",
+          "description": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access",
+          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-disable-secure-shell-ssh-support-in-aks-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-disable-secure-shell-ssh-support-in-aks-2/",
+          "title": "Public preview: Disable Secure Shell (SSH) support in AKS",
+          "description": "You can now disable SSH for AKS to reduce the attach surface on your cluster.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now disable SSH for AKS to reduce the attach surface on your cluster."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-outbound-type-migration-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-outbound-type-migration-in-aks/",
+          "title": "Generally Available: Outbound type migration in AKS",
+          "description": "You can now update the outbound type of existing clusters without having to rebuild the cluster",
+          "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now update the outbound type of existing clusters without having to rebuild the cluster"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
+          "title": "Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
+          "description": "You will see AKS reserve up to 20% less memorry on nodes.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You will see AKS reserve up to 20% less memorry on nodes."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -284,6 +464,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -294,21 +489,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -2582,21 +2762,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
-          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
-          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
@@ -2606,6 +2771,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
+          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
+          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
           },
           "content:encoded": null
         },
@@ -2921,192 +3101,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge with Microsoft Copilot for Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mqtt-broker-feature-pubsub-capabilities-now-available-for-azure-event-grid"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/mqtt-broker-feature-pubsub-capabilities-now-available-for-azure-event-grid/",
-          "title": "MQTT broker feature, PubSub capabilities now available for Azure Event Grid",
-          "description": "Bi-directional communication and flexible consumption patterns - at scale.",
-          "pubDate": "Wed, 15 Nov 2023 16:31:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Bi-directional communication and flexible consumption patterns - at scale."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "introducing-new-capabilities-in-microsoft-dev-box"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/introducing-new-capabilities-in-microsoft-dev-box/",
-          "title": "Introducing New Capabilities in Microsoft Dev Box",
-          "description": "Microsoft Dev Box is introducing new capabilities to support greater customization and simplify Dev Box setup for development teams.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft Dev Box is introducing new capabilities to support greater customization and simplify Dev Box setup for development teams."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-3rd-party-support-for-arm-solutions-in-azure-marketplace"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-3rd-party-support-for-arm-solutions-in-azure-marketplace/",
-          "title": "Public preview: 3rd party support for Arm solutions in Azure Marketplace",
-          "description": "Partners can now publish solutions built for Arm-based architecture to the Azure Marketplace. Enabling has broader support for ARM64 for all customers and partners in Azure.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Partners can now publish solutions built for Arm-based architecture to the Azure Marketplace. Enabling has broader support for ARM64 for all customers and partners in Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "introducing-new-capabilities-in-azure-deployment-environments"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/introducing-new-capabilities-in-azure-deployment-environments/",
-          "title": "Introducing New Capabilities in Azure Deployment Environments",
-          "description": "Azure Deployment Environments is adding new capabilities to deliver an end-to-end developer experience, broader infrastructure-as-code (IaC) template support, and the ability to control costs by configuring auto-delete schedules.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Deployment Environments is adding new capabilities to deliver an end-to-end developer experience, broader infrastructure-as-code (IaC) template support, and the ability to control costs by configuring auto-delete schedules."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-vm-hibernation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-vm-hibernation/",
-          "title": "Public preview: VM Hibernation",
-          "description": "VMs can now be put into a hibernate state in which you don't pay for any VM usage, while the VM state can be saved and be restored at a later time.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VMs can now be put into a hibernate state in which you don't pay for any VM usage, while the VM state can be saved and be restored at a later time."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-vmss-zonal-expansion"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-vmss-zonal-expansion/",
-          "title": "Public preview: Azure VMSS Zonal Expansion",
-          "description": "Zonal expansion for VMs and VM Scale Sets empowers users to smoothly transition their regionally configured VMs or VM scale sets into a zonal configuration across Azure availability zones, resulting an increased availability Service Level Agreement (SLA) from 99.95% to 99.99%.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Zonal expansion for VMs and VM Scale Sets empowers users to smoothly transition their regionally configured VMs or VM scale sets into a zonal configuration across Azure availability zones, resulting an increased availability Service Level Agreement (SLA) from 99.95% to 99.99%."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-generation-amd-vms-eav6dav6fav6"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generation-amd-vms-eav6dav6fav6/",
-          "title": "GA: Azure Boost",
-          "description": "Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-generation-amd-vms-dav6eav6fav6"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generation-amd-vms-dav6eav6fav6/",
-          "title": "Public preview: New Generation AMD VMs - Dasv6/Easv6/Fasv6",
-          "description": "Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "experiment-templates-now-available-in-azure-chaos-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/experiment-templates-now-available-in-azure-chaos-studio/",
-          "title": "Experiment templates now available in Azure Chaos Studio",
-          "description": "Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios.",
-          "pubDate": "Tue, 14 Nov 2023 21:38:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio/",
-          "title": "General availability: Start and stop load (Azure Load Testing) faults in Azure Chaos Studio",
-          "description": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load.",
-          "pubDate": "Tue, 14 Nov 2023 21:38:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-functions-supports-net-8-in-the-isolated-worker-model"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-functions-supports-net-8-in-the-isolated-worker-model/",
-          "title": "GA: Azure Functions supports .NET 8 in the isolated worker model",
-          "description": "Azure Functions now supports .NET 8, using the isolated worker model.",
-          "pubDate": "Tue, 14 Nov 2023 18:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions now supports .NET 8, using the isolated worker model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-ubuntu-server-to-ubuntu-pro-inplace-upgrade-now-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ubuntu-server-to-ubuntu-pro-inplace-upgrade-now-available/",
-          "category": [
-            "Linux on Azure",
-            "Ubuntu",
-            "Azure Virtual Machines",
-            "Azure Kubernetes Service"
-          ],
-          "title": "General Availability: Ubuntu Server to Ubuntu Pro in-place upgrade now available",
-          "description": "Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime.",
-          "pubDate": "Tue, 14 Nov 2023 17:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime."
           },
           "content:encoded": null
         }
