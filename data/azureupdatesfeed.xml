@@ -6,11 +6,24 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 18:15:42 Z</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 19:11:31 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">support-for-log-alert-rules-that-use-crossworkspace-queries-with-resource-names-or-qualified-name-identifiers-will-be-retired</guid>
+      <link>https://azure.microsoft.com/en-us/updates/support-for-log-alert-rules-that-use-crossworkspace-queries-with-resource-names-or-qualified-name-identifiers-will-be-retired/</link>
+      <category>Alerts</category>
+      <category>Email</category>
+      <title>Support for log alert rules that use cross-workspace queries with resource names or qualified name identifiers will be retired on 31 May 2024</title>
+      <description>As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers.</description>
+      <pubDate>Thu, 01 Feb 2024 18:48:43 Z</pubDate>
+      <atom:content
+        type="text">As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-virtual-network-manager-security-admin-rule-generally-available-in-30-regions</guid>
@@ -57,6 +70,17 @@
       <pubDate>Thu, 01 Feb 2024 17:00:15 Z</pubDate>
       <atom:content
         type="text">Azure Stack HCI is the Microsoft Azure Arc-enabled infrastructure. Now, customers who have an Azure Stack HCI subscription can download the latest feature release for their infrastructure. This new Azure Stack HCI release is the version of the product required to run Azure Virtual Desktop on- prem which is also now in GA and called Azure Virtual Desktop for Azure Stack HCI. This is an exciting development as the public preview of this product is in high demand specifically in Healthcare and Financial Services. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-container-apps-supports-additional-tcp-ports</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-supports-additional-tcp-ports/</link>
+      <title>Generally Available: Azure Container Apps supports additional TCP ports </title>
+      <description>You can now run containers apps that accept TCP connections on multiple ports. </description>
+      <pubDate>Wed, 31 Jan 2024 18:00:05 Z</pubDate>
+      <atom:content
+        type="text">You can now run containers apps that accept TCP connections on multiple ports. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2285,29 +2309,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Tue, 14 Nov 2023 17:00:21 Z</pubDate>
       <atom:content
         type="text">Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-graphql-apis-in-azure-api-management-selfhosted-gateway/</link>
-      <category>Azure API Management</category>
-      <title>Public Preview: Support for GraphQL APIs in Azure API Management Self-hosted Gateway  </title>
-      <description>Customers now have the power to expose GraphQL APIs through Azure API Management's self-hosted gateway. </description>
-      <pubDate>Mon, 13 Nov 2023 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Customers now have the power to expose GraphQL APIs through Azure API Management's self-hosted gateway. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-agent-json-log-collection</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-agent-json-log-collection/</link>
-      <title>Public Preview: Azure Monitor Agent JSON log collection </title>
-      <description>Azure Monitoring Agent team has released for public preview JSON log collection. New collection types enable customers to migrate from other competing data collection services to Azure Monitor.</description>
-      <pubDate>Mon, 13 Nov 2023 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Azure Monitoring Agent team has released for public preview JSON log collection. New collection types enable customers to migrate from other competing data collection services to Azure Monitor.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
