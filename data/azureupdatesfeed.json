@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 01 Feb 2024 15:12:43 Z",
+      "lastBuildDate": "Thu, 01 Feb 2024 16:16:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-continuous-model-monitoring-in-azure-machine-learning"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-continuous-model-monitoring-in-azure-machine-learning/",
+          "title": "Generally Available: Continuous model monitoring in Azure Machine Learning",
+          "description": "Azure Machine Learning model monitoring is now generally available.",
+          "pubDate": "Thu, 01 Feb 2024 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Machine Learning model monitoring is now generally available."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2636,21 +2651,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
-          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
-          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-machine-learning-public-preview-for-november"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
@@ -2660,6 +2660,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
+          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
+          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
           },
           "content:encoded": null
         },
@@ -2741,21 +2756,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
-          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
-          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
@@ -2765,6 +2765,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
+          "title": "General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves",
+          "description": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
           },
           "content:encoded": null
         },
@@ -3095,21 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "ExpressRoute customers can now seamlessly migrate."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "scalable-gateway"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/scalable-gateway/",
-          "title": "Public preview: ExpressRoute Scalable Gateway",
-          "description": "The ExpressRoute virtual network gateway facilitates both management and control plane connectivity to Virtual Machines and Private Endpoints over ExpressRoute.",
-          "pubDate": "Wed, 15 Nov 2023 17:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ExpressRoute virtual network gateway facilitates both management and control plane connectivity to Virtual Machines and Private Endpoints over ExpressRoute."
           },
           "content:encoded": null
         }
