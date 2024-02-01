@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 01 Feb 2024 19:11:31 Z",
+      "lastBuildDate": "Thu, 01 Feb 2024 20:13:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -116,6 +116,96 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now run containers apps that accept TCP connections on multiple ports."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-pgaudit-in-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-pgaudit-in-azure-cosmos-db-for-postgresql/",
+          "title": "General availability: PgAudit in Azure Cosmos DB for PostgreSQL",
+          "description": "Database session and object audit logging of database activities in Azure Cosmos DB for PostgreSQL.",
+          "pubDate": "Wed, 31 Jan 2024 17:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Database session and object audit logging of database activities in Azure Cosmos DB for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-read-replica-in-special-regions-with-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-read-replica-in-special-regions-with-azure-database-for-postgresql-flexible-server/",
+          "title": "General Availability: Read replica in special regions with Azure Database for PostgreSQL - Flexible Server",
+          "description": "Read replica now available in Microsoft Azure operated by 21Vianet and Azure Government regions.",
+          "pubDate": "Wed, 31 Jan 2024 17:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Read replica now available in Microsoft Azure operated by 21Vianet and Azure Government regions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-latejanuary-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-latejanuary-2024/",
+          "title": "General availability: Azure SQL updates for late-January 2024",
+          "description": "General availability enhancements and updates released for Azure SQL in late-January 2024.",
+          "pubDate": "Wed, 31 Jan 2024 17:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in late-January 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-server-logs-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-server-logs-for-azure-database-for-postgresql-flexible-server/",
+          "title": "General Availability: Server logs for Azure Database for PostgreSQL - Flexible Server",
+          "description": "Enhance your database monitoring with the new server log feature for Azure Database for PostgreSQL, offering customizable retention and straightforward downloading for operational excellence.",
+          "pubDate": "Wed, 31 Jan 2024 17:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enhance your database monitoring with the new server log feature for Azure Database for PostgreSQL, offering customizable retention and straightforward downloading for operational excellence."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-latejanuary-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latejanuary-2024/",
+          "title": "Public preview: Azure SQL updates for late-January 2024",
+          "description": "Public preview enhancements and updates released for Azure SQL in late-January 2024.",
+          "pubDate": "Wed, 31 Jan 2024 17:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview enhancements and updates released for Azure SQL in late-January 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-cosmos-db-for-postgresql-customermanaged-keys-cmk"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-postgresql-customermanaged-keys-cmk/",
+          "title": "General availability: Azure Cosmos DB for PostgreSQL Customer-managed keys (CMK)",
+          "description": "Customer-managed keys allow you to use your own key for cluster data encryption at rest.",
+          "pubDate": "Wed, 31 Jan 2024 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customer-managed keys allow you to use your own key for cluster data encryption at rest."
           },
           "content:encoded": null
         },
@@ -3020,102 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Zonal expansion for VMs and VM Scale Sets empowers users to smoothly transition their regionally configured VMs or VM scale sets into a zonal configuration across Azure availability zones, resulting an increased availability Service Level Agreement (SLA) from 99.95% to 99.99%."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-generation-amd-vms-eav6dav6fav6"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generation-amd-vms-eav6dav6fav6/",
-          "title": "GA: Azure Boost",
-          "description": "Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Boost is one of Microsoft Azure’s latest and most significant infrastructure innovations, enabling greater network and storage performance at scale, improves security, and reduced servicing impact."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-generation-amd-vms-dav6eav6fav6"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generation-amd-vms-dav6eav6fav6/",
-          "title": "Public preview: New Generation AMD VMs - Dasv6/Easv6/Fasv6",
-          "description": "Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "experiment-templates-now-available-in-azure-chaos-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/experiment-templates-now-available-in-azure-chaos-studio/",
-          "title": "Experiment templates now available in Azure Chaos Studio",
-          "description": "Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios.",
-          "pubDate": "Tue, 14 Nov 2023 21:38:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Create and customize an experiment from a template. Chaos Studio currently supports AAD Outage and Availability Zone Down scenarios."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-start-and-stop-load-azure-load-testing-faults-in-azure-chaos-studio/",
-          "title": "General availability: Start and stop load (Azure Load Testing) faults in Azure Chaos Studio",
-          "description": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load.",
-          "pubDate": "Tue, 14 Nov 2023 21:38:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Add a previously created load test (from Azure Load Testing) to your chaos experiment. Choose when exactly in your chaos experiment you would like to start and stop load."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-functions-supports-net-8-in-the-isolated-worker-model"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-functions-supports-net-8-in-the-isolated-worker-model/",
-          "title": "GA: Azure Functions supports .NET 8 in the isolated worker model",
-          "description": "Azure Functions now supports .NET 8, using the isolated worker model.",
-          "pubDate": "Tue, 14 Nov 2023 18:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions now supports .NET 8, using the isolated worker model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-ubuntu-server-to-ubuntu-pro-inplace-upgrade-now-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-ubuntu-server-to-ubuntu-pro-inplace-upgrade-now-available/",
-          "category": [
-            "Linux on Azure",
-            "Ubuntu",
-            "Azure Virtual Machines",
-            "Azure Kubernetes Service"
-          ],
-          "title": "General Availability: Ubuntu Server to Ubuntu Pro in-place upgrade now available",
-          "description": "Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime.",
-          "pubDate": "Tue, 14 Nov 2023 17:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade from Ubuntu Server (16.04 or higher) to Ubuntu Pro on your existing Azure Virtual Machines (VMs) without redeployment or downtime."
           },
           "content:encoded": null
         }
