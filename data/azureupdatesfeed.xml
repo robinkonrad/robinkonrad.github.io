@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 21:11:34 Z</lastBuildDate>
+    <lastBuildDate>Thu, 01 Feb 2024 22:12:45 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -70,6 +70,49 @@
       <pubDate>Thu, 01 Feb 2024 17:00:15 Z</pubDate>
       <atom:content
         type="text">Azure Stack HCI is the Microsoft Azure Arc-enabled infrastructure. Now, customers who have an Azure Stack HCI subscription can download the latest feature release for their infrastructure. This new Azure Stack HCI release is the version of the product required to run Azure Virtual Desktop on- prem which is also now in GA and called Azure Virtual Desktop for Azure Stack HCI. This is an exciting development as the public preview of this product is in high demand specifically in Healthcare and Financial Services. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/</link>
+      <title>Public Preview: Azure Monitor introduces Prometheus community recommended alerts </title>
+      <description>Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.</description>
+      <pubDate>Wed, 31 Jan 2024 20:00:03 Z</pubDate>
+      <atom:content
+        type="text">Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generalavailabilityofazuremonitormetricsdataplaneapi</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generalavailabilityofazuremonitormetricsdataplaneapi/</link>
+      <category>Azure Monitoring</category>
+      <category>Azure Metrics</category>
+      <category>Observability</category>
+      <category>Cloud</category>
+      <category>Feature</category>
+      <category>Service</category>
+      <category>SDK</category>
+      <title>Announcing General Availability of Azure Monitor Metrics Data Plane API </title>
+      <description>General Availability of Azure Monitor Metrics Data plane API
+We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Available! Unlock enhanced insights into the monitoring of your Azure resources with our powerful API. Explore its features and elevate your monitoring experience today! </description>
+      <pubDate>Wed, 31 Jan 2024 19:00:03 Z</pubDate>
+      <atom:content
+        type="text">General Availability of Azure Monitor Metrics Data plane API
+We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Available! Unlock enhanced insights into the monitoring of your Azure resources with our powerful API. Explore its features and elevate your monitoring experience today! </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-api-center-features</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-api-center-features/</link>
+      <category>Azure API Management</category>
+      <title>Public Preview:  Azure API Center – January Updates</title>
+      <description>Azure API Center is your one-stop solution for inventorying and managing your organization’s APIs. In this update, we are bringing you new features and improvements to help you discover, reuse, and consume your APIs more easily and efficiently. These features are designed to help you streamline your API lifecycle, improve your developer experience, and increase your API adoption.</description>
+      <pubDate>Wed, 31 Jan 2024 19:00:03 Z</pubDate>
+      <atom:content
+        type="text">Azure API Center is your one-stop solution for inventorying and managing your organization’s APIs. In this update, we are bringing you new features and improvements to help you discover, reuse, and consume your APIs more easily and efficiently. These features are designed to help you streamline your API lifecycle, improve your developer experience, and increase your API adoption.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2272,39 +2315,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 16:00:36 Z</pubDate>
       <atom:content
         type="text">Partners can now publish solutions built for Arm-based architecture to the Azure Marketplace. Enabling has broader support for ARM64 for all customers and partners in Azure.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">introducing-new-capabilities-in-azure-deployment-environments</guid>
-      <link>https://azure.microsoft.com/en-us/updates/introducing-new-capabilities-in-azure-deployment-environments/</link>
-      <title>Introducing New Capabilities in Azure Deployment Environments</title>
-      <description>Azure Deployment Environments is adding new capabilities to deliver an end-to-end developer experience, broader infrastructure-as-code (IaC) template support, and the ability to control costs by configuring auto-delete schedules.</description>
-      <pubDate>Wed, 15 Nov 2023 16:00:36 Z</pubDate>
-      <atom:content
-        type="text">Azure Deployment Environments is adding new capabilities to deliver an end-to-end developer experience, broader infrastructure-as-code (IaC) template support, and the ability to control costs by configuring auto-delete schedules.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-vm-hibernation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-vm-hibernation/</link>
-      <title>Public preview: VM Hibernation</title>
-      <description>VMs can now be put into a hibernate state in which you don't pay for any VM usage, while the VM state can be saved and be restored at a later time. </description>
-      <pubDate>Wed, 15 Nov 2023 16:00:35 Z</pubDate>
-      <atom:content
-        type="text">VMs can now be put into a hibernate state in which you don't pay for any VM usage, while the VM state can be saved and be restored at a later time. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-vmss-zonal-expansion</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-vmss-zonal-expansion/</link>
-      <title>Public preview: Azure VMSS Zonal Expansion</title>
-      <description>Zonal expansion for VMs and VM Scale Sets empowers users to smoothly transition their regionally configured VMs or VM scale sets into a zonal configuration across Azure availability zones, resulting an increased availability Service Level Agreement (SLA) from 99.95% to 99.99%.</description>
-      <pubDate>Wed, 15 Nov 2023 16:00:28 Z</pubDate>
-      <atom:content
-        type="text">Zonal expansion for VMs and VM Scale Sets empowers users to smoothly transition their regionally configured VMs or VM scale sets into a zonal configuration across Azure availability zones, resulting an increased availability Service Level Agreement (SLA) from 99.95% to 99.99%.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
