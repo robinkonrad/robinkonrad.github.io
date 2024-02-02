@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 02 Feb 2024 13:13:32 Z",
+      "lastBuildDate": "Fri, 02 Feb 2024 14:12:04 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -162,6 +162,81 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca/",
+          "title": "Public preview: Istio add-on for AKS now supports plug-in certificate authority (CA)",
+          "description": "You can now bring your own certificates and keys to use with Istio add-on for signing workload certificates for improved security.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now bring your own certificates and keys to use with Istio add-on for signing workload certificates for improved security."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "support-for-cross-region-restore-for-postgresql-backups-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/support-for-cross-region-restore-for-postgresql-backups-generally-available/",
+          "title": "Generally Available: Support for Cross Region Restore for PostgreSQL backups",
+          "description": "Cross region for Backup vault using Azure Backup is now generally available.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Cross region for Backup vault using Azure Backup is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-upgrade-support-in-istio-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-upgrade-support-in-istio-addon-for-aks/",
+          "title": "Public preview: Upgrade support in Istio add-on for AKS",
+          "description": "You can now upgrade to new Istio revisions as they are made available in the Istio add-on for AKS.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now upgrade to new Istio revisions as they are made available in the Istio add-on for AKS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-new-major-version-of-durable-functions-extension"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-major-version-of-durable-functions-extension/",
+          "title": "Public Preview: New major version of durable Functions extension",
+          "description": "Durable Functions extension v3.0.0 is currently in public preview. This new major version introduces major changes that benefit those using Azure Storage backend.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Durable Functions extension v3.0.0 is currently in public preview. This new major version introduces major changes that benefit those using Azure Storage backend."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-support-for-java-21-on-linux"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-java-21-on-linux/",
+          "title": "Public Preview: Azure Functions Support for Java 21 on Linux",
+          "description": "Azure Functions now supports Java 21 in preview on dedicated, consumption, and premium plans for Linux.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Functions now supports Java 21 in preview on dedicated, consumption, and premium plans for Linux."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-azure-container-apps-supports-additional-tcp-ports"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-supports-additional-tcp-ports/",
@@ -171,6 +246,96 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now run containers apps that accept TCP connections on multiple ports."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-distributed-tracing-v2-for-durable-functions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-distributed-tracing-v2-for-durable-functions/",
+          "title": "Public Preview: Distributed tracing v2 for durable Functions",
+          "description": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "visual-studio-code-extension-update-for-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-update-for-azure-kubernetes-service-aks/",
+          "title": "Visual Studio Code extension update for Azure Kubernetes Service (AKS)",
+          "description": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-node-os-api-options-feature-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-os-api-options-feature-for-aks/",
+          "title": "Public preview: Node OS API options feature for AKS",
+          "description": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access",
+          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-disable-secure-shell-ssh-support-in-aks-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-disable-secure-shell-ssh-support-in-aks-2/",
+          "title": "Public preview: Disable Secure Shell (SSH) support in AKS",
+          "description": "You can now disable SSH for AKS to reduce the attach surface on your cluster.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now disable SSH for AKS to reduce the attach surface on your cluster."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-outbound-type-migration-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-outbound-type-migration-in-aks/",
+          "title": "Generally Available: Outbound type migration in AKS",
+          "description": "You can now update the outbound type of existing clusters without having to rebuild the cluster",
+          "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now update the outbound type of existing clusters without having to rebuild the cluster"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
+          "title": "Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
+          "description": "You will see AKS reserve up to 20% less memorry on nodes.",
+          "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You will see AKS reserve up to 20% less memorry on nodes."
           },
           "content:encoded": null
         },
@@ -2955,171 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "With ExpressRoute Direct, you can enable rate-limiting for your circuit to match the traffic volume with the configured bandwidth rate."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-customercontrolled-maintenance"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-customercontrolled-maintenance/",
-          "title": "Public preview: Customer-controlled maintenance",
-          "description": "Customers can now use configurable maintenance windows to schedule gateway maintenance at a time that is most convenient for their business.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now use configurable maintenance windows to schedule gateway maintenance at a time that is most convenient for their business."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-lower-simplified-pricing-for-azure-sql-database-hyperscale-expected-in-december-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-lower-simplified-pricing-for-azure-sql-database-hyperscale-expected-in-december-2023/",
-          "title": "General Availability: Lower pricing for Azure SQL Database Hyperscale expected in December 2023",
-          "description": "Build new and highly scalable applications on Azure SQL Database Hyperscale with lower pricing!",
-          "pubDate": "Wed, 15 Nov 2023 17:00:54 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Build new and highly scalable applications on Azure SQL Database Hyperscale with lower pricing!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-cosmos-db-migration-for-mongodb-extension-azure-cosmos-db-for-mongodb-vcore-migration-capability"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-migration-for-mongodb-extension-azure-cosmos-db-for-mongodb-vcore-migration-capability/",
-          "title": "Public Preview: Azure Cosmos DB Migration for MongoDB extension - Azure Cosmos DB for MongoDB vCore migration capability",
-          "description": "Migrate MongoDB workloads to Azure Cosmos DB for MongoDB vCore using Azure Cosmos DB Migration for MongoDB extension in Azure Data Studio.",
-          "pubDate": "Wed, 15 Nov 2023 17:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate MongoDB workloads to Azure Cosmos DB for MongoDB vCore using Azure Cosmos DB Migration for MongoDB extension in Azure Data Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-expressroute-seamless-gateway-migration"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-expressroute-seamless-gateway-migration/",
-          "title": "Public preview: ExpressRoute Seamless Gateway Migration",
-          "description": "ExpressRoute customers can now seamlessly migrate.",
-          "pubDate": "Wed, 15 Nov 2023 17:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute customers can now seamlessly migrate."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "scalable-gateway"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/scalable-gateway/",
-          "title": "Public preview: ExpressRoute Scalable Gateway",
-          "description": "The ExpressRoute virtual network gateway facilitates both management and control plane connectivity to Virtual Machines and Private Endpoints over ExpressRoute.",
-          "pubDate": "Wed, 15 Nov 2023 17:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ExpressRoute virtual network gateway facilitates both management and control plane connectivity to Virtual Machines and Private Endpoints over ExpressRoute."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "expressroute-direct-and-circuit-in-different-subscriptions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/expressroute-direct-and-circuit-in-different-subscriptions/",
-          "title": "General availability: ExpressRoute Direct and Circuit in different subscriptions",
-          "description": "ExpressRoute Direct customers can now generate an authorization key for your ExpressRoute Direct resource and use it to make an ExpressRoute Circuit in a different subscription.",
-          "pubDate": "Wed, 15 Nov 2023 17:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute Direct customers can now generate an authorization key for your ExpressRoute Direct resource and use it to make an ExpressRoute Circuit in a different subscription."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "expressroute-trusted-as-a-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/expressroute-trusted-as-a-service/",
-          "title": "General availability: ExpressRoute as a Trusted Service",
-          "description": "ExpressRoute customers can now store MACSec secrets in an Azure KeyVault.",
-          "pubDate": "Wed, 15 Nov 2023 17:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute customers can now store MACSec secrets in an Azure KeyVault."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-microsoft-copilot-for-azure"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-microsoft-copilot-for-azure/",
-          "title": "Public preview: Microsoft Copilot for Azure",
-          "description": "Simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge with Microsoft Copilot for Azure.",
-          "pubDate": "Wed, 15 Nov 2023 16:36:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Simplify how you design, operate, optimize, and troubleshoot apps and infrastructure from cloud to edge with Microsoft Copilot for Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mqtt-broker-feature-pubsub-capabilities-now-available-for-azure-event-grid"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/mqtt-broker-feature-pubsub-capabilities-now-available-for-azure-event-grid/",
-          "title": "MQTT broker feature, PubSub capabilities now available for Azure Event Grid",
-          "description": "Bi-directional communication and flexible consumption patterns - at scale.",
-          "pubDate": "Wed, 15 Nov 2023 16:31:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Bi-directional communication and flexible consumption patterns - at scale."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "introducing-new-capabilities-in-microsoft-dev-box"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/introducing-new-capabilities-in-microsoft-dev-box/",
-          "title": "Introducing New Capabilities in Microsoft Dev Box",
-          "description": "Microsoft Dev Box is introducing new capabilities to support greater customization and simplify Dev Box setup for development teams.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft Dev Box is introducing new capabilities to support greater customization and simplify Dev Box setup for development teams."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-3rd-party-support-for-arm-solutions-in-azure-marketplace"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-3rd-party-support-for-arm-solutions-in-azure-marketplace/",
-          "title": "Public preview: 3rd party support for Arm solutions in Azure Marketplace",
-          "description": "Partners can now publish solutions built for Arm-based architecture to the Azure Marketplace. Enabling has broader support for ARM64 for all customers and partners in Azure.",
-          "pubDate": "Wed, 15 Nov 2023 16:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Partners can now publish solutions built for Arm-based architecture to the Azure Marketplace. Enabling has broader support for ARM64 for all customers and partners in Azure."
           },
           "content:encoded": null
         }
