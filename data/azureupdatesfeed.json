@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 05 Feb 2024 18:17:52 Z",
+      "lastBuildDate": "Mon, 05 Feb 2024 19:11:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "support-for-up-to-100-tb-of-storage-for-the-fhir-service"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/support-for-up-to-100-tb-of-storage-for-the-fhir-service/",
+          "title": "Generally available: Support for up to 100 TB of storage for the FHIR service",
+          "description": "The FHIR service in Azure Health Data Services supports up to 100 TB of storage. The FHIR service can store and exchange large amounts of health data, and each FHIR service instance has a 4 TB storage limit by default. However, if you have more data, you can ask Microsoft to increase storage up to 100 TB for your FHIR service.",
+          "pubDate": "Mon, 05 Feb 2024 18:52:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The FHIR service in Azure Health Data Services supports up to 100 TB of storage. The FHIR service can store and exchange large amounts of health data, and each FHIR service instance has a 4 TB storage limit by default. However, if you have more data, you can ask Microsoft to increase storage up to 100 TB for your FHIR service."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can use offline cross-account container copy to migrate data across Azure Cosmos DB NoSQL API accounts seamlessly using Azure CLI."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
-          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
-          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
           },
           "content:encoded": null
         }
