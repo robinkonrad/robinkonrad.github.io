@@ -12,13 +12,58 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 05 Feb 2024 16:15:49 Z",
+      "lastBuildDate": "Mon, 05 Feb 2024 17:12:09 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-topology"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-topology/",
+          "title": "General availability: Topology",
+          "description": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights.",
+          "pubDate": "Mon, 05 Feb 2024 17:00:56 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mount-azure-storage-as-a-local-share-in-app-service-linux-now-supports-nfs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/mount-azure-storage-as-a-local-share-in-app-service-linux-now-supports-nfs/",
+          "title": "Mount Azure Storage as a local share in App Service Linux Now supports NFS",
+          "description": "NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app.",
+          "pubDate": "Mon, 05 Feb 2024 17:00:56 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-vnet-migration-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-vnet-migration-ga/",
+          "title": "Announcing General Availability to migrate Virtual Network injected Azure Data Explorer Cluster to Private Endpoints",
+          "description": "The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK.",
+          "pubDate": "Mon, 05 Feb 2024 17:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2841,21 +2886,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -2865,6 +2895,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3075,51 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-microsoft-copilot-for-azure-capability-now-available-in-azure-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-microsoft-copilot-for-azure-capability-now-available-in-azure-cosmos-db/",
-          "title": "Public preview: Microsoft Copilot for Azure capability now available in Azure Cosmos DB",
-          "description": "Turn your questions into Azure Cosmos DB NoSQL queries with Microsoft Copilot for Azure.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Turn your questions into Azure Cosmos DB NoSQL queries with Microsoft Copilot for Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-bring-enhanced-manageability-to-your-sql-server-anywhere-with-azure-arc"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-bring-enhanced-manageability-to-your-sql-server-anywhere-with-azure-arc/",
-          "title": "Public preview: Bring enhanced manageability to your SQL Server anywhere with Azure Arc",
-          "description": "Azure Arc provides enhanced manageability for SQL Server, on-premises or across multi-cloud, to enable better visibility, flexibility and security.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Arc provides enhanced manageability for SQL Server, on-premises or across multi-cloud, to enable better visibility, flexibility and security."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-virtual-network-manager-security-admin-rule-generally-available-in-select-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-select-regions/",
-          "title": "Azure Virtual Network Manager Security Admin Rule generally available in select regions",
-          "description": "Azure Virtual Network Manager's security admin rule configuration is now generally available in select regions, empowering users to enforce security rules across their virtual networks globally.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network Manager's security admin rule configuration is now generally available in select regions, empowering users to enforce security rules across their virtual networks globally."
           },
           "content:encoded": null
         }
