@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 05 Feb 2024 17:12:09 Z",
+      "lastBuildDate": "Mon, 05 Feb 2024 18:17:52 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-ultra-disk-storage-is-now-available-in-canada-east"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-canada-east/",
+          "title": "Azure Ultra Disk Storage is now available in Canada East",
+          "description": "Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.",
+          "pubDate": "Mon, 05 Feb 2024 18:00:53 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
-          "title": "Public preview: Dynamic scaling per partition and per region",
-          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
           },
           "content:encoded": null
         }
