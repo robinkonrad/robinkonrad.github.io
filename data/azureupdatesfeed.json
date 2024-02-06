@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 06 Feb 2024 17:11:25 Z",
+      "lastBuildDate": "Tue, 06 Feb 2024 18:14:31 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "Public Preview: Azure NetApp Files Standard Network Features - Edit Volumes in US Gov Regions",
+          "description": "Azure NetApp Files in US Gov region now supports ability to edit existing ANF volumes and upgrading Basic network features to Standard network features.",
+          "pubDate": "Tue, 06 Feb 2024 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files in US Gov region now supports ability to edit existing ANF volumes and upgrading Basic network features to Standard network features."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,21 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Priority-based execution in Azure Cosmos DB enables customers to prioritize critical high priority requests for execution during high traffic, while potentially throttling low priority requests."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-crossaccount-container-copy-for-azure-cosmos-db-nosql-api"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-crossaccount-container-copy-for-azure-cosmos-db-nosql-api/",
-          "title": "Public preview: Cross-account container copy for Azure Cosmos DB NoSQL API",
-          "description": "You can use offline cross-account container copy to migrate data across Azure Cosmos DB NoSQL API accounts seamlessly using Azure CLI.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can use offline cross-account container copy to migrate data across Azure Cosmos DB NoSQL API accounts seamlessly using Azure CLI."
           },
           "content:encoded": null
         }
