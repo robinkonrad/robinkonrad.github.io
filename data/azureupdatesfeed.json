@@ -12,13 +12,123 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 07 Feb 2024 00:56:44 Z",
+      "lastBuildDate": "Wed, 07 Feb 2024 01:48:01 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks/",
+          "title": "General Availability: Application consistent restore points supports Premium SSD v2 and Ultra Disks",
+          "description": "Application consistent restore points supports Premium SSD v2 and Ultra Disks.",
+          "pubDate": "Tue, 06 Feb 2024 18:30:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application consistent restore points supports Premium SSD v2 and Ultra Disks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "Public Preview: Azure NetApp Files Standard Network Features - Edit Volumes in US Gov Regions",
+          "description": "Azure NetApp Files in US Gov region now supports ability to edit existing ANF volumes and upgrading Basic network features to Standard network features.",
+          "pubDate": "Tue, 06 Feb 2024 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files in US Gov region now supports ability to edit existing ANF volumes and upgrading Basic network features to Standard network features."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "support-for-up-to-100-tb-of-storage-for-the-fhir-service"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/support-for-up-to-100-tb-of-storage-for-the-fhir-service/",
+          "title": "Generally available: Support for up to 100 TB of storage for the FHIR service",
+          "description": "The FHIR service in Azure Health Data Services supports up to 100 TB of storage. The FHIR service can store and exchange large amounts of health data, and each FHIR service instance has a 4 TB storage limit by default. However, if you have more data, you can ask Microsoft to increase storage up to 100 TB for your FHIR service.",
+          "pubDate": "Mon, 05 Feb 2024 18:52:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The FHIR service in Azure Health Data Services supports up to 100 TB of storage. The FHIR service can store and exchange large amounts of health data, and each FHIR service instance has a 4 TB storage limit by default. However, if you have more data, you can ask Microsoft to increase storage up to 100 TB for your FHIR service."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-ultra-disk-storage-is-now-available-in-canada-east"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-canada-east/",
+          "title": "Azure Ultra Disk Storage is now available in Canada East",
+          "description": "Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.",
+          "pubDate": "Mon, 05 Feb 2024 18:00:53 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-topology"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-topology/",
+          "title": "General availability: Topology",
+          "description": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights.",
+          "pubDate": "Mon, 05 Feb 2024 17:00:56 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mount-azure-storage-as-a-local-share-in-app-service-linux-now-supports-nfs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/mount-azure-storage-as-a-local-share-in-app-service-linux-now-supports-nfs/",
+          "title": "Mount Azure Storage as a local share in App Service Linux Now supports NFS",
+          "description": "NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app.",
+          "pubDate": "Mon, 05 Feb 2024 17:00:56 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-vnet-migration-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-vnet-migration-ga/",
+          "title": "Announcing General Availability to migrate Virtual Network injected Azure Data Explorer Cluster to Private Endpoints",
+          "description": "The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK.",
+          "pubDate": "Mon, 05 Feb 2024 17:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -116,6 +226,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Machine Learning model monitoring is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/",
+          "title": "Public Preview: Azure Monitor introduces Prometheus community recommended alerts",
+          "description": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.",
+          "pubDate": "Wed, 31 Jan 2024 20:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters."
           },
           "content:encoded": null
         },
@@ -453,7 +578,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-italy-north-region-added-to-azure-hdinsight/",
           "title": "General availability: Italy North region added to Azure HDInsight",
           "description": ".",
-          "pubDate": "Tue, 30 Jan 2024 23:00:11 Z",
+          "pubDate": "Tue, 30 Jan 2024 23:00:10 Z",
           "atom:content": {
             "@type": "text",
             "#text": "."
@@ -603,21 +728,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -628,6 +738,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -798,15 +923,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-mysql-import-feature-for-azure-database-for-mysql-single-to-flexible-server-migrations"
+            "#text": "general-availability-azure-database-for-mysql-import-feature"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-mysql-import-feature-for-azure-database-for-mysql-single-to-flexible-server-migrations/",
-          "title": "General Availability: Azure MySQL Import feature for Azure Database for MySQL Single to Flexible Server migrations",
-          "description": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure MySQL Import.",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-import-feature/",
+          "title": "General Availability: Azure Database for MySQL Import feature for Azure Database for MySQL Single to Flexible Server migrations",
+          "description": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure Database for MySQL Import.",
           "pubDate": "Wed, 17 Jan 2024 17:00:32 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure MySQL Import."
+            "#text": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure Database for MySQL Import."
           },
           "content:encoded": null
         },
@@ -1017,7 +1142,7 @@
           "category": "Azure Spring Apps",
           "title": "Azure Spring Apps Enterprise is now eligible for Azure savings plan for compute",
           "description": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise.",
-          "pubDate": "Thu, 04 Jan 2024 17:00:39 Z",
+          "pubDate": "Thu, 04 Jan 2024 17:00:40 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise."
@@ -1092,7 +1217,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/changetrackingwithla-retirement-31august2024/",
           "title": "Change tracking and inventory with Log Analytics agent in Azure Automation will be retired on 31 August 2024",
           "description": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired.",
-          "pubDate": "Sat, 23 Dec 2023 00:00:03 Z",
+          "pubDate": "Sat, 23 Dec 2023 00:00:04 Z",
           "atom:content": {
             "@type": "text",
             "#text": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired."
@@ -1332,7 +1457,7 @@
           ],
           "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
           "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:39 Z",
+          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
@@ -1373,21 +1498,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-node-autoprovision-support-in-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
@@ -1397,6 +1507,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
           },
           "content:encoded": null
         },
@@ -2256,7 +2381,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -2330,21 +2455,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -2378,7 +2488,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -2571,6 +2681,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -2721,21 +2846,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -2745,6 +2855,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -2826,21 +2951,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
-          "title": "Public Preview: Azure SQL updates for mid-November 2023",
-          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/",
@@ -2850,6 +2960,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-midnovember-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/",
+          "title": "Public Preview: Azure SQL updates for mid-November 2023",
+          "description": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         },
@@ -3000,126 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Cosmos DB for MongoDB vCore offers a fully-managed database for your MongoDB workloads and AI applications, backed by native Azure integrations, flexible pricing, and seamless migration capabilities."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-prioritybased-execution-in-azure-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-prioritybased-execution-in-azure-cosmos-db/",
-          "title": "Public preview: Priority-based execution in Azure Cosmos DB",
-          "description": "Priority-based execution in Azure Cosmos DB enables customers to prioritize critical high priority requests for execution during high traffic, while potentially throttling low priority requests.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Priority-based execution in Azure Cosmos DB enables customers to prioritize critical high priority requests for execution during high traffic, while potentially throttling low priority requests."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-crossaccount-container-copy-for-azure-cosmos-db-nosql-api"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-crossaccount-container-copy-for-azure-cosmos-db-nosql-api/",
-          "title": "Public preview: Cross-account container copy for Azure Cosmos DB NoSQL API",
-          "description": "You can use offline cross-account container copy to migrate data across Azure Cosmos DB NoSQL API accounts seamlessly using Azure CLI.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can use offline cross-account container copy to migrate data across Azure Cosmos DB NoSQL API accounts seamlessly using Azure CLI."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-open-ai-integration-with-azure-cosmos-db-for-mongodb-vcore-vector-search/",
-          "title": "Public Preview:  Azure Open AI “Use your data” integration with Azure Cosmos DB for MongoDB vCore",
-          "description": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can easily leverage your data stored in Azure Cosmos DB for Mongo DB vCore for Retrieval Augmented Generation (RAG) with Azure OpenAI models using the \"Use your data\" feature in Azure OpenAI Studio."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dynamic-scaling-per-partition-and-per-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dynamic-scaling-per-partition-and-per-region/",
-          "title": "Public preview: Dynamic scaling per partition and per region",
-          "description": "Autoscale gets even better with two new improvements -- scaling per partition and per region!",
-          "pubDate": "Wed, 15 Nov 2023 17:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Autoscale gets even better with two new improvements -- scaling per partition and per region!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-microsoft-copilot-for-azure-capability-now-available-in-azure-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-microsoft-copilot-for-azure-capability-now-available-in-azure-cosmos-db/",
-          "title": "Public preview: Microsoft Copilot for Azure capability now available in Azure Cosmos DB",
-          "description": "Turn your questions into Azure Cosmos DB NoSQL queries with Microsoft Copilot for Azure.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Turn your questions into Azure Cosmos DB NoSQL queries with Microsoft Copilot for Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-bring-enhanced-manageability-to-your-sql-server-anywhere-with-azure-arc"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-bring-enhanced-manageability-to-your-sql-server-anywhere-with-azure-arc/",
-          "title": "Public preview: Bring enhanced manageability to your SQL Server anywhere with Azure Arc",
-          "description": "Azure Arc provides enhanced manageability for SQL Server, on-premises or across multi-cloud, to enable better visibility, flexibility and security.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Arc provides enhanced manageability for SQL Server, on-premises or across multi-cloud, to enable better visibility, flexibility and security."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-virtual-network-manager-security-admin-rule-generally-available-in-select-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-select-regions/",
-          "title": "Azure Virtual Network Manager Security Admin Rule generally available in select regions",
-          "description": "Azure Virtual Network Manager's security admin rule configuration is now generally available in select regions, empowering users to enforce security rules across their virtual networks globally.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network Manager's security admin rule configuration is now generally available in select regions, empowering users to enforce security rules across their virtual networks globally."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-enabling-rate-limiting-on-expressroute-direct-circuits"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-enabling-rate-limiting-on-expressroute-direct-circuits/",
-          "title": "Public preview: Enabling Rate Limiting on ExpressRoute Direct Circuits",
-          "description": "With ExpressRoute Direct, you can enable rate-limiting for your circuit to match the traffic volume with the configured bandwidth rate.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With ExpressRoute Direct, you can enable rate-limiting for your circuit to match the traffic volume with the configured bandwidth rate."
           },
           "content:encoded": null
         }
