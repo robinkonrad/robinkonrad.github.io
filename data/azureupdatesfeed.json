@@ -12,13 +12,97 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 13 Feb 2024 17:11:25 Z",
+      "lastBuildDate": "Tue, 13 Feb 2024 18:17:46 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-firewall-flow-trace-logs-and-autoscaling-based-on-number-of-connections-and-are-now-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-firewall-flow-trace-logs-and-autoscaling-based-on-number-of-connections-and-are-now-generally-available/",
+          "title": "Azure Firewall: Flow Trace Logs and Autoscaling based on number of connections are now generally available",
+          "description": "Flow Trace Logs provide more visibility into the TCP handshake, providing insight into whether traffic is properly flowing through the firewall. In addition, Azure Firewall can now autoscale based on number of connections, providing more scaling adaptability to dynamic workloads.",
+          "pubDate": "Tue, 13 Feb 2024 18:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Flow Trace Logs provide more visibility into the TCP handshake, providing insight into whether traffic is properly flowing through the firewall. In addition, Azure Firewall can now autoscale based on number of connections, providing more scaling adaptability to dynamic workloads."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-firewall-parallel-ip-group-update-support-is-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-firewall-parallel-ip-group-update-support-is-now-in-public-preview/",
+          "title": "Azure Firewall: Parallel IP Group update support is now in public preview",
+          "description": "Parallel IP Group support enables administrators to simultaneously update multiple IP Groups in a firewall, streamlining the process of implementing devOps changes.",
+          "pubDate": "Tue, 13 Feb 2024 18:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Parallel IP Group support enables administrators to simultaneously update multiple IP Groups in a firewall, streamlining the process of implementing devOps changes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "sending-a-log-search-alert-to-unauthorized-target-resources-will-no-longer-be-supported"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-to-unauthorized-target-resources-will-no-longer-be-supported/",
+          "category": [
+            "Alerts",
+            "Email"
+          ],
+          "title": "Sending a log search alert to unauthorized target resources will no longer be supported",
+          "description": "When a log search alert rule is configured with a target resource for which the alert process does not have access or permissions, the rule has an unauthorized target resource.\nAs of Mar 15,2024, sending a log search alert to unauthorized target resources is no longer supported.",
+          "pubDate": "Tue, 13 Feb 2024 18:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "When a log search alert rule is configured with a target resource for which the alert process does not have access or permissions, the rule has an unauthorized target resource.\nAs of Mar 15,2024, sending a log search alert to unauthorized target resources is no longer supported."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-elastic-san-is-now-generally-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-is-now-generally-available/",
+          "title": "Azure Elastic SAN is now generally available",
+          "description": "Azure Elastic SAN is now generally available, the industry’s first fully managed and cloud-native SAN offering that simplifies deploying, scaling, managing, and configuring a SAN in the cloud.",
+          "pubDate": "Tue, 13 Feb 2024 18:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Elastic SAN is now generally available, the industry’s first fully managed and cloud-native SAN offering that simplifies deploying, scaling, managing, and configuring a SAN in the cloud."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "upgrade-policies-for-virtual-machine-scale-sets"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/upgrade-policies-for-virtual-machine-scale-sets/",
+          "category": [
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Features"
+          ],
+          "title": "Public preview: Upgrade policies for Virtual Machine Scale Sets using Flexible Orchestration",
+          "description": "Upgrade Policies for Virtual Machine Scale Sets using Flexible Orchestration provide a safe and consistent method to keep your scale set instances up-to-date.",
+          "pubDate": "Tue, 13 Feb 2024 18:00:44 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Upgrade Policies for Virtual Machine Scale Sets using Flexible Orchestration provide a safe and consistent method to keep your scale set instances up-to-date."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -728,6 +812,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -738,21 +837,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -2846,21 +2930,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
-          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
-          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-machine-learning-public-preview-for-november"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
@@ -2870,6 +2939,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
+          "title": "Generally Available: AMD confidential VMs in new regions for November 2023",
+          "description": "AMD confidential VMs now in Italy North, Germany West Central, UAE North.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
           },
           "content:encoded": null
         },
@@ -3050,81 +3134,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-networking-with-private-endpoints"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-networking-with-private-endpoints/",
-          "title": "Public Preview: Azure Database for PostgreSQL Networking with private endpoints",
-          "description": "We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-enhanced-performance-and-scalability-in-azure-database-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-enhanced-performance-and-scalability-in-azure-database-for-postgresql/",
-          "title": "Public Preview: Enhanced performance and scalability in Azure Database for PostgreSQL",
-          "description": "Benefit from the enhanced performance and scalability of Azure Database for PostgreSQL to improve mission-critical workloads.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from the enhanced performance and scalability of Azure Database for PostgreSQL to improve mission-critical workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-free-tier-on-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-free-tier-on-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General availability: Free tier on Azure Cosmos DB for MongoDB vCore",
-          "description": "Unlock your potential with our free tier. Start building, testing, and growing your projects without any upfront costs. Scale up when you're ready for more.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Unlock your potential with our free tier. Start building, testing, and growing your projects without any upfront costs. Scale up when you're ready for more."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-vector-search-in-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-vector-search-in-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General availability: Vector search in Azure Cosmos DB for MongoDB vCore",
-          "description": "Unlock next-level AI applications with native vector similarity search in Azure Cosmos DB for MongoDB vCore.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Unlock next-level AI applications with native vector similarity search in Azure Cosmos DB for MongoDB vCore."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General Availability: Azure Cosmos DB for MongoDB vCore",
-          "description": "Azure Cosmos DB for MongoDB vCore offers a fully-managed database for your MongoDB workloads and AI applications, backed by native Azure integrations, flexible pricing, and seamless migration capabilities.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Cosmos DB for MongoDB vCore offers a fully-managed database for your MongoDB workloads and AI applications, backed by native Azure integrations, flexible pricing, and seamless migration capabilities."
           },
           "content:encoded": null
         }
