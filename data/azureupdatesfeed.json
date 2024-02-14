@@ -12,13 +12,88 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 14 Feb 2024 16:16:42 Z",
+      "lastBuildDate": "Wed, 14 Feb 2024 17:12:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication/",
+          "title": "Generally available: Azure Blob Storage Cold Tier support on Change Feed and Object Replication",
+          "description": "Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-midfebruary-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midfebruary-2024/",
+          "title": "General availability: Azure SQL updates for mid-February 2024",
+          "description": "General availability enhancements and updates released for Azure SQL in mid-February 2024.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in mid-February 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-customer-managed-key-encryption-for-enterprise-tier-caches"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customer-managed-key-encryption-for-enterprise-tier-caches/",
+          "title": "General availability: Customer managed key encryption for Enterprise tier caches",
+          "description": "Encrypt Redis persistence files using customer managed keys.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Encrypt Redis persistence files using customer managed keys."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-migration-service-in-azure-database-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-migration-service-in-azure-database-for-postgresql/",
+          "title": "Public preview: Migration service in Azure Database for PostgreSQL",
+          "description": "Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-migration-assessment-enabled-by-azure-arc"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-migration-assessment-enabled-by-azure-arc/",
+          "title": "Public preview: Azure SQL migration assessment enabled by Azure Arc",
+          "description": "With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -455,7 +530,7 @@
             "#text": "generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
-          "title": "Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
+          "title": "Public preview: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
           "description": "You will see AKS reserve up to 20% less memorry on nodes.",
           "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
           "atom:content": {
@@ -3050,81 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-enhanced-performance-and-scalability-in-azure-database-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-enhanced-performance-and-scalability-in-azure-database-for-postgresql/",
-          "title": "Public Preview: Enhanced performance and scalability in Azure Database for PostgreSQL",
-          "description": "Benefit from the enhanced performance and scalability of Azure Database for PostgreSQL to improve mission-critical workloads.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from the enhanced performance and scalability of Azure Database for PostgreSQL to improve mission-critical workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-free-tier-on-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-free-tier-on-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General availability: Free tier on Azure Cosmos DB for MongoDB vCore",
-          "description": "Unlock your potential with our free tier. Start building, testing, and growing your projects without any upfront costs. Scale up when you're ready for more.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Unlock your potential with our free tier. Start building, testing, and growing your projects without any upfront costs. Scale up when you're ready for more."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-vector-search-in-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-vector-search-in-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General availability: Vector search in Azure Cosmos DB for MongoDB vCore",
-          "description": "Unlock next-level AI applications with native vector similarity search in Azure Cosmos DB for MongoDB vCore.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Unlock next-level AI applications with native vector similarity search in Azure Cosmos DB for MongoDB vCore."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General Availability: Azure Cosmos DB for MongoDB vCore",
-          "description": "Azure Cosmos DB for MongoDB vCore offers a fully-managed database for your MongoDB workloads and AI applications, backed by native Azure integrations, flexible pricing, and seamless migration capabilities.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Cosmos DB for MongoDB vCore offers a fully-managed database for your MongoDB workloads and AI applications, backed by native Azure integrations, flexible pricing, and seamless migration capabilities."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-prioritybased-execution-in-azure-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-prioritybased-execution-in-azure-cosmos-db/",
-          "title": "Public preview: Priority-based execution in Azure Cosmos DB",
-          "description": "Priority-based execution in Azure Cosmos DB enables customers to prioritize critical high priority requests for execution during high traffic, while potentially throttling low priority requests.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Priority-based execution in Azure Cosmos DB enables customers to prioritize critical high priority requests for execution during high traffic, while potentially throttling low priority requests."
           },
           "content:encoded": null
         }
