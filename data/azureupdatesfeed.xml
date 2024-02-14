@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Feb 2024 19:10:22 Z</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 20:13:19 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -64,6 +64,39 @@
       <pubDate>Wed, 14 Feb 2024 17:00:00 Z</pubDate>
       <atom:content
         type="text">With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-aks-cluster-control-plane-metrics-in-managed-prometheus</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-aks-cluster-control-plane-metrics-in-managed-prometheus/</link>
+      <title>Public preview: AKS cluster control plane metrics in managed Prometheus</title>
+      <description>You can now monitor the health, load and performance of the API server and etcd in the control plane of your AKS clusters</description>
+      <pubDate>Mon, 12 Feb 2024 18:00:31 Z</pubDate>
+      <atom:content
+        type="text">You can now monitor the health, load and performance of the API server and etcd in the control plane of your AKS clusters</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-canada-central</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-canada-central/</link>
+      <title>Generally available: Zone Redundant Storage for Azure Disks is now available in Canada Central</title>
+      <description>Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the Canada Central region.</description>
+      <pubDate>Mon, 12 Feb 2024 18:00:30 Z</pubDate>
+      <atom:content
+        type="text">Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the Canada Central region.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-improvements-in-azure-key-vault</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-improvements-in-azure-key-vault/</link>
+      <title>General availability: Improvements in Azure Key Vault</title>
+      <description>Improvements in Azure Key Vault: FIPS 140-2 Level 3, PCI DSS and PCI 3DS certified for all customers.  </description>
+      <pubDate>Mon, 12 Feb 2024 16:00:28 Z</pubDate>
+      <atom:content
+        type="text">Improvements in Azure Key Vault: FIPS 140-2 Level 3, PCI DSS and PCI 3DS certified for all customers.  </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -375,7 +408,7 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
       <guid
         isPermaLink="false">generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/</link>
-      <title>Public preview: Kube-reserved resource optimization in Azure Kubernetes Service (AKS) </title>
+      <title>Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS) </title>
       <description>You will see AKS reserve up to 20% less memorry on nodes. </description>
       <pubDate>Wed, 31 Jan 2024 18:00:02 Z</pubDate>
       <atom:content
@@ -2223,17 +2256,6 @@ We have introduced several cost optimization related recommendations and added A
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
-      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
-      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
-      <atom:content
-        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
       <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
@@ -2241,6 +2263,17 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
       <atom:content
         type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-midnovember-2023</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midnovember-2023/</link>
+      <title>Public Preview: Azure SQL updates for mid-November 2023</title>
+      <description>Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">Public Preview enhancements and updates released for Azure SQL in mid-November 2023.   </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2285,39 +2318,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
       <atom:content
         type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
-      <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
-      <description>Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
-      <atom:content
-        type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-database-for-postgresql-networking-with-private-endpoints</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-networking-with-private-endpoints/</link>
-      <title>Public Preview: Azure Database for PostgreSQL Networking with private endpoints</title>
-      <description>We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:42 Z</pubDate>
-      <atom:content
-        type="text">We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-enhanced-performance-and-scalability-in-azure-database-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-enhanced-performance-and-scalability-in-azure-database-for-postgresql/</link>
-      <title>Public Preview: Enhanced performance and scalability in Azure Database for PostgreSQL</title>
-      <description>Benefit from the enhanced performance and scalability of Azure Database for PostgreSQL to improve mission-critical workloads.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:42 Z</pubDate>
-      <atom:content
-        type="text">Benefit from the enhanced performance and scalability of Azure Database for PostgreSQL to improve mission-critical workloads.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
