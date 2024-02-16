@@ -12,13 +12,88 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 16 Feb 2024 19:11:34 Z",
+      "lastBuildDate": "Fri, 16 Feb 2024 20:13:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication/",
+          "title": "Generally available: Azure Blob Storage Cold Tier support on Change Feed and Object Replication",
+          "description": "Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sql-updates-for-midfebruary-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midfebruary-2024/",
+          "title": "General availability: Azure SQL updates for mid-February 2024",
+          "description": "General availability enhancements and updates released for Azure SQL in mid-February 2024.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "General availability enhancements and updates released for Azure SQL in mid-February 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-customer-managed-key-encryption-for-enterprise-tier-caches"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customer-managed-key-encryption-for-enterprise-tier-caches/",
+          "title": "General availability: Customer managed key encryption for Enterprise tier caches",
+          "description": "Encrypt Redis persistence files using customer managed keys.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Encrypt Redis persistence files using customer managed keys."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-migration-service-in-azure-database-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-migration-service-in-azure-database-for-postgresql/",
+          "title": "Public preview: Migration service in Azure Database for PostgreSQL",
+          "description": "Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-migration-assessment-enabled-by-azure-arc"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-migration-assessment-enabled-by-azure-arc/",
+          "title": "Public preview: Azure SQL migration assessment enabled by Azure Arc",
+          "description": "With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs.",
+          "pubDate": "Wed, 14 Feb 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -175,21 +250,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-topology"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-topology/",
-          "title": "General availability: Topology",
-          "description": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights.",
-          "pubDate": "Mon, 05 Feb 2024 17:00:56 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights."
           },
           "content:encoded": null
         },
@@ -2910,21 +2970,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vms-in-new-regions-for-november-2023"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/",
@@ -2934,6 +2979,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AMD confidential VMs now in Italy North, Germany West Central, UAE North."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-machine-learning-public-preview-for-november"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
+          "title": "Azure Machine Learning  - Public Preview for November",
+          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         },
@@ -3069,66 +3129,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure SQL Migration, an Azure Data Studio extension powered by Azure Database Migration Service, now has a new improved UI experience."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-managed-instance-for-apache-cassandra-feature-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-managed-instance-for-apache-cassandra-feature-updates/",
-          "title": "Public Preview: Azure Managed Instance for Apache Cassandra Feature Updates",
-          "description": "New preview features available including vector search, turnkey major version upgrades, turnkey replication, and write-through cache!",
-          "pubDate": "Wed, 15 Nov 2023 17:01:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New preview features available including vector search, turnkey major version upgrades, turnkey replication, and write-through cache!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Benefit from long term data retention and improved compliance using Azure Backup.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Benefit from long term data retention and improved compliance using Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-extension-for-azure-ai"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/",
-          "title": "Public preview: Azure Database for PostgreSQL extension for Azure AI",
-          "description": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-database-for-postgresql-networking-with-private-endpoints"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-networking-with-private-endpoints/",
-          "title": "Public Preview: Azure Database for PostgreSQL Networking with private endpoints",
-          "description": "We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server."
           },
           "content:encoded": null
         }

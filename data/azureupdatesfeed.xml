@@ -6,11 +6,66 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Feb 2024 19:11:34 Z</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 20:13:13 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication/</link>
+      <title>Generally available: Azure Blob Storage Cold Tier support on Change Feed and Object Replication</title>
+      <description>Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier.</description>
+      <pubDate>Wed, 14 Feb 2024 17:00:03 Z</pubDate>
+      <atom:content
+        type="text">Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sql-updates-for-midfebruary-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midfebruary-2024/</link>
+      <title>General availability: Azure SQL updates for mid-February 2024 </title>
+      <description>General availability enhancements and updates released for Azure SQL in mid-February 2024.   </description>
+      <pubDate>Wed, 14 Feb 2024 17:00:02 Z</pubDate>
+      <atom:content
+        type="text">General availability enhancements and updates released for Azure SQL in mid-February 2024.   </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-customer-managed-key-encryption-for-enterprise-tier-caches</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-customer-managed-key-encryption-for-enterprise-tier-caches/</link>
+      <title>General availability: Customer managed key encryption for Enterprise tier caches </title>
+      <description>Encrypt Redis persistence files using customer managed keys.</description>
+      <pubDate>Wed, 14 Feb 2024 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">Encrypt Redis persistence files using customer managed keys.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-migration-service-in-azure-database-for-postgresql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-migration-service-in-azure-database-for-postgresql/</link>
+      <title>Public preview: Migration service in Azure Database for PostgreSQL</title>
+      <description>Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity.</description>
+      <pubDate>Wed, 14 Feb 2024 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-migration-assessment-enabled-by-azure-arc</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-migration-assessment-enabled-by-azure-arc/</link>
+      <title>Public preview: Azure SQL migration assessment enabled by Azure Arc</title>
+      <description>With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs. </description>
+      <pubDate>Wed, 14 Feb 2024 17:00:00 Z</pubDate>
+      <atom:content
+        type="text">With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-firewall-flow-trace-logs-and-autoscaling-based-on-number-of-connections-and-are-now-generally-available</guid>
@@ -126,17 +181,6 @@ As of Mar 15,2024, sending a log search alert to unauthorized target resources i
       <pubDate>Mon, 05 Feb 2024 18:00:53 Z</pubDate>
       <atom:content
         type="text">Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-topology</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-topology/</link>
-      <title>General availability: Topology</title>
-      <description>Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights. </description>
-      <pubDate>Mon, 05 Feb 2024 17:00:56 Z</pubDate>
-      <atom:content
-        type="text">Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2157,17 +2201,6 @@ We have introduced several cost optimization related recommendations and added A
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
-      <title>Azure Machine Learning  - Public Preview for November </title>
-      <description>Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
-      <atom:content
-        type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
       <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
@@ -2175,6 +2208,17 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
       <atom:content
         type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-for-november</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/</link>
+      <title>Azure Machine Learning  - Public Preview for November </title>
+      <description>Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
+      <atom:content
+        type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2274,50 +2318,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:44 Z</pubDate>
       <atom:content
         type="text">The Azure SQL Migration, an Azure Data Studio extension powered by Azure Database Migration Service, now has a new improved UI experience.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-managed-instance-for-apache-cassandra-feature-updates</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-managed-instance-for-apache-cassandra-feature-updates/</link>
-      <title>Public Preview: Azure Managed Instance for Apache Cassandra Feature Updates</title>
-      <description>New preview features available including vector search, turnkey major version upgrades, turnkey replication, and write-through cache!</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:44 Z</pubDate>
-      <atom:content
-        type="text">New preview features available including vector search, turnkey major version upgrades, turnkey replication, and write-through cache!</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-long-term-retention-for-azure-database-for-postgresql-flexible-server/</link>
-      <title>Public Preview: Long Term Retention for Azure Database for PostgreSQL - Flexible Server</title>
-      <description>Benefit from long term data retention and improved compliance using Azure Backup.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
-      <atom:content
-        type="text">Benefit from long term data retention and improved compliance using Azure Backup.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-database-for-postgresql-extension-for-azure-ai</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-extension-for-azure-ai/</link>
-      <title>Public preview: Azure Database for PostgreSQL extension for Azure AI </title>
-      <description>Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:43 Z</pubDate>
-      <atom:content
-        type="text">Leverage integrated Azure AI services to build intelligent apps in Azure Database for PostgreSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-database-for-postgresql-networking-with-private-endpoints</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql-networking-with-private-endpoints/</link>
-      <title>Public Preview: Azure Database for PostgreSQL Networking with private endpoints</title>
-      <description>We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:42 Z</pubDate>
-      <atom:content
-        type="text">We are announcing public preview of networking with private endpoints for Azure Database for PostgreSQL - Flexible Server.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
