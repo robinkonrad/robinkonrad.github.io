@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 19 Feb 2024 17:12:12 Z",
+      "lastBuildDate": "Mon, 19 Feb 2024 18:17:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically/",
+          "category": "Azure Monitor; Log Analytics; Azure Monitor Logs; Application Insights",
+          "title": "Execute Azure Monitor Logs connector on exact time range provided dynamically (preview)",
+          "description": "Azure Monitor Logs connector lets you query data in your Log Analytics workspace or Application Insights components per Logic App trigger or schedule, and list or visualize results. The Time range…",
+          "pubDate": "Mon, 19 Feb 2024 18:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor Logs connector lets you query data in your Log Analytics workspace or Application Insights components per Logic App trigger or schedule, and list or visualize results. The Time range…"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3114,21 +3130,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public Preview enhancements and updates released for Azure SQL in mid-November 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-updates-for-midnovember-2023"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midnovember-2023/",
-          "title": "General availability: Azure SQL updates for mid-November 2023",
-          "description": "General availability enhancements and updates released for Azure SQL in mid-November 2023.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL in mid-November 2023."
           },
           "content:encoded": null
         }
