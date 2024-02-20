@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Feb 2024 14:12:03 Z</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:12:38 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -131,21 +131,6 @@
       <pubDate>Tue, 13 Feb 2024 18:00:46 Z</pubDate>
       <atom:content
         type="text">Parallel IP Group support enables administrators to simultaneously update multiple IP Groups in a firewall, streamlining the process of implementing devOps changes. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">sending-a-log-search-alert-to-unauthorized-target-resources-will-no-longer-be-supported</guid>
-      <link>https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-to-unauthorized-target-resources-will-no-longer-be-supported/</link>
-      <category>Alerts</category>
-      <category>Email</category>
-      <title>Sending a log search alert to unauthorized target resources will no longer be supported</title>
-      <description>When a log search alert rule is configured with a target resource for which the alert process does not have access or permissions, the rule has an unauthorized target resource.
-As of Mar 15,2024, sending a log search alert to unauthorized target resources is no longer supported.</description>
-      <pubDate>Tue, 13 Feb 2024 18:00:45 Z</pubDate>
-      <atom:content
-        type="text">When a log search alert rule is configured with a target resource for which the alert process does not have access or permissions, the rule has an unauthorized target resource.
-As of Mar 15,2024, sending a log search alert to unauthorized target resources is no longer supported.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2319,6 +2304,17 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:47 Z</pubDate>
       <atom:content
         type="text">The November 2022 Feature Wave for Azure SQL Managed Instance is now available for all subscription types for instances running in new subnets. It includes faster provisioning, zone redundancy, start/stop and support for distributed transactions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-always-encrypted-with-virtualizationbased-security-vbs-enclaves/</link>
+      <title>General availability: Azure SQL Database Always Encrypted with virtualization-based security (VBS) enclaves </title>
+      <description>VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </description>
+      <pubDate>Wed, 15 Nov 2023 17:01:46 Z</pubDate>
+      <atom:content
+        type="text">VBS enclaves in Azure SQL Database brings the benefits of secure enclaves, rich confidential queries, and in-place cryptographic operations, to all Azure SQL Database offerings, independent from the underlying hardware. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
