@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 20 Feb 2024 20:14:21 Z",
+      "lastBuildDate": "Tue, 20 Feb 2024 21:11:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -52,6 +52,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-configascode-customizations-in-microsoft-dev-box"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/",
+          "title": "Public preview: Configuration-as-code customizations in Microsoft Dev Box",
+          "description": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.",
+          "pubDate": "Tue, 20 Feb 2024 18:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies."
           },
           "content:encoded": null
         },
@@ -3120,21 +3135,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Managed online disaster recovery between SQL Server 2022 and Azure SQL Managed Instance allows near real-time database replication and bidirectional online failover to Azure and back."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-november-2022-feature-wave-for-azure-sql-managed-instance"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-november-2022-feature-wave-for-azure-sql-managed-instance/",
-          "title": "General Availability: November 2022 Feature Wave for Azure SQL Managed Instance",
-          "description": "The November 2022 Feature Wave for Azure SQL Managed Instance is now available for all subscription types for instances running in new subnets. It includes faster provisioning, zone redundancy, start/stop and support for distributed transactions.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:47 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The November 2022 Feature Wave for Azure SQL Managed Instance is now available for all subscription types for instances running in new subnets. It includes faster provisioning, zone redundancy, start/stop and support for distributed transactions."
           },
           "content:encoded": null
         }
