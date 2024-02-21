@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 21 Feb 2024 21:11:18 Z",
+      "lastBuildDate": "Wed, 21 Feb 2024 22:12:04 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported/",
+          "category": "alerts",
+          "title": "Sending a log search alert with cross tenant target resource will no longer be supported",
+          "description": "As of March 15, 2024, this behavior will change and sending a log search alert with a cross tenant target resource (except for the lighthouse case) will no longer be supported. Alerts will not be sent to unauthorized target resources, and log search alert rules with an unauthorized target will be ignored. This will ensure that only authorized users can receive and investigate log search alerts.",
+          "pubDate": "Wed, 21 Feb 2024 21:11:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "As of March 15, 2024, this behavior will change and sending a log search alert with a cross tenant target resource (except for the lighthouse case) will no longer be supported. Alerts will not be sent to unauthorized target resources, and log search alert rules with an unauthorized target will be ignored. This will ensure that only authorized users can receive and investigate log search alerts."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3112,21 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Today, we are excited to announce the Azure AI Advantage customer offer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "confidential-vms-with-intel-tdx-dcesv5-ecesv5-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/confidential-vms-with-intel-tdx-dcesv5-ecesv5-public-preview/",
-          "title": "Announcing the public preview of Azure confidential VMs with Intel TDX",
-          "description": "Microsoft is excited to announce the public preview of DCesv5 and ECesv5-series confidential VMs. These VMs are powered by 4th Generation Intel® Xeon® Scalable processors with Intel® Trust Domain Extensions (TDX). They enable organizations to bring confidential workloads to the cloud without code changes to applications and will be available starting December 1st.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:48 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft is excited to announce the public preview of DCesv5 and ECesv5-series confidential VMs. These VMs are powered by 4th Generation Intel® Xeon® Scalable processors with Intel® Trust Domain Extensions (TDX). They enable organizations to bring confidential workloads to the cloud without code changes to applications and will be available starting December 1st."
           },
           "content:encoded": null
         }

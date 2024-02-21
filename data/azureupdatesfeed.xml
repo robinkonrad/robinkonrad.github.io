@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Feb 2024 21:11:18 Z</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 22:12:04 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported</guid>
+      <link>https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported/</link>
+      <category>alerts</category>
+      <title>Sending a log search alert with cross tenant target resource will no longer be supported</title>
+      <description>As of March 15, 2024, this behavior will change and sending a log search alert with a cross tenant target resource (except for the lighthouse case) will no longer be supported. Alerts will not be sent to unauthorized target resources, and log search alert rules with an unauthorized target will be ignored. This will ensure that only authorized users can receive and investigate log search alerts.</description>
+      <pubDate>Wed, 21 Feb 2024 21:11:28 Z</pubDate>
+      <atom:content
+        type="text">As of March 15, 2024, this behavior will change and sending a log search alert with a cross tenant target resource (except for the lighthouse case) will no longer be supported. Alerts will not be sent to unauthorized target resources, and log search alert rules with an unauthorized target will be ignored. This will ensure that only authorized users can receive and investigate log search alerts.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-edit-network-features-for-azure-netapp-files</guid>
@@ -2305,17 +2317,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:48 Z</pubDate>
       <atom:content
         type="text">Today, we are excited to announce the Azure AI Advantage customer offer.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">confidential-vms-with-intel-tdx-dcesv5-ecesv5-public-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/confidential-vms-with-intel-tdx-dcesv5-ecesv5-public-preview/</link>
-      <title>Announcing the public preview of Azure confidential VMs with Intel TDX</title>
-      <description>Microsoft is excited to announce the public preview of DCesv5 and ECesv5-series confidential VMs. These VMs are powered by 4th Generation Intel® Xeon® Scalable processors with Intel® Trust Domain Extensions (TDX). They enable organizations to bring confidential workloads to the cloud without code changes to applications and will be available starting December 1st.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:48 Z</pubDate>
-      <atom:content
-        type="text">Microsoft is excited to announce the public preview of DCesv5 and ECesv5-series confidential VMs. These VMs are powered by 4th Generation Intel® Xeon® Scalable processors with Intel® Trust Domain Extensions (TDX). They enable organizations to bring confidential workloads to the cloud without code changes to applications and will be available starting December 1st.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
