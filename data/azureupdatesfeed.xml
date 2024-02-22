@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2024 20:13:11 Z</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 21:11:15 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -25,6 +25,32 @@
     </item>
     <item>
       <guid
+        isPermaLink="false">update-kusto-db</guid>
+      <link>https://azure.microsoft.com/en-us/updates/update-kusto-db/</link>
+      <category>adx</category>
+      <category>data-explorer</category>
+      <category>kusto</category>
+      <title>Update records in a Kusto Database (public preview)</title>
+      <description>The new .update command allows you to update records (rows) in a Kusto Database (either in Azure Data Explorer or in Fabric KQL Database).  This is a new tool to help you build great data pipeline!</description>
+      <pubDate>Tue, 20 Feb 2024 20:00:22 Z</pubDate>
+      <atom:content
+        type="text">The new .update command allows you to update records (rows) in a Kusto Database (either in Azure Data Explorer or in Fabric KQL Database).  This is a new tool to help you build great data pipeline!</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-regional-disaster-recovery-by-azure-backup-for-aks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-regional-disaster-recovery-by-azure-backup-for-aks/</link>
+      <category>Azure Portal</category>
+      <title>Public Preview: Regional Disaster Recovery by Azure Backup for AKS</title>
+      <description>Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </description>
+      <pubDate>Tue, 20 Feb 2024 20:00:21 Z</pubDate>
+      <atom:content
+        type="text">Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">general-availability-edit-network-features-for-azure-netapp-files</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-edit-network-features-for-azure-netapp-files/</link>
       <title>General Availability: Azure NetApp Files Standard Network Features - Edit Volumes</title>
@@ -39,10 +65,10 @@
         isPermaLink="false">public-preview-configascode-customizations-in-microsoft-dev-box</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/</link>
       <title>Public preview: Configuration-as-code customizations in Microsoft Dev Box </title>
-      <description>Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.  </description>
+      <description>Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.</description>
       <pubDate>Tue, 20 Feb 2024 18:00:21 Z</pubDate>
       <atom:content
-        type="text">Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.  </atom:content>
+        type="text">Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2295,28 +2321,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
       <atom:content
         type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-machine-learning-general-availability-for-november</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-november/</link>
-      <title>Azure Machine Learning  - General Availability for November </title>
-      <description>Five features now available in GA enable you to search thousands of OSS LLMs, provide a feature set specification and let the system handle the rest, and lower. compute management overhead and setup costs. You can also now deploy complex compute graphs under batch endpoints, and use one platform to build, tune, evaluate, deploy, and test AI workflows.  </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:49 Z</pubDate>
-      <atom:content
-        type="text">Five features now available in GA enable you to search thousands of OSS LLMs, provide a feature set specification and let the system handle the rest, and lower. compute management overhead and setup costs. You can also now deploy complex compute graphs under batch endpoints, and use one platform to build, tune, evaluate, deploy, and test AI workflows.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-ai-advantage-for-azure-cosmos-db</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-ai-advantage-for-azure-cosmos-db/</link>
-      <title>General availability: Azure AI Advantage for Azure Cosmos DB</title>
-      <description>Today, we are excited to announce the Azure AI Advantage customer offer.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:48 Z</pubDate>
-      <atom:content
-        type="text">Today, we are excited to announce the Azure AI Advantage customer offer.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
