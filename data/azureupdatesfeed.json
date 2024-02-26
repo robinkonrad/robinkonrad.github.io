@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 26 Feb 2024 19:10:34 Z",
+      "lastBuildDate": "Mon, 26 Feb 2024 20:13:50 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/",
+          "category": "API Management",
+          "title": "GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity",
+          "description": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools.",
+          "pubDate": "Mon, 26 Feb 2024 20:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1022,21 +1038,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -1047,6 +1048,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -3119,21 +3135,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Trusted launch is now enabled by default for VMs deployed through PowerShell and CLI, enhancing the foundational security of these VMs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-red-hat-enterprise-linux-rhel-93-support-for-amdbased-confidential-vms"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-red-hat-enterprise-linux-rhel-93-support-for-amdbased-confidential-vms/",
-          "title": "Public Preview: Red Hat Enterprise Linux (RHEL) 9.3 support for AMD-based confidential VMs",
-          "description": "RHEL 9.3 is now available in public preview as the guest OS for all AMD-based confidential VMs.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "RHEL 9.3 is now available in public preview as the guest OS for all AMD-based confidential VMs."
           },
           "content:encoded": null
         }
