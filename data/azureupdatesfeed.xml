@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Feb 2024 16:16:34 Z</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 17:12:06 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">kusto-tds-nbcrow</guid>
+      <link>https://azure.microsoft.com/en-us/updates/kusto-tds-nbcrow/</link>
+      <title>Announcing NBCROW Compression in Kusto's TDS Implementation</title>
+      <description>A new feature that reduces the data transfer for MSSQL queries on Kusto.</description>
+      <pubDate>Mon, 26 Feb 2024 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">A new feature that reduces the data transfer for MSSQL queries on Kusto.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported</guid>
@@ -2310,17 +2321,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
       <atom:content
         type="text">Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-amd-confidential-vms-in-new-regions-for-november-2023</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vms-in-new-regions-for-november-2023/</link>
-      <title>Generally Available: AMD confidential VMs in new regions for November 2023</title>
-      <description>AMD confidential VMs now in Italy North, Germany West Central, UAE North. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:50 Z</pubDate>
-      <atom:content
-        type="text">AMD confidential VMs now in Italy North, Germany West Central, UAE North. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
