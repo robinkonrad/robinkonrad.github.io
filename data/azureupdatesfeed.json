@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 26 Feb 2024 18:16:15 Z",
+      "lastBuildDate": "Mon, 26 Feb 2024 19:10:34 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "tls-tcp-proxy-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/tls-tcp-proxy-preview/",
+          "title": "Public preview: Azure Application Gateway introduces support for TLS and TCP protocols",
+          "description": "TLS and TCP protocol support now available through Azure Application Gateway.",
+          "pubDate": "Mon, 26 Feb 2024 18:33:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "TLS and TCP protocol support now available through Azure Application Gateway."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3119,21 +3134,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "RHEL 9.3 is now available in public preview as the guest OS for all AMD-based confidential VMs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-machine-learning-public-preview-for-november"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-november/",
-          "title": "Azure Machine Learning  - Public Preview for November",
-          "description": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:50 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Three features now available in public preview enable you to choose which models/datasets are right for you without having to run any job, seamlessly read/write data from a Fabric datastore; and Model-as-a-Service with inference APIs and hosted fine-tuning."
           },
           "content:encoded": null
         }
