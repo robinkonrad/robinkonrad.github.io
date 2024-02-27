@@ -12,89 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 27 Feb 2024 21:11:03 Z",
+      "lastBuildDate": "Tue, 27 Feb 2024 22:14:22 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-application-gateway-for-containers"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-for-containers/",
-          "title": "General availability: Application Gateway for Containers",
-          "description": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements.",
-          "pubDate": "Tue, 27 Feb 2024 20:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "replicate-added-vmware-disks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/replicate-added-vmware-disks/",
-          "title": "Enable replication for added VMware VM data disks",
-          "description": "Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery.",
-          "pubDate": "Tue, 27 Feb 2024 20:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/",
-          "category": "API Management",
-          "title": "GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity",
-          "description": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools.",
-          "pubDate": "Mon, 26 Feb 2024 20:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "tls-tcp-proxy-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/tls-tcp-proxy-preview/",
-          "title": "Public preview: Azure Application Gateway introduces support for TLS and TCP protocols",
-          "description": "TLS and TCP protocol support now available through Azure Application Gateway.",
-          "pubDate": "Mon, 26 Feb 2024 18:33:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "TLS and TCP protocol support now available through Azure Application Gateway."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "kusto-tds-nbcrow"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/kusto-tds-nbcrow/",
-          "title": "Announcing NBCROW Compression in Kusto's TDS Implementation",
-          "description": "A new feature that reduces the data transfer for MSSQL queries on Kusto.",
-          "pubDate": "Mon, 26 Feb 2024 17:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "A new feature that reduces the data transfer for MSSQL queries on Kusto."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -140,7 +64,7 @@
           "category": "Azure Portal",
           "title": "Public Preview: Regional Disaster Recovery by Azure Backup for AKS",
           "description": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario.",
-          "pubDate": "Tue, 20 Feb 2024 20:00:21 Z",
+          "pubDate": "Tue, 20 Feb 2024 20:00:22 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
@@ -169,11 +93,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/",
           "title": "Public preview: Configuration-as-code customizations in Microsoft Dev Box",
-          "description": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.",
-          "pubDate": "Tue, 20 Feb 2024 18:00:21 Z",
+          "description": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.",
+          "pubDate": "Tue, 20 Feb 2024 18:00:20 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies."
+            "#text": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies."
           },
           "content:encoded": null
         },
@@ -422,6 +346,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks/",
+          "title": "General Availability: Application consistent restore points supports Premium SSD v2 and Ultra Disks",
+          "description": "Application consistent restore points supports Premium SSD v2 and Ultra Disks.",
+          "pubDate": "Tue, 06 Feb 2024 18:30:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application consistent restore points supports Premium SSD v2 and Ultra Disks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions/",
@@ -596,6 +535,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Machine Learning model monitoring is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/",
+          "title": "Public Preview: Azure Monitor introduces Prometheus community recommended alerts",
+          "description": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.",
+          "pubDate": "Wed, 31 Jan 2024 20:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters."
           },
           "content:encoded": null
         },
@@ -810,7 +764,7 @@
             "#text": "generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
-          "title": "Public preview: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
+          "title": "Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
           "description": "You will see AKS reserve up to 20% less memorry on nodes.",
           "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
           "atom:content": {
@@ -933,7 +887,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-italy-north-region-added-to-azure-hdinsight/",
           "title": "General availability: Italy North region added to Azure HDInsight",
           "description": ".",
-          "pubDate": "Tue, 30 Jan 2024 23:00:11 Z",
+          "pubDate": "Tue, 30 Jan 2024 23:00:10 Z",
           "atom:content": {
             "@type": "text",
             "#text": "."
@@ -1068,21 +1022,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -1093,6 +1032,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -1263,15 +1217,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-mysql-import-feature-for-azure-database-for-mysql-single-to-flexible-server-migrations"
+            "#text": "general-availability-azure-database-for-mysql-import-feature"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-mysql-import-feature-for-azure-database-for-mysql-single-to-flexible-server-migrations/",
-          "title": "General Availability: Azure MySQL Import feature for Azure Database for MySQL Single to Flexible Server migrations",
-          "description": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure MySQL Import.",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-import-feature/",
+          "title": "General Availability: Azure Database for MySQL Import feature for Azure Database for MySQL Single to Flexible Server migrations",
+          "description": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure Database for MySQL Import.",
           "pubDate": "Wed, 17 Jan 2024 17:00:32 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure MySQL Import."
+            "#text": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure Database for MySQL Import."
           },
           "content:encoded": null
         },
@@ -1482,7 +1436,7 @@
           "category": "Azure Spring Apps",
           "title": "Azure Spring Apps Enterprise is now eligible for Azure savings plan for compute",
           "description": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise.",
-          "pubDate": "Thu, 04 Jan 2024 17:00:39 Z",
+          "pubDate": "Thu, 04 Jan 2024 17:00:40 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise."
@@ -1557,7 +1511,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/changetrackingwithla-retirement-31august2024/",
           "title": "Change tracking and inventory with Log Analytics agent in Azure Automation will be retired on 31 August 2024",
           "description": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired.",
-          "pubDate": "Sat, 23 Dec 2023 00:00:03 Z",
+          "pubDate": "Sat, 23 Dec 2023 00:00:04 Z",
           "atom:content": {
             "@type": "text",
             "#text": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired."
@@ -1797,7 +1751,7 @@
           ],
           "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
           "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:39 Z",
+          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
@@ -1838,21 +1792,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-node-autoprovision-support-in-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
@@ -1862,6 +1801,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
           },
           "content:encoded": null
         },
@@ -2721,7 +2675,7 @@
           "category": "Azure API Management",
           "title": "General Availability of Application Insights Enhancements for Azure Logic Apps (standard)",
           "description": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:37 Z",
+          "pubDate": "Wed, 15 Nov 2023 19:00:36 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We are also excited to announce the general availability of Application Insights Enhancements for Azure Logic Apps (standard). This new capability gives you a simplified experience for discovering insights about your Logic App workflows and more control over filtering events at the source and reducing your storage costs."
@@ -2795,21 +2749,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "ga-ultra-disk-performance-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-ultra-disk-performance-updates/",
-          "title": "GA: Ultra Disk performance updates",
-          "description": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
@@ -2843,7 +2782,7 @@
             "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
           },
           "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
+          "title": "Azure Functions brings new flexibility with scale, VNet and long execution time",
           "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
           "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
           "atom:content": {
@@ -3036,6 +2975,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "erlocations-112023"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/erlocations-112023/",
+          "title": "General availability: Additional Azure ExpressRoute peering locations",
+          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider or a direct connection with ExpressRoute Direct. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-amd-confidential-vm-option-for-azure-databricks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-amd-confidential-vm-option-for-azure-databricks/",
@@ -3135,6 +3089,51 @@
           "atom:content": {
             "@type": "text",
             "#text": "Storage customers will now be able to use a marketplace application to connect their immutable blobs with enhanced integrity protection from Azure confidential ledger. Signatures from blobs will be stored and validated, as needed. In addition, the Azure confidential ledger portal experience has been enhanced to allow exploring transactions and retrieving cryptographic proof."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-disk-integrity-tool-for-confidential-vms-in-azure"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-disk-integrity-tool-for-confidential-vms-in-azure/",
+          "title": "Preview: Disk Integrity Tool for confidential VMs in Azure",
+          "description": "The disk integrity tool for confidential VMs is now in preview. This enables you to measure and attest that your OS disk is launched as expected.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:52 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The disk integrity tool for confidential VMs is now in preview. This enables you to measure and attest that your OS disk is launched as expected."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-trusted-launch-as-default-for-vms-deployed-through-powershell-and-cli"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-as-default-for-vms-deployed-through-powershell-and-cli/",
+          "title": "Generally Available: Trusted launch as default for VMs deployed through PowerShell and CLI",
+          "description": "Trusted launch is now enabled by default for VMs deployed through PowerShell and CLI, enhancing the foundational security of these VMs.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:52 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Trusted launch is now enabled by default for VMs deployed through PowerShell and CLI, enhancing the foundational security of these VMs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-red-hat-enterprise-linux-rhel-93-support-for-amdbased-confidential-vms"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-red-hat-enterprise-linux-rhel-93-support-for-amdbased-confidential-vms/",
+          "title": "Public Preview: Red Hat Enterprise Linux (RHEL) 9.3 support for AMD-based confidential VMs",
+          "description": "RHEL 9.3 is now available in public preview as the guest OS for all AMD-based confidential VMs.",
+          "pubDate": "Wed, 15 Nov 2023 17:01:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "RHEL 9.3 is now available in public preview as the guest OS for all AMD-based confidential VMs."
           },
           "content:encoded": null
         }
