@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 27 Feb 2024 19:10:52 Z",
+      "lastBuildDate": "Tue, 27 Feb 2024 20:13:18 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-application-gateway-for-containers"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-for-containers/",
+          "title": "General availability: Application Gateway for Containers",
+          "description": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements.",
+          "pubDate": "Tue, 27 Feb 2024 20:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "replicate-added-vmware-disks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/replicate-added-vmware-disks/",
+          "title": "Enable replication for added VMware VM data disks",
+          "description": "Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery.",
+          "pubDate": "Tue, 27 Feb 2024 20:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,36 +3135,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Storage customers will now be able to use a marketplace application to connect their immutable blobs with enhanced integrity protection from Azure confidential ledger. Signatures from blobs will be stored and validated, as needed. In addition, the Azure confidential ledger portal experience has been enhanced to allow exploring transactions and retrieving cryptographic proof."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-disk-integrity-tool-for-confidential-vms-in-azure"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-disk-integrity-tool-for-confidential-vms-in-azure/",
-          "title": "Preview: Disk Integrity Tool for confidential VMs in Azure",
-          "description": "The disk integrity tool for confidential VMs is now in preview. This enables you to measure and attest that your OS disk is launched as expected.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:52 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The disk integrity tool for confidential VMs is now in preview. This enables you to measure and attest that your OS disk is launched as expected."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-trusted-launch-as-default-for-vms-deployed-through-powershell-and-cli"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-as-default-for-vms-deployed-through-powershell-and-cli/",
-          "title": "Generally Available: Trusted launch as default for VMs deployed through PowerShell and CLI",
-          "description": "Trusted launch is now enabled by default for VMs deployed through PowerShell and CLI, enhancing the foundational security of these VMs.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:52 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Trusted launch is now enabled by default for VMs deployed through PowerShell and CLI, enhancing the foundational security of these VMs."
           },
           "content:encoded": null
         }

@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Feb 2024 19:10:52 Z</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2024 20:13:18 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-application-gateway-for-containers</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-for-containers/</link>
+      <title>General availability: Application Gateway for Containers</title>
+      <description>Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements.</description>
+      <pubDate>Tue, 27 Feb 2024 20:00:06 Z</pubDate>
+      <atom:content
+        type="text">Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">replicate-added-vmware-disks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/replicate-added-vmware-disks/</link>
+      <title>Enable replication for added VMware VM data disks</title>
+      <description>Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery.</description>
+      <pubDate>Tue, 27 Feb 2024 20:00:05 Z</pubDate>
+      <atom:content
+        type="text">Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity</guid>
@@ -2300,28 +2322,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:53 Z</pubDate>
       <atom:content
         type="text">Storage customers will now be able to use a marketplace application to connect their immutable blobs with enhanced integrity protection from Azure confidential ledger. Signatures from blobs will be stored and validated, as needed. In addition, the Azure confidential ledger portal experience has been enhanced to allow exploring transactions and retrieving cryptographic proof.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">preview-disk-integrity-tool-for-confidential-vms-in-azure</guid>
-      <link>https://azure.microsoft.com/en-us/updates/preview-disk-integrity-tool-for-confidential-vms-in-azure/</link>
-      <title>Preview: Disk Integrity Tool for confidential VMs in Azure  </title>
-      <description>The disk integrity tool for confidential VMs is now in preview. This enables you to measure and attest that your OS disk is launched as expected.  </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:52 Z</pubDate>
-      <atom:content
-        type="text">The disk integrity tool for confidential VMs is now in preview. This enables you to measure and attest that your OS disk is launched as expected.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-trusted-launch-as-default-for-vms-deployed-through-powershell-and-cli</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-as-default-for-vms-deployed-through-powershell-and-cli/</link>
-      <title>Generally Available: Trusted launch as default for VMs deployed through PowerShell and CLI </title>
-      <description>Trusted launch is now enabled by default for VMs deployed through PowerShell and CLI, enhancing the foundational security of these VMs. </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:52 Z</pubDate>
-      <atom:content
-        type="text">Trusted launch is now enabled by default for VMs deployed through PowerShell and CLI, enhancing the foundational security of these VMs. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
