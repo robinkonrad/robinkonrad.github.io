@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 28 Feb 2024 19:12:53 Z",
+      "lastBuildDate": "Wed, 28 Feb 2024 20:14:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/",
+          "title": "Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs",
+          "description": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub.",
+          "pubDate": "Wed, 28 Feb 2024 20:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3119,21 +3134,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use and customize policies that provide high value resiliency capabilities and apply them to your Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dedicated-gpu-workload-profiles"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dedicated-gpu-workload-profiles/",
-          "title": "Public preview: Dedicated GPU workload profiles",
-          "description": "You can now run GPU-enabled workloads in Azure Container Apps.",
-          "pubDate": "Wed, 15 Nov 2023 18:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now run GPU-enabled workloads in Azure Container Apps."
           },
           "content:encoded": null
         }
