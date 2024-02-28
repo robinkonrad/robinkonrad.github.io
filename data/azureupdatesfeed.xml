@@ -6,11 +6,55 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 16:16:33 Z</lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 17:12:13 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-latefebruary-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latefebruary-2024/</link>
+      <title>Public Preview: Azure SQL updates for late-February 2024 </title>
+      <description>Public preview enhancements and updates released for Azure SQL in late-February 2024. </description>
+      <pubDate>Wed, 28 Feb 2024 17:00:35 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in late-February 2024. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/</link>
+      <title>General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server </title>
+      <description>Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22   </description>
+      <pubDate>Wed, 28 Feb 2024 17:00:29 Z</pubDate>
+      <atom:content
+        type="text">Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22   </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql/</link>
+      <title>General availability: Azure SDKs support for Azure Cosmos DB for PostgreSQL</title>
+      <description>Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters.</description>
+      <pubDate>Wed, 28 Feb 2024 17:00:23 Z</pubDate>
+      <atom:content
+        type="text">Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql/</link>
+      <title>General availability: Azure CLI support for Azure Cosmos DB for PostgreSQL</title>
+      <description>You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute.</description>
+      <pubDate>Wed, 28 Feb 2024 17:00:09 Z</pubDate>
+      <atom:content
+        type="text">You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">general-availability-application-gateway-for-containers</guid>
@@ -31,18 +75,6 @@
       <pubDate>Tue, 27 Feb 2024 20:00:05 Z</pubDate>
       <atom:content
         type="text">Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/</link>
-      <category>API Management</category>
-      <title>GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity</title>
-      <description>The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools.  </description>
-      <pubDate>Mon, 26 Feb 2024 20:00:02 Z</pubDate>
-      <atom:content
-        type="text">The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools.  </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2289,39 +2321,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 17:01:55 Z</pubDate>
       <atom:content
         type="text">Azure confidential VMs with NVIDIA H100 Tensor Core GPUs is open for preview. Please use the sign-up at aka.ms/accgpusignup for your onboarding request.    </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-confidential-containers-on-azure-kubernetes-service-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-confidential-containers-on-azure-kubernetes-service-aks/</link>
-      <title>Public preview: Confidential containers on Azure Kubernetes Service (AKS) </title>
-      <description>AKS now lets you run individual pods in their own trusted execution environment (TEE) </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:54 Z</pubDate>
-      <atom:content
-        type="text">AKS now lets you run individual pods in their own trusted execution environment (TEE) </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-confidential-temp-disk-encryption-for-confidential-vms</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-confidential-temp-disk-encryption-for-confidential-vms/</link>
-      <title>Public preview: Confidential temp disk encryption for confidential VMs  </title>
-      <description>Confidential temp disk encryption is now available for all confidential VMs.</description>
-      <pubDate>Wed, 15 Nov 2023 17:01:54 Z</pubDate>
-      <atom:content
-        type="text">Confidential temp disk encryption is now available for all confidential VMs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-new-marketplace-app-for-storage-customers-and-feature-enhancements-to-portal-for-azure-confidential-ledger</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-new-marketplace-app-for-storage-customers-and-feature-enhancements-to-portal-for-azure-confidential-ledger/</link>
-      <title>Public Preview: New Marketplace app for Storage customers and feature enhancements to portal for Azure confidential ledger </title>
-      <description>Storage customers will now be able to use a marketplace application to connect their immutable blobs with enhanced integrity protection from Azure confidential ledger. Signatures from blobs will be stored and validated, as needed. In addition, the Azure confidential ledger portal experience has been enhanced to allow exploring transactions and retrieving cryptographic proof.   </description>
-      <pubDate>Wed, 15 Nov 2023 17:01:53 Z</pubDate>
-      <atom:content
-        type="text">Storage customers will now be able to use a marketplace application to connect their immutable blobs with enhanced integrity protection from Azure confidential ledger. Signatures from blobs will be stored and validated, as needed. In addition, the Azure confidential ledger portal experience has been enhanced to allow exploring transactions and retrieving cryptographic proof.   </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
