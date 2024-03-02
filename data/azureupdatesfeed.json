@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 01 Mar 2024 23:12:50 Z",
+      "lastBuildDate": "Sat, 02 Mar 2024 00:56:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "cloud-services-classic-retirement-announcement-feb2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-feb2024/",
+          "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
+          "description": "Cloud Services (classic) retiring in August 2024.",
+          "pubDate": "Sat, 02 Mar 2024 00:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Cloud Services (classic) retiring in August 2024."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3119,21 +3134,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now focus on your code and quickly take your application from source to cloud. There’s no need to understand containers or how to package application code for deployment."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-container-apps-landing-zone-accelerator"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-landing-zone-accelerator/",
-          "title": "Generally available: Azure Container Apps Landing Zone Accelerator",
-          "description": "You can now provision Container Apps with workload profiles securely at an enterprise scale with a landing zone.",
-          "pubDate": "Wed, 15 Nov 2023 18:00:51 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now provision Container Apps with workload profiles securely at an enterprise scale with a landing zone."
           },
           "content:encoded": null
         }
