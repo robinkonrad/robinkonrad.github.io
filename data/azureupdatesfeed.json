@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 05 Mar 2024 17:13:23 Z",
+      "lastBuildDate": "Tue, 05 Mar 2024 18:16:05 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "Public preview: Azure NetApp Files volume enhancement – allow the same file path for volumes in different availability zones",
+          "description": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness",
+          "pubDate": "Tue, 05 Mar 2024 18:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3119,21 +3139,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure IoT Operations is now in Public Preview.  Azure IoT Operations addresses an enterprise’s fundamental needs, but also wrangles edge data to generate local insights and brings interoperability and scalability to IoT solutions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-partitioned-namespaces-for-azure-service-bus-premium"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-partitioned-namespaces-for-azure-service-bus-premium/",
-          "title": "Generally available: Partitioned namespaces for Azure Service Bus Premium",
-          "description": "Partitoned namespaces for Azure Service Bus, allowing the use of partitioning for the premium messaging tier, is now generally available.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Partitoned namespaces for Azure Service Bus, allowing the use of partitioning for the premium messaging tier, is now generally available."
           },
           "content:encoded": null
         }
