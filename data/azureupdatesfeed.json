@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 06 Mar 2024 17:12:20 Z",
+      "lastBuildDate": "Wed, 06 Mar 2024 18:17:11 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-functions-support-for-nodejs-20"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-nodejs-20/",
+          "title": "Generally available: Azure Functions Support for Node.js 20",
+          "description": "Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows.",
+          "pubDate": "Wed, 06 Mar 2024 18:00:27 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3123,22 +3138,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azureiotoperationspreview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azureiotoperationspreview/",
-          "category": "azure IoT",
-          "title": "Public Preview: Azure IoT Operations",
-          "description": "Azure IoT Operations is now in Public Preview.  Azure IoT Operations addresses an enterprise’s fundamental needs, but also wrangles edge data to generate local insights and brings interoperability and scalability to IoT solutions.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure IoT Operations is now in Public Preview.  Azure IoT Operations addresses an enterprise’s fundamental needs, but also wrangles edge data to generate local insights and brings interoperability and scalability to IoT solutions."
           },
           "content:encoded": null
         }
