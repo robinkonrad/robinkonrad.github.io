@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 07 Mar 2024 16:15:44 Z",
+      "lastBuildDate": "Thu, 07 Mar 2024 17:13:38 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-service-level-agreement-on-azure-blob-storage-cold-tier"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-service-level-agreement-on-azure-blob-storage-cold-tier/",
+          "title": "Generally available: Service Level Agreements on Azure Blob Storage Cold Tier",
+          "description": "Azure Blob Storage Cold Tier has published Service Level Agreements.",
+          "pubDate": "Thu, 07 Mar 2024 17:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Storage Cold Tier has published Service Level Agreements."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-virtual-network-encryption-now-in-additional-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-now-in-additional-regions/",
+          "title": "General availability: Azure Virtual Network encryption now in additional regions",
+          "description": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions.",
+          "pubDate": "Thu, 07 Mar 2024 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1378,6 +1408,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -1388,21 +1433,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -3114,36 +3144,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Ultra Disk Storage now provides maximum throughput of up to 10 GBps and IOPS of up to 400K IOPS per disk."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-stateful-entities-in-durable-functions-on-the-isolated-worker-model-for-net/",
-          "title": "GA: Stateful entities in Durable Functions on the isolated worker model for .NET",
-          "description": "The stateful entities feature for Durable Functions is now available for .NET apps on the isolated worker model.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The stateful entities feature for Durable Functions is now available for .NET apps on the isolated worker model."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-container-storage-is-now-available-with-azure-linux-container-host"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-container-storage-is-now-available-with-azure-linux-container-host/",
-          "title": "Azure Container Storage is now available with Azure Linux container host",
-          "description": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest update, you can deploy Azure Container Storage on Azure Linux container host.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest update, you can deploy Azure Container Storage on Azure Linux container host."
           },
           "content:encoded": null
         }
