@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 07 Mar 2024 18:16:26 Z",
+      "lastBuildDate": "Thu, 07 Mar 2024 19:09:51 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-backup-and-restore-over-azure-virtual-network-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-backup-and-restore-over-azure-virtual-network-2/",
+          "title": "General Availability: App Service Backup and Restore over Azure Virtual Network",
+          "description": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.",
+          "pubDate": "Thu, 07 Mar 2024 19:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3125,21 +3140,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Azure confidential ledger Basic SKU gated preview will allow select customers using other Azure products to uplevel integrity protection by storing periodic data, blobs, and application signatures in Azure confidential ledger."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-chaos-studio-is-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-chaos-studio-is-now-generally-available/",
-          "title": "Azure Chaos Studio is now generally available",
-          "description": "The general availability of Azure Chaos Studios provides a fully managed experimentation platform for discovering challenging issues through experiment templates, dynamic targets and a more guided user interface.",
-          "pubDate": "Wed, 15 Nov 2023 17:01:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The general availability of Azure Chaos Studios provides a fully managed experimentation platform for discovering challenging issues through experiment templates, dynamic targets and a more guided user interface."
           },
           "content:encoded": null
         }
