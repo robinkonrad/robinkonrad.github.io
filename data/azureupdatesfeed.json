@@ -12,13 +12,34 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 07 Mar 2024 15:13:13 Z",
+      "lastBuildDate": "Thu, 07 Mar 2024 16:15:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-change-actor"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-change-actor/",
+          "category": [
+            "Azure Resource Graph",
+            "Azure Resource Manager",
+            "Management",
+            "Features"
+          ],
+          "title": "Public preview: Change Actor",
+          "description": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions.",
+          "pubDate": "Thu, 07 Mar 2024 16:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1357,21 +1378,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -1382,6 +1388,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -3123,21 +3144,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Storage (in preview) offers volume management built natively for containers. With the latest update, you can deploy Azure Container Storage on Azure Linux container host."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "register-for-access-to-upcoming-azure-functions-flex-consumption"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/register-for-access-to-upcoming-azure-functions-flex-consumption/",
-          "title": "Azure Functions brings new flexibility with unlimited execution time",
-          "description": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now request for access to try out Flex Consumption, a new Azure Functions hosting plan that provides fast scaling and networking features with a serverless billing model."
           },
           "content:encoded": null
         }
