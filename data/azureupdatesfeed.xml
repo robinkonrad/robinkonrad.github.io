@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Mar 2024 22:12:14 Z</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 23:15:01 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,17 @@
       <pubDate>Thu, 07 Mar 2024 19:00:42 Z</pubDate>
       <atom:content
         type="text">Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-functions-support-for-nodejs-20</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-nodejs-20/</link>
+      <title>Generally available: Azure Functions Support for Node.js 20</title>
+      <description>Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows.</description>
+      <pubDate>Wed, 06 Mar 2024 18:00:27 Z</pubDate>
+      <atom:content
+        type="text">Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -89,6 +100,17 @@
       <pubDate>Thu, 29 Feb 2024 18:00:01 Z</pubDate>
       <atom:content
         type="text">Encryption at host for Premium SSD v2 and Ultra Disks is now available in Canada East, West Europe, South Central US and West US 3.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-istiobased-service-mesh-addon-for-azure-kubernetes-service</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-istiobased-service-mesh-addon-for-azure-kubernetes-service/</link>
+      <title>GA: Istio-based service mesh add-on for Azure Kubernetes Service</title>
+      <description>You can deploy an officially supported Istio addon for AKS</description>
+      <pubDate>Wed, 28 Feb 2024 18:00:25 Z</pubDate>
+      <atom:content
+        type="text">You can deploy an officially supported Istio addon for AKS</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2303,28 +2325,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 15 Nov 2023 18:00:22 Z</pubDate>
       <atom:content
         type="text">You can now more easily deploy machine learning (ML) models on AKS using the Kubernetes AI toolchain operator.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-azure-kubernetes-fleet-manager</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-azure-kubernetes-fleet-manager/</link>
-      <title>GA: Azure Kubernetes Fleet Manager </title>
-      <description>Azure Kubernetes Fleet Manager is now generally available and offers an update orchestration feature so you can create an update strategy once and reference it in multiple update runs. </description>
-      <pubDate>Wed, 15 Nov 2023 18:00:11 Z</pubDate>
-      <atom:content
-        type="text">Azure Kubernetes Fleet Manager is now generally available and offers an update orchestration feature so you can create an update strategy once and reference it in multiple update runs. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">preview-new-basic-sku-functionality-for-azure-confidential-ledger</guid>
-      <link>https://azure.microsoft.com/en-us/updates/preview-new-basic-sku-functionality-for-azure-confidential-ledger/</link>
-      <title>Preview: New Basic SKU functionality for Azure confidential ledger </title>
-      <description>The Azure confidential ledger Basic SKU gated preview will allow select customers using other Azure products to uplevel integrity protection by storing periodic data, blobs, and application signatures in Azure confidential ledger. </description>
-      <pubDate>Wed, 15 Nov 2023 17:02:01 Z</pubDate>
-      <atom:content
-        type="text">The Azure confidential ledger Basic SKU gated preview will allow select customers using other Azure products to uplevel integrity protection by storing periodic data, blobs, and application signatures in Azure confidential ledger. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
