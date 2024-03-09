@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Sat, 09 Mar 2024 10:14:15 Z",
+      "lastBuildDate": "Sat, 09 Mar 2024 11:12:30 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,57 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-service-level-agreement-on-azure-blob-storage-cold-tier"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-service-level-agreement-on-azure-blob-storage-cold-tier/",
+          "title": "Generally available: Service Level Agreements on Azure Blob Storage Cold Tier",
+          "description": "Azure Blob Storage Cold Tier has published Service Level Agreements.",
+          "pubDate": "Thu, 07 Mar 2024 17:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Storage Cold Tier has published Service Level Agreements."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-virtual-network-encryption-now-in-additional-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-now-in-additional-regions/",
+          "title": "General availability: Azure Virtual Network encryption now in additional regions",
+          "description": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions.",
+          "pubDate": "Thu, 07 Mar 2024 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-change-actor"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-change-actor/",
+          "category": [
+            "Azure Resource Graph",
+            "Azure Resource Manager",
+            "Management",
+            "Features"
+          ],
+          "title": "Public preview: Change Actor",
+          "description": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions.",
+          "pubDate": "Thu, 07 Mar 2024 16:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions."
           },
           "content:encoded": null
         },
@@ -3095,51 +3146,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now provision Container Apps with workload profiles securely at an enterprise scale with a landing zone."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-policydriven-resiliency-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-policydriven-resiliency-in-azure-container-apps/",
-          "title": "Public preview: Policy-driven resiliency in Azure Container Apps",
-          "description": "You can now use and customize policies that provide high value resiliency capabilities and apply them to your Container Apps.",
-          "pubDate": "Wed, 15 Nov 2023 18:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use and customize policies that provide high value resiliency capabilities and apply them to your Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-dedicated-gpu-workload-profiles"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dedicated-gpu-workload-profiles/",
-          "title": "Public preview: Dedicated GPU workload profiles",
-          "description": "You can now run GPU-enabled workloads in Azure Container Apps.",
-          "pubDate": "Wed, 15 Nov 2023 18:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now run GPU-enabled workloads in Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "preview-ai-toolchain-operator-addon-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/preview-ai-toolchain-operator-addon-for-aks/",
-          "title": "Kubernetes AI toolchain operator",
-          "description": "You can now more easily deploy machine learning (ML) models on AKS using the Kubernetes AI toolchain operator.",
-          "pubDate": "Wed, 15 Nov 2023 18:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now more easily deploy machine learning (ML) models on AKS using the Kubernetes AI toolchain operator."
           },
           "content:encoded": null
         }
