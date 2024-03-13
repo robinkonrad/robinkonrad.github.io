@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Mar 2024 08:16:20 Z",
+      "lastBuildDate": "Wed, 13 Mar 2024 09:13:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-api-center-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-api-center-updates/",
+          "category": "API Management",
+          "title": "Azure API Center Updates",
+          "description": "We are pleased to announce an update to the Azure API Center extension for Visual Studio Code, introducing new capabilities for API inventory and design. Additionally, we are unveiling a new API governance feature in API Center, enabling API linting and analysis based on customer-owned design guidelines.",
+          "pubDate": "Mon, 11 Mar 2024 16:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are pleased to announce an update to the Azure API Center extension for Visual Studio Code, introducing new capabilities for API inventory and design. Additionally, we are unveiling a new API governance feature in API Center, enabling API linting and analysis based on customer-owned design guidelines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-blob-storage-cold-tier-in-poland-central-qatar-central-and-azure-china"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-in-poland-central-qatar-central-and-azure-china/",
+          "title": "Generally available: Azure Blob Storage Cold Tier in Poland Central, Qatar Central and Azure China",
+          "description": "Azure Blob Storage Cold Tier in generally available in Poland Central, Qatar Central and Azure China.",
+          "pubDate": "Mon, 11 Mar 2024 16:00:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Storage Cold Tier in generally available in Poland Central, Qatar Central and Azure China."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3112,38 +3143,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are excited to introduce a new Azure service that provides unified experience to help customers effectively manage and monitor their integration resources. This service comprises two core components: the Azure Integration Environment and Business Process Tracking, both currently in public preview."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-logic-apps-workflow-assistant-in-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-logic-apps-workflow-assistant-in-public-preview/",
-          "category": "Azure API Management",
-          "title": "Azure Logic Apps workflow assistant in public preview",
-          "description": "Bringing the power of AI to Azure Logic Apps for the first time, this workflow assistant answers any questions you have about Azure Logic Apps from directly within the designer. Currently in public preview, this chat interface provides access to Azure Logic Apps documentation and best practices without requiring you to navigate documentation or search online forums.",
-          "pubDate": "Wed, 15 Nov 2023 19:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Bringing the power of AI to Azure Logic Apps for the first time, this workflow assistant answers any questions you have about Azure Logic Apps from directly within the designer. Currently in public preview, this chat interface provides access to Azure Logic Apps documentation and best practices without requiring you to navigate documentation or search online forums."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "publicpreviewofazurepostgresqlflexibleserverbackupwithlongtermretention"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/publicpreviewofazurepostgresqlflexibleserverbackupwithlongtermretention/",
-          "category": "Azure Database for PostgreSQL; Azure Backup",
-          "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for PostgreSQL– Flexible Server",
-          "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for PostgreSQL- Flexible server.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for PostgreSQL- Flexible server."
           },
           "content:encoded": null
         }
