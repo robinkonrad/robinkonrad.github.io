@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Mar 2024 17:19:58 Z",
+      "lastBuildDate": "Wed, 13 Mar 2024 18:15:59 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-iot-edge-supports-ubuntu-core-snaps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-iot-edge-supports-ubuntu-core-snaps/",
+          "title": "Azure IoT Edge supports Ubuntu Core Snaps",
+          "description": "We are expanding the Azure IoT Edge supported platforms to include Ubuntu Core Snaps on IoT Edge as a Tier 1 supported operating system.",
+          "pubDate": "Wed, 13 Mar 2024 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are expanding the Azure IoT Edge supported platforms to include Ubuntu Core Snaps on IoT Edge as a Tier 1 supported operating system."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "now-available-free-data-transfer-out-to-internet-when-leaving-azure"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/now-available-free-data-transfer-out-to-internet-when-leaving-azure/",
+          "title": "Now available: Free data transfer out to internet when leaving Azure",
+          "description": "Learn how to qualify for free egress when moving your data out of Azure.",
+          "pubDate": "Wed, 13 Mar 2024 17:30:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Learn how to qualify for free egress when moving your data out of Azure."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3110,38 +3140,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "delete-jobs-api-to-support-bulk-delete-in-azure-digital-twins"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/delete-jobs-api-to-support-bulk-delete-in-azure-digital-twins/",
-          "category": "Azure Digital Twins",
-          "title": "Generally available: Delete Jobs API to support bulk delete in Azure Digital Twins",
-          "description": "GA release for bulk delete support for Azure Digital Twins",
-          "pubDate": "Mon, 20 Nov 2023 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "GA release for bulk delete support for Azure Digital Twins"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services/",
-          "category": "Azure Health Data Services; FHIR service; DICOM service",
-          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
-          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
-          "pubDate": "Mon, 20 Nov 2023 16:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
           },
           "content:encoded": null
         }
