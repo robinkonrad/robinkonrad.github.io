@@ -12,13 +12,58 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Mar 2024 16:15:56 Z",
+      "lastBuildDate": "Wed, 13 Mar 2024 17:19:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-jvm-memory-fit-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-jvm-memory-fit-in-azure-container-apps/",
+          "title": "Public Preview: JVM memory fit in Azure Container Apps",
+          "description": "Java apps are now attuned to the container environment and primed for better performance and reliability by default.",
+          "pubDate": "Wed, 13 Mar 2024 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Java apps are now attuned to the container environment and primed for better performance and reliability by default."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-managed-java-components-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-managed-java-components-in-azure-container-apps/",
+          "title": "Public Preview: Managed Java components in Azure Container Apps",
+          "description": "You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties.",
+          "pubDate": "Wed, 13 Mar 2024 17:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-tomcat-support-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-tomcat-support-in-azure-container-apps/",
+          "title": "Public Preview: Tomcat support in Azure Container Apps",
+          "description": "You can now deploy a Java application using a WAR file to Azure Container Apps.",
+          "pubDate": "Wed, 13 Mar 2024 17:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now deploy a Java application using a WAR file to Azure Container Apps."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3097,51 +3142,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-fabric-capacity-reservations"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-fabric-capacity-reservations/",
-          "title": "General availability: Reservations for Microsoft Fabric",
-          "description": "You can now save up to 40.5% on Microsoft Fabric capacity when you commit to one-year reservations.",
-          "pubDate": "Thu, 16 Nov 2023 23:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now save up to 40.5% on Microsoft Fabric capacity when you commit to one-year reservations."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-red-hat-enterprise-linux-93-now-supported-on-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-red-hat-enterprise-linux-93-now-supported-on-azure-virtual-machines/",
-          "title": "Generally Available: Red Hat Enterprise Linux 9.3 now supported on Azure Virtual Machines",
-          "description": "Red Hat Enterprise Linux (RHEL) 9.3, the latest version of RHEL 9 from Red Hat is now generally available on Azure Virtual Machines (VMs). Availability of RHEL 9.3 for VMs on Azure is a step forward towards offering a more scalable, flexible Linux platform that pairs container innovation with a strong security posture.",
-          "pubDate": "Thu, 16 Nov 2023 20:08:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Red Hat Enterprise Linux (RHEL) 9.3, the latest version of RHEL 9 from Red Hat is now generally available on Azure Virtual Machines (VMs). Availability of RHEL 9.3 for VMs on Azure is a step forward towards offering a more scalable, flexible Linux platform that pairs container innovation with a strong security posture."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor/",
-          "title": "General availability: Integration of Azure Monitor Agent support with Connection Monitor",
-          "description": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations",
-          "pubDate": "Thu, 16 Nov 2023 17:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations"
           },
           "content:encoded": null
         }
