@@ -6,11 +6,26 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2024 15:13:32 Z</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 16:16:51 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-managed-service-for-prometheus-now-supports-tls-mtls-based-scraping</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-now-supports-tls-mtls-based-scraping/</link>
+      <category>azure-monitor</category>
+      <category>azure-kubernetes-service</category>
+      <category>feature</category>
+      <category>container-insights</category>
+      <title>Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping</title>
+      <description>Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.</description>
+      <pubDate>Thu, 14 Mar 2024 16:00:11 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-iot-edge-supports-ubuntu-core-snaps</guid>
@@ -2310,17 +2325,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Mon, 20 Nov 2023 17:00:02 Z</pubDate>
       <atom:content
         type="text">Use your preferred Socket.IO APIs, while letting Azure handle messages and scaling for you</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">container-insights-syslog-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/container-insights-syslog-ga/</link>
-      <title>Generally Available: Collect Syslog from AKS nodes using Azure Monitor Container Insights</title>
-      <description>The Syslog collection feature in Azure Monitor - Container Insights is generally available.</description>
-      <pubDate>Mon, 20 Nov 2023 16:00:29 Z</pubDate>
-      <atom:content
-        type="text">The Syslog collection feature in Azure Monitor - Container Insights is generally available.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
