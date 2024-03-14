@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 14 Mar 2024 17:11:52 Z",
+      "lastBuildDate": "Thu, 14 Mar 2024 18:16:12 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "billing-for-azure-monitor-stateful-log-search-alerts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/billing-for-azure-monitor-stateful-log-search-alerts/",
+          "category": "alerts",
+          "title": "Billing for Azure Monitor stateful log search alerts",
+          "description": "Starting from May 1, 2024, you will be charged for stateful log alerts in Azure Monitor.",
+          "pubDate": "Thu, 14 Mar 2024 18:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Starting from May 1, 2024, you will be charged for stateful log alerts in Azure Monitor."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3132,21 +3148,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure IoT Operations is now in Public Preview.  Azure IoT Operations addresses an enterprise’s fundamental needs, but also wrangles edge data to generate local insights and brings interoperability and scalability to IoT solutions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-partitioned-namespaces-for-azure-service-bus-premium"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-partitioned-namespaces-for-azure-service-bus-premium/",
-          "title": "Generally available: Partitioned namespaces for Azure Service Bus Premium",
-          "description": "Partitoned namespaces for Azure Service Bus, allowing the use of partitioning for the premium messaging tier, is now generally available.",
-          "pubDate": "Wed, 15 Nov 2023 18:01:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Partitoned namespaces for Azure Service Bus, allowing the use of partitioning for the premium messaging tier, is now generally available."
           },
           "content:encoded": null
         }
