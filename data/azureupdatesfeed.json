@@ -12,13 +12,58 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 15 Mar 2024 22:12:52 Z",
+      "lastBuildDate": "Fri, 15 Mar 2024 23:13:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-classic-administrator-roles-are-retiring-on-31-august-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-classic-administrator-roles-are-retiring-on-31-august-2024/",
+          "title": "Azure Classic Administrator roles are retiring on 31 August 2024",
+          "description": "On 31 August 2024, Azure classic administrator roles will be retired. Transition from Azure Classic Administrator roles to RBAC roles",
+          "pubDate": "Fri, 15 Mar 2024 23:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "On 31 August 2024, Azure classic administrator roles will be retired. Transition from Azure Classic Administrator roles to RBAC roles"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "visual-studio-app-center-retirement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/visual-studio-app-center-retirement/",
+          "title": "Visual Studio App Center retirement",
+          "description": "Visual Studio App Center is scheduled for retirement on March 31, 2025.",
+          "pubDate": "Fri, 15 Mar 2024 23:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Visual Studio App Center is scheduled for retirement on March 31, 2025."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending/",
+          "title": "Retirement: Support for Application Gateway Web Application Firewall v2 Configuration is ending",
+          "description": "On 15 March 2027, the Application Gateway WAF v2 Configuration will be retired. To continue using this service, switch to the Application Gateway WAF v2 Policy before the retirement date.",
+          "pubDate": "Fri, 15 Mar 2024 23:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "On 15 March 2027, the Application Gateway WAF v2 Configuration will be retired. To continue using this service, switch to the Application Gateway WAF v2 Policy before the retirement date."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3099,51 +3144,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now save up to 40.5% on Microsoft Fabric capacity when you commit to one-year reservations."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-red-hat-enterprise-linux-93-now-supported-on-azure-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-red-hat-enterprise-linux-93-now-supported-on-azure-virtual-machines/",
-          "title": "Generally Available: Red Hat Enterprise Linux 9.3 now supported on Azure Virtual Machines",
-          "description": "Red Hat Enterprise Linux (RHEL) 9.3, the latest version of RHEL 9 from Red Hat is now generally available on Azure Virtual Machines (VMs). Availability of RHEL 9.3 for VMs on Azure is a step forward towards offering a more scalable, flexible Linux platform that pairs container innovation with a strong security posture.",
-          "pubDate": "Thu, 16 Nov 2023 20:08:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Red Hat Enterprise Linux (RHEL) 9.3, the latest version of RHEL 9 from Red Hat is now generally available on Azure Virtual Machines (VMs). Availability of RHEL 9.3 for VMs on Azure is a step forward towards offering a more scalable, flexible Linux platform that pairs container innovation with a strong security posture."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-integration-of-azure-monitor-agent-support-with-connection-monitor/",
-          "title": "General availability: Integration of Azure Monitor Agent support with Connection Monitor",
-          "description": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations",
-          "pubDate": "Thu, 16 Nov 2023 17:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Integration of Azure Monitor Agent support in Connection Monitor for monitoring connectivity across ARC enabled endpoints as sources and destinations"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-private-subnet"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-private-subnet/",
-          "title": "Public preview: Private subnet",
-          "description": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation",
-          "pubDate": "Thu, 16 Nov 2023 16:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Private subnet is a new feature that allows you to create subnets that prevent the creation of insecure default outbound public IP address creation"
           },
           "content:encoded": null
         }
