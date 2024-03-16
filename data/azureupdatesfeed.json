@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Sat, 16 Mar 2024 07:12:13 Z",
+      "lastBuildDate": "Sat, 16 Mar 2024 08:15:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -77,6 +77,27 @@
           "atom:content": {
             "@type": "text",
             "#text": "Starting from May 1, 2024, you will be charged for stateful log alerts in Azure Monitor."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-managed-service-for-prometheus-now-supports-tls-mtls-based-scraping"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-now-supports-tls-mtls-based-scraping/",
+          "category": [
+            "azure-monitor",
+            "azure-kubernetes-service",
+            "feature",
+            "container-insights"
+          ],
+          "title": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping",
+          "description": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.",
+          "pubDate": "Thu, 14 Mar 2024 16:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
           },
           "content:encoded": null
         },
@@ -3129,21 +3150,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-fabric-capacity-reservations"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-fabric-capacity-reservations/",
-          "title": "General availability: Reservations for Microsoft Fabric",
-          "description": "You can now save up to 40.5% on Microsoft Fabric capacity when you commit to one-year reservations.",
-          "pubDate": "Thu, 16 Nov 2023 23:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now save up to 40.5% on Microsoft Fabric capacity when you commit to one-year reservations."
           },
           "content:encoded": null
         }
