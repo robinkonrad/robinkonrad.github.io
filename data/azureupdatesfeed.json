@@ -12,13 +12,47 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 18 Mar 2024 15:13:15 Z",
+      "lastBuildDate": "Mon, 18 Mar 2024 16:17:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-modeling-and-simulation-workbench"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/",
+          "title": "Public preview: Azure Modeling and Simulation Workbench",
+          "description": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams.",
+          "pubDate": "Mon, 18 Mar 2024 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-managed-service-for-prometheus-is-available-in-13-additional-azure-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-13-additional-azure-regions/",
+          "category": [
+            "Azure Monitor",
+            "Container Insights"
+          ],
+          "title": "Azure Monitor managed service for Prometheus is available in 13 additional Azure regions",
+          "description": "Azure Managed Prometheus was announced GA in May 2023 and was available in 26 regions, with this new update Azure Managed Prometheus will be available in 13 additional regions.",
+          "pubDate": "Mon, 18 Mar 2024 16:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Managed Prometheus was announced GA in May 2023 and was available in 26 regions, with this new update Azure Managed Prometheus will be available in 13 additional regions."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -564,6 +598,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can deploy an officially supported Istio addon for AKS"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/",
+          "title": "General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server",
+          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22",
+          "pubDate": "Wed, 28 Feb 2024 17:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22"
           },
           "content:encoded": null
         },
@@ -3101,54 +3150,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Syslog collection feature in Azure Monitor - Container Insights is generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "partnumbers-3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/partnumbers-3/",
-          "category": "AzurePortal",
-          "title": "Part numbers from EA invoice are now added to the cost and usage file.",
-          "description": "All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded.",
-          "pubDate": "Mon, 20 Nov 2023 16:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "partnumbers"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/partnumbers/",
-          "category": "AzurePortal",
-          "title": "Part numbers from EA invoice are now added to the cost and usage file.",
-          "description": "All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded.",
-          "pubDate": "Mon, 20 Nov 2023 16:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "All records in cost and usage file will now match the part numbers in an invoice for EA customers. This will allow leveraging the part number to match invoice and cost details data. Please note that when comparing charges, refunds for purchases done in past billing periods should be excluded."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "delete-jobs-api-to-support-bulk-delete-in-azure-digital-twins"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/delete-jobs-api-to-support-bulk-delete-in-azure-digital-twins/",
-          "category": "Azure Digital Twins",
-          "title": "Generally available: Delete Jobs API to support bulk delete in Azure Digital Twins",
-          "description": "GA release for bulk delete support for Azure Digital Twins",
-          "pubDate": "Mon, 20 Nov 2023 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "GA release for bulk delete support for Azure Digital Twins"
           },
           "content:encoded": null
         }
