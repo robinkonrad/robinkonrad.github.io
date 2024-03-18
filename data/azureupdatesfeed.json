@@ -12,13 +12,253 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 18 Mar 2024 22:12:46 Z",
+      "lastBuildDate": "Mon, 18 Mar 2024 23:13:43 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-kubernetes-ai-toolchain-operator-kaito-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-ai-toolchain-operator-kaito-addon-for-aks/",
+          "title": "Public preview: Kubernetes AI Toolchain Operator (KAITO) add-on for AKS",
+          "description": "You can now choose from preset LLMs with images hosted by AKS and split inferencing across multiple lower-GPU count VMs",
+          "pubDate": "Mon, 18 Mar 2024 23:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now choose from preset LLMs with images hosted by AKS and split inferencing across multiple lower-GPU count VMs"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-cost-analysis-addon-for-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-cost-analysis-addon-for-aks/",
+          "title": "Generally Available: Cost analysis add-on for AKS",
+          "description": "You can now better understand the infra costs associated with running applications at the namespace and cluster levels and identify opportunities to optimize resource utilization through an Azure native experience.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now better understand the infra costs associated with running applications at the namespace and cluster levels and identify opportunities to optimize resource utilization through an Azure native experience."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "opensource-fleet-workload-placement-scheduling-and-override"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/opensource-fleet-workload-placement-scheduling-and-override/",
+          "title": "Open-Source Fleet Workload Placement Scheduling and Override",
+          "description": "You can now schedule workloads in Fleet based on cost and availability of resource heuristics.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now schedule workloads in Fleet based on cost and availability of resource heuristics."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-windows-gen-2-vm-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-windows-gen-2-vm-support-in-aks/",
+          "title": "Generally Available: Windows Gen 2 VM support in AKS",
+          "description": "YOu can now use Gen 2 VM SKUs for Windows nodepools in AKS.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "YOu can now use Gen 2 VM SKUs for Windows nodepools in AKS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-windows-gpu-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-windows-gpu-support-in-aks/",
+          "title": "Public preview: Windows GPU support in AKS",
+          "description": "You can now run GPU workloads, such as machine learning, video encoding, large simulations, and gaming, on Windows nodepools in AKS.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now run GPU workloads, such as machine learning, video encoding, large simulations, and gaming, on Windows nodepools in AKS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-kubernetes-129-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubernetes-129-support-in-aks/",
+          "title": "Generally Available: Kubernetes 1.29 support in AKS",
+          "description": "You can now take advantage of Kubernetes 1.29 version with AKS in production environment.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now take advantage of Kubernetes 1.29 version with AKS in production environment."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-custom-kubelet-configuration-for-windows-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-custom-kubelet-configuration-for-windows-in-aks/",
+          "title": "Generally Available: Custom kubelet configuration for Windows in AKS",
+          "description": "You can now modify default values for kubelet parameters when using Windows nodepools in AKS.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now modify default values for kubelet parameters when using Windows nodepools in AKS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-cni-static-block-ip-allocation-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-static-block-ip-allocation-support-in-aks/",
+          "title": "Public preview: Azure CNI static block IP allocation support in AKS",
+          "description": "You can now scale beyond the current 65k Pod IPs and scale up to 1 Million Pods.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now scale beyond the current 65k Pod IPs and scale up to 1 Million Pods."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-deployment-safeguards-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-deployment-safeguards-in-aks/",
+          "title": "Public preview: Deployment safeguards in AKS",
+          "description": "You can now use deployment safeguards to implement Kubernetes best practices and get warnings on deployment or deny the deployment of manifest files that are not following best practices.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use deployment safeguards to implement Kubernetes best practices and get warnings on deployment or deny the deployment of manifest files that are not following best practices."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-cni-overlay-dual-stack-support-in-aks-linux-only"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-cni-overlay-dual-stack-support-in-aks-linux-only/",
+          "title": "Generally Available: Azure CNI overlay dual stack Support in AKS (Linux only)",
+          "description": "You can now deploy AKS clusters in dual stack mode which now enables resource connection through IPv4 or IPv6.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now deploy AKS clusters in dual stack mode which now enables resource connection through IPv4 or IPv6."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-vm-ip-based-load-balancer-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-vm-ip-based-load-balancer-in-aks/",
+          "title": "Generally Available: VM IP based load balancer in AKS",
+          "description": "You can now choose IP-based backend pool membership for new or existing clusters in AKS.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now choose IP-based backend pool membership for new or existing clusters in AKS."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-host-network-security-group-nsg-control-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-host-network-security-group-nsg-control-in-aks/",
+          "title": "Generally Available: Host Network Security Group (NSG) control in AKS",
+          "description": "You can now directly configure allowed ports in your nodepool settings.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now directly configure allowed ports in your nodepool settings."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-hostport-auto-assign-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-hostport-auto-assign-in-aks/",
+          "title": "Generally Available: HostPort auto assign in AKS",
+          "description": "AKS now lets you deploy pods without manually specifying host ports.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now lets you deploy pods without manually specifying host ports."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-instance-level-public-ip-tags-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-instance-level-public-ip-tags-in-aks/",
+          "title": "Generally Available: Instance level Public IP tags in AKS",
+          "description": "You can now utilize Azure routing preference for your cluster, public node IPs in AKS",
+          "pubDate": "Mon, 18 Mar 2024 23:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now utilize Azure routing preference for your cluster, public node IPs in AKS"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-trusted-launch-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-trusted-launch-support-in-aks/",
+          "title": "Public preview: Trusted launch support in AKS",
+          "description": "Administrators can now deploy AKS nodes with verified and signed bootloaders, OS kernels, and drivers.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Administrators can now deploy AKS nodes with verified and signed bootloaders, OS kernels, and drivers."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/",
+          "title": "Generally Available: Azure Kubernetes Service (AKS) support for 5K Node limit by default for standard tier clusters",
+          "description": "You can now scale your AKS cluster to larger than 1000 nodes without having to request any special limit increases or whitelisting.",
+          "pubDate": "Mon, 18 Mar 2024 23:00:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now scale your AKS cluster to larger than 1000 nodes without having to request any special limit increases or whitelisting."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1750,21 +1990,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -1775,6 +2000,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -2894,257 +3134,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Extended support for .NET 7 (STS) ends on 14 May 2024 - upgrade your apps to .NET 8 (LTS)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "aksbackupga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/aksbackupga/",
-          "category": [
-            "Azure Backup",
-            "Azure Kubernetes Service"
-          ],
-          "title": "General Availability - Azure Backup for AKS",
-          "description": "Azure Backup is announcing General Availability of Azure Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters.",
-          "pubDate": "Wed, 22 Nov 2023 18:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup is announcing General Availability of Azure Backup for AKS allowing customers to protect their applications by providing ability to backup and restore AKS clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "asa-kafka-publicpreview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/asa-kafka-publicpreview/",
-          "title": "Public Preview: Kafka Input and Output with Azure Stream Analytics",
-          "description": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can connect directly to Kafka to ingest from Kafka clusters or output data to Kafka clusters in your Azure Stream Analytics (ASA) job."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-schema-migration-for-target-azure-sql-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-schema-migration-for-target-azure-sql-db/",
-          "title": "Public preview: Schema migration for target Azure SQL DB",
-          "description": "Transfer your database schema from source to target Azure SQL DB using DMS from the Azure Portal.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Transfer your database schema from source to target Azure SQL DB using DMS from the Azure Portal."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "asa-protobuf-publicpreview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/asa-protobuf-publicpreview/",
-          "title": "Public Preview Preview: Protocol Buffers (Protobuf) with Azure Stream Analytics",
-          "description": "You can ingest events in protobuf format into Azure Stream Analytics using a built-in deserializer.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can ingest events in protobuf format into Azure Stream Analytics using a built-in deserializer."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-portal-experience-for-azure-database-migration-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-portal-experience-for-azure-database-migration-service/",
-          "title": "General availability: Azure Portal experience for Azure Database Migration Service",
-          "description": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL Targets using DMS.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The new Azure Portal experience for Azure Database Migration Service (DMS) allows you to perform seamless migrations from SQL Server on-premises to Azure SQL Targets using DMS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-sku-recommendation-in-azure-sql-migration-extension-azure-data-studio"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-sku-recommendation-in-azure-sql-migration-extension-azure-data-studio/",
-          "title": "General availability: SKU recommendation in Azure SQL Migration extension - Azure Data Studio",
-          "description": "Support for SKU recommendation in the Azure SQL Migration extension for Azure Data Studio is in GA.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Support for SKU recommendation in the Azure SQL Migration extension for Azure Data Studio is in GA."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-pgvector-051-extension"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-pgvector-051-extension/",
-          "title": "General Availability: pgvector 0.5.1 extension",
-          "description": "Pgvector 0.5.1, includes support for HSNW indexing, l1_distance, and sum aggregates since the prior supported version 0.4.0",
-          "pubDate": "Wed, 22 Nov 2023 17:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Pgvector 0.5.1, includes support for HSNW indexing, l1_distance, and sum aggregates since the prior supported version 0.4.0"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-server-logs-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-server-logs-for-azure-database-for-postgresql-flexible-server/",
-          "title": "Public Preview: Server logs for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Enhance your database monitoring with the new server log feature for Azure Database for PostgreSQL, offering customizable retention and straightforward downloading for operational excellence.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enhance your database monitoring with the new server log feature for Azure Database for PostgreSQL, offering customizable retention and straightforward downloading for operational excellence."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-time-travel-in-azure-synapse-link-for-azure-cosmos-db"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-time-travel-in-azure-synapse-link-for-azure-cosmos-db/",
-          "title": "General availability: Time travel in Azure Synapse Link for Azure Cosmos DB",
-          "description": "We are announcing the general availability of the time travel capability in Azure Synapse Link for Azure Cosmos DB for NoSQL and MongoDB API.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:16 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are announcing the general availability of the time travel capability in Azure Synapse Link for Azure Cosmos DB for NoSQL and MongoDB API."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-change-data-capture-in-azure-cosmos-db-analytical-store"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-change-data-capture-in-azure-cosmos-db-analytical-store/",
-          "title": "General availability: Change data capture in Azure Cosmos DB analytical store",
-          "description": "We are announcing the general availability of the CDC capability from Azure Cosmos DB analytical store.",
-          "pubDate": "Wed, 22 Nov 2023 17:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are announcing the general availability of the CDC capability from Azure Cosmos DB analytical store."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azureappconfiguration-kubernetesprovider-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azureappconfiguration-kubernetesprovider-ga/",
-          "category": [
-            "App Configuration",
-            "Kubernetes",
-            "Configuration",
-            "Config"
-          ],
-          "title": "General Availability of Azure App Configuration Kubernetes Provider",
-          "description": "Azure App Configuration Kubernetes Provider lets you centrally configure the applications running in Kubernetes clusters. The latest version offers workload identity authentication in the provider and dynamic refresh of the configuration data.",
-          "pubDate": "Tue, 21 Nov 2023 20:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure App Configuration Kubernetes Provider lets you centrally configure the applications running in Kubernetes clusters. The latest version offers workload identity authentication in the provider and dynamic refresh of the configuration data."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-user-and-group-quota-management-in-azure-netapp-files"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-user-and-group-quota-management-in-azure-netapp-files/",
-          "title": "General Availability: User and group quota management in Azure NetApp Files",
-          "description": "Default and individual user/group quotas allows you to stay in control of capacity consumption on volumes; the feature is now Generally Available (GA)",
-          "pubDate": "Tue, 21 Nov 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Default and individual user/group quotas allows you to stay in control of capacity consumption on volumes; the feature is now Generally Available (GA)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-standard-network-features-support-in-us-government-region"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-standard-network-features-support-in-us-government-region/",
-          "title": "General Availability: Standard network features support in US Gov regions",
-          "description": "Standard network features for azure NetApp files are now available in the US Gov regions",
-          "pubDate": "Tue, 21 Nov 2023 18:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Standard network features for azure NetApp files are now available in the US Gov regions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-static-web-apps-now-supports-net-8"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-static-web-apps-now-supports-net-8/",
-          "title": "Generally available: Azure Static Web Apps now supports .NET 8",
-          "description": "Azure Static Web Apps now supports .NET 8, enabling you to build and deploy frontend and full-stack .NET 8 web applications. With .NET 8 support, you can build and deploy Blazor WebAssembly apps to Azure Static Web Apps. You can also deploy .NET 8 managed functions to your Azure Static Web Apps.",
-          "pubDate": "Tue, 21 Nov 2023 17:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Static Web Apps now supports .NET 8, enabling you to build and deploy frontend and full-stack .NET 8 web applications. With .NET 8 support, you can build and deploy Blazor WebAssembly apps to Azure Static Web Apps. You can also deploy .NET 8 managed functions to your Azure Static Web Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "cmk-for-backup-vaults-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/cmk-for-backup-vaults-2/",
-          "category": "= AzurePortal",
-          "title": "Public Preview: Encryption using Customer Managed Keys for Backup Vaults",
-          "description": "Encryption of data in Backup vaults using Customer Managed Keys is now in Public Preview.",
-          "pubDate": "Tue, 21 Nov 2023 17:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Encryption of data in Backup vaults using Customer Managed Keys is now in Public Preview."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-red-hat-openshift-in-italy-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-in-italy-north/",
-          "title": "Generally Available: Azure Red Hat OpenShift in Italy North",
-          "description": "Azure Red Hat OpenShift is now available in Italy North region.",
-          "pubDate": "Mon, 20 Nov 2023 18:13:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Red Hat OpenShift is now available in Italy North region."
           },
           "content:encoded": null
         }
