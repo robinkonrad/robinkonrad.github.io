@@ -12,62 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 18 Mar 2024 16:17:08 Z",
+      "lastBuildDate": "Mon, 18 Mar 2024 17:13:18 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-modeling-and-simulation-workbench"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/",
-          "title": "Public preview: Azure Modeling and Simulation Workbench",
-          "description": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams.",
-          "pubDate": "Mon, 18 Mar 2024 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-monitor-managed-service-for-prometheus-is-available-in-13-additional-azure-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-13-additional-azure-regions/",
-          "category": [
-            "Azure Monitor",
-            "Container Insights"
-          ],
-          "title": "Azure Monitor managed service for Prometheus is available in 13 additional Azure regions",
-          "description": "Azure Managed Prometheus was announced GA in May 2023 and was available in 26 regions, with this new update Azure Managed Prometheus will be available in 13 additional regions.",
-          "pubDate": "Mon, 18 Mar 2024 16:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Managed Prometheus was announced GA in May 2023 and was available in 26 regions, with this new update Azure Managed Prometheus will be available in 13 additional regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "you-can-now-opt-in-automatically-renew-your-reservation-at-time-of-purchase-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/you-can-now-opt-in-automatically-renew-your-reservation-at-time-of-purchase-2/",
-          "title": "You can now opt in automatically renew your reservation at time of purchase.",
-          "description": "You can now opt in automatically renew your reservation at time of purchase, which provides an easy way to continue getting reservation discounts.",
-          "pubDate": "Mon, 18 Mar 2024 15:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now opt in automatically renew your reservation at time of purchase, which provides an easy way to continue getting reservation discounts."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -143,7 +94,7 @@
           ],
           "title": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping",
           "description": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.",
-          "pubDate": "Thu, 14 Mar 2024 16:00:08 Z",
+          "pubDate": "Thu, 14 Mar 2024 16:00:11 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
@@ -564,7 +515,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-feb2024/",
           "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
           "description": "Cloud Services (classic) retiring in August 2024.",
-          "pubDate": "Sat, 02 Mar 2024 00:00:19 Z",
+          "pubDate": "Sat, 02 Mar 2024 00:00:18 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Cloud Services (classic) retiring in August 2024."
@@ -589,6 +540,96 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/",
+          "title": "Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs",
+          "description": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub.",
+          "pubDate": "Wed, 28 Feb 2024 20:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-support-for-http-streams-in-nodejs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-nodejs/",
+          "title": "Public preview: Azure Functions Support for HTTP Streams in Node.js",
+          "description": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-kubernetes-129-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-129-support-in-aks/",
+          "title": "Public preview: Kubernetes 1.29 support in AKS",
+          "description": "You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-os-sku-inplace-migration-for-linux-nodes"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-os-sku-inplace-migration-for-linux-nodes/",
+          "title": "Public preview: OS SKU in-place migration for Linux nodes",
+          "description": "You can now migrate nodes from one Linux OS to another without having to create new nodes.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:47 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now migrate nodes from one Linux OS to another without having to create new nodes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-node-soak-duration-for-upgrades"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/",
+          "title": "Generally Available: Node Soak Duration for Upgrades",
+          "description": "You can set a low soak time value during a node upgrade to wait between draining a node and proceeding to reimage it.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can set a low soak time value during a node upgrade to wait between draining a node and proceeding to reimage it."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-capacity-reservations-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-capacity-reservations-support-in-aks/",
+          "title": "Generally Available: Capacity Reservations support in AKS",
+          "description": "You can now better manage your changing workload demands by using capacity reservation groups.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:32 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now better manage your changing workload demands by using capacity reservation groups."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "ga-istiobased-service-mesh-addon-for-azure-kubernetes-service"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-istiobased-service-mesh-addon-for-azure-kubernetes-service/",
@@ -604,6 +645,51 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-disable-network-policy-for-migration-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-disable-network-policy-for-migration-in-aks/",
+          "title": "Public preview: Disable network policy in AKS for migration",
+          "description": "You can now temporarily disable your network policy engines to perform a migration.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now temporarily disable your network policy engines to perform a migration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-aks-support-for-node-soak-duration-for-upgrades"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-node-soak-duration-for-upgrades/",
+          "title": "Public preview: AKS support for node soak duration for upgrades",
+          "description": "You can now stagger AKS node upgrades and minimize application downtime.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now stagger AKS node upgrades and minimize application downtime."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-latefebruary-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latefebruary-2024/",
+          "title": "Public Preview: Azure SQL updates for late-February 2024",
+          "description": "Public preview enhancements and updates released for Azure SQL in late-February 2024.",
+          "pubDate": "Wed, 28 Feb 2024 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview enhancements and updates released for Azure SQL in late-February 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/",
@@ -613,6 +699,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql/",
+          "title": "General availability: Azure SDKs support for Azure Cosmos DB for PostgreSQL",
+          "description": "Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 28 Feb 2024 17:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql/",
+          "title": "General availability: Azure CLI support for Azure Cosmos DB for PostgreSQL",
+          "description": "You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute.",
+          "pubDate": "Wed, 28 Feb 2024 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute."
           },
           "content:encoded": null
         },
@@ -643,22 +759,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Site Recovery now supports enabling replication for data disks that you add to a VMware VM that's already enabled for disaster recovery."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/",
-          "category": "API Management",
-          "title": "GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity",
-          "description": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools.",
-          "pubDate": "Mon, 26 Feb 2024 20:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools."
           },
           "content:encoded": null
         },
@@ -737,7 +837,7 @@
           "category": "Azure Portal",
           "title": "Public Preview: Regional Disaster Recovery by Azure Backup for AKS",
           "description": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario.",
-          "pubDate": "Tue, 20 Feb 2024 20:00:22 Z",
+          "pubDate": "Tue, 20 Feb 2024 20:00:21 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
@@ -766,11 +866,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/",
           "title": "Public preview: Configuration-as-code customizations in Microsoft Dev Box",
-          "description": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.",
-          "pubDate": "Tue, 20 Feb 2024 18:00:20 Z",
+          "description": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.",
+          "pubDate": "Tue, 20 Feb 2024 18:00:21 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies."
+            "#text": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies."
           },
           "content:encoded": null
         },
@@ -1019,21 +1119,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks/",
-          "title": "General Availability: Application consistent restore points supports Premium SSD v2 and Ultra Disks",
-          "description": "Application consistent restore points supports Premium SSD v2 and Ultra Disks.",
-          "pubDate": "Tue, 06 Feb 2024 18:30:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application consistent restore points supports Premium SSD v2 and Ultra Disks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions/",
@@ -1208,21 +1293,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Machine Learning model monitoring is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/",
-          "title": "Public Preview: Azure Monitor introduces Prometheus community recommended alerts",
-          "description": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.",
-          "pubDate": "Wed, 31 Jan 2024 20:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters."
           },
           "content:encoded": null
         },
@@ -1437,7 +1507,7 @@
             "#text": "generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
-          "title": "Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
+          "title": "Public preview: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
           "description": "You will see AKS reserve up to 20% less memorry on nodes.",
           "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
           "atom:content": {
@@ -1560,7 +1630,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-italy-north-region-added-to-azure-hdinsight/",
           "title": "General availability: Italy North region added to Azure HDInsight",
           "description": ".",
-          "pubDate": "Tue, 30 Jan 2024 23:00:10 Z",
+          "pubDate": "Tue, 30 Jan 2024 23:00:11 Z",
           "atom:content": {
             "@type": "text",
             "#text": "."
@@ -1890,15 +1960,15 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-azure-database-for-mysql-import-feature"
+            "#text": "general-availability-azure-mysql-import-feature-for-azure-database-for-mysql-single-to-flexible-server-migrations"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-import-feature/",
-          "title": "General Availability: Azure Database for MySQL Import feature for Azure Database for MySQL Single to Flexible Server migrations",
-          "description": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure Database for MySQL Import.",
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-mysql-import-feature-for-azure-database-for-mysql-single-to-flexible-server-migrations/",
+          "title": "General Availability: Azure MySQL Import feature for Azure Database for MySQL Single to Flexible Server migrations",
+          "description": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure MySQL Import.",
           "pubDate": "Wed, 17 Jan 2024 17:00:32 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure Database for MySQL Import."
+            "#text": "Easily migrate your Azure Database for MySQL – Single Server workloads to Azure Database for MySQL – Flexible Server with Azure MySQL Import."
           },
           "content:encoded": null
         },
@@ -1923,7 +1993,7 @@
             "#text": "general-availability-azure-virtual-network-encryption-2"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-2/",
-          "title": "General Availability: Azure Virtual Network encryption",
+          "title": "General availability: Azure Virtual Network encryption",
           "description": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.",
           "pubDate": "Wed, 17 Jan 2024 16:00:22 Z",
           "atom:content": {
@@ -2109,7 +2179,7 @@
           "category": "Azure Spring Apps",
           "title": "Azure Spring Apps Enterprise is now eligible for Azure savings plan for compute",
           "description": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise.",
-          "pubDate": "Thu, 04 Jan 2024 17:00:40 Z",
+          "pubDate": "Thu, 04 Jan 2024 17:00:39 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Enjoy up to 47% savings when you commit to Azure savings plan for Azure Spring Apps Enterprise."
@@ -2184,7 +2254,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/changetrackingwithla-retirement-31august2024/",
           "title": "Change tracking and inventory with Log Analytics agent in Azure Automation will be retired on 31 August 2024",
           "description": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired.",
-          "pubDate": "Sat, 23 Dec 2023 00:00:04 Z",
+          "pubDate": "Sat, 23 Dec 2023 00:00:03 Z",
           "atom:content": {
             "@type": "text",
             "#text": "On 31 August 2024, change tracking and inventory with Log Analytics agent in Azure Automation will be retired."
@@ -2424,7 +2494,7 @@
           ],
           "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
           "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
+          "pubDate": "Mon, 11 Dec 2023 17:00:39 Z",
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
@@ -2465,6 +2535,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
+          "title": "Generally Available: AKS support for API breaking change detection",
+          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
+          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-node-autoprovision-support-in-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
@@ -2474,21 +2559,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-aks-support-for-api-breaking-change-detection"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-aks-support-for-api-breaking-change-detection/",
-          "title": "Generally Available: AKS support for API breaking change detection",
-          "description": "AKS now alerts you on API breaking changes on minor version change cluster upgrades.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS now alerts you on API breaking changes on minor version change cluster upgrades."
           },
           "content:encoded": null
         },
@@ -3075,81 +3145,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Encryption of data in Backup vaults using Customer Managed Keys is now in Public Preview."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-red-hat-openshift-in-italy-north"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-in-italy-north/",
-          "title": "Generally Available: Azure Red Hat OpenShift in Italy North",
-          "description": "Azure Red Hat OpenShift is now available in Italy North region.",
-          "pubDate": "Mon, 20 Nov 2023 18:13:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Red Hat OpenShift is now available in Italy North region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "browser-sdk-loader-nodejs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/browser-sdk-loader-nodejs/",
-          "title": "General availability: Azure Monitor Application Insights Browser SDK Loader for Node.js",
-          "description": "Azure Monitor Application Insights Node.js customers can enable real user monitoring (RUM) with a simple configuration.",
-          "pubDate": "Mon, 20 Nov 2023 18:11:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor Application Insights Node.js customers can enable real user monitoring (RUM) with a simple configuration."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-encryption-at-host-for-premium-ssd-v2-and-ultra-disks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-at-host-for-premium-ssd-v2-and-ultra-disks/",
-          "title": "General Availability: Encryption at host for Premium SSD v2 and Ultra Disks",
-          "description": "Encryption at host for Premium SSD v2 and Ultra Disks",
-          "pubDate": "Mon, 20 Nov 2023 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Encryption at host for Premium SSD v2 and Ultra Disks"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "web-pubsub-support-for-socketio-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/web-pubsub-support-for-socketio-now-generally-available/",
-          "title": "Azure Web PubSub support for Socket.IO now generally available",
-          "description": "Use your preferred Socket.IO APIs, while letting Azure handle messages and scaling for you",
-          "pubDate": "Mon, 20 Nov 2023 17:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Use your preferred Socket.IO APIs, while letting Azure handle messages and scaling for you"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "container-insights-syslog-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/container-insights-syslog-ga/",
-          "title": "Generally Available: Collect Syslog from AKS nodes using Azure Monitor Container Insights",
-          "description": "The Syslog collection feature in Azure Monitor - Container Insights is generally available.",
-          "pubDate": "Mon, 20 Nov 2023 16:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Syslog collection feature in Azure Monitor - Container Insights is generally available."
           },
           "content:encoded": null
         }
