@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2024 20:14:00 Z</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 21:13:10 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -439,11 +439,11 @@
       <guid
         isPermaLink="false">generally-available-node-soak-duration-for-upgrades</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/</link>
-      <title>Generally Available: Node Soak Duration for Upgrades </title>
-      <description>You can set a low soak time value during a node upgrade to wait between draining a node and proceeding to reimage it.</description>
+      <title>Generally Available: AKS support for node soak duration for upgrades </title>
+      <description>You can now stagger AKS node upgrades and minimize application downtime.</description>
       <pubDate>Wed, 28 Feb 2024 18:00:38 Z</pubDate>
       <atom:content
-        type="text">You can set a low soak time value during a node upgrade to wait between draining a node and proceeding to reimage it.</atom:content>
+        type="text">You can now stagger AKS node upgrades and minimize application downtime.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -477,17 +477,6 @@
       <pubDate>Wed, 28 Feb 2024 18:00:19 Z</pubDate>
       <atom:content
         type="text">You can now temporarily disable your network policy engines to perform a migration. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-aks-support-for-node-soak-duration-for-upgrades</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-aks-support-for-node-soak-duration-for-upgrades/</link>
-      <title>Public preview: AKS support for node soak duration for upgrades </title>
-      <description>You can now stagger AKS node upgrades and minimize application downtime.  </description>
-      <pubDate>Wed, 28 Feb 2024 18:00:09 Z</pubDate>
-      <atom:content
-        type="text">You can now stagger AKS node upgrades and minimize application downtime.  </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2326,6 +2315,17 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Tue, 21 Nov 2023 17:00:01 Z</pubDate>
       <atom:content
         type="text">Encryption of data in Backup vaults using Customer Managed Keys is now in Public Preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-red-hat-openshift-in-italy-north</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-in-italy-north/</link>
+      <title>Generally Available: Azure Red Hat OpenShift in Italy North</title>
+      <description>Azure Red Hat OpenShift is now available in Italy North region.</description>
+      <pubDate>Mon, 20 Nov 2023 18:13:36 Z</pubDate>
+      <atom:content
+        type="text">Azure Red Hat OpenShift is now available in Italy North region.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
