@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 18 Mar 2024 14:13:21 Z",
+      "lastBuildDate": "Mon, 18 Mar 2024 15:13:15 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "you-can-now-opt-in-automatically-renew-your-reservation-at-time-of-purchase-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/you-can-now-opt-in-automatically-renew-your-reservation-at-time-of-purchase-2/",
+          "title": "You can now opt in automatically renew your reservation at time of purchase.",
+          "description": "You can now opt in automatically renew your reservation at time of purchase, which provides an easy way to continue getting reservation discounts.",
+          "pubDate": "Mon, 18 Mar 2024 15:00:03 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now opt in automatically renew your reservation at time of purchase, which provides an easy way to continue getting reservation discounts."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3134,22 +3149,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "GA release for bulk delete support for Azure Digital Twins"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-using-customer-managed-keys-in-azure-health-data-services/",
-          "category": "Azure Health Data Services; FHIR service; DICOM service",
-          "title": "General availability: Encryption with customer-managed keys in Azure Health Data Services",
-          "description": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available.",
-          "pubDate": "Mon, 20 Nov 2023 16:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ability to encrypt health data in the cloud with customer-managed keys using Azure Health Data Services is generally available."
           },
           "content:encoded": null
         }
