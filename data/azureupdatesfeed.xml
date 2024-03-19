@@ -6,11 +6,50 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2024 15:14:20 Z</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 16:17:17 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">operator-and-crd-support-with-azure-managed-prometheus</guid>
+      <link>https://azure.microsoft.com/en-us/updates/operator-and-crd-support-with-azure-managed-prometheus/</link>
+      <category>azure-monitor</category>
+      <category>azure-kubernetes-service</category>
+      <category>container-insights</category>
+      <category>prometheus</category>
+      <title>Operator and CRD support with Azure Managed Prometheus</title>
+      <description>Azure Monitor managed service for Prometheus will support CRD-based configs for scrape jobs to collect metrics from workloads running in your AKS cluster. With this new update, customers can use custom resources (service monitor and pod monitor) to configure metric collection with Managed Prometheus.</description>
+      <pubDate>Tue, 19 Mar 2024 16:00:20 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor managed service for Prometheus will support CRD-based configs for scrape jobs to collect metrics from workloads running in your AKS cluster. With this new update, customers can use custom resources (service monitor and pod monitor) to configure metric collection with Managed Prometheus.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">open-source-retina</guid>
+      <link>https://azure.microsoft.com/en-us/updates/open-source-retina/</link>
+      <category>#Kubernetes #open Source #Observability #monitoring</category>
+      <title>Microsoft open sources Retina: A cloud-native container networking observability platform</title>
+      <description>The Microsoft's Azure Container Networking team is announcing Retina, a cloud-native container networking observability platform that enables Kubernetes users, admins, and developers to visualize, observe, debug, and analyze Kubernetes’ workload traffic irrespective of Container Network Interface (CNI), operating system (OS), and cloud. </description>
+      <pubDate>Tue, 19 Mar 2024 16:00:18 Z</pubDate>
+      <atom:content
+        type="text">The Microsoft's Azure Container Networking team is announcing Retina, a cloud-native container networking observability platform that enables Kubernetes users, admins, and developers to visualize, observe, debug, and analyze Kubernetes’ workload traffic irrespective of Container Network Interface (CNI), operating system (OS), and cloud. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">billing-for-azure-monitor-stateful-log-search-alerts-2</guid>
+      <link>https://azure.microsoft.com/en-us/updates/billing-for-azure-monitor-stateful-log-search-alerts-2/</link>
+      <category>alerts</category>
+      <title>Billing for Azure Monitor stateful log search alerts</title>
+      <description>Starting from May 1, 2024, you will be charged for stateful log alerts in Azure Monitor.</description>
+      <pubDate>Tue, 19 Mar 2024 15:18:57 Z</pubDate>
+      <atom:content
+        type="text">Starting from May 1, 2024, you will be charged for stateful log alerts in Azure Monitor.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-kubernetes-ai-toolchain-operator-kaito-addon-for-aks</guid>
@@ -220,18 +259,6 @@
       <pubDate>Fri, 15 Mar 2024 23:00:03 Z</pubDate>
       <atom:content
         type="text">On 15 March 2027, the Application Gateway WAF v2 Configuration will be retired. To continue using this service, switch to the Application Gateway WAF v2 Policy before the retirement date. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">billing-for-azure-monitor-stateful-log-search-alerts</guid>
-      <link>https://azure.microsoft.com/en-us/updates/billing-for-azure-monitor-stateful-log-search-alerts/</link>
-      <category>alerts</category>
-      <title>Billing for Azure Monitor stateful log search alerts</title>
-      <description>Starting from May 1, 2024, you will be charged for stateful log alerts in Azure Monitor.</description>
-      <pubDate>Thu, 14 Mar 2024 18:00:08 Z</pubDate>
-      <atom:content
-        type="text">Starting from May 1, 2024, you will be charged for stateful log alerts in Azure Monitor.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2299,28 +2326,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Mon, 27 Nov 2023 16:27:59 Z</pubDate>
       <atom:content
         type="text">You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">dotnet6support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/dotnet6support/</link>
-      <title>Extended support for .NET 6 (LTS) ends on 12 November 2024</title>
-      <description>Extended support for .NET 6 (LTS) ends 12 November 2024 - upgrade your apps to .NET 8 (LTS)</description>
-      <pubDate>Sat, 25 Nov 2023 00:00:13 Z</pubDate>
-      <atom:content
-        type="text">Extended support for .NET 6 (LTS) ends 12 November 2024 - upgrade your apps to .NET 8 (LTS)</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">dotnet7support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/dotnet7support/</link>
-      <title>Extended support for .NET 7 (STS) ends on 14 May 2024</title>
-      <description>Extended support for .NET 7 (STS) ends on 14 May 2024 - upgrade your apps to .NET 8 (LTS)</description>
-      <pubDate>Sat, 25 Nov 2023 00:00:04 Z</pubDate>
-      <atom:content
-        type="text">Extended support for .NET 7 (STS) ends on 14 May 2024 - upgrade your apps to .NET 8 (LTS)</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
