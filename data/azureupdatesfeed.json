@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 19 Mar 2024 19:11:25 Z",
+      "lastBuildDate": "Tue, 19 Mar 2024 20:14:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-listener-tls-certificates-management-available-in-the-azure-portal"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-listener-tls-certificates-management-available-in-the-azure-portal/",
+          "category": [
+            "ApplicaionGateway",
+            "AzurePortal",
+            "Certificates"
+          ],
+          "title": "General availability: Listener TLS certificates management in the Azure portal",
+          "description": "You can now manage the TLS certificates associated with Listeners through Azure portal.",
+          "pubDate": "Tue, 19 Mar 2024 19:40:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now manage the TLS certificates associated with Listeners through Azure portal."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2042,21 +2062,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -2067,6 +2072,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -3125,22 +3145,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Automation supports PowerShell 7.2 runbooks (General Availability)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-general-availability-of-microsoft-defender-for-apis"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/",
-          "category": "Azure API Management",
-          "title": "Announcing General Availability of Microsoft Defender for APIs",
-          "description": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context.",
-          "pubDate": "Mon, 27 Nov 2023 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context."
           },
           "content:encoded": null
         }
