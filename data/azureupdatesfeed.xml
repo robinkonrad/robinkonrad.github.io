@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Mar 2024 18:16:31 Z</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 19:11:25 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-health-data-services-dicom-service-with-azure-data-lake-storage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-health-data-services-dicom-service-with-azure-data-lake-storage/</link>
+      <title>Generally available: Azure Health Data Services DICOM service with Azure Data Lake Storage</title>
+      <description>With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs.</description>
+      <pubDate>Tue, 19 Mar 2024 19:00:20 Z</pubDate>
+      <atom:content
+        type="text">With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">operator-and-crd-support-with-azure-managed-prometheus</guid>
@@ -1488,6 +1499,17 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
     </item>
     <item>
       <guid
+        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
+      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
+      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
+      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">kusto-graph-cycles-nonlinear-patterns</guid>
       <link>https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/</link>
       <category>kusto</category>
@@ -1496,17 +1518,6 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
       <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
       <atom:content
         type="text">The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
-      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
-      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
-      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
-      <atom:content
-        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2315,17 +2326,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Mon, 27 Nov 2023 17:00:07 Z</pubDate>
       <atom:content
         type="text">The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/</link>
-      <title>Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal</title>
-      <description>You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal</description>
-      <pubDate>Mon, 27 Nov 2023 16:27:59 Z</pubDate>
-      <atom:content
-        type="text">You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

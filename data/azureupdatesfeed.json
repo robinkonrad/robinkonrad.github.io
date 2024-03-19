@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 19 Mar 2024 18:16:31 Z",
+      "lastBuildDate": "Tue, 19 Mar 2024 19:11:25 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-health-data-services-dicom-service-with-azure-data-lake-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-health-data-services-dicom-service-with-azure-data-lake-storage/",
+          "title": "Generally available: Azure Health Data Services DICOM service with Azure Data Lake Storage",
+          "description": "With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs.",
+          "pubDate": "Tue, 19 Mar 2024 19:00:20 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2027,6 +2042,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -2037,21 +2067,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -3126,21 +3141,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/",
-          "title": "Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal",
-          "description": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal",
-          "pubDate": "Mon, 27 Nov 2023 16:27:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal"
           },
           "content:encoded": null
         }
