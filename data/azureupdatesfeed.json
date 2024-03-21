@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 21 Mar 2024 14:12:33 Z",
+      "lastBuildDate": "Thu, 21 Mar 2024 15:14:10 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-public-ip-domain-name-label-scope"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-public-ip-domain-name-label-scope/",
+          "title": "Public preview: Public IP Domain Name Label Scope",
+          "description": "Announcing the public preview for a new capability in Azure public IP address that can prevent DNS subdomain takeover while still allowing for re-use of DNS names.",
+          "pubDate": "Thu, 21 Mar 2024 15:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Announcing the public preview for a new capability in Azure public IP address that can prevent DNS subdomain takeover while still allowing for re-use of DNS names."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3135,21 +3150,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Please note that Azure Object Anchors (AOA) will be retired on May 20, 2024. Object anchoring capability is generally available (GA) in Dynamics 365 Guides."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-spatial-anchors-retirement"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-spatial-anchors-retirement/",
-          "title": "Azure Spatial Anchors Retirement",
-          "description": "Please note that Azure Spatial Anchors (ASA) will be retired on November 20, 2024.",
-          "pubDate": "Sat, 02 Dec 2023 00:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Please note that Azure Spatial Anchors (ASA) will be retired on November 20, 2024."
           },
           "content:encoded": null
         }
