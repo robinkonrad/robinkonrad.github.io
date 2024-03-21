@@ -6,11 +6,25 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Mar 2024 16:18:26 Z</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 17:11:55 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-netapp-files-support-for-1-tib-capacity-pools</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-1-tib-capacity-pools/</link>
+      <category>Azure NetApp Files</category>
+      <category>Features</category>
+      <category>Services</category>
+      <title>General Availability: Azure NetApp Files support for 1 TiB capacity pools</title>
+      <description>Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features.</description>
+      <pubDate>Thu, 21 Mar 2024 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance</guid>
@@ -1595,6 +1609,17 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
     </item>
     <item>
       <guid
+        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
+      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
+      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
+      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">kusto-graph-cycles-nonlinear-patterns</guid>
       <link>https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/</link>
       <category>kusto</category>
@@ -1603,17 +1628,6 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
       <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
       <atom:content
         type="text">The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
-      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
-      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
-      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
-      <atom:content
-        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2316,21 +2330,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Sat, 02 Dec 2023 00:00:28 Z</pubDate>
       <atom:content
         type="text">Standard and High-Performance VPN Gateway SKUs are retiring on September 30th, 2025</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">pod-security-policy-is-being-deprecated-with-aks-125-and-20230601-api-version</guid>
-      <link>https://azure.microsoft.com/en-us/updates/pod-security-policy-is-being-deprecated-with-aks-125-and-20230601-api-version/</link>
-      <title>Pod Security Policy is being deprecated with AKS 1.25 and 2023-06-01 API version </title>
-      <description>Migrate your AKS cluster from Pod Security Policy to Pod Security Admission 
-
-</description>
-      <pubDate>Sat, 02 Dec 2023 00:00:21 Z</pubDate>
-      <atom:content
-        type="text">Migrate your AKS cluster from Pod Security Policy to Pod Security Admission 
-
-</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

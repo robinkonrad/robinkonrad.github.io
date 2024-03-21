@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 21 Mar 2024 16:18:26 Z",
+      "lastBuildDate": "Thu, 21 Mar 2024 17:11:55 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-netapp-files-support-for-1-tib-capacity-pools"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-1-tib-capacity-pools/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "General Availability: Azure NetApp Files support for 1 TiB capacity pools",
+          "description": "Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features.",
+          "pubDate": "Thu, 21 Mar 2024 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2176,6 +2196,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -2186,21 +2221,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -3135,21 +3155,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Standard and High-Performance VPN Gateway SKUs are retiring on September 30th, 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "pod-security-policy-is-being-deprecated-with-aks-125-and-20230601-api-version"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/pod-security-policy-is-being-deprecated-with-aks-125-and-20230601-api-version/",
-          "title": "Pod Security Policy is being deprecated with AKS 1.25 and 2023-06-01 API version",
-          "description": "Migrate your AKS cluster from Pod Security Policy to Pod Security Admission",
-          "pubDate": "Sat, 02 Dec 2023 00:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate your AKS cluster from Pod Security Policy to Pod Security Admission"
           },
           "content:encoded": null
         }
