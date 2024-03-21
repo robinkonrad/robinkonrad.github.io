@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 21 Mar 2024 17:11:55 Z",
+      "lastBuildDate": "Thu, 21 Mar 2024 18:16:23 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "private-preview-force-detach-zone-redundant-disks-during-zone-outage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/private-preview-force-detach-zone-redundant-disks-during-zone-outage/",
+          "title": "Private Preview: Force detach zone redundant disks during zone outage",
+          "description": "Force detach zone redundant disks during zone outage and take advantage of ZRS ability to achieve an RPO of 0.",
+          "pubDate": "Thu, 21 Mar 2024 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Force detach zone redundant disks during zone outage and take advantage of ZRS ability to achieve an RPO of 0."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3140,21 +3155,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Beginning January 1, 2024, all new and renewing Azure customers who purchase an Enterprise Agreement (EA or EES) or are part of the field-led Microsoft Customer Agreement (MCA) will receive Azure Standard support.  Qualifications for the promotion will end on June 30, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "standard-and-highperformance-vpn-gateway-skus-will-be-retired-on-30-september-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/standard-and-highperformance-vpn-gateway-skus-will-be-retired-on-30-september-2025/",
-          "title": "Standard and High-Performance VPN Gateway SKUs will be retired on 30 September 2025",
-          "description": "Standard and High-Performance VPN Gateway SKUs are retiring on September 30th, 2025",
-          "pubDate": "Sat, 02 Dec 2023 00:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Standard and High-Performance VPN Gateway SKUs are retiring on September 30th, 2025"
           },
           "content:encoded": null
         }
