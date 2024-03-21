@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 21 Mar 2024 15:14:10 Z",
+      "lastBuildDate": "Thu, 21 Mar 2024 16:18:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance/",
+          "title": "Public Preview: Next generation of general purpose service tier for Azure SQL Managed Instance",
+          "description": "The next generation of general purpose service tier brings improved performance, 32 TB storage and higher database density.",
+          "pubDate": "Thu, 21 Mar 2024 16:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The next generation of general purpose service tier brings improved performance, 32 TB storage and higher database density."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3135,21 +3150,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate your AKS cluster from Pod Security Policy to Pod Security Admission"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-object-anchors-retirement"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-object-anchors-retirement/",
-          "title": "Azure Object Anchors Retirement",
-          "description": "Please note that Azure Object Anchors (AOA) will be retired on May 20, 2024. Object anchoring capability is generally available (GA) in Dynamics 365 Guides.",
-          "pubDate": "Sat, 02 Dec 2023 00:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Please note that Azure Object Anchors (AOA) will be retired on May 20, 2024. Object anchoring capability is generally available (GA) in Dynamics 365 Guides."
           },
           "content:encoded": null
         }
