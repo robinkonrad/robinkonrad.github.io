@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 22 Mar 2024 06:16:54 Z",
+      "lastBuildDate": "Fri, 22 Mar 2024 07:12:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,40 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Files geo-redundancy for 100TiB standard SMB file shares is now generally available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-database-watcher-for-azure-sql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-database-watcher-for-azure-sql/",
+          "title": "Public preview: Database watcher for Azure SQL",
+          "description": "Enable in-depth, managed monitoring of Azure SQL databases, elastic pools, and managed instances.",
+          "pubDate": "Wed, 20 Mar 2024 23:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable in-depth, managed monitoring of Azure SQL databases, elastic pools, and managed instances."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-application-gateway-v2-ipv6-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-application-gateway-v2-ipv6-support/",
+          "category": [
+            "Application Gateway",
+            "Features"
+          ],
+          "title": "Generally available: Application Gateway (v2) IPv6 support",
+          "description": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.",
+          "pubDate": "Wed, 20 Mar 2024 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications."
           },
           "content:encoded": null
         },
@@ -143,6 +177,7 @@
             "#text": "generally-available-cost-analysis-addon-for-aks"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-cost-analysis-addon-for-aks/",
+          "category": "Cost Management",
           "title": "Generally Available: Cost analysis add-on for AKS",
           "description": "You can now better understand the infra costs associated with running applications at the namespace and cluster levels and identify opportunities to optimize resource utilization through an Azure native experience.",
           "pubDate": "Mon, 18 Mar 2024 23:00:16 Z",
@@ -3120,37 +3155,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Automation supports PowerShell 7.2 runbooks (General Availability)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-general-availability-of-microsoft-defender-for-apis"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/",
-          "category": "Azure API Management",
-          "title": "Announcing General Availability of Microsoft Defender for APIs",
-          "description": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context.",
-          "pubDate": "Mon, 27 Nov 2023 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/",
-          "title": "Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal",
-          "description": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal",
-          "pubDate": "Mon, 27 Nov 2023 16:27:59 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal"
           },
           "content:encoded": null
         }

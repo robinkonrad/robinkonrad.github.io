@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Mar 2024 06:16:54 Z</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 07:12:42 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -20,6 +20,30 @@
       <pubDate>Thu, 21 Mar 2024 19:00:03 Z</pubDate>
       <atom:content
         type="text">Azure Files geo-redundancy for 100TiB standard SMB file shares is now generally available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-database-watcher-for-azure-sql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-database-watcher-for-azure-sql/</link>
+      <title>Public preview: Database watcher for Azure SQL</title>
+      <description>Enable in-depth, managed monitoring of Azure SQL databases, elastic pools, and managed instances.</description>
+      <pubDate>Wed, 20 Mar 2024 23:00:11 Z</pubDate>
+      <atom:content
+        type="text">Enable in-depth, managed monitoring of Azure SQL databases, elastic pools, and managed instances.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-application-gateway-v2-ipv6-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-application-gateway-v2-ipv6-support/</link>
+      <category>Application Gateway</category>
+      <category>Features</category>
+      <title>Generally available: Application Gateway (v2) IPv6 support</title>
+      <description>Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.</description>
+      <pubDate>Wed, 20 Mar 2024 16:00:07 Z</pubDate>
+      <atom:content
+        type="text">Azure Application Gateway v2 enables dual-stack (IPv4 and IPv6) connectivity from the clients, providing more flexible and reliable access to the backend Applications.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -101,6 +125,7 @@
       <guid
         isPermaLink="false">generally-available-cost-analysis-addon-for-aks</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-cost-analysis-addon-for-aks/</link>
+      <category>Cost Management</category>
       <title>Generally Available: Cost analysis add-on for AKS</title>
       <description>You can now better understand the infra costs associated with running applications at the namespace and cluster levels and identify opportunities to optimize resource utilization through an Azure native experience.</description>
       <pubDate>Mon, 18 Mar 2024 23:00:16 Z</pubDate>
@@ -2309,29 +2334,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Tue, 28 Nov 2023 00:00:12 Z</pubDate>
       <atom:content
         type="text">Azure Automation supports PowerShell 7.2 runbooks (General Availability).</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">announcing-general-availability-of-microsoft-defender-for-apis</guid>
-      <link>https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-microsoft-defender-for-apis/</link>
-      <category>Azure API Management</category>
-      <title>Announcing General Availability of Microsoft Defender for APIs</title>
-      <description>The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context. </description>
-      <pubDate>Mon, 27 Nov 2023 17:00:07 Z</pubDate>
-      <atom:content
-        type="text">The general availability of Defender for APIs, a new offering as part of Microsoft Defender for Cloud, that helps organizations prevent, detect, and respond to API threats with an integrated cloud security context. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-create-and-manage-azure-monitor-managed-prometheus-rules-in-azure-portal-2/</link>
-      <title>Public Preview: Create and manage Azure Monitor managed Prometheus rules in Azure portal</title>
-      <description>You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal</description>
-      <pubDate>Mon, 27 Nov 2023 16:27:59 Z</pubDate>
-      <atom:content
-        type="text">You can now create and manage Azure Managed Prometheus rule groups, alert rules and recording rules in the Azure Portal</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
