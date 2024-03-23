@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Sat, 23 Mar 2024 06:20:12 Z",
+      "lastBuildDate": "Sat, 23 Mar 2024 07:13:11 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -83,21 +83,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "crossclouddeprecation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
-          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
-          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
@@ -107,6 +92,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "crossclouddeprecation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
+          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
+          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
           },
           "content:encoded": null
         },
@@ -318,6 +318,56 @@
           "atom:content": {
             "@type": "text",
             "#text": "Avere vFXT for Azure is retiring. End of support is 30 September 2025."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "private-preview-force-detach-zone-redundant-disks-during-zone-outage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/private-preview-force-detach-zone-redundant-disks-during-zone-outage/",
+          "title": "Private Preview: Force detach zone redundant disks during zone outage",
+          "description": "Force detach zone redundant disks during zone outage and take advantage of ZRS ability to achieve an RPO of 0.",
+          "pubDate": "Thu, 21 Mar 2024 18:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Force detach zone redundant disks during zone outage and take advantage of ZRS ability to achieve an RPO of 0."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-netapp-files-support-for-1-tib-capacity-pools"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-1-tib-capacity-pools/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "General Availability: Azure NetApp Files support for 1 TiB capacity pools",
+          "description": "Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features.",
+          "pubDate": "Thu, 21 Mar 2024 17:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance/",
+          "title": "Public Preview: Next generation of general purpose service tier for Azure SQL Managed Instance",
+          "description": "The next generation of general purpose service tier brings improved performance, 32 TB storage and higher database density.",
+          "pubDate": "Thu, 21 Mar 2024 16:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The next generation of general purpose service tier brings improved performance, 32 TB storage and higher database density."
           },
           "content:encoded": null
         },
@@ -3107,52 +3157,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-azure-container-apps-preview-api-versions-20230401preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-azure-container-apps-preview-api-versions-20230401preview/",
-          "title": "Retirement: Azure Container Apps preview API versions 2023-04-01-preview",
-          "description": "Azure Resource Manager API version 2023-04-01-preview will be retired in March 2024. Upgrade to a newer version before then.",
-          "pubDate": "Sat, 09 Dec 2023 00:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Resource Manager API version 2023-04-01-preview will be retired in March 2024. Upgrade to a newer version before then."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "akscostviews"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/akscostviews/",
-          "category": "Azure portal",
-          "title": "Public Preview: New AKS cost views for standard and premium tier clusters",
-          "description": "New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters.",
-          "pubDate": "Wed, 06 Dec 2023 23:51:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-node-autoprovision-support-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/",
-          "title": "Public preview: Node autoprovision support in AKS",
-          "description": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.",
-          "pubDate": "Wed, 06 Dec 2023 18:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type."
           },
           "content:encoded": null
         }

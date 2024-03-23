@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Mar 2024 06:20:12 Z</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 07:13:11 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -64,17 +64,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
-        isPermaLink="false">crossclouddeprecation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
-      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
-      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">azure-synapse-runtime-for-apache-spark-32-end-of-support</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/</link>
       <title>Azure Synapse Runtime for Apache Spark 3.2 End of Support </title>
@@ -82,6 +71,17 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
       <atom:content
         type="text">End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">crossclouddeprecation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
+      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
+      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
+      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
+      <atom:content
+        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -237,6 +237,42 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Fri, 22 Mar 2024 23:00:05 Z</pubDate>
       <atom:content
         type="text">Avere vFXT for Azure is retiring. End of support is 30 September 2025.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">private-preview-force-detach-zone-redundant-disks-during-zone-outage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/private-preview-force-detach-zone-redundant-disks-during-zone-outage/</link>
+      <title>Private Preview: Force detach zone redundant disks during zone outage</title>
+      <description>Force detach zone redundant disks during zone outage and take advantage of ZRS ability to achieve an RPO of 0.</description>
+      <pubDate>Thu, 21 Mar 2024 18:00:02 Z</pubDate>
+      <atom:content
+        type="text">Force detach zone redundant disks during zone outage and take advantage of ZRS ability to achieve an RPO of 0.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-netapp-files-support-for-1-tib-capacity-pools</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-1-tib-capacity-pools/</link>
+      <category>Azure NetApp Files</category>
+      <category>Features</category>
+      <category>Services</category>
+      <title>General Availability: Azure NetApp Files support for 1 TiB capacity pools</title>
+      <description>Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features.</description>
+      <pubDate>Thu, 21 Mar 2024 17:00:01 Z</pubDate>
+      <atom:content
+        type="text">Azure NetApp Files now supports smaller 1 TiB capacity pool sizes, lowered from 2 TiB, when used with volumes using standard network features.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-next-generation-of-general-purpose-service-tier-for-azure-sql-managed-instance/</link>
+      <title>Public Preview: Next generation of general purpose service tier for Azure SQL Managed Instance</title>
+      <description>The next generation of general purpose service tier brings improved performance, 32 TB storage and higher database density.</description>
+      <pubDate>Thu, 21 Mar 2024 16:00:01 Z</pubDate>
+      <atom:content
+        type="text">The next generation of general purpose service tier brings improved performance, 32 TB storage and higher database density.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2296,46 +2332,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Mon, 11 Dec 2023 17:00:47 Z</pubDate>
       <atom:content
         type="text">The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">retirement-azure-container-apps-preview-api-versions-20230401preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/retirement-azure-container-apps-preview-api-versions-20230401preview/</link>
-      <title>Retirement: Azure Container Apps preview API versions 2023-04-01-preview </title>
-      <description>Azure Resource Manager API version 2023-04-01-preview will be retired in March 2024. Upgrade to a newer version before then. </description>
-      <pubDate>Sat, 09 Dec 2023 00:00:04 Z</pubDate>
-      <atom:content
-        type="text">Azure Resource Manager API version 2023-04-01-preview will be retired in March 2024. Upgrade to a newer version before then. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">akscostviews</guid>
-      <link>https://azure.microsoft.com/en-us/updates/akscostviews/</link>
-      <category>Azure portal</category>
-      <title>Public Preview: New AKS cost views for standard and premium tier clusters </title>
-      <description>New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters.
-
-
-</description>
-      <pubDate>Wed, 06 Dec 2023 23:51:04 Z</pubDate>
-      <atom:content
-        type="text">New AKS cost views showing aggregated costs for clusters in a subscription and costs of all namespaces in clusters are now available in Cost analysis within Azure portal for standard and premium tier clusters.
-
-
-</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-node-autoprovision-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-node-autoprovision-support-in-aks/</link>
-      <title>Public preview: Node autoprovision support in AKS </title>
-      <description>AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.  </description>
-      <pubDate>Wed, 06 Dec 2023 18:00:15 Z</pubDate>
-      <atom:content
-        type="text">AKS can now take care of VM SKU selection based on the workloads you are scheduling rather than you having to pre-allocate node pools of a certain SKU type.  </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
