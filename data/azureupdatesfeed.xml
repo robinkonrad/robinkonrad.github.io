@@ -6,11 +6,38 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 17:12:38 Z</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 18:17:25 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">breaking-changes-to-azure-api-management-workspaces</guid>
+      <link>https://azure.microsoft.com/en-us/updates/breaking-changes-to-azure-api-management-workspaces/</link>
+      <category>Azure API Management</category>
+      <title>Breaking Changes to Azure API Management Workspaces</title>
+      <description>As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  
+
+These breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service. </description>
+      <pubDate>Mon, 25 Mar 2024 18:00:25 Z</pubDate>
+      <atom:content
+        type="text">As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  
+
+These breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-of-the-automatic-scaling-feature</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/</link>
+      <title>General Availability: Automatic Scaling for App Service Web Apps</title>
+      <description>Azure App Service is pleased to announce general availability of the "Automatic Scaling" feature. </description>
+      <pubDate>Mon, 25 Mar 2024 18:00:16 Z</pubDate>
+      <atom:content
+        type="text">Azure App Service is pleased to announce general availability of the "Automatic Scaling" feature. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">preview-new-features-in-azure-container-storage</guid>
@@ -2306,30 +2333,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Wed, 13 Dec 2023 18:00:06 Z</pubDate>
       <atom:content
         type="text">The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">delaying-domain-front-block-on-afd-and-cdn-services</guid>
-      <link>https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/</link>
-      <title>Delaying Domain Front Block on Azure Front Door and CDN services</title>
-      <description>Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.</description>
-      <pubDate>Wed, 13 Dec 2023 17:00:06 Z</pubDate>
-      <atom:content
-        type="text">Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azureappconfiguration-snapshots-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azureappconfiguration-snapshots-ga/</link>
-      <category>App Configuration</category>
-      <category>Features</category>
-      <title>General Availability - Snapshots feature of Azure App Configuration</title>
-      <description>Assure stable production configuration, get efficient rollbacks, and a comprehensive configuration audit trail for enhanced reliability in Azure.</description>
-      <pubDate>Mon, 11 Dec 2023 17:00:58 Z</pubDate>
-      <atom:content
-        type="text">Assure stable production configuration, get efficient rollbacks, and a comprehensive configuration audit trail for enhanced reliability in Azure.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

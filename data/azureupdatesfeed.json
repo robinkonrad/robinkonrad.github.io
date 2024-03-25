@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 25 Mar 2024 17:12:38 Z",
+      "lastBuildDate": "Mon, 25 Mar 2024 18:17:25 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "breaking-changes-to-azure-api-management-workspaces"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/breaking-changes-to-azure-api-management-workspaces/",
+          "category": "Azure API Management",
+          "title": "Breaking Changes to Azure API Management Workspaces",
+          "description": "As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  \n\nThese breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service.",
+          "pubDate": "Mon, 25 Mar 2024 18:00:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  \n\nThese breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-of-the-automatic-scaling-feature"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/",
+          "title": "General Availability: Automatic Scaling for App Service Web Apps",
+          "description": "Azure App Service is pleased to announce general availability of the \"Automatic Scaling\" feature.",
+          "pubDate": "Mon, 25 Mar 2024 18:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure App Service is pleased to announce general availability of the \"Automatic Scaling\" feature."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3119,40 +3150,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "delaying-domain-front-block-on-afd-and-cdn-services"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/delaying-domain-front-block-on-afd-and-cdn-services/",
-          "title": "Delaying Domain Front Block on Azure Front Door and CDN services",
-          "description": "Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023.",
-          "pubDate": "Wed, 13 Dec 2023 17:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Front Door and Azure CDN Standard from Microsoft (classic) are postponing the domain fronting blocking enforcement to January 22, 2024, and will add two log fields to help you check if your resources display domain fronting behavior by December 25, 2023."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azureappconfiguration-snapshots-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azureappconfiguration-snapshots-ga/",
-          "category": [
-            "App Configuration",
-            "Features"
-          ],
-          "title": "General Availability - Snapshots feature of Azure App Configuration",
-          "description": "Assure stable production configuration, get efficient rollbacks, and a comprehensive configuration audit trail for enhanced reliability in Azure.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:58 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Assure stable production configuration, get efficient rollbacks, and a comprehensive configuration audit trail for enhanced reliability in Azure."
           },
           "content:encoded": null
         }
