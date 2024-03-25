@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 25 Mar 2024 15:14:45 Z",
+      "lastBuildDate": "Mon, 25 Mar 2024 16:17:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mdcc-publicpreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/mdcc-publicpreview/",
+          "title": "Public Preview: Agentless multi-disk crash consistent backup by Azure Backup for VM",
+          "description": "Azure VM backup now supports agentless multi-disk crash consistent backups in public preview.",
+          "pubDate": "Mon, 25 Mar 2024 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure VM backup now supports agentless multi-disk crash consistent backups in public preview."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3138,25 +3153,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Support for Microsoft Graph API events helps you automate actions in response to Microsoft resource changes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-it-service-management-connector-itsmc-is-now-certified-with-servicenow-vancouver-version"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-it-service-management-connector-itsmc-is-now-certified-with-servicenow-vancouver-version/",
-          "category": [
-            "Alerts",
-            "Email"
-          ],
-          "title": "Public Preview: IT Service Management Connector (ITSMC)  is now certified with ServiceNow Vancouver version",
-          "description": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:47 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The ITSM connector provides a bi-directional connection between Azure and ITSM tools to help track and resolve issues faster."
           },
           "content:encoded": null
         }
