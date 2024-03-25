@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 25 Mar 2024 16:17:06 Z",
+      "lastBuildDate": "Mon, 25 Mar 2024 17:12:38 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-new-features-in-azure-container-storage"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-new-features-in-azure-container-storage/",
+          "title": "Preview: New Features in Azure Container Storage",
+          "description": "Azure Container Storage is a fully managed volume orchestration service built natively for containers. New capabilities include support for Temp SSD, simplified installation via AKS CLI, and scalable storage for cost-efficient workload management.",
+          "pubDate": "Mon, 25 Mar 2024 17:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Container Storage is a fully managed volume orchestration service built natively for containers. New capabilities include support for Temp SSD, simplified installation via AKS CLI, and scalable storage for cost-efficient workload management."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3138,21 +3153,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Assure stable production configuration, get efficient rollbacks, and a comprehensive configuration audit trail for enhanced reliability in Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "event-grid-graph-api-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/event-grid-graph-api-public-preview/",
-          "title": "Azure Event Grid releases public preview support for events from services like Microsoft Entra ID, Microsoft Outlook, and Microsoft Teams.",
-          "description": "Support for Microsoft Graph API events helps you automate actions in response to Microsoft resource changes.",
-          "pubDate": "Mon, 11 Dec 2023 17:00:55 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Support for Microsoft Graph API events helps you automate actions in response to Microsoft resource changes."
           },
           "content:encoded": null
         }
