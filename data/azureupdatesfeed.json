@@ -12,13 +12,63 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 26 Mar 2024 15:12:59 Z",
+      "lastBuildDate": "Tue, 26 Mar 2024 16:16:55 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-database-mirroring-in-microsoft-fabric"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-database-mirroring-in-microsoft-fabric/",
+          "title": "Public Preview: Azure SQL Database Mirroring in Microsoft Fabric",
+          "description": "Mirroring Azure SQL Database provides an easy experience to continuously replicate SQL DB data directly into Microsoft Fabric.",
+          "pubDate": "Tue, 26 Mar 2024 16:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Mirroring Azure SQL Database provides an easy experience to continuously replicate SQL DB data directly into Microsoft Fabric."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-static-web-apps-distributed-functions-capability-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-static-web-apps-distributed-functions-capability-now-in-public-preview/",
+          "title": "Azure Static Web Apps distributed functions capability now in Public Preview",
+          "description": "Reduced latency by distributing managed functions to regions of high demand.",
+          "pubDate": "Tue, 26 Mar 2024 16:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Reduced latency by distributing managed functions to regions of high demand."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-kubernetes-service-aks-on-vmware"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-kubernetes-service-aks-on-vmware/",
+          "category": [
+            "AKS",
+            "VMware",
+            "Arc"
+          ],
+          "title": "Public Preview: Azure Kubernetes Service (AKS) on VMware",
+          "description": "Using AKS on VMware (Preview), customers can now centrally manage all their VMware workloads using a single-step deployment process by connecting the VMware vCenter Server to Azure Arc.",
+          "pubDate": "Tue, 26 Mar 2024 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Using AKS on VMware (Preview), customers can now centrally manage all their VMware workloads using a single-step deployment process by connecting the VMware vCenter Server to Azure Arc."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3105,51 +3155,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "For Azure partners and customers seeking to develop business continuity and disaster recovery solutions, crash-consistent VM restore points serve as feature-rich building blocks, offering an agentless solution available natively on the Azure platform."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "store-and-manage-medical-imaging-data-with-azure-data-lake-storage-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/store-and-manage-medical-imaging-data-with-azure-data-lake-storage-preview/",
-          "title": "Store and manage medical imaging data with Azure Data Lake Storage (Preview)",
-          "description": "With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs.",
-          "pubDate": "Mon, 18 Dec 2023 16:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "container-insights-recommended-alerts-custom-metrics-preview-retirement-moving-up-to-31-may-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/container-insights-recommended-alerts-custom-metrics-preview-retirement-moving-up-to-31-may-2024/",
-          "title": "Container insights recommended alerts (custom metrics) (preview) retirement moving up to 31 May 2024",
-          "description": "Transition to Prometheus recommended alert rules (preview) before 31 May 2024.",
-          "pubDate": "Sat, 16 Dec 2023 00:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Transition to Prometheus recommended alert rules (preview) before 31 May 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-intel-tdx-based-confidential-vms-now-available-in-the-azure-portal-azure-cli-and-arm-templates/",
-          "title": "Public preview: Intel TDX based confidential VMs now available in the Azure portal, Azure CLI and ARM templates",
-          "description": "The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications.",
-          "pubDate": "Wed, 13 Dec 2023 18:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The DCesv5 and ECesv5-series confidential virtual machines (VMs) are now available in the Azure portal and via the CLI and ARM templates. These VMs enable organizations to bring confidential workloads to the cloud without code changes to applications."
           },
           "content:encoded": null
         }
