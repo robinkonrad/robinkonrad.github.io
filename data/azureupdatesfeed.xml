@@ -6,11 +6,60 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 23:15:44 Z</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:58:24 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">breaking-changes-to-azure-api-management-workspaces</guid>
+      <link>https://azure.microsoft.com/en-us/updates/breaking-changes-to-azure-api-management-workspaces/</link>
+      <category>Azure API Management</category>
+      <title>Breaking Changes to Azure API Management Workspaces</title>
+      <description>As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  
+
+These breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service. </description>
+      <pubDate>Mon, 25 Mar 2024 18:00:25 Z</pubDate>
+      <atom:content
+        type="text">As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  
+
+These breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-of-the-automatic-scaling-feature</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/</link>
+      <title>General Availability: Automatic Scaling for App Service Web Apps</title>
+      <description>Azure App Service is pleased to announce general availability of the "Automatic Scaling" feature. </description>
+      <pubDate>Mon, 25 Mar 2024 18:00:16 Z</pubDate>
+      <atom:content
+        type="text">Azure App Service is pleased to announce general availability of the "Automatic Scaling" feature. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">preview-new-features-in-azure-container-storage</guid>
+      <link>https://azure.microsoft.com/en-us/updates/preview-new-features-in-azure-container-storage/</link>
+      <title>Preview: New Features in Azure Container Storage </title>
+      <description>Azure Container Storage is a fully managed volume orchestration service built natively for containers. New capabilities include support for Temp SSD, simplified installation via AKS CLI, and scalable storage for cost-efficient workload management.</description>
+      <pubDate>Mon, 25 Mar 2024 17:00:16 Z</pubDate>
+      <atom:content
+        type="text">Azure Container Storage is a fully managed volume orchestration service built natively for containers. New capabilities include support for Temp SSD, simplified installation via AKS CLI, and scalable storage for cost-efficient workload management.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">mdcc-publicpreview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/mdcc-publicpreview/</link>
+      <title>Public Preview: Agentless multi-disk crash consistent backup by Azure Backup for VM</title>
+      <description>Azure VM backup now supports agentless multi-disk crash consistent backups in public preview.</description>
+      <pubDate>Mon, 25 Mar 2024 16:00:15 Z</pubDate>
+      <atom:content
+        type="text">Azure VM backup now supports agentless multi-disk crash consistent backups in public preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025</guid>
@@ -1848,6 +1897,17 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
     </item>
     <item>
       <guid
+        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
+      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
+      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
+      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">kusto-graph-cycles-nonlinear-patterns</guid>
       <link>https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/</link>
       <category>kusto</category>
@@ -1856,17 +1916,6 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
       <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
       <atom:content
         type="text">The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
-      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
-      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
-      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
-      <atom:content
-        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2283,50 +2332,6 @@ We have introduced several cost optimization related recommendations and added A
       <pubDate>Mon, 18 Dec 2023 17:00:54 Z</pubDate>
       <atom:content
         type="text">Multi-Line Logging in Azure Monitor - Container Insights is designed to simplify and streamline your Log Analysis. This feature allows you to seamlessly collect and store multiple lines of log data within a single log entry, enhancing the ease with which you can view and analyze logs from your containerized applications. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-chaos-studio-supports-new-faults-for-service-bus</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-chaos-studio-supports-new-faults-for-service-bus/</link>
-      <title>Generally Available: Azure Chaos Studio supports new faults for Service Bus</title>
-      <description>Azure Chaos Studio supports new faults for Service Bus.</description>
-      <pubDate>Mon, 18 Dec 2023 17:00:47 Z</pubDate>
-      <atom:content
-        type="text">Azure Chaos Studio supports new faults for Service Bus.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-red-hat-enterprise-linux-89-now-supported-on-azure-virtual-machines</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-red-hat-enterprise-linux-89-now-supported-on-azure-virtual-machines/</link>
-      <title>Generally Available: Red Hat Enterprise Linux 8.9 now supported on Azure Virtual Machines</title>
-      <description>Red Hat Enterprise Linux (RHEL) 8.9 is the latest minor release of Red Hat Enterprise Linux 8, which provides stability and security for production environments along with bug fixes and enhancements for improved performance and reliability. It also includes more features and capabilities to help customers customize their operating environment while maintaining the consistency needed for more efficient management and deployment across varied infrastructures.</description>
-      <pubDate>Mon, 18 Dec 2023 17:00:45 Z</pubDate>
-      <atom:content
-        type="text">Red Hat Enterprise Linux (RHEL) 8.9 is the latest minor release of Red Hat Enterprise Linux 8, which provides stability and security for production environments along with bug fixes and enhancements for improved performance and reliability. It also includes more features and capabilities to help customers customize their operating environment while maintaining the consistency needed for more efficient management and deployment across varied infrastructures.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-crash-consistent-vm-restore-points</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-crash-consistent-vm-restore-points/</link>
-      <title>Generally available: Crash Consistent VM Restore points</title>
-      <description>For Azure partners and customers seeking to develop business continuity and disaster recovery solutions, crash-consistent VM restore points serve as feature-rich building blocks, offering an agentless solution available natively on the Azure platform. </description>
-      <pubDate>Mon, 18 Dec 2023 17:00:31 Z</pubDate>
-      <atom:content
-        type="text">For Azure partners and customers seeking to develop business continuity and disaster recovery solutions, crash-consistent VM restore points serve as feature-rich building blocks, offering an agentless solution available natively on the Azure platform. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">store-and-manage-medical-imaging-data-with-azure-data-lake-storage-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/store-and-manage-medical-imaging-data-with-azure-data-lake-storage-preview/</link>
-      <title>Store and manage medical imaging data with Azure Data Lake Storage (Preview)</title>
-      <description>With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs.</description>
-      <pubDate>Mon, 18 Dec 2023 16:00:30 Z</pubDate>
-      <atom:content
-        type="text">With the integration of Azure Data Lake Storage and the DICOM service, organizations can now enjoy full control over their imaging data and increased flexibility for accessing and working with that data through the Azure storage ecosystem and APIs.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
