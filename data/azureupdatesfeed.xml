@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2024 17:11:35 Z</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 18:17:30 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -314,17 +314,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
-        isPermaLink="false">crossclouddeprecation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
-      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
-      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">azure-synapse-runtime-for-apache-spark-32-end-of-support</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/</link>
       <title>Azure Synapse Runtime for Apache Spark 3.2 End of Support </title>
@@ -332,6 +321,17 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
       <atom:content
         type="text">End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">crossclouddeprecation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
+      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
+      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
+      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
+      <atom:content
+        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2098,6 +2098,17 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
     </item>
     <item>
       <guid
+        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
+      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
+      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
+      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
+      <atom:content
+        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">kusto-graph-cycles-nonlinear-patterns</guid>
       <link>https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/</link>
       <category>kusto</category>
@@ -2106,17 +2117,6 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
       <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
       <atom:content
         type="text">The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-automation-runtime-environment-azurecli-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/</link>
-      <title>Public Preview: Azure Automation Runtime environment &amp; support for Azure CLI commands in runbooks </title>
-      <description>Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</description>
-      <pubDate>Wed, 24 Jan 2024 17:00:22 Z</pubDate>
-      <atom:content
-        type="text">Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
