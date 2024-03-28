@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 28 Mar 2024 15:13:56 Z",
+      "lastBuildDate": "Thu, 28 Mar 2024 16:15:52 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-logic-apps-designer-for-consumption"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-logic-apps-designer-for-consumption/",
+          "category": "Azure Logic Apps",
+          "title": "GA: Azure Logic Apps Designer for Consumption",
+          "description": "We're thrilled to announce the general availability of the new Azure Logic Apps Designer for Consumption, revolutionizing your workflow experience with unparalleled speed, smoothness, and reliability. Unifying the designer experience across all supported platforms, including standard Azure Logic Apps, the Azure Logic Apps Visual Studio Code extension, and consumption Azure Logic Apps in the portal, ensures seamless usability and familiarity wherever you work.",
+          "pubDate": "Thu, 28 Mar 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're thrilled to announce the general availability of the new Azure Logic Apps Designer for Consumption, revolutionizing your workflow experience with unparalleled speed, smoothness, and reliability. Unifying the designer experience across all supported platforms, including standard Azure Logic Apps, the Azure Logic Apps Visual Studio Code extension, and consumption Azure Logic Apps in the portal, ensures seamless usability and familiarity wherever you work."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2860,6 +2876,21 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "azure-automation-runtime-environment-azurecli-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
+          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
+          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
+          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "kusto-graph-cycles-nonlinear-patterns"
           },
           "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
@@ -2870,21 +2901,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-automation-runtime-environment-azurecli-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-automation-runtime-environment-azurecli-support/",
-          "title": "Public Preview: Azure Automation Runtime environment & support for Azure CLI commands in runbooks",
-          "description": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Automation introduces Runtime environment (preview) and enables support for Azure CLI commands in runbooks."
           },
           "content:encoded": null
         },
@@ -3114,26 +3130,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "announcing-public-preview-of-the-azure-arc-visual-studio-code-extension"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/announcing-public-preview-of-the-azure-arc-visual-studio-code-extension/",
-          "category": [
-            "Azure Arc",
-            "hybrid",
-            "multicloud"
-          ],
-          "title": "Announcing Public Preview of the Azure Arc Visual Studio Code Extension",
-          "description": "Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension.",
-          "pubDate": "Thu, 11 Jan 2024 17:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension."
           },
           "content:encoded": null
         }
