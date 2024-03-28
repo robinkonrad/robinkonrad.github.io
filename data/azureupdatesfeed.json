@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 28 Mar 2024 19:09:28 Z",
+      "lastBuildDate": "Thu, 28 Mar 2024 20:14:50 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-improved-throughput-performance-on-azure-disks-standard-ssd"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/",
+          "title": "GA: Improved throughput performance on Azure Disks’ Standard SSD",
+          "description": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower.",
+          "pubDate": "Thu, 28 Mar 2024 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -68,21 +83,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-support-for-key-vault-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
-          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
-          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
@@ -92,6 +92,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-key-vault-certificates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
+          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
+          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
           },
           "content:encoded": null
         },
@@ -3126,22 +3141,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now available in the UK West and Poland Central regions, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-5"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-more-regions-5/",
-          "category": "AzurePortal",
-          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in more regions",
-          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the West US3 and Germany West Central regions.",
-          "pubDate": "Mon, 08 Jan 2024 18:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the West US3 and Germany West Central regions."
           },
           "content:encoded": null
         }
