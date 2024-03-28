@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 28 Mar 2024 16:15:52 Z",
+      "lastBuildDate": "Thu, 28 Mar 2024 17:13:09 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sphere-version-2403-is-now-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2403-is-now-available/",
+          "title": "Azure Sphere version 24.03 and Azure Sphere (Integrated) are now generally available",
+          "description": "The Azure Sphere 24.03 release includes Azure Sphere (Integrated) general availability, support for custom certificates to connect to Azure IoT Services, an updated version of cURL for the Azure Sphere OS, security fixes, SDK support for Ubuntu 24.04 pre-release, removal of SDK support for Ubuntu 18.04 LTS, and changes to the CMake toolchain.",
+          "pubDate": "Thu, 28 Mar 2024 17:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere 24.03 release includes Azure Sphere (Integrated) general availability, support for custom certificates to connect to Azure IoT Services, an updated version of cURL for the Azure Sphere OS, security fixes, SDK support for Ubuntu 24.04 pre-release, removal of SDK support for Ubuntu 18.04 LTS, and changes to the CMake toolchain."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-improved-throughput-performance-on-azure-disks-standard-ssd"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/",
+          "title": "Preview: Improved throughput performance on Azure Disks’ Standard SSD",
+          "description": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower.",
+          "pubDate": "Thu, 28 Mar 2024 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -99,21 +129,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-support-for-key-vault-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
-          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
-          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
@@ -123,6 +138,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-key-vault-certificates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
+          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
+          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
           },
           "content:encoded": null
         },
@@ -3095,41 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now merge partitions in Azure Cosmos DB on shared throughput databases. Merging partitions allows you to reduce the number of physical partitions used for your container."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-virtual-network-encryption-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-2/",
-          "title": "General availability: Azure Virtual Network encryption",
-          "description": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.",
-          "pubDate": "Wed, 17 Jan 2024 16:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-for-azure-netapp-files-volume-encryption/",
-          "category": [
-            "Features",
-            "Security",
-            "Tags"
-          ],
-          "title": "General Availability: Customer-managed keys for Azure NetApp Files volume encryption",
-          "description": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest.",
-          "pubDate": "Thu, 11 Jan 2024 17:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files volumes supports encryption with customer-managed keys (CMK), using Azure Key Vault for key storage, to enable an extra layer of security for data at rest."
           },
           "content:encoded": null
         }
