@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 28 Mar 2024 21:12:28 Z",
+      "lastBuildDate": "Thu, 28 Mar 2024 22:12:31 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-sphere-version-2403-is-now-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2403-is-now-available/",
+          "title": "Azure Sphere version 24.03 and Azure Sphere (Integrated) are now generally available",
+          "description": "The Azure Sphere 24.03 release includes Azure Sphere (Integrated) general availability, support for custom certificates to connect to Azure IoT Services, an updated version of cURL for the Azure Sphere OS, security fixes, SDK support for Ubuntu 24.04 pre-release, removal of SDK support for Ubuntu 18.04 LTS, and changes to the CMake toolchain.",
+          "pubDate": "Thu, 28 Mar 2024 17:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure Sphere 24.03 release includes Azure Sphere (Integrated) general availability, support for custom certificates to connect to Azure IoT Services, an updated version of cURL for the Azure Sphere OS, security fixes, SDK support for Ubuntu 24.04 pre-release, removal of SDK support for Ubuntu 18.04 LTS, and changes to the CMake toolchain."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -31,6 +46,37 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-azure-logic-apps-designer-for-consumption"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-logic-apps-designer-for-consumption/",
+          "category": "Azure Logic Apps",
+          "title": "GA: Azure Logic Apps Designer for Consumption",
+          "description": "We're thrilled to announce the general availability of the new Azure Logic Apps Designer for Consumption, revolutionizing your workflow experience with unparalleled speed, smoothness, and reliability. Unifying the designer experience across all supported platforms, including standard Azure Logic Apps, the Azure Logic Apps Visual Studio Code extension, and consumption Azure Logic Apps in the portal, ensures seamless usability and familiarity wherever you work.",
+          "pubDate": "Thu, 28 Mar 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're thrilled to announce the general availability of the new Azure Logic Apps Designer for Consumption, revolutionizing your workflow experience with unparalleled speed, smoothness, and reliability. Unifying the designer experience across all supported platforms, including standard Azure Logic Apps, the Azure Logic Apps Visual Studio Code extension, and consumption Azure Logic Apps in the portal, ensures seamless usability and familiarity wherever you work."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-ai-studio-safety-evaluations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-ai-studio-safety-evaluations/",
+          "title": "Public Preview: Safety evaluations for generative AI applications in Azure AI Studio",
+          "description": "Measure your generative AI application’s susceptibility to jailbreak attacks and to producing unsafe content, so you can implement effective mitigations and go from prototype to production with confidence.",
+          "pubDate": "Thu, 28 Mar 2024 15:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Measure your generative AI application’s susceptibility to jailbreak attacks and to producing unsafe content, so you can implement effective mitigations and go from prototype to production with confidence."
           },
           "content:encoded": null
         },
@@ -3096,51 +3142,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "With Azure Load Testing, you can now measure response time as experienced by the end user leveraging the Web Driver Sampler plugin for Apache JMeter"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-supports-fetching-secrets-from-azure-key-vault-with-access-restrictions-private-akv"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-fetching-secrets-from-azure-key-vault-with-access-restrictions-private-akv/",
-          "title": "Azure Load Testing supports fetching secrets from Azure Key Vault with access restrictions (private AKV)",
-          "description": "You can now use secrets from an Azure Key Vault with access restrictions in Azure Load Testing.",
-          "pubDate": "Tue, 09 Jan 2024 18:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use secrets from an Azure Key Vault with access restrictions in Azure Load Testing."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-data-explorer-connector-for-apache-flink"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-data-explorer-connector-for-apache-flink/",
-          "title": "Public Preview: Azure Data Explorer connector for Apache Flink",
-          "description": "Azure Data Explorer connector for Apache Flink (Public Preview)",
-          "pubDate": "Mon, 08 Jan 2024 20:04:46 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Data Explorer connector for Apache Flink (Public Preview)"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-ultra-disk-storage-is-now-available-in-uk-west-and-poland-central"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-uk-west-and-poland-central/",
-          "title": "Azure Ultra Disk Storage is now available in UK West and Poland Central",
-          "description": "Now available in the UK West and Poland Central regions, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.",
-          "pubDate": "Mon, 08 Jan 2024 18:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now available in the UK West and Poland Central regions, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads."
           },
           "content:encoded": null
         }
