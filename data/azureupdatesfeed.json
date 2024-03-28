@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 28 Mar 2024 14:14:32 Z",
+      "lastBuildDate": "Thu, 28 Mar 2024 15:13:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-ai-studio-safety-evaluations"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-ai-studio-safety-evaluations/",
+          "title": "Public Preview: Safety evaluations for generative AI applications in Azure AI Studio",
+          "description": "Measure your generative AI application’s susceptibility to jailbreak attacks and to producing unsafe content, so you can implement effective mitigations and go from prototype to production with confidence.",
+          "pubDate": "Thu, 28 Mar 2024 15:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Measure your generative AI application’s susceptibility to jailbreak attacks and to producing unsafe content, so you can implement effective mitigations and go from prototype to production with confidence."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -415,21 +430,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
-          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
-          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "crossclouddeprecation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
@@ -439,6 +439,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
+          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
+          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
           },
           "content:encoded": null
         },
@@ -3119,21 +3134,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Learn more about the Public Preview of the new Azure Arc Visual Studio Code Extension."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "create-tests-by-adding-http-requests-in-azure-load-testing"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/create-tests-by-adding-http-requests-in-azure-load-testing/",
-          "title": "Create tests by adding HTTP requests in Azure Load Testing",
-          "description": "Azure Load Testing now supports creating load tests by HTTP requests.",
-          "pubDate": "Thu, 11 Jan 2024 15:56:53 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Testing now supports creating load tests by HTTP requests."
           },
           "content:encoded": null
         }
