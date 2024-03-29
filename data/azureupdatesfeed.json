@@ -12,13 +12,33 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 29 Mar 2024 17:12:15 Z",
+      "lastBuildDate": "Fri, 29 Mar 2024 18:16:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-availability-zone-volume-placement-for-azure-netapp-files"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-availability-zone-volume-placement-for-azure-netapp-files/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "General availability: Availability zone volume placement for Azure NetApp Files",
+          "description": "Deploy new Azure NetApp Files volumes in Azure availability zones (AZs) of your choice to support workloads across multiple availability zones",
+          "pubDate": "Fri, 29 Mar 2024 17:24:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Deploy new Azure NetApp Files volumes in Azure availability zones (AZs) of your choice to support workloads across multiple availability zones"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3127,21 +3147,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Trusted launch VMs now support Azure Premium SSD v2 and Ultra disks storage."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-load-testing-supports-web-driver-sampler-plugin-for-apache-jmeter/",
-          "title": "Azure Load Testing supports Web Driver Sampler plugin for Apache JMeter",
-          "description": "With Azure Load Testing, you can now measure response time as experienced by the end user leveraging the Web Driver Sampler plugin for Apache JMeter",
-          "pubDate": "Tue, 09 Jan 2024 18:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "With Azure Load Testing, you can now measure response time as experienced by the end user leveraging the Web Driver Sampler plugin for Apache JMeter"
           },
           "content:encoded": null
         }
