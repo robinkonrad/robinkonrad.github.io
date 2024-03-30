@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 29 Mar 2024 23:12:16 Z",
+      "lastBuildDate": "Sat, 30 Mar 2024 00:56:57 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
+          "title": "Begin using Azure Monitor–based dashboards in Azure API Management before the built-in analytics dashboards are retired on 15 March 2027",
+          "description": "The classic built-in analytics dashboards will be retired on 15 March 2027.",
+          "pubDate": "Fri, 29 Mar 2024 23:19:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The classic built-in analytics dashboards will be retired on 15 March 2027."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3112,22 +3127,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are pleased to announce that it is now possible to create dedicated clusters in public and sovereign clouds at any commitment tiers, starting at a minimum of 100GB per day. This capability is…"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "kusto-graph-cycles-nonlinear-patterns"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-cycles-nonlinear-patterns/",
-          "category": "kusto",
-          "title": "New Features for graph-match KQL Operator: Enhanced Pattern Matching and Cycle Control",
-          "description": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries.",
-          "pubDate": "Wed, 24 Jan 2024 17:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The graph-match operator in Kusto Query Language (KQL) allows you to query your data as a graph and find matches for a specified pattern. The latest update introduces two new features: the cycles parameter and the nonlinear patterns. These features enable you to control how cycles are matched and express more complex and flexible patterns in your graph queries."
           },
           "content:encoded": null
         }
