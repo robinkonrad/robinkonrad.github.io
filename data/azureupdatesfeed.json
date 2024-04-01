@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 01 Apr 2024 15:13:18 Z",
+      "lastBuildDate": "Mon, 01 Apr 2024 16:16:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mysql-flexibleserverlongtermretenttion"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/mysql-flexibleserverlongtermretenttion/",
+          "category": "Azure Backup",
+          "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
+          "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
+          "pubDate": "Mon, 01 Apr 2024 16:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3109,21 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The selectable search parameter capability for the FHIR service in Azure Health Data Services allows you to tailor and enhance searches on FHIR resources. You can choose which inbuilt search parameters to enable or disable for the FHIR service according to your unique requirements. By enabling only the search parameters you need, you can store more FHIR resources and potentially improve performance of FHIR search queries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "cloud-services-classic-retirement-announcement-jan2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-jan2024/",
-          "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
-          "description": "Migrate your cloud services to a new deployment model before 31 August 2024.",
-          "pubDate": "Sat, 27 Jan 2024 00:00:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate your cloud services to a new deployment model before 31 August 2024."
           },
           "content:encoded": null
         }
