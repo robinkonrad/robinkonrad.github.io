@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 01 Apr 2024 21:12:14 Z",
+      "lastBuildDate": "Mon, 01 Apr 2024 22:13:09 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -47,6 +47,38 @@
           "atom:content": {
             "@type": "text",
             "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mysql-flexibleserverlongtermretenttion"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/mysql-flexibleserverlongtermretenttion/",
+          "category": "Azure Backup",
+          "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
+          "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
+          "pubDate": "Mon, 01 Apr 2024 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azurefiles-vaultedbackups"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azurefiles-vaultedbackups/",
+          "category": "Azure Database for PostgreSQL; Azure Backup",
+          "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
+          "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
+          "pubDate": "Mon, 01 Apr 2024 14:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
           },
           "content:encoded": null
         },
@@ -3091,37 +3123,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customer-managed keys allow you to use your own key for cluster data encryption at rest."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-israel-central-region-added-to-azure-hdinsight"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-israel-central-region-added-to-azure-hdinsight/",
-          "category": "HDInsight",
-          "title": "General availability: Israel Central region added to Azure HDInsight",
-          "description": ".",
-          "pubDate": "Tue, 30 Jan 2024 23:00:19 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-italy-north-region-added-to-azure-hdinsight"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-italy-north-region-added-to-azure-hdinsight/",
-          "title": "General availability: Italy North region added to Azure HDInsight",
-          "description": ".",
-          "pubDate": "Tue, 30 Jan 2024 23:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "."
           },
           "content:encoded": null
         }
