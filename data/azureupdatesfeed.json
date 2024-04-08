@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 08 Apr 2024 16:19:06 Z",
+      "lastBuildDate": "Mon, 08 Apr 2024 17:13:13 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "appservicempsjpp"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/appservicempsjpp/",
+          "title": "App Service virtual network integration multi plan subnet join",
+          "description": "We're excited to announce that the multi plan subnet join for virtual network integration is now available in preview in all regions!",
+          "pubDate": "Mon, 08 Apr 2024 17:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're excited to announce that the multi plan subnet join for virtual network integration is now available in preview in all regions!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-available-azure-synapse-runtime-for-apache-spark-34-is-now-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-available-azure-synapse-runtime-for-apache-spark-34-is-now-ga/",
+          "title": "General Available: Azure Synapse Runtime for Apache Spark 3.4 is now GA",
+          "description": "Azure Synapse Runtime for Apache Spark 3.4 is now Generally Available",
+          "pubDate": "Mon, 08 Apr 2024 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Synapse Runtime for Apache Spark 3.4 is now Generally Available"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3097,36 +3127,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now run containers apps that accept TCP connections on multiple ports."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-distributed-tracing-v2-for-durable-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-distributed-tracing-v2-for-durable-functions/",
-          "title": "Public Preview: Distributed tracing v2 for durable Functions",
-          "description": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "visual-studio-code-extension-update-for-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-update-for-azure-kubernetes-service-aks/",
-          "title": "Visual Studio Code extension update for Azure Kubernetes Service (AKS)",
-          "description": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more."
           },
           "content:encoded": null
         }
