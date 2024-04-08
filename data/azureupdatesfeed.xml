@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Apr 2024 15:12:49 Z</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 16:19:06 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-monitor-agent-upload-to-storage-and-eventhubs-now-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-agent-upload-to-storage-and-eventhubs-now-public-preview/</link>
+      <title>Public Preview: Azure Monitor Agent Upload to Storage and Event Hubs</title>
+      <description>Azure Monitor Agent can now upload to Storage and Event Hubs.</description>
+      <pubDate>Mon, 08 Apr 2024 16:00:43 Z</pubDate>
+      <atom:content
+        type="text">Azure Monitor Agent can now upload to Storage and Event Hubs.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-backup-vm-disk-access-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-backup-vm-disk-access-public-preview/</link>
+      <title>Public preview: Backup and restore of virtual machines with private endpoint enabled disks</title>
+      <description>Azure Backup can now help you back up virtual machines using private endpoint-enabled disks. You can now also specify network settings to be used by the restored disks while initiating the restore process. </description>
+      <pubDate>Mon, 08 Apr 2024 16:00:42 Z</pubDate>
+      <atom:content
+        type="text">Azure Backup can now help you back up virtual machines using private endpoint-enabled disks. You can now also specify network settings to be used by the restored disks while initiating the restore process. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">action-recommended-prepare-for-model-version-retirement-in-azure-openai</guid>
@@ -2286,28 +2308,6 @@ We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Av
       <pubDate>Wed, 31 Jan 2024 18:00:04 Z</pubDate>
       <atom:content
         type="text">You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-node-os-api-options-feature-for-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-node-os-api-options-feature-for-aks/</link>
-      <title>Public preview: Node OS API options feature for AKS</title>
-      <description>You can now get Node IP for tasks such as troubleshooting, without needing kubectl access</description>
-      <pubDate>Wed, 31 Jan 2024 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">You can now get Node IP for tasks such as troubleshooting, without needing kubectl access</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-disable-secure-shell-ssh-support-in-aks-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-disable-secure-shell-ssh-support-in-aks-2/</link>
-      <title>Public preview: Disable Secure Shell (SSH) support in AKS</title>
-      <description>You can now disable SSH for AKS to reduce the attach surface on your cluster. </description>
-      <pubDate>Wed, 31 Jan 2024 18:00:03 Z</pubDate>
-      <atom:content
-        type="text">You can now disable SSH for AKS to reduce the attach surface on your cluster. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

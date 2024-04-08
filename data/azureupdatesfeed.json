@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 08 Apr 2024 15:12:49 Z",
+      "lastBuildDate": "Mon, 08 Apr 2024 16:19:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-agent-upload-to-storage-and-eventhubs-now-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-upload-to-storage-and-eventhubs-now-public-preview/",
+          "title": "Public Preview: Azure Monitor Agent Upload to Storage and Event Hubs",
+          "description": "Azure Monitor Agent can now upload to Storage and Event Hubs.",
+          "pubDate": "Mon, 08 Apr 2024 16:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor Agent can now upload to Storage and Event Hubs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-backup-vm-disk-access-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-backup-vm-disk-access-public-preview/",
+          "title": "Public preview: Backup and restore of virtual machines with private endpoint enabled disks",
+          "description": "Azure Backup can now help you back up virtual machines using private endpoint-enabled disks. You can now also specify network settings to be used by the restored disks while initiating the restore process.",
+          "pubDate": "Mon, 08 Apr 2024 16:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup can now help you back up virtual machines using private endpoint-enabled disks. You can now also specify network settings to be used by the restored disks while initiating the restore process."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3097,36 +3127,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-node-os-api-options-feature-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-os-api-options-feature-for-aks/",
-          "title": "Public preview: Node OS API options feature for AKS",
-          "description": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access",
-          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-disable-secure-shell-ssh-support-in-aks-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-disable-secure-shell-ssh-support-in-aks-2/",
-          "title": "Public preview: Disable Secure Shell (SSH) support in AKS",
-          "description": "You can now disable SSH for AKS to reduce the attach surface on your cluster.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now disable SSH for AKS to reduce the attach surface on your cluster."
           },
           "content:encoded": null
         }
