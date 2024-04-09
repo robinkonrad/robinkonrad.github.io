@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 09 Apr 2024 17:12:02 Z",
+      "lastBuildDate": "Tue, 09 Apr 2024 18:15:30 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "alt-appservice"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/alt-appservice/",
+          "title": "Run Azure Load Testing on Azure App Service web apps",
+          "description": "Load test your web apps directly from Azure App Service in Azure portal.",
+          "pubDate": "Tue, 09 Apr 2024 18:05:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Load test your web apps directly from Azure App Service in Azure portal."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1040,21 +1055,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "crossclouddeprecation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
-          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
-          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
@@ -1064,6 +1064,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "crossclouddeprecation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
+          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
+          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
           },
           "content:encoded": null
         },
@@ -3113,21 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Durable Functions extension v3.0.0 is currently in public preview. This new major version introduces major changes that benefit those using Azure Storage backend."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-functions-support-for-java-21-on-linux"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-java-21-on-linux/",
-          "title": "Public Preview: Azure Functions Support for Java 21 on Linux",
-          "description": "Azure Functions now supports Java 21 in preview on dedicated, consumption, and premium plans for Linux.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Functions now supports Java 21 in preview on dedicated, consumption, and premium plans for Linux."
           },
           "content:encoded": null
         }
