@@ -12,13 +12,103 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 10 Apr 2024 15:14:28 Z",
+      "lastBuildDate": "Wed, 10 Apr 2024 16:19:05 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-extensible-key-management-using-azure-key-vault-for-sql-server-on-linux"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-extensible-key-management-using-azure-key-vault-for-sql-server-on-linux/",
+          "title": "General availability: Extensible key management using Azure Key Vault for SQL Server on Linux",
+          "description": "Extensible key management (EKM) using Azure Key Vault in SQL Server on Linux is now generally available from SQL Server 2022 CU12 onwards.",
+          "pubDate": "Wed, 10 Apr 2024 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Extensible key management (EKM) using Azure Key Vault in SQL Server on Linux is now generally available from SQL Server 2022 CU12 onwards."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-virtual-private-network-vpn-with-azure-managed-instance-for-apache-cassandra"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-virtual-private-network-vpn-with-azure-managed-instance-for-apache-cassandra/",
+          "title": "General Availability: Virtual private network (VPN) with Azure Managed Instance for Apache Cassandra",
+          "description": "For enhanced security in your virtual network architectures where outbound connectivity is not allowed.",
+          "pubDate": "Wed, 10 Apr 2024 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "For enhanced security in your virtual network architectures where outbound connectivity is not allowed."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-database-for-postgresql-flexible-server-networking-with-azure-private-link"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-postgresql-flexible-server-networking-with-azure-private-link/",
+          "title": "General Availability: Azure Database for PostgreSQL - Flexible Server networking with Azure Private Link",
+          "description": "Azure Database for PostgreSQL – Flexible Server now supports Private Endpoints in General Availability.",
+          "pubDate": "Wed, 10 Apr 2024 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Database for PostgreSQL – Flexible Server now supports Private Endpoints in General Availability."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-longterm-retention-for-azure-database-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-longterm-retention-for-azure-database-for-mysql-flexible-server/",
+          "title": "Public Preview: Long-term retention for Azure Database for MySQL – Flexible Server",
+          "description": "The feature will allow you to retain/manage backups for up to 10 years in the standard tier according to your compliance and auditing needs.",
+          "pubDate": "Wed, 10 Apr 2024 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The feature will allow you to retain/manage backups for up to 10 years in the standard tier according to your compliance and auditing needs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-defender-for-cloud-supports-azure-database-for-mysql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-defender-for-cloud-supports-azure-database-for-mysql-flexible-server/",
+          "title": "Generally available: Defender for Cloud supports Azure Database for MySQL - Flexible Server",
+          "description": "You can now protect Azure Database for MySQL - Flexible Server with Microsoft Defender for Cloud.",
+          "pubDate": "Wed, 10 Apr 2024 16:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now protect Azure Database for MySQL - Flexible Server with Microsoft Defender for Cloud."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-mirroring-azure-cosmos-db-in-microsoft-fabric"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-mirroring-azure-cosmos-db-in-microsoft-fabric/",
+          "title": "Public Preview: Mirroring Azure Cosmos DB in Microsoft Fabric",
+          "description": "Get near-real time analytics on your Azure Cosmos DB data in Microsoft Fabric with zero-ETL.",
+          "pubDate": "Wed, 10 Apr 2024 16:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Get near-real time analytics on your Azure Cosmos DB data in Microsoft Fabric with zero-ETL."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3038,96 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now run containers apps that accept TCP connections on multiple ports."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-distributed-tracing-v2-for-durable-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-distributed-tracing-v2-for-durable-functions/",
-          "title": "Public Preview: Distributed tracing v2 for durable Functions",
-          "description": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Distributed tracing v2 for durable Functions is in public preview. This version supports all languages and storage backends and provides detailed spans."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "visual-studio-code-extension-update-for-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-update-for-azure-kubernetes-service-aks/",
-          "title": "Visual Studio Code extension update for Azure Kubernetes Service (AKS)",
-          "description": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:04 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can use VS Code extension update for AKS to interact with a new create cluster experience, abort/reconcile cluster, and more."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-node-os-api-options-feature-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-node-os-api-options-feature-for-aks/",
-          "title": "Public preview: Node OS API options feature for AKS",
-          "description": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access",
-          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now get Node IP for tasks such as troubleshooting, without needing kubectl access"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-disable-secure-shell-ssh-support-in-aks-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-disable-secure-shell-ssh-support-in-aks-2/",
-          "title": "Public preview: Disable Secure Shell (SSH) support in AKS",
-          "description": "You can now disable SSH for AKS to reduce the attach surface on your cluster.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now disable SSH for AKS to reduce the attach surface on your cluster."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-outbound-type-migration-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-outbound-type-migration-in-aks/",
-          "title": "Generally Available: Outbound type migration in AKS",
-          "description": "You can now update the outbound type of existing clusters without having to rebuild the cluster",
-          "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now update the outbound type of existing clusters without having to rebuild the cluster"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-kubereserved-resource-optimization-in-azure-kubernetes-service-aks/",
-          "title": "Generally Available: Kube-reserved resource optimization in Azure Kubernetes Service (AKS)",
-          "description": "You will see AKS reserve up to 20% less memorry on nodes.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You will see AKS reserve up to 20% less memorry on nodes."
           },
           "content:encoded": null
         }
