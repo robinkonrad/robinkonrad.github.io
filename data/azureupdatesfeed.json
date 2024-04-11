@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 11 Apr 2024 16:14:21 Z",
+      "lastBuildDate": "Thu, 11 Apr 2024 17:13:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-sql-updates-for-midapril-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midapril-2024/",
-          "title": "General availability: Azure SQL updates for mid-April 2024",
-          "description": "General availability enhancements and updates released for Azure SQL in mid-April 2024.",
-          "pubDate": "Thu, 11 Apr 2024 16:00:24 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability enhancements and updates released for Azure SQL in mid-April 2024."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -193,7 +178,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/appservicempsjpp/",
           "title": "App Service virtual network integration multi plan subnet join",
           "description": "We're excited to announce that the multi plan subnet join for virtual network integration is now available in preview in all regions!",
-          "pubDate": "Mon, 08 Apr 2024 17:00:42 Z",
+          "pubDate": "Mon, 08 Apr 2024 17:00:43 Z",
           "atom:content": {
             "@type": "text",
             "#text": "We're excited to announce that the multi plan subnet join for virtual network integration is now available in preview in all regions!"
@@ -379,7 +364,7 @@
           "category": "Azure Backup",
           "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
           "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
-          "pubDate": "Mon, 01 Apr 2024 16:00:07 Z",
+          "pubDate": "Mon, 01 Apr 2024 16:00:06 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
@@ -395,7 +380,7 @@
           "category": "Azure Database for PostgreSQL; Azure Backup",
           "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
           "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
-          "pubDate": "Mon, 01 Apr 2024 14:00:06 Z",
+          "pubDate": "Mon, 01 Apr 2024 14:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
@@ -739,7 +724,7 @@
             "#text": "ga-improved-throughput-performance-on-azure-disks-standard-ssd"
           },
           "link": "https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/",
-          "title": "GA: Improved throughput performance on Azure Disks’ Standard SSD",
+          "title": "Preview: Improved throughput performance on Azure Disks’ Standard SSD",
           "description": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower.",
           "pubDate": "Thu, 28 Mar 2024 17:00:35 Z",
           "atom:content": {
@@ -1175,21 +1160,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
-          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
-          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "crossclouddeprecation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
@@ -1199,6 +1169,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
+          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
+          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
           },
           "content:encoded": null
         },
@@ -1849,7 +1834,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/",
           "title": "Public preview: Azure Modeling and Simulation Workbench",
           "description": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams.",
-          "pubDate": "Mon, 18 Mar 2024 16:00:06 Z",
+          "pubDate": "Mon, 18 Mar 2024 16:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams."
@@ -1949,7 +1934,7 @@
           ],
           "title": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping",
           "description": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.",
-          "pubDate": "Thu, 14 Mar 2024 16:00:08 Z",
+          "pubDate": "Thu, 14 Mar 2024 16:00:11 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
@@ -2370,7 +2355,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-feb2024/",
           "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
           "description": "Cloud Services (classic) retiring in August 2024.",
-          "pubDate": "Sat, 02 Mar 2024 00:00:19 Z",
+          "pubDate": "Sat, 02 Mar 2024 00:00:18 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Cloud Services (classic) retiring in August 2024."
@@ -2395,6 +2380,66 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/",
+          "title": "Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs",
+          "description": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub.",
+          "pubDate": "Wed, 28 Feb 2024 20:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-support-for-http-streams-in-nodejs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-nodejs/",
+          "title": "Public preview: Azure Functions Support for HTTP Streams in Node.js",
+          "description": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-kubernetes-129-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-129-support-in-aks/",
+          "title": "Public preview: Kubernetes 1.29 support in AKS",
+          "description": "You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-os-sku-inplace-migration-for-linux-nodes"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-os-sku-inplace-migration-for-linux-nodes/",
+          "title": "Public preview: OS SKU in-place migration for Linux nodes",
+          "description": "You can now migrate nodes from one Linux OS to another without having to create new nodes.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:47 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now migrate nodes from one Linux OS to another without having to create new nodes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-node-soak-duration-for-upgrades"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/",
@@ -2404,6 +2449,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now stagger AKS node upgrades and minimize application downtime."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-capacity-reservations-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-capacity-reservations-support-in-aks/",
+          "title": "Generally Available: Capacity Reservations support in AKS",
+          "description": "You can now better manage your changing workload demands by using capacity reservation groups.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:32 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now better manage your changing workload demands by using capacity reservation groups."
           },
           "content:encoded": null
         },
@@ -2425,6 +2485,36 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-disable-network-policy-for-migration-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-disable-network-policy-for-migration-in-aks/",
+          "title": "Public preview: Disable network policy in AKS for migration",
+          "description": "You can now temporarily disable your network policy engines to perform a migration.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now temporarily disable your network policy engines to perform a migration."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-latefebruary-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latefebruary-2024/",
+          "title": "Public Preview: Azure SQL updates for late-February 2024",
+          "description": "Public preview enhancements and updates released for Azure SQL in late-February 2024.",
+          "pubDate": "Wed, 28 Feb 2024 17:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview enhancements and updates released for Azure SQL in late-February 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3"
           },
           "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/",
@@ -2434,6 +2524,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql/",
+          "title": "General availability: Azure SDKs support for Azure Cosmos DB for PostgreSQL",
+          "description": "Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters.",
+          "pubDate": "Wed, 28 Feb 2024 17:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql/",
+          "title": "General availability: Azure CLI support for Azure Cosmos DB for PostgreSQL",
+          "description": "You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute.",
+          "pubDate": "Wed, 28 Feb 2024 17:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute."
           },
           "content:encoded": null
         },
@@ -2542,7 +2662,7 @@
           "category": "Azure Portal",
           "title": "Public Preview: Regional Disaster Recovery by Azure Backup for AKS",
           "description": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario.",
-          "pubDate": "Tue, 20 Feb 2024 20:00:22 Z",
+          "pubDate": "Tue, 20 Feb 2024 20:00:21 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
@@ -2571,11 +2691,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/",
           "title": "Public preview: Configuration-as-code customizations in Microsoft Dev Box",
-          "description": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.",
-          "pubDate": "Tue, 20 Feb 2024 18:00:20 Z",
+          "description": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.",
+          "pubDate": "Tue, 20 Feb 2024 18:00:21 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies."
+            "#text": "Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies."
           },
           "content:encoded": null
         },
@@ -2824,21 +2944,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks/",
-          "title": "General Availability: Application consistent restore points supports Premium SSD v2 and Ultra Disks",
-          "description": "Application consistent restore points supports Premium SSD v2 and Ultra Disks.",
-          "pubDate": "Tue, 06 Feb 2024 18:30:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application consistent restore points supports Premium SSD v2 and Ultra Disks."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions/",
@@ -3013,121 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Machine Learning model monitoring is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/",
-          "title": "Public Preview: Azure Monitor introduces Prometheus community recommended alerts",
-          "description": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.",
-          "pubDate": "Wed, 31 Jan 2024 20:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generalavailabilityofazuremonitormetricsdataplaneapi"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generalavailabilityofazuremonitormetricsdataplaneapi/",
-          "category": [
-            "Azure Monitoring",
-            "Azure Metrics",
-            "Observability",
-            "Cloud",
-            "Feature",
-            "Service",
-            "SDK"
-          ],
-          "title": "Announcing General Availability of Azure Monitor Metrics Data Plane API",
-          "description": "General Availability of Azure Monitor Metrics Data plane API\nWe are excited to share Azure Monitor Metrics Data Plane API is Now Generally Available! Unlock enhanced insights into the monitoring of your Azure resources with our powerful API. Explore its features and elevate your monitoring experience today!",
-          "pubDate": "Wed, 31 Jan 2024 19:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General Availability of Azure Monitor Metrics Data plane API\nWe are excited to share Azure Monitor Metrics Data Plane API is Now Generally Available! Unlock enhanced insights into the monitoring of your Azure resources with our powerful API. Explore its features and elevate your monitoring experience today!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-api-center-features"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-api-center-features/",
-          "category": "Azure API Management",
-          "title": "Public Preview:  Azure API Center – January Updates",
-          "description": "Azure API Center is your one-stop solution for inventorying and managing your organization’s APIs. In this update, we are bringing you new features and improvements to help you discover, reuse, and consume your APIs more easily and efficiently. These features are designed to help you streamline your API lifecycle, improve your developer experience, and increase your API adoption.",
-          "pubDate": "Wed, 31 Jan 2024 19:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure API Center is your one-stop solution for inventorying and managing your organization’s APIs. In this update, we are bringing you new features and improvements to help you discover, reuse, and consume your APIs more easily and efficiently. These features are designed to help you streamline your API lifecycle, improve your developer experience, and increase your API adoption."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-istio-addon-for-aks-now-supports-plugin-certificate-authority-ca/",
-          "title": "Public preview: Istio add-on for AKS now supports plug-in certificate authority (CA)",
-          "description": "You can now bring your own certificates and keys to use with Istio add-on for signing workload certificates for improved security.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now bring your own certificates and keys to use with Istio add-on for signing workload certificates for improved security."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "support-for-cross-region-restore-for-postgresql-backups-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/support-for-cross-region-restore-for-postgresql-backups-generally-available/",
-          "title": "Generally Available: Support for Cross Region Restore for PostgreSQL backups",
-          "description": "Cross region for Backup vault using Azure Backup is now generally available.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Cross region for Backup vault using Azure Backup is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-upgrade-support-in-istio-addon-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-upgrade-support-in-istio-addon-for-aks/",
-          "title": "Public preview: Upgrade support in Istio add-on for AKS",
-          "description": "You can now upgrade to new Istio revisions as they are made available in the Istio add-on for AKS.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now upgrade to new Istio revisions as they are made available in the Istio add-on for AKS."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-major-version-of-durable-functions-extension"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-major-version-of-durable-functions-extension/",
-          "title": "Public Preview: New major version of durable Functions extension",
-          "description": "Durable Functions extension v3.0.0 is currently in public preview. This new major version introduces major changes that benefit those using Azure Storage backend.",
-          "pubDate": "Wed, 31 Jan 2024 18:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Durable Functions extension v3.0.0 is currently in public preview. This new major version introduces major changes that benefit those using Azure Storage backend."
           },
           "content:encoded": null
         }
