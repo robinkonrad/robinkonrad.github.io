@@ -12,13 +12,36 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 15 Apr 2024 17:11:27 Z",
+      "lastBuildDate": "Mon, 15 Apr 2024 18:16:56 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "publicpreviewofqueryeditorinmetricexplorer"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/publicpreviewofqueryeditorinmetricexplorer/",
+          "category": [
+            "Azure Monitoring",
+            "Azure Metrics",
+            "Observability",
+            "Cloud",
+            "Feature",
+            "Azure Portal"
+          ],
+          "title": "Announcing Public Preview of Query editor in Azure Monitor Metrics",
+          "description": "Public Preview of Query editor in Azure Monitor Metrics is now Available!\nGet started with Azure Monitor Metrics Query editor to access advanced querying capabilities within Azure Monitor Metrics. With PromQL queries within Azure Monitor, you can access advanced querying capabilities that enable you to gain deeper insights into the performance and health of your resources. With this capability you can efficiently analyze metrics, identify trends, troubleshoot issues, and optimize resource utilization for better performance and reliability.",
+          "pubDate": "Mon, 15 Apr 2024 18:08:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview of Query editor in Azure Monitor Metrics is now Available!\nGet started with Azure Monitor Metrics Query editor to access advanced querying capabilities within Azure Monitor Metrics. With PromQL queries within Azure Monitor, you can access advanced querying capabilities that enable you to gain deeper insights into the performance and health of your resources. With this capability you can efficiently analyze metrics, identify trends, troubleshoot issues, and optimize resource utilization for better performance and reliability."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -873,21 +896,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
-          "title": "Generally Available: Free managed certificates on Azure Container Apps",
-          "description": "Azure Container Apps now provides a free managed certificate for your custom domain.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-support-for-key-vault-certificates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
@@ -897,6 +905,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
+          "title": "Generally Available: Free managed certificates on Azure Container Apps",
+          "description": "Azure Container Apps now provides a free managed certificate for your custom domain.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
           },
           "content:encoded": null
         },
@@ -1220,21 +1243,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
-          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
-          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "crossclouddeprecation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
@@ -1244,6 +1252,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
+          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
+          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
           },
           "content:encoded": null
         },
@@ -3097,21 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-virtual-network-manager-security-admin-rule-generally-available-in-30-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-30-regions/",
-          "title": "Azure Virtual Network Manager security admin rule generally available in 30 regions",
-          "description": "Azure Virtual Network Manager's security admin rule configuration is now generally available in 30 regions, empowering users to enforce security rules across their virtual networks globally.",
-          "pubDate": "Thu, 01 Feb 2024 17:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network Manager's security admin rule configuration is now generally available in 30 regions, empowering users to enforce security rules across their virtual networks globally."
           },
           "content:encoded": null
         }
