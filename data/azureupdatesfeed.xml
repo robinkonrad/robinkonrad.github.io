@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2024 15:13:39 Z</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 16:17:14 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-bastion-developer-sku</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-developer-sku/</link>
+      <title>General availability: Azure Bastion Developer SKU</title>
+      <description>The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.</description>
+      <pubDate>Tue, 16 Apr 2024 16:00:37 Z</pubDate>
+      <atom:content
+        type="text">The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-virtual-network-encryption-availability-in-all-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-availability-in-all-regions/</link>
+      <title>General availability: Azure Virtual Network encryption availability in all regions</title>
+      <description>Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.</description>
+      <pubDate>Tue, 16 Apr 2024 16:00:37 Z</pubDate>
+      <atom:content
+        type="text">Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">publicpreviewofqueryeditorinmetricexplorer</guid>
@@ -928,17 +950,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
-        isPermaLink="false">crossclouddeprecation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
-      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
-      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">azure-synapse-runtime-for-apache-spark-32-end-of-support</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/</link>
       <title>Azure Synapse Runtime for Apache Spark 3.2 End of Support </title>
@@ -946,6 +957,17 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
       <atom:content
         type="text">End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">crossclouddeprecation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
+      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
+      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
+      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
+      <atom:content
+        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2279,30 +2301,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Mon, 05 Feb 2024 17:00:56 Z</pubDate>
       <atom:content
         type="text">NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">adx-vnet-migration-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/adx-vnet-migration-ga/</link>
-      <title>Announcing General Availability to migrate Virtual Network injected Azure Data Explorer Cluster to Private Endpoints</title>
-      <description>The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK.</description>
-      <pubDate>Mon, 05 Feb 2024 17:00:55 Z</pubDate>
-      <atom:content
-        type="text">The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">support-for-log-alert-rules-that-use-crossworkspace-queries-with-resource-names-or-qualified-name-identifiers-will-be-retired</guid>
-      <link>https://azure.microsoft.com/en-us/updates/support-for-log-alert-rules-that-use-crossworkspace-queries-with-resource-names-or-qualified-name-identifiers-will-be-retired/</link>
-      <category>Alerts</category>
-      <category>Email</category>
-      <title>Support for log alert rules that use cross-workspace queries with resource names or qualified name identifiers will be retired on 31 May 2024</title>
-      <description>As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers.</description>
-      <pubDate>Thu, 01 Feb 2024 18:48:43 Z</pubDate>
-      <atom:content
-        type="text">As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
