@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 16 Apr 2024 18:16:04 Z",
+      "lastBuildDate": "Tue, 16 Apr 2024 19:10:38 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -310,21 +310,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup can now help you back up virtual machines using private endpoint-enabled disks. You can now also specify network settings to be used by the restored disks while initiating the restore process."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "action-recommended-prepare-for-model-version-retirement-in-azure-openai"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/action-recommended-prepare-for-model-version-retirement-in-azure-openai/",
-          "title": "Action recommended: Prepare for model version retirement in Azure OpenAI",
-          "description": "Action recommended: Prepare for model version retirement in Azure OpenAI",
-          "pubDate": "Fri, 05 Apr 2024 23:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Action recommended: Prepare for model version retirement in Azure OpenAI"
           },
           "content:encoded": null
         },
@@ -1258,21 +1243,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "crossclouddeprecation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
-          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
-          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
@@ -1282,6 +1252,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "crossclouddeprecation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
+          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
+          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
           },
           "content:encoded": null
         },
@@ -3116,6 +3101,25 @@
           "atom:content": {
             "@type": "text",
             "#text": "The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "support-for-log-alert-rules-that-use-crossworkspace-queries-with-resource-names-or-qualified-name-identifiers-will-be-retired"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/support-for-log-alert-rules-that-use-crossworkspace-queries-with-resource-names-or-qualified-name-identifiers-will-be-retired/",
+          "category": [
+            "Alerts",
+            "Email"
+          ],
+          "title": "Support for log alert rules that use cross-workspace queries with resource names or qualified name identifiers will be retired on 31 May 2024",
+          "description": "As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers.",
+          "pubDate": "Thu, 01 Feb 2024 18:48:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers."
           },
           "content:encoded": null
         }
