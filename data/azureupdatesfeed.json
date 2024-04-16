@@ -12,28 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 16 Apr 2024 17:12:42 Z",
+      "lastBuildDate": "Tue, 16 Apr 2024 18:16:04 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-bastion-developer-sku"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-developer-sku/",
-          "title": "General availability: Azure Bastion Developer SKU",
-          "description": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.",
-          "pubDate": "Tue, 16 Apr 2024 16:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3116,6 +3101,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "adx-vnet-migration-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/adx-vnet-migration-ga/",
+          "title": "Announcing General Availability to migrate Virtual Network injected Azure Data Explorer Cluster to Private Endpoints",
+          "description": "The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK.",
+          "pubDate": "Mon, 05 Feb 2024 17:00:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The migration of Azure Virtual Network injected Azure Data Explorer cluster to Private Endpoints in generally available now. The process is simple and can be done using the Azure portal, the ARM template, or any code which uses the ADX SDK."
           },
           "content:encoded": null
         }
