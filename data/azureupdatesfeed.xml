@@ -6,22 +6,11 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2024 19:10:38 Z</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 20:13:30 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-virtual-network-encryption-availability-in-all-regions</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-availability-in-all-regions/</link>
-      <title>General availability: Azure Virtual Network encryption availability in all regions</title>
-      <description>Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.</description>
-      <pubDate>Tue, 16 Apr 2024 16:00:37 Z</pubDate>
-      <atom:content
-        type="text">Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
     <item>
       <guid
         isPermaLink="false">publicpreviewofqueryeditorinmetricexplorer</guid>
@@ -202,7 +191,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <link>https://azure.microsoft.com/en-us/updates/appservicempsjpp/</link>
       <title>App Service virtual network integration multi plan subnet join</title>
       <description>We're excited to announce that the multi plan subnet join for virtual network integration is now available in preview in all regions!</description>
-      <pubDate>Mon, 08 Apr 2024 17:00:43 Z</pubDate>
+      <pubDate>Mon, 08 Apr 2024 17:00:42 Z</pubDate>
       <atom:content
         type="text">We're excited to announce that the multi plan subnet join for virtual network integration is now available in preview in all regions!</atom:content>
       <content:encoded></content:encoded>
@@ -227,6 +216,17 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Mon, 08 Apr 2024 16:00:42 Z</pubDate>
       <atom:content
         type="text">Azure Backup can now help you back up virtual machines using private endpoint-enabled disks. You can now also specify network settings to be used by the restored disks while initiating the restore process. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">action-recommended-prepare-for-model-version-retirement-in-azure-openai</guid>
+      <link>https://azure.microsoft.com/en-us/updates/action-recommended-prepare-for-model-version-retirement-in-azure-openai/</link>
+      <title>Action recommended: Prepare for model version retirement in Azure OpenAI </title>
+      <description>Action recommended: Prepare for model version retirement in Azure OpenAI </description>
+      <pubDate>Fri, 05 Apr 2024 23:00:03 Z</pubDate>
+      <atom:content
+        type="text">Action recommended: Prepare for model version retirement in Azure OpenAI </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -333,7 +333,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <category>Azure Backup</category>
       <title>Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server</title>
       <description>Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</description>
-      <pubDate>Mon, 01 Apr 2024 16:00:06 Z</pubDate>
+      <pubDate>Mon, 01 Apr 2024 16:00:07 Z</pubDate>
       <atom:content
         type="text">Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</atom:content>
       <content:encoded></content:encoded>
@@ -345,7 +345,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <category>Azure Database for PostgreSQL; Azure Backup</category>
       <title>Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.</title>
       <description>Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</description>
-      <pubDate>Mon, 01 Apr 2024 14:00:05 Z</pubDate>
+      <pubDate>Mon, 01 Apr 2024 14:00:06 Z</pubDate>
       <atom:content
         type="text">Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</atom:content>
       <content:encoded></content:encoded>
@@ -595,7 +595,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <guid
         isPermaLink="false">ga-improved-throughput-performance-on-azure-disks-standard-ssd</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/</link>
-      <title>Preview: Improved throughput performance on Azure Disks’ Standard SSD</title>
+      <title>GA: Improved throughput performance on Azure Disks’ Standard SSD</title>
       <description>Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower. </description>
       <pubDate>Thu, 28 Mar 2024 17:00:35 Z</pubDate>
       <atom:content
@@ -1423,7 +1423,7 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/</link>
       <title>Public preview: Azure Modeling and Simulation Workbench </title>
       <description>Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams. </description>
-      <pubDate>Mon, 18 Mar 2024 16:00:05 Z</pubDate>
+      <pubDate>Mon, 18 Mar 2024 16:00:06 Z</pubDate>
       <atom:content
         type="text">Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams. </atom:content>
       <content:encoded></content:encoded>
@@ -1495,7 +1495,7 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <category>container-insights</category>
       <title>Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping</title>
       <description>Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.</description>
-      <pubDate>Thu, 14 Mar 2024 16:00:11 Z</pubDate>
+      <pubDate>Thu, 14 Mar 2024 16:00:08 Z</pubDate>
       <atom:content
         type="text">Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.</atom:content>
       <content:encoded></content:encoded>
@@ -1804,7 +1804,7 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <link>https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-feb2024/</link>
       <title>Cloud Services (classic) deployment model is retiring on 31 August 2024</title>
       <description>Cloud Services (classic) retiring in August 2024.</description>
-      <pubDate>Sat, 02 Mar 2024 00:00:18 Z</pubDate>
+      <pubDate>Sat, 02 Mar 2024 00:00:19 Z</pubDate>
       <atom:content
         type="text">Cloud Services (classic) retiring in August 2024.</atom:content>
       <content:encoded></content:encoded>
@@ -1822,50 +1822,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/</link>
-      <title>Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs</title>
-      <description>Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub.</description>
-      <pubDate>Wed, 28 Feb 2024 20:00:10 Z</pubDate>
-      <atom:content
-        type="text">Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-functions-support-for-http-streams-in-nodejs</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-nodejs/</link>
-      <title>Public preview: Azure Functions Support for HTTP Streams in Node.js </title>
-      <description>Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed.</description>
-      <pubDate>Wed, 28 Feb 2024 18:00:58 Z</pubDate>
-      <atom:content
-        type="text">Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-kubernetes-129-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-129-support-in-aks/</link>
-      <title>Public preview: Kubernetes 1.29 support in AKS </title>
-      <description>You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment. </description>
-      <pubDate>Wed, 28 Feb 2024 18:00:51 Z</pubDate>
-      <atom:content
-        type="text">You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-os-sku-inplace-migration-for-linux-nodes</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-os-sku-inplace-migration-for-linux-nodes/</link>
-      <title>Public preview: OS SKU in-place migration for Linux nodes </title>
-      <description>You can now migrate nodes from one Linux OS to another without having to create new nodes. </description>
-      <pubDate>Wed, 28 Feb 2024 18:00:47 Z</pubDate>
-      <atom:content
-        type="text">You can now migrate nodes from one Linux OS to another without having to create new nodes. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-node-soak-duration-for-upgrades</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/</link>
       <title>Generally Available: AKS support for node soak duration for upgrades </title>
@@ -1873,17 +1829,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 28 Feb 2024 18:00:38 Z</pubDate>
       <atom:content
         type="text">You can now stagger AKS node upgrades and minimize application downtime.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-capacity-reservations-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-capacity-reservations-support-in-aks/</link>
-      <title>Generally Available: Capacity Reservations support in AKS </title>
-      <description>You can now better manage your changing workload demands by using capacity reservation groups. </description>
-      <pubDate>Wed, 28 Feb 2024 18:00:32 Z</pubDate>
-      <atom:content
-        type="text">You can now better manage your changing workload demands by using capacity reservation groups. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1899,28 +1844,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-disable-network-policy-for-migration-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-disable-network-policy-for-migration-in-aks/</link>
-      <title>Public preview: Disable network policy in AKS for migration</title>
-      <description>You can now temporarily disable your network policy engines to perform a migration. </description>
-      <pubDate>Wed, 28 Feb 2024 18:00:19 Z</pubDate>
-      <atom:content
-        type="text">You can now temporarily disable your network policy engines to perform a migration. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-latefebruary-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latefebruary-2024/</link>
-      <title>Public Preview: Azure SQL updates for late-February 2024 </title>
-      <description>Public preview enhancements and updates released for Azure SQL in late-February 2024. </description>
-      <pubDate>Wed, 28 Feb 2024 17:00:35 Z</pubDate>
-      <atom:content
-        type="text">Public preview enhancements and updates released for Azure SQL in late-February 2024. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3</guid>
       <link>https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/</link>
       <title>General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server </title>
@@ -1928,28 +1851,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 28 Feb 2024 17:00:29 Z</pubDate>
       <atom:content
         type="text">Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sdks-support-for-azure-cosmos-db-for-postgresql/</link>
-      <title>General availability: Azure SDKs support for Azure Cosmos DB for PostgreSQL</title>
-      <description>Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters.</description>
-      <pubDate>Wed, 28 Feb 2024 17:00:23 Z</pubDate>
-      <atom:content
-        type="text">Now you can use Azure SDKs including .NET SDK, Go SDK, Java SDK, JavaScript SDK, and Python SDK to manage the lifecycle of Azure Cosmos DB for PostgreSQL clusters.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cli-support-for-azure-cosmos-db-for-postgresql/</link>
-      <title>General availability: Azure CLI support for Azure Cosmos DB for PostgreSQL</title>
-      <description>You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute.</description>
-      <pubDate>Wed, 28 Feb 2024 17:00:09 Z</pubDate>
-      <atom:content
-        type="text">You can now use Azure CLI to manage the whole lifecycle of Azure Cosmos DB for PostgreSQL clusters from provisioning to scaling to configuration changes and starting/stopping cluster compute.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2029,7 +1930,7 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <category>Azure Portal</category>
       <title>Public Preview: Regional Disaster Recovery by Azure Backup for AKS</title>
       <description>Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </description>
-      <pubDate>Tue, 20 Feb 2024 20:00:21 Z</pubDate>
+      <pubDate>Tue, 20 Feb 2024 20:00:22 Z</pubDate>
       <atom:content
         type="text">Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </atom:content>
       <content:encoded></content:encoded>
@@ -2050,10 +1951,10 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
         isPermaLink="false">public-preview-configascode-customizations-in-microsoft-dev-box</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/</link>
       <title>Public preview: Configuration-as-code customizations in Microsoft Dev Box </title>
-      <description>Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.</description>
-      <pubDate>Tue, 20 Feb 2024 18:00:21 Z</pubDate>
+      <description>Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.  </description>
+      <pubDate>Tue, 20 Feb 2024 18:00:20 Z</pubDate>
       <atom:content
-        type="text">Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.</atom:content>
+        type="text">Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.  </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2236,6 +2137,17 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
+        isPermaLink="false">general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-application-consistent-restore-points-supports-premium-ssd-v2-and-ultra-disks/</link>
+      <title>General Availability: Application consistent restore points supports Premium SSD v2 and Ultra Disks</title>
+      <description>Application consistent restore points supports Premium SSD v2 and Ultra Disks.</description>
+      <pubDate>Tue, 06 Feb 2024 18:30:07 Z</pubDate>
+      <atom:content
+        type="text">Application consistent restore points supports Premium SSD v2 and Ultra Disks.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
         isPermaLink="false">public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-standard-network-features-edit-volumes-in-us-gov-regions/</link>
       <category>Azure NetApp Files</category>
@@ -2303,6 +2215,108 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Thu, 01 Feb 2024 18:48:43 Z</pubDate>
       <atom:content
         type="text">As of May 31, 2024, log alert rules will no longer support cross-workspace queries that use resource names or qualified name identifiers.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-virtual-network-manager-security-admin-rule-generally-available-in-30-regions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-30-regions/</link>
+      <title>Azure Virtual Network Manager security admin rule generally available in 30 regions</title>
+      <description>Azure Virtual Network Manager's security admin rule configuration is now generally available in 30 regions, empowering users to enforce security rules across their virtual networks globally.</description>
+      <pubDate>Thu, 01 Feb 2024 17:00:17 Z</pubDate>
+      <atom:content
+        type="text">Azure Virtual Network Manager's security admin rule configuration is now generally available in 30 regions, empowering users to enforce security rules across their virtual networks globally.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-virtual-network-manager-topology-view-now-generally-available</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-topology-view-now-generally-available/</link>
+      <title>Azure Virtual Network Manager topology view now generally available</title>
+      <description>Visualize Azure Virtual Network Manager connectivity configurations with topology view.</description>
+      <pubDate>Thu, 01 Feb 2024 17:00:17 Z</pubDate>
+      <atom:content
+        type="text">Visualize Azure Virtual Network Manager connectivity configurations with topology view.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">private-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-windows-os</guid>
+      <link>https://azure.microsoft.com/en-us/updates/private-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-windows-os/</link>
+      <title>Private Preview: Azure Site Recovery support for Azure Trusted Launch VMs (Windows OS) </title>
+      <description>Azure Site Recovery support for Azure Trusted Launch VMs</description>
+      <pubDate>Thu, 01 Feb 2024 17:00:16 Z</pubDate>
+      <atom:content
+        type="text">Azure Site Recovery support for Azure Trusted Launch VMs</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-azure-stack-hci-latest-feature-release</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-stack-hci-latest-feature-release/</link>
+      <category>azure stack hci</category>
+      <category>hybrid</category>
+      <category>edge</category>
+      <category>adaptive cloud</category>
+      <title>Generally Available: Azure Stack HCI latest feature release </title>
+      <description>Azure Stack HCI is the Microsoft Azure Arc-enabled infrastructure. Now, customers who have an Azure Stack HCI subscription can download the latest feature release for their infrastructure. This new Azure Stack HCI release is the version of the product required to run Azure Virtual Desktop on- prem which is also now in GA and called Azure Virtual Desktop for Azure Stack HCI. This is an exciting development as the public preview of this product is in high demand specifically in Healthcare and Financial Services. </description>
+      <pubDate>Thu, 01 Feb 2024 17:00:15 Z</pubDate>
+      <atom:content
+        type="text">Azure Stack HCI is the Microsoft Azure Arc-enabled infrastructure. Now, customers who have an Azure Stack HCI subscription can download the latest feature release for their infrastructure. This new Azure Stack HCI release is the version of the product required to run Azure Virtual Desktop on- prem which is also now in GA and called Azure Virtual Desktop for Azure Stack HCI. This is an exciting development as the public preview of this product is in high demand specifically in Healthcare and Financial Services. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-continuous-model-monitoring-in-azure-machine-learning</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-continuous-model-monitoring-in-azure-machine-learning/</link>
+      <title>Generally Available: Continuous model monitoring in Azure Machine Learning</title>
+      <description>Azure Machine Learning model monitoring is now generally available.</description>
+      <pubDate>Thu, 01 Feb 2024 16:00:15 Z</pubDate>
+      <atom:content
+        type="text">Azure Machine Learning model monitoring is now generally available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/</link>
+      <title>Public Preview: Azure Monitor introduces Prometheus community recommended alerts </title>
+      <description>Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.</description>
+      <pubDate>Wed, 31 Jan 2024 20:00:03 Z</pubDate>
+      <atom:content
+        type="text">Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generalavailabilityofazuremonitormetricsdataplaneapi</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generalavailabilityofazuremonitormetricsdataplaneapi/</link>
+      <category>Azure Monitoring</category>
+      <category>Azure Metrics</category>
+      <category>Observability</category>
+      <category>Cloud</category>
+      <category>Feature</category>
+      <category>Service</category>
+      <category>SDK</category>
+      <title>Announcing General Availability of Azure Monitor Metrics Data Plane API </title>
+      <description>General Availability of Azure Monitor Metrics Data plane API
+We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Available! Unlock enhanced insights into the monitoring of your Azure resources with our powerful API. Explore its features and elevate your monitoring experience today! </description>
+      <pubDate>Wed, 31 Jan 2024 19:00:03 Z</pubDate>
+      <atom:content
+        type="text">General Availability of Azure Monitor Metrics Data plane API
+We are excited to share Azure Monitor Metrics Data Plane API is Now Generally Available! Unlock enhanced insights into the monitoring of your Azure resources with our powerful API. Explore its features and elevate your monitoring experience today! </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-api-center-features</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-api-center-features/</link>
+      <category>Azure API Management</category>
+      <title>Public Preview:  Azure API Center – January Updates</title>
+      <description>Azure API Center is your one-stop solution for inventorying and managing your organization’s APIs. In this update, we are bringing you new features and improvements to help you discover, reuse, and consume your APIs more easily and efficiently. These features are designed to help you streamline your API lifecycle, improve your developer experience, and increase your API adoption.</description>
+      <pubDate>Wed, 31 Jan 2024 19:00:03 Z</pubDate>
+      <atom:content
+        type="text">Azure API Center is your one-stop solution for inventorying and managing your organization’s APIs. In this update, we are bringing you new features and improvements to help you discover, reuse, and consume your APIs more easily and efficiently. These features are designed to help you streamline your API lifecycle, improve your developer experience, and increase your API adoption.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
