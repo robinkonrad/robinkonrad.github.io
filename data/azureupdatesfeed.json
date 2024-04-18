@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 18 Apr 2024 15:14:11 Z",
+      "lastBuildDate": "Thu, 18 Apr 2024 16:17:30 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-virtual-network-manager-using-network-groups-in-security-admin-rules-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-using-network-groups-in-security-admin-rules-now-in-public-preview/",
+          "title": "Using Azure Virtual Network Manager network groups in security admin rules is now in public preview",
+          "description": "Using your Azure Virtual Network Manager network groups in the source and/or destination of security admin rules is now in public preview, enabling users to achieve network isolation across different environments and manage network segments more easily at scale.",
+          "pubDate": "Thu, 18 Apr 2024 16:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Using your Azure Virtual Network Manager network groups in the source and/or destination of security admin rules is now in public preview, enabling users to achieve network isolation across different environments and manage network segments more easily at scale."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3101,21 +3116,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mount-azure-storage-as-a-local-share-in-app-service-linux-now-supports-nfs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/mount-azure-storage-as-a-local-share-in-app-service-linux-now-supports-nfs/",
-          "title": "Mount Azure Storage as a local share in App Service Linux Now supports NFS",
-          "description": "NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app.",
-          "pubDate": "Mon, 05 Feb 2024 17:00:56 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "NFS support is now available for App Service Linux code and container when mounting a Azure File share as a local share for the web app."
           },
           "content:encoded": null
         }
