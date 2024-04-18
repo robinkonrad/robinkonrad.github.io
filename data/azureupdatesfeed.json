@@ -12,13 +12,36 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 18 Apr 2024 21:11:56 Z",
+      "lastBuildDate": "Thu, 18 Apr 2024 22:12:20 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-data-box-disk-is-now-available-with-hardware-encryption"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-data-box-disk-is-now-available-with-hardware-encryption/",
+          "category": [
+            "Storage",
+            "Data Box",
+            "Data Box Disk",
+            "hardware encrypted disk",
+            "data copy",
+            "data migration"
+          ],
+          "title": "Azure Data Box Disk is now available with hardware encryption",
+          "description": "Azure Data Box Disk is now Generally Available with hardware encryption.",
+          "pubDate": "Thu, 18 Apr 2024 21:42:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Box Disk is now Generally Available with hardware encryption."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -463,6 +486,27 @@
           "atom:content": {
             "@type": "text",
             "#text": "Improve your workload’s resiliency and optimize your cloud deployments by reviewing recommendations on Advisor"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/",
+          "category": [
+            "azure-monitor",
+            "azure-kubernetes-service",
+            "container-insights",
+            "prometheus"
+          ],
+          "title": "Public Preview: Azure Monitor introduces Prometheus community recommended alerts",
+          "description": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.",
+          "pubDate": "Tue, 02 Apr 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters."
           },
           "content:encoded": null
         },
@@ -1474,11 +1518,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/",
           "title": "Community support for Standard_M192ids_v2 is ending on 31 March 2027",
-          "description": "Support for Standard_M192idms_v2 will be retired on 31 March 2027",
+          "description": "Support for Standard_M192ids_v2 will be retired on 31 March 2027",
           "pubDate": "Fri, 22 Mar 2024 23:00:09 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Support for Standard_M192idms_v2 will be retired on 31 March 2027"
+            "#text": "Support for Standard_M192ids_v2 will be retired on 31 March 2027"
           },
           "content:encoded": null
         },
@@ -3082,36 +3126,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now monitor the health, load and performance of the API server and etcd in the control plane of your AKS clusters"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-canada-central"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-zone-redundant-storage-for-azure-disks-is-now-available-in-canada-central/",
-          "title": "Generally available: Zone Redundant Storage for Azure Disks is now available in Canada Central",
-          "description": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the Canada Central region.",
-          "pubDate": "Mon, 12 Feb 2024 18:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Zone Redundant Storage (ZRS) for Azure Disks is now available on Azure Premium SSD and Standard SSD in the Canada Central region."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-improvements-in-azure-key-vault"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-improvements-in-azure-key-vault/",
-          "title": "General availability: Improvements in Azure Key Vault",
-          "description": "Improvements in Azure Key Vault: FIPS 140-2 Level 3, PCI DSS and PCI 3DS certified for all customers.",
-          "pubDate": "Mon, 12 Feb 2024 16:00:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Improvements in Azure Key Vault: FIPS 140-2 Level 3, PCI DSS and PCI 3DS certified for all customers."
           },
           "content:encoded": null
         }
