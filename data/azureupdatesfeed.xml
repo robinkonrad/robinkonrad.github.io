@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Apr 2024 16:17:30 Z</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 17:12:07 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">ga-azure-monitor-log-search-alerts-support-managed-identities</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-azure-monitor-log-search-alerts-support-managed-identities/</link>
+      <category>Alerts</category>
+      <title>GA: Azure Monitor log search alerts support managed identities</title>
+      <description>A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</description>
+      <pubDate>Thu, 18 Apr 2024 17:00:05 Z</pubDate>
+      <atom:content
+        type="text">A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-virtual-network-manager-using-network-groups-in-security-admin-rules-now-in-public-preview</guid>
@@ -2290,17 +2302,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Mon, 05 Feb 2024 18:52:22 Z</pubDate>
       <atom:content
         type="text">The FHIR service in Azure Health Data Services supports up to 100 TB of storage. The FHIR service can store and exchange large amounts of health data, and each FHIR service instance has a 4 TB storage limit by default. However, if you have more data, you can ask Microsoft to increase storage up to 100 TB for your FHIR service.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-ultra-disk-storage-is-now-available-in-canada-east</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-ultra-disk-storage-is-now-available-in-canada-east/</link>
-      <title>Azure Ultra Disk Storage is now available in Canada East</title>
-      <description>Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.</description>
-      <pubDate>Mon, 05 Feb 2024 18:00:53 Z</pubDate>
-      <atom:content
-        type="text">Now available in Canada East region, Azure Ultra Disk Storage provides high performance along with sub-millisecond latency for your most-demanding workloads.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
