@@ -6,11 +6,77 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Apr 2024 22:12:04 Z</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 23:15:33 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">net-standard-userdefined-functions-for-azure-stream-analytics-will-be-retired-on-30-september-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/net-standard-userdefined-functions-for-azure-stream-analytics-will-be-retired-on-30-september-2024/</link>
+      <title>.Net Standard user-defined functions for Azure Stream Analytics will be retired on 30 September 2024. </title>
+      <description>.Net Standard user-defined functions for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won’t be possible to use the feature. Please transition to JavaScript user-defined functions for Azure Stream Analytics. </description>
+      <pubDate>Fri, 19 Apr 2024 23:00:59 Z</pubDate>
+      <atom:content
+        type="text">.Net Standard user-defined functions for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won’t be possible to use the feature. Please transition to JavaScript user-defined functions for Azure Stream Analytics. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">support-of-azure-notification-hubs-firebase-cloud-messaging-fcm-legacy-api-will-be-deprecated-by-july-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/support-of-azure-notification-hubs-firebase-cloud-messaging-fcm-legacy-api-will-be-deprecated-by-july-2024/</link>
+      <title>Support of Azure Notification Hubs’ Firebase Cloud Messaging (FCM) legacy API will be deprecated by July 2024. </title>
+      <description>Azure Notification Hubs support for GCM/FCM legacy will be retired on 1 July 2024. </description>
+      <pubDate>Fri, 19 Apr 2024 23:00:53 Z</pubDate>
+      <atom:content
+        type="text">Azure Notification Hubs support for GCM/FCM legacy will be retired on 1 July 2024. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-advisor-will-no-longer-display-aggregated-potential-yearly-savings-beginning-30-september-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-advisor-will-no-longer-display-aggregated-potential-yearly-savings-beginning-30-september-2024/</link>
+      <title>Azure Advisor will no longer display aggregated potential yearly savings beginning 30 September 2024</title>
+      <description>Learn how to continue calculating aggregated potential yearly savings.</description>
+      <pubDate>Fri, 19 Apr 2024 23:00:47 Z</pubDate>
+      <atom:content
+        type="text">Learn how to continue calculating aggregated potential yearly savings.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-3</guid>
+      <link>https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024-3/</link>
+      <title>App Service Environment version 1 and version 2 will be retired on 31 August 2024</title>
+      <description>Migrate to App Service Environment v3 by 31 August 2024.</description>
+      <pubDate>Fri, 19 Apr 2024 23:00:39 Z</pubDate>
+      <atom:content
+        type="text">Migrate to App Service Environment v3 by 31 August 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">cloud-services-classic-retirement-announcement-apr2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-apr2024/</link>
+      <title>Cloud Services (classic) deployment model is retiring on 31 August 2024</title>
+      <description>Cloud Services (classic) retiring in August 2024.</description>
+      <pubDate>Fri, 19 Apr 2024 23:00:32 Z</pubDate>
+      <atom:content
+        type="text">Cloud Services (classic) retiring in August 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">classic-networking-retirements-april2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/classic-networking-retirements-april2024/</link>
+      <title>Five Azure classic networking services will be retired on 31 August 2024</title>
+      <description>Classic Networking Services retiring in August 2024.</description>
+      <pubDate>Fri, 19 Apr 2024 23:00:22 Z</pubDate>
+      <atom:content
+        type="text">Classic Networking Services retiring in August 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">generally-available-bulk-delete-operation-for-the-fhir-service-in-azure-health-data-services</guid>
@@ -716,7 +782,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <guid
         isPermaLink="false">ga-improved-throughput-performance-on-azure-disks-standard-ssd</guid>
       <link>https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/</link>
-      <title>Preview: Improved throughput performance on Azure Disks’ Standard SSD</title>
+      <title>GA: Improved throughput performance on Azure Disks’ Standard SSD</title>
       <description>Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower. </description>
       <pubDate>Thu, 28 Mar 2024 17:00:35 Z</pubDate>
       <atom:content
@@ -782,17 +848,6 @@ Get started with Query editor to access advanced querying capabilities within Az
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-support-for-key-vault-certificates</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/</link>
-      <title>Public preview: Support for Key Vault Certificates in Azure Container Apps</title>
-      <description>You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </description>
-      <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
-      <atom:content
-        type="text">You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-free-managed-certificates-on-azure-container-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/</link>
       <title>Generally Available: Free managed certificates on Azure Container Apps</title>
@@ -800,6 +855,17 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
       <atom:content
         type="text">Azure Container Apps now provides a free managed certificate for your custom domain. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-support-for-key-vault-certificates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/</link>
+      <title>Public preview: Support for Key Vault Certificates in Azure Container Apps</title>
+      <description>You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </description>
+      <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
+      <atom:content
+        type="text">You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2243,72 +2309,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 14 Feb 2024 17:00:03 Z</pubDate>
       <atom:content
         type="text">Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-sql-updates-for-midfebruary-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-midfebruary-2024/</link>
-      <title>General availability: Azure SQL updates for mid-February 2024 </title>
-      <description>General availability enhancements and updates released for Azure SQL in mid-February 2024.   </description>
-      <pubDate>Wed, 14 Feb 2024 17:00:02 Z</pubDate>
-      <atom:content
-        type="text">General availability enhancements and updates released for Azure SQL in mid-February 2024.   </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-customer-managed-key-encryption-for-enterprise-tier-caches</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-customer-managed-key-encryption-for-enterprise-tier-caches/</link>
-      <title>General availability: Customer managed key encryption for Enterprise tier caches </title>
-      <description>Encrypt Redis persistence files using customer managed keys.</description>
-      <pubDate>Wed, 14 Feb 2024 17:00:01 Z</pubDate>
-      <atom:content
-        type="text">Encrypt Redis persistence files using customer managed keys.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-migration-service-in-azure-database-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-migration-service-in-azure-database-for-postgresql/</link>
-      <title>Public preview: Migration service in Azure Database for PostgreSQL</title>
-      <description>Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity.</description>
-      <pubDate>Wed, 14 Feb 2024 17:00:01 Z</pubDate>
-      <atom:content
-        type="text">Easily migrate PostgreSQL to Azure with a managed service supporting full schema and data migrations, without complexity.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-migration-assessment-enabled-by-azure-arc</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-migration-assessment-enabled-by-azure-arc/</link>
-      <title>Public preview: Azure SQL migration assessment enabled by Azure Arc</title>
-      <description>With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs. </description>
-      <pubDate>Wed, 14 Feb 2024 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">With SQL Server enabled by Azure Arc you can now begin your migration journey from directly within the Azure Arc environment with recommended Azure SQL deployment option that best fits your workload needs. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-firewall-flow-trace-logs-and-autoscaling-based-on-number-of-connections-and-are-now-generally-available</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-flow-trace-logs-and-autoscaling-based-on-number-of-connections-and-are-now-generally-available/</link>
-      <title>Azure Firewall: Flow Trace Logs and Autoscaling based on number of connections are now generally available</title>
-      <description>Flow Trace Logs provide more visibility into the TCP handshake, providing insight into whether traffic is properly flowing through the firewall. In addition, Azure Firewall can now autoscale based on number of connections, providing more scaling adaptability to dynamic workloads.  </description>
-      <pubDate>Tue, 13 Feb 2024 18:00:46 Z</pubDate>
-      <atom:content
-        type="text">Flow Trace Logs provide more visibility into the TCP handshake, providing insight into whether traffic is properly flowing through the firewall. In addition, Azure Firewall can now autoscale based on number of connections, providing more scaling adaptability to dynamic workloads.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-firewall-parallel-ip-group-update-support-is-now-in-public-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-firewall-parallel-ip-group-update-support-is-now-in-public-preview/</link>
-      <title>Azure Firewall: Parallel IP Group update support is now in public preview</title>
-      <description>Parallel IP Group support enables administrators to simultaneously update multiple IP Groups in a firewall, streamlining the process of implementing devOps changes. </description>
-      <pubDate>Tue, 13 Feb 2024 18:00:46 Z</pubDate>
-      <atom:content
-        type="text">Parallel IP Group support enables administrators to simultaneously update multiple IP Groups in a firewall, streamlining the process of implementing devOps changes. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
