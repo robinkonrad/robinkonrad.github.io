@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 19 Apr 2024 14:12:08 Z",
+      "lastBuildDate": "Fri, 19 Apr 2024 15:14:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-dr-for-shared-disks-azure-site-recovery"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-dr-for-shared-disks-azure-site-recovery/",
+          "title": "Public Preview – DR for Shared Disks – Azure Site Recovery",
+          "description": "Now you can use the benefits of Shared Disk for your mission-critical applications such as SQL FCI, SAP ASCS, Scale-out File Servers, etc., while ensuring business continuity and disaster recovery with Azure Site Recovery.",
+          "pubDate": "Fri, 19 Apr 2024 15:10:54 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now you can use the benefits of Shared Disk for your mission-critical applications such as SQL FCI, SAP ASCS, Scale-out File Servers, etc., while ensuring business continuity and disaster recovery with Azure Site Recovery."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1031,21 +1046,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
-          "title": "Generally Available: Free managed certificates on Azure Container Apps",
-          "description": "Azure Container Apps now provides a free managed certificate for your custom domain.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-support-for-key-vault-certificates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
@@ -1055,6 +1055,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
+          "title": "Generally Available: Free managed certificates on Azure Container Apps",
+          "description": "Azure Container Apps now provides a free managed certificate for your custom domain.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
           },
           "content:encoded": null
         },
@@ -1378,21 +1393,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
-          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
-          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "crossclouddeprecation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
@@ -1402,6 +1402,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
+          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
+          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
           },
           "content:encoded": null
         },
@@ -3111,21 +3126,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Elastic SAN is now generally available, the industry’s first fully managed and cloud-native SAN offering that simplifies deploying, scaling, managing, and configuring a SAN in the cloud."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-aks-cluster-control-plane-metrics-in-managed-prometheus"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-aks-cluster-control-plane-metrics-in-managed-prometheus/",
-          "title": "Public preview: AKS cluster control plane metrics in managed Prometheus",
-          "description": "You can now monitor the health, load and performance of the API server and etcd in the control plane of your AKS clusters",
-          "pubDate": "Mon, 12 Feb 2024 18:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now monitor the health, load and performance of the API server and etcd in the control plane of your AKS clusters"
           },
           "content:encoded": null
         }
