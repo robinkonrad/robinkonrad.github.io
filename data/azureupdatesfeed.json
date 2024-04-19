@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 19 Apr 2024 15:14:08 Z",
+      "lastBuildDate": "Fri, 19 Apr 2024 16:18:45 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-bulk-delete-operation-for-the-fhir-service-in-azure-health-data-services"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-bulk-delete-operation-for-the-fhir-service-in-azure-health-data-services/",
+          "title": "Generally available: Bulk delete operation for the FHIR service in Azure Health Data Services",
+          "description": "The bulk delete operation allows deletion of FHIR resources across different levels, enabling healthcare organizations to comply with data retention policies while providing asynchronous processing capabilities.",
+          "pubDate": "Fri, 19 Apr 2024 16:12:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The bulk delete operation allows deletion of FHIR resources across different levels, enabling healthcare organizations to comply with data retention policies while providing asynchronous processing capabilities."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1046,21 +1061,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-support-for-key-vault-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
-          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
-          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
@@ -1070,6 +1070,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-key-vault-certificates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
+          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
+          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
           },
           "content:encoded": null
         },
@@ -3111,21 +3126,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Parallel IP Group support enables administrators to simultaneously update multiple IP Groups in a firewall, streamlining the process of implementing devOps changes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-elastic-san-is-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-elastic-san-is-now-generally-available/",
-          "title": "Azure Elastic SAN is now generally available",
-          "description": "Azure Elastic SAN is now generally available, the industry’s first fully managed and cloud-native SAN offering that simplifies deploying, scaling, managing, and configuring a SAN in the cloud.",
-          "pubDate": "Tue, 13 Feb 2024 18:00:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Elastic SAN is now generally available, the industry’s first fully managed and cloud-native SAN offering that simplifies deploying, scaling, managing, and configuring a SAN in the cloud."
           },
           "content:encoded": null
         }
