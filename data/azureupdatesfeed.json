@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 22 Apr 2024 14:13:21 Z",
+      "lastBuildDate": "Mon, 22 Apr 2024 15:14:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-monitor-agent-upload-to-storage-and-eventhubs-now-publicpreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-agent-upload-to-storage-and-eventhubs-now-publicpreview/",
+          "title": "Public Preview: Azure Monitor Agent Upload to Storage and Event Hubs",
+          "description": "Azure Monitor Agent can now upload to Azure Storage and Event Hubs.",
+          "pubDate": "Mon, 22 Apr 2024 15:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor Agent can now upload to Azure Storage and Event Hubs."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1498,21 +1513,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "crossclouddeprecation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
-          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
-          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
@@ -1522,6 +1522,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "crossclouddeprecation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
+          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
+          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
           },
           "content:encoded": null
         },
@@ -3111,21 +3126,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure China cloud regions now support Trusted Launch Virtual Machines to improve security posture of an Azure Virtual Machine."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-support-on-change-feed-and-object-replication/",
-          "title": "Generally available: Azure Blob Storage Cold Tier support on Change Feed and Object Replication",
-          "description": "Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier.",
-          "pubDate": "Wed, 14 Feb 2024 17:00:03 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Blob Change Feed and Object Replication now support Azure Blob Storage Cold Tier."
           },
           "content:encoded": null
         }
