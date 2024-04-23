@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 23 Apr 2024 15:13:36 Z",
+      "lastBuildDate": "Tue, 23 Apr 2024 16:17:16 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-virtual-network-manager-security-admin-rule-generally-available-in-all-public-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-security-admin-rule-generally-available-in-all-public-regions/",
+          "title": "Azure Virtual Network Manager security admin rule generally available in all public regions",
+          "description": "Azure Virtual Network Manager's security admin rule configuration is now generally available in all public regions, empowering users to enforce security rules across their virtual networks globally.",
+          "pubDate": "Tue, 23 Apr 2024 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network Manager's security admin rule configuration is now generally available in all public regions, empowering users to enforce security rules across their virtual networks globally."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3110,22 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability for the support for Azure VMs using Premium SSD v2 in Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically/",
-          "category": "Azure Monitor; Log Analytics; Azure Monitor Logs; Application Insights",
-          "title": "Execute Azure Monitor Logs connector on exact time range provided dynamically (preview)",
-          "description": "Azure Monitor Logs connector lets you query data in your Log Analytics workspace or Application Insights components per Logic App trigger or schedule, and list or visualize results. The Time range…",
-          "pubDate": "Mon, 19 Feb 2024 18:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor Logs connector lets you query data in your Log Analytics workspace or Application Insights components per Logic App trigger or schedule, and list or visualize results. The Time range…"
           },
           "content:encoded": null
         }
