@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 23 Apr 2024 18:16:44 Z",
+      "lastBuildDate": "Tue, 23 Apr 2024 19:10:37 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -552,6 +552,27 @@
           "atom:content": {
             "@type": "text",
             "#text": "Improve your workload’s resiliency and optimize your cloud deployments by reviewing recommendations on Advisor"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/",
+          "category": [
+            "azure-monitor",
+            "azure-kubernetes-service",
+            "container-insights",
+            "prometheus"
+          ],
+          "title": "Public Preview: Azure Monitor introduces Prometheus community recommended alerts",
+          "description": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.",
+          "pubDate": "Tue, 02 Apr 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters."
           },
           "content:encoded": null
         },
@@ -3101,21 +3122,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files in US Gov region now supports ability to edit existing ANF volumes and upgrading Basic network features to Standard network features."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "support-for-up-to-100-tb-of-storage-for-the-fhir-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/support-for-up-to-100-tb-of-storage-for-the-fhir-service/",
-          "title": "Generally available: Support for up to 100 TB of storage for the FHIR service",
-          "description": "The FHIR service in Azure Health Data Services supports up to 100 TB of storage. The FHIR service can store and exchange large amounts of health data, and each FHIR service instance has a 4 TB storage limit by default. However, if you have more data, you can ask Microsoft to increase storage up to 100 TB for your FHIR service.",
-          "pubDate": "Mon, 05 Feb 2024 18:52:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The FHIR service in Azure Health Data Services supports up to 100 TB of storage. The FHIR service can store and exchange large amounts of health data, and each FHIR service instance has a 4 TB storage limit by default. However, if you have more data, you can ask Microsoft to increase storage up to 100 TB for your FHIR service."
           },
           "content:encoded": null
         }
