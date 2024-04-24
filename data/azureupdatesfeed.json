@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 24 Apr 2024 17:14:13 Z",
+      "lastBuildDate": "Wed, 24 Apr 2024 18:16:29 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-application-gateway-web-application-firewall-waf-inspection-limit-size-enforcement"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-web-application-firewall-waf-inspection-limit-size-enforcement/",
+          "title": "General availability: Application Gateway Web Application Firewall (WAF) inspection limit & size enforcement",
+          "description": "Azure’s regional Web Application Firewall (WAF) running on Application Gateway now supports greater control over request body inspection, and maximum size limits for request bodies and file uploads.",
+          "pubDate": "Wed, 24 Apr 2024 18:00:33 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure’s regional Web Application Firewall (WAF) running on Application Gateway now supports greater control over request body inspection, and maximum size limits for request bodies and file uploads."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3102,22 +3117,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "A new feature that reduces the data transfer for MSSQL queries on Kusto."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/sending-a-log-search-alert-with-cross-tenant-target-resource-will-no-longer-be-supported/",
-          "category": "alerts",
-          "title": "Sending a log search alert with cross tenant target resource will no longer be supported",
-          "description": "As of March 15, 2024, this behavior will change and sending a log search alert with a cross tenant target resource (except for the lighthouse case) will no longer be supported. Alerts will not be sent to unauthorized target resources, and log search alert rules with an unauthorized target will be ignored. This will ensure that only authorized users can receive and investigate log search alerts.",
-          "pubDate": "Wed, 21 Feb 2024 21:11:28 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "As of March 15, 2024, this behavior will change and sending a log search alert with a cross tenant target resource (except for the lighthouse case) will no longer be supported. Alerts will not be sent to unauthorized target resources, and log search alert rules with an unauthorized target will be ignored. This will ensure that only authorized users can receive and investigate log search alerts."
           },
           "content:encoded": null
         }
