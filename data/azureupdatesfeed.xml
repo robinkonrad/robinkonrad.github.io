@@ -6,11 +6,88 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Apr 2024 15:14:57 Z</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 16:16:24 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">generally-available-index-advisor-in-azure-cosmos-db-helps-optimize-your-index-policy-for-nosql-queries</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-index-advisor-in-azure-cosmos-db-helps-optimize-your-index-policy-for-nosql-queries/</link>
+      <title>Generally Available: Index Advisor in Azure Cosmos DB helps optimize your index policy for NoSQL queries</title>
+      <description>Reduce RU-costs and improve query speeds with Index Advisor!</description>
+      <pubDate>Wed, 24 Apr 2024 16:01:07 Z</pubDate>
+      <atom:content
+        type="text">Reduce RU-costs and improve query speeds with Index Advisor!</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-semantic-caching-with-vcore-based-azure-cosmos-db</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-semantic-caching-with-vcore-based-azure-cosmos-db/</link>
+      <title>General availability: Semantic caching with vCore-based Azure Cosmos DB for MongoDB</title>
+      <description>Leverage historical LLM responses with Azure Cosmos DB and LangChain! </description>
+      <pubDate>Wed, 24 Apr 2024 16:01:00 Z</pubDate>
+      <atom:content
+        type="text">Leverage historical LLM responses with Azure Cosmos DB and LangChain! </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-filtered-vector-search-in-vcore-based-azure-cosmos-db-for-mongodb</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-filtered-vector-search-in-vcore-based-azure-cosmos-db-for-mongodb/</link>
+      <title>Public preview: Filtered vector search in vCore-based Azure Cosmos DB for MongoDB</title>
+      <description>Azure Cosmos DB for MongoDB improves its vector search capabilities with filtered vector search, now in preview.</description>
+      <pubDate>Wed, 24 Apr 2024 16:00:53 Z</pubDate>
+      <atom:content
+        type="text">Azure Cosmos DB for MongoDB improves its vector search capabilities with filtered vector search, now in preview.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-database-for-postgresql-flexible-server-enhanced-disaster-recovery-features</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-postgresql-flexible-server-enhanced-disaster-recovery-features/</link>
+      <title>General availability: Azure Database for PostgreSQL - Flexible Server enhanced disaster recovery features</title>
+      <description>Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL. </description>
+      <pubDate>Wed, 24 Apr 2024 16:00:46 Z</pubDate>
+      <atom:content
+        type="text">Explore advanced disaster recovery with Virtual Endpoints and seamless role-swapping in Azure Database for PostgreSQL. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cosmos-db-for-postgresql-georedundant-backup-and-restore</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-postgresql-georedundant-backup-and-restore/</link>
+      <title>General availability: Azure Cosmos DB for PostgreSQL geo-redundant backup and restore</title>
+      <description>Store cluster backup in another region. Restore cluster in the primary or another region.</description>
+      <pubDate>Wed, 24 Apr 2024 16:00:39 Z</pubDate>
+      <atom:content
+        type="text">Store cluster backup in another region. Restore cluster in the primary or another region.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-hnsw-vector-index-in-vcore-based-azure-cosmos-db-for-mongodb</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-hnsw-vector-index-in-vcore-based-azure-cosmos-db-for-mongodb/</link>
+      <title>General availability: HNSW vector index in vCore-based Azure Cosmos DB for MongoDB</title>
+      <description>The HNSW vector index is now generally available in vCore-based Azure Cosmos DB for MongoDB. </description>
+      <pubDate>Wed, 24 Apr 2024 16:00:33 Z</pubDate>
+      <atom:content
+        type="text">The HNSW vector index is now generally available in vCore-based Azure Cosmos DB for MongoDB. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-virtual-network-flow-logs</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-virtual-network-flow-logs/</link>
+      <title>General availability: Virtual network flow logs</title>
+      <description>Gain visibility of IP traffic flowing through your virtual networks</description>
+      <pubDate>Wed, 24 Apr 2024 15:34:34 Z</pubDate>
+      <atom:content
+        type="text">Gain visibility of IP traffic flowing through your virtual networks</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-virtual-network-manager-security-admin-rule-generally-available-in-all-public-regions</guid>
@@ -2230,88 +2307,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 21 Feb 2024 21:11:28 Z</pubDate>
       <atom:content
         type="text">As of March 15, 2024, this behavior will change and sending a log search alert with a cross tenant target resource (except for the lighthouse case) will no longer be supported. Alerts will not be sent to unauthorized target resources, and log search alert rules with an unauthorized target will be ignored. This will ensure that only authorized users can receive and investigate log search alerts.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">update-kusto-db</guid>
-      <link>https://azure.microsoft.com/en-us/updates/update-kusto-db/</link>
-      <category>adx</category>
-      <category>data-explorer</category>
-      <category>kusto</category>
-      <title>Update records in a Kusto Database (public preview)</title>
-      <description>The new .update command allows you to update records (rows) in a Kusto Database (either in Azure Data Explorer or in Fabric KQL Database).  This is a new tool to help you build great data pipeline!</description>
-      <pubDate>Tue, 20 Feb 2024 20:00:22 Z</pubDate>
-      <atom:content
-        type="text">The new .update command allows you to update records (rows) in a Kusto Database (either in Azure Data Explorer or in Fabric KQL Database).  This is a new tool to help you build great data pipeline!</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-regional-disaster-recovery-by-azure-backup-for-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-regional-disaster-recovery-by-azure-backup-for-aks/</link>
-      <category>Azure Portal</category>
-      <title>Public Preview: Regional Disaster Recovery by Azure Backup for AKS</title>
-      <description>Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </description>
-      <pubDate>Tue, 20 Feb 2024 20:00:21 Z</pubDate>
-      <atom:content
-        type="text">Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-edit-network-features-for-azure-netapp-files</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-edit-network-features-for-azure-netapp-files/</link>
-      <title>General Availability: Azure NetApp Files Standard Network Features - Edit Volumes</title>
-      <description>Azure NetApp Files Standard Network Features - Edit Volumes GA</description>
-      <pubDate>Tue, 20 Feb 2024 18:00:21 Z</pubDate>
-      <atom:content
-        type="text">Azure NetApp Files Standard Network Features - Edit Volumes GA</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-configascode-customizations-in-microsoft-dev-box</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/</link>
-      <title>Public preview: Configuration-as-code customizations in Microsoft Dev Box </title>
-      <description>Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.</description>
-      <pubDate>Tue, 20 Feb 2024 18:00:21 Z</pubDate>
-      <atom:content
-        type="text">Customization enables developers to efficiently configure workstations to their exact project requirements, within guardrails set by admins that enforce governance and security policies.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-storage-actions-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-storage-actions-preview/</link>
-      <category>Azure Storage</category>
-      <title>Public Preview: Azure Storage Actions — Serverless storage data management</title>
-      <description>Azure Storage Actions is a fully managed platform that helps you automate data management tasks for Azure Blob Storage and Azure Data Lake Storage.</description>
-      <pubDate>Tue, 20 Feb 2024 16:29:27 Z</pubDate>
-      <atom:content
-        type="text">Azure Storage Actions is a fully managed platform that helps you automate data management tasks for Azure Blob Storage and Azure Data Lake Storage.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ultra-disk-backup-support-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ultra-disk-backup-support-ga/</link>
-      <title>Generally available: Support for Azure VMs using Ultra disks in Azure Backup</title>
-      <description>General availability for the support for Azure VMs using Ultra disks in Azure Backup. </description>
-      <pubDate>Mon, 19 Feb 2024 20:00:09 Z</pubDate>
-      <atom:content
-        type="text">General availability for the support for Azure VMs using Ultra disks in Azure Backup. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">premium-ssd-v2-backup-support-ga</guid>
-      <link>https://azure.microsoft.com/en-us/updates/premium-ssd-v2-backup-support-ga/</link>
-      <title>Generally available: Support for Azure VMs using Premium SSD v2 in Azure Backup</title>
-      <description>General availability for the support for Azure VMs using Premium SSD v2 in Azure Backup. </description>
-      <pubDate>Mon, 19 Feb 2024 20:00:08 Z</pubDate>
-      <atom:content
-        type="text">General availability for the support for Azure VMs using Premium SSD v2 in Azure Backup. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
