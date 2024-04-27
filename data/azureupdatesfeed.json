@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 26 Apr 2024 23:13:50 Z",
+      "lastBuildDate": "Sat, 27 Apr 2024 00:59:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "updated-retirement-notice-azure-data-catalog-will-now-be-retired-on-15-may-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/updated-retirement-notice-azure-data-catalog-will-now-be-retired-on-15-may-2024/",
+          "title": "Updated Retirement Notice: Azure Data Catalog will now be retired on 15 May 2024",
+          "description": "Azure Data Catalog will now be retired on 15 May 2024 – migrate to Microsoft Purview",
+          "pubDate": "Fri, 26 Apr 2024 23:00:04 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Data Catalog will now be retired on 15 May 2024 – migrate to Microsoft Purview"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3110,22 +3125,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "General availability for the support for Azure VMs using Premium SSD v2 in Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/execute-azure-monitor-logs-connector-on-exact-time-range-provided-dynamically/",
-          "category": "Azure Monitor; Log Analytics; Azure Monitor Logs; Application Insights",
-          "title": "Execute Azure Monitor Logs connector on exact time range provided dynamically (preview)",
-          "description": "Azure Monitor Logs connector lets you query data in your Log Analytics workspace or Application Insights components per Logic App trigger or schedule, and list or visualize results. The Time range…",
-          "pubDate": "Mon, 19 Feb 2024 18:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor Logs connector lets you query data in your Log Analytics workspace or Application Insights components per Logic App trigger or schedule, and list or visualize results. The Time range…"
           },
           "content:encoded": null
         }
