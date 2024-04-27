@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Sat, 27 Apr 2024 00:59:54 Z",
+      "lastBuildDate": "Sat, 27 Apr 2024 01:55:49 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -31,6 +31,43 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Data Catalog will now be retired on 15 May 2024 – migrate to Microsoft Purview"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-extensibility-model-in-azure-deployment-environments"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-extensibility-model-in-azure-deployment-environments/",
+          "category": "Microsoft Dev Box; Features; Services",
+          "title": "Public preview: Extensibility model in Azure Deployment Environments",
+          "description": "Azure Deployment Environments is adding a new extensibility model that empowers customers to customize deployment workflows using Bicep, Terraform, Pulumi, or any other infrastructure-as-code (IaC) framework of their choice.",
+          "pubDate": "Thu, 25 Apr 2024 17:00:37 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Deployment Environments is adding a new extensibility model that empowers customers to customize deployment workflows using Bicep, Terraform, Pulumi, or any other infrastructure-as-code (IaC) framework of their choice."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-change-analysis-new-portal-experience"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-change-analysis-new-portal-experience/",
+          "category": [
+            "Azure Resource Graph",
+            "Azure Resource Manager",
+            "Management",
+            "Features"
+          ],
+          "title": "Public preview: Azure Change Analysis New Portal Experience",
+          "description": "Viewing changes to your Azure resources just became easier! With Azure Resource Graph’s Change Analysis, you can now view all your resource changes across all your tenants and subscriptions in the Azure Portal.",
+          "pubDate": "Thu, 25 Apr 2024 15:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Viewing changes to your Azure resources just became easier! With Azure Resource Graph’s Change Analysis, you can now view all your resource changes across all your tenants and subscriptions in the Azure Portal."
           },
           "content:encoded": null
         },
@@ -3095,36 +3132,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Storage Actions is a fully managed platform that helps you automate data management tasks for Azure Blob Storage and Azure Data Lake Storage."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ultra-disk-backup-support-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ultra-disk-backup-support-ga/",
-          "title": "Generally available: Support for Azure VMs using Ultra disks in Azure Backup",
-          "description": "General availability for the support for Azure VMs using Ultra disks in Azure Backup.",
-          "pubDate": "Mon, 19 Feb 2024 20:00:09 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability for the support for Azure VMs using Ultra disks in Azure Backup."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "premium-ssd-v2-backup-support-ga"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/premium-ssd-v2-backup-support-ga/",
-          "title": "Generally available: Support for Azure VMs using Premium SSD v2 in Azure Backup",
-          "description": "General availability for the support for Azure VMs using Premium SSD v2 in Azure Backup.",
-          "pubDate": "Mon, 19 Feb 2024 20:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "General availability for the support for Azure VMs using Premium SSD v2 in Azure Backup."
           },
           "content:encoded": null
         }
