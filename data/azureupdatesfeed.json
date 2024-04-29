@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 29 Apr 2024 15:14:56 Z",
+      "lastBuildDate": "Mon, 29 Apr 2024 16:17:04 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-host-redeploy"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-host-redeploy/",
+          "category": "adh",
+          "title": "Public Preview: Azure Dedicated Host - Redeploy",
+          "description": "Introducing redeploying capability for Azure dedicated hosts",
+          "pubDate": "Mon, 29 Apr 2024 16:00:24 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Introducing redeploying capability for Azure dedicated hosts"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-topology"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-topology/",
+          "title": "General availability: Improved network topology experience in Network Watcher and Azure Monitor Network Insights",
+          "description": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights",
+          "pubDate": "Mon, 29 Apr 2024 15:44:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enhancing network and resource health visualization with unified and dynamic topology across subscriptions, regions, and resource groups integrated with actionable connectivity and traffic insights"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3101,37 +3132,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure NetApp Files Standard Network Features - Edit Volumes GA"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-configascode-customizations-in-microsoft-dev-box"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-configascode-customizations-in-microsoft-dev-box/",
-          "title": "Public preview: Configuration-as-code customizations in Microsoft Dev Box",
-          "description": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies.",
-          "pubDate": "Tue, 20 Feb 2024 18:00:20 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft Dev Box, config-as-code customizations feature is now in preview. With customizations, developers can efficiently configure workstations to their exact project requirements, and admins can set guardrails to automatically enforce governance and security policies."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-storage-actions-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-storage-actions-preview/",
-          "category": "Azure Storage",
-          "title": "Public Preview: Azure Storage Actions — Serverless storage data management",
-          "description": "Azure Storage Actions is a fully managed platform that helps you automate data management tasks for Azure Blob Storage and Azure Data Lake Storage.",
-          "pubDate": "Tue, 20 Feb 2024 16:29:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Storage Actions is a fully managed platform that helps you automate data management tasks for Azure Blob Storage and Azure Data Lake Storage."
           },
           "content:encoded": null
         }
