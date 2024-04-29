@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 29 Apr 2024 16:17:04 Z",
+      "lastBuildDate": "Mon, 29 Apr 2024 17:11:44 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "infrastructure-and-quality-enhancements-for-azure-container-registry"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/infrastructure-and-quality-enhancements-for-azure-container-registry/",
+          "title": "Infrastructure and quality enhancements for Azure Container Registry",
+          "description": "ACR now supports expanded registry capacity of up to 40TiB and optimized geo-replication performance.",
+          "pubDate": "Mon, 29 Apr 2024 17:00:25 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ACR now supports expanded registry capacity of up to 40TiB and optimized geo-replication performance."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3117,21 +3132,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-edit-network-features-for-azure-netapp-files"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-edit-network-features-for-azure-netapp-files/",
-          "title": "General Availability: Azure NetApp Files Standard Network Features - Edit Volumes",
-          "description": "Azure NetApp Files Standard Network Features - Edit Volumes GA",
-          "pubDate": "Tue, 20 Feb 2024 18:00:21 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files Standard Network Features - Edit Volumes GA"
           },
           "content:encoded": null
         }
