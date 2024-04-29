@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 29 Apr 2024 18:17:33 Z",
+      "lastBuildDate": "Mon, 29 Apr 2024 19:10:37 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-monitor-pipeline-at-edge"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-pipeline-at-edge/",
+          "category": "Azure Monitor",
+          "title": "Public preview: Azure Monitor pipeline (at edge)",
+          "description": "We are announcing public preview Azure Monitor pipeline (for edge). With this, we are now extending our Azure Monitor pipeline capabilities from the cloud to the edge, enabling seamless and high-scale data ingestion with centralized configuration management.",
+          "pubDate": "Mon, 29 Apr 2024 19:00:26 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are announcing public preview Azure Monitor pipeline (for edge). With this, we are now extending our Azure Monitor pipeline capabilities from the cloud to the edge, enabling seamless and high-scale data ingestion with centralized configuration management."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3116,22 +3132,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "The new .update command allows you to update records (rows) in a Kusto Database (either in Azure Data Explorer or in Fabric KQL Database).  This is a new tool to help you build great data pipeline!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-regional-disaster-recovery-by-azure-backup-for-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-regional-disaster-recovery-by-azure-backup-for-aks/",
-          "category": "Azure Portal",
-          "title": "Public Preview: Regional Disaster Recovery by Azure Backup for AKS",
-          "description": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario.",
-          "pubDate": "Tue, 20 Feb 2024 20:00:22 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario."
           },
           "content:encoded": null
         }

@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 18:17:33 Z</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 19:10:37 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-monitor-pipeline-at-edge</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-pipeline-at-edge/</link>
+      <category>Azure Monitor</category>
+      <title>Public preview: Azure Monitor pipeline (at edge)</title>
+      <description>We are announcing public preview Azure Monitor pipeline (for edge). With this, we are now extending our Azure Monitor pipeline capabilities from the cloud to the edge, enabling seamless and high-scale data ingestion with centralized configuration management.</description>
+      <pubDate>Mon, 29 Apr 2024 19:00:26 Z</pubDate>
+      <atom:content
+        type="text">We are announcing public preview Azure Monitor pipeline (for edge). With this, we are now extending our Azure Monitor pipeline capabilities from the cloud to the edge, enabling seamless and high-scale data ingestion with centralized configuration management.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">infrastructure-and-quality-enhancements-for-azure-container-registry</guid>
@@ -2305,18 +2317,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Tue, 20 Feb 2024 20:00:22 Z</pubDate>
       <atom:content
         type="text">The new .update command allows you to update records (rows) in a Kusto Database (either in Azure Data Explorer or in Fabric KQL Database).  This is a new tool to help you build great data pipeline!</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-regional-disaster-recovery-by-azure-backup-for-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-regional-disaster-recovery-by-azure-backup-for-aks/</link>
-      <category>Azure Portal</category>
-      <title>Public Preview: Regional Disaster Recovery by Azure Backup for AKS</title>
-      <description>Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </description>
-      <pubDate>Tue, 20 Feb 2024 20:00:22 Z</pubDate>
-      <atom:content
-        type="text">Customers can now utilize Azure Backup for AKS to recover their containerized applications and data during a regional disaster scenario. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
