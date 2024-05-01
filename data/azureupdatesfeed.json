@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 01 May 2024 16:17:16 Z",
+      "lastBuildDate": "Wed, 01 May 2024 17:12:47 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -63,21 +63,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure HDInsight on AKS is now available for preview in seven new regions - East US 2 EUAP, West US, Japan East, Australia East, Canada Central, North Europe, Brazil South. Azure HDInsight on AKS is a modern, reliable, secure, and fully managed Platform as a Service (PaaS) that runs on Azure Kubernetes Service (AKS). HDInsight on AKS allows you to deploy popular Open-Source Analytics workloads like Apache Spark™, Apache Flink®️, and Trino without the overhead of managing and monitoring containers. For more information about Azure HDInsight on AKS, see the documentation."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-bastion-developer-sku"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-developer-sku/",
-          "title": "General availability: Azure Bastion Developer SKU",
-          "description": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.",
-          "pubDate": "Tue, 30 Apr 2024 16:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service."
           },
           "content:encoded": null
         },
@@ -557,7 +542,7 @@
           "category": "Alerts",
           "title": "GA: Azure Monitor log search alerts support managed identities",
           "description": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.",
-          "pubDate": "Thu, 18 Apr 2024 17:00:04 Z",
+          "pubDate": "Thu, 18 Apr 2024 17:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials."
@@ -851,7 +836,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/alt-fairfax/",
           "title": "Azure Load Testing availability in Fairfax (USGov Virginia)",
           "description": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process.",
-          "pubDate": "Tue, 09 Apr 2024 16:00:10 Z",
+          "pubDate": "Tue, 09 Apr 2024 16:00:02 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process."
@@ -1058,7 +1043,7 @@
           "category": "Azure Backup",
           "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
           "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
-          "pubDate": "Mon, 01 Apr 2024 16:00:07 Z",
+          "pubDate": "Mon, 01 Apr 2024 16:00:06 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
@@ -1074,7 +1059,7 @@
           "category": "Azure Database for PostgreSQL; Azure Backup",
           "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
           "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
-          "pubDate": "Mon, 01 Apr 2024 14:00:06 Z",
+          "pubDate": "Mon, 01 Apr 2024 14:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
@@ -1854,21 +1839,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
-          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
-          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "crossclouddeprecation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
@@ -1878,6 +1848,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
+          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
+          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
           },
           "content:encoded": null
         },
@@ -1994,11 +1979,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/",
           "title": "Community support for Standard_M192ids_v2 is ending on 31 March 2027",
-          "description": "Support for Standard_M192idms_v2 will be retired on 31 March 2027",
+          "description": "Support for Standard_M192ids_v2 will be retired on 31 March 2027",
           "pubDate": "Fri, 22 Mar 2024 23:00:09 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Support for Standard_M192idms_v2 will be retired on 31 March 2027"
+            "#text": "Support for Standard_M192ids_v2 will be retired on 31 March 2027"
           },
           "content:encoded": null
         },
@@ -2528,7 +2513,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/",
           "title": "Public preview: Azure Modeling and Simulation Workbench",
           "description": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams.",
-          "pubDate": "Mon, 18 Mar 2024 16:00:06 Z",
+          "pubDate": "Mon, 18 Mar 2024 16:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams."
@@ -2628,7 +2613,7 @@
           ],
           "title": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping",
           "description": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.",
-          "pubDate": "Thu, 14 Mar 2024 16:00:08 Z",
+          "pubDate": "Thu, 14 Mar 2024 16:00:11 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
@@ -3049,7 +3034,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-feb2024/",
           "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
           "description": "Cloud Services (classic) retiring in August 2024.",
-          "pubDate": "Sat, 02 Mar 2024 00:00:19 Z",
+          "pubDate": "Sat, 02 Mar 2024 00:00:18 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Cloud Services (classic) retiring in August 2024."
@@ -3074,6 +3059,66 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/",
+          "title": "Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs",
+          "description": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub.",
+          "pubDate": "Wed, 28 Feb 2024 20:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-functions-support-for-http-streams-in-nodejs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-nodejs/",
+          "title": "Public preview: Azure Functions Support for HTTP Streams in Node.js",
+          "description": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:58 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-kubernetes-129-support-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-129-support-in-aks/",
+          "title": "Public preview: Kubernetes 1.29 support in AKS",
+          "description": "You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-os-sku-inplace-migration-for-linux-nodes"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-os-sku-inplace-migration-for-linux-nodes/",
+          "title": "Public preview: OS SKU in-place migration for Linux nodes",
+          "description": "You can now migrate nodes from one Linux OS to another without having to create new nodes.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:47 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now migrate nodes from one Linux OS to another without having to create new nodes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "generally-available-node-soak-duration-for-upgrades"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/",
@@ -3083,51 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now stagger AKS node upgrades and minimize application downtime."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-istiobased-service-mesh-addon-for-azure-kubernetes-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-istiobased-service-mesh-addon-for-azure-kubernetes-service/",
-          "title": "GA: Istio-based service mesh add-on for Azure Kubernetes Service",
-          "description": "You can deploy an officially supported Istio addon for AKS",
-          "pubDate": "Wed, 28 Feb 2024 18:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can deploy an officially supported Istio addon for AKS"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-3/",
-          "title": "General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server",
-          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22",
-          "pubDate": "Wed, 28 Feb 2024 17:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.1, 15.5, 14.10, 13.13, 12.17, 11.22"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-application-gateway-for-containers"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-application-gateway-for-containers/",
-          "title": "General availability: Application Gateway for Containers",
-          "description": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements.",
-          "pubDate": "Tue, 27 Feb 2024 20:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Application Gateway for Containers is the next evolution to Application Gateway's Ingress Controller; bringing performance, scale, deployment, and feature enhancements."
           },
           "content:encoded": null
         }
