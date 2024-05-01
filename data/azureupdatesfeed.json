@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 01 May 2024 20:16:47 Z",
+      "lastBuildDate": "Wed, 01 May 2024 21:12:12 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-iot-edge-lts-release"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-iot-edge-lts-release/",
+          "title": "Generally available: Azure IoT Edge v1.5.0 (LTS) release",
+          "description": "The Azure IoT Edge release of v1.5 is the latest LTS version of Azure IoT Edge.",
+          "pubDate": "Wed, 01 May 2024 17:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure IoT Edge release of v1.5 is the latest LTS version of Azure IoT Edge."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3113,21 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now migrate nodes from one Linux OS to another without having to create new nodes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-node-soak-duration-for-upgrades"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/",
-          "title": "Generally Available: AKS support for node soak duration for upgrades",
-          "description": "You can now stagger AKS node upgrades and minimize application downtime.",
-          "pubDate": "Wed, 28 Feb 2024 18:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now stagger AKS node upgrades and minimize application downtime."
           },
           "content:encoded": null
         }
