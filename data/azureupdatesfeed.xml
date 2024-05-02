@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 May 2024 18:17:48 Z</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 19:11:06 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">azure-governance-update-management-group-update</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-governance-update-management-group-update/</link>
+      <title>Azure Governance Update - Management Groups </title>
+      <description>Beginning May 3, 2024, Azure will start enabling the root management group for tenants that have not enabled it yet. Using Azure management groups leverages best practices when applying Azure Policy and having it pre-enabled reduces the initial set up work to follow the best practices. </description>
+      <pubDate>Thu, 02 May 2024 19:00:10 Z</pubDate>
+      <atom:content
+        type="text">Beginning May 3, 2024, Azure will start enabling the root management group for tenants that have not enabled it yet. Using Azure management groups leverages best practices when applying Azure Policy and having it pre-enabled reduces the initial set up work to follow the best practices. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-virtual-network-manager-userdefined-route-udr-management-now-in-public-preview</guid>
@@ -1125,17 +1136,6 @@ Get started with Query editor to access advanced querying capabilities within Az
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-support-for-key-vault-certificates</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/</link>
-      <title>Public preview: Support for Key Vault Certificates in Azure Container Apps</title>
-      <description>You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </description>
-      <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
-      <atom:content
-        type="text">You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-free-managed-certificates-on-azure-container-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/</link>
       <title>Generally Available: Free managed certificates on Azure Container Apps</title>
@@ -1143,6 +1143,17 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
       <atom:content
         type="text">Azure Container Apps now provides a free managed certificate for your custom domain. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-support-for-key-vault-certificates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/</link>
+      <title>Public preview: Support for Key Vault Certificates in Azure Container Apps</title>
+      <description>You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </description>
+      <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
+      <atom:content
+        type="text">You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2304,17 +2315,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 28 Feb 2024 18:00:58 Z</pubDate>
       <atom:content
         type="text">Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-kubernetes-129-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-kubernetes-129-support-in-aks/</link>
-      <title>Public preview: Kubernetes 1.29 support in AKS </title>
-      <description>You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment. </description>
-      <pubDate>Wed, 28 Feb 2024 18:00:51 Z</pubDate>
-      <atom:content
-        type="text">You can now try out Kubernetes 1.29 preview version with AKS and get ready for Kubernetes 1.29 GA in your production environment. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
