@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 03 May 2024 19:11:06 Z",
+      "lastBuildDate": "Fri, 03 May 2024 20:15:38 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -587,7 +587,7 @@
           "category": "Alerts",
           "title": "GA: Azure Monitor log search alerts support managed identities",
           "description": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.",
-          "pubDate": "Thu, 18 Apr 2024 17:00:05 Z",
+          "pubDate": "Thu, 18 Apr 2024 17:00:04 Z",
           "atom:content": {
             "@type": "text",
             "#text": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials."
@@ -881,7 +881,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/alt-fairfax/",
           "title": "Azure Load Testing availability in Fairfax (USGov Virginia)",
           "description": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process.",
-          "pubDate": "Tue, 09 Apr 2024 16:00:02 Z",
+          "pubDate": "Tue, 09 Apr 2024 16:00:10 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process."
@@ -1088,7 +1088,7 @@
           "category": "Azure Backup",
           "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
           "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
-          "pubDate": "Mon, 01 Apr 2024 16:00:06 Z",
+          "pubDate": "Mon, 01 Apr 2024 16:00:07 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
@@ -1104,7 +1104,7 @@
           "category": "Azure Database for PostgreSQL; Azure Backup",
           "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
           "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
-          "pubDate": "Mon, 01 Apr 2024 14:00:05 Z",
+          "pubDate": "Mon, 01 Apr 2024 14:00:06 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
@@ -1537,21 +1537,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-support-for-key-vault-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
-          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
-          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
@@ -1561,6 +1546,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-key-vault-certificates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
+          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
+          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
           },
           "content:encoded": null
         },
@@ -1884,21 +1884,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "crossclouddeprecation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
-          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
-          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
@@ -1908,6 +1893,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "crossclouddeprecation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
+          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
+          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
           },
           "content:encoded": null
         },
@@ -2024,11 +2024,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/",
           "title": "Community support for Standard_M192ids_v2 is ending on 31 March 2027",
-          "description": "Support for Standard_M192ids_v2 will be retired on 31 March 2027",
+          "description": "Support for Standard_M192idms_v2 will be retired on 31 March 2027",
           "pubDate": "Fri, 22 Mar 2024 23:00:09 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Support for Standard_M192ids_v2 will be retired on 31 March 2027"
+            "#text": "Support for Standard_M192idms_v2 will be retired on 31 March 2027"
           },
           "content:encoded": null
         },
@@ -2558,7 +2558,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/",
           "title": "Public preview: Azure Modeling and Simulation Workbench",
           "description": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams.",
-          "pubDate": "Mon, 18 Mar 2024 16:00:05 Z",
+          "pubDate": "Mon, 18 Mar 2024 16:00:06 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams."
@@ -2658,7 +2658,7 @@
           ],
           "title": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping",
           "description": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.",
-          "pubDate": "Thu, 14 Mar 2024 16:00:11 Z",
+          "pubDate": "Thu, 14 Mar 2024 16:00:08 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
@@ -3079,7 +3079,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement-feb2024/",
           "title": "Cloud Services (classic) deployment model is retiring on 31 August 2024",
           "description": "Cloud Services (classic) retiring in August 2024.",
-          "pubDate": "Sat, 02 Mar 2024 00:00:18 Z",
+          "pubDate": "Sat, 02 Mar 2024 00:00:19 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Cloud Services (classic) retiring in August 2024."
@@ -3104,30 +3104,30 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs"
+            "#text": "generally-available-node-soak-duration-for-upgrades"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-internet-inbound-for-network-virtual-appliances-in-virtual-wan-hubs/",
-          "title": "Public preview: Internet inbound for Network Virtual Appliances in Virtual WAN Hubs",
-          "description": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub.",
-          "pubDate": "Wed, 28 Feb 2024 20:00:10 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/",
+          "title": "Generally Available: AKS support for node soak duration for upgrades",
+          "description": "You can now stagger AKS node upgrades and minimize application downtime.",
+          "pubDate": "Wed, 28 Feb 2024 18:00:38 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Public preview for internet inbound (Destination NAT) capabilities for Next-Generation Firewall Network Virtual Appliances deployed in the Virtual WAN hub. Destination NAT allows network administrators to publish applications to the broader internet through a public IP address assigned to a Firewall Network Virtual Appliance deployed in a Virtual WAN hub."
+            "#text": "You can now stagger AKS node upgrades and minimize application downtime."
           },
           "content:encoded": null
         },
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-azure-functions-support-for-http-streams-in-nodejs"
+            "#text": "ga-istiobased-service-mesh-addon-for-azure-kubernetes-service"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-functions-support-for-http-streams-in-nodejs/",
-          "title": "Public preview: Azure Functions Support for HTTP Streams in Node.js",
-          "description": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed.",
-          "pubDate": "Wed, 28 Feb 2024 18:00:58 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/ga-istiobased-service-mesh-addon-for-azure-kubernetes-service/",
+          "title": "GA: Istio-based service mesh add-on for Azure Kubernetes Service",
+          "description": "You can deploy an officially supported Istio addon for AKS",
+          "pubDate": "Wed, 28 Feb 2024 18:00:25 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Use this feature for use cases where real time exchange and interaction between client and server over HTTP connections is needed."
+            "#text": "You can deploy an officially supported Istio addon for AKS"
           },
           "content:encoded": null
         }
