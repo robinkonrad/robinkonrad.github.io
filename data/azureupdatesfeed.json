@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 03 May 2024 22:13:28 Z",
+      "lastBuildDate": "Fri, 03 May 2024 23:13:48 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "action-needed-update-azure-autoscale-notifications-to-using-additional-email-addresses-for-notifications"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/action-needed-update-azure-autoscale-notifications-to-using-additional-email-addresses-for-notifications/",
+          "title": "Action needed: Update Azure Autoscale Notifications to using additional email addresses for notifications",
+          "description": "Azure Classic roles will be retired by 31st August, 2024 – transition to using only additional email addresses for Azure Autoscale Notifications as Azure Autoscale is dependent on the Azure Classic Roles.",
+          "pubDate": "Fri, 03 May 2024 23:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Classic roles will be retired by 31st August, 2024 – transition to using only additional email addresses for Azure Autoscale Notifications as Azure Autoscale is dependent on the Azure Classic Roles."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3113,21 +3128,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now stagger AKS node upgrades and minimize application downtime."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-istiobased-service-mesh-addon-for-azure-kubernetes-service"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-istiobased-service-mesh-addon-for-azure-kubernetes-service/",
-          "title": "GA: Istio-based service mesh add-on for Azure Kubernetes Service",
-          "description": "You can deploy an officially supported Istio addon for AKS",
-          "pubDate": "Wed, 28 Feb 2024 18:00:25 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can deploy an officially supported Istio addon for AKS"
           },
           "content:encoded": null
         }
