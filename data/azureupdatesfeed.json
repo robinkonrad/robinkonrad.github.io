@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 06 May 2024 15:14:21 Z",
+      "lastBuildDate": "Mon, 06 May 2024 16:18:47 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-front-door-log-scrubbing-of-sensitive-data-is-general-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-front-door-log-scrubbing-of-sensitive-data-is-general-available/",
+          "title": "Azure Front Door log scrubbing of sensitive data is general available",
+          "description": "Azure Front Door supports removing sensitive data from Azure Front Door access log.",
+          "pubDate": "Mon, 06 May 2024 16:00:06 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Front Door supports removing sensitive data from Azure Front Door access log."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-api-center"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-api-center/",
+          "category": "API Management",
+          "title": "General Availability - Azure API Center",
+          "description": "Azure API Center is now generally available, providing a centralized solution to manage the challenges of API sprawl, which is exacerbated by the rapid proliferation of APIs and AI solutions. Azure API Center offers a unified inventory for seamless discovery, consumption, and governance of APIs, regardless of their type, lifecycle stage, or deployment location.",
+          "pubDate": "Mon, 06 May 2024 16:00:05 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure API Center is now generally available, providing a centralized solution to manage the challenges of API sprawl, which is exacerbated by the rapid proliferation of APIs and AI solutions. Azure API Center offers a unified inventory for seamless discovery, consumption, and governance of APIs, regardless of their type, lifecycle stage, or deployment location."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3098,36 +3129,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Cloud Services (classic) retiring in August 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-encryption-at-host-for-premium-ssd-v2-and-ultra-disks-is-now-available-in-more-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-encryption-at-host-for-premium-ssd-v2-and-ultra-disks-is-now-available-in-more-regions/",
-          "title": "General Availability: Encryption at host for Premium SSD v2 and Ultra Disks is now available in more regions.",
-          "description": "Encryption at host for Premium SSD v2 and Ultra Disks is now available in Canada East, West Europe, South Central US and West US 3.",
-          "pubDate": "Thu, 29 Feb 2024 18:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Encryption at host for Premium SSD v2 and Ultra Disks is now available in Canada East, West Europe, South Central US and West US 3."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-node-soak-duration-for-upgrades"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-node-soak-duration-for-upgrades/",
-          "title": "Generally Available: AKS support for node soak duration for upgrades",
-          "description": "You can now stagger AKS node upgrades and minimize application downtime.",
-          "pubDate": "Wed, 28 Feb 2024 18:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now stagger AKS node upgrades and minimize application downtime."
           },
           "content:encoded": null
         }
