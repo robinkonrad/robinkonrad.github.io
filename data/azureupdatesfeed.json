@@ -12,13 +12,103 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 08 May 2024 15:13:58 Z",
+      "lastBuildDate": "Wed, 08 May 2024 16:17:57 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-customermanaged-keys-on-existing-accounts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-on-existing-accounts/",
+          "title": "General availability: Customer-managed keys on existing accounts",
+          "description": "Configure customer-managed keys for your existing Azure Cosmos DB account.",
+          "pubDate": "Wed, 08 May 2024 16:01:08 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Configure customer-managed keys for your existing Azure Cosmos DB account."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-sql-server-on-azure-vm-storage-configuration-deployment-experience-with-support-for-premium-ssd-v2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sql-server-on-azure-vm-storage-configuration-deployment-experience-with-support-for-premium-ssd-v2/",
+          "title": "Public Preview: SQL Server on Azure VM storage configuration deployment experience with support for Premium SSD v2",
+          "description": "Customers can now choose Premium SSD v2 for the Ebdsv5 and Ebsv5 virtual machine series with the additional ability to opt-in for NVMe support.",
+          "pubDate": "Wed, 08 May 2024 16:01:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers can now choose Premium SSD v2 for the Ebdsv5 and Ebsv5 virtual machine series with the additional ability to opt-in for NVMe support."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-latest-version-of-the-timescaledb-extension-on-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-version-of-the-timescaledb-extension-on-azure-database-for-postgresql-flexible-server/",
+          "title": "General availability: Latest version of the TimeScaleDB extension on Azure Database for PostgreSQL - Flexible Server",
+          "description": "Upgrade to the latest TimeScaleDB extension on Azure for enhanced time-series data handling and improved performance.",
+          "pubDate": "Wed, 08 May 2024 16:00:56 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Upgrade to the latest TimeScaleDB extension on Azure for enhanced time-series data handling and improved performance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-5"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-5/",
+          "title": "General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server",
+          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.2, 15.6, 14.11, 13.14, and 12.18.",
+          "pubDate": "Wed, 08 May 2024 16:00:49 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.2, 15.6, 14.11, 13.14, and 12.18."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-cosmos-db-data-explorer-keyboard-shortcuts"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-data-explorer-keyboard-shortcuts/",
+          "title": "General Availability: Azure Cosmos DB Data Explorer keyboard shortcuts",
+          "description": "Work Smarter: Enhance Productivity with Azure Cosmos DB Data Explorer shortcut keys.",
+          "pubDate": "Wed, 08 May 2024 16:00:43 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Work Smarter: Enhance Productivity with Azure Cosmos DB Data Explorer shortcut keys."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-cosmos-db-api-for-mongodb-ru-supports-version-50-and-60"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-api-for-mongodb-ru-supports-version-50-and-60/",
+          "title": "General availability: Azure Cosmos DB API for MongoDB RU supports version 5.0 and 6.0",
+          "description": "Azure Cosmos DB for MongoDB now supports MongoDB v5 and v6.",
+          "pubDate": "Wed, 08 May 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Cosmos DB for MongoDB now supports MongoDB v5 and v6."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3029,107 +3119,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-service-level-agreement-on-azure-blob-storage-cold-tier"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-service-level-agreement-on-azure-blob-storage-cold-tier/",
-          "title": "Generally available: Service Level Agreements on Azure Blob Storage Cold Tier",
-          "description": "Azure Blob Storage Cold Tier has published Service Level Agreements.",
-          "pubDate": "Thu, 07 Mar 2024 17:00:45 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Blob Storage Cold Tier has published Service Level Agreements."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-virtual-network-encryption-now-in-additional-regions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-now-in-additional-regions/",
-          "title": "General availability: Azure Virtual Network encryption now in additional regions",
-          "description": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions.",
-          "pubDate": "Thu, 07 Mar 2024 17:00:41 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-change-actor"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-change-actor/",
-          "category": [
-            "Azure Resource Graph",
-            "Azure Resource Manager",
-            "Management",
-            "Features"
-          ],
-          "title": "Public preview: Change Actor",
-          "description": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions.",
-          "pubDate": "Thu, 07 Mar 2024 16:00:40 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-functions-support-for-nodejs-20"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-nodejs-20/",
-          "title": "Generally available: Azure Functions Support for Node.js 20",
-          "description": "Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows.",
-          "pubDate": "Wed, 06 Mar 2024 18:00:27 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones/",
-          "category": [
-            "Azure NetApp Files",
-            "Features",
-            "Services"
-          ],
-          "title": "Public preview: Azure NetApp Files volume enhancement – allow the same file path for volumes in different availability zones",
-          "description": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness",
-          "pubDate": "Tue, 05 Mar 2024 18:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-new-generation-amd-vms-dav6eav6fav6-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-new-generation-amd-vms-dav6eav6fav6-2/",
-          "title": "Public preview: New Generation AMD VMs - Dasv6/Easv6/Fasv6",
-          "description": "Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU.",
-          "pubDate": "Tue, 05 Mar 2024 17:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure introduces the latest AMD-based VMs in public preview for the D, E, and F series VMs, built on the 4th Generation AMD EPYC™ (Genoa) CPU."
           },
           "content:encoded": null
         }
