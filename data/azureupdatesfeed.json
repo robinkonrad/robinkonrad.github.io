@@ -12,13 +12,73 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 08 May 2024 20:14:10 Z",
+      "lastBuildDate": "Wed, 08 May 2024 21:14:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "new-version-of-aks-extension-in-visual-studio-code-now-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/new-version-of-aks-extension-in-visual-studio-code-now-available/",
+          "title": "New version of AKS extension in Visual Studio Code now available",
+          "description": "You can now take advantage of new enhancements available in version 1.4.3",
+          "pubDate": "Wed, 08 May 2024 20:46:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now take advantage of new enhancements available in version 1.4.3"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-initialization-taints-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-initialization-taints-in-aks/",
+          "title": "Public preview: Initialization taints in AKS",
+          "description": "You can now use node initialization taints in AKS e.g. in scenarios where you may need extra time to setup your nodes.",
+          "pubDate": "Wed, 08 May 2024 20:43:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use node initialization taints in AKS e.g. in scenarios where you may need extra time to setup your nodes."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ga-support-for-disabling-windows-outboundnat-in-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ga-support-for-disabling-windows-outboundnat-in-aks/",
+          "title": "GA: Support for disabling Windows outboundNAT in AKS",
+          "description": "You can now manually disable Windows outboundNAT when creating new Windows node pools in Azure Kubernetes Service (AKS).",
+          "pubDate": "Wed, 08 May 2024 20:42:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now manually disable Windows outboundNAT when creating new Windows node pools in Azure Kubernetes Service (AKS)."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-nfs-azure-files-volume-mount-support-in-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-nfs-azure-files-volume-mount-support-in-azure-container-apps/",
+          "title": "Public Preview: NFS Azure Files volume mount support in Azure Container Apps",
+          "description": "You can now mount NFS file shares in Azure Container Apps.",
+          "pubDate": "Wed, 08 May 2024 20:41:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now mount NFS file shares in Azure Container Apps."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3058,67 +3118,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Communication Services Advanced Messaging is now generally available, enabling developers to send and receive messages from their applications through third party social messaging platforms, like the WhatsApp Business Platform. This latest messaging service helps businesses create intelligent B2C communication workflows to reach more customers at scale and deliver safe, reliable communications to customers worldwide."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-chaos-studio-supports-new-faults-for-azure-event-hubs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-chaos-studio-supports-new-faults-for-azure-event-hubs/",
-          "title": "Generally Available: Azure Chaos Studio supports new fault for Azure Event Hubs",
-          "description": "Azure Chaos Studio supports new faults for Azure Event Hubs.",
-          "pubDate": "Tue, 12 Mar 2024 17:00:52 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Chaos Studio supports new faults for Azure Event Hubs."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-api-center-updates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-api-center-updates/",
-          "category": "API Management",
-          "title": "Azure API Center Updates",
-          "description": "We are pleased to announce an update to the Azure API Center extension for Visual Studio Code, introducing new capabilities for API inventory and design. Additionally, we are unveiling a new API governance feature in API Center, enabling API linting and analysis based on customer-owned design guidelines.",
-          "pubDate": "Mon, 11 Mar 2024 16:00:39 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are pleased to announce an update to the Azure API Center extension for Visual Studio Code, introducing new capabilities for API inventory and design. Additionally, we are unveiling a new API governance feature in API Center, enabling API linting and analysis based on customer-owned design guidelines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-blob-storage-cold-tier-in-poland-central-qatar-central-and-azure-china"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-in-poland-central-qatar-central-and-azure-china/",
-          "title": "Generally available: Azure Blob Storage Cold Tier in Poland Central, Qatar Central and Azure China",
-          "description": "Azure Blob Storage Cold Tier in generally available in Poland Central, Qatar Central and Azure China.",
-          "pubDate": "Mon, 11 Mar 2024 16:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Blob Storage Cold Tier in generally available in Poland Central, Qatar Central and Azure China."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "app-service-backup-and-restore-over-azure-virtual-network-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/app-service-backup-and-restore-over-azure-virtual-network-2/",
-          "title": "General Availability: App Service Backup and Restore over Azure Virtual Network",
-          "description": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.",
-          "pubDate": "Thu, 07 Mar 2024 19:00:42 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
           },
           "content:encoded": null
         }
