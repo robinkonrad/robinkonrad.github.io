@@ -12,163 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 09 May 2024 17:12:19 Z",
+      "lastBuildDate": "Thu, 09 May 2024 18:17:32 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "new-version-of-aks-extension-in-visual-studio-code-now-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/new-version-of-aks-extension-in-visual-studio-code-now-available/",
-          "title": "New version of AKS extension in Visual Studio Code now available",
-          "description": "You can now take advantage of new enhancements available in version 1.4.3",
-          "pubDate": "Wed, 08 May 2024 20:46:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now take advantage of new enhancements available in version 1.4.3"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-initialization-taints-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-initialization-taints-in-aks/",
-          "title": "Public preview: Initialization taints in AKS",
-          "description": "You can now use node initialization taints in AKS e.g. in scenarios where you may need extra time to setup your nodes.",
-          "pubDate": "Wed, 08 May 2024 20:43:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use node initialization taints in AKS e.g. in scenarios where you may need extra time to setup your nodes."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-support-for-disabling-windows-outboundnat-in-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-support-for-disabling-windows-outboundnat-in-aks/",
-          "title": "GA: Support for disabling Windows outboundNAT in AKS",
-          "description": "You can now manually disable Windows outboundNAT when creating new Windows node pools in Azure Kubernetes Service (AKS).",
-          "pubDate": "Wed, 08 May 2024 20:42:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now manually disable Windows outboundNAT when creating new Windows node pools in Azure Kubernetes Service (AKS)."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-nfs-azure-files-volume-mount-support-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-nfs-azure-files-volume-mount-support-in-azure-container-apps/",
-          "title": "Public Preview: NFS Azure Files volume mount support in Azure Container Apps",
-          "description": "You can now mount NFS file shares in Azure Container Apps.",
-          "pubDate": "Wed, 08 May 2024 20:41:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now mount NFS file shares in Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-customermanaged-keys-on-existing-accounts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-customermanaged-keys-on-existing-accounts/",
-          "title": "General availability: Customer-managed keys on existing accounts",
-          "description": "Configure customer-managed keys for your existing Azure Cosmos DB account.",
-          "pubDate": "Wed, 08 May 2024 16:01:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Configure customer-managed keys for your existing Azure Cosmos DB account."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-sql-server-on-azure-vm-storage-configuration-deployment-experience-with-support-for-premium-ssd-v2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sql-server-on-azure-vm-storage-configuration-deployment-experience-with-support-for-premium-ssd-v2/",
-          "title": "Public Preview: SQL Server on Azure VM storage configuration deployment experience with support for Premium SSD v2",
-          "description": "Customers can now choose Premium SSD v2 for the Ebdsv5 and Ebsv5 virtual machine series with the additional ability to opt-in for NVMe support.",
-          "pubDate": "Wed, 08 May 2024 16:01:02 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Customers can now choose Premium SSD v2 for the Ebdsv5 and Ebsv5 virtual machine series with the additional ability to opt-in for NVMe support."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-latest-version-of-the-timescaledb-extension-on-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-version-of-the-timescaledb-extension-on-azure-database-for-postgresql-flexible-server/",
-          "title": "General availability: Latest version of the TimeScaleDB extension on Azure Database for PostgreSQL - Flexible Server",
-          "description": "Upgrade to the latest TimeScaleDB extension on Azure for enhanced time-series data handling and improved performance.",
-          "pubDate": "Wed, 08 May 2024 16:00:56 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade to the latest TimeScaleDB extension on Azure for enhanced time-series data handling and improved performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-5"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-latest-postgresql-minor-versions-supported-by-azure-database-for-postgresql-flexible-server-5/",
-          "title": "General availability: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL - Flexible Server",
-          "description": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.2, 15.6, 14.11, 13.14, and 12.18.",
-          "pubDate": "Wed, 08 May 2024 16:00:49 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Database for PostgreSQL – Flexible Server now supports minor versions 16.2, 15.6, 14.11, 13.14, and 12.18."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-cosmos-db-data-explorer-keyboard-shortcuts"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-data-explorer-keyboard-shortcuts/",
-          "title": "General Availability: Azure Cosmos DB Data Explorer keyboard shortcuts",
-          "description": "Work Smarter: Enhance Productivity with Azure Cosmos DB Data Explorer shortcut keys.",
-          "pubDate": "Wed, 08 May 2024 16:00:43 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Work Smarter: Enhance Productivity with Azure Cosmos DB Data Explorer shortcut keys."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-cosmos-db-api-for-mongodb-ru-supports-version-50-and-60"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-api-for-mongodb-ru-supports-version-50-and-60/",
-          "title": "General availability: Azure Cosmos DB API for MongoDB RU supports version 5.0 and 6.0",
-          "description": "Azure Cosmos DB for MongoDB now supports MongoDB v5 and v6.",
-          "pubDate": "Wed, 08 May 2024 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Cosmos DB for MongoDB now supports MongoDB v5 and v6."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -182,22 +32,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/",
-          "category": "#mexicocentral #microsoftdatacenters",
-          "title": "General Availability: Microsoft Azure now available from new cloud region in Mexico",
-          "description": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico.",
-          "pubDate": "Tue, 07 May 2024 16:35:52 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico."
           },
           "content:encoded": null
         },
@@ -243,6 +77,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Storage Actions is a fully managed platform that helps you automate data management operations for object storage and data lakes. The preview is now available in 14 more regions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/",
+          "category": "#mexicocentral #microsoftdatacenters",
+          "title": "General Availability: Microsoft Azure now available from new cloud region in Mexico",
+          "description": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico.",
+          "pubDate": "Mon, 06 May 2024 19:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico."
           },
           "content:encoded": null
         },
@@ -845,7 +695,7 @@
           "category": "Alerts",
           "title": "GA: Azure Monitor log search alerts support managed identities",
           "description": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.",
-          "pubDate": "Thu, 18 Apr 2024 17:00:04 Z",
+          "pubDate": "Thu, 18 Apr 2024 17:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials."
@@ -1139,7 +989,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/alt-fairfax/",
           "title": "Azure Load Testing availability in Fairfax (USGov Virginia)",
           "description": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process.",
-          "pubDate": "Tue, 09 Apr 2024 16:00:10 Z",
+          "pubDate": "Tue, 09 Apr 2024 16:00:02 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process."
@@ -1346,7 +1196,7 @@
           "category": "Azure Backup",
           "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
           "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
-          "pubDate": "Mon, 01 Apr 2024 16:00:07 Z",
+          "pubDate": "Mon, 01 Apr 2024 16:00:06 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
@@ -1362,7 +1212,7 @@
           "category": "Azure Database for PostgreSQL; Azure Backup",
           "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
           "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
-          "pubDate": "Mon, 01 Apr 2024 14:00:06 Z",
+          "pubDate": "Mon, 01 Apr 2024 14:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
@@ -2142,21 +1992,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
-          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
-          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "crossclouddeprecation"
           },
           "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
@@ -2166,6 +2001,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
+          "title": "Azure Synapse Runtime for Apache Spark 3.2 End of Support",
+          "description": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
           },
           "content:encoded": null
         },
@@ -2282,11 +2132,11 @@
           },
           "link": "https://azure.microsoft.com/en-us/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/",
           "title": "Community support for Standard_M192ids_v2 is ending on 31 March 2027",
-          "description": "Support for Standard_M192idms_v2 will be retired on 31 March 2027",
+          "description": "Support for Standard_M192ids_v2 will be retired on 31 March 2027",
           "pubDate": "Fri, 22 Mar 2024 23:00:09 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Support for Standard_M192idms_v2 will be retired on 31 March 2027"
+            "#text": "Support for Standard_M192ids_v2 will be retired on 31 March 2027"
           },
           "content:encoded": null
         },
@@ -2816,7 +2666,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/",
           "title": "Public preview: Azure Modeling and Simulation Workbench",
           "description": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams.",
-          "pubDate": "Mon, 18 Mar 2024 16:00:06 Z",
+          "pubDate": "Mon, 18 Mar 2024 16:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams."
@@ -2916,7 +2766,7 @@
           ],
           "title": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping",
           "description": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.",
-          "pubDate": "Thu, 14 Mar 2024 16:00:08 Z",
+          "pubDate": "Thu, 14 Mar 2024 16:00:11 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
@@ -3119,6 +2969,168 @@
           "atom:content": {
             "@type": "text",
             "#text": "We're excited to announce Try Azure Cosmos DB support in our Azure Cosmos DB integration with Vercel."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "whatsapp"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/whatsapp/",
+          "title": "WhatsApp Business Platform now available for applications built on Azure",
+          "description": "Azure Communication Services Advanced Messaging is now generally available, enabling developers to send and receive messages from their applications through third party social messaging platforms, like the WhatsApp Business Platform. This latest messaging service helps businesses create intelligent B2C communication workflows to reach more customers at scale and deliver safe, reliable communications to customers worldwide.",
+          "pubDate": "Tue, 12 Mar 2024 17:00:53 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Communication Services Advanced Messaging is now generally available, enabling developers to send and receive messages from their applications through third party social messaging platforms, like the WhatsApp Business Platform. This latest messaging service helps businesses create intelligent B2C communication workflows to reach more customers at scale and deliver safe, reliable communications to customers worldwide."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-chaos-studio-supports-new-faults-for-azure-event-hubs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-chaos-studio-supports-new-faults-for-azure-event-hubs/",
+          "title": "Generally Available: Azure Chaos Studio supports new fault for Azure Event Hubs",
+          "description": "Azure Chaos Studio supports new faults for Azure Event Hubs.",
+          "pubDate": "Tue, 12 Mar 2024 17:00:52 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio supports new faults for Azure Event Hubs."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-api-center-updates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-api-center-updates/",
+          "category": "API Management",
+          "title": "Azure API Center Updates",
+          "description": "We are pleased to announce an update to the Azure API Center extension for Visual Studio Code, introducing new capabilities for API inventory and design. Additionally, we are unveiling a new API governance feature in API Center, enabling API linting and analysis based on customer-owned design guidelines.",
+          "pubDate": "Mon, 11 Mar 2024 16:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are pleased to announce an update to the Azure API Center extension for Visual Studio Code, introducing new capabilities for API inventory and design. Additionally, we are unveiling a new API governance feature in API Center, enabling API linting and analysis based on customer-owned design guidelines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-blob-storage-cold-tier-in-poland-central-qatar-central-and-azure-china"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-blob-storage-cold-tier-in-poland-central-qatar-central-and-azure-china/",
+          "title": "Generally available: Azure Blob Storage Cold Tier in Poland Central, Qatar Central and Azure China",
+          "description": "Azure Blob Storage Cold Tier in generally available in Poland Central, Qatar Central and Azure China.",
+          "pubDate": "Mon, 11 Mar 2024 16:00:38 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Storage Cold Tier in generally available in Poland Central, Qatar Central and Azure China."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "app-service-backup-and-restore-over-azure-virtual-network-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/app-service-backup-and-restore-over-azure-virtual-network-2/",
+          "title": "General Availability: App Service Backup and Restore over Azure Virtual Network",
+          "description": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account.",
+          "pubDate": "Thu, 07 Mar 2024 19:00:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers can now use custom backups, to back up their web app's files and configuration data to a firewall-protected storage account."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-service-level-agreement-on-azure-blob-storage-cold-tier"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-service-level-agreement-on-azure-blob-storage-cold-tier/",
+          "title": "Generally available: Service Level Agreements on Azure Blob Storage Cold Tier",
+          "description": "Azure Blob Storage Cold Tier has published Service Level Agreements.",
+          "pubDate": "Thu, 07 Mar 2024 17:00:45 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Blob Storage Cold Tier has published Service Level Agreements."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-virtual-network-encryption-now-in-additional-regions"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-virtual-network-encryption-now-in-additional-regions/",
+          "title": "General availability: Azure Virtual Network encryption now in additional regions",
+          "description": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions.",
+          "pubDate": "Thu, 07 Mar 2024 17:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network encryption is a feature of Azure Virtual Networks. Virtual network encryption allows you to seamlessly encrypt and decrypt traffic between Azure Virtual Machines.  Now available in additional regions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-change-actor"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-change-actor/",
+          "category": [
+            "Azure Resource Graph",
+            "Azure Resource Manager",
+            "Management",
+            "Features"
+          ],
+          "title": "Public preview: Change Actor",
+          "description": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions.",
+          "pubDate": "Thu, 07 Mar 2024 16:00:40 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Change Actor allows you to see who initiated the change and with which client that change was made, for changes across all your tenants and subscriptions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-functions-support-for-nodejs-20"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-nodejs-20/",
+          "title": "Generally available: Azure Functions Support for Node.js 20",
+          "description": "Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows.",
+          "pubDate": "Wed, 06 Mar 2024 18:00:27 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "Public preview: Azure NetApp Files volume enhancement – allow the same file path for volumes in different availability zones",
+          "description": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness",
+          "pubDate": "Tue, 05 Mar 2024 18:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness"
           },
           "content:encoded": null
         }
