@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 10 May 2024 14:12:33 Z",
+      "lastBuildDate": "Fri, 10 May 2024 15:13:41 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "gpt4-turbo-vision"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/gpt4-turbo-vision/",
+          "title": "Announcing the General Availability of GPT-4 Turbo with Vision on Azure OpenAI Service",
+          "description": "We are thrilled to announce the general availability of GPT-4 Turbo with Vision on the Azure OpenAI Service, which processes both text and image inputs and replaces several preview models. This multimodal model has already been used by customers in various industries to enhance efficiencies and innovate, with case studies to be featured at the upcoming Build conference. For deployment details and future enhancements, including JSON mode and function calling for image inputs, please refer to our Azure OpenAI Service resources and updates.",
+          "pubDate": "Fri, 10 May 2024 14:53:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are thrilled to announce the general availability of GPT-4 Turbo with Vision on the Azure OpenAI Service, which processes both text and image inputs and replaces several preview models. This multimodal model has already been used by customers in various industries to enhance efficiencies and innovate, with case studies to be featured at the upcoming Build conference. For deployment details and future enhancements, including JSON mode and function calling for image inputs, please refer to our Azure OpenAI Service resources and updates."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3111,26 +3126,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones/",
-          "category": [
-            "Azure NetApp Files",
-            "Features",
-            "Services"
-          ],
-          "title": "Public preview: Azure NetApp Files volume enhancement – allow the same file path for volumes in different availability zones",
-          "description": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness",
-          "pubDate": "Tue, 05 Mar 2024 18:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public Preview of Azure NetApp Files volume enhancement – file path uniqueness"
           },
           "content:encoded": null
         }

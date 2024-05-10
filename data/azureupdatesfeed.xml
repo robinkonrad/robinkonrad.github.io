@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 May 2024 14:12:33 Z</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 15:13:41 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">gpt4-turbo-vision</guid>
+      <link>https://azure.microsoft.com/en-us/updates/gpt4-turbo-vision/</link>
+      <title>Announcing the General Availability of GPT-4 Turbo with Vision on Azure OpenAI Service</title>
+      <description>We are thrilled to announce the general availability of GPT-4 Turbo with Vision on the Azure OpenAI Service, which processes both text and image inputs and replaces several preview models. This multimodal model has already been used by customers in various industries to enhance efficiencies and innovate, with case studies to be featured at the upcoming Build conference. For deployment details and future enhancements, including JSON mode and function calling for image inputs, please refer to our Azure OpenAI Service resources and updates.</description>
+      <pubDate>Fri, 10 May 2024 14:53:10 Z</pubDate>
+      <atom:content
+        type="text">We are thrilled to announce the general availability of GPT-4 Turbo with Vision on the Azure OpenAI Service, which processes both text and image inputs and replaces several preview models. This multimodal model has already been used by customers in various industries to enhance efficiencies and innovate, with case studies to be featured at the upcoming Build conference. For deployment details and future enhancements, including JSON mode and function calling for image inputs, please refer to our Azure OpenAI Service resources and updates.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration</guid>
@@ -2300,20 +2311,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 06 Mar 2024 18:00:27 Z</pubDate>
       <atom:content
         type="text">Develop functions using Node.js 20 locally and deploy them to all Azure Functions plans on Linux and Windows.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones/</link>
-      <category>Azure NetApp Files</category>
-      <category>Features</category>
-      <category>Services</category>
-      <title>Public preview: Azure NetApp Files volume enhancement – allow the same file path for volumes in different availability zones</title>
-      <description>Public Preview of Azure NetApp Files volume enhancement – file path uniqueness</description>
-      <pubDate>Tue, 05 Mar 2024 18:00:13 Z</pubDate>
-      <atom:content
-        type="text">Public Preview of Azure NetApp Files volume enhancement – file path uniqueness</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
