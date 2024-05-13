@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 13 May 2024 16:19:21 Z",
+      "lastBuildDate": "Mon, 13 May 2024 17:11:54 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-ubuntu-2404-lts-for-azure-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-ubuntu-2404-lts-for-azure-virtual-machines/",
+          "title": "Generally Available: Ubuntu 24.04 LTS for Azure Virtual Machines",
+          "description": "Ubuntu 24.04 LTS, the latest Ubuntu LTS release from Canonical, is now available for Azure Virtual Machines (VMs)",
+          "pubDate": "Mon, 13 May 2024 17:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Ubuntu 24.04 LTS, the latest Ubuntu LTS release from Canonical, is now available for Azure Virtual Machines (VMs)"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3104,21 +3119,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "In 2024, Azure Resource Manager is introducing a revamped throttling experience for subscriptions, with increased limits and a token bucket algorithm for managing requests. This will enhance API management and improve productivity. The transition to the new architecture will be gradual, leading to a more efficient and dynamic throttling experience. For more information, consult the Azure Resource Manager documentation."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midmarch-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midmarch-2024/",
-          "title": "Public Preview: Azure SQL updates for mid-March 2024",
-          "description": "Public preview enhancements and updates released for Azure SQL in mid-March 2024.",
-          "pubDate": "Wed, 13 Mar 2024 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in mid-March 2024."
           },
           "content:encoded": null
         }
