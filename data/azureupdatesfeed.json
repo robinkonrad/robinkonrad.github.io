@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 14 May 2024 17:12:02 Z",
+      "lastBuildDate": "Tue, 14 May 2024 18:18:08 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-sensitive-data-protection-for-azure-front-door-web-application-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sensitive-data-protection-for-azure-front-door-web-application-firewall/",
+          "title": "Public preview: Sensitive data protection for Azure Front Door Web Application Firewall",
+          "description": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) using log scrubbing on Azure’s global Web Application Firewall running on Azure Front Door.",
+          "pubDate": "Tue, 14 May 2024 18:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) using log scrubbing on Azure’s global Web Application Firewall running on Azure Front Door."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3099,21 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-tomcat-support-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-tomcat-support-in-azure-container-apps/",
-          "title": "Public Preview: Tomcat support in Azure Container Apps",
-          "description": "You can now deploy a Java application using a WAR file to Azure Container Apps.",
-          "pubDate": "Wed, 13 Mar 2024 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now deploy a Java application using a WAR file to Azure Container Apps."
           },
           "content:encoded": null
         }
