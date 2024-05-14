@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 14 May 2024 15:16:26 Z",
+      "lastBuildDate": "Tue, 14 May 2024 16:18:41 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "new-openai-model-on-azure"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/new-openai-model-on-azure/",
+          "title": "Introducing GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure",
+          "description": "Microsoft is thrilled to announce the launch of GPT-4o, OpenAI’s new flagship model, now available on Azure AI in preview. This groundbreaking multimodal model integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. GPT-4o is available now in Azure OpenAI Service, in preview, with support for text and image. Azure OpenAI Service customers can explore GPT-4o’s extensive capabilities through a preview playground in Azure OpenAI Studio starting today in two regions in the US. This initial release focuses on text and vision inputs to provide a glimpse into the model's potential, paving the way for further capabilities like audio.",
+          "pubDate": "Tue, 14 May 2024 16:05:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft is thrilled to announce the launch of GPT-4o, OpenAI’s new flagship model, now available on Azure AI in preview. This groundbreaking multimodal model integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. GPT-4o is available now in Azure OpenAI Service, in preview, with support for text and image. Azure OpenAI Service customers can explore GPT-4o’s extensive capabilities through a preview playground in Azure OpenAI Studio starting today in two regions in the US. This initial release focuses on text and vision inputs to provide a glimpse into the model's potential, paving the way for further capabilities like audio."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-front-door-server-variable-enhancement-general-available"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-front-door-server-variable-enhancement-general-available/",
+          "title": "Azure Front Door server variable enhancement general available",
+          "description": "Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable.",
+          "pubDate": "Tue, 14 May 2024 16:00:41 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3084,40 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now deploy a Java application using a WAR file to Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-resource-manager-throttling"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-resource-manager-throttling/",
-          "category": [
-            "AzureThrottling",
-            "AzureResourceManager"
-          ],
-          "title": "Public Preview: Modernizing Azure Resource Manager Throttling",
-          "description": "In 2024, Azure Resource Manager is introducing a revamped throttling experience for subscriptions, with increased limits and a token bucket algorithm for managing requests. This will enhance API management and improve productivity. The transition to the new architecture will be gradual, leading to a more efficient and dynamic throttling experience. For more information, consult the Azure Resource Manager documentation.",
-          "pubDate": "Wed, 13 Mar 2024 16:12:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "In 2024, Azure Resource Manager is introducing a revamped throttling experience for subscriptions, with increased limits and a token bucket algorithm for managing requests. This will enhance API management and improve productivity. The transition to the new architecture will be gradual, leading to a more efficient and dynamic throttling experience. For more information, consult the Azure Resource Manager documentation."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midmarch-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midmarch-2024/",
-          "title": "Public Preview: Azure SQL updates for mid-March 2024",
-          "description": "Public preview enhancements and updates released for Azure SQL in mid-March 2024.",
-          "pubDate": "Wed, 13 Mar 2024 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in mid-March 2024."
           },
           "content:encoded": null
         }
