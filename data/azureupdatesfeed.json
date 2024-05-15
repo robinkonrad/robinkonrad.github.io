@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 15 May 2024 20:16:53 Z",
+      "lastBuildDate": "Wed, 15 May 2024 21:14:17 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -47,6 +47,36 @@
           "atom:content": {
             "@type": "text",
             "#text": "Add a feature-rich data API to an Azure database or on-prem database using Microsoft's open-source Data API builder."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-sensitive-data-protection-for-azure-front-door-web-application-firewall"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-sensitive-data-protection-for-azure-front-door-web-application-firewall/",
+          "title": "Public preview: Sensitive data protection for Azure Front Door Web Application Firewall",
+          "description": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) using log scrubbing on Azure’s global Web Application Firewall running on Azure Front Door.",
+          "pubDate": "Tue, 14 May 2024 18:00:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Protect the sensitive data getting stored in your Web Application Firewall (WAF) using log scrubbing on Azure’s global Web Application Firewall running on Azure Front Door."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "new-openai-model-on-azure"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/new-openai-model-on-azure/",
+          "title": "Introducing GPT-4o: OpenAI’s new flagship multimodal model now in preview on Azure",
+          "description": "Microsoft is thrilled to announce the launch of GPT-4o, OpenAI’s new flagship model, now available on Azure AI in preview. This groundbreaking multimodal model integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. GPT-4o is available now in Azure OpenAI Service, in preview, with support for text and image. Azure OpenAI Service customers can explore GPT-4o’s extensive capabilities through a preview playground in Azure OpenAI Studio starting today in two regions in the US. This initial release focuses on text and vision inputs to provide a glimpse into the model's potential, paving the way for further capabilities like audio.",
+          "pubDate": "Tue, 14 May 2024 16:05:28 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft is thrilled to announce the launch of GPT-4o, OpenAI’s new flagship model, now available on Azure AI in preview. This groundbreaking multimodal model integrates text, vision, and audio capabilities, setting a new standard for generative and conversational AI experiences. GPT-4o is available now in Azure OpenAI Service, in preview, with support for text and image. Azure OpenAI Service customers can explore GPT-4o’s extensive capabilities through a preview playground in Azure OpenAI Studio starting today in two regions in the US. This initial release focuses on text and vision inputs to provide a glimpse into the model's potential, paving the way for further capabilities like audio."
           },
           "content:encoded": null
         },
@@ -2203,21 +2233,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "crossclouddeprecation"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
-          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
-          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
-          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "azure-synapse-runtime-for-apache-spark-32-end-of-support"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/",
@@ -2227,6 +2242,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "crossclouddeprecation"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/crossclouddeprecation/",
+          "title": "Support for Connector for AWS in Cost Management is ending on 31 March 2025",
+          "description": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.",
+          "pubDate": "Fri, 22 Mar 2024 23:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market."
           },
           "content:encoded": null
         },
@@ -3090,36 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Public preview enhancements and updates released for Azure SQL in mid-March 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-defender-for-microsoft-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-defender-for-microsoft-azure-database-for-postgresql-flexible-server/",
-          "title": "General Availability: Azure Defender for Microsoft Azure Database for PostgreSQL - Flexible Server",
-          "description": "Defender for Cloud detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit databases. When deployed, it provides another important security barrier.",
-          "pubDate": "Wed, 13 Mar 2024 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Defender for Cloud detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit databases. When deployed, it provides another important security barrier."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-private-link-in-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-private-link-in-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General Availability: Private Link in Azure Cosmos DB for MongoDB vCore",
-          "description": "Private endpoint for Azure Cosmos DB via Azure Private Link is now available, enhancing security.",
-          "pubDate": "Wed, 13 Mar 2024 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Private endpoint for Azure Cosmos DB via Azure Private Link is now available, enhancing security."
           },
           "content:encoded": null
         }
