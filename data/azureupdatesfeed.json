@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 15 May 2024 15:13:20 Z",
+      "lastBuildDate": "Wed, 15 May 2024 16:17:42 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "the-availability-of-azure-compute-reservations-will-continue-until-further-notice-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/the-availability-of-azure-compute-reservations-will-continue-until-further-notice-2/",
+          "category": "Azure reservations",
+          "title": "The availability of Azure compute reservations will continue until further notice",
+          "description": "Initially planned to end on January 1, 2024, the availability of Azure compute reservation exchanges for Azure Virtual Machine, Azure Dedicated Host and Azure App Service has been extended until further notice.",
+          "pubDate": "Wed, 15 May 2024 16:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Initially planned to end on January 1, 2024, the availability of Azure compute reservation exchanges for Azure Virtual Machine, Azure Dedicated Host and Azure App Service has been extended until further notice."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-data-api-builder"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-data-api-builder/",
+          "title": "General Availability: Data API builder",
+          "description": "Add a feature-rich data API to an Azure database or on-prem database using Microsoft's open-source Data API builder.",
+          "pubDate": "Wed, 15 May 2024 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Add a feature-rich data API to an Azure database or on-prem database using Microsoft's open-source Data API builder."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -1840,21 +1871,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
-          "title": "Generally Available: Free managed certificates on Azure Container Apps",
-          "description": "Azure Container Apps now provides a free managed certificate for your custom domain.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "public-preview-support-for-key-vault-certificates"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
@@ -1864,6 +1880,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
+          "title": "Generally Available: Free managed certificates on Azure Container Apps",
+          "description": "Azure Container Apps now provides a free managed certificate for your custom domain.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
           },
           "content:encoded": null
         },
@@ -3089,36 +3120,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Defender for Cloud detects anomalous activities indicating unusual and potentially harmful attempts to access or exploit databases. When deployed, it provides another important security barrier."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-private-link-in-azure-cosmos-db-for-mongodb-vcore"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-private-link-in-azure-cosmos-db-for-mongodb-vcore/",
-          "title": "General Availability: Private Link in Azure Cosmos DB for MongoDB vCore",
-          "description": "Private endpoint for Azure Cosmos DB via Azure Private Link is now available, enhancing security.",
-          "pubDate": "Wed, 13 Mar 2024 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Private endpoint for Azure Cosmos DB via Azure Private Link is now available, enhancing security."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-major-version-upgrade-logs-for-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-major-version-upgrade-logs-for-azure-database-for-postgresql-flexible-server/",
-          "title": "General Availability: Major version upgrade logs for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Major version upgrade logs for Azure Database for PostgreSQL Flexible Server now generally available.",
-          "pubDate": "Wed, 13 Mar 2024 16:00:10 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Major version upgrade logs for Azure Database for PostgreSQL Flexible Server now generally available."
           },
           "content:encoded": null
         }
