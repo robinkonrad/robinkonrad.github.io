@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 16 May 2024 15:14:14 Z",
+      "lastBuildDate": "Thu, 16 May 2024 16:17:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "expressroute-seamless-gateway-migration"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/expressroute-seamless-gateway-migration/",
+          "title": "General availability: ExpressRoute Seamless Gateway Migration",
+          "description": "ExpressRoute customers can now deploy a second gateway to the Gateway Subnet. This will enable a seamless migration to an Az-enabled Gateway SKU and upgrade your Public IP configurations.",
+          "pubDate": "Thu, 16 May 2024 16:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute customers can now deploy a second gateway to the Gateway Subnet. This will enable a seamless migration to an Az-enabled Gateway SKU and upgrade your Public IP configurations."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -86,7 +101,7 @@
             "#text": "azure-front-door-server-variable-enhancement-general-available"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-front-door-server-variable-enhancement-general-available/",
-          "title": "Azure Front Door server variable enhancement general available",
+          "title": "Azure Front Door server variable enhancement generally available",
           "description": "Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable.",
           "pubDate": "Tue, 14 May 2024 16:00:41 Z",
           "atom:content": {
@@ -1946,21 +1961,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "public-preview-support-for-key-vault-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
-          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
-          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
           },
           "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
@@ -1970,6 +1970,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-support-for-key-vault-certificates"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
+          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
+          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
+          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
           },
           "content:encoded": null
         },
@@ -3101,21 +3116,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Learn how to qualify for free egress when moving your data out of Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-jvm-memory-fit-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-jvm-memory-fit-in-azure-container-apps/",
-          "title": "Public Preview: JVM memory fit in Azure Container Apps",
-          "description": "Java apps are now attuned to the container environment and primed for better performance and reliability by default.",
-          "pubDate": "Wed, 13 Mar 2024 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Java apps are now attuned to the container environment and primed for better performance and reliability by default."
           },
           "content:encoded": null
         }

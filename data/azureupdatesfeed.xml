@@ -6,11 +6,22 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2024 15:14:14 Z</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 16:17:02 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">expressroute-seamless-gateway-migration</guid>
+      <link>https://azure.microsoft.com/en-us/updates/expressroute-seamless-gateway-migration/</link>
+      <title>General availability: ExpressRoute Seamless Gateway Migration</title>
+      <description>ExpressRoute customers can now deploy a second gateway to the Gateway Subnet. This will enable a seamless migration to an Az-enabled Gateway SKU and upgrade your Public IP configurations.  </description>
+      <pubDate>Thu, 16 May 2024 16:00:46 Z</pubDate>
+      <atom:content
+        type="text">ExpressRoute customers can now deploy a second gateway to the Gateway Subnet. This will enable a seamless migration to an Az-enabled Gateway SKU and upgrade your Public IP configurations.  </atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">the-availability-of-azure-compute-reservations-will-continue-until-further-notice-2</guid>
@@ -60,7 +71,7 @@
       <guid
         isPermaLink="false">azure-front-door-server-variable-enhancement-general-available</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-front-door-server-variable-enhancement-general-available/</link>
-      <title>Azure Front Door server variable enhancement general available </title>
+      <title>Azure Front Door server variable enhancement generally available </title>
       <description>Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable. </description>
       <pubDate>Tue, 14 May 2024 16:00:41 Z</pubDate>
       <atom:content
@@ -1433,17 +1444,6 @@ Get started with Query editor to access advanced querying capabilities within Az
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-support-for-key-vault-certificates</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/</link>
-      <title>Public preview: Support for Key Vault Certificates in Azure Container Apps</title>
-      <description>You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </description>
-      <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
-      <atom:content
-        type="text">You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-free-managed-certificates-on-azure-container-apps</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/</link>
       <title>Generally Available: Free managed certificates on Azure Container Apps</title>
@@ -1451,6 +1451,17 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
       <atom:content
         type="text">Azure Container Apps now provides a free managed certificate for your custom domain. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-support-for-key-vault-certificates</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/</link>
+      <title>Public preview: Support for Key Vault Certificates in Azure Container Apps</title>
+      <description>You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </description>
+      <pubDate>Wed, 27 Mar 2024 17:00:14 Z</pubDate>
+      <atom:content
+        type="text">You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2292,17 +2303,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 13 Mar 2024 17:30:07 Z</pubDate>
       <atom:content
         type="text">Learn how to qualify for free egress when moving your data out of Azure.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-jvm-memory-fit-in-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-jvm-memory-fit-in-azure-container-apps/</link>
-      <title>Public Preview: JVM memory fit in Azure Container Apps</title>
-      <description>Java apps are now attuned to the container environment and primed for better performance and reliability by default.</description>
-      <pubDate>Wed, 13 Mar 2024 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">Java apps are now attuned to the container environment and primed for better performance and reliability by default.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
