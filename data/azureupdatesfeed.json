@@ -12,13 +12,59 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 16 May 2024 22:13:56 Z",
+      "lastBuildDate": "Thu, 16 May 2024 23:14:06 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "expressroute-seamless-gateway-migration"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/expressroute-seamless-gateway-migration/",
+          "title": "General availability: ExpressRoute Seamless Gateway Migration",
+          "description": "ExpressRoute customers can now deploy a second gateway to the Gateway Subnet. This will enable a seamless migration to an Az-enabled Gateway SKU and upgrade your Public IP configurations.",
+          "pubDate": "Thu, 16 May 2024 16:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "ExpressRoute customers can now deploy a second gateway to the Gateway Subnet. This will enable a seamless migration to an Az-enabled Gateway SKU and upgrade your Public IP configurations."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "the-availability-of-azure-compute-reservations-will-continue-until-further-notice-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/the-availability-of-azure-compute-reservations-will-continue-until-further-notice-2/",
+          "category": "Azure reservations",
+          "title": "The availability of Azure compute reservations will continue until further notice",
+          "description": "Initially planned to end on January 1, 2024, the availability of Azure compute reservation exchanges for Azure Virtual Machine, Azure Dedicated Host and Azure App Service has been extended until further notice.",
+          "pubDate": "Wed, 15 May 2024 16:00:21 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Initially planned to end on January 1, 2024, the availability of Azure compute reservation exchanges for Azure Virtual Machine, Azure Dedicated Host and Azure App Service has been extended until further notice."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-data-api-builder"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-data-api-builder/",
+          "title": "General Availability: Data API builder",
+          "description": "Add a feature-rich data API to an Azure database or on-prem database using Microsoft's open-source Data API builder.",
+          "pubDate": "Wed, 15 May 2024 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Add a feature-rich data API to an Azure database or on-prem database using Microsoft's open-source Data API builder."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3069,51 +3115,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We are expanding the Azure IoT Edge supported platforms to include Ubuntu Core Snaps on IoT Edge as a Tier 1 supported operating system."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "now-available-free-data-transfer-out-to-internet-when-leaving-azure"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/now-available-free-data-transfer-out-to-internet-when-leaving-azure/",
-          "title": "Now available: Free data transfer out to internet when leaving Azure",
-          "description": "Learn how to qualify for free egress when moving your data out of Azure.",
-          "pubDate": "Wed, 13 Mar 2024 17:30:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Learn how to qualify for free egress when moving your data out of Azure."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-jvm-memory-fit-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-jvm-memory-fit-in-azure-container-apps/",
-          "title": "Public Preview: JVM memory fit in Azure Container Apps",
-          "description": "Java apps are now attuned to the container environment and primed for better performance and reliability by default.",
-          "pubDate": "Wed, 13 Mar 2024 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Java apps are now attuned to the container environment and primed for better performance and reliability by default."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-managed-java-components-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-managed-java-components-in-azure-container-apps/",
-          "title": "Public Preview: Managed Java components in Azure Container Apps",
-          "description": "You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties.",
-          "pubDate": "Wed, 13 Mar 2024 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties."
           },
           "content:encoded": null
         }
