@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 May 2024 05:13:54 Z</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 06:16:02 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -60,11 +60,55 @@
       <guid
         isPermaLink="false">azure-front-door-server-variable-enhancement-general-available</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-front-door-server-variable-enhancement-general-available/</link>
-      <title>Azure Front Door server variable enhancement generally available </title>
+      <title>Azure Front Door server variable enhancement general available </title>
       <description>Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable. </description>
       <pubDate>Tue, 14 May 2024 16:00:41 Z</pubDate>
       <atom:content
         type="text">Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">generally-available-ubuntu-2404-lts-for-azure-virtual-machines</guid>
+      <link>https://azure.microsoft.com/en-us/updates/generally-available-ubuntu-2404-lts-for-azure-virtual-machines/</link>
+      <title>Generally Available: Ubuntu 24.04 LTS for Azure Virtual Machines</title>
+      <description>Ubuntu 24.04 LTS, the latest Ubuntu LTS release from Canonical, is now available for Azure Virtual Machines (VMs)</description>
+      <pubDate>Mon, 13 May 2024 17:00:39 Z</pubDate>
+      <atom:content
+        type="text">Ubuntu 24.04 LTS, the latest Ubuntu LTS release from Canonical, is now available for Azure Virtual Machines (VMs)</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-windows-os</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-windows-os/</link>
+      <title>Public Preview: Azure Site Recovery support for Azure Trusted Launch VMs (Windows OS) </title>
+      <description>Azure Site Recovery support for Windows Trusted launch VMs</description>
+      <pubDate>Mon, 13 May 2024 16:00:59 Z</pubDate>
+      <atom:content
+        type="text">Azure Site Recovery support for Windows Trusted launch VMs</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-application-gateway-v2-basic-sku</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-application-gateway-v2-basic-sku/</link>
+      <title>Public preview: Azure Application Gateway v2 Basic SKU</title>
+      <description>Designed for customers, especially developers or small enterprises who are looking for a cost-effective Application Load Balancer solution and don’t require high scalability and the advanced features. </description>
+      <pubDate>Mon, 13 May 2024 16:00:53 Z</pubDate>
+      <atom:content
+        type="text">Designed for customers, especially developers or small enterprises who are looking for a cost-effective Application Load Balancer solution and don’t require high scalability and the advanced features. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-bastion-developer-sku</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-developer-sku/</link>
+      <title>General availability: Azure Bastion Developer SKU</title>
+      <description>The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.</description>
+      <pubDate>Mon, 13 May 2024 16:00:46 Z</pubDate>
+      <atom:content
+        type="text">The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2259,52 +2303,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Wed, 13 Mar 2024 17:00:08 Z</pubDate>
       <atom:content
         type="text">Java apps are now attuned to the container environment and primed for better performance and reliability by default.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-managed-java-components-in-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-managed-java-components-in-azure-container-apps/</link>
-      <title>Public Preview: Managed Java components in Azure Container Apps</title>
-      <description>You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties.</description>
-      <pubDate>Wed, 13 Mar 2024 17:00:08 Z</pubDate>
-      <atom:content
-        type="text">You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-tomcat-support-in-azure-container-apps</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-tomcat-support-in-azure-container-apps/</link>
-      <title>Public Preview: Tomcat support in Azure Container Apps </title>
-      <description>You can now deploy a Java application using a WAR file to Azure Container Apps.</description>
-      <pubDate>Wed, 13 Mar 2024 17:00:07 Z</pubDate>
-      <atom:content
-        type="text">You can now deploy a Java application using a WAR file to Azure Container Apps.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-resource-manager-throttling</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-resource-manager-throttling/</link>
-      <category>AzureThrottling</category>
-      <category>AzureResourceManager</category>
-      <title>Public Preview: Modernizing Azure Resource Manager Throttling</title>
-      <description>In 2024, Azure Resource Manager is introducing a revamped throttling experience for subscriptions, with increased limits and a token bucket algorithm for managing requests. This will enhance API management and improve productivity. The transition to the new architecture will be gradual, leading to a more efficient and dynamic throttling experience. For more information, consult the Azure Resource Manager documentation.</description>
-      <pubDate>Wed, 13 Mar 2024 16:12:07 Z</pubDate>
-      <atom:content
-        type="text">In 2024, Azure Resource Manager is introducing a revamped throttling experience for subscriptions, with increased limits and a token bucket algorithm for managing requests. This will enhance API management and improve productivity. The transition to the new architecture will be gradual, leading to a more efficient and dynamic throttling experience. For more information, consult the Azure Resource Manager documentation.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-midmarch-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midmarch-2024/</link>
-      <title>Public Preview: Azure SQL updates for mid-March 2024</title>
-      <description>Public preview enhancements and updates released for Azure SQL in mid-March 2024.</description>
-      <pubDate>Wed, 13 Mar 2024 16:00:11 Z</pubDate>
-      <atom:content
-        type="text">Public preview enhancements and updates released for Azure SQL in mid-March 2024.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>

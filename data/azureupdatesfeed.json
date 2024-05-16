@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 16 May 2024 05:13:54 Z",
+      "lastBuildDate": "Thu, 16 May 2024 06:16:02 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -86,12 +86,72 @@
             "#text": "azure-front-door-server-variable-enhancement-general-available"
           },
           "link": "https://azure.microsoft.com/en-us/updates/azure-front-door-server-variable-enhancement-general-available/",
-          "title": "Azure Front Door server variable enhancement generally available",
+          "title": "Azure Front Door server variable enhancement general available",
           "description": "Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable.",
           "pubDate": "Tue, 14 May 2024 16:00:41 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Front Door supports capturing URL path and URL case transformation in rules set and server variable."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-ubuntu-2404-lts-for-azure-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-ubuntu-2404-lts-for-azure-virtual-machines/",
+          "title": "Generally Available: Ubuntu 24.04 LTS for Azure Virtual Machines",
+          "description": "Ubuntu 24.04 LTS, the latest Ubuntu LTS release from Canonical, is now available for Azure Virtual Machines (VMs)",
+          "pubDate": "Mon, 13 May 2024 17:00:39 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Ubuntu 24.04 LTS, the latest Ubuntu LTS release from Canonical, is now available for Azure Virtual Machines (VMs)"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-windows-os"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-site-recovery-support-for-azure-trusted-launch-vms-windows-os/",
+          "title": "Public Preview: Azure Site Recovery support for Azure Trusted Launch VMs (Windows OS)",
+          "description": "Azure Site Recovery support for Windows Trusted launch VMs",
+          "pubDate": "Mon, 13 May 2024 16:00:59 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Site Recovery support for Windows Trusted launch VMs"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-application-gateway-v2-basic-sku"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-application-gateway-v2-basic-sku/",
+          "title": "Public preview: Azure Application Gateway v2 Basic SKU",
+          "description": "Designed for customers, especially developers or small enterprises who are looking for a cost-effective Application Load Balancer solution and don’t require high scalability and the advanced features.",
+          "pubDate": "Mon, 13 May 2024 16:00:53 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Designed for customers, especially developers or small enterprises who are looking for a cost-effective Application Load Balancer solution and don’t require high scalability and the advanced features."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-bastion-developer-sku"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-developer-sku/",
+          "title": "General availability: Azure Bastion Developer SKU",
+          "description": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.",
+          "pubDate": "Mon, 13 May 2024 16:00:46 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service."
           },
           "content:encoded": null
         },
@@ -3056,70 +3116,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Java apps are now attuned to the container environment and primed for better performance and reliability by default."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-managed-java-components-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-managed-java-components-in-azure-container-apps/",
-          "title": "Public Preview: Managed Java components in Azure Container Apps",
-          "description": "You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties.",
-          "pubDate": "Wed, 13 Mar 2024 17:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now leverage managed Java components in Azure Container apps for service registry and externalized application properties."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-tomcat-support-in-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-tomcat-support-in-azure-container-apps/",
-          "title": "Public Preview: Tomcat support in Azure Container Apps",
-          "description": "You can now deploy a Java application using a WAR file to Azure Container Apps.",
-          "pubDate": "Wed, 13 Mar 2024 17:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now deploy a Java application using a WAR file to Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-resource-manager-throttling"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-resource-manager-throttling/",
-          "category": [
-            "AzureThrottling",
-            "AzureResourceManager"
-          ],
-          "title": "Public Preview: Modernizing Azure Resource Manager Throttling",
-          "description": "In 2024, Azure Resource Manager is introducing a revamped throttling experience for subscriptions, with increased limits and a token bucket algorithm for managing requests. This will enhance API management and improve productivity. The transition to the new architecture will be gradual, leading to a more efficient and dynamic throttling experience. For more information, consult the Azure Resource Manager documentation.",
-          "pubDate": "Wed, 13 Mar 2024 16:12:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "In 2024, Azure Resource Manager is introducing a revamped throttling experience for subscriptions, with increased limits and a token bucket algorithm for managing requests. This will enhance API management and improve productivity. The transition to the new architecture will be gradual, leading to a more efficient and dynamic throttling experience. For more information, consult the Azure Resource Manager documentation."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-updates-for-midmarch-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-midmarch-2024/",
-          "title": "Public Preview: Azure SQL updates for mid-March 2024",
-          "description": "Public preview enhancements and updates released for Azure SQL in mid-March 2024.",
-          "pubDate": "Wed, 13 Mar 2024 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Public preview enhancements and updates released for Azure SQL in mid-March 2024."
           },
           "content:encoded": null
         }
