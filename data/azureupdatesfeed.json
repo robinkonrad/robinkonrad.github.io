@@ -12,13 +12,28 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Fri, 17 May 2024 15:14:42 Z",
+      "lastBuildDate": "Fri, 17 May 2024 16:16:47 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "the-billing-meter-for-azure-databricks-materialized-views-and-streaming-tables-will-change-1-may-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/the-billing-meter-for-azure-databricks-materialized-views-and-streaming-tables-will-change-1-may-2024/",
+          "title": "Upcoming changes to Databricks materialized views and streaming tables in Databricks SQL",
+          "description": "Azure Databricks materialized views and streaming tables Billing change",
+          "pubDate": "Thu, 16 May 2024 19:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Databricks materialized views and streaming tables Billing change"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3100,21 +3115,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-iot-edge-supports-ubuntu-core-snaps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-iot-edge-supports-ubuntu-core-snaps/",
-          "title": "Azure IoT Edge supports Ubuntu Core Snaps",
-          "description": "We are expanding the Azure IoT Edge supported platforms to include Ubuntu Core Snaps on IoT Edge as a Tier 1 supported operating system.",
-          "pubDate": "Wed, 13 Mar 2024 18:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We are expanding the Azure IoT Edge supported platforms to include Ubuntu Core Snaps on IoT Edge as a Tier 1 supported operating system."
           },
           "content:encoded": null
         }
