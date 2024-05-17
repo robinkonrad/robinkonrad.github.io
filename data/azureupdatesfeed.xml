@@ -6,26 +6,11 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 20:15:33 Z</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 21:12:28 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
-    <item>
-      <guid
-        isPermaLink="false">the-billing-meter-for-azure-databricks-materialized-views-and-streaming-tables-will-change-1-may-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/the-billing-meter-for-azure-databricks-materialized-views-and-streaming-tables-will-change-1-may-2024/</link>
-      <title>Upcoming changes to Databricks materialized views and streaming tables in Databricks SQL</title>
-      <description>Azure Databricks materialized views and streaming tables Billing change
-
-</description>
-      <pubDate>Thu, 16 May 2024 19:00:00 Z</pubDate>
-      <atom:content
-        type="text">Azure Databricks materialized views and streaming tables Billing change
-
-</atom:content>
-      <content:encoded></content:encoded>
-    </item>
     <item>
       <guid
         isPermaLink="false">expressroute-seamless-gateway-migration</guid>
@@ -135,17 +120,6 @@
       <pubDate>Mon, 13 May 2024 16:00:46 Z</pubDate>
       <atom:content
         type="text">The Bastion Developer SKU represents a novel, cost-effective, and streamlined version of the Bastion service.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">classic-networking-retirements-may2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/classic-networking-retirements-may2024/</link>
-      <title>Five Azure classic networking services will be retired on 31 August 2024</title>
-      <description>Classic Networking Services retiring in August 2024.</description>
-      <pubDate>Fri, 10 May 2024 23:00:09 Z</pubDate>
-      <atom:content
-        type="text">Classic Networking Services retiring in August 2024.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -282,14 +256,14 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/</link>
-      <category>#mexicocentral #microsoftdatacenters</category>
-      <title>General Availability: Microsoft Azure now available from new cloud region in Mexico</title>
-      <description>Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </description>
-      <pubDate>Tue, 07 May 2024 16:35:52 Z</pubDate>
+        isPermaLink="false">public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration/</link>
+      <category>Virtual Machine Scale Sets; Standby Pools</category>
+      <title>Public preview: Standby pools for Virtual Machine Scale Sets with flexible orchestration</title>
+      <description>Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance. </description>
+      <pubDate>Tue, 07 May 2024 17:00:21 Z</pubDate>
       <atom:content
-        type="text">Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </atom:content>
+        type="text">Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -323,6 +297,18 @@
       <pubDate>Tue, 07 May 2024 15:00:20 Z</pubDate>
       <atom:content
         type="text">Azure Storage Actions is a fully managed platform that helps you automate data management operations for object storage and data lakes. The preview is now available in 14 more regions.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/</link>
+      <category>#mexicocentral #microsoftdatacenters</category>
+      <title>General Availability: Microsoft Azure now available from new cloud region in Mexico</title>
+      <description>Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </description>
+      <pubDate>Mon, 06 May 2024 19:00:07 Z</pubDate>
+      <atom:content
+        type="text">Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -689,17 +675,6 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">classic-networking-retirements-april2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/classic-networking-retirements-april2024/</link>
-      <title>Five Azure classic networking services will be retired on 31 August 2024</title>
-      <description>Classic Networking Services retiring in August 2024.</description>
-      <pubDate>Fri, 19 Apr 2024 23:00:22 Z</pubDate>
-      <atom:content
-        type="text">Classic Networking Services retiring in August 2024.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">generally-available-bulk-delete-operation-for-the-fhir-service-in-azure-health-data-services</guid>
       <link>https://azure.microsoft.com/en-us/updates/generally-available-bulk-delete-operation-for-the-fhir-service-in-azure-health-data-services/</link>
       <title>Generally available: Bulk delete operation for the FHIR service in Azure Health Data Services</title>
@@ -766,7 +741,7 @@
       <category>Alerts</category>
       <title>GA: Azure Monitor log search alerts support managed identities</title>
       <description>A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</description>
-      <pubDate>Thu, 18 Apr 2024 17:00:04 Z</pubDate>
+      <pubDate>Thu, 18 Apr 2024 17:00:05 Z</pubDate>
       <atom:content
         type="text">A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</atom:content>
       <content:encoded></content:encoded>
@@ -984,7 +959,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <link>https://azure.microsoft.com/en-us/updates/alt-fairfax/</link>
       <title>Azure Load Testing availability in Fairfax (USGov Virginia)</title>
       <description>Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process. </description>
-      <pubDate>Tue, 09 Apr 2024 16:00:10 Z</pubDate>
+      <pubDate>Tue, 09 Apr 2024 16:00:02 Z</pubDate>
       <atom:content
         type="text">Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process. </atom:content>
       <content:encoded></content:encoded>
@@ -1141,7 +1116,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <category>Azure Backup</category>
       <title>Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server</title>
       <description>Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</description>
-      <pubDate>Mon, 01 Apr 2024 16:00:07 Z</pubDate>
+      <pubDate>Mon, 01 Apr 2024 16:00:06 Z</pubDate>
       <atom:content
         type="text">Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</atom:content>
       <content:encoded></content:encoded>
@@ -1153,7 +1128,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <category>Azure Database for PostgreSQL; Azure Backup</category>
       <title>Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.</title>
       <description>Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</description>
-      <pubDate>Mon, 01 Apr 2024 14:00:06 Z</pubDate>
+      <pubDate>Mon, 01 Apr 2024 14:00:05 Z</pubDate>
       <atom:content
         type="text">Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</atom:content>
       <content:encoded></content:encoded>
@@ -1736,17 +1711,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
-        isPermaLink="false">azure-synapse-runtime-for-apache-spark-32-end-of-support</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/</link>
-      <title>Azure Synapse Runtime for Apache Spark 3.2 End of Support </title>
-      <description>End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">crossclouddeprecation</guid>
       <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
       <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
@@ -1754,6 +1718,17 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
       <atom:content
         type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-synapse-runtime-for-apache-spark-32-end-of-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/</link>
+      <title>Azure Synapse Runtime for Apache Spark 3.2 End of Support </title>
+      <description>End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</description>
+      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
+      <atom:content
+        type="text">End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1839,10 +1814,10 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
         isPermaLink="false">community-support-for-standardm192idsv2-is-ending-on-31-march-2027</guid>
       <link>https://azure.microsoft.com/en-us/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/</link>
       <title>Community support for Standard_M192ids_v2 is ending on 31 March 2027 </title>
-      <description>Support for Standard_M192idms_v2 will be retired on 31 March 2027 </description>
+      <description>Support for Standard_M192ids_v2 will be retired on 31 March 2027 </description>
       <pubDate>Fri, 22 Mar 2024 23:00:09 Z</pubDate>
       <atom:content
-        type="text">Support for Standard_M192idms_v2 will be retired on 31 March 2027 </atom:content>
+        type="text">Support for Standard_M192ids_v2 will be retired on 31 March 2027 </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2231,7 +2206,7 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/</link>
       <title>Public preview: Azure Modeling and Simulation Workbench </title>
       <description>Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams. </description>
-      <pubDate>Mon, 18 Mar 2024 16:00:06 Z</pubDate>
+      <pubDate>Mon, 18 Mar 2024 16:00:05 Z</pubDate>
       <atom:content
         type="text">Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams. </atom:content>
       <content:encoded></content:encoded>
@@ -2303,9 +2278,31 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <category>container-insights</category>
       <title>Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping</title>
       <description>Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.</description>
-      <pubDate>Thu, 14 Mar 2024 16:00:08 Z</pubDate>
+      <pubDate>Thu, 14 Mar 2024 16:00:11 Z</pubDate>
       <atom:content
         type="text">Azure Monitor managed service for Prometheus now supports TLS &amp; mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-iot-edge-supports-ubuntu-core-snaps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-iot-edge-supports-ubuntu-core-snaps/</link>
+      <title>Azure IoT Edge supports Ubuntu Core Snaps  </title>
+      <description>We are expanding the Azure IoT Edge supported platforms to include Ubuntu Core Snaps on IoT Edge as a Tier 1 supported operating system.</description>
+      <pubDate>Wed, 13 Mar 2024 18:00:08 Z</pubDate>
+      <atom:content
+        type="text">We are expanding the Azure IoT Edge supported platforms to include Ubuntu Core Snaps on IoT Edge as a Tier 1 supported operating system.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">now-available-free-data-transfer-out-to-internet-when-leaving-azure</guid>
+      <link>https://azure.microsoft.com/en-us/updates/now-available-free-data-transfer-out-to-internet-when-leaving-azure/</link>
+      <title>Now available: Free data transfer out to internet when leaving Azure</title>
+      <description>Learn how to qualify for free egress when moving your data out of Azure.  </description>
+      <pubDate>Wed, 13 Mar 2024 17:30:07 Z</pubDate>
+      <atom:content
+        type="text">Learn how to qualify for free egress when moving your data out of Azure.  </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
