@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 20 May 2024 05:15:15 Z",
+      "lastBuildDate": "Mon, 20 May 2024 06:19:36 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -46,6 +46,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Migrate to App Service Environment v3 by 31 August 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "the-billing-meter-for-azure-databricks-materialized-views-and-streaming-tables-will-change-1-may-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/the-billing-meter-for-azure-databricks-materialized-views-and-streaming-tables-will-change-1-may-2024/",
+          "title": "Upcoming changes to Databricks materialized views and streaming tables in Databricks SQL",
+          "description": "Azure Databricks materialized views and streaming tables Billing change",
+          "pubDate": "Thu, 16 May 2024 19:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Databricks materialized views and streaming tables Billing change"
           },
           "content:encoded": null
         },
@@ -3095,27 +3110,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "On 15 March 2027, the Application Gateway WAF v2 Configuration will be retired. To continue using this service, switch to the Application Gateway WAF v2 Policy before the retirement date."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-monitor-managed-service-for-prometheus-now-supports-tls-mtls-based-scraping"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-now-supports-tls-mtls-based-scraping/",
-          "category": [
-            "azure-monitor",
-            "azure-kubernetes-service",
-            "feature",
-            "container-insights"
-          ],
-          "title": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping",
-          "description": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap.",
-          "pubDate": "Thu, 14 Mar 2024 16:00:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Monitor managed service for Prometheus now supports TLS & mTLS based scraping for Prometheus instance served with TLS. To enable TLS and mTLS based scraping, you can configure the TLS settings in the ConfigMap."
           },
           "content:encoded": null
         }
