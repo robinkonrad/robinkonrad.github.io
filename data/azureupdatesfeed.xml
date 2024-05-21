@@ -6,20 +6,207 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 May 2024 15:15:19 Z</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 16:17:22 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
     <item>
       <guid
-        isPermaLink="false">migrate-vm-backup-std-enhanced-policy</guid>
-      <link>https://azure.microsoft.com/en-us/updates/migrate-vm-backup-std-enhanced-policy/</link>
-      <title>Public Preview: Migrate virtual machine backups using standard backup policy to enhanced backup policy</title>
-      <description>Azure Backup now supports migrating virtual backups using standard backup policy to enhanced backup policy.</description>
-      <pubDate>Sun, 19 May 2024 18:36:42 Z</pubDate>
+        isPermaLink="false">public-preview-azure-sql-updates-for-latemay-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latemay-2024/</link>
+      <title>Public Preview: Azure SQL updates for late-May 2024</title>
+      <description>Public preview enhancements and updates released for Azure SQL in late-May 2024.</description>
+      <pubDate>Tue, 21 May 2024 16:00:20 Z</pubDate>
       <atom:content
-        type="text">Azure Backup now supports migrating virtual backups using standard backup policy to enhanced backup policy.</atom:content>
+        type="text">Public preview enhancements and updates released for Azure SQL in late-May 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-indatabase-embeddings-in-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-indatabase-embeddings-in-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public Preview: In-database embeddings in Azure Database for PostgreSQL - Flexible Server</title>
+      <description>Create text embeddings with sub 10ms latency from an LLM deployed within your Azure Database for PostgreSQL instance. </description>
+      <pubDate>Tue, 21 May 2024 16:00:19 Z</pubDate>
+      <atom:content
+        type="text">Create text embeddings with sub 10ms latency from an LLM deployed within your Azure Database for PostgreSQL instance. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-index-recommendations-in-azure-database-for-postgresql-flexible-server</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-index-recommendations-in-azure-database-for-postgresql-flexible-server/</link>
+      <title>Public Preview: Index recommendations in Azure Database for PostgreSQL Flexible Server</title>
+      <description>Optimize your workload by creating suggested indexes and dropping duplicated or unused indexes. </description>
+      <pubDate>Tue, 21 May 2024 16:00:19 Z</pubDate>
+      <atom:content
+        type="text">Optimize your workload by creating suggested indexes and dropping duplicated or unused indexes. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-change-from-serverless-to-provisioned-capacity-mode</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-change-from-serverless-to-provisioned-capacity-mode/</link>
+      <title>Public preview: Change from serverless to provisioned capacity mode</title>
+      <description>Easily change the capacity mode of an Azure Cosmos DB account from serverless to provisioned capacity using Azure portal or Azure CLI without any hassle.</description>
+      <pubDate>Tue, 21 May 2024 16:00:18 Z</pubDate>
+      <atom:content
+        type="text">Easily change the capacity mode of an Azure Cosmos DB account from serverless to provisioned capacity using Azure portal or Azure CLI without any hassle.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cosmos-db-vercel-integration</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-vercel-integration/</link>
+      <title>General Availability: Azure Cosmos DB Vercel integration</title>
+      <description>We're excited to announce Azure Cosmos DB integration with Vercel Generally Available.</description>
+      <pubDate>Tue, 21 May 2024 16:00:18 Z</pubDate>
+      <atom:content
+        type="text">We're excited to announce Azure Cosmos DB integration with Vercel Generally Available.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-diskann-vector-indexing-and-search-in-azure-cosmos-db-nosql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-diskann-vector-indexing-and-search-in-azure-cosmos-db-nosql/</link>
+      <title>Public Preview: DiskANN vector indexing and search in Azure Cosmos DB NoSQL</title>
+      <description>Azure Cosmos DB for NoSQL built-in vector search powered by DiskANN is in public preview. </description>
+      <pubDate>Tue, 21 May 2024 16:00:17 Z</pubDate>
+      <atom:content
+        type="text">Azure Cosmos DB for NoSQL built-in vector search powered by DiskANN is in public preview. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cosmos-db-go-sdk</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-go-sdk/</link>
+      <title>General availability: Azure Cosmos DB Go SDK</title>
+      <description>The Azure Cosmos DB Go SDK is now available with improved support for global distribution.</description>
+      <pubDate>Tue, 21 May 2024 16:00:17 Z</pubDate>
+      <atom:content
+        type="text">The Azure Cosmos DB Go SDK is now available with improved support for global distribution.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-vcorebased-azure-cosmos-db-for-mongodb-crossregion-disaster-recovery-dr</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-vcorebased-azure-cosmos-db-for-mongodb-crossregion-disaster-recovery-dr/</link>
+      <title>Public Preview: vCore-based Azure Cosmos DB for MongoDB cross-region disaster recovery (DR)</title>
+      <description>Cross region DR allows you to switch to another region in case of an outage.</description>
+      <pubDate>Tue, 21 May 2024 16:00:17 Z</pubDate>
+      <atom:content
+        type="text">Cross region DR allows you to switch to another region in case of an outage.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cosmos-db-for-nosql-integrations-in-langchain-and-semantic-kernel</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-nosql-integrations-in-langchain-and-semantic-kernel/</link>
+      <title>General availability: Azure Cosmos DB for NoSQL integrations in LangChain and Semantic Kernel</title>
+      <description>Implement your RAG pipelines with Azure Cosmos DB and LangChain and Semantic Kernel!</description>
+      <pubDate>Tue, 21 May 2024 16:00:16 Z</pubDate>
+      <atom:content
+        type="text">Implement your RAG pipelines with Azure Cosmos DB and LangChain and Semantic Kernel!</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-cache-for-redis-enterprise-now-offers-a-1gb-e1-sku</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cache-for-redis-enterprise-now-offers-a-1gb-e1-sku/</link>
+      <title>Public preview: Azure Cache for Redis Enterprise now offers a 1GB E1 SKU</title>
+      <description>Azure Cache for Redis Enterprise will offer yet another smaller 1GB SKU for your vector search and semantic caching needs levering the powerful capabilities of RediSearch module. </description>
+      <pubDate>Tue, 21 May 2024 16:00:16 Z</pubDate>
+      <atom:content
+        type="text">Azure Cache for Redis Enterprise will offer yet another smaller 1GB SKU for your vector search and semantic caching needs levering the powerful capabilities of RediSearch module. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cache-for-redis-triggers-and-bindings-for-azure-functions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cache-for-redis-triggers-and-bindings-for-azure-functions/</link>
+      <title>General availability: Azure Cache for Redis triggers and bindings for Azure Functions</title>
+      <description>Trigger serverless functions through Azure Cache for Redis.</description>
+      <pubDate>Tue, 21 May 2024 16:00:16 Z</pubDate>
+      <atom:content
+        type="text">Trigger serverless functions through Azure Cache for Redis.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-computed-properties-in-azure-cosmos-db-for-nosql</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-computed-properties-in-azure-cosmos-db-for-nosql/</link>
+      <title>General availability: Computed properties in Azure Cosmos DB for NoSQL</title>
+      <description>Computed properties make it easy to write NoSQL query logic once and reference it many times! </description>
+      <pubDate>Tue, 21 May 2024 16:00:16 Z</pubDate>
+      <atom:content
+        type="text">Computed properties make it easy to write NoSQL query logic once and reference it many times! </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">experimentation-capabilities-for-azure-app-configuration-now-in-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/experimentation-capabilities-for-azure-app-configuration-now-in-public-preview/</link>
+      <title>Experimentation capabilities for Azure App Configuration now in public preview</title>
+      <description>Enables online experimentation for web, mobile, and Generative AI apps</description>
+      <pubDate>Tue, 21 May 2024 16:00:15 Z</pubDate>
+      <atom:content
+        type="text">Enables online experimentation for web, mobile, and Generative AI apps</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-azure-cache-for-redis-now-supports-microsoft-entra-id-authentication-and-authorization</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-cache-for-redis-now-supports-microsoft-entra-id-authentication-and-authorization/</link>
+      <title>General availability: Azure Cache for Redis now supports Microsoft Entra ID authentication and authorization</title>
+      <description>Azure Cache for Redis now offers a password-free authentication mechanism by integrating with Microsoft Entra. This integration is complemented with the role-based access control that open source Redis supports. </description>
+      <pubDate>Tue, 21 May 2024 16:00:15 Z</pubDate>
+      <atom:content
+        type="text">Azure Cache for Redis now offers a password-free authentication mechanism by integrating with Microsoft Entra. This integration is complemented with the role-based access control that open source Redis supports. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-general-availability-for-build-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-for-build-2024/</link>
+      <title>Azure Machine Learning  - General Availability for Build 2024</title>
+      <description>One new feature now available in GA enables you to create and customize AI workflows using task-specific Language skills/models to complete business use cases. </description>
+      <pubDate>Tue, 21 May 2024 16:00:14 Z</pubDate>
+      <atom:content
+        type="text">One new feature now available in GA enables you to create and customize AI workflows using task-specific Language skills/models to complete business use cases. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">preview-azure-cobalt-100-armbased-virtual-machines</guid>
+      <link>https://azure.microsoft.com/en-us/updates/preview-azure-cobalt-100-armbased-virtual-machines/</link>
+      <title>Preview: Azure Cobalt 100 Arm-based Virtual Machines</title>
+      <description>Azure Cobalt 100 Arm-based VMs are now available in preview. Please use the sign-up form at https://aka.ms/Cobalt100-VM-Preview-Signup to request access.     </description>
+      <pubDate>Tue, 21 May 2024 16:00:14 Z</pubDate>
+      <atom:content
+        type="text">Azure Cobalt 100 Arm-based VMs are now available in preview. Please use the sign-up form at https://aka.ms/Cobalt100-VM-Preview-Signup to request access.     </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-machine-learning-public-preview-for-build-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-for-build-2024/</link>
+      <title>Azure Machine Learning  - Public Preview for Build 2024 </title>
+      <description>Three features now available in preview enable you to enjoy simplified management of the customer-managed key (CMK) encrypted workspace, take advantage of our content filtering system alongside models that you can access through Models as a Service, and bring in indexes from Cosmos DB for MongoDB vCore and Pinecone for use in RAG workflows. </description>
+      <pubDate>Tue, 21 May 2024 16:00:14 Z</pubDate>
+      <atom:content
+        type="text">Three features now available in preview enable you to enjoy simplified management of the customer-managed key (CMK) encrypted workspace, take advantage of our content filtering system alongside models that you can access through Models as a Service, and bring in indexes from Cosmos DB for MongoDB vCore and Pinecone for use in RAG workflows. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">update-on-interavailability-zone-data-transfer-pricing</guid>
+      <link>https://azure.microsoft.com/en-us/updates/update-on-interavailability-zone-data-transfer-pricing/</link>
+      <title>Update on Inter-Availability Zone Data Transfer Pricing </title>
+      <description>Azure will not charge for the data transfer across availability zones to help customers build more resilient and efficient applications on the cloud by leveraging availability zones. This will enable customers to leverage the benefits of zonal and zone-redundant services without extra costs for data transfer between availability zones.</description>
+      <pubDate>Tue, 21 May 2024 15:59:42 Z</pubDate>
+      <atom:content
+        type="text">Azure will not charge for the data transfer across availability zones to help customers build more resilient and efficient applications on the cloud by leveraging availability zones. This will enable customers to leverage the benefits of zonal and zone-redundant services without extra costs for data transfer between availability zones.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -293,14 +480,14 @@
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration/</link>
-      <category>Virtual Machine Scale Sets; Standby Pools</category>
-      <title>Public preview: Standby pools for Virtual Machine Scale Sets with flexible orchestration</title>
-      <description>Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance. </description>
-      <pubDate>Tue, 07 May 2024 17:00:21 Z</pubDate>
+        isPermaLink="false">general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/</link>
+      <category>#mexicocentral #microsoftdatacenters</category>
+      <title>General Availability: Microsoft Azure now available from new cloud region in Mexico</title>
+      <description>Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </description>
+      <pubDate>Tue, 07 May 2024 16:35:52 Z</pubDate>
       <atom:content
-        type="text">Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance. </atom:content>
+        type="text">Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -334,18 +521,6 @@
       <pubDate>Tue, 07 May 2024 15:00:20 Z</pubDate>
       <atom:content
         type="text">Azure Storage Actions is a fully managed platform that helps you automate data management operations for object storage and data lakes. The preview is now available in 14 more regions.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/</link>
-      <category>#mexicocentral #microsoftdatacenters</category>
-      <title>General Availability: Microsoft Azure now available from new cloud region in Mexico</title>
-      <description>Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </description>
-      <pubDate>Mon, 06 May 2024 19:00:07 Z</pubDate>
-      <atom:content
-        type="text">Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -778,7 +953,7 @@
       <category>Alerts</category>
       <title>GA: Azure Monitor log search alerts support managed identities</title>
       <description>A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</description>
-      <pubDate>Thu, 18 Apr 2024 17:00:05 Z</pubDate>
+      <pubDate>Thu, 18 Apr 2024 17:00:04 Z</pubDate>
       <atom:content
         type="text">A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</atom:content>
       <content:encoded></content:encoded>
@@ -996,7 +1171,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <link>https://azure.microsoft.com/en-us/updates/alt-fairfax/</link>
       <title>Azure Load Testing availability in Fairfax (USGov Virginia)</title>
       <description>Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process. </description>
-      <pubDate>Tue, 09 Apr 2024 16:00:02 Z</pubDate>
+      <pubDate>Tue, 09 Apr 2024 16:00:10 Z</pubDate>
       <atom:content
         type="text">Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process. </atom:content>
       <content:encoded></content:encoded>
@@ -1153,7 +1328,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <category>Azure Backup</category>
       <title>Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server</title>
       <description>Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</description>
-      <pubDate>Mon, 01 Apr 2024 16:00:06 Z</pubDate>
+      <pubDate>Mon, 01 Apr 2024 16:00:07 Z</pubDate>
       <atom:content
         type="text">Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</atom:content>
       <content:encoded></content:encoded>
@@ -1165,7 +1340,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <category>Azure Database for PostgreSQL; Azure Backup</category>
       <title>Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.</title>
       <description>Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</description>
-      <pubDate>Mon, 01 Apr 2024 14:00:05 Z</pubDate>
+      <pubDate>Mon, 01 Apr 2024 14:00:06 Z</pubDate>
       <atom:content
         type="text">Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</atom:content>
       <content:encoded></content:encoded>
@@ -1748,17 +1923,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
     </item>
     <item>
       <guid
-        isPermaLink="false">crossclouddeprecation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
-      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
-      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
         isPermaLink="false">azure-synapse-runtime-for-apache-spark-32-end-of-support</guid>
       <link>https://azure.microsoft.com/en-us/updates/azure-synapse-runtime-for-apache-spark-32-end-of-support/</link>
       <title>Azure Synapse Runtime for Apache Spark 3.2 End of Support </title>
@@ -1766,6 +1930,17 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
       <atom:content
         type="text">End of Support for Azure Synapse Runtime for Apache Spark 3.2. Apache Spark 3.2 will be retired and disabled as of July 8, 2024.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">crossclouddeprecation</guid>
+      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
+      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
+      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
+      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
+      <atom:content
+        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1851,10 +2026,10 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
         isPermaLink="false">community-support-for-standardm192idsv2-is-ending-on-31-march-2027</guid>
       <link>https://azure.microsoft.com/en-us/updates/community-support-for-standardm192idsv2-is-ending-on-31-march-2027/</link>
       <title>Community support for Standard_M192ids_v2 is ending on 31 March 2027 </title>
-      <description>Support for Standard_M192ids_v2 will be retired on 31 March 2027 </description>
+      <description>Support for Standard_M192idms_v2 will be retired on 31 March 2027 </description>
       <pubDate>Fri, 22 Mar 2024 23:00:09 Z</pubDate>
       <atom:content
-        type="text">Support for Standard_M192ids_v2 will be retired on 31 March 2027 </atom:content>
+        type="text">Support for Standard_M192idms_v2 will be retired on 31 March 2027 </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2123,186 +2298,6 @@ Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-se
       <pubDate>Mon, 18 Mar 2024 23:00:14 Z</pubDate>
       <atom:content
         type="text">You can now take advantage of Kubernetes 1.29 version with AKS in production environment.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-custom-kubelet-configuration-for-windows-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-custom-kubelet-configuration-for-windows-in-aks/</link>
-      <title>Generally Available: Custom kubelet configuration for Windows in AKS </title>
-      <description>You can now modify default values for kubelet parameters when using Windows nodepools in AKS. </description>
-      <pubDate>Mon, 18 Mar 2024 23:00:14 Z</pubDate>
-      <atom:content
-        type="text">You can now modify default values for kubelet parameters when using Windows nodepools in AKS. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-cni-static-block-ip-allocation-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-static-block-ip-allocation-support-in-aks/</link>
-      <title>Public preview: Azure CNI static block IP allocation support in AKS </title>
-      <description>You can now scale beyond the current 65k Pod IPs and scale up to 1 Million Pods. </description>
-      <pubDate>Mon, 18 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">You can now scale beyond the current 65k Pod IPs and scale up to 1 Million Pods. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-deployment-safeguards-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-deployment-safeguards-in-aks/</link>
-      <title>Public preview: Deployment safeguards in AKS </title>
-      <description>You can now use deployment safeguards to implement Kubernetes best practices and get warnings on deployment or deny the deployment of manifest files that are not following best practices.</description>
-      <pubDate>Mon, 18 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">You can now use deployment safeguards to implement Kubernetes best practices and get warnings on deployment or deny the deployment of manifest files that are not following best practices.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-cni-overlay-dual-stack-support-in-aks-linux-only</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-cni-overlay-dual-stack-support-in-aks-linux-only/</link>
-      <title>Generally Available: Azure CNI overlay dual stack Support in AKS (Linux only)</title>
-      <description>You can now deploy AKS clusters in dual stack mode which now enables resource connection through IPv4 or IPv6.</description>
-      <pubDate>Mon, 18 Mar 2024 23:00:12 Z</pubDate>
-      <atom:content
-        type="text">You can now deploy AKS clusters in dual stack mode which now enables resource connection through IPv4 or IPv6.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-vm-ip-based-load-balancer-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-vm-ip-based-load-balancer-in-aks/</link>
-      <title>Generally Available: VM IP based load balancer in AKS</title>
-      <description>You can now choose IP-based backend pool membership for new or existing clusters in AKS.</description>
-      <pubDate>Mon, 18 Mar 2024 23:00:11 Z</pubDate>
-      <atom:content
-        type="text">You can now choose IP-based backend pool membership for new or existing clusters in AKS.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-host-network-security-group-nsg-control-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-host-network-security-group-nsg-control-in-aks/</link>
-      <title>Generally Available: Host Network Security Group (NSG) control in AKS </title>
-      <description>You can now directly configure allowed ports in your nodepool settings. </description>
-      <pubDate>Mon, 18 Mar 2024 23:00:11 Z</pubDate>
-      <atom:content
-        type="text">You can now directly configure allowed ports in your nodepool settings. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-hostport-auto-assign-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-hostport-auto-assign-in-aks/</link>
-      <title>Generally Available: HostPort auto assign in AKS </title>
-      <description>AKS now lets you deploy pods without manually specifying host ports.</description>
-      <pubDate>Mon, 18 Mar 2024 23:00:10 Z</pubDate>
-      <atom:content
-        type="text">AKS now lets you deploy pods without manually specifying host ports.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-instance-level-public-ip-tags-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-instance-level-public-ip-tags-in-aks/</link>
-      <title>Generally Available: Instance level Public IP tags in AKS </title>
-      <description>You can now utilize Azure routing preference for your cluster, public node IPs in AKS
-</description>
-      <pubDate>Mon, 18 Mar 2024 23:00:10 Z</pubDate>
-      <atom:content
-        type="text">You can now utilize Azure routing preference for your cluster, public node IPs in AKS
-</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-trusted-launch-support-in-aks</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-trusted-launch-support-in-aks/</link>
-      <title>Public preview: Trusted launch support in AKS </title>
-      <description>Administrators can now deploy AKS nodes with verified and signed bootloaders, OS kernels, and drivers. </description>
-      <pubDate>Mon, 18 Mar 2024 23:00:09 Z</pubDate>
-      <atom:content
-        type="text">Administrators can now deploy AKS nodes with verified and signed bootloaders, OS kernels, and drivers. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">generally-available-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters</guid>
-      <link>https://azure.microsoft.com/en-us/updates/generally-available-azure-kubernetes-service-aks-support-for-5k-node-limit-by-default-for-standard-tier-clusters/</link>
-      <title>Generally Available: Azure Kubernetes Service (AKS) support for 5K Node limit by default for standard tier clusters</title>
-      <description>You can now scale your AKS cluster to larger than 1000 nodes without having to request any special limit increases or whitelisting.</description>
-      <pubDate>Mon, 18 Mar 2024 23:00:08 Z</pubDate>
-      <atom:content
-        type="text">You can now scale your AKS cluster to larger than 1000 nodes without having to request any special limit increases or whitelisting.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-modeling-and-simulation-workbench</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-modeling-and-simulation-workbench/</link>
-      <title>Public preview: Azure Modeling and Simulation Workbench </title>
-      <description>Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams. </description>
-      <pubDate>Mon, 18 Mar 2024 16:00:05 Z</pubDate>
-      <atom:content
-        type="text">Azure Modeling and Simulation Workbench is a new service that provides a fully managed work environment for engineering development, accelerating project startup, and enabling secure collaboration between development teams. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-monitor-managed-service-for-prometheus-is-available-in-13-additional-azure-regions</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-monitor-managed-service-for-prometheus-is-available-in-13-additional-azure-regions/</link>
-      <category>Azure Monitor</category>
-      <category>Container Insights</category>
-      <title>Azure Monitor managed service for Prometheus is available in 13 additional Azure regions</title>
-      <description>Azure Managed Prometheus was announced GA in May 2023 and was available in 26 regions, with this new update Azure Managed Prometheus will be available in 13 additional regions.</description>
-      <pubDate>Mon, 18 Mar 2024 16:00:04 Z</pubDate>
-      <atom:content
-        type="text">Azure Managed Prometheus was announced GA in May 2023 and was available in 26 regions, with this new update Azure Managed Prometheus will be available in 13 additional regions.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">you-can-now-opt-in-automatically-renew-your-reservation-at-time-of-purchase-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/you-can-now-opt-in-automatically-renew-your-reservation-at-time-of-purchase-2/</link>
-      <title>You can now opt in automatically renew your reservation at time of purchase.</title>
-      <description>You can now opt in automatically renew your reservation at time of purchase, which provides an easy way to continue getting reservation discounts.</description>
-      <pubDate>Mon, 18 Mar 2024 15:00:03 Z</pubDate>
-      <atom:content
-        type="text">You can now opt in automatically renew your reservation at time of purchase, which provides an easy way to continue getting reservation discounts.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-classic-administrator-roles-are-retiring-on-31-august-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-classic-administrator-roles-are-retiring-on-31-august-2024/</link>
-      <title>Azure Classic Administrator roles are retiring on 31 August 2024</title>
-      <description>On 31 August 2024, Azure classic administrator roles will be retired. Transition from Azure Classic Administrator roles to RBAC roles</description>
-      <pubDate>Fri, 15 Mar 2024 23:00:29 Z</pubDate>
-      <atom:content
-        type="text">On 31 August 2024, Azure classic administrator roles will be retired. Transition from Azure Classic Administrator roles to RBAC roles</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">visual-studio-app-center-retirement</guid>
-      <link>https://azure.microsoft.com/en-us/updates/visual-studio-app-center-retirement/</link>
-      <title>Visual Studio App Center retirement</title>
-      <description>Visual Studio App Center is scheduled for retirement on March 31, 2025. </description>
-      <pubDate>Fri, 15 Mar 2024 23:00:16 Z</pubDate>
-      <atom:content
-        type="text">Visual Studio App Center is scheduled for retirement on March 31, 2025. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending</guid>
-      <link>https://azure.microsoft.com/en-us/updates/retirement-support-for-application-gateway-web-application-firewall-v2-configuration-is-ending/</link>
-      <title>Retirement: Support for Application Gateway Web Application Firewall v2 Configuration is ending</title>
-      <description>On 15 March 2027, the Application Gateway WAF v2 Configuration will be retired. To continue using this service, switch to the Application Gateway WAF v2 Policy before the retirement date. </description>
-      <pubDate>Fri, 15 Mar 2024 23:00:03 Z</pubDate>
-      <atom:content
-        type="text">On 15 March 2027, the Application Gateway WAF v2 Configuration will be retired. To continue using this service, switch to the Application Gateway WAF v2 Policy before the retirement date. </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
