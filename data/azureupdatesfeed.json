@@ -12,13 +12,44 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 22 May 2024 15:15:34 Z",
+      "lastBuildDate": "Wed, 22 May 2024 16:19:22 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "grpcwinappservice"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/grpcwinappservice/",
+          "category": "Build",
+          "title": "Preview: Windows gRPC support is now available on App Service",
+          "description": "gRPC support for App Service Windows now in preview",
+          "pubDate": "Wed, 22 May 2024 16:00:27 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "gRPC support for App Service Windows now in preview"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "log-analytics-workspace-replication-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/log-analytics-workspace-replication-public-preview/",
+          "title": "Public preview: Azure Log Analytics enhances resilience with workspace replication across regions",
+          "description": "Azure Log Analytics is announcing Workspace Replication, a new capability that enhances workspace resilience by enabling you to switch your workspace operation to another region if your primary region isn’t healthy.",
+          "pubDate": "Wed, 22 May 2024 16:00:27 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Log Analytics is announcing Workspace Replication, a new capability that enhances workspace resilience by enabling you to switch your workspace operation to another region if your primary region isn’t healthy."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3073,36 +3104,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-support-for-key-vault-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
-          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
-          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-powershell-74-support-for-azure-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-powershell-74-support-for-azure-functions/",
-          "title": "Public preview: PowerShell 7.4 support for Azure Functions",
-          "description": "You can now develop apps using PowerShell 7.4 locally and deploy them to Azure Functions",
-          "pubDate": "Wed, 27 Mar 2024 17:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now develop apps using PowerShell 7.4 locally and deploy them to Azure Functions"
           },
           "content:encoded": null
         }
