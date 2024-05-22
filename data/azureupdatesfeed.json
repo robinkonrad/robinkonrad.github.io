@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 22 May 2024 04:17:43 Z",
+      "lastBuildDate": "Wed, 22 May 2024 05:15:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -1090,6 +1090,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure will not charge for the data transfer across availability zones to help customers build more resilient and efficient applications on the cloud by leveraging availability zones. This will enable customers to leverage the benefits of zonal and zone-redundant services without extra costs for data transfer between availability zones."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "migrate-vm-backup-std-enhanced-policy"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/migrate-vm-backup-std-enhanced-policy/",
+          "title": "Public Preview: Migrate virtual machine backups using standard backup policy to enhanced backup policy",
+          "description": "Azure Backup now supports migrating virtual backups using standard backup policy to enhanced backup policy.",
+          "pubDate": "Sun, 19 May 2024 18:36:42 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Backup now supports migrating virtual backups using standard backup policy to enhanced backup policy."
           },
           "content:encoded": null
         },
@@ -3088,21 +3103,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now develop apps using PowerShell 7.4 locally and deploy them to Azure Functions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-apps-open-telemetry-collector-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-open-telemetry-collector-support/",
-          "title": "Public Preview: Azure Container Apps OpenTelemetry Agent support",
-          "description": "You can now use open-source standards to send your app’s data.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use open-source standards to send your app’s data."
           },
           "content:encoded": null
         }
