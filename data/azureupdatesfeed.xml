@@ -6,7 +6,7 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2024 22:13:22 Z</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 23:14:51 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
@@ -42,6 +42,29 @@
       <pubDate>Wed, 22 May 2024 22:00:30 Z</pubDate>
       <atom:content
         type="text">Container insights now supports out of the box visualizations using only managed Prometheus.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">grpcwinappservice</guid>
+      <link>https://azure.microsoft.com/en-us/updates/grpcwinappservice/</link>
+      <category>Build</category>
+      <title>Preview: Windows gRPC support is now available on App Service</title>
+      <description>gRPC support for App Service Windows now in preview</description>
+      <pubDate>Wed, 22 May 2024 16:00:27 Z</pubDate>
+      <atom:content
+        type="text">gRPC support for App Service Windows now in preview</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">log-analytics-workspace-replication-public-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/log-analytics-workspace-replication-public-preview/</link>
+      <title>Public preview: Azure Log Analytics enhances resilience with workspace replication across regions</title>
+      <description>Azure Log Analytics is announcing Workspace Replication, a new capability that enhances workspace resilience by enabling you to switch your workspace operation to another region if your primary region isn’t healthy.</description>
+      <pubDate>Wed, 22 May 2024 16:00:27 Z</pubDate>
+      <atom:content
+        type="text">Azure Log Analytics is announcing Workspace Replication, a new capability that enhances workspace resilience by enabling you to switch your workspace operation to another region if your primary region isn’t healthy.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -86,6 +109,218 @@
       <pubDate>Tue, 21 May 2024 17:24:20 Z</pubDate>
       <atom:content
         type="text">Use HTTP streams in Python for processing large data streaming OpenAI responses and delivering dynamic content</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azure-fleet-preview</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azure-fleet-preview/</link>
+      <title>Public Preview - Azure Compute Fleet</title>
+      <description>Azure Compute Fleet is a game changer in scaling and optimizing Azure compute resources across different virtual machine (VM) types, availability zones, and pricing models to achieve desired scale, performance, and cost.</description>
+      <pubDate>Tue, 21 May 2024 16:00:39 Z</pubDate>
+      <atom:content
+        type="text">Azure Compute Fleet is a game changer in scaling and optimizing Azure compute resources across different virtual machine (VM) types, availability zones, and pricing models to achieve desired scale, performance, and cost.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-openai-semantic-caching-policy-in-azure-api-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-openai-semantic-caching-policy-in-azure-api-management/</link>
+      <category>api manageme</category>
+      <title>Public Preview Azure OpenAI Semantic Caching policy in Azure API Management</title>
+      <description>We're excited to announce the Public Preview for the Azure OpenAI Semantic Caching policy in Azure API Management! This innovative feature empowers customers to optimize token usage by leveraging semantic caching, which intelligently stores completions for prompts with similar meanings. </description>
+      <pubDate>Tue, 21 May 2024 16:00:38 Z</pubDate>
+      <atom:content
+        type="text">We're excited to announce the Public Preview for the Azure OpenAI Semantic Caching policy in Azure API Management! This innovative feature empowers customers to optimize token usage by leveraging semantic caching, which intelligently stores completions for prompts with similar meanings. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-circuit-breaker-in-azure-api-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-circuit-breaker-in-azure-api-management/</link>
+      <category>api manageme</category>
+      <title>GA Circuit Breaker in Azure API Management</title>
+      <description>The circuit breaker, now generally available in Azure API Management, is seamlessly integrated to provide customers with an easy-to-use solution for enhancing the resilience of their API environments.</description>
+      <pubDate>Tue, 21 May 2024 16:00:37 Z</pubDate>
+      <atom:content
+        type="text">The circuit breaker, now generally available in Azure API Management, is seamlessly integrated to provide customers with an easy-to-use solution for enhancing the resilience of their API environments.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-odata-api-type-in-azure-api-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-odata-api-type-in-azure-api-management/</link>
+      <category>api manageme</category>
+      <title>GA OData API type in Azure API Management</title>
+      <description>We're thrilled to announce the general availability of the OData API type in Azure API Management. This exciting addition extends Azure API Management's capabilities to include OData APIs, allowing users to apply standard API protections such as authentication, authorization, and rate limiting, alongside OData-specific policies for request validation. </description>
+      <pubDate>Tue, 21 May 2024 16:00:37 Z</pubDate>
+      <atom:content
+        type="text">We're thrilled to announce the general availability of the OData API type in Azure API Management. This exciting addition extends Azure API Management's capabilities to include OData APIs, allowing users to apply standard API protections such as authentication, authorization, and rate limiting, alongside OData-specific policies for request validation. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-load-balancer-in-azure-api-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-load-balancer-in-azure-api-management/</link>
+      <category>api manageme</category>
+      <title>GA Load Balancer in Azure API Management  </title>
+      <description>The General Availability of the Load Balancer feature in Azure API Management is here! Now, customers can effortlessly create a pool of backends and efficiently distribute the load across multiple endpoints. By establishing backend pools, users can seamlessly balance the load across various backends when integrating multiple backends for an API.</description>
+      <pubDate>Tue, 21 May 2024 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">The General Availability of the Load Balancer feature in Azure API Management is here! Now, customers can effortlessly create a pool of backends and efficiently distribute the load across multiple endpoints. By establishing backend pools, users can seamlessly balance the load across various backends when integrating multiple backends for an API.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-support-for-grpc-apis-in-azure-api-management-selfhosted-gateway/</link>
+      <category>api manageme</category>
+      <title>GA Support for gRPC APIs in Azure API Management Self-hosted Gateway  </title>
+      <description>We're thrilled to announce the general availability of gRPC support in Azure API Management through the self-hosted gateway. This exciting feature empowers customers to seamlessly manage their gRPC services as APIs within Azure API Management.</description>
+      <pubDate>Tue, 21 May 2024 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">We're thrilled to announce the general availability of gRPC support in Azure API Management through the self-hosted gateway. This exciting feature empowers customers to seamlessly manage their gRPC services as APIs within Azure API Management.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-azure-openai-emit-token-metric-policy-in-azure-api-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-azure-openai-emit-token-metric-policy-in-azure-api-management/</link>
+      <category>api manageme</category>
+      <title>GA Azure OpenAI Emit Token Metric policy in Azure API Management</title>
+      <description>We're thrilled to announce the General Availability of the Azure OpenAI Emit Token Metric policy in Azure API Management! This new feature enables customers to effortlessly configure token usage metrics to be sent directly to Azure Application Insights, providing insights into the utilization of Azure OpenAI models across various applications and teams.</description>
+      <pubDate>Tue, 21 May 2024 16:00:35 Z</pubDate>
+      <atom:content
+        type="text">We're thrilled to announce the General Availability of the Azure OpenAI Emit Token Metric policy in Azure API Management! This new feature enables customers to effortlessly configure token usage metrics to be sent directly to Azure Application Insights, providing insights into the utilization of Azure OpenAI models across various applications and teams.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-import-azure-openai-enpoints-as-an-apis-in-azure-api-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-import-azure-openai-enpoints-as-an-apis-in-azure-api-management/</link>
+      <category>api manageme</category>
+      <title>GA Import Azure OpenAI enpoints as an APIs in Azure API Management</title>
+      <description>We're excited to announce the General Availability of the Import Azure OpenAI as an API feature in Azure API Management! With this new capability, customers can seamlessly import Azure OpenAI endpoints as an API with just a single click, streamlining the entire process.</description>
+      <pubDate>Tue, 21 May 2024 16:00:35 Z</pubDate>
+      <atom:content
+        type="text">We're excited to announce the General Availability of the Import Azure OpenAI as an API feature in Azure API Management! With this new capability, customers can seamlessly import Azure OpenAI endpoints as an API with just a single click, streamlining the entire process.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-azure-openai-token-limit-policy-in-azure-api-management</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-azure-openai-token-limit-policy-in-azure-api-management/</link>
+      <category>api manageme</category>
+      <title>GA Azure OpenAI Token Limit Policy in Azure API Management</title>
+      <description>We're excited to announce the General Availability of the Azure OpenAI Token Limit Policy in Azure API Management! This feature empowers customers to effectively manage and enforce limits on API consumers based on their usage of OpenAI tokens.</description>
+      <pubDate>Tue, 21 May 2024 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">We're excited to announce the General Availability of the Azure OpenAI Token Limit Policy in Azure API Management! This feature empowers customers to effectively manage and enforce limits on API consumers based on their usage of OpenAI tokens.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-improved-onboarding-experience-on-vs-code-for-azure-logic-apps-standard</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-improved-onboarding-experience-on-vs-code-for-azure-logic-apps-standard/</link>
+      <category>api manageme</category>
+      <title>GA Improved Onboarding Experience on VS Code for Azure Logic Apps Standard </title>
+      <description>We're thrilled to announce the General Availability of the improved onboarding experience for the Logic Apps standard VS Code extension. This enhancement aims to streamline the process of transitioning from developing workflows in the cloud to a local environment, making it easier for developers to get started with Logic Apps development.</description>
+      <pubDate>Tue, 21 May 2024 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">We're thrilled to announce the General Availability of the improved onboarding experience for the Logic Apps standard VS Code extension. This enhancement aims to streamline the process of transitioning from developing workflows in the cloud to a local environment, making it easier for developers to get started with Logic Apps development.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-logic-apps-standard-net-8-custom-code-support</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-standard-net-8-custom-code-support/</link>
+      <category>api manageme</category>
+      <title> Public Preview Azure Logic Apps Standard] .NET 8 Custom Code Support</title>
+      <description>We’ve extended our built-in action capabilities to include support for calling .NET 8 custom code, now available in public preview. </description>
+      <pubDate>Tue, 21 May 2024 16:00:34 Z</pubDate>
+      <atom:content
+        type="text">We’ve extended our built-in action capabilities to include support for calling .NET 8 custom code, now available in public preview. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-logic-apps-standard-support-for-zero-downtime-deployment-scenarios</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-standard-support-for-zero-downtime-deployment-scenarios/</link>
+      <category>api manageme</category>
+      <title>Public Preview Azure Logic Apps Standard Support for Zero Downtime deployment scenarios</title>
+      <description>We're excited to introduce support for Zero Downtime Deployment scenarios in Azure Logic Apps Standard, now available in Public Preview. This feature addresses one of the primary challenges in developing and maintaining mission-critical applications: ensuring continuous availability and responsiveness, even during updates or maintenance activities.</description>
+      <pubDate>Tue, 21 May 2024 16:00:33 Z</pubDate>
+      <atom:content
+        type="text">We're excited to introduce support for Zero Downtime Deployment scenarios in Azure Logic Apps Standard, now available in Public Preview. This feature addresses one of the primary challenges in developing and maintaining mission-critical applications: ensuring continuous availability and responsiveness, even during updates or maintenance activities.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-logic-apps-standard-deployment-scripting-tools-in-vs-code</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-standard-deployment-scripting-tools-in-vs-code/</link>
+      <category>api manageme</category>
+      <title>Public Preview Azure Logic Apps Standard Deployment Scripting Tools in VS Code </title>
+      <description>We're excited to introduce the Logic Apps Standard Deployment Scripting Tools in Visual Studio Code, now available in Public Preview. With this enhancement, users can streamline the development, testing, and storage of Standard logic app workflows running in single-tenant Azure Logic Apps directly within VS Code, using any source control system.</description>
+      <pubDate>Tue, 21 May 2024 16:00:33 Z</pubDate>
+      <atom:content
+        type="text">We're excited to introduce the Logic Apps Standard Deployment Scripting Tools in Visual Studio Code, now available in Public Preview. With this enhancement, users can streamline the development, testing, and storage of Standard logic app workflows running in single-tenant Azure Logic Apps directly within VS Code, using any source control system.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-logic-apps-monitoring-dashboard-for-workflow-monitoring-troubleshooting-and-resubmissions</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-logic-apps-monitoring-dashboard-for-workflow-monitoring-troubleshooting-and-resubmissions/</link>
+      <title>Public Preview Azure Logic Apps Monitoring Dashboard for Workflow Monitoring, Troubleshooting, and Resubmissions</title>
+      <description>We're excited to announce the Public Preview release of UI dashboards for Logic Apps Standard, designed to enhance the monitoring, diagnosis, and troubleshooting of Logic Apps workflow runs and failures. This dashboard provides users with valuable insights into the health and performance of their workflows, empowering them to quickly identify and address any issues that may arise.</description>
+      <pubDate>Tue, 21 May 2024 16:00:32 Z</pubDate>
+      <atom:content
+        type="text">We're excited to announce the Public Preview release of UI dashboards for Logic Apps Standard, designed to enhance the monitoring, diagnosis, and troubleshooting of Logic Apps workflow runs and failures. This dashboard provides users with valuable insights into the health and performance of their workflows, empowering them to quickly identify and address any issues that may arise.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">ga-edi-capabilities-in-azure-logic-apps-standard</guid>
+      <link>https://azure.microsoft.com/en-us/updates/ga-edi-capabilities-in-azure-logic-apps-standard/</link>
+      <category>api manageme</category>
+      <title>GA EDI capabilities in Azure Logic Apps Standard</title>
+      <description>We're thrilled to announce the General Availability of EDI capabilities in Azure Logic Apps Standard, featuring built-in operations for processing B2B workloads at scale. With this release, customers can leverage native connectors to handle both single and batched EDI messages efficiently, including larger payloads.</description>
+      <pubDate>Tue, 21 May 2024 16:00:32 Z</pubDate>
+      <atom:content
+        type="text">We're thrilled to announce the General Availability of EDI capabilities in Azure Logic Apps Standard, featuring built-in operations for processing B2B workloads at scale. With this release, customers can leverage native connectors to handle both single and batched EDI messages efficiently, including larger payloads.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-service-bus-enhancements</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-service-bus-enhancements/</link>
+      <title>Public Preview Azure Service Bus Enhancements</title>
+      <description>Azure Service Bus is a fully managed enterprise message broker that ensures secure and efficient delivery of data messages between different parts of your system, even when they're disconnected or processing tasks at different speeds. We're thrilled to announce a new feature to streamline message management and improve operational efficiency: batch delete. </description>
+      <pubDate>Tue, 21 May 2024 16:00:31 Z</pubDate>
+      <atom:content
+        type="text">Azure Service Bus is a fully managed enterprise message broker that ensures secure and efficient delivery of data messages between different parts of your system, even when they're disconnected or processing tasks at different speeds. We're thrilled to announce a new feature to streamline message management and improve operational efficiency: batch delete. </atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-integration-account-enhancements</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-integration-account-enhancements/</link>
+      <category>api manageme</category>
+      <title>Public Preview Azure Integration Account Enhancements</title>
+      <description>We're excited to introduce enhancements to the Azure Integration Account in Public Preview, aimed at providing users with increased flexibility, resilience, and security in managing their integration artifacts.</description>
+      <pubDate>Tue, 21 May 2024 16:00:31 Z</pubDate>
+      <atom:content
+        type="text">We're excited to introduce enhancements to the Azure Integration Account in Public Preview, aimed at providing users with increased flexibility, resilience, and security in managing their integration artifacts.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-dynamic-sessions-in-azure-container-apps</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-dynamic-sessions-in-azure-container-apps/</link>
+      <title>Public preview: Dynamic sessions in Azure Container Apps</title>
+      <description>You can now now have easy access to fast, ephemeral, sandboxed compute on Azure without managing infrastructure. </description>
+      <pubDate>Tue, 21 May 2024 16:00:30 Z</pubDate>
+      <atom:content
+        type="text">You can now now have easy access to fast, ephemeral, sandboxed compute on Azure without managing infrastructure. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2054,240 +2289,6 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Wed, 27 Mar 2024 17:00:12 Z</pubDate>
       <atom:content
         type="text">You can now use open-source standards to send your app’s data.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-front-door-classic-will-be-retired-on-31-march-2027</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-front-door-classic-will-be-retired-on-31-march-2027/</link>
-      <title>Azure Front Door (classic) will be retired on 31 March 2027</title>
-      <description>Migrate to Azure Front Door Standard or Premium by 31 March 2027, when Front Door (classic) will be retired.</description>
-      <pubDate>Wed, 27 Mar 2024 16:28:56 Z</pubDate>
-      <atom:content
-        type="text">Migrate to Azure Front Door Standard or Premium by 31 March 2027, when Front Door (classic) will be retired.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-azure-sql-updates-for-latemarch-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-updates-for-latemarch-2024/</link>
-      <title>General availability: Azure SQL updates for late-March 2024</title>
-      <description>General availability enhancements and updates released for Azure SQL in late-March 2024 .</description>
-      <pubDate>Wed, 27 Mar 2024 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">General availability enhancements and updates released for Azure SQL in late-March 2024 .</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-latemarch-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-latemarch-2024/</link>
-      <title>Public Preview: Azure SQL updates for late-March 2024</title>
-      <description>Public preview enhancements and updates released for Azure SQL in late-March 2024.</description>
-      <pubDate>Wed, 27 Mar 2024 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">Public preview enhancements and updates released for Azure SQL in late-March 2024.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-realtime-text-translation-using-the-azureai-extension-in-azure-database-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-realtime-text-translation-using-the-azureai-extension-in-azure-database-for-postgresql/</link>
-      <title>Public Preview:  Real-time text translation using the azure_ai extension in Azure Database for PostgreSQL</title>
-      <description>Text translation right within SQL facilitates building intelligent multilingual applications on Azure Database for PostgreSQL.</description>
-      <pubDate>Wed, 27 Mar 2024 16:00:13 Z</pubDate>
-      <atom:content
-        type="text">Text translation right within SQL facilitates building intelligent multilingual applications on Azure Database for PostgreSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-invoke-azure-machine-learning-models-using-the-azureai-extension</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-invoke-azure-machine-learning-models-using-the-azureai-extension/</link>
-      <title>Public Preview: Invoke Azure Machine Learning models using the azure_ai extension</title>
-      <description>Invoke Azure Machine Learning models in real-time from SQL in Azure Database for PostgreSQL.</description>
-      <pubDate>Wed, 27 Mar 2024 16:00:13 Z</pubDate>
-      <atom:content
-        type="text">Invoke Azure Machine Learning models in real-time from SQL in Azure Database for PostgreSQL.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-migration-service-in-azure-database-for-postgresql</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-migration-service-in-azure-database-for-postgresql/</link>
-      <title>General availability: Migration service in Azure Database for PostgreSQL</title>
-      <description>Seamlessly migrate PostgreSQL to Azure using a managed service for complete schema and data transfers, hassle-free. </description>
-      <pubDate>Wed, 27 Mar 2024 16:00:12 Z</pubDate>
-      <atom:content
-        type="text">Seamlessly migrate PostgreSQL to Azure using a managed service for complete schema and data transfers, hassle-free. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">rate-limiting-on-expressroute-direct-circuits</guid>
-      <link>https://azure.microsoft.com/en-us/updates/rate-limiting-on-expressroute-direct-circuits/</link>
-      <title>General availability: Rate Limiting on ExpressRoute Direct Circuits </title>
-      <description>Rate Limiting is now generally available over ExpressRoute Direct port circuits, providing enhanced control over bandwidth usage. This Quality of Service (QoS) feature prevents circuits from bursting beyond their configured bandwidth, thereby improving network performance and reliability. Rate Limiting can be enabled for each circuit individually, offering flexibility to prioritize certain circuits. This feature can be activated during or after the creation of the ExpressRoute Direct circuit.</description>
-      <pubDate>Wed, 27 Mar 2024 15:00:13 Z</pubDate>
-      <atom:content
-        type="text">Rate Limiting is now generally available over ExpressRoute Direct port circuits, providing enhanced control over bandwidth usage. This Quality of Service (QoS) feature prevents circuits from bursting beyond their configured bandwidth, thereby improving network performance and reliability. Rate Limiting can be enabled for each circuit individually, offering flexibility to prioritize certain circuits. This feature can be activated during or after the creation of the ExpressRoute Direct circuit.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">capacity-reservation-for-specialty-skus</guid>
-      <link>https://azure.microsoft.com/en-us/updates/capacity-reservation-for-specialty-skus/</link>
-      <title>Public Preview: On-demand capacity reservations for Specialty SKUs</title>
-      <description>You can now reserve capacity with SLA for following Specialty VM sizes, Mv3 series, NC-series (v3 and newer), NV-series (v2 and newer), and Lsv2 series
-</description>
-      <pubDate>Wed, 27 Mar 2024 15:00:12 Z</pubDate>
-      <atom:content
-        type="text">You can now reserve capacity with SLA for following Specialty VM sizes, Mv3 series, NC-series (v3 and newer), NV-series (v2 and newer), and Lsv2 series
-</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-change-partition-key-of-a-container-in-azure-cosmos-db-nosql-api</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-change-partition-key-of-a-container-in-azure-cosmos-db-nosql-api/</link>
-      <title>Public preview: Change partition key of a container in Azure Cosmos DB (NoSQL API)</title>
-      <description>The ability to change the partition key of a container in Azure Cosmos is now available in preview for NoSQL API.</description>
-      <pubDate>Wed, 27 Mar 2024 15:00:11 Z</pubDate>
-      <atom:content
-        type="text">The ability to change the partition key of a container in Azure Cosmos is now available in preview for NoSQL API.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-database-mirroring-in-microsoft-fabric</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-database-mirroring-in-microsoft-fabric/</link>
-      <title>Public Preview: Azure SQL Database Mirroring in Microsoft Fabric</title>
-      <description>Mirroring Azure SQL Database provides an easy experience to continuously replicate SQL DB data directly into Microsoft Fabric. </description>
-      <pubDate>Tue, 26 Mar 2024 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">Mirroring Azure SQL Database provides an easy experience to continuously replicate SQL DB data directly into Microsoft Fabric. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-static-web-apps-distributed-functions-capability-now-in-public-preview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-static-web-apps-distributed-functions-capability-now-in-public-preview/</link>
-      <title>Azure Static Web Apps distributed functions capability now in Public Preview</title>
-      <description>Reduced latency by distributing managed functions to regions of high demand.</description>
-      <pubDate>Tue, 26 Mar 2024 16:00:14 Z</pubDate>
-      <atom:content
-        type="text">Reduced latency by distributing managed functions to regions of high demand.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">breaking-changes-to-azure-api-management-workspaces</guid>
-      <link>https://azure.microsoft.com/en-us/updates/breaking-changes-to-azure-api-management-workspaces/</link>
-      <category>Azure API Management</category>
-      <title>Breaking Changes to Azure API Management Workspaces</title>
-      <description>As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  
-
-These breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service. </description>
-      <pubDate>Mon, 25 Mar 2024 18:00:25 Z</pubDate>
-      <atom:content
-        type="text">As part of our commitment to enhancing workspaces (in Public Preview) within Azure API Management, we are implementing several critical breaking changes effective June 14, 2024. These changes are designed to streamline functionality and improve overall performance.  
-
-These breaking changes will be effective from June 14, 2024. We strongly advise making any necessary adjustments to your workspace configurations before this date to ensure uninterrupted service. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-of-the-automatic-scaling-feature</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-of-the-automatic-scaling-feature/</link>
-      <title>General Availability: Automatic Scaling for App Service Web Apps</title>
-      <description>Azure App Service is pleased to announce general availability of the "Automatic Scaling" feature. </description>
-      <pubDate>Mon, 25 Mar 2024 18:00:16 Z</pubDate>
-      <atom:content
-        type="text">Azure App Service is pleased to announce general availability of the "Automatic Scaling" feature. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">preview-new-features-in-azure-container-storage</guid>
-      <link>https://azure.microsoft.com/en-us/updates/preview-new-features-in-azure-container-storage/</link>
-      <title>Preview: New Features in Azure Container Storage </title>
-      <description>Azure Container Storage is a fully managed volume orchestration service built natively for containers. New capabilities include support for Temp SSD, simplified installation via AKS CLI, and scalable storage for cost-efficient workload management.</description>
-      <pubDate>Mon, 25 Mar 2024 17:00:16 Z</pubDate>
-      <atom:content
-        type="text">Azure Container Storage is a fully managed volume orchestration service built natively for containers. New capabilities include support for Temp SSD, simplified installation via AKS CLI, and scalable storage for cost-efficient workload management.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">mdcc-publicpreview</guid>
-      <link>https://azure.microsoft.com/en-us/updates/mdcc-publicpreview/</link>
-      <title>Public Preview: Agentless multi-disk crash consistent backup by Azure Backup for VM</title>
-      <description>Azure VM backup now supports agentless multi-disk crash consistent backups in public preview.</description>
-      <pubDate>Mon, 25 Mar 2024 16:00:15 Z</pubDate>
-      <atom:content
-        type="text">Azure VM backup now supports agentless multi-disk crash consistent backups in public preview.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025</guid>
-      <link>https://azure.microsoft.com/en-us/updates/action-required-upgrade-your-app-service-apps-to-node-20-lts-by-30-april-2025/</link>
-      <title>Action required: Upgrade your App Service apps to Node 20 LTS by 30 April 2025</title>
-      <description>Extended support for Node 18 LTS is ending
-</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:15 Z</pubDate>
-      <atom:content
-        type="text">Extended support for Node 18 LTS is ending
-</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma</guid>
-      <link>https://azure.microsoft.com/en-us/updates/important-notice-azure-product-retirement-end-of-life-announcement-of-azure-maps-creator-feature-state-service-versions-31-ma/</link>
-      <title>Important Notice: Azure Product Retirement: End of Life Announcement of Azure Maps Creator Feature State Service Versions 31 March 2025 </title>
-      <description>Azure Maps Creator Feature State Service will be retired on 31 March 2025.  </description>
-      <pubDate>Fri, 22 Mar 2024 23:00:15 Z</pubDate>
-      <atom:content
-        type="text">Azure Maps Creator Feature State Service will be retired on 31 March 2025.  </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">azure-content-moderator-retirement</guid>
-      <link>https://azure.microsoft.com/en-us/updates/azure-content-moderator-retirement/</link>
-      <title>Azure Content Moderator will be retired on 15 March 2027</title>
-      <description>We encourage users to explore our new offering Azure AI Content Safety that offers both new and updated capabilities to meet your content moderation needs.</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:14 Z</pubDate>
-      <atom:content
-        type="text">We encourage users to explore our new offering Azure AI Content Safety that offers both new and updated capabilities to meet your content moderation needs.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">basic-and-standard-aseries-vms-on-hdinsight-will-retire-on-31-august-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/basic-and-standard-aseries-vms-on-hdinsight-will-retire-on-31-august-2024/</link>
-      <category>HDInsight</category>
-      <title>Basic and Standard A-series VMs on HDInsight will retire on 31 August 2024</title>
-      <description>On 31 August 2024, Azure will retire Basic and Standard A-series VMs as announced earlier on 24 August 2021.
-
-Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-series VMs, which provide more memory per vCPU and faster storage on solid-state drives (SSDs). To avoid service disruptions, migrate your workloads from Basic and Standard A-series VMs to Av2-series VMs before 31 August 2024. </description>
-      <pubDate>Fri, 22 Mar 2024 23:00:14 Z</pubDate>
-      <atom:content
-        type="text">On 31 August 2024, Azure will retire Basic and Standard A-series VMs as announced earlier on 24 August 2021.
-
-Before 31 August 2024, you need to migrate your HDInsight A series VMs to Av2-series VMs, which provide more memory per vCPU and faster storage on solid-state drives (SSDs). To avoid service disruptions, migrate your workloads from Basic and Standard A-series VMs to Av2-series VMs before 31 August 2024. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">crossclouddeprecation</guid>
-      <link>https://azure.microsoft.com/en-us/updates/crossclouddeprecation/</link>
-      <title>Support for Connector for AWS in Cost Management is ending on 31 March 2025</title>
-      <description>The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</description>
-      <pubDate>Fri, 22 Mar 2024 23:00:13 Z</pubDate>
-      <atom:content
-        type="text">The Connector for AWS in the Cost Management service will be retired on 31 March 2025. By that date, please consider alternative cost management reporting for AWS available in the market.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
