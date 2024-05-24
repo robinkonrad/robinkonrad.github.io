@@ -12,7 +12,7 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 23 May 2024 23:14:51 Z",
+      "lastBuildDate": "Fri, 24 May 2024 01:03:27 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
@@ -98,6 +98,22 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "public-preview-support-for-pulumi-in-azure-deployment-environments"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-pulumi-in-azure-deployment-environments/",
+          "category": "Microsoft Dev Box; Features; Services",
+          "title": "Expanding extensibility model to Pulumi in Azure Deployment Environments",
+          "description": "Expanding extensibility model to Pulumi in Azure Deployment Environments",
+          "pubDate": "Tue, 21 May 2024 18:30:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Expanding extensibility model to Pulumi in Azure Deployment Environments"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "public-preview-azure-firewall-integration-in-microsoft-copilot-for-security"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-integration-in-microsoft-copilot-for-security/",
@@ -152,6 +168,52 @@
           "atom:content": {
             "@type": "text",
             "#text": "Use HTTP streams in Python for processing large data streaming OpenAI responses and delivering dynamic content"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-static-web-apps-offers-new-dedicated-plan-in-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-static-web-apps-offers-new-dedicated-plan-in-preview/",
+          "title": "Azure Static Web Apps offers new Dedicated plan in preview",
+          "description": "Enterprise-grade features for advanced use cases",
+          "pubDate": "Tue, 21 May 2024 17:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enterprise-grade features for advanced use cases"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "new-azure-event-grid-capabilities-support-iot-solutions-event-sources"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/new-azure-event-grid-capabilities-support-iot-solutions-event-sources/",
+          "title": "New Azure Event Grid capabilities support IoT solutions, event sources",
+          "description": "Additional support for Azure Event Hubs means customers can run existing Kafka workloads",
+          "pubDate": "Tue, 21 May 2024 17:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Additional support for Azure Event Hubs means customers can run existing Kafka workloads"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "microsoft-dev-box-introduces-new-readytocode-and-enterprise-management-capabilities"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/microsoft-dev-box-introduces-new-readytocode-and-enterprise-management-capabilities/",
+          "category": "Microsoft Dev Box; Features; Services",
+          "title": "Microsoft Dev Box introduces new ready-to-code and enterprise management capabilities",
+          "description": "Dev Box has been updated with several new developer productivity and enterprise management capabilities.",
+          "pubDate": "Tue, 21 May 2024 17:00:14 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Dev Box has been updated with several new developer productivity and enterprise management capabilities."
           },
           "content:encoded": null
         },
@@ -436,6 +498,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "You can now now have easy access to fast, ephemeral, sandboxed compute on Azure without managing infrastructure."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "dashboardspreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/dashboardspreview/",
+          "category": "Tag = AzurePortal",
+          "title": "Public Preview: Next-Gen Dashboards Experience in Azure Portal",
+          "description": "We're adding a new Dashboards experience within the Azure Portal. You can use this feature in parallel to the current experience and it can be found in the Dashboard Hub and the Mobile App",
+          "pubDate": "Tue, 21 May 2024 16:00:30 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're adding a new Dashboards experience within the Azure Portal. You can use this feature in parallel to the current experience and it can be found in the Dashboard Hub and the Mobile App"
           },
           "content:encoded": null
         },
@@ -998,6 +1076,21 @@
           "atom:content": {
             "@type": "text",
             "#text": "Computed properties make it easy to write NoSQL query logic once and reference it many times!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "experimentation-capabilities-for-azure-app-configuration-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/experimentation-capabilities-for-azure-app-configuration-now-in-public-preview/",
+          "title": "Experimentation capabilities for Azure App Configuration now in public preview",
+          "description": "Enables online experimentation for web, mobile, and Generative AI apps",
+          "pubDate": "Tue, 21 May 2024 16:00:15 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Enables online experimentation for web, mobile, and Generative AI apps"
           },
           "content:encoded": null
         },
@@ -3012,96 +3105,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Microsoft Dev Box is generally available in Southeast Asia, Brazil South, South Africa North, and Switzerland North."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-sql-trigger-for-azure-functions-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-sql-trigger-for-azure-functions-2/",
-          "title": "GA: Azure SQL Trigger support for Azure Functions",
-          "description": "You can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database",
-          "pubDate": "Wed, 27 Mar 2024 17:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now build application logic in Azure Function apps which can be driven by the data from Azure SQL database"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-files-georedundancy-for-standard-large-file-shares"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-files-georedundancy-for-standard-large-file-shares/",
-          "title": "General Availability: Azure Files geo-redundancy for standard large file shares",
-          "description": "Azure Files geo-redundancy for 100TiB standard SMB file shares is now generally available.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:15 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Files geo-redundancy for 100TiB standard SMB file shares is now generally available."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-free-managed-certificates-on-azure-container-apps"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-free-managed-certificates-on-azure-container-apps/",
-          "title": "Generally Available: Free managed certificates on Azure Container Apps",
-          "description": "Azure Container Apps now provides a free managed certificate for your custom domain.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Container Apps now provides a free managed certificate for your custom domain."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-support-for-key-vault-certificates"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-support-for-key-vault-certificates/",
-          "title": "Public preview: Support for Key Vault Certificates in Azure Container Apps",
-          "description": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:14 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use Azure Key Vault to store and manage your own TLS/SSL certificates for use with Azure Container Apps."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-powershell-74-support-for-azure-functions"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-powershell-74-support-for-azure-functions/",
-          "title": "Public preview: PowerShell 7.4 support for Azure Functions",
-          "description": "You can now develop apps using PowerShell 7.4 locally and deploy them to Azure Functions",
-          "pubDate": "Wed, 27 Mar 2024 17:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now develop apps using PowerShell 7.4 locally and deploy them to Azure Functions"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-container-apps-open-telemetry-collector-support"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-container-apps-open-telemetry-collector-support/",
-          "title": "Public Preview: Azure Container Apps OpenTelemetry Agent support",
-          "description": "You can now use open-source standards to send your app’s data.",
-          "pubDate": "Wed, 27 Mar 2024 17:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now use open-source standards to send your app’s data."
           },
           "content:encoded": null
         }
