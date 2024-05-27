@@ -12,13 +12,113 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 27 May 2024 15:16:04 Z",
+      "lastBuildDate": "Mon, 27 May 2024 16:17:22 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "hdionaksnewregions2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/hdionaksnewregions2/",
+          "title": "Public Preview: Azure HDInsight on AKS is now available for preview in 6 new regions",
+          "description": "Azure HDInsight on AKS is a modern, reliable, secure, and fully managed Platform as a Service (PaaS) that runs on Azure Kubernetes Service (AKS). HDInsight on AKS allows you to deploy popular Open-Source Analytics workloads like Apache Spark™, Apache Flink®️, and Trino without the overhead of managing and monitoring containers. For more information about Azure HDInsight on AKS, see the documentation",
+          "pubDate": "Mon, 27 May 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure HDInsight on AKS is a modern, reliable, secure, and fully managed Platform as a Service (PaaS) that runs on Azure Kubernetes Service (AKS). HDInsight on AKS allows you to deploy popular Open-Source Analytics workloads like Apache Spark™, Apache Flink®️, and Trino without the overhead of managing and monitoring containers. For more information about Azure HDInsight on AKS, see the documentation"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "visual-studio-code-extension-for-sazure-web-pubsub-now-in-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-for-sazure-web-pubsub-now-in-preview/",
+          "title": "Visual Studio Code extension for sAzure Web PubSub now in preview",
+          "description": "New option helps developers manage Web PubSub resources",
+          "pubDate": "Mon, 27 May 2024 16:00:33 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "New option helps developers manage Web PubSub resources"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-application-volume-group-for-oracle"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-application-volume-group-for-oracle/",
+          "title": "Public preview: Azure NetApp Files application volume group for Oracle",
+          "description": "Application volume group for Oracle is designed to greatly simplify the deployment of Azure NetApp Files volumes required to install and operate Oracle databases on Azure virtual machines at enterprise scale, with optimal performance and according to best practices.",
+          "pubDate": "Mon, 27 May 2024 16:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Application volume group for Oracle is designed to greatly simplify the deployment of Azure NetApp Files volumes required to install and operate Oracle databases on Azure virtual machines at enterprise scale, with optimal performance and according to best practices."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "introducing-reporting-capabilities-for-azure-site-recovery"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/introducing-reporting-capabilities-for-azure-site-recovery/",
+          "category": [
+            "AzurePortal",
+            "AzureSiteRecovery",
+            "AzureMonitor"
+          ],
+          "title": "Monitor effectively using Azure Monitor for Azure Site Recovery",
+          "description": "Azure Site Recovery (ASR) now surfaces default alerts via Azure Monitor for critical events such as replication health turning unhealthy, failover failures, agent expiry, and so on. You can monitor these alerts via the Azure Business Continuity Center, Azure Monitor dashboard, or your Recovery Services vault and route these alerts to various notification channels of choice (Email, ITSM, Webhook, SMS).",
+          "pubDate": "Mon, 27 May 2024 16:00:16 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Site Recovery (ASR) now surfaces default alerts via Azure Monitor for critical events such as replication health turning unhealthy, failover failures, agent expiry, and so on. You can monitor these alerts via the Azure Business Continuity Center, Azure Monitor dashboard, or your Recovery Services vault and route these alerts to various notification channels of choice (Email, ITSM, Webhook, SMS)."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "preview-introducing-reporting-capabilities-for-azure-site-recovery"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/preview-introducing-reporting-capabilities-for-azure-site-recovery/",
+          "category": [
+            "AzurePortal",
+            "AzureSiteRecovery"
+          ],
+          "title": "Preview: Introducing Reporting Capabilities for Azure Site Recovery",
+          "description": "Azure Site Recovery is introducing reporting capabilities to enable your BCDR Admin get rich insights into your estate protected with Site Recovery for audit and tracking purposes. These reports are highly customizable and are available out of box on Business Continuity Center, Recovery Service Vault and Backup Center. These reports provide historical evidence on failover jobs and replicated items.",
+          "pubDate": "Mon, 27 May 2024 16:00:09 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Site Recovery is introducing reporting capabilities to enable your BCDR Admin get rich insights into your estate protected with Site Recovery for audit and tracking purposes. These reports are highly customizable and are available out of box on Business Continuity Center, Recovery Service Vault and Backup Center. These reports provide historical evidence on failover jobs and replicated items."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "kusto-graph-ga"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/kusto-graph-ga/",
+          "category": "kusto",
+          "title": "Announcing General Availability of Graph Semantics in Kusto",
+          "description": "The Graph Semantics extension to Kusto is now generally available. Users are encouraged to integrate this tool into their production workflows to enhance understanding of complex datasets and uncover hidden patterns.",
+          "pubDate": "Mon, 27 May 2024 16:00:02 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Graph Semantics extension to Kusto is now generally available. Users are encouraged to integrate this tool into their production workflows to enhance understanding of complex datasets and uncover hidden patterns."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3007,102 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "End of life for Basic and Standard A-series VM families support in Batch pools on 31 August 2024"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "everywrite-aof-persistence-on-azure-cache-for-redis-enterprise-and-enterprise-flash-will-be-retired-on-1-april-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/everywrite-aof-persistence-on-azure-cache-for-redis-enterprise-and-enterprise-flash-will-be-retired-on-1-april-2025/",
-          "title": "Every-write AOF persistence on Azure Cache for Redis Enterprise and Enterprise Flash will be retired on 1 April 2025",
-          "description": "Every-write AOF will be retired on 1 April 2025, and all instances using the feature will automatically switch to use every-second AOF instead.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Every-write AOF will be retired on 1 April 2025, and all instances using the feature will automatically switch to use every-second AOF instead."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-availability-zone-volume-placement-for-azure-netapp-files"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-availability-zone-volume-placement-for-azure-netapp-files/",
-          "category": [
-            "Azure NetApp Files",
-            "Features",
-            "Services"
-          ],
-          "title": "General availability: Availability zone volume placement for Azure NetApp Files",
-          "description": "Deploy new Azure NetApp Files volumes in Azure availability zones (AZs) of your choice to support workloads across multiple availability zones",
-          "pubDate": "Fri, 29 Mar 2024 17:24:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Deploy new Azure NetApp Files volumes in Azure availability zones (AZs) of your choice to support workloads across multiple availability zones"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-sphere-version-2403-is-now-available"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-sphere-version-2403-is-now-available/",
-          "title": "Azure Sphere version 24.03 and Azure Sphere (Integrated) are now generally available",
-          "description": "The Azure Sphere 24.03 release includes Azure Sphere (Integrated) general availability, support for custom certificates to connect to Azure IoT Services, an updated version of cURL for the Azure Sphere OS, security fixes, SDK support for Ubuntu 24.04 pre-release, removal of SDK support for Ubuntu 18.04 LTS, and changes to the CMake toolchain.",
-          "pubDate": "Thu, 28 Mar 2024 17:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure Sphere 24.03 release includes Azure Sphere (Integrated) general availability, support for custom certificates to connect to Azure IoT Services, an updated version of cURL for the Azure Sphere OS, security fixes, SDK support for Ubuntu 24.04 pre-release, removal of SDK support for Ubuntu 18.04 LTS, and changes to the CMake toolchain."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-improved-throughput-performance-on-azure-disks-standard-ssd"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-improved-throughput-performance-on-azure-disks-standard-ssd/",
-          "title": "GA: Improved throughput performance on Azure Disks’ Standard SSD",
-          "description": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower.",
-          "pubDate": "Thu, 28 Mar 2024 17:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Disks Standard SSD throughput limits are now 100 MB/s on disks sized 8191 GBs and lower."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-logic-apps-designer-for-consumption"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-logic-apps-designer-for-consumption/",
-          "category": "Azure Logic Apps",
-          "title": "GA: Azure Logic Apps Designer for Consumption",
-          "description": "We're thrilled to announce the general availability of the new Azure Logic Apps Designer for Consumption, revolutionizing your workflow experience with unparalleled speed, smoothness, and reliability. Unifying the designer experience across all supported platforms, including standard Azure Logic Apps, the Azure Logic Apps Visual Studio Code extension, and consumption Azure Logic Apps in the portal, ensures seamless usability and familiarity wherever you work.",
-          "pubDate": "Thu, 28 Mar 2024 16:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We're thrilled to announce the general availability of the new Azure Logic Apps Designer for Consumption, revolutionizing your workflow experience with unparalleled speed, smoothness, and reliability. Unifying the designer experience across all supported platforms, including standard Azure Logic Apps, the Azure Logic Apps Visual Studio Code extension, and consumption Azure Logic Apps in the portal, ensures seamless usability and familiarity wherever you work."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-ai-studio-safety-evaluations"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-ai-studio-safety-evaluations/",
-          "title": "Public Preview: Safety evaluations for generative AI applications in Azure AI Studio",
-          "description": "Measure your generative AI application’s susceptibility to jailbreak attacks and to producing unsafe content, so you can implement effective mitigations and go from prototype to production with confidence.",
-          "pubDate": "Thu, 28 Mar 2024 15:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Measure your generative AI application’s susceptibility to jailbreak attacks and to producing unsafe content, so you can implement effective mitigations and go from prototype to production with confidence."
           },
           "content:encoded": null
         }
