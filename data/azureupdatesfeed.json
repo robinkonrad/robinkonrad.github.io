@@ -12,13 +12,59 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Tue, 28 May 2024 15:14:11 Z",
+      "lastBuildDate": "Tue, 28 May 2024 16:17:29 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary/",
+          "title": "General availability: Activity log alerts can now run in EU Data Boundary",
+          "description": "Activity log alert rules can now be saved in European regions, ensuring the alert metadata and processing remains within EU Data Boundary.",
+          "pubDate": "Tue, 28 May 2024 16:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Activity log alert rules can now be saved in European regions, ensuring the alert metadata and processing remains within EU Data Boundary."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-vm-hibernation-general-purpose"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-vm-hibernation-general-purpose/",
+          "title": "General Availability: VM Hibernation for General Purpose VMs",
+          "description": "Hibernate VMs when not in use to save compute costs, while persisting the in-memory state.",
+          "pubDate": "Tue, 28 May 2024 16:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Hibernate VMs when not in use to save compute costs, while persisting the in-memory state."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-api-center-extension-for-vs-code"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-api-center-extension-for-vs-code/",
+          "category": "api manageme",
+          "title": "General Availability: Azure API Center Extension for VS Code",
+          "description": "The Azure API Center extension for Visual Studio Code is now generally available. You can use this extension to build, discover, try, and consume APIs in your API center.",
+          "pubDate": "Tue, 28 May 2024 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure API Center extension for Visual Studio Code is now generally available. You can use this extension to build, discover, try, and consume APIs in your API center."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3057,56 +3103,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Standard_NC6s_v3, Standard_NC12s_v3 and Standard_NC24s_v3 Azure virtual machines will be retired on September 30, 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "standardnc24rsv3-virtual-machines-will-be-retired-on-march-31st-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/standardnc24rsv3-virtual-machines-will-be-retired-on-march-31st-2025/",
-          "category": [
-            "Virtual Machines",
-            "Retirements"
-          ],
-          "title": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025",
-          "description": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025",
-          "pubDate": "Fri, 29 Mar 2024 23:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "support-for-ubuntu-2004-lts-for-batch-pools-will-be-retired-on-23-april-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/support-for-ubuntu-2004-lts-for-batch-pools-will-be-retired-on-23-april-2025/",
-          "category": "Batch",
-          "title": "Support for Ubuntu 20.04 LTS for Batch pools will be retired on 23 April 2025",
-          "description": "End of life announcement for Ubuntu 20.04 LTS support for Azure Batch pools on 23 April 2025",
-          "pubDate": "Fri, 29 Mar 2024 23:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of life announcement for Ubuntu 20.04 LTS support for Azure Batch pools on 23 April 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "support-for-basic-and-standard-aseries-vm-families-support-will-be-retired-on-31-august-2024-for-batch-pools"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/support-for-basic-and-standard-aseries-vm-families-support-will-be-retired-on-31-august-2024-for-batch-pools/",
-          "title": "Support for Basic and Standard A-series VM families support will be retired on 31 August 2024 for Batch pools",
-          "description": "End of life for Basic and Standard A-series VM families support in Batch pools on 31 August 2024",
-          "pubDate": "Fri, 29 Mar 2024 23:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of life for Basic and Standard A-series VM families support in Batch pools on 31 August 2024"
           },
           "content:encoded": null
         }
