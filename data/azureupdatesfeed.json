@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 29 May 2024 16:18:27 Z",
+      "lastBuildDate": "Wed, 29 May 2024 17:13:55 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-netapp-files-backup"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-backup/",
+          "title": "General Availability: Azure NetApp Files backup",
+          "description": "Azure NetApp Files backup expands the data protection capabilities of Azure NetApp Files by providing fully managed backup solution for long-term snapshot archive, recovery, and compliance.",
+          "pubDate": "Wed, 29 May 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files backup expands the data protection capabilities of Azure NetApp Files by providing fully managed backup solution for long-term snapshot archive, recovery, and compliance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-load-balancer-health-event-logs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-health-event-logs/",
+          "title": "Public preview: Azure Load Balancer health event logs",
+          "description": "Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health.",
+          "pubDate": "Wed, 29 May 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3075,36 +3105,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Windows Server 2022 will be retired on 15 March 2027"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025/",
-          "title": "Retirement notice: The legacy Azure Storage C++ client libraries will be retired on 29 March 2025",
-          "description": "Legacy Azure Storage C++ client libraries will be retired on 29 March 2025. Before that date, you’ll need to transition to the latest version of the Azure Storage C++ client libraries.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:34 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Legacy Azure Storage C++ client libraries will be retired on 29 March 2025. Before that date, you’ll need to transition to the latest version of the Azure Storage C++ client libraries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-maps-web-sdk-map-control-version-20x-and-azure-maps-service-module-will-be-retired-on-30-september-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-web-sdk-map-control-version-20x-and-azure-maps-service-module-will-be-retired-on-30-september-2026/",
-          "title": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026",
-          "description": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026",
-          "pubDate": "Fri, 29 Mar 2024 23:00:33 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026"
           },
           "content:encoded": null
         }
