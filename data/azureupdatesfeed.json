@@ -12,13 +12,35 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 29 May 2024 19:11:54 Z",
+      "lastBuildDate": "Wed, 29 May 2024 20:15:40 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "kubernetesmetadataandlogsfilteringpublicpreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/kubernetesmetadataandlogsfilteringpublicpreview/",
+          "category": [
+            "Azure Monitor",
+            "Azure Kubernetes Service",
+            "Feature",
+            "Container Insights",
+            "Microsoft Build"
+          ],
+          "title": "Public Preview: Kubernetes Metadata and Logs Filtering in Azure Monitor - Container Insights",
+          "description": "Kubernetes Metadata and Logs Filtering is now in Public Preview. Gain richer context and improved visibility into their workloads!",
+          "pubDate": "Wed, 29 May 2024 20:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Kubernetes Metadata and Logs Filtering is now in Public Preview. Gain richer context and improved visibility into their workloads!"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3090,21 +3112,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure HDInsight 5.0 for cluster shapes Kafka, Interactive Query, and Spark will retire on 31 March 2025.  HDInsight, 5.1 is Generally available from November 1, 2023, this release contains all the latest versions of supported software. It comes with all the improvements made in open-source versions and the integrations from Microsoft."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ws2022-retirement-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ws2022-retirement-aks/",
-          "title": "Retirement notice: Windows Server 2022 will retire with k8s 1.34 in March 2027",
-          "description": "Windows Server 2022 will be retired on 15 March 2027",
-          "pubDate": "Fri, 29 Mar 2024 23:00:34 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Windows Server 2022 will be retired on 15 March 2027"
           },
           "content:encoded": null
         }
