@@ -6,11 +6,33 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 16:18:09 Z</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 17:12:29 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-load-balancer-now-supports-admin-state</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-now-supports-admin-state/</link>
+      <title>Public preview: Azure Load Balancer now supports Admin State</title>
+      <description>Override Azure Load Balancer’s health probe behavior on a per backend pool instance basis using the new Load Balancer Admin State feature to make taking your VM out of rotation for maintenance easy.</description>
+      <pubDate>Thu, 30 May 2024 17:00:13 Z</pubDate>
+      <atom:content
+        type="text">Override Azure Load Balancer’s health probe behavior on a per backend pool instance basis using the new Load Balancer Admin State feature to make taking your VM out of rotation for maintenance easy.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-netapp-files-support-for-active-directory-connection-per-netapp-account</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-support-for-active-directory-connection-per-netapp-account/</link>
+      <title>Public preview: Azure NetApp Files support for Active Directory connection per NetApp account</title>
+      <description>Azure NetApp Files support for one Active Directory connection per NetApp account now enables connecting a NetApp account to its own distinct Active Directory Forest and Domain. Azure NetApp Files can now be used with more than one Active Directory Forest and Domain in a region under a subscription.</description>
+      <pubDate>Thu, 30 May 2024 17:00:13 Z</pubDate>
+      <atom:content
+        type="text">Azure NetApp Files support for one Active Directory connection per NetApp account now enables connecting a NetApp account to its own distinct Active Directory Forest and Domain. Azure NetApp Files can now be used with more than one Active Directory Forest and Domain in a region under a subscription.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview</guid>
@@ -2278,28 +2300,6 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Fri, 29 Mar 2024 23:00:37 Z</pubDate>
       <atom:content
         type="text">Azure AI Document Intelligence v2.0 API will be retired on 31 August 2026</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024-2/</link>
-      <title>Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024. </title>
-      <description>Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024. </description>
-      <pubDate>Fri, 29 Mar 2024 23:00:36 Z</pubDate>
-      <atom:content
-        type="text">Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024. </atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price</guid>
-      <link>https://azure.microsoft.com/en-us/updates/were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price/</link>
-      <title>We're retiring Memory Optimized Data Flows in Azure Data Factory - use General Purpose for better performance at a lower price. </title>
-      <description>We're retiring Memory Optimized Data Flows in Azure Data Factory </description>
-      <pubDate>Fri, 29 Mar 2024 23:00:36 Z</pubDate>
-      <atom:content
-        type="text">We're retiring Memory Optimized Data Flows in Azure Data Factory </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
