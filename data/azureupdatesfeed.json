@@ -12,222 +12,13 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 30 May 2024 17:12:29 Z",
+      "lastBuildDate": "Thu, 30 May 2024 18:19:58 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-load-balancer-now-supports-admin-state"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-now-supports-admin-state/",
-          "title": "Public preview: Azure Load Balancer now supports Admin State",
-          "description": "Override Azure Load Balancer’s health probe behavior on a per backend pool instance basis using the new Load Balancer Admin State feature to make taking your VM out of rotation for maintenance easy.",
-          "pubDate": "Thu, 30 May 2024 17:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Override Azure Load Balancer’s health probe behavior on a per backend pool instance basis using the new Load Balancer Admin State feature to make taking your VM out of rotation for maintenance easy."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-support-for-active-directory-connection-per-netapp-account"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-support-for-active-directory-connection-per-netapp-account/",
-          "title": "Public preview: Azure NetApp Files support for Active Directory connection per NetApp account",
-          "description": "Azure NetApp Files support for one Active Directory connection per NetApp account now enables connecting a NetApp account to its own distinct Active Directory Forest and Domain. Azure NetApp Files can now be used with more than one Active Directory Forest and Domain in a region under a subscription.",
-          "pubDate": "Thu, 30 May 2024 17:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files support for one Active Directory connection per NetApp account now enables connecting a NetApp account to its own distinct Active Directory Forest and Domain. Azure NetApp Files can now be used with more than one Active Directory Forest and Domain in a region under a subscription."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview/",
-          "title": "Azure Virtual Network Manager’s virtual network verifier is now in public preview",
-          "description": "Azure Virtual Network Manager’s virtual network verifier feature is now in public preview, enabling you to check if your network policies allow or disallow traffic between your Azure network resources.",
-          "pubDate": "Thu, 30 May 2024 16:00:13 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Virtual Network Manager’s virtual network verifier feature is now in public preview, enabling you to check if your network policies allow or disallow traffic between your Azure network resources."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-bastion-premium"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-bastion-premium/",
-          "title": "Public preview: Azure Bastion Premium",
-          "description": "Azure Bastion Premium SKU secures customers’ highly sensitive workloads with advanced monitoring and security features",
-          "pubDate": "Thu, 30 May 2024 16:00:12 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Bastion Premium SKU secures customers’ highly sensitive workloads with advanced monitoring and security features"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "kubernetesmetadataandlogsfilteringpublicpreview"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/kubernetesmetadataandlogsfilteringpublicpreview/",
-          "category": [
-            "Azure Monitor",
-            "Azure Kubernetes Service",
-            "Feature",
-            "Container Insights",
-            "Microsoft Build"
-          ],
-          "title": "Public Preview: Kubernetes Metadata and Logs Filtering in Azure Monitor - Container Insights",
-          "description": "Kubernetes Metadata and Logs Filtering is now in Public Preview. Gain richer context and improved visibility into their workloads!",
-          "pubDate": "Wed, 29 May 2024 20:00:01 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Kubernetes Metadata and Logs Filtering is now in Public Preview. Gain richer context and improved visibility into their workloads!"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-netapp-files-backup"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-backup/",
-          "title": "General Availability: Azure NetApp Files backup",
-          "description": "Azure NetApp Files backup expands the data protection capabilities of Azure NetApp Files by providing fully managed backup solution for long-term snapshot archive, recovery, and compliance.",
-          "pubDate": "Wed, 29 May 2024 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure NetApp Files backup expands the data protection capabilities of Azure NetApp Files by providing fully managed backup solution for long-term snapshot archive, recovery, and compliance."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-load-balancer-health-event-logs"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-health-event-logs/",
-          "title": "Public preview: Azure Load Balancer health event logs",
-          "description": "Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health.",
-          "pubDate": "Wed, 29 May 2024 17:00:00 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "generally-available-azure-chaos-studio-supports-a-new-pause-process-fault-for-windows-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-chaos-studio-supports-a-new-pause-process-fault-for-windows-virtual-machines/",
-          "title": "Generally Available: Azure Chaos Studio supports a new Pause Process fault for Windows virtual machines",
-          "description": "Azure Chaos Studio supports a new Pause Process fault for Windows virtual machines.",
-          "pubDate": "Tue, 28 May 2024 18:00:18 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Chaos Studio supports a new Pause Process fault for Windows virtual machines."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "advanced-container-networking-services"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/advanced-container-networking-services/",
-          "category": "#Azure Kubernetes Service (AKS) #Virtual Network #Azure Monitor #Features #Services #Container Networking #Hubble #Observability #ebpf #O11y",
-          "title": "Public preview: Advanced Container Networking Services for Azure Kubernetes Services (AKS)",
-          "description": "Advanced Container Networking Services for Azure Kubernetes Service (AKS) is a suite of services that tackles observability, security, and compliance challenges in your containerized applications. Gain deep insights with Advanced Network Observability, our first feature of the suite that unlocks Hubble metrics, CLI, and UI for powerful traffic monitoring and performance optimization.",
-          "pubDate": "Tue, 28 May 2024 17:03:11 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Advanced Container Networking Services for Azure Kubernetes Service (AKS) is a suite of services that tackles observability, security, and compliance challenges in your containerized applications. Gain deep insights with Advanced Network Observability, our first feature of the suite that unlocks Hubble metrics, CLI, and UI for powerful traffic monitoring and performance optimization."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-netapp-files-support-for-large-volumes-up-to-500tib-in-size"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-large-volumes-up-to-500tib-in-size/",
-          "category": [
-            "Azure NetApp Files",
-            "Features",
-            "Services"
-          ],
-          "title": "General availability: Azure NetApp Files support for large volumes up to 500TiB in size",
-          "description": "You can now create Azure NetApp Files large volumes between 50TiB to 500TiB in size.",
-          "pubDate": "Tue, 28 May 2024 17:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "You can now create Azure NetApp Files large volumes between 50TiB to 500TiB in size."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary/",
-          "title": "General availability: Activity log alerts can now run in EU Data Boundary",
-          "description": "Activity log alert rules can now be saved in European regions, ensuring the alert metadata and processing remains within EU Data Boundary.",
-          "pubDate": "Tue, 28 May 2024 16:00:29 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Activity log alert rules can now be saved in European regions, ensuring the alert metadata and processing remains within EU Data Boundary."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-vm-hibernation-general-purpose"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-vm-hibernation-general-purpose/",
-          "title": "General Availability: VM Hibernation for General Purpose VMs",
-          "description": "Hibernate VMs when not in use to save compute costs, while persisting the in-memory state.",
-          "pubDate": "Tue, 28 May 2024 16:00:23 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Hibernate VMs when not in use to save compute costs, while persisting the in-memory state."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "general-availability-azure-api-center-extension-for-vs-code"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-api-center-extension-for-vs-code/",
-          "category": "api manageme",
-          "title": "General Availability: Azure API Center Extension for VS Code",
-          "description": "The Azure API Center extension for Visual Studio Code is now generally available. You can use this extension to build, discover, try, and consume APIs in your API center.",
-          "pubDate": "Tue, 28 May 2024 16:00:17 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Azure API Center extension for Visual Studio Code is now generally available. You can use this extension to build, discover, try, and consume APIs in your API center."
-          },
-          "content:encoded": null
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -249,7 +40,7 @@
             "#text": "visual-studio-code-extension-for-sazure-web-pubsub-now-in-preview"
           },
           "link": "https://azure.microsoft.com/en-us/updates/visual-studio-code-extension-for-sazure-web-pubsub-now-in-preview/",
-          "title": "Visual Studio Code extension for Azure Web PubSub now in preview",
+          "title": "Visual Studio Code extension for sAzure Web PubSub now in preview",
           "description": "New option helps developers manage Web PubSub resources",
           "pubDate": "Mon, 27 May 2024 16:00:33 Z",
           "atom:content": {
@@ -959,7 +750,7 @@
             "#text": "public-preview-sdk-type-bindings-for-azure-blog-storage-with-azure-functions-in-python"
           },
           "link": "https://azure.microsoft.com/en-us/updates/public-preview-sdk-type-bindings-for-azure-blog-storage-with-azure-functions-in-python/",
-          "title": "Public preview: SDK type bindings for Azure Blob Storage with Azure Functions in Python",
+          "title": "Public preview: SDK type bindings for Azure Blog Storage with Azure Functions in Python",
           "description": "SDK type bindings for Azure Blob Storage with Azure Functions in Python allow you to easily integrate event and data sources with function applications.",
           "pubDate": "Tue, 21 May 2024 16:00:26 Z",
           "atom:content": {
@@ -1872,16 +1663,16 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico"
+            "#text": "public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration"
           },
-          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/",
-          "category": "#mexicocentral #microsoftdatacenters",
-          "title": "General Availability: Microsoft Azure now available from new cloud region in Mexico",
-          "description": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico.",
-          "pubDate": "Tue, 07 May 2024 16:35:52 Z",
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration/",
+          "category": "Virtual Machine Scale Sets; Standby Pools",
+          "title": "Public preview: Standby pools for Virtual Machine Scale Sets with flexible orchestration",
+          "description": "Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance.",
+          "pubDate": "Tue, 07 May 2024 17:00:21 Z",
           "atom:content": {
             "@type": "text",
-            "#text": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico."
+            "#text": "Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance."
           },
           "content:encoded": null
         },
@@ -1927,6 +1718,22 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Storage Actions is a fully managed platform that helps you automate data management operations for object storage and data lakes. The preview is now available in 14 more regions."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/",
+          "category": "#mexicocentral #microsoftdatacenters",
+          "title": "General Availability: Microsoft Azure now available from new cloud region in Mexico",
+          "description": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico.",
+          "pubDate": "Mon, 06 May 2024 19:00:07 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Microsoft has announced the opening of its first hyper-scale cloud region in Mexico."
           },
           "content:encoded": null
         },
@@ -2514,7 +2321,7 @@
           "category": "Alerts",
           "title": "GA: Azure Monitor log search alerts support managed identities",
           "description": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.",
-          "pubDate": "Thu, 18 Apr 2024 17:00:04 Z",
+          "pubDate": "Thu, 18 Apr 2024 17:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials."
@@ -2808,7 +2615,7 @@
           "link": "https://azure.microsoft.com/en-us/updates/alt-fairfax/",
           "title": "Azure Load Testing availability in Fairfax (USGov Virginia)",
           "description": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process.",
-          "pubDate": "Tue, 09 Apr 2024 16:00:10 Z",
+          "pubDate": "Tue, 09 Apr 2024 16:00:02 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process."
@@ -3015,7 +2822,7 @@
           "category": "Azure Backup",
           "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
           "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
-          "pubDate": "Mon, 01 Apr 2024 16:00:07 Z",
+          "pubDate": "Mon, 01 Apr 2024 16:00:06 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
@@ -3031,7 +2838,7 @@
           "category": "Azure Database for PostgreSQL; Azure Backup",
           "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
           "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
-          "pubDate": "Mon, 01 Apr 2024 14:00:06 Z",
+          "pubDate": "Mon, 01 Apr 2024 14:00:05 Z",
           "atom:content": {
             "@type": "text",
             "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
@@ -3111,6 +2918,196 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure AI Document Intelligence v2.0 API will be retired on 31 August 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024-2"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024-2/",
+          "title": "Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024.",
+          "description": "Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024.",
+          "pubDate": "Fri, 29 Mar 2024 23:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price/",
+          "title": "We're retiring Memory Optimized Data Flows in Azure Data Factory - use General Purpose for better performance at a lower price.",
+          "description": "We're retiring Memory Optimized Data Flows in Azure Data Factory",
+          "pubDate": "Fri, 29 Mar 2024 23:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We're retiring Memory Optimized Data Flows in Azure Data Factory"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024/",
+          "title": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024",
+          "description": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won't be possible to use the feature. Please transition to a JSON, AVRO, or CSV built-in deserializer by that date.",
+          "pubDate": "Fri, 29 Mar 2024 23:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won't be possible to use the feature. Please transition to a JSON, AVRO, or CSV built-in deserializer by that date."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "hdinsight5retire"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/hdinsight5retire/",
+          "category": "HDInsight",
+          "title": "Azure HDInsight 5.0 will be retired on 31 March 2025",
+          "description": "Azure HDInsight 5.0 for cluster shapes Kafka, Interactive Query, and Spark will retire on 31 March 2025.  HDInsight, 5.1 is Generally available from November 1, 2023, this release contains all the latest versions of supported software. It comes with all the improvements made in open-source versions and the integrations from Microsoft.",
+          "pubDate": "Fri, 29 Mar 2024 23:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure HDInsight 5.0 for cluster shapes Kafka, Interactive Query, and Spark will retire on 31 March 2025.  HDInsight, 5.1 is Generally available from November 1, 2023, this release contains all the latest versions of supported software. It comes with all the improvements made in open-source versions and the integrations from Microsoft."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "ws2022-retirement-aks"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/ws2022-retirement-aks/",
+          "title": "Retirement notice: Windows Server 2022 will retire with k8s 1.34 in March 2027",
+          "description": "Windows Server 2022 will be retired on 15 March 2027",
+          "pubDate": "Fri, 29 Mar 2024 23:00:34 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Windows Server 2022 will be retired on 15 March 2027"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025/",
+          "title": "Retirement notice: The legacy Azure Storage C++ client libraries will be retired on 29 March 2025",
+          "description": "Legacy Azure Storage C++ client libraries will be retired on 29 March 2025. Before that date, you’ll need to transition to the latest version of the Azure Storage C++ client libraries.",
+          "pubDate": "Fri, 29 Mar 2024 23:00:34 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Legacy Azure Storage C++ client libraries will be retired on 29 March 2025. Before that date, you’ll need to transition to the latest version of the Azure Storage C++ client libraries."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-maps-web-sdk-map-control-version-20x-and-azure-maps-service-module-will-be-retired-on-30-september-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-web-sdk-map-control-version-20x-and-azure-maps-service-module-will-be-retired-on-30-september-2026/",
+          "title": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026",
+          "description": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026",
+          "pubDate": "Fri, 29 Mar 2024 23:00:33 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-support-for-net-6-ends-on-12-november-2024-upgrade-your-azure-functions-apps-to-net-8"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-support-for-net-6-ends-on-12-november-2024-upgrade-your-azure-functions-apps-to-net-8/",
+          "title": "Retirement: Support for .NET 6 ends on 12 November 2024—upgrade your Azure Functions apps to .NET 8",
+          "description": "Upgrade your Azure Functions apps to .NET 8",
+          "pubDate": "Fri, 29 Mar 2024 23:00:33 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Upgrade your Azure Functions apps to .NET 8"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026/",
+          "title": "Retirement: Support for the in-process model for .NET apps in Azure Functions ends 10 November 2026.",
+          "description": "Migrate your .NET apps in Azure Functions to the isolated worker model",
+          "pubDate": "Fri, 29 Mar 2024 23:00:32 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Migrate your .NET apps in Azure Functions to the isolated worker model"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025/",
+          "category": [
+            "Retirements",
+            "Virtual Machines"
+          ],
+          "title": "Standard_NC6s_v3, Standard_NC12s_v3 and Standard_NC24s_v3 Azure virtual machines will be retired on September 30, 2025",
+          "description": "Standard_NC6s_v3, Standard_NC12s_v3 and Standard_NC24s_v3 Azure virtual machines will be retired on September 30, 2025",
+          "pubDate": "Fri, 29 Mar 2024 23:00:31 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Standard_NC6s_v3, Standard_NC12s_v3 and Standard_NC24s_v3 Azure virtual machines will be retired on September 30, 2025"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "standardnc24rsv3-virtual-machines-will-be-retired-on-march-31st-2025"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/standardnc24rsv3-virtual-machines-will-be-retired-on-march-31st-2025/",
+          "category": [
+            "Virtual Machines",
+            "Retirements"
+          ],
+          "title": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025",
+          "description": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025",
+          "pubDate": "Fri, 29 Mar 2024 23:00:31 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "support-for-ubuntu-2004-lts-for-batch-pools-will-be-retired-on-23-april-2025"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/support-for-ubuntu-2004-lts-for-batch-pools-will-be-retired-on-23-april-2025/",
+          "category": "Batch",
+          "title": "Support for Ubuntu 20.04 LTS for Batch pools will be retired on 23 April 2025",
+          "description": "End of life announcement for Ubuntu 20.04 LTS support for Azure Batch pools on 23 April 2025",
+          "pubDate": "Fri, 29 Mar 2024 23:00:30 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "End of life announcement for Ubuntu 20.04 LTS support for Azure Batch pools on 23 April 2025"
           },
           "content:encoded": null
         }
