@@ -12,13 +12,126 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 30 May 2024 18:19:58 Z",
+      "lastBuildDate": "Thu, 30 May 2024 19:13:04 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "action-groups-email-resource-manager-role"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/action-groups-email-resource-manager-role/",
+          "category": "Azure Monitor; Action Groups; Feature; Services",
+          "title": "Feature Update: Azure Action Groups",
+          "description": "Customers using action groups with the notification type Email Resource Manager Role may see that different or more users are getting emails than were previously.",
+          "pubDate": "Thu, 30 May 2024 18:32:55 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Customers using action groups with the notification type Email Resource Manager Role may see that different or more users are getting emails than were previously."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-load-balancer-now-supports-admin-state"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-now-supports-admin-state/",
+          "title": "Public preview: Azure Load Balancer now supports Admin State",
+          "description": "Override Azure Load Balancer’s health probe behavior on a per backend pool instance basis using the new Load Balancer Admin State feature to make taking your VM out of rotation for maintenance easy.",
+          "pubDate": "Thu, 30 May 2024 17:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Override Azure Load Balancer’s health probe behavior on a per backend pool instance basis using the new Load Balancer Admin State feature to make taking your VM out of rotation for maintenance easy."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-netapp-files-support-for-active-directory-connection-per-netapp-account"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-support-for-active-directory-connection-per-netapp-account/",
+          "title": "Public preview: Azure NetApp Files support for Active Directory connection per NetApp account",
+          "description": "Azure NetApp Files support for one Active Directory connection per NetApp account now enables connecting a NetApp account to its own distinct Active Directory Forest and Domain. Azure NetApp Files can now be used with more than one Active Directory Forest and Domain in a region under a subscription.",
+          "pubDate": "Thu, 30 May 2024 17:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files support for one Active Directory connection per NetApp account now enables connecting a NetApp account to its own distinct Active Directory Forest and Domain. Azure NetApp Files can now be used with more than one Active Directory Forest and Domain in a region under a subscription."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview/",
+          "title": "Azure Virtual Network Manager’s virtual network verifier is now in public preview",
+          "description": "Azure Virtual Network Manager’s virtual network verifier feature is now in public preview, enabling you to check if your network policies allow or disallow traffic between your Azure network resources.",
+          "pubDate": "Thu, 30 May 2024 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network Manager’s virtual network verifier feature is now in public preview, enabling you to check if your network policies allow or disallow traffic between your Azure network resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "kubernetesmetadataandlogsfilteringpublicpreview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/kubernetesmetadataandlogsfilteringpublicpreview/",
+          "category": [
+            "Azure Monitor",
+            "Azure Kubernetes Service",
+            "Feature",
+            "Container Insights",
+            "Microsoft Build"
+          ],
+          "title": "Public Preview: Kubernetes Metadata and Logs Filtering in Azure Monitor - Container Insights",
+          "description": "Kubernetes Metadata and Logs Filtering is now in Public Preview. Gain richer context and improved visibility into their workloads!",
+          "pubDate": "Wed, 29 May 2024 20:00:01 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Kubernetes Metadata and Logs Filtering is now in Public Preview. Gain richer context and improved visibility into their workloads!"
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-netapp-files-backup"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-backup/",
+          "title": "General Availability: Azure NetApp Files backup",
+          "description": "Azure NetApp Files backup expands the data protection capabilities of Azure NetApp Files by providing fully managed backup solution for long-term snapshot archive, recovery, and compliance.",
+          "pubDate": "Wed, 29 May 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure NetApp Files backup expands the data protection capabilities of Azure NetApp Files by providing fully managed backup solution for long-term snapshot archive, recovery, and compliance."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-load-balancer-health-event-logs"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-load-balancer-health-event-logs/",
+          "title": "Public preview: Azure Load Balancer health event logs",
+          "description": "Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health.",
+          "pubDate": "Wed, 29 May 2024 17:00:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2994,120 +3107,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Windows Server 2022 will be retired on 15 March 2027"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-notice-the-legacy-azure-storage-c-client-libraries-will-be-retired-on-29-march-2025/",
-          "title": "Retirement notice: The legacy Azure Storage C++ client libraries will be retired on 29 March 2025",
-          "description": "Legacy Azure Storage C++ client libraries will be retired on 29 March 2025. Before that date, you’ll need to transition to the latest version of the Azure Storage C++ client libraries.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:34 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Legacy Azure Storage C++ client libraries will be retired on 29 March 2025. Before that date, you’ll need to transition to the latest version of the Azure Storage C++ client libraries."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-maps-web-sdk-map-control-version-20x-and-azure-maps-service-module-will-be-retired-on-30-september-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-maps-web-sdk-map-control-version-20x-and-azure-maps-service-module-will-be-retired-on-30-september-2026/",
-          "title": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026",
-          "description": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026",
-          "pubDate": "Fri, 29 Mar 2024 23:00:33 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Maps Web SDK Map Control version 2.0.x and Azure Maps Service Module will be retired on 30 September 2026"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-support-for-net-6-ends-on-12-november-2024-upgrade-your-azure-functions-apps-to-net-8"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-support-for-net-6-ends-on-12-november-2024-upgrade-your-azure-functions-apps-to-net-8/",
-          "title": "Retirement: Support for .NET 6 ends on 12 November 2024—upgrade your Azure Functions apps to .NET 8",
-          "description": "Upgrade your Azure Functions apps to .NET 8",
-          "pubDate": "Fri, 29 Mar 2024 23:00:33 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Upgrade your Azure Functions apps to .NET 8"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/retirement-support-for-the-inprocess-model-for-net-apps-in-azure-functions-ends-10-november-2026/",
-          "title": "Retirement: Support for the in-process model for .NET apps in Azure Functions ends 10 November 2026.",
-          "description": "Migrate your .NET apps in Azure Functions to the isolated worker model",
-          "pubDate": "Fri, 29 Mar 2024 23:00:32 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Migrate your .NET apps in Azure Functions to the isolated worker model"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/standardnc6sv3-standardnc12sv3-and-standardnc24sv3-azure-virtual-machines-will-be-retired-on-september-30-2025/",
-          "category": [
-            "Retirements",
-            "Virtual Machines"
-          ],
-          "title": "Standard_NC6s_v3, Standard_NC12s_v3 and Standard_NC24s_v3 Azure virtual machines will be retired on September 30, 2025",
-          "description": "Standard_NC6s_v3, Standard_NC12s_v3 and Standard_NC24s_v3 Azure virtual machines will be retired on September 30, 2025",
-          "pubDate": "Fri, 29 Mar 2024 23:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Standard_NC6s_v3, Standard_NC12s_v3 and Standard_NC24s_v3 Azure virtual machines will be retired on September 30, 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "standardnc24rsv3-virtual-machines-will-be-retired-on-march-31st-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/standardnc24rsv3-virtual-machines-will-be-retired-on-march-31st-2025/",
-          "category": [
-            "Virtual Machines",
-            "Retirements"
-          ],
-          "title": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025",
-          "description": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025",
-          "pubDate": "Fri, 29 Mar 2024 23:00:31 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Standard_NC24rs_v3 virtual machines will be retired on March 31st, 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "support-for-ubuntu-2004-lts-for-batch-pools-will-be-retired-on-23-april-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/support-for-ubuntu-2004-lts-for-batch-pools-will-be-retired-on-23-april-2025/",
-          "category": "Batch",
-          "title": "Support for Ubuntu 20.04 LTS for Batch pools will be retired on 23 April 2025",
-          "description": "End of life announcement for Ubuntu 20.04 LTS support for Azure Batch pools on 23 April 2025",
-          "pubDate": "Fri, 29 Mar 2024 23:00:30 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of life announcement for Ubuntu 20.04 LTS support for Azure Batch pools on 23 April 2025"
           },
           "content:encoded": null
         }
