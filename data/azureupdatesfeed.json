@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 30 May 2024 19:13:04 Z",
+      "lastBuildDate": "Thu, 30 May 2024 20:16:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-analyze-data-using-log-analytics-simple-mode"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-analyze-data-using-log-analytics-simple-mode/",
+          "category": "Azure Monitor; Log Analytics; AzurePortal",
+          "title": "Public Preview: Analyze data using Log Analytics Simple mode",
+          "description": "Azure Monitor Logs is excited to introduce the next leap in log experience: Simple mode. \nSimple Mode allows users to utilize Azure Monitor Logs in a simple, point-and-click experience, eliminating the need for KQL for most common use cases.",
+          "pubDate": "Thu, 30 May 2024 19:30:51 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Monitor Logs is excited to introduce the next leap in log experience: Simple mode. \nSimple Mode allows users to utilize Azure Monitor Logs in a simple, point-and-click experience, eliminating the need for KQL for most common use cases."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -129,6 +145,103 @@
           "atom:content": {
             "@type": "text",
             "#text": "Azure Load Balancer now supports health event logs to help you identify and troubleshoot ongoing issues affecting your load balancer resource’s health."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "generally-available-azure-chaos-studio-supports-a-new-pause-process-fault-for-windows-virtual-machines"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/generally-available-azure-chaos-studio-supports-a-new-pause-process-fault-for-windows-virtual-machines/",
+          "title": "Generally Available: Azure Chaos Studio supports a new Pause Process fault for Windows virtual machines",
+          "description": "Azure Chaos Studio supports a new Pause Process fault for Windows virtual machines.",
+          "pubDate": "Tue, 28 May 2024 18:00:18 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Chaos Studio supports a new Pause Process fault for Windows virtual machines."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "advanced-container-networking-services"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/advanced-container-networking-services/",
+          "category": "#Azure Kubernetes Service (AKS) #Virtual Network #Azure Monitor #Features #Services #Container Networking #Hubble #Observability #ebpf #O11y",
+          "title": "Public preview: Advanced Container Networking Services for Azure Kubernetes Services (AKS)",
+          "description": "Advanced Container Networking Services for Azure Kubernetes Service (AKS) is a suite of services that tackles observability, security, and compliance challenges in your containerized applications. Gain deep insights with Advanced Network Observability, our first feature of the suite that unlocks Hubble metrics, CLI, and UI for powerful traffic monitoring and performance optimization.",
+          "pubDate": "Tue, 28 May 2024 17:03:11 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Advanced Container Networking Services for Azure Kubernetes Service (AKS) is a suite of services that tackles observability, security, and compliance challenges in your containerized applications. Gain deep insights with Advanced Network Observability, our first feature of the suite that unlocks Hubble metrics, CLI, and UI for powerful traffic monitoring and performance optimization."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-netapp-files-support-for-large-volumes-up-to-500tib-in-size"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-support-for-large-volumes-up-to-500tib-in-size/",
+          "category": [
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "General availability: Azure NetApp Files support for large volumes up to 500TiB in size",
+          "description": "You can now create Azure NetApp Files large volumes between 50TiB to 500TiB in size.",
+          "pubDate": "Tue, 28 May 2024 17:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "You can now create Azure NetApp Files large volumes between 50TiB to 500TiB in size."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-activity-log-alerts-can-now-run-in-eu-data-boundary/",
+          "title": "General availability: Activity log alerts can now run in EU Data Boundary",
+          "description": "Activity log alert rules can now be saved in European regions, ensuring the alert metadata and processing remains within EU Data Boundary.",
+          "pubDate": "Tue, 28 May 2024 16:00:29 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Activity log alert rules can now be saved in European regions, ensuring the alert metadata and processing remains within EU Data Boundary."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-vm-hibernation-general-purpose"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-vm-hibernation-general-purpose/",
+          "title": "General Availability: VM Hibernation for General Purpose VMs",
+          "description": "Hibernate VMs when not in use to save compute costs, while persisting the in-memory state.",
+          "pubDate": "Tue, 28 May 2024 16:00:23 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Hibernate VMs when not in use to save compute costs, while persisting the in-memory state."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-azure-api-center-extension-for-vs-code"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-azure-api-center-extension-for-vs-code/",
+          "category": "api manageme",
+          "title": "General Availability: Azure API Center Extension for VS Code",
+          "description": "The Azure API Center extension for Visual Studio Code is now generally available. You can use this extension to build, discover, try, and consume APIs in your API center.",
+          "pubDate": "Tue, 28 May 2024 16:00:17 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "The Azure API Center extension for Visual Studio Code is now generally available. You can use this extension to build, discover, try, and consume APIs in your API center."
           },
           "content:encoded": null
         },
@@ -3000,113 +3113,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Long Audio API will be retired on March 31, 2027"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-cyclecloud-support-for-chef-runlists-and-cookbooks-in-clusterinit-projects-is-ending-on-31-march-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azure-cyclecloud-support-for-chef-runlists-and-cookbooks-in-clusterinit-projects-is-ending-on-31-march-2025/",
-          "category": "CycleCloud",
-          "title": "Azure CycleCloud support for Chef run_lists and cookbooks in cluster-init projects is ending on 31 March 2025",
-          "description": "End of Life Announcement for Chef Run_lists and Cookbooks in Azure CycleCloud Cluster-Init Projects on 31 March 2025",
-          "pubDate": "Fri, 29 Mar 2024 23:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "End of Life Announcement for Chef Run_lists and Cookbooks in Azure CycleCloud Cluster-Init Projects on 31 March 2025"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "migrate-to-azure-ai-document-intelligence-v31-ga-version"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/migrate-to-azure-ai-document-intelligence-v31-ga-version/",
-          "title": "Migrate to Azure AI Document Intelligence v3.1 GA version",
-          "description": "Azure AI Document Intelligence v2.0 API will be retired on 31 August 2026",
-          "pubDate": "Fri, 29 Mar 2024 23:00:37 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure AI Document Intelligence v2.0 API will be retired on 31 August 2026"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024-2"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024-2/",
-          "title": "Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024.",
-          "description": "Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Custom .Net deserializer for Azure Stream Analytics will be retired on 30 September 2024."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/were-retiring-memory-optimized-data-flows-in-azure-data-factory-use-general-purpose-for-better-performance-at-a-lower-price/",
-          "title": "We're retiring Memory Optimized Data Flows in Azure Data Factory - use General Purpose for better performance at a lower price.",
-          "description": "We're retiring Memory Optimized Data Flows in Azure Data Factory",
-          "pubDate": "Fri, 29 Mar 2024 23:00:36 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "We're retiring Memory Optimized Data Flows in Azure Data Factory"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024/",
-          "title": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024",
-          "description": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won't be possible to use the feature. Please transition to a JSON, AVRO, or CSV built-in deserializer by that date.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won't be possible to use the feature. Please transition to a JSON, AVRO, or CSV built-in deserializer by that date."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "hdinsight5retire"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/hdinsight5retire/",
-          "category": "HDInsight",
-          "title": "Azure HDInsight 5.0 will be retired on 31 March 2025",
-          "description": "Azure HDInsight 5.0 for cluster shapes Kafka, Interactive Query, and Spark will retire on 31 March 2025.  HDInsight, 5.1 is Generally available from November 1, 2023, this release contains all the latest versions of supported software. It comes with all the improvements made in open-source versions and the integrations from Microsoft.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure HDInsight 5.0 for cluster shapes Kafka, Interactive Query, and Spark will retire on 31 March 2025.  HDInsight, 5.1 is Generally available from November 1, 2023, this release contains all the latest versions of supported software. It comes with all the improvements made in open-source versions and the integrations from Microsoft."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ws2022-retirement-aks"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ws2022-retirement-aks/",
-          "title": "Retirement notice: Windows Server 2022 will retire with k8s 1.34 in March 2027",
-          "description": "Windows Server 2022 will be retired on 15 March 2027",
-          "pubDate": "Fri, 29 Mar 2024 23:00:34 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Windows Server 2022 will be retired on 15 March 2027"
           },
           "content:encoded": null
         }
