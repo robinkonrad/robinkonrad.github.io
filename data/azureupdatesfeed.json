@@ -12,13 +12,43 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Thu, 30 May 2024 15:15:38 Z",
+      "lastBuildDate": "Thu, 30 May 2024 16:18:09 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-s-virtual-network-verifier-is-now-in-public-preview/",
+          "title": "Azure Virtual Network Manager’s virtual network verifier is now in public preview",
+          "description": "Azure Virtual Network Manager’s virtual network verifier feature is now in public preview, enabling you to check if your network policies allow or disallow traffic between your Azure network resources.",
+          "pubDate": "Thu, 30 May 2024 16:00:13 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Virtual Network Manager’s virtual network verifier feature is now in public preview, enabling you to check if your network policies allow or disallow traffic between your Azure network resources."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-bastion-premium"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-bastion-premium/",
+          "title": "Public preview: Azure Bastion Premium",
+          "description": "Azure Bastion Premium SKU secures customers’ highly sensitive workloads with advanced monitoring and security features",
+          "pubDate": "Thu, 30 May 2024 16:00:12 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Bastion Premium SKU secures customers’ highly sensitive workloads with advanced monitoring and security features"
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3081,37 +3111,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We're retiring Memory Optimized Data Flows in Azure Data Factory"
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/custom-net-deserializer-for-azure-stream-analytics-will-be-retired-on-30-september-2024/",
-          "title": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024",
-          "description": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won't be possible to use the feature. Please transition to a JSON, AVRO, or CSV built-in deserializer by that date.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Custom .net deserializer for Azure Stream Analytics will be retired on 30 September 2024. After that date, it won't be possible to use the feature. Please transition to a JSON, AVRO, or CSV built-in deserializer by that date."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "hdinsight5retire"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/hdinsight5retire/",
-          "category": "HDInsight",
-          "title": "Azure HDInsight 5.0 will be retired on 31 March 2025",
-          "description": "Azure HDInsight 5.0 for cluster shapes Kafka, Interactive Query, and Spark will retire on 31 March 2025.  HDInsight, 5.1 is Generally available from November 1, 2023, this release contains all the latest versions of supported software. It comes with all the improvements made in open-source versions and the integrations from Microsoft.",
-          "pubDate": "Fri, 29 Mar 2024 23:00:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure HDInsight 5.0 for cluster shapes Kafka, Interactive Query, and Spark will retire on 31 March 2025.  HDInsight, 5.1 is Generally available from November 1, 2023, this release contains all the latest versions of supported software. It comes with all the improvements made in open-source versions and the integrations from Microsoft."
           },
           "content:encoded": null
         }
