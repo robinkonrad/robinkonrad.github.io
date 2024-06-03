@@ -12,13 +12,29 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 03 Jun 2024 17:14:08 Z",
+      "lastBuildDate": "Mon, 03 Jun 2024 18:20:00 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "added-support-for-azure-monitor-log-search-alert-rules-in-resource-health"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/added-support-for-azure-monitor-log-search-alert-rules-in-resource-health/",
+          "category": "Alerts",
+          "title": "Added support for Azure Monitor log search alert rules in Resource Health",
+          "description": "Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules.",
+          "pubDate": "Mon, 03 Jun 2024 17:21:00 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3098,22 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mysql-flexibleserverlongtermretenttion"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/mysql-flexibleserverlongtermretenttion/",
-          "category": "Azure Backup",
-          "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
-          "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
-          "pubDate": "Mon, 01 Apr 2024 16:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
           },
           "content:encoded": null
         }

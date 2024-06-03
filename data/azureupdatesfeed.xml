@@ -6,11 +6,23 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2024 17:14:08 Z</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 18:20:00 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
+    <item>
+      <guid
+        isPermaLink="false">added-support-for-azure-monitor-log-search-alert-rules-in-resource-health</guid>
+      <link>https://azure.microsoft.com/en-us/updates/added-support-for-azure-monitor-log-search-alert-rules-in-resource-health/</link>
+      <category>Alerts</category>
+      <title>Added support for Azure Monitor log search alert rules in Resource Health</title>
+      <description>Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules.</description>
+      <pubDate>Mon, 03 Jun 2024 17:21:00 Z</pubDate>
+      <atom:content
+        type="text">Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
     <item>
       <guid
         isPermaLink="false">log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024</guid>
@@ -2293,18 +2305,6 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Mon, 01 Apr 2024 18:00:08 Z</pubDate>
       <atom:content
         type="text">ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">mysql-flexibleserverlongtermretenttion</guid>
-      <link>https://azure.microsoft.com/en-us/updates/mysql-flexibleserverlongtermretenttion/</link>
-      <category>Azure Backup</category>
-      <title>Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server</title>
-      <description>Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</description>
-      <pubDate>Mon, 01 Apr 2024 16:00:06 Z</pubDate>
-      <atom:content
-        type="text">Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
