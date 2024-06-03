@@ -12,13 +12,45 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Mon, 03 Jun 2024 15:15:50 Z",
+      "lastBuildDate": "Mon, 03 Jun 2024 16:18:28 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024/",
+          "category": "Alerts",
+          "title": "Log search alert rules using linked storage will require using a managed identity staring July 2024",
+          "description": "Starting July 2024, alert rules using linked storage will require a managed identity to access the linked storage. This requirement will be enforced on alert rules created with API version 2023-12-01 or newer. Creating or updating linked storage rules using an older API version will be blocked.",
+          "pubDate": "Mon, 03 Jun 2024 16:12:19 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Starting July 2024, alert rules using linked storage will require a managed identity to access the linked storage. This requirement will be enforced on alert rules created with API version 2023-12-01 or newer. Creating or updating linked storage rules using an older API version will be blocked."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-audit-logging-in-azure-api-management-developer-portal"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-audit-logging-in-azure-api-management-developer-portal/",
+          "category": "api manageme",
+          "title": "General Availability: Audit logging in Azure API Management developer portal",
+          "description": "We are excited to announce that audit logging for user actions in the Azure API Management developer portal is now generally available. API administrators and managers can now enable a diagnostic setting in Azure API Management to send developer portal audit logs to a storage account, event hub, or Log Analytics workspace.",
+          "pubDate": "Mon, 03 Jun 2024 16:00:10 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "We are excited to announce that audit logging for user actions in the Azure API Management developer portal is now generally available. API administrators and managers can now enable a diagnostic setting in Azure API Management to send developer portal audit logs to a storage account, event hub, or Log Analytics workspace."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3082,37 +3114,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azurefiles-vaultedbackups"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azurefiles-vaultedbackups/",
-          "category": "Azure Database for PostgreSQL; Azure Backup",
-          "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
-          "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
-          "pubDate": "Mon, 01 Apr 2024 14:00:05 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
-          "title": "Begin using Azure Monitor–based dashboards in Azure API Management before the built-in analytics dashboards are retired on 15 March 2027",
-          "description": "The classic built-in analytics dashboards will be retired on 15 March 2027.",
-          "pubDate": "Fri, 29 Mar 2024 23:19:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The classic built-in analytics dashboards will be retired on 15 March 2027."
           },
           "content:encoded": null
         }
