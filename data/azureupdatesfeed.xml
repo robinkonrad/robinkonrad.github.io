@@ -6,47 +6,11 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Jun 2024 22:14:38 Z</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 23:16:08 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
-    <item>
-      <guid
-        isPermaLink="false">added-support-for-azure-monitor-log-search-alert-rules-in-resource-health</guid>
-      <link>https://azure.microsoft.com/en-us/updates/added-support-for-azure-monitor-log-search-alert-rules-in-resource-health/</link>
-      <category>Alerts</category>
-      <title>Added support for Azure Monitor log search alert rules in Resource Health</title>
-      <description>Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules.</description>
-      <pubDate>Mon, 03 Jun 2024 17:21:00 Z</pubDate>
-      <atom:content
-        type="text">Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024/</link>
-      <category>Alerts</category>
-      <title>Log search alert rules using linked storage will require using a managed identity staring July 2024</title>
-      <description>Starting July 2024, alert rules using linked storage will require a managed identity to access the linked storage. This requirement will be enforced on alert rules created with API version 2023-12-01 or newer. Creating or updating linked storage rules using an older API version will be blocked.</description>
-      <pubDate>Mon, 03 Jun 2024 16:12:19 Z</pubDate>
-      <atom:content
-        type="text">Starting July 2024, alert rules using linked storage will require a managed identity to access the linked storage. This requirement will be enforced on alert rules created with API version 2023-12-01 or newer. Creating or updating linked storage rules using an older API version will be blocked.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-audit-logging-in-azure-api-management-developer-portal</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-audit-logging-in-azure-api-management-developer-portal/</link>
-      <category>api manageme</category>
-      <title>General Availability: Audit logging in Azure API Management developer portal  </title>
-      <description>We are excited to announce that audit logging for user actions in the Azure API Management developer portal is now generally available. API administrators and managers can now enable a diagnostic setting in Azure API Management to send developer portal audit logs to a storage account, event hub, or Log Analytics workspace.</description>
-      <pubDate>Mon, 03 Jun 2024 16:00:10 Z</pubDate>
-      <atom:content
-        type="text">We are excited to announce that audit logging for user actions in the Azure API Management developer portal is now generally available. API administrators and managers can now enable a diagnostic setting in Azure API Management to send developer portal audit logs to a storage account, event hub, or Log Analytics workspace.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
     <item>
       <guid
         isPermaLink="false">we-re-retiring-azure-time-series-insights-on-7-july-2024-transition-to-azure-data-explorer</guid>
@@ -780,7 +744,7 @@ Simple Mode allows users to utilize Azure Monitor Logs in a simple, point-and-cl
       <guid
         isPermaLink="false">public-preview-sdk-type-bindings-for-azure-blog-storage-with-azure-functions-in-python</guid>
       <link>https://azure.microsoft.com/en-us/updates/public-preview-sdk-type-bindings-for-azure-blog-storage-with-azure-functions-in-python/</link>
-      <title>Public preview: SDK type bindings for Azure Blog Storage with Azure Functions in Python </title>
+      <title>Public preview: SDK type bindings for Azure Blob Storage with Azure Functions in Python </title>
       <description>SDK type bindings for Azure Blob Storage with Azure Functions in Python allow you to easily integrate event and data sources with function applications.</description>
       <pubDate>Tue, 21 May 2024 16:00:26 Z</pubDate>
       <atom:content
@@ -1454,14 +1418,14 @@ Simple Mode allows users to utilize Azure Monitor Logs in a simple, point-and-cl
     </item>
     <item>
       <guid
-        isPermaLink="false">public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-standby-pools-for-virtual-machine-scale-sets-with-flexible-orchestration/</link>
-      <category>Virtual Machine Scale Sets; Standby Pools</category>
-      <title>Public preview: Standby pools for Virtual Machine Scale Sets with flexible orchestration</title>
-      <description>Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance. </description>
-      <pubDate>Tue, 07 May 2024 17:00:21 Z</pubDate>
+        isPermaLink="false">general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/</link>
+      <category>#mexicocentral #microsoftdatacenters</category>
+      <title>General Availability: Microsoft Azure now available from new cloud region in Mexico</title>
+      <description>Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </description>
+      <pubDate>Tue, 07 May 2024 16:35:52 Z</pubDate>
       <atom:content
-        type="text">Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration provides the ability to reduce scale out latency and increase scale out performance. </atom:content>
+        type="text">Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1495,18 +1459,6 @@ Simple Mode allows users to utilize Azure Monitor Logs in a simple, point-and-cl
       <pubDate>Tue, 07 May 2024 15:00:20 Z</pubDate>
       <atom:content
         type="text">Azure Storage Actions is a fully managed platform that helps you automate data management operations for object storage and data lakes. The preview is now available in 14 more regions.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico</guid>
-      <link>https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-now-available-from-new-cloud-region-in-mexico/</link>
-      <category>#mexicocentral #microsoftdatacenters</category>
-      <title>General Availability: Microsoft Azure now available from new cloud region in Mexico</title>
-      <description>Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </description>
-      <pubDate>Mon, 06 May 2024 19:00:07 Z</pubDate>
-      <atom:content
-        type="text">Microsoft has announced the opening of its first hyper-scale cloud region in Mexico. </atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -1939,7 +1891,7 @@ Simple Mode allows users to utilize Azure Monitor Logs in a simple, point-and-cl
       <category>Alerts</category>
       <title>GA: Azure Monitor log search alerts support managed identities</title>
       <description>A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</description>
-      <pubDate>Thu, 18 Apr 2024 17:00:05 Z</pubDate>
+      <pubDate>Thu, 18 Apr 2024 17:00:04 Z</pubDate>
       <atom:content
         type="text">A common challenge for developers is the management of credentials for applications to use when connecting to resources. Managed identities provide an automatically managed identity in Microsoft Entra ID. Applications can use managed identities to obtain Microsoft Entra tokens without having to manage any credentials.</atom:content>
       <content:encoded></content:encoded>
@@ -2157,7 +2109,7 @@ Get started with Query editor to access advanced querying capabilities within Az
       <link>https://azure.microsoft.com/en-us/updates/alt-fairfax/</link>
       <title>Azure Load Testing availability in Fairfax (USGov Virginia)</title>
       <description>Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process. </description>
-      <pubDate>Tue, 09 Apr 2024 16:00:02 Z</pubDate>
+      <pubDate>Tue, 09 Apr 2024 16:00:10 Z</pubDate>
       <atom:content
         type="text">Azure Load Testing GA in Fairfax cloud - USGov Virginia. US Government customers on the Fairfax cloud can now use Azure Load Testing to simplify their end-to-end load testing process. </atom:content>
       <content:encoded></content:encoded>
@@ -2305,6 +2257,52 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Mon, 01 Apr 2024 18:00:08 Z</pubDate>
       <atom:content
         type="text">ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">mysql-flexibleserverlongtermretenttion</guid>
+      <link>https://azure.microsoft.com/en-us/updates/mysql-flexibleserverlongtermretenttion/</link>
+      <category>Azure Backup</category>
+      <title>Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server</title>
+      <description>Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</description>
+      <pubDate>Mon, 01 Apr 2024 16:00:07 Z</pubDate>
+      <atom:content
+        type="text">Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">azurefiles-vaultedbackups</guid>
+      <link>https://azure.microsoft.com/en-us/updates/azurefiles-vaultedbackups/</link>
+      <category>Azure Database for PostgreSQL; Azure Backup</category>
+      <title>Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.</title>
+      <description>Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</description>
+      <pubDate>Mon, 01 Apr 2024 14:00:06 Z</pubDate>
+      <atom:content
+        type="text">Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15</guid>
+      <link>https://azure.microsoft.com/en-us/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/</link>
+      <title>Begin using Azure Monitor–based dashboards in Azure API Management before the built-in analytics dashboards are retired on 15 March 2027</title>
+      <description>The classic built-in analytics dashboards will be retired on 15 March 2027.</description>
+      <pubDate>Fri, 29 Mar 2024 23:19:35 Z</pubDate>
+      <atom:content
+        type="text">The classic built-in analytics dashboards will be retired on 15 March 2027.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025</guid>
+      <link>https://azure.microsoft.com/en-us/updates/migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025/</link>
+      <title>Migrate your Git Repository to automated deployments with APIOps by 15 March 2025 </title>
+      <description>The Git repository feature in Azure API Management will be retired 15 March 2025 </description>
+      <pubDate>Fri, 29 Mar 2024 23:00:38 Z</pubDate>
+      <atom:content
+        type="text">The Git repository feature in Azure API Management will be retired 15 March 2025 </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
