@@ -12,13 +12,103 @@
       "link": "https://azure.microsoft.com/en-us/updates/",
       "description": "Azure service updates",
       "language": "en-us",
-      "lastBuildDate": "Wed, 05 Jun 2024 15:14:59 Z",
+      "lastBuildDate": "Wed, 05 Jun 2024 16:18:26 Z",
       "atom:link": {
         "@href": "https://azure.microsoft.com/updates/feed/",
         "@rel": "self",
         "@type": "application/rss+xml"
       },
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-online-migration-in-migration-service-azure-database-for-postgresql"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-online-migration-in-migration-service-azure-database-for-postgresql/",
+          "title": "Public preview: Online migration in migration service Azure Database for PostgreSQL",
+          "description": "Experience seamless online migration for PostgreSQL with migration service in Azure Database for PostgreSQL.",
+          "pubDate": "Wed, 05 Jun 2024 16:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Experience seamless online migration for PostgreSQL with migration service in Azure Database for PostgreSQL."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-sql-updates-for-earlyjune-2024"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-earlyjune-2024/",
+          "title": "Public Preview: Azure SQL updates for early-June 2024",
+          "description": "Public preview enhancements and updates released for Azure SQL in early-June 2024.",
+          "pubDate": "Wed, 05 Jun 2024 16:00:36 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Public preview enhancements and updates released for Azure SQL in early-June 2024."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-multiselect-delete-in-azure-cosmos-db-with-data-explorer"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-multiselect-delete-in-azure-cosmos-db-with-data-explorer/",
+          "title": "General availability: Multi-select delete in Azure Cosmos DB with Data Explorer",
+          "description": "Delete multiple items at once now in Azure Cosmos DB with Data Explorer.",
+          "pubDate": "Wed, 05 Jun 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Delete multiple items at once now in Azure Cosmos DB with Data Explorer."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-vcorebased-azure-cosmos-db-for-mongodb-now-supports-mongo-ver-70"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-vcorebased-azure-cosmos-db-for-mongodb-now-supports-mongo-ver-70/",
+          "title": "General Availability: vCore-based Azure Cosmos DB for MongoDB now supports Mongo Ver 7.0",
+          "description": "vCore-based Azure Cosmos DB for MongoDB has expanded its capabilities and now supports Mongo Version 7.0.",
+          "pubDate": "Wed, 05 Jun 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "vCore-based Azure Cosmos DB for MongoDB has expanded its capabilities and now supports Mongo Version 7.0."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "general-availability-longterm-backup-retention-for-azure-database-for-postgresql-flexible-server"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/general-availability-longterm-backup-retention-for-azure-database-for-postgresql-flexible-server/",
+          "title": "General Availability: Long-term backup retention for Azure Database for PostgreSQL Flexible Server",
+          "description": "Long term backup retention for Azure Database for PostgreSQL– Flexible Server is now available.",
+          "pubDate": "Wed, 05 Jun 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Long term backup retention for Azure Database for PostgreSQL– Flexible Server is now available."
+          },
+          "content:encoded": null
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "public-preview-azure-cosmos-db-continuous-backup-for-accounts-using-azure-synapse-link"
+          },
+          "link": "https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-continuous-backup-for-accounts-using-azure-synapse-link/",
+          "title": "Public Preview: Azure Cosmos DB continuous backup for accounts using Azure Synapse Link",
+          "description": "Now Azure Synapse Link for Azure Cosmos DB customers can migrate to continuous backup.",
+          "pubDate": "Wed, 05 Jun 2024 16:00:35 Z",
+          "atom:content": {
+            "@type": "text",
+            "#text": "Now Azure Synapse Link for Azure Cosmos DB customers can migrate to continuous backup."
+          },
+          "content:encoded": null
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3019,99 +3109,6 @@
           "atom:content": {
             "@type": "text",
             "#text": "We're thrilled to announce the General Availability of Azure API Management's newest pricing tiers – Basic v2 and Standard v2. The Azure API Management v2 pricing tiers represent a significant leap forward, offering a comprehensive range of capabilities tailored to projects of all sizes, from small-scale endeavors to large-scale enterprise applications. Importantly, these new v2 pricing tiers are available alongside our existing Azure API Management classic pricing tiers, ensuring continuity for users. It's worth noting that the Azure API Management classic pricing tiers remain actively supported and invested in."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/ga-azure-api-management-developer-portal-unveils-enhanced-features-for-increased-developer-productivity/",
-          "category": "API Management",
-          "title": "GA: Azure API Management Developer Portal Unveils Enhanced Features for Increased Developer Productivity",
-          "description": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools.",
-          "pubDate": "Mon, 01 Apr 2024 19:22:44 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The API Management developer portal is an automatically generated, fully customizable website with the documentation of your APIs. It's where API consumers can discover your APIs, learn how to use them, request access, and try them out. We recently improved the portal editor interface to boost your productivity and enhance the interactions with your favorite features and tools."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "expressroutemetro"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/expressroutemetro/",
-          "title": "Public preview: ExpressRoute Metro for High Resiliency",
-          "description": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.",
-          "pubDate": "Mon, 01 Apr 2024 18:00:08 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mysql-flexibleserverlongtermretenttion"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/mysql-flexibleserverlongtermretenttion/",
-          "category": "Azure Backup",
-          "title": "Public preview: Azure Backup supports long term retention for backup of Azure Database for MySQL– Flexible Server",
-          "description": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server.",
-          "pubDate": "Mon, 01 Apr 2024 16:00:07 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Now you can retain backups for up to 10 years by defining your own backup and retention policy for MySQL- Flexible server."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azurefiles-vaultedbackups"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/azurefiles-vaultedbackups/",
-          "category": "Azure Database for PostgreSQL; Azure Backup",
-          "title": "Public Preview: Azure Backup enables vaulted backups for Azure Files for comprehensive data protection.",
-          "description": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack.",
-          "pubDate": "Mon, 01 Apr 2024 14:00:06 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "Azure Backup now supports transferring Azure Files backups to the vault for comprehensive protection against severe data loss scenarios like ransomware attack."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/begin-using-azure-monitor-based-dashboards-in-azure-api-management-before-the-builtin-analytics-dashboards-are-retired-on-15/",
-          "title": "Begin using Azure Monitor–based dashboards in Azure API Management before the built-in analytics dashboards are retired on 15 March 2027",
-          "description": "The classic built-in analytics dashboards will be retired on 15 March 2027.",
-          "pubDate": "Fri, 29 Mar 2024 23:19:35 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The classic built-in analytics dashboards will be retired on 15 March 2027."
-          },
-          "content:encoded": null
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025"
-          },
-          "link": "https://azure.microsoft.com/en-us/updates/migrate-your-git-repository-to-automated-deployments-with-apiops-by-15-march-2025/",
-          "title": "Migrate your Git Repository to automated deployments with APIOps by 15 March 2025",
-          "description": "The Git repository feature in Azure API Management will be retired 15 March 2025",
-          "pubDate": "Fri, 29 Mar 2024 23:00:38 Z",
-          "atom:content": {
-            "@type": "text",
-            "#text": "The Git repository feature in Azure API Management will be retired 15 March 2025"
           },
           "content:encoded": null
         }
