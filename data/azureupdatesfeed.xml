@@ -6,22 +6,11 @@
     <link>https://azure.microsoft.com/en-us/updates/</link>
     <description>Azure service updates</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2024 10:15:30 Z</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 11:12:26 Z</lastBuildDate>
     <atom:link
       href="https://azure.microsoft.com/updates/feed/"
       rel="self"
       type="application/rss+xml" />
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-sql-updates-for-earlyjune-2024</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-earlyjune-2024/</link>
-      <title>Public Preview: Azure SQL updates for early-June 2024 </title>
-      <description>Public preview enhancements and updates released for Azure SQL in early-June 2024.</description>
-      <pubDate>Wed, 05 Jun 2024 16:00:36 Z</pubDate>
-      <atom:content
-        type="text">Public preview enhancements and updates released for Azure SQL in early-June 2024.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
     <item>
       <guid
         isPermaLink="false">public-preview-online-migration-in-migration-service-azure-database-for-postgresql</guid>
@@ -31,6 +20,17 @@
       <pubDate>Wed, 05 Jun 2024 16:00:36 Z</pubDate>
       <atom:content
         type="text">Experience seamless online migration for PostgreSQL with migration service in Azure Database for PostgreSQL.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">public-preview-azure-sql-updates-for-earlyjune-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-sql-updates-for-earlyjune-2024/</link>
+      <title>Public Preview: Azure SQL updates for early-June 2024 </title>
+      <description>Public preview enhancements and updates released for Azure SQL in early-June 2024.</description>
+      <pubDate>Wed, 05 Jun 2024 16:00:36 Z</pubDate>
+      <atom:content
+        type="text">Public preview enhancements and updates released for Azure SQL in early-June 2024.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -75,6 +75,42 @@
       <pubDate>Wed, 05 Jun 2024 16:00:35 Z</pubDate>
       <atom:content
         type="text">Now Azure Synapse Link for Azure Cosmos DB customers can migrate to continuous backup.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">added-support-for-azure-monitor-log-search-alert-rules-in-resource-health</guid>
+      <link>https://azure.microsoft.com/en-us/updates/added-support-for-azure-monitor-log-search-alert-rules-in-resource-health/</link>
+      <category>Alerts</category>
+      <title>Added support for Azure Monitor log search alert rules in Resource Health</title>
+      <description>Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules.</description>
+      <pubDate>Mon, 03 Jun 2024 17:21:00 Z</pubDate>
+      <atom:content
+        type="text">Azure Resource Health helps you diagnose and get support for service problems that affect your Azure resources. Azure Resource Health now supports log search alert rules, so that you can use the activity log to check the health status of your log search alert rules.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024</guid>
+      <link>https://azure.microsoft.com/en-us/updates/log-search-alert-rules-using-linked-storage-will-require-using-a-managed-identity-staring-july-2024/</link>
+      <category>Alerts</category>
+      <title>Log search alert rules using linked storage will require using a managed identity staring July 2024</title>
+      <description>Starting July 2024, alert rules using linked storage will require a managed identity to access the linked storage. This requirement will be enforced on alert rules created with API version 2023-12-01 or newer. Creating or updating linked storage rules using an older API version will be blocked.</description>
+      <pubDate>Mon, 03 Jun 2024 16:12:19 Z</pubDate>
+      <atom:content
+        type="text">Starting July 2024, alert rules using linked storage will require a managed identity to access the linked storage. This requirement will be enforced on alert rules created with API version 2023-12-01 or newer. Creating or updating linked storage rules using an older API version will be blocked.</atom:content>
+      <content:encoded></content:encoded>
+    </item>
+    <item>
+      <guid
+        isPermaLink="false">general-availability-audit-logging-in-azure-api-management-developer-portal</guid>
+      <link>https://azure.microsoft.com/en-us/updates/general-availability-audit-logging-in-azure-api-management-developer-portal/</link>
+      <category>api manageme</category>
+      <title>General Availability: Audit logging in Azure API Management developer portal  </title>
+      <description>We are excited to announce that audit logging for user actions in the Azure API Management developer portal is now generally available. API administrators and managers can now enable a diagnostic setting in Azure API Management to send developer portal audit logs to a storage account, event hub, or Log Analytics workspace.</description>
+      <pubDate>Mon, 03 Jun 2024 16:00:10 Z</pubDate>
+      <atom:content
+        type="text">We are excited to announce that audit logging for user actions in the Azure API Management developer portal is now generally available. API administrators and managers can now enable a diagnostic setting in Azure API Management to send developer portal audit logs to a storage account, event hub, or Log Analytics workspace.</atom:content>
       <content:encoded></content:encoded>
     </item>
     <item>
@@ -2261,45 +2297,6 @@ Get started with Query editor to access advanced querying capabilities within Az
       <pubDate>Tue, 02 Apr 2024 17:00:21 Z</pubDate>
       <atom:content
         type="text">Improve your workload’s resiliency and optimize your cloud deployments by reviewing recommendations on Advisor</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts</guid>
-      <link>https://azure.microsoft.com/en-us/updates/public-preview-azure-monitor-introduces-prometheus-community-recommended-alerts/</link>
-      <category>azure-monitor</category>
-      <category>azure-kubernetes-service</category>
-      <category>container-insights</category>
-      <category>prometheus</category>
-      <title>Public Preview: Azure Monitor introduces Prometheus community recommended alerts </title>
-      <description>Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.</description>
-      <pubDate>Tue, 02 Apr 2024 17:00:00 Z</pubDate>
-      <atom:content
-        type="text">Enable Prometheus community recommended alerts to monitor key signals to be promptly notified on potential critical issues within your clusters.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">ga-aks-cost-views-2</guid>
-      <link>https://azure.microsoft.com/en-us/updates/ga-aks-cost-views-2/</link>
-      <category>AzurePortal</category>
-      <title>Generally Available: AKS cost views</title>
-      <description>The Kubernetes clusters and Kubernetes namespaces cost views are now generally available in Cost analysis within Azure portal. You can view the aggregated costs for all your AKS clusters and namespaces across a subscription and drill down into infrastructure and namespaces costs of a cluster.</description>
-      <pubDate>Tue, 02 Apr 2024 16:00:35 Z</pubDate>
-      <atom:content
-        type="text">The Kubernetes clusters and Kubernetes namespaces cost views are now generally available in Cost analysis within Azure portal. You can view the aggregated costs for all your AKS clusters and namespaces across a subscription and drill down into infrastructure and namespaces costs of a cluster.</atom:content>
-      <content:encoded></content:encoded>
-    </item>
-    <item>
-      <guid
-        isPermaLink="false">announcing-general-availability-of-azure-api-management-basic-v2-and-standard-v2-tiers</guid>
-      <link>https://azure.microsoft.com/en-us/updates/announcing-general-availability-of-azure-api-management-basic-v2-and-standard-v2-tiers/</link>
-      <category>API Management</category>
-      <title>Announcing General Availability of Azure API Management Basic v2 and Standard v2 Tiers </title>
-      <description>We're thrilled to announce the General Availability of Azure API Management's newest pricing tiers – Basic v2 and Standard v2. The Azure API Management v2 pricing tiers represent a significant leap forward, offering a comprehensive range of capabilities tailored to projects of all sizes, from small-scale endeavors to large-scale enterprise applications. Importantly, these new v2 pricing tiers are available alongside our existing Azure API Management classic pricing tiers, ensuring continuity for users. It's worth noting that the Azure API Management classic pricing tiers remain actively supported and invested in.  </description>
-      <pubDate>Tue, 02 Apr 2024 16:00:28 Z</pubDate>
-      <atom:content
-        type="text">We're thrilled to announce the General Availability of Azure API Management's newest pricing tiers – Basic v2 and Standard v2. The Azure API Management v2 pricing tiers represent a significant leap forward, offering a comprehensive range of capabilities tailored to projects of all sizes, from small-scale endeavors to large-scale enterprise applications. Importantly, these new v2 pricing tiers are available alongside our existing Azure API Management classic pricing tiers, ensuring continuity for users. It's worth noting that the Azure API Management classic pricing tiers remain actively supported and invested in.  </atom:content>
       <content:encoded></content:encoded>
     </item>
   </channel>
