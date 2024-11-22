@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 22 Nov 2024 18:00:20 Z",
+      "lastBuildDate": "Fri, 22 Nov 2024 20:00:49 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "470314"
+          },
+          "link": "https://azure.microsoft.com/updates?id=470314",
+          "category": [
+            "Launched",
+            "Analytics",
+            "Azure Data Explorer",
+            "Microsoft Fabric",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Star pattern and default node identifier in Kusto",
+          "description": "We are announcing the general availability of two powerful new features in Kusto Graph Semantics.  The star pattern allows users to express nonlinear patterns using comma-delimited sequences, making it particularly useful for describing connections where",
+          "pubDate": "Fri, 22 Nov 2024 20:00:49 Z",
+          "a10:updated": "2024-11-22T20:00:49Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "470309"
+          },
+          "link": "https://azure.microsoft.com/updates?id=470309",
+          "category": [
+            "In preview",
+            "Analytics",
+            "Azure Data Explorer",
+            "Microsoft Fabric",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: New graph operators in Kusto",
+          "description": "We are excited to announce the release of two powerful new graph operators in Kusto: graph-shortest-path and graph-mark-components. The graph-shortest-paths operator is designed to streamline the process of finding the shortest paths between nodes in a gr",
+          "pubDate": "Fri, 22 Nov 2024 20:00:49 Z",
+          "a10:updated": "2024-11-22T20:00:49Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3658,41 +3694,6 @@
           ],
           "title": "[In preview] Public Preview: Azure NMads MA35D-Series virtual machines",
           "description": "The Azure NMads MA35D-Series virtual machines (VM) are now in public preview in the East US region. This VM series is Azure's first SKU to offer specialized hardware (Xilinx MA35D “Supernova”) accelerated VM optimized for batch and real-time video transco",
-          "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-03T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-nvads-v710-v5-series-virtual-machines"
-          },
-          "link": "https://azure.microsoft.com/updates?id=public-preview-azure-nvads-v710-v5-series-virtual-machines",
-          "category": [
-            "In preview",
-            "Compute",
-            "Virtual Machines",
-            "Regions & Datacenters",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Azure NVads V710 v5-series virtual machines",
-          "description": "The NVads V710 v5-series virtual machines are powered by AMD Radeon™ Pro V710 GPUs and AMD EPYC 9V64 (Genoa) CPUs with a base frequency of of 3.95 GHz and max frequency of 4.3 GHz. VMs take advantage of the AMD Simultaneous Multithreading technology to as",
-          "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-03T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "rouge-bleu-meteor-gleu-evaluations-public-preview"
-          },
-          "link": "https://azure.microsoft.com/updates?id=rouge-bleu-meteor-gleu-evaluations-public-preview",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Azure AI Studio",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: New evaluations for quality and similarity in Azure AI Studio",
-          "description": "New quality evaluations are now available in public preview, accessible through the Azure AI SDK today with UI support coming in October 2024. ROUGE, BLEU, METEOR, and GLEU are popular math-based metrics that can help AI developers assess text-based outpu",
           "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-10-03T07:00:00Z"
         }
