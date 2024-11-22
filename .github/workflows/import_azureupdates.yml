@@ -16,7 +16,7 @@ jobs:
 
 
       - name: Import AzureUpdates Feed
-        uses: robinkonrad/azureupdates2hugo-action@v1
+        uses: robinkonrad/azureupdates2hugo-action@v2
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
