@@ -2692,25 +2692,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "467345"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467345",
-          "category": [
-            "Launched",
-            "Compute",
-            "Mobile",
-            "Web",
-            "App Service",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: App Service multi plan subnet join",
-          "description": "Virtual network integration in App Service previously required one subnet per App Service plan integration. If you are working with many App Service plans, managing the subnets can be an unnecessary administrative task. Therefore, we are happy to announce",
-          "pubDate": "Wed, 06 Nov 2024 08:15:02 Z",
-          "a10:updated": "2024-11-06T08:15:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "467340"
           },
           "link": "https://azure.microsoft.com/updates?id=467340",
@@ -2724,58 +2705,6 @@
           "description": "On October 31st, 2025, Change Analysis (classic) API in Azure Monitor will be retired. As a result, any workloads using Change Analysis (classic) API in Azure Monitor will be deleted and the associated application data will be lost.Before the retirement d",
           "pubDate": "Wed, 06 Nov 2024 08:00:44 Z",
           "a10:updated": "2024-11-06T08:00:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467335"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467335",
-          "category": "Retirements",
-          "title": "Retirement: Azure Health Data Services Retirement of Qatar Central Region",
-          "description": "Azure Health Data Services from the Qatar Central region is retiring as of October 31, 2024. We are asking customers to utilize one of our other regions or remove/backup data they wish to retain before retirement.Customers may use one of our other regions",
-          "pubDate": "Wed, 06 Nov 2024 08:00:44 Z",
-          "a10:updated": "2024-11-06T08:00:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467320"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467320",
-          "category": [
-            "Launched",
-            "Compute",
-            "Mobile",
-            "Web",
-            "DevOps",
-            "Management and governance",
-            "Developer tools",
-            "App Service",
-            "Azure Monitor",
-            "Visual Studio",
-            "Visual Studio Code",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: App Insights Code Optimizations",
-          "description": "Application Insights Code Optimizations helps you identify and resolve performance bottlenecks at the code level in your running .NET applications. Utilizing an advanced AI-based model, it analyzes Application Insights profiler traces and provides actiona",
-          "pubDate": "Wed, 06 Nov 2024 07:45:58 Z",
-          "a10:updated": "2024-11-06T07:45:58Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467325"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467325",
-          "category": [
-            "Launched",
-            "Regions & Datacenters"
-          ],
-          "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk Storage is now available in more regions",
-          "description": "Azure Premium SSD v2 Disk Storage is now available in Germany West Central, Israel Central, Italy North, Spain Central, Mexico Central regions. This next-generation storage solution offers advanced general-purpose block storage with the best price perform",
-          "pubDate": "Wed, 06 Nov 2024 07:45:58 Z",
-          "a10:updated": "2024-11-06T07:45:58Z"
         },
         {
           "guid": {
@@ -3697,6 +3626,72 @@
           ],
           "title": "[In preview] Public Preview: Azure NVads V710 v5-series virtual machines",
           "description": "The NVads V710 v5-series virtual machines are powered by AMD Radeon™ Pro V710 GPUs and AMD EPYC 9V64 (Genoa) CPUs with a base frequency of of 3.95 GHz and max frequency of 4.3 GHz. VMs take advantage of the AMD Simultaneous Multithreading technology to as",
+          "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
+          "a10:updated": "2024-10-03T07:00:00Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "rouge-bleu-meteor-gleu-evaluations-public-preview"
+          },
+          "link": "https://azure.microsoft.com/updates?id=rouge-bleu-meteor-gleu-evaluations-public-preview",
+          "category": [
+            "In preview",
+            "AI + machine learning",
+            "Azure AI Studio",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: New evaluations for quality and similarity in Azure AI Studio",
+          "description": "New quality evaluations are now available in public preview, accessible through the Azure AI SDK today with UI support coming in October 2024. ROUGE, BLEU, METEOR, and GLEU are popular math-based metrics that can help AI developers assess text-based outpu",
+          "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
+          "a10:updated": "2024-10-03T07:00:00Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "simulate-everyday-interactions-with-your-genai-app-public-preview"
+          },
+          "link": "https://azure.microsoft.com/updates?id=simulate-everyday-interactions-with-your-genai-app-public-preview",
+          "category": [
+            "In preview",
+            "AI + machine learning",
+            "Azure AI Studio",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Simulate everyday interactions with your app in Azure AI Studio",
+          "description": "A synthetic data generator and simulator for non-adversarial tasks is now available in public preview, accessible through the Azure AI evaluation SDK. One of the biggest evaluation challenges we hear from customers is that they do not have comprehensive,",
+          "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
+          "a10:updated": "2024-10-03T07:00:00Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "sql-data-sync-retirement"
+          },
+          "link": "https://azure.microsoft.com/updates?id=sql-data-sync-retirement",
+          "category": [
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Retirements"
+          ],
+          "title": "Retirement: SQL Data Sync will be retired on September 30th, 2027",
+          "description": "SQL Data Sync will be retired on September 30th, 2027. By the date, please consider migrating to alternatives data replication/synchronization solutions. We encourage you to consider alternative solutions prior to the retirement date, so you can complete",
+          "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
+          "a10:updated": "2024-10-03T07:00:00Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "switch-to-azure-business-continuity-center-for-your-at-scale-bcdr-management-needs"
+          },
+          "link": "https://azure.microsoft.com/updates?id=switch-to-azure-business-continuity-center-for-your-at-scale-bcdr-management-needs",
+          "category": [
+            "In preview",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Switch to Azure Business Continuity Center for at scale BCDR management",
+          "description": "In response to the evolving customer requirements and environments since COVID-19, including the shift towards hybrid work models and the increase in ransomware attacks, we have observed a growing trend among customers to invest in multiple vendors for da",
           "pubDate": "Thu, 03 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-10-03T07:00:00Z"
         }
