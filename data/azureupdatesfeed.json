@@ -6,9 +6,63 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 04 Dec 2024 20:15:20 Z",
+      "lastBuildDate": "Wed, 04 Dec 2024 22:15:37 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "vcore-based-azure-cosmos-db-for-mongodb-up-to-32-tib-storage"
+          },
+          "link": "https://azure.microsoft.com/updates?id=vcore-based-azure-cosmos-db-for-mongodb-up-to-32-tib-storage",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: vCore-based Azure Cosmos DB for MongoDB—up to 32 TiB storage",
+          "description": "Higher capacity storage with higher IOPS enables you to host larger workloads on your vCore-based Azure Cosmos DB for MongoDB cluster. Now when you provision new clusters, you can help elevate performance by choosing from 8 TiB, 16 TiB, and 32 TiB with 16",
+          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
+          "a10:updated": "2024-12-04T22:15:37Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mdb-vcore-repl"
+          },
+          "link": "https://azure.microsoft.com/updates?id=mdb-vcore-repl",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Cross-region replication in vCore-based Azure Cosmos DB for MongoDB",
+          "description": "With new support for cross-region disaster recovery in vCore-based Azure Cosmos DB for MongoDB, you can create a replica of a cluster in another region. This cluster replica is continuously updated with the data written in the primary region. In the rare",
+          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
+          "a10:updated": "2024-12-04T22:15:37Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "mdb-vcore-sharding"
+          },
+          "link": "https://azure.microsoft.com/updates?id=mdb-vcore-sharding",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: vCore-based Azure Cosmos DB for MongoDB multishard clusters",
+          "description": "You can now use up to five physical shards on your vCore-based Azure Cosmos DB for MongoDB clusters. An increased number of shards in a cluster enables you to host larger workloads and get elevated performance through higher concurrency.     When you crea",
+          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
+          "a10:updated": "2024-12-04T22:15:37Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -479,60 +533,6 @@
           "description": "We are excited to announce the general availability of\nKubernetes Metadata and Logs Filtering in Azure Monitor – Container Insights!\nThis enhancement adds Kubernetes metadata to the ContainerLogsV2 schema,\nincluding PodLabels, PodAnnotations, PodUid, Imag",
           "pubDate": "Tue, 19 Nov 2024 18:00:36 Z",
           "a10:updated": "2024-11-19T22:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "vcore-based-azure-cosmos-db-for-mongodb-up-to-32-tib-storage"
-          },
-          "link": "https://azure.microsoft.com/updates?id=vcore-based-azure-cosmos-db-for-mongodb-up-to-32-tib-storage",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[In preview] Generally Available: vCore-based Azure Cosmos DB for MongoDB—up to 32 TiB storage",
-          "description": "Higher capacity storage with higher IOPS enables you to host larger workloads on your vCore-based Azure Cosmos DB for MongoDB cluster. Now when you provision new clusters, you can help elevate performance by choosing from 8 TiB, 16 TiB, and 32 TiB with 16",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-11-19T19:45:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mdb-vcore-repl"
-          },
-          "link": "https://azure.microsoft.com/updates?id=mdb-vcore-repl",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[In preview] Generally Available: Cross-region replication in vCore-based Azure Cosmos DB for MongoDB",
-          "description": "With new support for cross-region disaster recovery in vCore-based Azure Cosmos DB for MongoDB, you can create a replica of a cluster in another region. This cluster replica is continuously updated with the data written in the primary region. In the rare",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-11-19T19:45:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mdb-vcore-sharding"
-          },
-          "link": "https://azure.microsoft.com/updates?id=mdb-vcore-sharding",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[In preview] Generally Available: vCore-based Azure Cosmos DB for MongoDB multishard clusters",
-          "description": "You can now use up to five physical shards on your vCore-based Azure Cosmos DB for MongoDB clusters. An increased number of shards in a cluster enables you to host larger workloads and get elevated performance through higher concurrency.     When you crea",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-11-19T19:45:12Z"
         },
         {
           "guid": {
