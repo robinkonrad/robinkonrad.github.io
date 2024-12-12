@@ -6,9 +6,63 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 12 Dec 2024 19:00:28 Z",
+      "lastBuildDate": "Thu, 12 Dec 2024 20:30:21 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "467457"
+          },
+          "link": "https://azure.microsoft.com/updates?id=467457",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Pricing & Offerings"
+          ],
+          "title": "[Launched] Generally Available: Extension of limited-time promotional discounts on Azure Databricks Serverless Compute Services",
+          "description": "We’re excited to announce the extension of the promotional discounts on serverless compute for Notebooks, Jobs, and Pipelines (Delta Live Tables). You will continue to get 50% off serverless compute for Jobs and Pipelines and 30% off serverless compute fo",
+          "pubDate": "Thu, 14 Nov 2024 08:00:31 Z",
+          "a10:updated": "2024-12-12T20:30:21Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "471605"
+          },
+          "link": "https://azure.microsoft.com/updates?id=471605",
+          "category": [
+            "In development",
+            "Management and governance",
+            "Automation",
+            "Management"
+          ],
+          "title": "[In development] Private Preview: Azure Automation is revising Service and Subscription limits",
+          "description": "Starting January 7th, 2025, Azure Automation will be revising its Service and Subscription limits to ensure fair distribution of cloud resources across all customers. The current Service and Subscription limits for Azure Automation can be found here.  Rev",
+          "pubDate": "Thu, 12 Dec 2024 20:15:31 Z",
+          "a10:updated": "2024-12-12T20:15:31Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "470595"
+          },
+          "link": "https://azure.microsoft.com/updates?id=470595",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Blob Storage",
+            "Features",
+            "Regions & Datacenters",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Storage account default maximum request rate limit increase to 40,000 requests per second",
+          "description": "The default maximum request rate for general-purpose v2 and\nBlob storage accounts has been increased from 20,000 to 40,000 requests per\nsecond in the following regions:  \n East Asia  \n Southeast Asia  \n Australia East  \n Brazil South  \n Canada Central",
+          "pubDate": "Thu, 12 Dec 2024 20:15:31 Z",
+          "a10:updated": "2024-12-12T20:15:31Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2553,24 +2607,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "467457"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467457",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Analytics",
-            "Azure Databricks",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Extension of limited-time promotional discounts on Azure Databricks Serverless Compute Services",
-          "description": "We’re excited to announce the extension of the promotional discounts on serverless compute for Notebooks, Jobs, and Pipelines (Delta Live Tables). You will continue to get 50% off serverless compute for Jobs and Pipelines and 30% off serverless compute fo",
-          "pubDate": "Thu, 14 Nov 2024 08:00:31 Z",
-          "a10:updated": "2024-11-14T08:00:31Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "end-of-support-announcement-for-azure-load-balancer-numberofprobes-property-on-1-september-2027"
           },
           "link": "https://azure.microsoft.com/updates?id=end-of-support-announcement-for-azure-load-balancer-numberofprobes-property-on-1-september-2027",
@@ -3673,42 +3709,6 @@
           ],
           "title": "[Launched] Generally Available: Several performance management server parameters now modifiable on Azure Database for PostgreSQL",
           "description": "We're thrilled to announce that you can now modify a number of performance management server parameters in Azure Database for PostgreSQL – Flexible Server.   You now have the ability to specify the maximum number of parallel apply workers per subscription",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-10T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "redis-7-2-on-azure-cache-for-redis-enterprise"
-          },
-          "link": "https://azure.microsoft.com/updates?id=redis-7-2-on-azure-cache-for-redis-enterprise",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Cache for Redis",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Redis 7.2 on Azure Cache for Redis Enterprise",
-          "description": "Get access to more than a dozen new commands and performance enhancements in Redis 7.2—now generally available in the Azure Cache for Redis Enterprise and Enterprise Flash tier caches. This newer version improves Redis 6.0, the previous version offered on",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-10T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "storage-account-default-egress-limit-increase-to-200-gbps"
-          },
-          "link": "https://azure.microsoft.com/updates?id=storage-account-default-egress-limit-increase-to-200-gbps",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Blob Storage",
-            "Regions & Datacenters",
-            "Services",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Storage account default egress limit increase to 200 Gbps",
-          "description": "The default maximum egress for general-purpose v2 and Blob storage accounts has been increased from 120 Gbps to 200 Gbps in the following regions:East AsiaSoutheast AsiaAustralia EastBrazil SouthCanada CentralChina East 2China North 3North EuropeWest Euro",
           "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-10-10T07:00:00Z"
         }
