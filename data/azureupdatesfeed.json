@@ -6,9 +6,43 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 11 Dec 2024 04:00:45 Z",
+      "lastBuildDate": "Thu, 12 Dec 2024 19:00:28 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "469654"
+          },
+          "link": "https://azure.microsoft.com/updates?id=469654",
+          "category": [
+            "In preview",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Introducing security baseline with auto-remediation for Linux hybrid workloads",
+          "description": "The new Azure security baseline for Linux provides enhanced monitoring of compliance status across Linux workloads. It offers more accurate and detailed compliance information and helps customers meet regulatory requirements faster. Combined with the auto",
+          "pubDate": "Tue, 19 Nov 2024 14:00:28 Z",
+          "a10:updated": "2024-12-12T19:00:28Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "466980"
+          },
+          "link": "https://azure.microsoft.com/updates?id=466980",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Network isolated cluster in AKS",
+          "description": "Today you can\ncontrol an AKS cluster's egress traffic using Azure Firewall. While this\nconfiguration is intended to isolate the cluster to protect sensitive business\nor customer data, it adds an additional layer of management complexity and\ncost.  AKS now",
+          "pubDate": "Thu, 14 Nov 2024 20:15:40 Z",
+          "a10:updated": "2024-12-12T19:00:28Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2180,21 +2214,6 @@
         {
           "guid": {
             "@isPermaLink": "false",
-            "#text": "469654"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469654",
-          "category": [
-            "In preview",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Introducing security baseline with auto-remediation for Linux hybrid workloads",
-          "description": "The new Azure security baseline for Linux provides enhanced monitoring of compliance status across Linux workloads. It offers more accurate and detailed compliance information and helps customers meet regulatory requirements faster. Combined with the auto",
-          "pubDate": "Tue, 19 Nov 2024 14:00:28 Z",
-          "a10:updated": "2024-11-19T14:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
             "#text": "469645"
           },
           "link": "https://azure.microsoft.com/updates?id=469645",
@@ -2491,25 +2510,6 @@
           "description": "We are announcing that Azure Bastion now supports Microsoft Entra ID authentication for SSH connections in the portal. With Microsoft Entra ID authentication, there are two main benefits to users connecting to their virtual machines. First, it eliminates",
           "pubDate": "Thu, 05 Sep 2024 07:00:00 Z",
           "a10:updated": "2024-11-15T19:45:54Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466980"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466980",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Network isolated cluster in AKS",
-          "description": "Today you can\ncontrol an AKS cluster's egress traffic using Azure Firewall. While this\nconfiguration is intended to isolate the cluster to protect sensitive business\nor customer data, it adds an additional layer of management complexity and\ncost.  AKS now",
-          "pubDate": "Thu, 14 Nov 2024 20:15:40 Z",
-          "a10:updated": "2024-11-14T20:15:40Z"
         },
         {
           "guid": {
