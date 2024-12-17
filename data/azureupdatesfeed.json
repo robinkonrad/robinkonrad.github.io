@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 12 Dec 2024 20:30:21 Z",
+      "lastBuildDate": "Tue, 17 Dec 2024 08:00:21 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "469221"
+          },
+          "link": "https://azure.microsoft.com/updates?id=469221",
+          "category": [
+            "In preview",
+            "AI + machine learning",
+            "Azure AI Studio",
+            "Features",
+            "Microsoft Ignite"
+          ],
+          "title": "[In preview] Public Preview: Risk and safety evaluations for image and multimodal content in Azure AI Foundry",
+          "description": "Risk and safety evaluations for images and multimodal\ncontent are now available in public preview in Azure AI Foundry. These\nevaluations can help organizations assess the frequency and severity of harmful\ncontent in human and AI-generated outputs to prior",
+          "pubDate": "Tue, 17 Dec 2024 08:00:21 Z",
+          "a10:updated": "2024-12-17T08:00:21Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3691,24 +3709,6 @@
           ],
           "title": "[Launched] Generally Available: Private endpoint support without NVA source network address translation",
           "description": "Source network address translation (SNAT) is no longer a requirement for private endpoint destined traffic passing through a network virtual appliance (NVA). You may now configure a tag on your NVA VMs that will notify the Microsoft platform that you wish",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-10T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "performance-management-server-parameters-now-modifiable-on-azure-database-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/updates?id=performance-management-server-parameters-now-modifiable-on-azure-database-for-postgresql",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Several performance management server parameters now modifiable on Azure Database for PostgreSQL",
-          "description": "We're thrilled to announce that you can now modify a number of performance management server parameters in Azure Database for PostgreSQL – Flexible Server.   You now have the ability to specify the maximum number of parallel apply workers per subscription",
           "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-10-10T07:00:00Z"
         }
