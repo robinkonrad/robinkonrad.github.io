@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 13 Jan 2025 16:00:43 Z",
+      "lastBuildDate": "Tue, 14 Jan 2025 17:00:37 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "475194"
+          },
+          "link": "https://azure.microsoft.com/updates?id=475194",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: WebSocket support in Application Gateway for Containers",
+          "description": "With WebSocket support, you can serve interactive and real-time applications, such as chat applications, live dashboards, and gaming platforms, with improved performance and reduced latency over Application Gateway for Containers. Key benefits of WebSocke",
+          "pubDate": "Tue, 14 Jan 2025 17:00:37 Z",
+          "a10:updated": "2025-01-14T17:00:37Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3697,23 +3716,6 @@
           ],
           "title": "[Launched] Generally Available: ExpressRoute Metro",
           "description": "Announcing general availability of ExpressRoute Metro, a new private connectivity architecture designed to enhance network resiliency for our customers. ExpressRoute Metro provides a highly resilient circuit that enables diverse connections to two separat",
-          "pubDate": "Thu, 17 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-17T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "linux-sssh-ed25519"
-          },
-          "link": "https://azure.microsoft.com/updates?id=linux-sssh-ed25519",
-          "category": [
-            "Launched",
-            "Compute",
-            "Linux Virtual Machines",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: ED25519 SSH key support for Linux VMs",
-          "description": "Azure customers can now use the secure and smaller ED25519 SSH keys with their Linux VMs. Previously, customers only had the option of using RSA keys for SSH connections to their Linux VMs on Azure. Now customers can choose between RSA and ED25519 based k",
           "pubDate": "Thu, 17 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-10-17T07:00:00Z"
         }
