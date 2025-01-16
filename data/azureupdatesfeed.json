@@ -6,9 +6,21 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 15 Jan 2025 17:30:50 Z",
+      "lastBuildDate": "Thu, 16 Jan 2025 17:00:54 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "475779"
+          },
+          "link": "https://azure.microsoft.com/updates?id=475779",
+          "category": "Retirements",
+          "title": "Retirement: Azure AI Image Analysis 4.0 Preview APIs retiring on March 31, 2025",
+          "description": "On March 31, 2025, the Image Analysis 4.0 Preview APIs will be retired. Before that date, you’ll need to migrate your Azure Image Analysis workloads to the Image Analysis 4.0 GA API. We encourage you to make the transition sooner to gain access to improve",
+          "pubDate": "Thu, 16 Jan 2025 17:00:54 Z",
+          "a10:updated": "2025-01-16T17:00:54Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3697,24 +3709,6 @@
           "description": "Following the announcement on November 10, 2023, we are continuing our transition to requiring TLS 1.2 or later for all connections to Azure services. To minimize disruption to customer workloads, several services will continue supporting TLS 1.0 and TLS",
           "pubDate": "Thu, 24 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-10-24T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azbackupgrsforpv2ultra"
-          },
-          "link": "https://azure.microsoft.com/updates?id=azbackupgrsforpv2ultra",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Storage",
-            "Azure Backup",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: GRS and CRR support for Azure VMs using Premium SSD v2 and Ultra Disk in Azure Backup",
-          "description": "We are happy to announce the general availability of enabling Azure Backup on Azure VMs using Premium SSD v2 and Ultra disk on GRS vaults. Premium SSD v2 offering provides the most advanced block storage solution designed for a broad range of IO-intensive",
-          "pubDate": "Thu, 17 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-17T07:00:00Z"
         }
       ]
     }
