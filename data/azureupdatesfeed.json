@@ -6,9 +6,44 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 16 Jan 2025 18:00:34 Z",
+      "lastBuildDate": "Thu, 16 Jan 2025 19:15:15 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "471314"
+          },
+          "link": "https://azure.microsoft.com/updates?id=471314",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Open Source"
+          ],
+          "title": "[Launched] Generally Available: Open-source feature update: KAITO Retrieval-Augmented Generation (RAG) support",
+          "description": "Advanced\ninference with retrieval-augmented generation (RAG) is now supported in\nopen-source KAITO. RAG can be used on a base model in the KAITO registry to\nimprove its accuracy and make your AI workload more context-aware to new data. This\nenables you to",
+          "pubDate": "Thu, 16 Jan 2025 19:15:15 Z",
+          "a10:updated": "2025-01-16T19:15:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "475219"
+          },
+          "link": "https://azure.microsoft.com/updates?id=475219",
+          "category": [
+            "In preview",
+            "Containers",
+            "Azure Container Apps",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: JavaScript code interpreter dynamic sessions in Azure Container Apps",
+          "description": "Azure Container\nApps dynamic sessions offers serverless, isolated sandboxes for executing\nuntrusted code. The latest update includes support for native JavaScript code\nexecution in public preview. This new\nJavaScript code interpreter augments the existing",
+          "pubDate": "Thu, 16 Jan 2025 19:00:33 Z",
+          "a10:updated": "2025-01-16T19:00:33Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3674,42 +3709,6 @@
           ],
           "title": "[Launched] Generally Available: FinOps toolkit 0.6 - September 2024",
           "description": "The September 2024 release of the FinOps toolkit (version 0.6) is now available. This month, you’ll find:New: FinOps best practices library.New: Power BI reports for governance and workload optimizationCustomizable promoted tags in Power BI.Ingest prices,",
-          "pubDate": "Thu, 24 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-24T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "immutable-worm-storage-for-backups-in-azure-recovery-services-vaults"
-          },
-          "link": "https://azure.microsoft.com/updates?id=immutable-worm-storage-for-backups-in-azure-recovery-services-vaults",
-          "category": [
-            "In preview",
-            "Management and governance",
-            "Storage",
-            "Azure Backup",
-            "Features",
-            "Compliance"
-          ],
-          "title": "[In preview] Public Preview: Immutable WORM Storage for Backups in Azure Recovery Services Vaults",
-          "description": "Azure Backup users will now have immutable WORM storage for their backups when immutability is enabled and locked on a Recovery Services Vault. When immutability is enabled, it ensures that a Recovery Point, once created, cannot be deleted or have its ret",
-          "pubDate": "Thu, 24 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-10-24T07:00:00Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "in-place-scaling-for-enterprise-caches"
-          },
-          "link": "https://azure.microsoft.com/updates?id=in-place-scaling-for-enterprise-caches",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Cache for Redis",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: In-place scaling for Enterprise caches",
-          "description": "Enterprise and Enterprise Flash tier caches now have the ability to scale up or out without requiring downtime. Scaling up allows a cache to scale to a larger Enterprise SKU with more memory capacity, connections, and compute performance. Scaling out spre",
           "pubDate": "Thu, 24 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-10-24T07:00:00Z"
         }
