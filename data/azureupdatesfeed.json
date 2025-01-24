@@ -6,9 +6,42 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 23 Jan 2025 21:30:21 Z",
+      "lastBuildDate": "Fri, 24 Jan 2025 14:30:17 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "477729"
+          },
+          "link": "https://azure.microsoft.com/updates?id=477729",
+          "category": [
+            "Management and governance",
+            "Automation",
+            "Retirements"
+          ],
+          "title": "Retirement: Resources interacting with Azure Automation using TLS 1.0/1.1 protocol will be blocked from March 1, 2025",
+          "description": "Transport Layer Security (TLS) 1.0 and 1.1 are security protocols for establishing encryption channels over computer networks. Starting March 1, 2025, your resources interacting with Azure Automation using TLS 1.0/1.1 protocols won’t be able to connect to",
+          "pubDate": "Fri, 24 Jan 2025 14:30:17 Z",
+          "a10:updated": "2025-01-24T14:30:17Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "477700"
+          },
+          "link": "https://azure.microsoft.com/updates?id=477700",
+          "category": [
+            "Management and governance",
+            "Automation",
+            "Management",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Automation will discontinue execution of PowerShell runbooks using AzureRM modules from February 1, 2025",
+          "description": "Starting\nFebruary 1, 2025, Azure Automation will discontinue\nexecution of all runbooks that use AzureRM modules.  The\nAzureRM PowerShell module has retired on February 29, 2024, in\nfavour of Az PowerShell that offers more security, stability and\nfunctiona",
+          "pubDate": "Fri, 24 Jan 2025 14:15:38 Z",
+          "a10:updated": "2025-01-24T14:15:38Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3687,36 +3720,6 @@
           "description": "Azure Premium SSD v2 Disk Storage is now available in Germany West Central, Israel Central, Italy North, Spain Central, Mexico Central regions. This next-generation storage solution offers advanced general-purpose block storage with the best price perform",
           "pubDate": "Fri, 01 Nov 2024 00:30:29 Z",
           "a10:updated": "2024-11-01T00:30:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466729"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466729",
-          "category": [
-            "Launched",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Convert to Azure Premium SSD v2 disks",
-          "description": "We’re excited to announce the general\navailability of the feature for Converting to Premium SSD v2 disks (Pv2).  Confidently move your workloads to Pv2 by\nleveraging this feature to take advantage of the unparalleled balance of price\nand performance of Pv",
-          "pubDate": "Thu, 31 Oct 2024 21:45:07 Z",
-          "a10:updated": "2024-10-31T21:45:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466724"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466724",
-          "category": [
-            "Launched",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Live Resize for Azure Premium SSD v2 and Ultra Disks",
-          "description": "We’re excited to announce the general availability of Live Resize for Premium SSD v2 and Ultra Disks. Dynamically increase the storage capacity of your disks without causing any disruption to your applications. To reduce costs, you can begin by creating s",
-          "pubDate": "Thu, 31 Oct 2024 21:45:07 Z",
-          "a10:updated": "2024-10-31T21:45:07Z"
         }
       ]
     }
