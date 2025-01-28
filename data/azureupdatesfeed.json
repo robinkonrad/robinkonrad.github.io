@@ -6,9 +6,44 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 28 Jan 2025 14:00:19 Z",
+      "lastBuildDate": "Tue, 28 Jan 2025 15:00:52 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "475398"
+          },
+          "link": "https://azure.microsoft.com/updates?id=475398",
+          "category": [
+            "In preview",
+            "Migration",
+            "Storage",
+            "Azure Data Box",
+            "Microsoft Ignite"
+          ],
+          "title": "[In preview] Public Preview: Announcing the Next generation Azure Data Box Devices",
+          "description": "We’re excited to announce\nthe preview of Azure Data Box 120 and Azure Data Box 525, our next-generation\ncompact, NVMe-based Data Box devices. These new devices incorporate several improvements\nto accelerate offline data transfers to Azure, including: Fast",
+          "pubDate": "Tue, 28 Jan 2025 15:00:52 Z",
+          "a10:updated": "2025-01-28T15:00:52Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "migrating-to-tls-12-with-deprecation-of-outdated-security-protocols"
+          },
+          "link": "https://azure.microsoft.com/updates?id=migrating-to-tls-12-with-deprecation-of-outdated-security-protocols",
+          "category": [
+            "Management and governance",
+            "Azure Resource Manager",
+            "Retirements",
+            "Security"
+          ],
+          "title": "Retirement: Migrating to TLS 1.2+ with the Deprecation of Outdated Security Protocols",
+          "description": "On March 1, 2025, Azure Resource Manager will be retiring support for TLS 1.0 and TLS 1.1. After that date, any incoming calls to Azure using TLS 1.0/1.1 will fail. This is part of an Azure-wide initiative to enhance security.Required action:To avoid any",
+          "pubDate": "Thu, 29 Aug 2024 07:00:00 Z",
+          "a10:updated": "2025-01-28T15:00:52Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3678,43 +3713,6 @@
           "description": "On October 31st, 2025, Change Analysis (classic) API in Azure Monitor will be retired. As a result, any workloads using Change Analysis (classic) API in Azure Monitor will be deleted and the associated application data will be lost.Before the retirement d",
           "pubDate": "Wed, 06 Nov 2024 08:00:44 Z",
           "a10:updated": "2024-11-06T08:00:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467315"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467315",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Web Application Firewall",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Bot Manager Ruleset 1.1 on Azure WAF with Azure Application Gateway",
-          "description": "A new bot protection rule set (Microsoft_BotManagerRuleSet_1.1) is now generally available for Azure Web Application Firewall (WAF) with Azure Application Gateway.This updated ruleset enhances the existing Bot Manager 1.0 by introducing new bad bot and go",
-          "pubDate": "Wed, 06 Nov 2024 07:30:10 Z",
-          "a10:updated": "2024-11-06T07:30:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466784"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466784",
-          "category": [
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Retirements"
-          ],
-          "title": "Retirement: Change Analysis (classic) API in Azure Monitor is retiring",
-          "description": "On October 31st, 2025, Change Analysis (classic) API in Azure Monitor will be retired. As a result, any workloads using Change Analysis (classic) API in Azure Monitor will be deleted and the associated application data will be lost.Before the retirement d",
-          "pubDate": "Fri, 01 Nov 2024 00:30:29 Z",
-          "a10:updated": "2024-11-01T00:30:29Z"
         }
       ]
     }
