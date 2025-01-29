@@ -6,9 +6,43 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 28 Jan 2025 18:15:12 Z",
+      "lastBuildDate": "Wed, 29 Jan 2025 13:15:34 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "478939"
+          },
+          "link": "https://azure.microsoft.com/updates?id=478939",
+          "category": [
+            "Analytics",
+            "Azure HDInsight on Azure Kubernetes Service (AKS)",
+            "Retirements"
+          ],
+          "title": "Retirement: Upgrade your Azure HDInsight clusters with TLS versions 1 dot 1 and below by March 31, 2025",
+          "description": "Customers that have Azure HDInsight cluster is using TLS version 1.1 or lower are requested to upgrade to clusters have TLS version 1.2.  To enhance security and provide best-in-class encryption for your data, we'll require all connections to Azure HDInsi",
+          "pubDate": "Wed, 29 Jan 2025 13:15:34 Z",
+          "a10:updated": "2025-01-29T13:15:34Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "476880"
+          },
+          "link": "https://azure.microsoft.com/updates?id=476880",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[Launched] Public Preview: Azure Monitor Integrates Performance Diagnostics for Enhanced VM Troubleshooting",
+          "description": "Azure Monitor, Microsoft’s comprehensive solution for monitoring and optimizing cloud resources, is enhancing the troubleshooting of VM performance issues with the integration of Performance Diagnostics within your Azure Monitor workflow.This integration",
+          "pubDate": "Wed, 29 Jan 2025 13:15:34 Z",
+          "a10:updated": "2025-01-29T13:15:34Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3681,42 +3715,6 @@
           "description": "Now generally available: vCore-based Azure Cosmos DB for MongoDB with an API for cluster management, offering you scalable, high-performance clusters on Azure. With this release, you can programmatically manage your vCore-based Azure Cosmos DB for MongoDB",
           "pubDate": "Thu, 07 Nov 2024 16:00:28 Z",
           "a10:updated": "2024-11-07T16:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466860"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466860",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Enhanced error messaging in Azure Cosmos DB Data Explorer",
-          "description": "You can now debug queries more efficiently with the improved error messaging in Azure Cosmos DB Data Explorer.  This release addresses common challenges, such as syntax errors, invalid operators, parameters, or typos that previously resulted in generic, t",
-          "pubDate": "Thu, 07 Nov 2024 16:00:28 Z",
-          "a10:updated": "2024-11-07T16:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467355"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467355",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure NetApp Files",
-            "Pricing & Offerings",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Edit network features for Azure NetApp Files with no downtime",
-          "description": "We are announcing the public preview of Edit network features with no downtime for Azure NetApp Files volumes. Standard Network Features provide you with an enhanced Virtual Networking experience for a seamless and consistent experience along with securit",
-          "pubDate": "Wed, 06 Nov 2024 08:30:23 Z",
-          "a10:updated": "2024-11-06T08:30:23Z"
         }
       ]
     }
