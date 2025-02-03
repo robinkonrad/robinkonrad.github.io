@@ -6,9 +6,65 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 30 Jan 2025 12:30:36 Z",
+      "lastBuildDate": "Mon, 03 Feb 2025 21:15:30 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "467948"
+          },
+          "link": "https://azure.microsoft.com/updates?id=467948",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Regions & Datacenters"
+          ],
+          "title": "[Launched] Generally Available: Azure Databricks Available in Mexico Central",
+          "description": "Azure Databricks is a data analytics platform optimized for the\nMicrosoft Azure cloud services platform. Azure Databricks offers three\nenvironments for developing data intensive applications: Databricks SQL,\nDatabricks Data Science & Engineering, and Data",
+          "pubDate": "Mon, 03 Feb 2025 21:15:30 Z",
+          "a10:updated": "2025-02-03T21:15:30Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479465"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479465",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure DNS",
+            "Features",
+            "Security",
+            "Services",
+            "Compliance"
+          ],
+          "title": "[Launched] Generally Available: Azure DNS Public Zones DNS Security Extensions (DNSSEC) support",
+          "description": "Announcing the general availability of Domain Name System Security Extensions (DNSSEC) for Azure DNS Public Zones. With this release you can now enable DNSSEC on all existing and new public DNS Zones hosted on Azure DNS. This significant update enhances t",
+          "pubDate": "Mon, 03 Feb 2025 21:00:38 Z",
+          "a10:updated": "2025-02-03T21:00:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479448"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479448",
+          "category": [
+            "In preview",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Introducing the New AKS Monitoring Experience - Unified Insights at Your Fingertips",
+          "description": "We're excited to announce the public preview of our enhanced Monitoring experience for Azure Kubernetes Service (AKS). This redesign of the existing Insights experience brings comprehensive monitoring capabilities into a single, streamlined view, addressi",
+          "pubDate": "Mon, 03 Feb 2025 21:00:38 Z",
+          "a10:updated": "2025-02-03T21:00:38Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3667,59 +3723,6 @@
           "description": "We are excited to announce the public preview of Confidential Containers on Azure Red Hat OpenShift (ARO). This innovative feature enables cloud native confidential computing by leveraging Trusted Execution Environments to protect containers and data, add",
           "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
           "a10:updated": "2024-11-07T18:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467610"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467610",
-          "category": [
-            "Launched",
-            "Networking",
-            "Load Balancer",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Load Balancer now supports Health Status",
-          "description": "Announcing the general availability of Azure Load Balancer Health Status, a powerful feature designed to provide detailed information about the health of backend instances in your Azure Load Balancer backend pool.The Health Status feature offers valuable",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2024-11-07T18:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467605"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467605",
-          "category": [
-            "Launched",
-            "Networking",
-            "Load Balancer",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Azure cross-subscription Load Balancer",
-          "description": "Today, we are announcing the general availability of Azure cross-subscription Load Balancer. Cross-subscription load balancing enables the load balancers components to be located in different subscriptions. For example, the frontend IP address or the back",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2024-11-07T18:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466806"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466806",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure Files",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Azure File Sync support for managed identities",
-          "description": "Azure File Sync support for managed identities is now in public preview.Managed Identity eliminates the need for shared keys as a method of authentication to your Azure file shares by utilizing a system-assigned managed identity provided by Microsoft Entr",
-          "pubDate": "Thu, 07 Nov 2024 17:15:47 Z",
-          "a10:updated": "2024-11-07T17:15:47Z"
         }
       ]
     }
