@@ -6,9 +6,34 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 06 Feb 2025 17:15:10 Z",
+      "lastBuildDate": "Thu, 06 Feb 2025 19:30:07 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479933"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479933",
+          "category": [
+            "Databases",
+            "Internet of Things",
+            "Hybrid + multicloud",
+            "Compute",
+            "Azure Cosmos DB",
+            "Azure Database for PostgreSQL",
+            "Azure SQL",
+            "Azure SQL Database",
+            "Azure SQL Edge",
+            "Azure SQL Managed Instance",
+            "SQL Server on Azure Virtual Machines",
+            "Retirements"
+          ],
+          "title": "Retirement: Transition from Azure Data Studio to Visual Studio Code",
+          "description": "Azure Data Studio (ADS) will be officially retired\non February 28, 2026, to streamline development efforts and improve the user experience\nin Visual Studio Code (VS Code). VS\nCode will become the recommended cross-platform tool for developers\nbuilding bac",
+          "pubDate": "Thu, 06 Feb 2025 19:30:07 Z",
+          "a10:updated": "2025-02-06T19:30:07Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3707,24 +3732,6 @@
           ],
           "title": "[In preview] Public Preview: SDK-style SQL projects in Visual Studio",
           "description": "Now available in both Visual Studio and Visual Studio Code, Microsoft.Build.Sql projects are a database development and deployment toolkit for SQL Server, the Azure SQL family, and Fabric Data Warehouse. This update adds SQL projects based on the Microsof",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2024-11-07T18:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467635"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467635",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: New vector data type and functions in Azure SQL",
-          "description": "Easily enable your data for enterprise AI workloads thanks to the newly introduced support for vectors in the Azure SQL family of databases. Store embeddings and run vector similarity searchs right in Azure SQL using the new vector type and the related ve",
           "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
           "a10:updated": "2024-11-07T18:30:03Z"
         }
