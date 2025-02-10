@@ -6,9 +6,66 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 06 Feb 2025 19:30:07 Z",
+      "lastBuildDate": "Mon, 10 Feb 2025 18:30:47 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "480005"
+          },
+          "link": "https://azure.microsoft.com/updates?id=480005",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure DNS",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Fallback to Internet on Private DNS Zones",
+          "description": "Fallback to internet on Private DNS Zones: New feature which unblocks adoption of a fully managed solution for Network Isolation and simplifies scenarios with Private Link and Private DNS. This feature enables public recursion to occur in the event of rec",
+          "pubDate": "Mon, 10 Feb 2025 18:30:47 Z",
+          "a10:updated": "2025-02-10T18:30:47Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479976"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479976",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Azure Firewall Manager",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Azure Firewall Updates - Health Monitoring and BYOIP Support for Secured Virtual Hubs",
+          "description": "Azure Firewall Resource Health Check: Resource Health Check now includes backend Azure Firewall instance health monitoring in addition to existing SNAT port utilization and connection metrics. Key benefits: Improved visibility – Monitor overall Azure Fire",
+          "pubDate": "Mon, 10 Feb 2025 18:30:47 Z",
+          "a10:updated": "2025-02-10T18:30:47Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479971"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479971",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Azure Firewall Updates - Increased IP Group Limits",
+          "description": "Increased IP Group Limits: We’ve doubled the IP Group limit in Azure Firewall policies from 100 to 200 per policy. Key benefits: Better policy organization – Manage more IP addresses within firewall policies. Greater flexibility – Optimize configurations",
+          "pubDate": "Mon, 10 Feb 2025 18:30:47 Z",
+          "a10:updated": "2025-02-10T18:30:47Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3676,62 +3733,6 @@
           ],
           "title": "[Launched] Public Preview: PostgreSQL 17 on Azure Database for PostgreSQL – Flexible Server",
           "description": "We're excited to announce the public preview of PostgreSQL 17 on Azure Database for PostgreSQL – Flexible Server. This release introduces several enhanced features, including improved vacuum processes and dynamic logical replication, optimizing performanc",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2024-11-07T18:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467654"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467654",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure SQL updates for early November 2024",
-          "description": "In early November 2024, the following updates and enhancements were made to Azure SQL:Azure SQL Database Hyperscale now offers 128 TB maximum storage capacity, up from 100 TB.",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2024-11-07T18:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467649"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467649",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Resource Manager API for vCore-based Azure Cosmos DB for MongoDB",
-          "description": "Now generally available: vCore-based Azure Cosmos DB for MongoDB with an API for cluster management, offering you scalable, high-performance clusters on Azure. With this release, you can programmatically manage your vCore-based Azure Cosmos DB for MongoDB",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2024-11-07T18:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467640"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467640",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL",
-            "Azure SQL Database",
-            "Azure SQL Managed Instance",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: SDK-style SQL projects in Visual Studio",
-          "description": "Now available in both Visual Studio and Visual Studio Code, Microsoft.Build.Sql projects are a database development and deployment toolkit for SQL Server, the Azure SQL family, and Fabric Data Warehouse. This update adds SQL projects based on the Microsof",
           "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
           "a10:updated": "2024-11-07T18:30:03Z"
         }
