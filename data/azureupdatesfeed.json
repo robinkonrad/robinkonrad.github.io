@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 12 Feb 2025 00:45:51 Z",
+      "lastBuildDate": "Wed, 12 Feb 2025 18:30:38 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479214"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479214",
+          "category": [
+            "In preview",
+            "Compute",
+            "Databases",
+            "SQL Server on Azure Virtual Machines",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Modernization Advisor for SQL Server on Azure Virtual Machines",
+          "description": "Modernization Advisor helps you modernize your SQL Server on Azure Virtual Machines workloads using fully managed PaaS by identifying suitable configurations and price points of Azure SQL Managed Instance. Modernizing with Azure SQL Managed Instance helps",
+          "pubDate": "Wed, 12 Feb 2025 18:30:38 Z",
+          "a10:updated": "2025-02-12T18:30:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479209"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479209",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL Updates for Mid-February 2025",
+          "description": "In mid-February 2025, the following updates and enhancements were made to Azure SQL:  Convert Azure SQL databases to Hyperscale with improved progress reporting and explicit cutover control. Learn more.",
+          "pubDate": "Wed, 12 Feb 2025 18:30:38 Z",
+          "a10:updated": "2025-02-12T18:30:38Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3694,42 +3730,6 @@
           ],
           "title": "[Launched] Generally Available: Fleet OSS announcements",
           "description": "Microsoft Azure\nKubernetes Fleet Manager upstream team is making new multi-cluster features\navailable to any Kubernetes operator.For core multi-cluster workload placement\nthere is a v1alpha1 release of staged release pipelines\n(ClusterStagedUpdateRun) whi",
-          "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
-          "a10:updated": "2024-11-12T19:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466995"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466995",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Ignore PDBs on node pool deletion",
-          "description": "Node pools in AKS can now be\ndeleted even if there are pods monitored by a PodDisruptionBudget (PDB) –\npreviously, the deletion of the node pool could fail due to an unsatisfied PDB.\nThis enhancement allows the deletion to proceed by ignoring the PDB erro",
-          "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
-          "a10:updated": "2024-11-12T19:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466990"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466990",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Delete a specific machine",
-          "description": "It is now possible\nto specifically choose which VM to delete and remove when scaling down a node\npool in AKS. This provides greater control and flexibility in managing\nresources within the node pool.  Learn more.",
           "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
           "a10:updated": "2024-11-12T19:00:41Z"
         }
