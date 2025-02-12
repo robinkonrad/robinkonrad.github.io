@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 12 Feb 2025 19:15:08 Z",
+      "lastBuildDate": "Wed, 12 Feb 2025 21:45:30 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "481565"
+          },
+          "link": "https://azure.microsoft.com/updates?id=481565",
+          "category": [
+            "In preview",
+            "Compute",
+            "Virtual Machines",
+            "Features",
+            "Security",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Upgrade Existing Azure Gen1 VMs to Gen2-Trusted Launch",
+          "description": "We are excited to announce preview support to enable Trusted launch on existing Azure Gen1 VMs by upgrading the Gen1 VM to Gen2-Trusted launch. This will help improve the foundational security of existing Azure VMs.  Trusted Launch VMs provide foundationa",
+          "pubDate": "Wed, 12 Feb 2025 21:45:30 Z",
+          "a10:updated": "2025-02-12T21:45:30Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3715,25 +3734,6 @@
           "description": "Because we're consolidating resources and there is low usage in the region, we'll be retiring Azure Health Data Services the Qatar Central region on October 31, 2025. Please ensure that you migrate to another available Azure Health Data Services region by",
           "pubDate": "Fri, 01 Nov 2024 00:30:29 Z",
           "a10:updated": "2024-11-13T14:15:57Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467028"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467028",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: SeccompDefault support in AKS",
-          "description": "SeccompDefault is available in public preview as a new parameter through\ncustom node configuration.  Secure\ncomputing mode (seccomp) is used to restrict a container’s syscalls that can be\nsent to the kernel. This establishes an extra layer of protection a",
-          "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
-          "a10:updated": "2024-11-12T19:00:41Z"
         }
       ]
     }
