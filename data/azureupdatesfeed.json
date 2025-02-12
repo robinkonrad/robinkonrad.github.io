@@ -6,9 +6,101 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 12 Feb 2025 18:30:38 Z",
+      "lastBuildDate": "Wed, 12 Feb 2025 19:15:08 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479976"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479976",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Azure Firewall Manager",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Azure Firewall Updates - BYOIP Support for Secured Virtual Hubs",
+          "description": "Customer Provided Public IP Support for Secured Virtual Hub: Admins can now assign customer-managed public IPs to Secured Virtual Hub firewalls (new deployments only). Key benefits: Full control – Own and manage the lifecycle of your firewall’s public IP.",
+          "pubDate": "Mon, 10 Feb 2025 18:30:47 Z",
+          "a10:updated": "2025-02-12T19:15:08Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479194"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479194",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL pg_signal_autovaccum_worker role",
+          "description": "You can now use the pg_signal_autovacuum_worker role backported from PostgreSQL version 18 with Azure Database for PostgreSQL Flexible Server versions 15 and later. The autovacuum process, once it is triggered, blocks the execution of DDL statements until",
+          "pubDate": "Wed, 12 Feb 2025 18:45:27 Z",
+          "a10:updated": "2025-02-12T18:45:27Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479185"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479185",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Databases",
+            "Azure Arc",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Discovery of PostgreSQL Installed on Azure Arc-enabled Servers",
+          "description": "We are thrilled to announce that Azure Arc-enabled servers now have the capability to automatically identify PostgreSQL installations. This new feature allows you to use Azure-based management for overseeing your servers running PostgreSQL at-scale. With",
+          "pubDate": "Wed, 12 Feb 2025 18:45:27 Z",
+          "a10:updated": "2025-02-12T18:45:27Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479176"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479176",
+          "category": [
+            "In preview",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Virtual Canary Maintenance Program",
+          "description": "We are excited to introduce the Virtual Canary maintenance program, a new initiative designed to provide you with early access to Azure Database for MySQL maintenance updates. This program empowers you to stay ahead by testing your workloads against new f",
+          "pubDate": "Wed, 12 Feb 2025 18:45:27 Z",
+          "a10:updated": "2025-02-12T18:45:27Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "470479"
+          },
+          "link": "https://azure.microsoft.com/updates?id=470479",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Automatic Embedding Generation in vCore-based Azure Cosmos DB for MongoDB",
+          "description": "Boost your AI-driven applications by generating vector embeddings directly within in vCore-based Azure Cosmos DB for MongoDB using Azure OpenAI Service. This feature streamlines workflows for recommendation systems, semantic search, and other machine lear",
+          "pubDate": "Wed, 12 Feb 2025 18:45:27 Z",
+          "a10:updated": "2025-02-12T18:45:27Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -114,26 +206,6 @@
           ],
           "title": "[Launched] Generally Available: Fallback to Internet on Private DNS Zones",
           "description": "Fallback to internet on Private DNS Zones: New feature which unblocks adoption of a fully managed solution for Network Isolation and simplifies scenarios with Private Link and Private DNS. This feature enables public recursion to occur in the event of rec",
-          "pubDate": "Mon, 10 Feb 2025 18:30:47 Z",
-          "a10:updated": "2025-02-10T18:30:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "479976"
-          },
-          "link": "https://azure.microsoft.com/updates?id=479976",
-          "category": [
-            "In preview",
-            "Networking",
-            "Security",
-            "Azure Firewall",
-            "Azure Firewall Manager",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Azure Firewall Updates - Health Monitoring and BYOIP Support for Secured Virtual Hubs",
-          "description": "Azure Firewall Resource Health Check: Resource Health Check now includes backend Azure Firewall instance health monitoring in addition to existing SNAT port utilization and connection metrics. Key benefits: Improved visibility – Monitor overall Azure Fire",
           "pubDate": "Mon, 10 Feb 2025 18:30:47 Z",
           "a10:updated": "2025-02-10T18:30:47Z"
         },
@@ -3661,77 +3733,6 @@
           "description": "Because we're consolidating resources and there is low usage in the region, we'll be retiring Azure Health Data Services the Qatar Central region on October 31, 2025. Please ensure that you migrate to another available Azure Health Data Services region by",
           "pubDate": "Fri, 01 Nov 2024 00:30:29 Z",
           "a10:updated": "2024-11-13T14:15:57Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467028"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467028",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: SeccompDefault support in AKS",
-          "description": "SeccompDefault is available in public preview as a new parameter through\ncustom node configuration.  Secure\ncomputing mode (seccomp) is used to restrict a container’s syscalls that can be\nsent to the kernel. This establishes an extra layer of protection a",
-          "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
-          "a10:updated": "2024-11-12T19:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467023"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467023",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Linux 3.0 on Azure Kubernetes Service v1.31",
-          "description": "Azure Linux 3.0, the next major version\nrelease of the Azure Linux container host for Azure Kubernetes Service (AKS),\nis now available in preview on AKS version 1.31. Azure Linux 3.0 offers\nincreased package availability and versions, an updated kernel, a",
-          "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
-          "a10:updated": "2024-11-12T19:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467018"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467018",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Static egress gateway for AKS",
-          "description": "Static egress gateway for Azure\nKubernetes Service (AKS) is now in public preview. This feature allows AKS\ncustomers to configure a fixed source IP for out-of-cluster communications\nwithout incurring the significant cost of deploying a dedicated node pool",
-          "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
-          "a10:updated": "2024-11-12T19:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467013"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467013",
-          "category": [
-            "Launched",
-            "Open Source"
-          ],
-          "title": "[Launched] Generally Available: Fleet OSS announcements",
-          "description": "Microsoft Azure\nKubernetes Fleet Manager upstream team is making new multi-cluster features\navailable to any Kubernetes operator.For core multi-cluster workload placement\nthere is a v1alpha1 release of staged release pipelines\n(ClusterStagedUpdateRun) whi",
-          "pubDate": "Tue, 12 Nov 2024 19:00:41 Z",
-          "a10:updated": "2024-11-12T19:00:41Z"
         }
       ]
     }
