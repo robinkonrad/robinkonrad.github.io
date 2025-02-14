@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 13 Feb 2025 13:30:05 Z",
+      "lastBuildDate": "Fri, 14 Feb 2025 13:00:25 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "480463"
+          },
+          "link": "https://azure.microsoft.com/updates?id=480463",
+          "category": [
+            "Launched",
+            "Developer tools",
+            "DevOps",
+            "Azure Load Testing",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Support for Multiple JMeter Files in Azure Load Testing",
+          "description": "Azure Load Testing now supports using multiple JMeter files and fragments in a single load test, enabling greater modularity and reuse in your test design. Organize your JMeter scripts into smaller, reusable fragments to simplify test updates and manage c",
+          "pubDate": "Fri, 14 Feb 2025 13:00:25 Z",
+          "a10:updated": "2025-02-14T13:00:25Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3720,24 +3738,6 @@
           "description": "We’re excited to introduce LangChain.js integration with Azure Cosmos DB. You can use this powerful combination to efficiently manage fast and accurate data retrieval with greater ease in your JavaScript applications. The new LangChain.js integration make",
           "pubDate": "Thu, 07 Nov 2024 16:00:28 Z",
           "a10:updated": "2024-11-13T17:00:53Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467620"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467620",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Networking",
-            "Azure ExpressRoute",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Single prefix enhancement to seamless gateway migration",
-          "description": "With the Gateway migration experience, customers can use the Azure Portal or PowerShell scripts to deploy a second Virtual Network Gateway within the same GatewaySubnet of the Virtual Network. During the migration phase, once initiated by the customer, Az",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2024-11-13T16:45:12Z"
         }
       ]
     }
