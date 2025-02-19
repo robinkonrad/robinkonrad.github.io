@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 18 Feb 2025 21:00:25 Z",
+      "lastBuildDate": "Wed, 19 Feb 2025 12:15:45 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "482220"
+          },
+          "link": "https://azure.microsoft.com/updates?id=482220",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Migration",
+            "Azure Migrate",
+            "Management"
+          ],
+          "title": "[In preview] Public Preview: Azure Migrate Supports Premium SSD v2 Disks",
+          "description": "Azure Migrate now supports migration to Premium SSD v2 disks, providing users with advanced disk options that offer greater flexibility and enhanced performance. These disks are ideal for mission-critical applications that require high IOPS & throughput,",
+          "pubDate": "Wed, 19 Feb 2025 12:15:45 Z",
+          "a10:updated": "2025-02-19T12:15:45Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3720,24 +3738,6 @@
           "description": "To respond to evolving technology and regulatory standards, Azure Storage will remove support for TLS version 1.1 and 1.0, and the minimum supported version will be TLS1.2 starting November 1, 2025. TLS 1.2 is more secure and faster than older TLS version",
           "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
           "a10:updated": "2024-11-13T18:45:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "466855"
-          },
-          "link": "https://azure.microsoft.com/updates?id=466855",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Cosmos DB vector database integration with LangChain.js",
-          "description": "We’re excited to introduce LangChain.js integration with Azure Cosmos DB. You can use this powerful combination to efficiently manage fast and accurate data retrieval with greater ease in your JavaScript applications. The new LangChain.js integration make",
-          "pubDate": "Thu, 07 Nov 2024 16:00:28 Z",
-          "a10:updated": "2024-11-13T17:00:53Z"
         }
       ]
     }
