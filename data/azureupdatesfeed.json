@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 19 Feb 2025 12:15:45 Z",
+      "lastBuildDate": "Thu, 20 Feb 2025 19:00:24 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "467008"
+          },
+          "link": "https://azure.microsoft.com/updates?id=467008",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Container Storage on managed Prometheus",
+          "description": "Azure\nContainer Storage is a cloud-based volume management, deployment and\norchestration service and works with Azure Kubernetes Service (AKS) to\neffectively scale across storage services while providing a cost-effective,\ncontainer-native experience.  Cus",
+          "pubDate": "Thu, 20 Feb 2025 19:00:24 Z",
+          "a10:updated": "2025-02-20T19:00:24Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3718,26 +3736,6 @@
           "description": "Support for Azure Load Balancer numberOfProbes property ends on September 1, 2027. To avoid service disruption, upgrade your apps to API version 2022-05-01 or higher and start using Azure Load Balancer probeThreshold property. We will not be supporting th",
           "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
           "a10:updated": "2024-11-13T19:00:17Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "tls-12-to-become-the-minimum-tls-version-for-azure-storage"
-          },
-          "link": "https://azure.microsoft.com/updates?id=tls-12-to-become-the-minimum-tls-version-for-azure-storage",
-          "category": [
-            "In development",
-            "Storage",
-            "Analytics",
-            "Azure Blob Storage",
-            "Azure Data Lake Storage",
-            "Compliance",
-            "Security"
-          ],
-          "title": "[In development] TLS 1.2 to become the minimum TLS version for Azure Storage",
-          "description": "To respond to evolving technology and regulatory standards, Azure Storage will remove support for TLS version 1.1 and 1.0, and the minimum supported version will be TLS1.2 starting November 1, 2025. TLS 1.2 is more secure and faster than older TLS version",
-          "pubDate": "Wed, 01 Nov 2023 16:00:17 Z",
-          "a10:updated": "2024-11-13T18:45:27Z"
         }
       ]
     }
