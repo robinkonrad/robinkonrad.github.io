@@ -6,9 +6,119 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 25 Feb 2025 20:00:24 Z",
+      "lastBuildDate": "Wed, 26 Feb 2025 17:00:16 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "481952"
+          },
+          "link": "https://azure.microsoft.com/updates?id=481952",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL Updates for Late-February",
+          "description": "In late-February 2025, the following updates and enhancements were made to Azure SQL:  Elevate your SQL queries with new T-SQL features: regular expressions (regex), fuzzy string-matching, and bigint support in DATEADD. Learn more.",
+          "pubDate": "Wed, 26 Feb 2025 17:00:16 Z",
+          "a10:updated": "2025-02-26T17:00:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "481947"
+          },
+          "link": "https://azure.microsoft.com/updates?id=481947",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Azure SQL Managed Instance",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure SQL Updates for Late-February",
+          "description": "In late-February 2025, the following updates and enhancements were made to Azure SQL:  Monitor database availability for Azure SQL Database using the SLA-compliant Availability metric. Learn more.  Use of native Windows principals for Azure SQL Managed In",
+          "pubDate": "Wed, 26 Feb 2025 17:00:16 Z",
+          "a10:updated": "2025-02-26T17:00:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "481937"
+          },
+          "link": "https://azure.microsoft.com/updates?id=481937",
+          "category": [
+            "In preview",
+            "Databases",
+            "Migration",
+            "Azure Database for MySQL",
+            "Azure Database Migration Service",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Unified Migration Experience in Azure Database Migration Service",
+          "description": "Effortlessly migrate your MySQL workloads from on-premises, virtual machines (VMs), or other clouds to Azure Database for MySQL - Flexible Server with minimal downtime. The new unified migration experience in Azure Database Migration Service supports both",
+          "pubDate": "Wed, 26 Feb 2025 17:00:16 Z",
+          "a10:updated": "2025-02-26T17:00:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479199"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479199",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Database for PostgreSQL Azure AI Extension Managed Identity Support",
+          "description": "With managed identity support in the Azure AI extension on Azure Database for PostgreSQL – Flexible Server, you no longer need to store secrets (access tokens) to your Azure OpenAI, Azure AI Services, and Azure Machine Learning services within the Postgre",
+          "pubDate": "Wed, 26 Feb 2025 17:00:16 Z",
+          "a10:updated": "2025-02-26T17:00:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "474864"
+          },
+          "link": "https://azure.microsoft.com/updates?id=474864",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Latest PostgreSQL Minor Versions Supported by Azure Database for PostgreSQL – Flexible Server",
+          "description": "PostgreSQL minor versions 17.2, 16.6, 15.10, 14.15, 13.18, and 12.22 are now supported by Azure Database for PostgreSQL – Flexible Server.  These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azure Databa",
+          "pubDate": "Wed, 26 Feb 2025 17:00:16 Z",
+          "a10:updated": "2025-02-26T17:00:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "474825"
+          },
+          "link": "https://azure.microsoft.com/updates?id=474825",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Cosmos DB Rust SDK",
+          "description": "The Azure Cosmos DB Rust Software Development Kit (SDK) is now in public preview. You can use the Rust SDK to connect to an Azure Cosmos DB for NoSQL account and perform operations on databases, containers, and items. In addition to creating, reading, upd",
+          "pubDate": "Wed, 26 Feb 2025 17:00:16 Z",
+          "a10:updated": "2025-02-26T17:00:16Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3616,124 +3726,6 @@
           "description": "Jumpstart Drops has officially reached general availability, marking a major milestone in simplifying workflows and empowering users exploring Microsoft technologies.  Since its Public Preview debut at Microsoft Build 2024, Jumpstart Drops has grown into",
           "pubDate": "Tue, 19 Nov 2024 08:00:33 Z",
           "a10:updated": "2024-11-19T08:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467738"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467738",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Database for MySQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Default zone resilience in Azure Database for MySQL – Flexible Server Business Critical service tier",
-          "description": "In the face of zonal outages, ensuring seamless server recovery is critical for maintaining business continuity. With this new enhancement in Dec 2024, your mission-critical MySQL workloads on Azure Database for MySQL – Flexible Server Business Critical s",
-          "pubDate": "Mon, 18 Nov 2024 17:00:46 Z",
-          "a10:updated": "2024-11-18T17:00:46Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467524"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467524",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Introducing Apache AGE graph support in Azure Database for PostgreSQL",
-          "description": "We’re excited to announce new Apache AGE support in Azure Database for PostgreSQL, a significant advancement in graph processing capabilities within the PostgreSQL ecosystem. You can now take full advantage of a powerful set of graph database tools using",
-          "pubDate": "Mon, 18 Nov 2024 17:00:46 Z",
-          "a10:updated": "2024-11-18T17:00:46Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467509"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467509",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: On-demand backups for Azure Database for PostgreSQL - Flexible Server",
-          "description": "Now you can create physical snapshots of Azure Database for PostgreSQL - Flexible Server based on your business needs. This feature complements the scheduled automated backups offered by the service, while adding the flexibility to delete the on-demand ba",
-          "pubDate": "Mon, 18 Nov 2024 17:00:46 Z",
-          "a10:updated": "2024-11-18T17:00:46Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468335"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468335",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Features",
-            "Microsoft Connect"
-          ],
-          "title": "[Launched] Generally Available: Standby Pools for Virtual Machine Scale Sets with Flexible Orchestration",
-          "description": "Standby Pools for Virtual Machine Scale Sets with Flexible\nOrchestration is now generally available.  Standby pools for Virtual Machine Scale Sets enables you to\nincrease scaling performance by creating a pool of pre-provisioned virtual\nmachines. The virt",
-          "pubDate": "Mon, 18 Nov 2024 13:30:07 Z",
-          "a10:updated": "2024-11-18T13:30:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468587"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468587",
-          "category": [
-            "In development",
-            "Networking",
-            "Security",
-            "Compute",
-            "Containers",
-            "Application Gateway",
-            "Azure Kubernetes Service (AKS)",
-            "Web Application Firewall",
-            "Features",
-            "Services",
-            "Security"
-          ],
-          "title": "[In development] Private Preview: Web Application Firewall (WAF) running on Application Gateway for Containers",
-          "description": "Application Gateway for\nContainers now supports Web Application Firewall (WAF) in private preview. WAF’s\nDefault Ruleset provides Azure Kubernetes Service (AKS) users with centralized\nprotection against malicious attacks and exploits such as: \n Cross-site",
-          "pubDate": "Fri, 15 Nov 2024 20:30:07 Z",
-          "a10:updated": "2024-11-15T20:30:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "entra-id-support-for-ssh-connections-in-portal-is-now-generally-available"
-          },
-          "link": "https://azure.microsoft.com/updates?id=entra-id-support-for-ssh-connections-in-portal-is-now-generally-available",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Bastion",
-            "Security",
-            "Services",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Entra ID support for SSH connections in portal",
-          "description": "We are announcing that Azure Bastion now supports Microsoft Entra ID authentication for SSH connections in the portal. With Microsoft Entra ID authentication, there are two main benefits to users connecting to their virtual machines. First, it eliminates",
-          "pubDate": "Thu, 05 Sep 2024 07:00:00 Z",
-          "a10:updated": "2024-11-15T19:45:54Z"
         }
       ]
     }
