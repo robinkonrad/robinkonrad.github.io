@@ -6,9 +6,50 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 28 Feb 2025 13:00:40 Z",
+      "lastBuildDate": "Sat, 01 Mar 2025 19:00:13 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "483407"
+          },
+          "link": "https://azure.microsoft.com/updates?id=483407",
+          "category": [
+            "In preview",
+            "Databases",
+            "Security",
+            "Storage",
+            "Azure confidential ledger",
+            "Services",
+            "Security",
+            "Pricing & Offerings",
+            "Compliance"
+          ],
+          "title": "[In preview] Private preview: User-defined functions for Azure confidential ledger",
+          "description": "Azure confidential ledger now allows you to deploy custom business logic written in JavaScript/TypeScript and take advantage of increased protection of data in memory by running those scripts in a trusted execution environment (TEE). For example, create c",
+          "pubDate": "Sat, 01 Mar 2025 19:00:13 Z",
+          "a10:updated": "2025-03-01T19:00:13Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "483402"
+          },
+          "link": "https://azure.microsoft.com/updates?id=483402",
+          "category": [
+            "Launched",
+            "Databases",
+            "Security",
+            "Storage",
+            "Azure confidential ledger",
+            "Pricing & Offerings"
+          ],
+          "title": "[Launched] Generally Available: User-Defined Functions for Azure Confidential Ledger",
+          "description": "Effective March 1, 2025, you can keep your records in Azure confidential ledger (ACL) at the reduced price of approximately $3 per day per instance. The reduced price is for the computation and the ledger use. To protect your records, automatically create",
+          "pubDate": "Sat, 01 Mar 2025 19:00:13 Z",
+          "a10:updated": "2025-03-01T19:00:13Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3689,42 +3730,6 @@
           "description": "Network security perimeter restricts access to resources within the perimeter, and it allows non-perimeter public traffic through explicitly defined inbound and outbound access rules. With network security perimeter, administrators can: Create a secure bo",
           "pubDate": "Tue, 19 Nov 2024 08:00:33 Z",
           "a10:updated": "2024-11-19T12:30:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469288"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469288",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Bastion",
-            "Security",
-            "Services",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Azure Bastion Premium",
-          "description": "Azure Bastion Premium is a new SKU to target customers handling highly sensitive virtual machine workloads. Its mission is to offer enhanced security features that ensure customer virtual machines are connected securely and to monitor VMs for any anomalie",
-          "pubDate": "Tue, 19 Nov 2024 12:00:43 Z",
-          "a10:updated": "2024-11-19T12:00:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467857"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467857",
-          "category": [
-            "In preview",
-            "Microsoft Ignite",
-            "OperatingSystem"
-          ],
-          "title": "[In preview] Public Preview: Hotpatching for Windows Server 2025",
-          "description": "Windows Server 2025 Standard and Datacenter edition server hotpatching - security updates without reboots - is ready for your evaluation in preview. This feature will be a game changer; simpler change control, shorter patch windows, easier orchestration H",
-          "pubDate": "Tue, 19 Nov 2024 08:00:33 Z",
-          "a10:updated": "2024-11-19T08:00:33Z"
         }
       ]
     }
