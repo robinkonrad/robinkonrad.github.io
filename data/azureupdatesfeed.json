@@ -6,9 +6,31 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 05 Mar 2025 23:30:41 Z",
+      "lastBuildDate": "Thu, 06 Mar 2025 18:00:06 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "483352"
+          },
+          "link": "https://azure.microsoft.com/updates?id=483352",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "DevOps",
+            "Management and governance",
+            "Azure Kubernetes Service (AKS)",
+            "Azure Monitor",
+            "Managed Prometheus",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Managed Prometheus Supports Horizontal Pod Autoscaling for Replica Set Pods in AKS",
+          "description": "Azure Monitor Managed service for Prometheus now supports Horizontal Pod Autoscaling (HPA) for the ama-metrics replica set pod by default. With this update, the ama-metrics replica set pod which handles the scraping of Prometheus metrics with custom jobs",
+          "pubDate": "Thu, 06 Mar 2025 18:00:06 Z",
+          "a10:updated": "2025-03-06T18:00:06Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3717,25 +3739,6 @@
           "description": "New capabilities in Azure Event Grid add functionality to the MQTT broker feature and to Namespace topics – as well as enhanced security options.  Generally Available features: Namespace topic push delivery to webhook endpoints  Support for webhook endpoi",
           "pubDate": "Tue, 19 Nov 2024 14:00:28 Z",
           "a10:updated": "2024-11-19T14:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468076"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468076",
-          "category": [
-            "In preview",
-            "Developer tools",
-            "DevOps",
-            "Azure Deployment Environments",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: New features enhance developer experience, customizations, and security in Azure Deployment Environments",
-          "description": "New features in Azure Deployment\nEnvironments further expand developer access to app infrastructure and give platform\nengineers even more effective tools for customizing and securing enterprise\ndeployments.   Enhanced integration with Azure Developer CLI",
-          "pubDate": "Tue, 19 Nov 2024 13:30:46 Z",
-          "a10:updated": "2024-11-19T13:30:46Z"
         }
       ]
     }
