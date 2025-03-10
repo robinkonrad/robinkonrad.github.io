@@ -6,9 +6,24 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 07 Mar 2025 17:00:04 Z",
+      "lastBuildDate": "Mon, 10 Mar 2025 15:45:29 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "482409"
+          },
+          "link": "https://azure.microsoft.com/updates?id=482409",
+          "category": [
+            "Application Insights",
+            "Retirements"
+          ],
+          "title": "Support for Application Insights Status Monitor v1 will End on March 31, 2025",
+          "description": "Status Monitor v1 will be retired on  March 31, 2025. Product usage telemetry shows that there are no customers currently using this product. However, the Microsoft Software Installer (msi) for this agent is still publicly available for download. If you h",
+          "pubDate": "Mon, 10 Mar 2025 15:45:29 Z",
+          "a10:updated": "2025-03-10T15:45:29Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3722,27 +3737,6 @@
           ],
           "title": "[Launched] Generally Available: Azure Functions Flex Consumption plan",
           "description": "Flex Consumption plan is a new Azure Functions\nhosting plan that builds on the consumption pay per second serverless billing\nmodel with automatic scale down to zero when not in use for cost efficiency., It\nprovides you with more flexibility and customizab",
-          "pubDate": "Tue, 19 Nov 2024 16:00:37 Z",
-          "a10:updated": "2024-11-19T16:00:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467758"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467758",
-          "category": [
-            "In development",
-            "Compute",
-            "Virtual Machines",
-            "Windows Virtual Machines",
-            "Features",
-            "Microsoft Ignite",
-            "Services",
-            "Security"
-          ],
-          "title": "[In development] Private Preview: DCa/ECa v6 series AMD based confidential virtual machines (VMs)",
-          "description": "Microsoft is announcing the preview of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) running on 4th generation AMD EPYC™ processors with Secure Encrypted Virtualization – Secure Nested Paging (SEV-SNP) security features. These VM",
           "pubDate": "Tue, 19 Nov 2024 16:00:37 Z",
           "a10:updated": "2024-11-19T16:00:37Z"
         }
