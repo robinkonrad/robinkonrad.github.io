@@ -6,9 +6,81 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 13 Mar 2025 16:00:38 Z",
+      "lastBuildDate": "Thu, 13 Mar 2025 19:45:06 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484112"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484112",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Control Plane Azure Platform Metrics in AKS",
+          "description": "You can now monitor your AKS cluster control plane components\nsuch as the API server and ETCD using the new Azure platform metrics for control\nplane. The metrics provide insight into the\navailability and performance of your managed control plane component",
+          "pubDate": "Thu, 13 Mar 2025 19:45:06 Z",
+          "a10:updated": "2025-03-13T19:45:06Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484107"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484107",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Default Ephemeral OS Disk Sizing in AKS",
+          "description": "If\nyou select a VM SKU that supports Ephemeral OS disks but don't specify an OS\ndisk size, AKS by default provisions an Ephemeral OS disk with a size that\nscales according to the total temp storage of the VM SKU so long as the temp is\nat least 128GiB. If",
+          "pubDate": "Thu, 13 Mar 2025 19:45:06 Z",
+          "a10:updated": "2025-03-13T19:45:06Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484091"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484091",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Message of the Day Support in AKS",
+          "description": "Message\nof the day (MOTD) is now generally available on AKS. You can pass the --message-of-the-day flag with the\nlocation of the file to replace the Message of the Day on Linux nodes at\ncluster creation or node pool creation. This is often used in combina",
+          "pubDate": "Thu, 13 Mar 2025 19:45:06 Z",
+          "a10:updated": "2025-03-13T19:45:06Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484080"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484080",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Linux 3.0 Support in AKS",
+          "description": "Azure\nLinux 3.0, the next major version release of the Azure Linux container host for\nAzure Kubernetes Service (AKS), is now available in preview and default on Kubernetes\nversion 1.32. Azure Linux 3.0 offers increased package availability and\nversions, a",
+          "pubDate": "Thu, 13 Mar 2025 19:45:06 Z",
+          "a10:updated": "2025-03-13T19:45:06Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3646,83 +3718,6 @@
           "description": "We're excited to announce the general availability of Microsoft DiskANN vector index in Azure Cosmos DB for NoSQL. With this cutting-edge vector index type, you can perform fast, accurate vector similarity searches at any scale. With this release, you get",
           "pubDate": "Tue, 21 May 2024 16:00:17 Z",
           "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468765"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468765",
-          "category": [
-            "In preview",
-            "Analytics",
-            "Microsoft Fabric",
-            "Microsoft Ignite",
-            "Management",
-            "Compliance",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Monitor your Fabric workspaces",
-          "description": "We are excited to announce workspace monitoring in Fabric. Workspace monitoring is designed for admins and developers to view detailed diagnostic logs and workload metrics about their workspaces to troubleshoot performance issues, capacity performance, an",
-          "pubDate": "Tue, 19 Nov 2024 16:00:37 Z",
-          "a10:updated": "2024-11-19T16:00:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468760"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468760",
-          "category": [
-            "Launched",
-            "Analytics",
-            "Microsoft Fabric",
-            "Microsoft Ignite",
-            "Security",
-            "Management",
-            "Compliance",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: OneLake catalog—a complete catalog for discovery, management, and governance",
-          "description": "OneLake\ncatalog is a complete solution to explore, manage, and govern your\nentire Fabric data estate. The OneLake catalog comes with two tabs, Explore and\nGovern, that can help all Fabric users discover and manage trusted data, as\nwell as provide governan",
-          "pubDate": "Tue, 19 Nov 2024 16:00:37 Z",
-          "a10:updated": "2024-11-19T16:00:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468110"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468110",
-          "category": [
-            "Launched",
-            "Compute",
-            "Mobile",
-            "Web",
-            "App Service",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Sidecar extensibility in Azure App Service",
-          "description": "We are excited to announce the General Availability (GA) of sidecar support for both source-code and container-based applications on Azure App Service for Linux. This feature is a significant step forward in providing robust, flexible cloud services, furt",
-          "pubDate": "Tue, 19 Nov 2024 16:00:37 Z",
-          "a10:updated": "2024-11-19T16:00:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468030"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468030",
-          "category": [
-            "In preview",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: NUnit support in Microsoft Playwright Testing",
-          "description": "We’re thrilled to announce that Microsoft Playwright Testing supports the NUnit test runner. This feature is now in preview. C# developers can now seamlessly\nrun NUnit-based tests with Microsoft Playwright Testing to streamline continuous\nintegration (CI)",
-          "pubDate": "Tue, 19 Nov 2024 16:00:37 Z",
-          "a10:updated": "2024-11-19T16:00:37Z"
         }
       ]
     }
