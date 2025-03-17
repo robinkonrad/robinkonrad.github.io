@@ -6,9 +6,24 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 17 Mar 2025 16:15:30 Z",
+      "lastBuildDate": "Mon, 17 Mar 2025 17:00:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485579"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485579",
+          "category": [
+            "Launched",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Stream Analytics Integration with Schema Registry",
+          "description": "This feature enables users to retrieve schema information\nfrom the Azure Event Hub Schema Registry and deserialize data from Event Hub\ninputs in Avro format. By offloading schema metadata to the Schema Registry, this\nintegration reduces per-message overhe",
+          "pubDate": "Mon, 17 Mar 2025 17:00:02 Z",
+          "a10:updated": "2025-03-17T17:00:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3691,24 +3706,6 @@
           ],
           "title": "[Launched] Generally Available: Los Angeles - Azure Extended Zones",
           "description": "We are announcing the general availability of the Los\nAngeles Azure Extended Zone.  Azure Extended Zones are small-footprint extensions of Azure\nplaced in metros, industry centers, or a specific jurisdiction to serve low\nlatency and data residency workloa",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467728"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467728",
-          "category": [
-            "In preview",
-            "Databases",
-            "Azure Database for MySQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: MySQL 9.1 Innovation release support",
-          "description": "We're thrilled to announce that Azure Database for MySQL now supports the MySQL 9.1 Innovation release, bringing the latest features to your database experience. This release includes exciting new capabilities, such as JavaScript for stored procedures and",
           "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
           "a10:updated": "2024-11-19T17:00:35Z"
         }
