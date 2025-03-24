@@ -6,9 +6,50 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 21 Mar 2025 21:45:02 Z",
+      "lastBuildDate": "Mon, 24 Mar 2025 19:30:20 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486031"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486031",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Features",
+            "Services",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Azure Firewall Updates - Parallel IP Group Updates",
+          "description": "Parallel IP Group support: Admins can now update multiple IP Groups in parallel or simultaneously with their firewall or firewall policies.  Key benefits: Faster & scalable updates – Update up to 20 IP Groups simultaneously, up to twice as fast as before.",
+          "pubDate": "Mon, 24 Mar 2025 19:30:20 Z",
+          "a10:updated": "2025-03-24T19:30:20Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479735"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479735",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Azure Private Link",
+            "Regions & Datacenters",
+            "Services",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: New Regions for Azure Front Door Premium with Private Link Enabled Origins",
+          "description": "You can now set West US 2 and South East Asia as regions for Private Link-enabled origins in your Front Door Premium profile. Private Link-enabled origins in Front Door allow you to deliver content to your end-users through public Front Door endpoints whi",
+          "pubDate": "Mon, 24 Mar 2025 19:15:02 Z",
+          "a10:updated": "2025-03-24T19:15:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3657,44 +3698,6 @@
           ],
           "title": "[Launched] Generally Available: Support for GPT4o (Text and Images) Across All GenAI Policies in Azure API Management",
           "description": "We’re excited to announce expanded support for GPT4o models (including text and image-based capabilities) across all Generative AI policies in Azure API Management. With this release, you can now apply enhanced management and optimization features, includ",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468001"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468001",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Automate Build and Deployment for Standard Logic App Workflows with Azure DevOps",
-          "description": "We’re excited to announce the general availability of automated build and deployment support for Standard logic app workflows in Azure Logic Apps. With this release, you can streamline the deployment process for single-tenant logic apps using Azure DevOps",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467996"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467996",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Deployment slots in Azure Logic Apps Standard",
-          "description": "We’re excited to announce the General Availability of deployment slots in Azure Logic Apps Standard, a feature designed to enable zero-downtime deployment for mission-critical logic apps. With deployment slots, you can now update and deploy new versions o",
           "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
           "a10:updated": "2024-11-19T17:00:35Z"
         }
