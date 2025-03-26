@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 26 Mar 2025 18:45:15 Z",
+      "lastBuildDate": "Wed, 26 Mar 2025 19:00:59 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "483475"
+          },
+          "link": "https://azure.microsoft.com/updates?id=483475",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure NetApp Files",
+            "Features",
+            "Pricing & Offerings"
+          ],
+          "title": "[In preview] Public Preview: Azure NetApp Files Flexible service level",
+          "description": "Flexible service level allows you to independently configure storage capacity and throughput, optimizing costs and performance by right-sizing based on your needs. This new service level avoids overprovisioning by supporting a customizable throughput whic",
+          "pubDate": "Wed, 26 Mar 2025 19:00:59 Z",
+          "a10:updated": "2025-03-26T19:00:59Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3646,26 +3664,6 @@
           ],
           "title": "[In preview] Public Preview: Secure by default with vault soft delete for Azure Backup",
           "description": "Secure by default with soft delete for Azure Backup enables you to recover your backup data even after it's deleted. With enabling soft delete at vault level, we are now providing secure by default promise for all customers where all the backup data will",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469138"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469138",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Storage",
-            "Azure Backup",
-            "Microsoft Ignite",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Immutable WORM Storage for Backups in Azure Recovery Services Vaults",
-          "description": "Azure\nBackup users will now have immutable WORM storage for their backups when\nimmutability is enabled and locked on a Recovery Services Vault. When\nimmutability is enabled, it ensures that a Recovery Point, once created, cannot\nbe deleted or have its ret",
           "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
           "a10:updated": "2024-11-19T17:00:35Z"
         }
