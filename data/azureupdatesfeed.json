@@ -6,9 +6,213 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 26 Mar 2025 17:00:03 Z",
+      "lastBuildDate": "Wed, 26 Mar 2025 18:45:15 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486388"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486388",
+          "category": [
+            "Launched",
+            "Analytics",
+            "Management and governance",
+            "Azure Chaos Studio",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Chaos Studio Auto-Tagging of Experiment Resources for Private Networking Now Available",
+          "description": "We’re\nexcited to announce a new feature in Azure Chaos Studio that enhances resource\nmanagement and compliance for customers using private networking in their\nexperiments. Previously, while customers could apply tags to their experiments,\nthe underlying c",
+          "pubDate": "Wed, 26 Mar 2025 18:45:15 Z",
+          "a10:updated": "2025-03-26T18:45:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "479041"
+          },
+          "link": "https://azure.microsoft.com/updates?id=479041",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Log Analytics",
+            "Features",
+            "Management"
+          ],
+          "title": "[Launched] Generally Available: Log Analytics Delete Data API",
+          "description": "The Delete Data API lets you make asynchronous requests to remove data, such as sensitive, personal, or corrupt from your Log Analytics workspace. This API is more performant than Purge API since tagging logs as deleted, rather than performing heady delet",
+          "pubDate": "Wed, 26 Mar 2025 18:45:15 Z",
+          "a10:updated": "2025-03-26T18:45:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485828"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485828",
+          "category": [
+            "Management and governance",
+            "Automation",
+            "Retirements"
+          ],
+          "title": "Retirement: Support for Desired State Configuration Extension for Azure Virtual Machines to Be Retired on March 31, 2028",
+          "description": "Desired State Configuration Extension for Azure Virtual Machines will be retired on March 31, 2028, please transition to Azure Machine Configuration by that date. We encourage you to transition to Azure Machine Configuration prior to the retirement date t",
+          "pubDate": "Wed, 26 Mar 2025 18:30:31 Z",
+          "a10:updated": "2025-03-26T18:30:31Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "487106"
+          },
+          "link": "https://azure.microsoft.com/updates?id=487106",
+          "category": [
+            "In preview",
+            "Developer tools",
+            "DevOps",
+            "Azure DevTest Labs",
+            "Features",
+            "Retirements",
+            "Pricing & Offerings",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Enhance Performance and Security with Standard Load Balancer and Standard SKU Public IP Addresses in Azure DevTest Labs",
+          "description": "We are excited to announce enhancements in Azure DevTest\nLabs to support Azure’s retirement of Basic Load Balancer and Basic SKU public\nIP addresses. Azure DevTest Labs will now use Standard Load Balancer to manage\ntraffic for\nVMs created with Shared IPs.",
+          "pubDate": "Wed, 26 Mar 2025 17:45:20 Z",
+          "a10:updated": "2025-03-26T18:30:31Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486507"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486507",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Anthropic Gen AI Models in Azure Databricks",
+          "description": "We are thrilled to announce that as of March 26, 2025, Microsoft Azure customers can access and use Anthropic models within their existing Azure Databricks workspaces. This integration is a collaborative effort between Microsoft and Databricks, aimed at e",
+          "pubDate": "Wed, 26 Mar 2025 18:15:48 Z",
+          "a10:updated": "2025-03-26T18:15:48Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485513"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485513",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Long-Term Backup Retention for Azure Database for PostgreSQL – Flexible Server",
+          "description": "Azure Database for PostgreSQL - Flexible Server now offers a backup solution for supporting long-term backup retention and improved compliance for your PostgreSQL databases using Azure Backup. This release enables you to take advantage of a rich set of ca",
+          "pubDate": "Wed, 26 Mar 2025 18:15:48 Z",
+          "a10:updated": "2025-03-26T18:15:48Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485508"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485508",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: On-Demand Backups for Azure Database for PostgreSQL – Flexible Server",
+          "description": "Now you can create physical snapshots of Azure Database for PostgreSQL – Flexible Server based on your business needs. This new feature complements the scheduled automated backups offered by the service, while adding the flexibility to delete the on-deman",
+          "pubDate": "Wed, 26 Mar 2025 18:15:48 Z",
+          "a10:updated": "2025-03-26T18:15:48Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485495"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485495",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Point-in-Time Restore Capability for Multiregion Write Accounts in Azure Cosmos DB",
+          "description": "Now you can perform point-in-time restore for multiregion write accounts so you can restore data in a granular fashion up to latest restorable time. With this feature, you can create multiregion write accounts with point-in-time restore capability in Azur",
+          "pubDate": "Wed, 26 Mar 2025 18:15:48 Z",
+          "a10:updated": "2025-03-26T18:15:48Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "481942"
+          },
+          "link": "https://azure.microsoft.com/updates?id=481942",
+          "category": [
+            "In preview",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Database for MySQL Triggers for Azure Functions",
+          "description": "With the Azure Database for MySQL triggers for Azure Functions, you can enable change tracking and develop event-driven applications at scale on any MySQL table.  Azure Functions can be invoked when a row in a MySQL table is created, updated, or deleted t",
+          "pubDate": "Wed, 26 Mar 2025 18:15:48 Z",
+          "a10:updated": "2025-03-26T18:15:48Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485819"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485819",
+          "category": "Retirements",
+          "title": "Retirement: Azure Maps Route APIs Version 1.0 to Be Retired on March 31, 2028",
+          "description": "The following Azure Maps Route APIs version 1.0 will be retired on March 31, 2028: Get Route Directions Get Route Directions Batch Post Route Directions Post Route Direction Batch Post Route Directions Batch Sync Get Route Matrix Post Route Matrix Post Ro",
+          "pubDate": "Wed, 26 Mar 2025 17:30:35 Z",
+          "a10:updated": "2025-03-26T17:30:35Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485241"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485241",
+          "category": [
+            "Containers",
+            "Azure Container Registry",
+            "Retirements"
+          ],
+          "title": "Retirement: Docker Content Trust on March 31, 2028 – Replaced by the Notary Project and Azure Key Vault",
+          "description": "Azure Container Registry (ACR) implements Docker Content Trust (DCT), allowing image publishers to sign their images and image consumers to verify that the images they pull are signed. With advancements in technology, Docker Content Trust no longer meets",
+          "pubDate": "Wed, 26 Mar 2025 17:15:39 Z",
+          "a10:updated": "2025-03-26T17:15:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485167"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485167",
+          "category": "Retirements",
+          "title": "Retirement: Docker Compose Feature for Azure App Service to Be Retired on March 31, 2027 – Replaced by Sidecars in Azure App Service",
+          "description": "The docker compose feature will be retired on March 31,\n2027, please transition to the sidecar container by that date. The sidecar\ncontainers allow you to create multi-container applications with a more\nintuitive configuration and integration with all oth",
+          "pubDate": "Wed, 26 Mar 2025 17:15:39 Z",
+          "a10:updated": "2025-03-26T17:15:39Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3462,228 +3666,6 @@
           ],
           "title": "[Launched] Generally Available: Immutable WORM Storage for Backups in Azure Recovery Services Vaults",
           "description": "Azure\nBackup users will now have immutable WORM storage for their backups when\nimmutability is enabled and locked on a Recovery Services Vault. When\nimmutability is enabled, it ensures that a Recovery Point, once created, cannot\nbe deleted or have its ret",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468570"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468570",
-          "category": [
-            "In preview",
-            "Networking",
-            "Azure DNS",
-            "Features",
-            "Microsoft Ignite",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Fallback to internet on Private DNS Zones",
-          "description": "Fallback to internet on Private DNS Zones: New feature which\nunblocks adoption of a fully managed solution for Network Isolation and\nsimplifies scenarios with Private Link and Private DNS. This feature enables\npublic recursion to occur in the event of rec",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468565"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468565",
-          "category": [
-            "In preview",
-            "Networking",
-            "Azure DNS",
-            "Microsoft Ignite",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: DNS security policy",
-          "description": "DNS security policy is now in public preview. This new\nfeature brings the visibility of DNS traffic at the VNET level with the\nflexibility to send logs to storage account, log analytics workspace, or event\nhubs. The private preview also includes DNS filte",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468354"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468354",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: VMSS Zonal Expansion",
-          "description": "We are pleased to announce that the Azure VMSS Zonal Expansion\nfeature is now generally available. This significant enhancement allows\ncustomers to transition their virtual machine scale sets from a regional to\nzonal resiliency strategy or add additional",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468349"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468349",
-          "category": [
-            "In preview",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Resilient create and delete on Virtual Machine Scale Sets",
-          "description": "We’re excited to announce our new feature that increases\nvirtual machine create and delete success in your scale sets. Resilient create\nand delete initiates auto-recovery from failed create and deletes by performing\nretries of those operations on your beh",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468340"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468340",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Container Instances",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Standby Pools for Azure Container Instances",
-          "description": "Standby Pools for Azure Container Instances is now in public\npreview.  Standby Pools for Azure Container Instances enable customers\nto create a pool of pre-provisioned container groups that can be used to scale\nout in response to incoming traffic. The con",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468330"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468330",
-          "category": [
-            "In preview",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Custom metrics for rolling upgrades on Virtual Machine Scale Sets",
-          "description": "Custom metrics for rolling upgrades enables you to utilize the application health extension to emit custom metrics to your Virtual Machine Scale Set. These custom metrics can be used to tell the scale set the order in which virtual machines should be upda",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468325"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468325",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: MaxSurge on Virtual Machine Scale Sets",
-          "description": "Rolling upgrades with MaxSurge for Virtual Machine Scale\nSets is now generally available.  Rolling upgrades with MaxSurge can help improve service\nuptime during upgrade events. With MaxSurge enabled, new instances are created\nin batches using the latest s",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468300"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468300",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Services",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Upgrade Policies on Virtual Machine Scale Sets with Flexible Orchestration",
-          "description": "Upgrade policies allow for more granular control over the\nupgrade process, ensuring that your services remain available and responsive\nduring updates. The available upgrade policies are: Automatic, Manual, and\nRolling. Automatic upgrade policy: the scale",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468287"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468287",
-          "category": [
-            "In preview",
-            "Compute",
-            "Azure Compute Fleet",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Attribute Based VM selection in Azure Compute Fleet",
-          "description": "Attribute-based VM selection, is new feature in Azure\nCompute Fleet that enables you to configure your instance requirements as a set\nof VM attributes (e.g., memory, vCPU, and storage), instead of explicitly chosen\nVM sizes.  This means users gets optimal",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468267"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468267",
-          "category": [
-            "In preview",
-            "Compute",
-            "Azure Compute Fleet",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Multi-region deployment in Azure Compute Fleet",
-          "description": "Azure Compute is announcing the gated preview launch of multi-region deployment in Azure Compute Fleet, an innovative capability designed to bring unmatched flexibility and reliability on accessing compute capacity for your cloud workloads. This new featu",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468081"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468081",
-          "category": [
-            "In preview",
-            "Networking",
-            "Virtual Network",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Virtual Network now supports configuration of private IP address blocks on network interfaces",
-          "description": "Azure Virtual Network now\nsupports up to 16X more private IP addresses with configuration of blocks of\nprivate IP addresses on a network interface. Network interfaces in Azure\nsupport configuration of one primary and multiple secondary IP configurations.",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T17:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "468067"
-          },
-          "link": "https://azure.microsoft.com/updates?id=468067",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Mobile",
-            "Web",
-            "API Management",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Synchronization between Azure API Center and Azure API Management",
-          "description": "We’re thrilled to announce the synchronization between Azure API Management and Azure API Center! This integration combines the robust governance of API Center with the powerful management capabilities of API Management, delivering a unified solution for",
           "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
           "a10:updated": "2024-11-19T17:00:35Z"
         }
