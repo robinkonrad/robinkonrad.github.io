@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 28 Mar 2025 16:30:54 Z",
+      "lastBuildDate": "Fri, 28 Mar 2025 18:30:45 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "487178"
+          },
+          "link": "https://azure.microsoft.com/updates?id=487178",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure NetApp Files",
+            "SDK and Tools",
+            "Features"
+          ],
+          "title": "[Launched] Generally Availability: AzAcSnap 11 — Azure Application Consistent Snapshot Tool Updates",
+          "description": "Version\n11 of the AzAcSnap tool is now generally available. Azure Application Consistent Snapshot Tool (AzAcSnap)\nis a command-line tool that enables customers to simplify data protection for\nthird-party databases in Linux and Windows environments. AzAcSn",
+          "pubDate": "Fri, 28 Mar 2025 18:30:45 Z",
+          "a10:updated": "2025-03-28T18:30:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485810"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485810",
+          "category": [
+            "Internet of Things",
+            "Mobile",
+            "Web",
+            "Azure Maps",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Maps Traffic APIs Version 1.0 to Be Retired on March 31, 2028",
+          "description": "The following Azure Maps Traffic APIs version 1.0 will be retired on March 31, 2028:Get Traffic Flow Segment Get Traffic Flow Tile Get Traffic Incident Detail Get Traffic Incident Tile Get Traffic Incident Viewport Please transition to Azure Maps Traffic",
+          "pubDate": "Fri, 28 Mar 2025 18:30:45 Z",
+          "a10:updated": "2025-03-28T18:30:45Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3609,57 +3645,6 @@
           "description": "We’re excited to announce the public preview of DiskANN with filtering in vCore-based Azure Cosmos DB for MongoDB. With DiskANN, you can perform large-scale vector searches while reducing memory usage by up to 10 times compared to other algorithms like IV",
           "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
           "a10:updated": "2024-11-19T18:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467748"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467748",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure NetApp Files",
-            "Pricing & Offerings",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure NetApp Files cool access support for large volumes",
-          "description": "Announcing the general availability of cool access feature support with large volumes. This allows tiering of infrequently accessed data on large volumes under standard, premium or ultra storage, to a lower-cost storage tier.  This allows your large capac",
-          "pubDate": "Tue, 19 Nov 2024 18:00:36 Z",
-          "a10:updated": "2024-11-19T18:00:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467290"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467290",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Mobile",
-            "Web",
-            "Compute",
-            "Containers",
-            "Developer tools",
-            "API Management",
-            "App Service",
-            "Azure Container Apps",
-            "Azure Functions",
-            "Azure Kubernetes Service (AKS)",
-            "Azure SignalR Service",
-            "Logic Apps",
-            "Visual Studio",
-            "Microsoft Ignite",
-            "Open Source",
-            "Features",
-            "SDK and Tools"
-          ],
-          "title": "[Launched] Generally Available: .NET 9",
-          "description": "As of November 12, 2024, NET 9 is now generally available for download. Azure PaaS services, including Azure App Service, Azure Functions, Azure Container Apps, and more, now fully support .NET 9.Customers can now leverage the enhanced capabilities of .NE",
-          "pubDate": "Tue, 19 Nov 2024 18:00:36 Z",
-          "a10:updated": "2024-11-19T18:00:36Z"
         }
       ]
     }
