@@ -6,9 +6,37 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 28 Mar 2025 18:30:45 Z",
+      "lastBuildDate": "Fri, 28 Mar 2025 23:45:38 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485893"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485893",
+          "category": [
+            "Hybrid + multicloud",
+            "Azure Arc",
+            "Retirements"
+          ],
+          "title": "Retirement: Announcing the 3-Year Retirement of Current Architecture for AKS on Windows Server 2019 and Windows Server 2022",
+          "description": "Azure Kubernetes Service's current architecture on Windows Server 2019 and\nWindows Server 2022 will be retired on March 27, 2028. Replace your\nexisting Azure Kubernetes Service clusters on Windows Server 2019, Windows\nServer 2022 or Azure Local, version 2",
+          "pubDate": "Fri, 28 Mar 2025 23:45:38 Z",
+          "a10:updated": "2025-03-28T23:45:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484943"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484943",
+          "category": "Retirements",
+          "title": "Retirement: Azure Intelligent Recommendation Service to Be Retired",
+          "description": "Azure Intelligent Recommendations service will be\nretired on March 31, 2026. This service is being retired due to\nchanges in strategy and focus with the onset of the Copilot era. We encourage\nyou to identify alternative options.   From now to March 31, 20",
+          "pubDate": "Fri, 28 Mar 2025 23:45:38 Z",
+          "a10:updated": "2025-03-28T23:45:38Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3607,44 +3635,6 @@
           "description": "We're announcing new features in Dev Box that make it\neasier to configure task-based workstations for development teams and enhance project\nguardrails.  Cloud-based development environment for teams Team customizations: Dev team leads can create project-b",
           "pubDate": "Tue, 19 Nov 2024 13:30:46 Z",
           "a10:updated": "2024-11-19T19:00:05Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467753"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467753",
-          "category": [
-            "In development",
-            "Compliance",
-            "Features",
-            "Microsoft Ignite",
-            "Security",
-            "Services"
-          ],
-          "title": "[In development] Private Preview: Azure Confidential Clean Rooms",
-          "description": "Microsoft is announcing the gated preview of Azure Confidential Clean Rooms, a cutting-edge solution designed for organizations that require secure multi-party data collaboration. With Confidential Clean Rooms, you can share privacy sensitive data such as",
-          "pubDate": "Tue, 19 Nov 2024 18:15:23 Z",
-          "a10:updated": "2024-11-19T18:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467434"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467434",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: DiskANN vector indexing and search in vCore-based Azure Cosmos DB for MongoDB",
-          "description": "We’re excited to announce the public preview of DiskANN with filtering in vCore-based Azure Cosmos DB for MongoDB. With DiskANN, you can perform large-scale vector searches while reducing memory usage by up to 10 times compared to other algorithms like IV",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2024-11-19T18:15:23Z"
         }
       ]
     }
