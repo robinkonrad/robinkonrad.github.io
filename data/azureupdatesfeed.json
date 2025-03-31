@@ -6,9 +6,93 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 31 Mar 2025 19:00:02 Z",
+      "lastBuildDate": "Mon, 31 Mar 2025 20:30:26 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486344"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486344",
+          "category": [
+            "Compute",
+            "Cloud Services",
+            "Retirements"
+          ],
+          "title": "Retirement: Cloud Services (Extended Support) to Be Retired on March 31, 2027",
+          "description": "On March 31, 2027, we’ll retire the Cloud Services (extended support) deployment model. Before that date, you’ll need to migrate services that were deployed using this model to Service Fabric managed cluster which enhances\nthe scalability, flexibility, an",
+          "pubDate": "Mon, 31 Mar 2025 20:30:26 Z",
+          "a10:updated": "2025-03-31T20:30:26Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485047"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485047",
+          "category": [
+            "Compute",
+            "Mobile",
+            "Web",
+            "App Service",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure App Service Will No Longer Support Linked Databases as a Part of Custom Backups After March 31, 2028",
+          "description": "Beginning March 31, 2028, the Azure App Service custom backup feature will no longer back up linked databases configured as part of the Azure App Service custom backup feature. We strongly recommend that you use the native backup and restore tools availab",
+          "pubDate": "Mon, 31 Mar 2025 20:30:26 Z",
+          "a10:updated": "2025-03-31T20:30:26Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485683"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485683",
+          "category": [
+            "Containers",
+            "Azure Container Apps",
+            "Retirements"
+          ],
+          "title": "Retirement: Add-ons Feature in Azure Container Apps",
+          "description": "The public\npreview add-ons feature in Azure Container Apps will be retired on September 30,\n2025. To prepare for this change, transition to Azure managed services, such as\nAzure Cache for Redis or Azure Database for PostgreSQL, if you’re ready to use\na pr",
+          "pubDate": "Mon, 31 Mar 2025 20:15:47 Z",
+          "a10:updated": "2025-03-31T20:15:47Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "487247"
+          },
+          "link": "https://azure.microsoft.com/updates?id=487247",
+          "category": [
+            "Identity",
+            "Security",
+            "Microsoft Entra Domain Services",
+            "Retirements",
+            "Security"
+          ],
+          "title": "Retirement: Upgrade Your Entra Domain Services to TLS 1.2 by August 31, 2025",
+          "description": "Entra Domain Services customers who are using TLS 1.0 and 1.1 need to migrate to 1.2 by August 31, 2025. Please see the instructions here:Transport Layer Security (TLS) 1.2 enforcement for Microsoft Entra Domain Services - Microsoft Entra ID | Microsoft L",
+          "pubDate": "Mon, 31 Mar 2025 20:00:03 Z",
+          "a10:updated": "2025-03-31T20:00:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484968"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484968",
+          "category": [
+            "Analytics",
+            "Azure Synapse Analytics",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Synapse Data Explorer (Preview) to Be Retired on October 7, 2025",
+          "description": "Synapse Data Explorer (Preview) will be retired on October 7, 2025. The next generation of Synapse Data Explorer offering is evolving to become Eventhouse in Real-Time Intelligence, part of Microsoft Fabric. Eventhouse offers the same powerful features an",
+          "pubDate": "Mon, 31 Mar 2025 20:00:03 Z",
+          "a10:updated": "2025-03-31T20:00:03Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3533,103 +3617,6 @@
           "description": "Network security perimeter allows Azure PaaS resources to communicate within an explicit trusted boundary. External access can be limited based on network controls defined across all private link resources within a perimeter.  All resources inside a perim",
           "pubDate": "Wed, 20 Nov 2024 17:00:53 Z",
           "a10:updated": "2024-11-20T17:00:53Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469776"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469776",
-          "category": [
-            "Launched",
-            "Containers",
-            "Storage",
-            "Compute",
-            "Azure Container Storage",
-            "Azure Disk Storage",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Services",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Enhancements on Azure Container Storage for performance, scalability, and operational insights",
-          "description": "We are excited to unveil key advancements in Azure Container Storage, our purpose-built storage solution for stateful containers on Azure Kubernetes Service (AKS). These updates bring increased performance and improved reliability to support even the most",
-          "pubDate": "Tue, 19 Nov 2024 23:30:31 Z",
-          "a10:updated": "2024-11-19T23:30:31Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469519"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469519",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Kubernetes Metadata and Logs Filtering in Azure Monitor - Container Insights",
-          "description": "We are excited to announce the general availability of\nKubernetes Metadata and Logs Filtering in Azure Monitor – Container Insights!\nThis enhancement adds Kubernetes metadata to the ContainerLogsV2 schema,\nincluding PodLabels, PodAnnotations, PodUid, Imag",
-          "pubDate": "Tue, 19 Nov 2024 18:00:36 Z",
-          "a10:updated": "2024-11-19T22:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "diskann-indexing-on-azure-database-for-postgresql"
-          },
-          "link": "https://azure.microsoft.com/updates?id=diskann-indexing-on-azure-database-for-postgresql",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: DiskANN indexing on Azure Database for PostgreSQL",
-          "description": "We're thrilled to announce the preview of DiskANN, one of the fastest vector indexing algorithms on the market, which is now available for Azure Database for PostgreSQL. Developed at Microsoft Research, DiskANN is used extensively at Microsoft in global s",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-11-19T19:30:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-sql-database-mirroring-in-microsoft-fabric"
-          },
-          "link": "https://azure.microsoft.com/updates?id=public-preview-azure-sql-database-mirroring-in-microsoft-fabric",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Mirroring Azure SQL Database in Fabric",
-          "description": "We are excited to announce the general availability of Mirroring Azure SQL Database in Fabric. Mirroring is a simple, free, and frictionless way to replicate a snapshot of incremental data changes in Azure SQL Database to Fabric OneLake. Delta tables keep",
-          "pubDate": "Tue, 26 Mar 2024 16:00:14 Z",
-          "a10:updated": "2024-11-19T19:30:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467485"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467485",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Data API in vCore-based Azure Cosmos DB for MongoDB",
-          "description": "We’re excited to announce the public preview of the Data API for vCore-based Azure Cosmos DB for MongoDB. The Data API provides a flexible and powerful way to interact with your database through HTTP-based API calls.  Learn more.",
-          "pubDate": "Tue, 19 Nov 2024 19:00:05 Z",
-          "a10:updated": "2024-11-19T19:00:05Z"
         }
       ]
     }
