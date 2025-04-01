@@ -6,9 +6,43 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 01 Apr 2025 02:15:27 Z",
+      "lastBuildDate": "Tue, 01 Apr 2025 13:00:55 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485880"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485880",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Front Door Custom Cipher Suite",
+          "description": "Azure\nFront Door now supports custom cipher suite in public preview. You can use\neither a predefined policy or a custom policy per your own needs.   \n\nAzure\nFront Door offers several predefined TLS policies. You can configure your AFD\nwith any of these",
+          "pubDate": "Tue, 01 Apr 2025 13:00:55 Z",
+          "a10:updated": "2025-04-01T13:00:55Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486166"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486166",
+          "category": [
+            "Launched",
+            "Application Insights",
+            "Features"
+          ],
+          "title": "[Launched] Public Preview: Azure Monitor Application Insights Auto-Instrumentation for Java and Node Microservices on AKS",
+          "description": "Application\nInsights integration for Java and Node microservices is now available\nin Public Preview. You can now easily monitor your Java and Node\ndeployments without changing your code by leveraging auto-instrumentation\nthat is integrated into the AKS cl",
+          "pubDate": "Tue, 01 Apr 2025 12:30:20 Z",
+          "a10:updated": "2025-04-01T12:30:20Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3568,44 +3602,6 @@
           "description": "In mid-November 2024, the following updates and enhancements were made to Azure SQL:  You can now set up a network security perimeter (NSP) in Azure SQL Database. An NSP defines a boundary around a group of platform as a service (PaaS) resources, providin",
           "pubDate": "Wed, 20 Nov 2024 17:00:53 Z",
           "a10:updated": "2024-11-20T18:15:53Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467519"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467519",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Managed Service Identity for Azure Storage extension in Azure Database for PostgreSQL",
-          "description": "You can now use Managed Service Identity to authenticate the Azure Storage extension in Azure Database for PostgreSQL – Flexible Server against Azure Blob Storage accounts. The Azure Storage extension enables interactions with Azure Blob Storage accounts",
-          "pubDate": "Wed, 20 Nov 2024 17:00:53 Z",
-          "a10:updated": "2024-11-20T17:00:53Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467514"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467514",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Elastic clusters on Azure Database for PostgreSQL - Flexible Server",
-          "description": "Now you can use elastic clusters to horizontally scale Azure Database for PostgreSQL - Flexible Server through row-based and schema-based sharding. Elastic clusters make it easy to build multitenant apps by offloading shard management and operations—such",
-          "pubDate": "Wed, 20 Nov 2024 17:00:53 Z",
-          "a10:updated": "2024-11-20T17:00:53Z"
         }
       ]
     }
