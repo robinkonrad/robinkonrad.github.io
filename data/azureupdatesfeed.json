@@ -6,9 +6,244 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 02 Apr 2025 14:30:40 Z",
+      "lastBuildDate": "Wed, 02 Apr 2025 15:30:39 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486804"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486804",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: AKS Cost Recommendations in Azure Advisor",
+          "description": "To help\nyou optimize your AKS clusters, Azure Advisor now offers AKS cost\nrecommendations. These advisors are designed to identify cost savings\nopportunities and provide actionable insights to enforce AKS cost best\npractices. The recommendations are tailo",
+          "pubDate": "Wed, 02 Apr 2025 15:30:39 Z",
+          "a10:updated": "2025-04-02T15:30:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486799"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486799",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Network isolated cluster in AKS",
+          "description": "Today, you\ncan control an AKS cluster's egress traffic using Azure Firewall. While this\nconfiguration is intended to isolate the cluster to protect sensitive business\nor customer data, it adds an additional layer of management complexity and\ncost.    AKS",
+          "pubDate": "Wed, 02 Apr 2025 15:30:39 Z",
+          "a10:updated": "2025-04-02T15:30:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486794"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486794",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Multiple Load Balancers for AKS",
+          "description": "To address\nexisting SLB rule limits and private link constraints, AKS now supports\nmultiple standard load balancers (SLB) per cluster. This enhancement allows for\nbetter scalability, workload distribution, and flexibility in managing network\ntraffic acros",
+          "pubDate": "Wed, 02 Apr 2025 15:30:39 Z",
+          "a10:updated": "2025-04-02T15:30:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486789"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486789",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Service Allowed IP Ranges in AKS",
+          "description": "AKS now\nallows you to define both IP ranges and service tags for Service LoadBalancers,\nproviding more flexible traffic control than loadBalancerSourceRanges. This\neliminates the need for manual service tag updates and ensures seamless traffic\nmanagement",
+          "pubDate": "Wed, 02 Apr 2025 15:30:39 Z",
+          "a10:updated": "2025-04-02T15:30:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486779"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486779",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Cilium Endpoint Slices in AKS",
+          "description": "AKS now\nsupports Cilium endpoint slices, improving scalability and efficiency of\nnetwork endpoint management. By reducing API server load and optimizing service\ndiscovery, endpoint slices enhance networking performance for AKS clusters\nusing the Cilium  d",
+          "pubDate": "Wed, 02 Apr 2025 15:30:39 Z",
+          "a10:updated": "2025-04-02T15:30:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486774"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486774",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Advanced Container Networking Services Cilium L7 Policies Support in AKS",
+          "description": "AKS now\nsupports Layer 7 (L7) network policies in Advanced Container Networking\nServices + Cilium clusters, enabling fine-grained control over application\ntraffic. With L7 policies, customers can define security rules based on\napplication-layer attributes",
+          "pubDate": "Wed, 02 Apr 2025 15:30:39 Z",
+          "a10:updated": "2025-04-02T15:30:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486751"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486751",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure CNI Node Subnet + Cilium Support",
+          "description": "To improve\ncompatibility and flexibility for customers transitioning to ePBF-based\nnetworking, AKS now supports the Cilium dataplane with Azure CNI Node Subnet.\nThis enhancement allows you to leverage Cilium’s advanced networking\ncapabilities while using",
+          "pubDate": "Wed, 02 Apr 2025 15:30:39 Z",
+          "a10:updated": "2025-04-02T15:30:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486809"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486809",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: maxUnavailable Setting for Upgrades in AKS",
+          "description": "AKS now\nsupports setting a maxUnavailable option for upgrading nodepools to a newer\nversion of both Kubernetes and node images. With maxUnavailable, you no longer\nneed to use surge nodes to begin the upgrade process. AKS will instead simply\ncordon and dra",
+          "pubDate": "Wed, 02 Apr 2025 15:00:09 Z",
+          "a10:updated": "2025-04-02T15:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486784"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486784",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Standard Load Balancer (SLB) Health Probe Redesign in AKS",
+          "description": "AKS now\noffers improved load balancing for services using externalTrafficPolicy:\nCluster. This enhancement enables the standard load balancer (SLB) to probe\nkube-proxy directly instead of backend applications. This new capability\nenhances reliability, red",
+          "pubDate": "Wed, 02 Apr 2025 15:00:09 Z",
+          "a10:updated": "2025-04-02T15:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486756"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486756",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: AKS Support for Persistent Network Flow Logging for Advanced Container Networking Services",
+          "description": "To enable\nbetter security auditing, performance analysis, and troubleshooting of network\nflows within your AKS clusters, AKS now supports persistent network flow\nlogging with Advanced Container Networking Services. This enhancement allows\nyou to capture a",
+          "pubDate": "Wed, 02 Apr 2025 15:00:09 Z",
+          "a10:updated": "2025-04-02T15:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486746"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486746",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Cilium WireGuard Encryption Support in AKS",
+          "description": "AKS\nsupports WireGuard encryption in Advanced Container Networking Services +\nCilium data plane clusters. This enables seamless node-to-node encryption for\nimproved security. This integration provides a lightweight, high-performance\nencryption mechanism f",
+          "pubDate": "Wed, 02 Apr 2025 15:00:09 Z",
+          "a10:updated": "2025-04-02T15:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486736"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486736",
+          "category": [
+            "In preview",
+            "Containers",
+            "Compute",
+            "Azure Kubernetes Fleet Manager",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public preview: Multi-cluster Workload Rollout Strategies and Runs with Azure Kubernetes Fleet Manager",
+          "description": "Operators\nusing Azure Kubernetes Fleet Manager’s Cluster Resource Placement for\nintelligent execution of multi-cluster workload placement can now define\nreusable staged rollout strategies using ClusterStagedUpdateStrategy custom\nresource. A ClusterStagedU",
+          "pubDate": "Wed, 02 Apr 2025 15:00:09 Z",
+          "a10:updated": "2025-04-02T15:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486726"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486726",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Skip Automatic GPU Driver Installation",
+          "description": "By\ndefault, AKS installs NVIDIA GPU drivers when a node pool is created using a VM\nsize that supports NVIDIA GPUs. The ability to skip automatic driver\ninstallation on your GPU-enabled node pools is now generally available. This\noption allows you to self-",
+          "pubDate": "Wed, 02 Apr 2025 15:00:09 Z",
+          "a10:updated": "2025-04-02T15:00:09Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3362,242 +3597,6 @@
           "description": "Now you can deploy Azure Database for PostgreSQL – Flexible Server in the Spain Central and Mexico Central regions.  For a detailed list of supported regions, see Azure regions.",
           "pubDate": "Thu, 05 Dec 2024 17:15:04 Z",
           "a10:updated": "2024-12-05T17:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470447"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470447",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server network monitoring metrics",
-          "description": "We are excited to announce the release of new network monitoring metrics in Azure Database for PostgreSQL – Flexible Server. With these enhancements, you can now gain deeper insights into network activities at the virtual machine level, helping you effect",
-          "pubDate": "Thu, 05 Dec 2024 17:15:04 Z",
-          "a10:updated": "2024-12-05T17:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470442"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470442",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: High-availability health status monitoring for Azure Database for PostgreSQL – Flexible Server",
-          "description": "With the general availability of high-availability (HA) health status monitoring for Azure Database for PostgreSQL – Flexible Server, you can now track and maintain the health of HA-enabled instances with ease. This feature offers real-time insights into",
-          "pubDate": "Thu, 05 Dec 2024 17:15:04 Z",
-          "a10:updated": "2024-12-05T17:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "vcore-based-azure-cosmos-db-for-mongodb-up-to-32-tib-storage"
-          },
-          "link": "https://azure.microsoft.com/updates?id=vcore-based-azure-cosmos-db-for-mongodb-up-to-32-tib-storage",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: vCore-based Azure Cosmos DB for MongoDB—up to 32 TiB storage",
-          "description": "Higher capacity storage with higher IOPS enables you to host larger workloads on your vCore-based Azure Cosmos DB for MongoDB cluster. Now when you provision new clusters, you can help elevate performance by choosing from 8 TiB, 16 TiB, and 32 TiB with 16",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-12-04T22:15:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mdb-vcore-repl"
-          },
-          "link": "https://azure.microsoft.com/updates?id=mdb-vcore-repl",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Cross-region replication in vCore-based Azure Cosmos DB for MongoDB",
-          "description": "With new support for cross-region disaster recovery in vCore-based Azure Cosmos DB for MongoDB, you can create a replica of a cluster in another region. This cluster replica is continuously updated with the data written in the primary region. In the rare",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-12-04T22:15:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "mdb-vcore-sharding"
-          },
-          "link": "https://azure.microsoft.com/updates?id=mdb-vcore-sharding",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: vCore-based Azure Cosmos DB for MongoDB multishard clusters",
-          "description": "You can now use up to five physical shards on your vCore-based Azure Cosmos DB for MongoDB clusters. An increased number of shards in a cluster enables you to host larger workloads and get elevated performance through higher concurrency.     When you crea",
-          "pubDate": "Thu, 10 Oct 2024 07:00:00 Z",
-          "a10:updated": "2024-12-04T22:15:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-index-recommendations-in-azure-database-for-postgresql-flexible-server"
-          },
-          "link": "https://azure.microsoft.com/updates?id=public-preview-index-recommendations-in-azure-database-for-postgresql-flexible-server",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Index tuning in Azure Database for PostgreSQL - Flexible Server",
-          "description": "Now you can use index tuning to analyze the most resource intensive set of queries in your workload and produce recommendations of indexes that, once created, improve the performance of those queries. Index tuning also recommends indexes you can drop if t",
-          "pubDate": "Tue, 21 May 2024 16:00:19 Z",
-          "a10:updated": "2024-12-04T20:15:20Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470517"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470517",
-          "category": [
-            "Launched",
-            "Integration",
-            "Azure Health Data Services",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Health Data Services de-identification service",
-          "description": "Azure Health Data Services’ de-identification service empowers organizations to securely de-identify clinical data while preserving its clinical relevance and adhering to the strict standards of the HIPAA privacy rule. The service uses natural language pr",
-          "pubDate": "Tue, 03 Dec 2024 23:30:01 Z",
-          "a10:updated": "2024-12-03T23:30:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "471200"
-          },
-          "link": "https://azure.microsoft.com/updates?id=471200",
-          "category": [
-            "Launched",
-            "Storage",
-            "Compute",
-            "Azure Elastic SAN",
-            "Azure VMware Solution",
-            "Features",
-            "Services",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Enhancements on Elastic SAN on resiliency, scalability, and integration with Azure VMWare Solution",
-          "description": "We have published an availability Service Level Agreement (SLA). The SLA can be found here, and will provide peace of mind for those of you running mission critical workloads on Elastic SAN.  Additionally, we have enabled CRC protection to help customers",
-          "pubDate": "Tue, 03 Dec 2024 21:15:04 Z",
-          "a10:updated": "2024-12-03T21:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469263"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469263",
-          "category": [
-            "In preview",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Neon Serverless Postgres - an Azure Native Integration",
-          "description": "Neon Serverless\nPostgres an Azure Native Integration offers a modern, serverless, and fully\nmanaged Postgres service. Developed through collaboration between Microsoft and\nNeon, this service enables the creation and management of Neon organizations\ndirect",
-          "pubDate": "Tue, 03 Dec 2024 17:00:33 Z",
-          "a10:updated": "2024-12-03T17:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469969"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469969",
-          "category": [
-            "Launched",
-            "Analytics",
-            "Management and governance",
-            "Azure Chaos Studio",
-            "Management",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: New built-in roles for Azure Chaos Studio",
-          "description": "Azure Chaos Studio Experiment Contributor, Chaos Studio Operator, and Chaos Studio Reader are new Azure built-in roles users can utilize to manage access to Chaos Studio within their organizationsChaos Studio Experiment Contributor: Can create, run, and s",
-          "pubDate": "Mon, 02 Dec 2024 19:00:55 Z",
-          "a10:updated": "2024-12-02T19:00:55Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467872"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467872",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public preview: Upgrade algorithm improvements in AKS",
-          "description": "AKS upgrades currently fail when encountering a Pod drain failure. To\nimprove upgrade efficiency, a new algorithm is being introduced. It allows you\nto configure upgrades so that if a node is blocked, AKS will use any available surge\ncapacity to continue",
-          "pubDate": "Tue, 19 Nov 2024 16:00:37 Z",
-          "a10:updated": "2024-11-26T18:00:59Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470314"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470314",
-          "category": [
-            "Launched",
-            "Analytics",
-            "Azure Data Explorer",
-            "Microsoft Fabric",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Star pattern and default node identifier in Kusto",
-          "description": "We are announcing the general availability of two powerful new features in Kusto Graph Semantics.  The star pattern allows users to express nonlinear patterns using comma-delimited sequences, making it particularly useful for describing connections where",
-          "pubDate": "Fri, 22 Nov 2024 20:00:49 Z",
-          "a10:updated": "2024-11-22T20:00:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470309"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470309",
-          "category": [
-            "In preview",
-            "Analytics",
-            "Azure Data Explorer",
-            "Microsoft Fabric",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: New graph operators in Kusto",
-          "description": "We are excited to announce the release of two powerful new graph operators in Kusto: graph-shortest-path and graph-mark-components. The graph-shortest-paths operator is designed to streamline the process of finding the shortest paths between nodes in a gr",
-          "pubDate": "Fri, 22 Nov 2024 20:00:49 Z",
-          "a10:updated": "2024-11-22T20:00:49Z"
         }
       ]
     }
