@@ -6,9 +6,118 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 01 Apr 2025 21:45:51 Z",
+      "lastBuildDate": "Wed, 02 Apr 2025 14:30:40 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486731"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486731",
+          "category": [
+            "Launched",
+            "Containers",
+            "Compute",
+            "Azure Kubernetes Fleet Manager",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Multi-cluster Auto-upgrade in Azure Kubernetes Fleet Manager",
+          "description": "Platform\nadministrators managing large number of Kubernetes clusters face the challenge\nof updating Kubernetes or node images in a way that is safe and predictable. To\naddress this challenge, Azure Kubernetes Fleet Manager (Fleet Manager) provides\nupdate",
+          "pubDate": "Wed, 02 Apr 2025 14:30:40 Z",
+          "a10:updated": "2025-04-02T14:30:40Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486721"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486721",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Default Inference with vLLM with AI Toolchain Operator Add-on",
+          "description": "By\ndefault, the AI toolchain operator add-on now deploys model inferencing\nworkloads using the high-throughput vLLM serving engine. vLLM\noffers a significant speed-up to process incoming requests and flexibility to\nuse OpenAI-compatible APIs, DeepSeek R1",
+          "pubDate": "Wed, 02 Apr 2025 14:30:40 Z",
+          "a10:updated": "2025-04-02T14:30:40Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486716"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486716",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Application Insights auto-instrumentation for AKS",
+          "description": "To provide\nseamless monitoring for Java and Node deployments, AKS now offers Application\nInsights integration for Java and Node microservices. This integration,\navailable in public preview, allows customers to easily monitor their\ndeployments without chan",
+          "pubDate": "Wed, 02 Apr 2025 14:30:40 Z",
+          "a10:updated": "2025-04-02T14:30:40Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486814"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486814",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure CNI Overlay Dual-stack with Cilium Dataplane Support",
+          "description": "Azure CNI\noverlay now supports dual-stack networking with Azure CNI powered by Cilium,\nenabling customers to enforce IPv6 network policies and leverage Advanced\nContainer Networking Services (ACNS) in dual-stack environments. This update\nallows customers",
+          "pubDate": "Wed, 02 Apr 2025 14:00:42 Z",
+          "a10:updated": "2025-04-02T14:00:42Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486498"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486498",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: AKS Communication Manager",
+          "description": "The AKS\ncommunication manager streamlines notifications for all your AKS maintenance\ntasks by using Azure Resource Notification and Azure Resource Graph frameworks.\nThis tool enables you to monitor your upgrades closely by providing timely\nalerts on event",
+          "pubDate": "Wed, 02 Apr 2025 14:00:42 Z",
+          "a10:updated": "2025-04-02T14:00:42Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486493"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486493",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Linux 3.0 Support in AKS",
+          "description": "Azure\nLinux 3.0, the next major version release of the Azure Linux container host for\nAzure Kubernetes Service (AKS), is now generally available and defaults on\nKubernetes version 1.32. Azure Linux 3.0 offers increased package availability\nand versions, a",
+          "pubDate": "Wed, 02 Apr 2025 14:00:42 Z",
+          "a10:updated": "2025-04-02T14:00:42Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3489,117 +3598,6 @@
           "description": "We are excited to announce the release of two powerful new graph operators in Kusto: graph-shortest-path and graph-mark-components. The graph-shortest-paths operator is designed to streamline the process of finding the shortest paths between nodes in a gr",
           "pubDate": "Fri, 22 Nov 2024 20:00:49 Z",
           "a10:updated": "2024-11-22T20:00:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469695"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469695",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Storage",
-            "Compute",
-            "Containers",
-            "Azure Backup",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Regional Disaster Recovery by Azure Backup for AKS",
-          "description": "In today’s digital landscape, cloud administrators face the challenge of ensuring data and applications remain protected, compliant, and resilient amidst evolving cyber threats. We’re excited to announce the general availability (GA) of Vaulted Backup sup",
-          "pubDate": "Fri, 22 Nov 2024 18:00:20 Z",
-          "a10:updated": "2024-11-22T18:00:20Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-postgresql-migration-extension-in-azure-data-studio-1"
-          },
-          "link": "https://azure.microsoft.com/updates?id=azure-postgresql-migration-extension-in-azure-data-studio-1",
-          "category": [
-            "Retirements",
-            "Features"
-          ],
-          "title": "Retirement: Azure PostgreSQL migration extension in Azure Data Studio (ADS)",
-          "description": "The Azure PostgreSQL migration extension in Azure Data Studio (ADS) will be officially retired on November 15, 2024. As part of our commitment to providing you with the most advanced and reliable tools, we are phasing out this extension in Azure Data Stud",
-          "pubDate": "Thu, 12 Sep 2024 07:00:00 Z",
-          "a10:updated": "2024-11-22T12:45:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467600"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467600",
-          "category": [
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Retirements"
-          ],
-          "title": "Retirement: Support for TLS 1.0/1.1 in Application Insights Availability Tests will be retired",
-          "description": "On May 1, 2025, in alignment with the Azure-wide legacy TLS retirement announcement, TLS 1.0/1.1 protocol versions and TLS 1.2/1.3 Legacy Cipher Suites and Elliptical Curves will be retired for Application Insights Availability Tests. If you’re using any",
-          "pubDate": "Thu, 07 Nov 2024 15:45:04 Z",
-          "a10:updated": "2024-11-21T18:30:54Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470102"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470102",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Read and read/write privileges for secondary users in vCore-based Azure Cosmos DB for MongoDB",
-          "description": "Now vCore-based Azure Cosmos DB for MongoDB supports the integration of role-based access control (RBAC) to grant secondary users read/read-write privileges. Administrators have more granular access control. They can assign specific roles to users who req",
-          "pubDate": "Thu, 21 Nov 2024 17:30:38 Z",
-          "a10:updated": "2024-11-21T17:30:38Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470097"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470097",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Visual Studio Code extension for Azure Cosmos DB",
-          "description": "We’re excited to announce a new VS Code extension for Azure Cosmos DB. Now you can connect, query, and manage your Azure Cosmos DB resources directly within VS Code, streamlining your workflow.  Learn more.",
-          "pubDate": "Thu, 21 Nov 2024 17:30:38 Z",
-          "a10:updated": "2024-11-21T17:30:38Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470092"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470092",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Features",
-            "Microsoft Ignite",
-            "Pricing & Offerings",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Da/Ea/Fav6 series AMD based Azure Virtual Machines (VMs)",
-          "description": "Microsoft is announcing the general availability of the new Da/Ea/Fav6 series AMD based virtual machines (VMs). These VMs consist of our new general purpose Dasv6-series and Dalsv6-series, our new memory optimized Easv6-series VM series, and our new compu",
-          "pubDate": "Thu, 21 Nov 2024 17:30:38 Z",
-          "a10:updated": "2024-11-21T17:30:38Z"
         }
       ]
     }
