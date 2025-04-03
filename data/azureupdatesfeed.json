@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 02 Apr 2025 16:00:53 Z",
+      "lastBuildDate": "Thu, 03 Apr 2025 14:00:47 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "487406"
+          },
+          "link": "https://azure.microsoft.com/updates?id=487406",
+          "category": [
+            "In preview",
+            "Networking",
+            "Azure Private Link",
+            "Features",
+            "Security",
+            "Management"
+          ],
+          "title": "[In preview] Public Preview: Increased VNet limits for Private Endpoints",
+          "description": "With High Scale Private\nEndpoints, you are now able to increase Azure Private Endpoint’s default limits\nfor local and peered virtual networks. Today you are only able to deploy 1,000\nprivate endpoints within a singular Virtual Network. Any attempts to cre",
+          "pubDate": "Thu, 03 Apr 2025 14:00:47 Z",
+          "a10:updated": "2025-04-03T14:00:47Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3580,24 +3599,6 @@
           "description": "All Azure CDN from Edgio customers must migrate their workloads to Azure Front Door or other CDN services before January 15, 2025 as Edgio has advised their platform is currently scheduled to be shut down by that date. Migrate as soon as possible to avoid",
           "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
           "a10:updated": "2024-12-09T21:30:39Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470474"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470474",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure SQL updates for early-December",
-          "description": "In early-December 2024, the following updates and enhancements were made to Azure SQL:   Get enhanced monitoring now that the dynamic management function (DMF) displays the component causing throttling of the primary log generation rate in Azure SQL Datab",
-          "pubDate": "Thu, 05 Dec 2024 17:15:04 Z",
-          "a10:updated": "2024-12-05T17:15:04Z"
         }
       ]
     }
