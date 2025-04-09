@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 09 Apr 2025 17:15:06 Z",
+      "lastBuildDate": "Wed, 09 Apr 2025 17:45:39 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484714"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484714",
+          "category": [
+            "Retirements",
+            "Open Source",
+            "Operating System"
+          ],
+          "title": "Retirement: Canonical Ubuntu 20.04 LTS Reaching End of Standard Support on May 31, 2025",
+          "description": "We’re announcing the upcoming end of standard support for Ubuntu 20.04 LTS on May 31, 2025, as we focus on delivering a more secure and optimized Linux experience.  You can continue using your existing virtual machines, but after this date, security featu",
+          "pubDate": "Wed, 09 Apr 2025 17:45:39 Z",
+          "a10:updated": "2025-04-09T17:45:39Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -22,10 +38,28 @@
             "Azure Cosmos DB",
             "Features"
           ],
-          "title": "[In preview] Public Preview: Self-serve Enablement for All Versions and deletes mode in Azure Cosmos DB for NoSQL",
+          "title": "[In preview] Public Preview: Self-serve enablement for all versions and deletes mode in Azure Cosmos DB for NoSQL",
           "description": "You can now enable all versions and deletes change feed mode on your Azure Cosmos DB for NoSQL accounts without registering your subscription for the Preview. Before enabling this change feed mode, continuous backups must be turned on in your account. You",
           "pubDate": "Wed, 09 Apr 2025 16:00:07 Z",
-          "a10:updated": "2025-04-09T17:15:06Z"
+          "a10:updated": "2025-04-09T17:45:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "470484"
+          },
+          "link": "https://azure.microsoft.com/updates?id=470484",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Power BI Connector for vCore-based Azure Cosmos DB for MongoDB",
+          "description": "The new Power BI connector for vCore-based Azure Cosmos DB for MongoDB simplifies integration. You can now connect Power BI and  vCore-based Azure Cosmos DB for MongoDB using DirectQuery mode, allowing you to query your live data. Learn more.",
+          "pubDate": "Wed, 09 Apr 2025 16:00:07 Z",
+          "a10:updated": "2025-04-09T17:45:39Z"
         },
         {
           "guid": {
@@ -78,24 +112,6 @@
           ],
           "title": "[Launched] Generally Available: I/O Performance Analysis—SQL Server on Azure Virtual Machines",
           "description": "We’re excited to announce that I/O Analysis for SQL Server on Azure Virtual Machines is now generally available. This powerful feature, accessible in the Azure portal, helps you optimize your SQL Server workloads by identifying I/O performance bottlenecks",
-          "pubDate": "Wed, 09 Apr 2025 16:00:07 Z",
-          "a10:updated": "2025-04-09T16:00:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470484"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470484",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Power BI Connector for vCore-based Azure Cosmos DB for MongoDB",
-          "description": "The new Power BI connector for vCore-based Azure Cosmos DB for MongoDB simplifies integration. You can now connect Power BI and  vCore-based Azure Cosmos DB for MongoDB using DirectQuery mode, allowing you to query your live data. Learn more.",
           "pubDate": "Wed, 09 Apr 2025 16:00:07 Z",
           "a10:updated": "2025-04-09T16:00:07Z"
         },
@@ -3606,24 +3622,6 @@
           ],
           "title": "[In preview] Public Preview: GitHub Copilot for Azure – AKS plugins",
           "description": "GitHub Copilot for Azure now supports Azure Kubernetes Service (AKS)\nplugins. The extension, which enables AKS plugins for GitHub Copilot for Azure\n(@azure), allows users to perform various tasks related to AKS directly from\nthe GitHub Copilot Chat view.",
-          "pubDate": "Wed, 11 Dec 2024 04:00:45 Z",
-          "a10:updated": "2024-12-11T04:00:45Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "471319"
-          },
-          "link": "https://azure.microsoft.com/updates?id=471319",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: AKS automated deployments UI",
-          "description": "The AKS automated\ndeployments feature has received UI updates designed to make it easier for\ncustomers to get started with Azure Kubernetes Service. With these new\nimprovements, you can now select specific locations for saving autogenerated\nDockerfiles an",
           "pubDate": "Wed, 11 Dec 2024 04:00:45 Z",
           "a10:updated": "2024-12-11T04:00:45Z"
         }
