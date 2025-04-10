@@ -6,9 +6,46 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 09 Apr 2025 17:45:39 Z",
+      "lastBuildDate": "Thu, 10 Apr 2025 16:30:57 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489182"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489182",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Azure Front Door capturing request header, response header, and request query string values as server variables",
+          "description": "Azure Front Door introduced Capture URL path segment in server variable last year. We are now making further enhancements by adding capturing request and response header values and a particular request query string value as server variables for use in the",
+          "pubDate": "Thu, 10 Apr 2025 16:30:57 Z",
+          "a10:updated": "2025-04-10T16:30:57Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489004"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489004",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Bastion",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Azure Bastion Developer now in 36 public regions",
+          "description": "Previously available in 6 limited regions, Azure Bastion Developer has now expanded to a total of 36 public regions with support for more regions coming soon. Bastion Developer provides secure-by-default RDP/SSH connectivity to VMs without the need for a",
+          "pubDate": "Thu, 10 Apr 2025 16:30:57 Z",
+          "a10:updated": "2025-04-10T16:30:57Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3588,42 +3625,6 @@
           "description": "Today you can\ncontrol an AKS cluster's egress traffic using Azure Firewall. While this\nconfiguration is intended to isolate the cluster to protect sensitive business\nor customer data, it adds an additional layer of management complexity and\ncost.  AKS now",
           "pubDate": "Thu, 14 Nov 2024 20:15:40 Z",
           "a10:updated": "2024-12-12T19:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "471329"
-          },
-          "link": "https://azure.microsoft.com/updates?id=471329",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Enhanced AKS logs with Kubernetes metadata and logs filtering",
-          "description": "Azure\nKubernetes Service (AKS) logs now include detailed metadata, such as PodLabels,\nPodAnnotations, PodUid, Image, ImageID, ImageRepo, and ImageTag. These\nadditions provide richer context and improved visibility into workloads, aiding\nin troubleshooting",
-          "pubDate": "Wed, 11 Dec 2024 04:00:45 Z",
-          "a10:updated": "2024-12-11T04:00:45Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "471324"
-          },
-          "link": "https://azure.microsoft.com/updates?id=471324",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: GitHub Copilot for Azure – AKS plugins",
-          "description": "GitHub Copilot for Azure now supports Azure Kubernetes Service (AKS)\nplugins. The extension, which enables AKS plugins for GitHub Copilot for Azure\n(@azure), allows users to perform various tasks related to AKS directly from\nthe GitHub Copilot Chat view.",
-          "pubDate": "Wed, 11 Dec 2024 04:00:45 Z",
-          "a10:updated": "2024-12-11T04:00:45Z"
         }
       ]
     }
