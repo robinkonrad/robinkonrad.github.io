@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 14 Apr 2025 17:15:20 Z",
+      "lastBuildDate": "Mon, 14 Apr 2025 20:00:15 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489148"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489148",
+          "category": [
+            "Launched",
+            "Developer tools",
+            "DevOps",
+            "Azure Load Testing",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Support for Managed Identity based authentication flows in Azure Load Testing",
+          "description": "Azure Load Testing now supports simulating managed identity based authentication flows in load tests. As you transition to more secure authentication methods like managed identities, this capability ensures that you can seamlessly and effectively run load",
+          "pubDate": "Mon, 14 Apr 2025 20:00:15 Z",
+          "a10:updated": "2025-04-14T20:00:15Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3617,25 +3636,6 @@
           ],
           "title": "[In development] Private Preview: Azure Automation is revising Service and Subscription limits",
           "description": "Starting January 7th, 2025, Azure Automation will be revising its Service and Subscription limits to ensure fair distribution of cloud resources across all customers. The current Service and Subscription limits for Azure Automation can be found here.  Rev",
-          "pubDate": "Thu, 12 Dec 2024 20:15:31 Z",
-          "a10:updated": "2024-12-12T20:15:31Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470595"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470595",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Blob Storage",
-            "Features",
-            "Regions & Datacenters",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Storage account default maximum request rate limit increase to 40,000 requests per second",
-          "description": "The default maximum request rate for general-purpose v2 and\nBlob storage accounts has been increased from 20,000 to 40,000 requests per\nsecond in the following regions:  \n East Asia  \n Southeast Asia  \n Australia East  \n Brazil South  \n Canada Central",
           "pubDate": "Thu, 12 Dec 2024 20:15:31 Z",
           "a10:updated": "2024-12-12T20:15:31Z"
         }
