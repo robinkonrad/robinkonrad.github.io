@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 14 Apr 2025 16:15:23 Z",
+      "lastBuildDate": "Mon, 14 Apr 2025 17:15:20 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489428"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489428",
+          "category": [
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Retirements"
+          ],
+          "title": "Retirement: Support for Python 3.9 ends on October 31, 2025 – upgrade your Azure Functions apps to Python 3.11",
+          "description": "In\nalignment with the end of community support, on October 31, 2025, support for\nPython 3.9 in Azure Functions will end. Your apps that are hosted on\nFunctions will continue to run, but security updates and performance\noptimizations will no longer be avai",
+          "pubDate": "Mon, 14 Apr 2025 17:15:20 Z",
+          "a10:updated": "2025-04-14T17:15:20Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3620,21 +3638,6 @@
           "description": "The default maximum request rate for general-purpose v2 and\nBlob storage accounts has been increased from 20,000 to 40,000 requests per\nsecond in the following regions:  \n East Asia  \n Southeast Asia  \n Australia East  \n Brazil South  \n Canada Central",
           "pubDate": "Thu, 12 Dec 2024 20:15:31 Z",
           "a10:updated": "2024-12-12T20:15:31Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "469654"
-          },
-          "link": "https://azure.microsoft.com/updates?id=469654",
-          "category": [
-            "In preview",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Introducing security baseline with auto-remediation for Linux hybrid workloads",
-          "description": "The new Azure security baseline for Linux provides enhanced monitoring of compliance status across Linux workloads. It offers more accurate and detailed compliance information and helps customers meet regulatory requirements faster. Combined with the auto",
-          "pubDate": "Tue, 19 Nov 2024 14:00:28 Z",
-          "a10:updated": "2024-12-12T19:00:28Z"
         }
       ]
     }
