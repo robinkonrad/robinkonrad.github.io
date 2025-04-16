@@ -6,9 +6,47 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 16 Apr 2025 12:15:24 Z",
+      "lastBuildDate": "Wed, 16 Apr 2025 17:30:50 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489009"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489009",
+          "category": [
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Functions – Durable Functions support for Netherite will end on March 31, 2028",
+          "description": "Netherite, one of several backend providers supported by Durable\nFunctions, will no\nlonger be supported after March 31, 2028.  For function apps that need the\nhigher throughput benefits previously offered by Netherite, it is recommended\nthat you start eva",
+          "pubDate": "Wed, 16 Apr 2025 17:30:50 Z",
+          "a10:updated": "2025-04-16T17:30:50Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "488759"
+          },
+          "link": "https://azure.microsoft.com/updates?id=488759",
+          "category": [
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Retirements",
+            "Management",
+            "SDK and Tools",
+            "Open Source"
+          ],
+          "title": "Retirement: HELM chart-based onboarding workflow for the Azure Monitor Container Insights agent is retiring on October 1, 2025",
+          "description": "Starting October 1, 2025, the HELM chart-based onboarding\nworkflow for the Container Insights agent will be retired. To ensure your clusters are secure and running smoothly, please migrate to\nAzure Arc Kubernetes Container Insights Extension by October 1,",
+          "pubDate": "Wed, 16 Apr 2025 17:30:50 Z",
+          "a10:updated": "2025-04-16T17:30:50Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3606,42 +3644,6 @@
           "description": "We are excited to announce Azure NetApp Files volume enhancement with support for 50 GiB minimum volume sizes.Customers can now create an Azure NetApp Files volume as small as 50 GiB, compared to the initial minimum size of 100 GiB. This enhancement is pa",
           "pubDate": "Mon, 06 Jan 2025 20:15:01 Z",
           "a10:updated": "2025-01-06T20:15:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones"
-          },
-          "link": "https://azure.microsoft.com/updates?id=public-preview-azure-netapp-files-volume-enhancement-allow-the-same-file-path-for-volumes-in-different-availability-zones",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure NetApp Files",
-            "Features",
-            "Regions & Datacenters"
-          ],
-          "title": "[Launched] Generally Available: Azure NetApp Files volume enhancement – allow the same file path for volumes in different availability zones",
-          "description": "With this enhancement, Azure NetApp Files now allows the use of the same volume mount path for two or more volumes in the same region if they are each in a different availability zone. This is great for highly available architectures using cross-zone repl",
-          "pubDate": "Tue, 05 Mar 2024 18:00:13 Z",
-          "a10:updated": "2024-12-30T18:30:52Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "470933"
-          },
-          "link": "https://azure.microsoft.com/updates?id=470933",
-          "category": [
-            "Launched",
-            "Analytics",
-            "Azure HDInsight on Azure Kubernetes Service (AKS)",
-            "Regions & Datacenters",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: New Zealand North region added to Azure HDInsight",
-          "description": "HDInsight is now generally available in New Zealand North. Azure HDInsight is a managed, full-spectrum, open-source analytics service in the cloud for enterprises. You can use open-source frameworks such as Hadoop, Apache Spark, Apache Hive, LLAP, Apache",
-          "pubDate": "Fri, 20 Dec 2024 14:15:55 Z",
-          "a10:updated": "2024-12-20T14:15:55Z"
         }
       ]
     }
