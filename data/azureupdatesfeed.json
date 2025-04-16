@@ -6,9 +6,46 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 16 Apr 2025 17:30:50 Z",
+      "lastBuildDate": "Wed, 16 Apr 2025 18:00:13 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489433"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489433",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Remote Model Context Protocol (MCP) support in Azure Functions",
+          "description": "Model\nContext Protocol (MCP) is a way for apps to provide capabilities and context to\na large language model. A key feature of MCP is the ability to define tools\nthat AI agents can leverage to accomplish whatever tasks they’ve been given.\nMCP servers can",
+          "pubDate": "Wed, 16 Apr 2025 18:00:13 Z",
+          "a10:updated": "2025-04-16T18:00:13Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "488905"
+          },
+          "link": "https://azure.microsoft.com/updates?id=488905",
+          "category": [
+            "In development",
+            "Management and governance",
+            "Storage",
+            "Azure Backup",
+            "Features"
+          ],
+          "title": "[In development] Private Preview: Azure Backup for AKS Now Supports Azure File Share-based Persistent Volumes",
+          "description": "We’re\nexcited to announce the Private Preview of Azure Backup for AKS\nwith support for Azure file share-based Persistent Volumes! With this\nnew capability, customers can now enable snapshot-based backups for\nAKS applications using both Azure Disks and Azu",
+          "pubDate": "Wed, 16 Apr 2025 18:00:13 Z",
+          "a10:updated": "2025-04-16T18:00:13Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3610,40 +3647,6 @@
           "description": "Azure Container Storage is a cloud-based\nvolume management, deployment and orchestration service and works with Azure\nKubernetes Service (AKS) to effectively scale across storage services while\nproviding a cost-effective, container-native experience.   Cu",
           "pubDate": "Thu, 09 Jan 2025 16:00:28 Z",
           "a10:updated": "2025-01-09T16:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "474894"
-          },
-          "link": "https://azure.microsoft.com/updates?id=474894",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Files",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Azure Files provisioned v2 billing model for HDD (standard)",
-          "description": "The provisioned v2 model for Azure Files HDD (standard) pairs predictability of total cost of ownership with flexibility, allowing you to create a file share that meets your exact storage and performance requirements. Provisioned v2 shares enable independ",
-          "pubDate": "Wed, 08 Jan 2025 20:00:04 Z",
-          "a10:updated": "2025-01-08T20:00:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "474560"
-          },
-          "link": "https://azure.microsoft.com/updates?id=474560",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure NetApp Files now supports minimum volume size of 50 GiB",
-          "description": "We are excited to announce Azure NetApp Files volume enhancement with support for 50 GiB minimum volume sizes.Customers can now create an Azure NetApp Files volume as small as 50 GiB, compared to the initial minimum size of 100 GiB. This enhancement is pa",
-          "pubDate": "Mon, 06 Jan 2025 20:15:01 Z",
-          "a10:updated": "2025-01-06T20:15:01Z"
         }
       ]
     }
