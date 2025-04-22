@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 22 Apr 2025 13:45:11 Z",
+      "lastBuildDate": "Tue, 22 Apr 2025 17:30:32 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "486819"
+          },
+          "link": "https://azure.microsoft.com/updates?id=486819",
+          "category": [
+            "Launched",
+            "Compute",
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Instance Mix for Virtual Machine Scale Sets",
+          "description": "We are\nexcited to announce the general availability of instance mix, a new feature\ndesigned to optimize your Virtual Machine Scale Set deployments. Instance\nmix allows you to specify multiple VM sizes within a single Virtual Machine\nScale Set, providing",
+          "pubDate": "Tue, 22 Apr 2025 17:30:32 Z",
+          "a10:updated": "2025-04-22T17:30:32Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3634,23 +3652,6 @@
           "description": "End of support for Microsoft Fabric Runtime 1.1 was announced July 12, 2024. We recommend that you upgrade your Fabric workspace and environments to use Runtime 1.3 (Apache Spark 3.5 and Delta Lake 3.2). This latest Fabric Runtime 1.3 also offers a Native",
           "pubDate": "Thu, 16 Jan 2025 18:00:34 Z",
           "a10:updated": "2025-01-17T14:00:13Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "475219"
-          },
-          "link": "https://azure.microsoft.com/updates?id=475219",
-          "category": [
-            "In preview",
-            "Containers",
-            "Azure Container Apps",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: JavaScript code interpreter dynamic sessions in Azure Container Apps",
-          "description": "Azure Container\nApps dynamic sessions offers serverless, isolated sandboxes for executing\nuntrusted code. The latest update includes support for native JavaScript code\nexecution in public preview. This new\nJavaScript code interpreter augments the existing",
-          "pubDate": "Thu, 16 Jan 2025 19:00:33 Z",
-          "a10:updated": "2025-01-16T19:00:33Z"
         }
       ]
     }
