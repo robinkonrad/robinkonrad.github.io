@@ -6,9 +6,172 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 23 Apr 2025 15:15:37 Z",
+      "lastBuildDate": "Wed, 23 Apr 2025 16:30:16 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489711"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489711",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure SQL updates for mid-April 2025",
+          "description": "In mid-April 2025, the following updates and enhancements were made to Azure SQL: Read-access geo-zone redundant storage (RA-GZRS) as a backup storage type is now generally available for non-hyperscale service tiers. Pricing for RA-GZRS is now the same as",
+          "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
+          "a10:updated": "2025-04-23T16:30:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489669"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489669",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: PostgreSQL 17 performance management server parameters now modifiable on Azure Database for PostgreSQL",
+          "description": "We are excited to announce that several parameters in Azure Database for PostgreSQL 17 can now be modified. This enhancement provides greater flexibility and control over your database configurations, allowing you to optimize performance and tailor settin",
+          "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
+          "a10:updated": "2025-04-23T16:30:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489664"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489664",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Support for time-series databases in the migration service for Azure Database for PostgreSQL",
+          "description": "You can now use the migration service in Azure Database for PostgreSQL to easily migrate time-series databases—without dropping the extension. With the click of a button, you can use the Migration tab on the Flexible Server portal page or go through the A",
+          "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
+          "a10:updated": "2025-04-23T16:30:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489658"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489658",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server",
+          "description": "PostgreSQL minor versions 17.4, 16.8, 15.12, 14.17, and 13.20 are now supported by Azure Database for PostgreSQL – Flexible Server.   These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azure Database for",
+          "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
+          "a10:updated": "2025-04-23T16:30:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489649"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489649",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL - Azure Data Factory service principal authentication",
+          "description": "We are excited to announce that you can now use service principal Entra authentication to connect your Azure Database for PostgreSQL instance with Azure Synapse Analytics and Azure Data Factory. This feature enhances security and simplifies the authentica",
+          "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
+          "a10:updated": "2025-04-23T16:30:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489644"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489644",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Versionless customer managed keys in Azure Database for PostgreSQL flexible Server",
+          "description": "You no longer need to manage the key version for customer-managed keys (CMKs) in Azure Database for PostgreSQL flexible Server. Versionless keys automate the propagation of newly rotated CMKs independent of the rotation method (auto-rotation or manual). L",
+          "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
+          "a10:updated": "2025-04-23T16:15:29Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489627"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489627",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Sharded DiskANN in Azure Cosmos DB for NoSQL",
+          "description": "Azure Cosmos DB for NoSQL introduces sharded DiskANN, a powerful feature enhancing your vector search experience. Sharding partitions a DiskANN vector index into smaller, more manageable segments. By simply defining the VectorIndexShardKey parameter in yo",
+          "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
+          "a10:updated": "2025-04-23T16:15:29Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489622"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489622",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Support for Mongo 8.0 on vCore-based Azure Cosmos DB for MongoDB",
+          "description": "You can now use MongoDB version 8.0 on vCore-based Azure Cosmos DB for MongoDB. This release provides access to the latest MongoDB features, helping you build and manage your applications more efficiently. Learn more.",
+          "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
+          "a10:updated": "2025-04-23T16:15:29Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "485989"
+          },
+          "link": "https://azure.microsoft.com/updates?id=485989",
+          "category": [
+            "In preview",
+            "AI + machine learning",
+            "Mobile",
+            "Web",
+            "Azure AI Search",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Easy service upgrade and change service tier in Azure AI Search",
+          "description": "Azure AI Search has two new self-serve options that make it easy to change or upgrade your service, directly from Azure portal or the management API.  Changing your service tier is now as easy as adding partitions or replicas; no rebuild required. Self-se",
+          "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
+          "a10:updated": "2025-04-23T16:15:29Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3486,169 +3649,6 @@
           "description": "To help organizations optimize cloud costs and management, we’re excited to introduce hibernation for virtual machines (VMs) in Azure DevTest Labs, now in public preview. The new hibernation feature in Azure DevTest Labs helps customers control and reduce",
           "pubDate": "Mon, 27 Jan 2025 23:30:49 Z",
           "a10:updated": "2025-01-27T23:30:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "478571"
-          },
-          "link": "https://azure.microsoft.com/updates?id=478571",
-          "category": [
-            "Launched",
-            "Containers",
-            "Azure Red Hat OpenShift",
-            "Features",
-            "Open Source"
-          ],
-          "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Spain Central",
-          "description": "Azure Red Hat OpenShift is now available in Spain Central region. This strategic expansion strengthens your multi-region deployment options across Europe, enabling enhanced geographic redundancy and scalability for your containerized workloads. The new re",
-          "pubDate": "Mon, 27 Jan 2025 23:00:33 Z",
-          "a10:updated": "2025-01-27T23:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "478063"
-          },
-          "link": "https://azure.microsoft.com/updates?id=478063",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Changes to instance size flexibility ratios for Azure Reserved Virtual Machine Instances for M-series",
-          "description": "As we continue to offer a wide selection of SKUs for M-series Virtual Machines, we updated the instance size flexibility ratios for this product to optimize reservation discount within instance size flexibility groups and their respective SKUs. This updat",
-          "pubDate": "Fri, 24 Jan 2025 23:00:44 Z",
-          "a10:updated": "2025-01-24T23:00:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "477729"
-          },
-          "link": "https://azure.microsoft.com/updates?id=477729",
-          "category": [
-            "Management and governance",
-            "Automation",
-            "Retirements"
-          ],
-          "title": "Retirement: Resources interacting with Azure Automation using TLS 1.0/1.1 protocol will be blocked from March 1, 2025",
-          "description": "Transport Layer Security (TLS) 1.0 and 1.1 are security protocols for establishing encryption channels over computer networks. Starting March 1, 2025, your resources interacting with Azure Automation using TLS 1.0/1.1 protocols won’t be able to connect to",
-          "pubDate": "Fri, 24 Jan 2025 14:30:17 Z",
-          "a10:updated": "2025-01-24T14:30:17Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "477700"
-          },
-          "link": "https://azure.microsoft.com/updates?id=477700",
-          "category": [
-            "Management and governance",
-            "Automation",
-            "Management",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Automation will discontinue execution of PowerShell runbooks using AzureRM modules from February 1, 2025",
-          "description": "Starting\nFebruary 1, 2025, Azure Automation will discontinue\nexecution of all runbooks that use AzureRM modules.  The\nAzureRM PowerShell module has retired on February 29, 2024, in\nfavour of Az PowerShell that offers more security, stability and\nfunctiona",
-          "pubDate": "Fri, 24 Jan 2025 14:15:38 Z",
-          "a10:updated": "2025-01-24T14:15:38Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "477734"
-          },
-          "link": "https://azure.microsoft.com/updates?id=477734",
-          "category": [
-            "Management and governance",
-            "Automation",
-            "Retirements",
-            "Management"
-          ],
-          "title": "Retirement: All Azure Automation jobs running on Agent-based Hybrid Worker will be stopped from 1 April 2025",
-          "description": "Starting April 1, 2025, all jobs running on agent-based User\nHybrid Runbook Worker will be stopped.  Azure\nAutomation Agent-based User Hybrid Worker (Windows & Linux) retired on August 31, 2024, and is no longer supported. It poses a potential Security ri",
-          "pubDate": "Thu, 23 Jan 2025 21:30:21 Z",
-          "a10:updated": "2025-01-23T21:30:21Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "476533"
-          },
-          "link": "https://azure.microsoft.com/updates?id=476533",
-          "category": [
-            "In preview",
-            "Integration",
-            "Internet of Things",
-            "Mobile",
-            "Web",
-            "API Management",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Seamless Amazon API Gateway Integration for API Center",
-          "description": "We are excited to announce the release of an Amazon API Gateway integration for Azure API Center. This new feature allows customers to point to any Amazon API Gateway, and we will seamlessly import their APIs into API Center. This integration simplifies t",
-          "pubDate": "Wed, 22 Jan 2025 21:15:08 Z",
-          "a10:updated": "2025-01-22T21:15:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "476204"
-          },
-          "link": "https://azure.microsoft.com/updates?id=476204",
-          "category": [
-            "Launched",
-            "Databases",
-            "Security",
-            "Storage",
-            "Azure confidential ledger",
-            "Compliance"
-          ],
-          "title": "[Launched] Generally Available: Azure Confidential Ledger Achieves ISO 27001 Certification",
-          "description": "Azure Confidential Ledger is now ISO 27001 certified. ISO 27001 is an internationally recognized standard for information security management systems (ISMS). This certification demonstrates that Azure Confidential Ledger has implemented a comprehensive an",
-          "pubDate": "Wed, 22 Jan 2025 19:45:45 Z",
-          "a10:updated": "2025-01-22T19:45:45Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "476622"
-          },
-          "link": "https://azure.microsoft.com/updates?id=476622",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Automation",
-            "Management"
-          ],
-          "title": "[Launched] Generally Available: Azure Automation is revising Service and Subscription limits",
-          "description": "Starting January 15, 2025, Azure Automation is revising its Service and Subscription limits to ensure fair distribution of cloud resources across all customers. This change is another step towards improving the reliability and performance of the service w",
-          "pubDate": "Wed, 22 Jan 2025 13:00:42 Z",
-          "a10:updated": "2025-01-22T13:00:42Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "476059"
-          },
-          "link": "https://azure.microsoft.com/updates?id=476059",
-          "category": [
-            "Launched",
-            "Storage",
-            "Analytics",
-            "Azure Blob Storage",
-            "Azure Data Lake Storage",
-            "Storage Accounts",
-            "Features",
-            "Compliance"
-          ],
-          "title": "[Launched] Generally Available: Customer Managed Unplanned Failover for Azure Data Lake Storage and SSH File Transfer Protocol",
-          "description": "We are excited to announce the general availability of customer managed unplanned failover for Azure Data Lake Storage (ADLS) and storage accounts with SSH File Transfer Protocol (SFTP) enabled. Customer managed unplanned failover enables you to failover",
-          "pubDate": "Thu, 16 Jan 2025 19:30:57 Z",
-          "a10:updated": "2025-01-17T17:15:39Z"
         }
       ]
     }
