@@ -6,9 +6,43 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 23 Apr 2025 16:30:16 Z",
+      "lastBuildDate": "Wed, 23 Apr 2025 18:00:34 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489867"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489867",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Disk Storage",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Premium SSD v2 and Ultra Disk Storage is now available in Australia Central 2 and Norway West",
+          "description": "Azure\nPremium SSD v2 and Ultra Disk Storage are now available in Australia Central 2\nand Norway West regions. Azure Ultra Disk Storage delivers high throughput,\nhigh IOPS, and consistently low latency for Azure virtual machines, making it\nideal for data-i",
+          "pubDate": "Wed, 23 Apr 2025 15:15:37 Z",
+          "a10:updated": "2025-04-23T18:00:34Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490620"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490620",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Files",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Metadata Cache for Azure SSD (Premium) SMB",
+          "description": "This enhancement accelerates metadata operations for both SMB and REST protocols, benefiting new and existing file shares at no extra cost. Whether you're running critical business applications, scaling DevOps workflows, or supporting thousands of virtual",
+          "pubDate": "Wed, 23 Apr 2025 17:45:35 Z",
+          "a10:updated": "2025-04-23T17:45:35Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -171,23 +205,6 @@
           "description": "Azure AI Search has two new self-serve options that make it easy to change or upgrade your service, directly from Azure portal or the management API.  Changing your service tier is now as easy as adding partitions or replicas; no rebuild required. Self-se",
           "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
           "a10:updated": "2025-04-23T16:15:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489867"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489867",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Disk Storage",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Premium SSD v2 and Ultra Disk Storage is now available in Australia Central 2 and Norway West",
-          "description": "Azure Premium SSD v2 and Ultra Disk Storage are now available in Australia Central 2 and Norway West regions. Azure Ultra Disk Storage delivers high throughput, high IOPS, and consistently low latency for Azure virtual machines, making it ideal for data-i",
-          "pubDate": "Wed, 23 Apr 2025 15:15:37 Z",
-          "a10:updated": "2025-04-23T15:15:37Z"
         },
         {
           "guid": {
@@ -3631,24 +3648,6 @@
           "description": "We are excited to announce enhanced support for Generation 2 VMs on Azure DevTest labs. You can now choose between Generation 1 and Generation 2 versions of the same marketplace image while creating a VM in Azure DevTest Labs. Generation 2 VMs support key",
           "pubDate": "Tue, 28 Jan 2025 14:00:19 Z",
           "a10:updated": "2025-01-28T14:00:19Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "476885"
-          },
-          "link": "https://azure.microsoft.com/updates?id=476885",
-          "category": [
-            "In preview",
-            "Developer tools",
-            "DevOps",
-            "Azure DevTest Labs",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Reduce costs with Hibernation in Azure DevTest Labs",
-          "description": "To help organizations optimize cloud costs and management, we’re excited to introduce hibernation for virtual machines (VMs) in Azure DevTest Labs, now in public preview. The new hibernation feature in Azure DevTest Labs helps customers control and reduce",
-          "pubDate": "Mon, 27 Jan 2025 23:30:49 Z",
-          "a10:updated": "2025-01-27T23:30:49Z"
         }
       ]
     }
