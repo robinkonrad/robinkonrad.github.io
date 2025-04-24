@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 24 Apr 2025 12:30:39 Z",
+      "lastBuildDate": "Thu, 24 Apr 2025 16:00:08 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489246"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489246",
+          "category": [
+            "Launched",
+            "Compute",
+            "Virtual Machines",
+            "Services",
+            "Pricing & Offerings"
+          ],
+          "title": "[Launched] Generally Avaialble: Azure NVads V710 v5-series virtual machines",
+          "description": "The NVads V710 v5-series virtual machines are designed for lightweight AI inferencing and graphics-intensive applications that demand cost-effective, high-performance GPUs with more memory and faster CPUs.  Powered by AMD Radeon™ Pro V710 GPUs and 4th gen",
+          "pubDate": "Thu, 24 Apr 2025 16:00:08 Z",
+          "a10:updated": "2025-04-24T16:00:08Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "488110"
+          },
+          "link": "https://azure.microsoft.com/updates?id=488110",
+          "category": [
+            "In preview",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Multitenant managed logging in Container insights",
+          "description": "This is useful for\ncustomers who operate shared cluster platforms using AKS. Customers need the\nability to configure container console log collection in a way that segregates\nlogs by different teams so that each has access to the container logs of the con",
+          "pubDate": "Thu, 24 Apr 2025 16:00:08 Z",
+          "a10:updated": "2025-04-24T16:00:08Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3613,41 +3649,6 @@
           "description": "In addition to the response codes 403 and 502, the Azure Application Gateway now lets you configure company-branded error pages for more response codes - 400, 405, 408, 500, 503, and 504. You can configure these error pages at a global level to apply to a",
           "pubDate": "Thu, 10 Aug 2023 17:37:50 Z",
           "a10:updated": "2025-01-28T18:15:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "475398"
-          },
-          "link": "https://azure.microsoft.com/updates?id=475398",
-          "category": [
-            "In preview",
-            "Migration",
-            "Storage",
-            "Azure Data Box",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Announcing the Next generation Azure Data Box Devices",
-          "description": "We’re excited to announce\nthe preview of Azure Data Box 120 and Azure Data Box 525, our next-generation\ncompact, NVMe-based Data Box devices. These new devices incorporate several improvements\nto accelerate offline data transfers to Azure, including: Fast",
-          "pubDate": "Tue, 28 Jan 2025 15:00:52 Z",
-          "a10:updated": "2025-01-28T15:00:52Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "migrating-to-tls-12-with-deprecation-of-outdated-security-protocols"
-          },
-          "link": "https://azure.microsoft.com/updates?id=migrating-to-tls-12-with-deprecation-of-outdated-security-protocols",
-          "category": [
-            "Management and governance",
-            "Azure Resource Manager",
-            "Retirements",
-            "Security"
-          ],
-          "title": "Retirement: Migrating to TLS 1.2+ with the Deprecation of Outdated Security Protocols",
-          "description": "On March 1, 2025, Azure Resource Manager will be retiring support for TLS 1.0 and TLS 1.1. After that date, any incoming calls to Azure using TLS 1.0/1.1 will fail. This is part of an Azure-wide initiative to enhance security.Required action:To avoid any",
-          "pubDate": "Thu, 29 Aug 2024 07:00:00 Z",
-          "a10:updated": "2025-01-28T15:00:52Z"
         }
       ]
     }
