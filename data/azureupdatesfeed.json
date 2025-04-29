@@ -6,9 +6,122 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 29 Apr 2025 16:00:19 Z",
+      "lastBuildDate": "Tue, 29 Apr 2025 17:30:43 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490830"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490830",
+          "category": [
+            "In preview",
+            "Networking",
+            "Virtual Network",
+            "Features",
+            "Pricing & Offerings"
+          ],
+          "title": "[In preview] Public Preview: Azure virtual network terminal access point (TAP)",
+          "description": "Virtual network\nTAP enables customers to continuously stream virtual machine network traffic to\na network packet collector or analytics tool. Unlike traditional packet capture\nsolutions that require the deployment of additional agents or network\nappliance",
+          "pubDate": "Tue, 29 Apr 2025 17:30:43 Z",
+          "a10:updated": "2025-04-29T17:30:43Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490759"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490759",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure NetApp Files",
+            "Features",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Cross-tenant customer-managed keys for Azure NetApp Files volume encryption",
+          "description": "Cross-tenant customer-managed keys for Azure NetApp Files volume encryption. This feature enables individual customers to manage their own keys across different tenancies. In scenarios such as SaaS provider/user configurations, it ensures that the end use",
+          "pubDate": "Tue, 29 Apr 2025 17:15:51 Z",
+          "a10:updated": "2025-04-29T17:15:51Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490854"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490854",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Web Application Firewall",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Azure WAF CAPTCHA Challenge for Azure Front Door",
+          "description": "Announcing the public\npreview of CAPTCHA for Azure Web Application Firewall (WAF) with Azure\nFront Door.  Modern web applications face evolving\nthreats, including bots, web scrapers, and brute-force attacks, many of\nwhich can bypass traditional security c",
+          "pubDate": "Tue, 29 Apr 2025 17:00:28 Z",
+          "a10:updated": "2025-04-29T17:00:28Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490737"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490737",
+          "category": [
+            "Launched",
+            "Integration",
+            "Internet of Things",
+            "Mobile",
+            "Web",
+            "API Management",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Announcing Service Update Configuration for Azure API Management",
+          "description": "We’re introducing service update settings for Azure API Management, giving customers greater control over when and how their instances receive platform updates—including new features, security patches, and reliability improvements.\nCustomers can now:Selec",
+          "pubDate": "Tue, 29 Apr 2025 16:45:38 Z",
+          "a10:updated": "2025-04-29T16:45:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490732"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490732",
+          "category": [
+            "In preview",
+            "Integration",
+            "Internet of Things",
+            "Mobile",
+            "Web",
+            "API Management",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Inbound Private Endpoint for Azure API Management Standard v2",
+          "description": "We’re announcing the open public preview of inbound private endpoint support for the Azure API Management Standard v2 tier. This capability enables private, secure access to the API Management gateway from within your virtual network using Azure Private L",
+          "pubDate": "Tue, 29 Apr 2025 16:45:38 Z",
+          "a10:updated": "2025-04-29T16:45:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490746"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490746",
+          "category": [
+            "Launched",
+            "Networking",
+            "Virtual WAN",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Next hop IP support for Virtual WAN",
+          "description": "Azure Virtual WAN hub\nrouter, also called virtual hub router, acts as a route manager and provides\nsimplification in routing operation within and across virtual hubs. The virtual\nhub router exposes the ability to peer with it, thereby exchanging routing i",
+          "pubDate": "Tue, 29 Apr 2025 16:30:02 Z",
+          "a10:updated": "2025-04-29T16:30:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3540,118 +3653,6 @@
           "description": "You can now configure Application Gateway, API Management, and Container Apps as Private Link-enabled origins in your Front Door Premium profile. Private Link-enabled origins in Front Door allow you to deliver content to your end-users through public Fron",
           "pubDate": "Thu, 06 Feb 2025 17:15:10 Z",
           "a10:updated": "2025-02-06T17:15:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-analyze-data-using-log-analytics-simple-mode"
-          },
-          "link": "https://azure.microsoft.com/updates?id=public-preview-analyze-data-using-log-analytics-simple-mode",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Log Analytics",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Analyze data using Log Analytics Simple mode",
-          "description": "Azure Monitor Logs is excited to introduce the next leap in log experience: Simple mode.\n\nAzure Monitor Logs offers a powerful set of capabilities for users to explore their logs and derive meaningful insights from their data estate.\n\nUntil now, Azure Mon",
-          "pubDate": "Thu, 30 May 2024 19:30:51 Z",
-          "a10:updated": "2025-02-04T18:30:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467466"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467466",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Analytics",
-            "Azure Databricks",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Introducing Azure Databricks Clean Rooms",
-          "description": "Azure Databricks Clean Rooms offers a privacy-safe environment for collaboration on all your data and AI assets, ensuring no direct access to sensitive information. In today’s world, organizations require an open, flexible, and secure way to collaborate o",
-          "pubDate": "Tue, 04 Feb 2025 14:00:07 Z",
-          "a10:updated": "2025-02-04T14:00:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467778"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467778",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched]  Generally Available: Azure SQL Database free offer",
-          "description": "Try 10 Azure SQL Databases free of charge for the life of your subscription. With just a couple of clicks, you can power the application you want to build. This new offer provides 10 databases, each with 32 GB General Purpose, serverless Azure SQL databas",
-          "pubDate": "Mon, 03 Feb 2025 22:00:34 Z",
-          "a10:updated": "2025-02-03T22:00:34Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467948"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467948",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Analytics",
-            "Azure Databricks",
-            "Regions & Datacenters"
-          ],
-          "title": "[Launched] Generally Available: Azure Databricks Available in Mexico Central",
-          "description": "Azure Databricks is a data analytics platform optimized for the\nMicrosoft Azure cloud services platform. Azure Databricks offers three\nenvironments for developing data intensive applications: Databricks SQL,\nDatabricks Data Science & Engineering, and Data",
-          "pubDate": "Mon, 03 Feb 2025 21:15:30 Z",
-          "a10:updated": "2025-02-03T21:15:30Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "479465"
-          },
-          "link": "https://azure.microsoft.com/updates?id=479465",
-          "category": [
-            "Launched",
-            "Networking",
-            "Azure DNS",
-            "Features",
-            "Security",
-            "Services",
-            "Compliance"
-          ],
-          "title": "[Launched] Generally Available: Azure DNS Public Zones DNS Security Extensions (DNSSEC) support",
-          "description": "Announcing the general availability of Domain Name System Security Extensions (DNSSEC) for Azure DNS Public Zones. With this release you can now enable DNSSEC on all existing and new public DNS Zones hosted on Azure DNS. This significant update enhances t",
-          "pubDate": "Mon, 03 Feb 2025 21:00:38 Z",
-          "a10:updated": "2025-02-03T21:00:38Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "479448"
-          },
-          "link": "https://azure.microsoft.com/updates?id=479448",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Introducing the New AKS Monitoring Experience - Unified Insights at Your Fingertips",
-          "description": "We're excited to announce the public preview of our enhanced Monitoring experience for Azure Kubernetes Service (AKS). This redesign of the existing Insights experience brings comprehensive monitoring capabilities into a single, streamlined view, addressi",
-          "pubDate": "Mon, 03 Feb 2025 21:00:38 Z",
-          "a10:updated": "2025-02-03T21:00:38Z"
         }
       ]
     }
