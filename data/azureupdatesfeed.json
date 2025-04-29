@@ -6,9 +6,46 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 29 Apr 2025 17:30:43 Z",
+      "lastBuildDate": "Tue, 29 Apr 2025 18:00:25 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "490690"
+          },
+          "link": "https://azure.microsoft.com/updates?id=490690",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Container Instances",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Larger container sizes on Azure Container Instances",
+          "description": "Azure Container Instances now\nsupports larger container size instances in public preview. You can now deploy\nworkloads with higher vCPU and memory for standard containers, confidential\ncontainers, containers with virtual networks, as well as containers ut",
+          "pubDate": "Tue, 29 Apr 2025 18:00:25 Z",
+          "a10:updated": "2025-04-29T18:00:25Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "487252"
+          },
+          "link": "https://azure.microsoft.com/updates?id=487252",
+          "category": [
+            "In preview",
+            "Developer tools",
+            "DevOps",
+            "Azure DevTest Labs",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Improve the security of Generation 2 VMs via Trusted Launch in Azure DevTest Labs",
+          "description": "To improve\nthe security of Generation 2 (Gen2) virtual machines (VMs)\nin Azure DevTest Labs, we’re excited to introduce Trusted Launch for Gen2 VMs,\nnow in public preview. Trusted Launch protects against advanced and persistent\nattack techniques and is co",
+          "pubDate": "Tue, 29 Apr 2025 18:00:25 Z",
+          "a10:updated": "2025-04-29T18:00:25Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3607,52 +3644,6 @@
           "description": "Increased IP Group Limits: We’ve doubled the IP Group limit in Azure Firewall policies from 100 to 200 per policy. Key benefits: Better policy organization – Manage more IP addresses within firewall policies. Greater flexibility – Optimize configurations",
           "pubDate": "Mon, 10 Feb 2025 18:30:47 Z",
           "a10:updated": "2025-02-10T18:30:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "479933"
-          },
-          "link": "https://azure.microsoft.com/updates?id=479933",
-          "category": [
-            "Databases",
-            "Internet of Things",
-            "Hybrid + multicloud",
-            "Compute",
-            "Azure Cosmos DB",
-            "Azure Database for PostgreSQL",
-            "Azure SQL",
-            "Azure SQL Database",
-            "Azure SQL Edge",
-            "Azure SQL Managed Instance",
-            "SQL Server on Azure Virtual Machines",
-            "Retirements"
-          ],
-          "title": "Retirement: Transition from Azure Data Studio to Visual Studio Code",
-          "description": "Azure Data Studio (ADS) will be officially retired\non February 28, 2026, to streamline development efforts and improve the user experience\nin Visual Studio Code (VS Code). VS\nCode will become the recommended cross-platform tool for developers\nbuilding bac",
-          "pubDate": "Thu, 06 Feb 2025 19:30:07 Z",
-          "a10:updated": "2025-02-06T19:30:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "479730"
-          },
-          "link": "https://azure.microsoft.com/updates?id=479730",
-          "category": [
-            "In preview",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Azure Front Door",
-            "Azure Private Link",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: New Origin Types for Azure Front Door Premium Private Link-Enabled Origins",
-          "description": "You can now configure Application Gateway, API Management, and Container Apps as Private Link-enabled origins in your Front Door Premium profile. Private Link-enabled origins in Front Door allow you to deliver content to your end-users through public Fron",
-          "pubDate": "Thu, 06 Feb 2025 17:15:10 Z",
-          "a10:updated": "2025-02-06T17:15:10Z"
         }
       ]
     }
