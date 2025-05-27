@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 23 May 2025 18:15:02 Z",
+      "lastBuildDate": "Tue, 27 May 2025 16:15:37 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "492953"
+          },
+          "link": "https://azure.microsoft.com/updates?id=492953",
+          "category": [
+            "Launched",
+            "Networking",
+            "Virtual Network",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Private subnet",
+          "description": "We are announcing the general availability of private subnet functionality in Azure. Currently, when virtual machines are created\nin a virtual network without any explicit outbound connectivity, they are\nassigned a default outbound public IP address. Thes",
+          "pubDate": "Tue, 27 May 2025 15:45:24 Z",
+          "a10:updated": "2025-05-27T16:15:37Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3757,25 +3774,6 @@
           "description": "The first cloud region in Indonesia is now\navailable with Azure Availability\nZones and provides organizations across the globe with access to\nscalable, highly available, and resilient Microsoft Cloud services while\nconfirming its commitment to promoting A",
           "pubDate": "Tue, 15 Apr 2025 11:45:49 Z",
           "a10:updated": "2025-04-15T11:45:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489148"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489148",
-          "category": [
-            "Launched",
-            "Developer tools",
-            "DevOps",
-            "Azure Load Testing",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Support for Managed Identity based authentication flows in Azure Load Testing",
-          "description": "Azure Load Testing now supports simulating managed identity based authentication flows in load tests. As you transition to more secure authentication methods like managed identities, this capability ensures that you can seamlessly and effectively run load",
-          "pubDate": "Mon, 14 Apr 2025 20:00:15 Z",
-          "a10:updated": "2025-04-14T22:45:45Z"
         }
       ]
     }
