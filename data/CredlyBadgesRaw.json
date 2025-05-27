@@ -60,6 +60,7 @@
           ],
           "summary": "issued by Scrum.org"
         },
+        "job_board_url": null,
         "level": "Foundational",
         "name": "Professional Scrum Master™ I (PSM I)",
         "owner_vanity_slug": "scrum-org",
@@ -99,7 +100,7 @@
           }
         ],
         "settings_enable_related_badges": true,
-        "show_badge_lmi": false,
+        "show_badge_lmi": true,
         "show_skill_tag_links": true,
         "skills": [
           {
@@ -174,6 +175,7 @@
       },
       "last_updated_at": "2021-10-29T14:12:12.581-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -249,6 +251,7 @@
           ],
           "summary": "issued by IBM"
         },
+        "job_board_url": null,
         "level": "Foundational",
         "name": "Architectural Thinking",
         "owner_vanity_slug": "ibm",
@@ -392,6 +395,7 @@
       },
       "last_updated_at": "2022-06-14T02:19:35.233-05:00",
       "locale": "en",
+      "printable": true,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -481,6 +485,7 @@
           ],
           "summary": "issued by The Open Group"
         },
+        "job_board_url": null,
         "level": null,
         "name": "The Open Group Certified: TOGAF® 9 Certified",
         "owner_vanity_slug": "the-open-group",
@@ -529,14 +534,24 @@
             "vanity_slug": "enterprise-architecture"
           },
           {
-            "id": "c8ddb096-f477-45d8-9af7-5f359b8e3095",
-            "name": "Togaf",
-            "vanity_slug": "togaf"
+            "id": "ebeb68fe-002a-4258-aba8-a16ac2a6bd5e",
+            "name": "Enterprise Architecture Framework",
+            "vanity_slug": "enterprise-architecture-framework"
+          },
+          {
+            "id": "a31abc0c-b6a4-4211-84c8-614f2042c31f",
+            "name": "Enterprise Architecture Method",
+            "vanity_slug": "enterprise-architecture-method"
           },
           {
             "id": "cf9e1c31-7f2d-45d7-bd43-efd7460425f8",
             "name": "TOGAF ADM",
             "vanity_slug": "togaf-adm"
+          },
+          {
+            "id": "ef109b63-ab3b-412e-8648-0322794419c7",
+            "name": "TOGAF Enterprise Architecture",
+            "vanity_slug": "togaf-enterprise-architecture"
           },
           {
             "id": "c66366d7-489f-46da-a346-6e79d5d5be1e",
@@ -587,6 +602,7 @@
       },
       "last_updated_at": "2021-10-29T10:30:44.543-05:00",
       "locale": "en",
+      "printable": true,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -669,6 +685,7 @@
           ],
           "summary": "issued by The Open Group"
         },
+        "job_board_url": null,
         "level": null,
         "name": "The Open Group Certified: TOGAF® Standard, Version 9.2",
         "owner_vanity_slug": "the-open-group",
@@ -765,6 +782,7 @@
       },
       "last_updated_at": "2021-10-29T10:30:44.431-05:00",
       "locale": "en",
+      "printable": true,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -847,6 +865,7 @@
           ],
           "summary": "issued by Microsoft"
         },
+        "job_board_url": null,
         "level": null,
         "name": "AZ-303: Microsoft Azure Architect Technologies",
         "owner_vanity_slug": "microsoft-certification",
@@ -962,6 +981,7 @@
       },
       "last_updated_at": "2023-05-04T14:50:26.488-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -1121,6 +1141,7 @@
           ],
           "summary": "issued by Microsoft"
         },
+        "job_board_url": null,
         "level": null,
         "name": "Microsoft Certified: Azure Solutions Architect Expert",
         "owner_vanity_slug": "microsoft-certification",
@@ -1231,6 +1252,7 @@
       },
       "last_updated_at": "2023-05-04T14:51:30.859-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -1320,6 +1342,7 @@
           ],
           "summary": "issued by Microsoft"
         },
+        "job_board_url": null,
         "level": null,
         "name": "AZ-304: Microsoft Azure Architect Design",
         "owner_vanity_slug": "microsoft-certification",
@@ -1435,6 +1458,7 @@
       },
       "last_updated_at": "2023-05-04T14:51:29.945-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -1489,6 +1513,7 @@
           ],
           "summary": "issued by Microsoft Azure Data Explorer"
         },
+        "job_board_url": null,
         "level": null,
         "name": "Kusto Detective Agency - Case #1 Badge",
         "owner_vanity_slug": "microsoft-azure-data-explorer",
@@ -1595,6 +1620,7 @@
       },
       "last_updated_at": "2022-10-13T04:33:35.714-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -1649,6 +1675,7 @@
           ],
           "summary": "issued by Microsoft Azure Data Explorer"
         },
+        "job_board_url": null,
         "level": null,
         "name": "Kusto Detective Agency - Case #2 Badge",
         "owner_vanity_slug": "microsoft-azure-data-explorer",
@@ -1755,6 +1782,7 @@
       },
       "last_updated_at": "2022-10-13T16:58:05.550-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -1809,6 +1837,7 @@
           ],
           "summary": "issued by Microsoft Azure Data Explorer"
         },
+        "job_board_url": null,
         "level": null,
         "name": "Kusto Detective Agency - Case #3 Badge",
         "owner_vanity_slug": "microsoft-azure-data-explorer",
@@ -1915,6 +1944,7 @@
       },
       "last_updated_at": "2022-10-16T01:03:21.457-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -1969,6 +1999,7 @@
           ],
           "summary": "issued by Microsoft Azure Data Explorer"
         },
+        "job_board_url": null,
         "level": null,
         "name": "Kusto Detective Agency - Case #4 Badge",
         "owner_vanity_slug": "microsoft-azure-data-explorer",
@@ -2075,6 +2106,7 @@
       },
       "last_updated_at": "2022-10-30T02:15:00.021-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -2129,6 +2161,7 @@
           ],
           "summary": "issued by Microsoft Azure Data Explorer"
         },
+        "job_board_url": null,
         "level": null,
         "name": "Kusto Detective Agency - Case #5 Badge",
         "owner_vanity_slug": "microsoft-azure-data-explorer",
@@ -2235,6 +2268,7 @@
       },
       "last_updated_at": "2022-11-13T10:46:31.761-06:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -2289,6 +2323,7 @@
           ],
           "summary": "issued by Microsoft Azure Data Explorer"
         },
+        "job_board_url": null,
         "level": "Foundational",
         "name": "New Kusto Detective!",
         "owner_vanity_slug": "microsoft-azure-data-explorer",
@@ -2395,6 +2430,7 @@
       },
       "last_updated_at": "2023-05-30T08:04:15.492-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
@@ -2449,6 +2485,7 @@
           ],
           "summary": "issued by Microsoft Azure Data Explorer"
         },
+        "job_board_url": null,
         "level": null,
         "name": "New Rank: Kusto Detective I",
         "owner_vanity_slug": "microsoft-azure-data-explorer",
@@ -2555,21 +2592,448 @@
       },
       "last_updated_at": "2023-05-30T10:13:50.164-05:00",
       "locale": "en",
+      "printable": false,
       "public": true,
       "recommendations": [],
       "state": "accepted",
       "translate_metadata": false,
       "updated_at": "2023-05-30T10:13:50.164-05:00",
       "user_is_earner": false
+    },
+    {
+      "accepted_at": "2025-03-28T13:32:17.919-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "a5459bbf-9dad-4d3c-ac2c-9a6c9c389d6b",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "c1f61037-a10f-47eb-8459-6fb3c65eabe7",
+            "required_badge_template_id": null,
+            "title": "Introduction to Git and GitHub",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "b038ca18-21b3-4975-8ef3-f44c779597ce",
+            "required_badge_template_id": null,
+            "title": "Working with GitHub Repositories",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "868f274d-1630-48df-aabc-ef318371c8c9",
+            "required_badge_template_id": null,
+            "title": "Collaboration Features",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "ef971571-e953-42e7-9d69-0d510b2dfc58",
+            "required_badge_template_id": null,
+            "title": "Modern Development",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "3c9bdc14-04ec-4842-bea6-620e6997862c",
+            "required_badge_template_id": null,
+            "title": "Project Management",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "e6797c5b-f802-4c55-a365-b7c9726cdd0b",
+            "required_badge_template_id": null,
+            "title": "Privacy, Security, and Administration",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "c48888d6-4f59-4989-9d3b-2323ea1e8eb3",
+            "required_badge_template_id": null,
+            "title": "Benefits of the GitHub Community",
+            "url": null
+          }
+        ],
+        "badge_template_earnable": false,
+        "cost": "Paid",
+        "description": "Passing the GitHub Foundations certification exam validates subject matter expertise by measuring entry-level skills with GitHub basics like repositories, commits, branching, markdowns, and project management.",
+        "earn_this_badge_url": null,
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": null,
+        "id": "b8f84afc-e711-4261-a8cd-3f447dfdcb76",
+        "image": {
+          "id": "024d0122-724d-4c5a-bd83-cfe3c4b7a073",
+          "url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+        },
+        "image_url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "63074953-290b-4dce-86ce-ea04b4187219",
+                "internationalize_badge_templates": false,
+                "name": "GitHub",
+                "share_to_ziprecruiter": true,
+                "twitter_url": "https://twitter.com/github",
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+                "vanity_url": "https://www.credly.com/org/github",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by GitHub"
+        },
+        "job_board_url": null,
+        "level": "Foundational",
+        "name": "GitHub Foundations",
+        "owner_vanity_slug": "github",
+        "public": true,
+        "recipient_type": "User",
+        "recommendable": false,
+        "related_badge_templates": [
+          {
+            "id": "999453c9-0d2b-4a4e-b82c-ed1c89bc56ee",
+            "image": {
+              "id": "89efc3e7-842b-4790-b09b-9ea5efc71ec3",
+              "url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"
+            },
+            "image_url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png",
+            "name": "GitHub Actions",
+            "url": "https://www.credly.com/org/github/badge/github-actions"
+          },
+          {
+            "id": "733017ad-2c75-442f-9f7b-4b5944a02a6d",
+            "image": {
+              "id": "c9ed294b-f8ac-48fa-a8c3-96dab1f110f2",
+              "url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png"
+            },
+            "image_url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png",
+            "name": "GitHub Advanced Security",
+            "url": "https://www.credly.com/org/github/badge/github-advanced-security"
+          },
+          {
+            "id": "9d271ae3-64e2-4f70-bbe3-2e5511e676d3",
+            "image": {
+              "id": "34880f37-8ec8-4542-a78a-73ba6647208e",
+              "url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"
+            },
+            "image_url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png",
+            "name": "GitHub Administration",
+            "url": "https://www.credly.com/org/github/badge/github-administration"
+          }
+        ],
+        "settings_enable_related_badges": true,
+        "show_badge_lmi": false,
+        "show_skill_tag_links": false,
+        "skills": [
+          {
+            "id": "1349859b-7d0a-4bd9-9757-5182d2f84f9e",
+            "name": "Build Pipeline",
+            "vanity_slug": "build-pipeline"
+          },
+          {
+            "id": "047ebc52-ba7a-4089-8a94-eb18a746afc0",
+            "name": "Continuous Delivery",
+            "vanity_slug": "continuous-delivery"
+          },
+          {
+            "id": "93b07372-e738-4386-a699-f8ac77f7a8ac",
+            "name": "Continuous Integration",
+            "vanity_slug": "continuous-integration"
+          },
+          {
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          },
+          {
+            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
+            "name": "GitHub",
+            "vanity_slug": "github"
+          },
+          {
+            "id": "041eebbd-c559-4a39-a1d7-8d1d4a39d0ee",
+            "name": "GitHub Actions",
+            "vanity_slug": "github-actions"
+          },
+          {
+            "id": "cf2e9f5c-d82e-40ec-b0c5-ecb9658faaf8",
+            "name": "Release Management",
+            "vanity_slug": "release-management"
+          }
+        ],
+        "time_to_earn": "Days",
+        "translatable": false,
+        "type_category": "Certification",
+        "url": "https://www.credly.com/org/github/badge/github-foundations",
+        "vanity_slug": "github-foundations"
+      },
+      "earner_path": "/users/robin-konrad",
+      "earner_photo_url": "https://images.credly.com/images/c37b6f0c-8bdf-4bd6-abaa-f1019b1b1d78/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2028-03-28T08:30:55.000-05:00",
+      "expires_at_date": "2028-03-28",
+      "id": "98f910ae-da12-497f-b766-523778ae4dcd",
+      "image": {
+        "id": "024d0122-724d-4c5a-bd83-cfe3c4b7a073",
+        "url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+      },
+      "image_url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
+      "is_private_badge": false,
+      "issued_at": "2025-03-28T08:30:55.000-05:00",
+      "issued_at_date": "2025-03-28",
+      "issued_to": "Robin Sven Severin Konrad",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "63074953-290b-4dce-86ce-ea04b4187219",
+              "internationalize_badge_templates": false,
+              "name": "GitHub",
+              "share_to_ziprecruiter": true,
+              "twitter_url": "https://twitter.com/github",
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+              "vanity_url": "https://www.credly.com/org/github",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by GitHub"
+      },
+      "last_updated_at": "2025-03-28T13:32:17.919-05:00",
+      "locale": "en",
+      "printable": true,
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2025-03-28T13:32:17.920-05:00",
+      "user_is_earner": false
+    },
+    {
+      "accepted_at": "2025-04-17T07:39:37.643-05:00",
+      "badge_template": {
+        "alignments": [],
+        "badge_template_activities": [
+          {
+            "activity_type": "Credential",
+            "id": "507bb6cf-fa73-458b-b1eb-cf0fad0cb17a",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "acb87d32-67d2-448f-8fea-0c965f0d5394",
+            "required_badge_template_id": null,
+            "title": "Manage user identities and GitHub authentication",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "1dfe36cb-e64d-4e5c-8aa7-bd6be7a400a5",
+            "required_badge_template_id": null,
+            "title": "Manage access and permissions based on membership",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "52da8ee2-57b5-4573-9864-2368fd5f2ab6",
+            "required_badge_template_id": null,
+            "title": "Enable secure software development and ensure compliance",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "5681c2df-b14b-4bc3-abd0-2f04832370dd",
+            "required_badge_template_id": null,
+            "title": "Manage GitHub Actions and GitHub Packages",
+            "url": null
+          }
+        ],
+        "badge_template_earnable": false,
+        "cost": "Paid",
+        "description": "Passing the GitHub Administration certification exam validates subject matter expertise with the deployment and administration of GitHub Enterprise as well as how to provide support for GitHub users in the enterprise.",
+        "earn_this_badge_url": null,
+        "enable_detail_attribute_visibility": true,
+        "enable_earn_this_badge": false,
+        "endorsements": [],
+        "global_activity_url": null,
+        "id": "9d271ae3-64e2-4f70-bbe3-2e5511e676d3",
+        "image": {
+          "id": "34880f37-8ec8-4542-a78a-73ba6647208e",
+          "url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"
+        },
+        "image_url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png",
+        "issuer": {
+          "entities": [
+            {
+              "entity": {
+                "id": "63074953-290b-4dce-86ce-ea04b4187219",
+                "internationalize_badge_templates": false,
+                "name": "GitHub",
+                "share_to_ziprecruiter": true,
+                "twitter_url": "https://twitter.com/github",
+                "type": "Organization",
+                "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+                "vanity_url": "https://www.credly.com/org/github",
+                "verified": false
+              },
+              "label": "Issued by",
+              "primary": true
+            }
+          ],
+          "summary": "issued by GitHub"
+        },
+        "job_board_url": null,
+        "level": null,
+        "name": "GitHub Administration",
+        "owner_vanity_slug": "github",
+        "public": true,
+        "recipient_type": "User",
+        "recommendable": false,
+        "related_badge_templates": [
+          {
+            "id": "733017ad-2c75-442f-9f7b-4b5944a02a6d",
+            "image": {
+              "id": "c9ed294b-f8ac-48fa-a8c3-96dab1f110f2",
+              "url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png"
+            },
+            "image_url": "https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png",
+            "name": "GitHub Advanced Security",
+            "url": "https://www.credly.com/org/github/badge/github-advanced-security"
+          },
+          {
+            "id": "999453c9-0d2b-4a4e-b82c-ed1c89bc56ee",
+            "image": {
+              "id": "89efc3e7-842b-4790-b09b-9ea5efc71ec3",
+              "url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png"
+            },
+            "image_url": "https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png",
+            "name": "GitHub Actions",
+            "url": "https://www.credly.com/org/github/badge/github-actions"
+          },
+          {
+            "id": "b8f84afc-e711-4261-a8cd-3f447dfdcb76",
+            "image": {
+              "id": "024d0122-724d-4c5a-bd83-cfe3c4b7a073",
+              "url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png"
+            },
+            "image_url": "https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png",
+            "name": "GitHub Foundations",
+            "url": "https://www.credly.com/org/github/badge/github-foundations"
+          }
+        ],
+        "settings_enable_related_badges": true,
+        "show_badge_lmi": false,
+        "show_skill_tag_links": true,
+        "skills": [
+          {
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          },
+          {
+            "id": "b8a9f092-aea6-4693-bbef-a10b9bd24d51",
+            "name": "GHEC",
+            "vanity_slug": "ghec"
+          },
+          {
+            "id": "145fe419-9db8-497f-bd56-97920e612b55",
+            "name": "GHES",
+            "vanity_slug": "ghes"
+          },
+          {
+            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
+            "name": "GitHub",
+            "vanity_slug": "github"
+          },
+          {
+            "id": "aa00351c-a29e-4d23-a259-30b532003f2d",
+            "name": "GitHub Enterprise",
+            "vanity_slug": "github-enterprise"
+          },
+          {
+            "id": "f7284e83-463a-450a-a31a-39a8ea4722f7",
+            "name": "System Administration",
+            "vanity_slug": "system-administration"
+          }
+        ],
+        "time_to_earn": "Days",
+        "translatable": false,
+        "type_category": "Certification",
+        "url": "https://www.credly.com/org/github/badge/github-administration",
+        "vanity_slug": "github-administration"
+      },
+      "earner_path": "/users/robin-konrad",
+      "earner_photo_url": "https://images.credly.com/images/c37b6f0c-8bdf-4bd6-abaa-f1019b1b1d78/blob.jpeg",
+      "evidence": [],
+      "expires_at": "2029-04-17T06:51:29.000-05:00",
+      "expires_at_date": "2029-04-17",
+      "id": "01d930b6-0da1-48c7-8b57-8de7f64be413",
+      "image": {
+        "id": "34880f37-8ec8-4542-a78a-73ba6647208e",
+        "url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png"
+      },
+      "image_url": "https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png",
+      "is_private_badge": false,
+      "issued_at": "2025-04-17T06:51:29.000-05:00",
+      "issued_at_date": "2025-04-17",
+      "issued_to": "Robin Sven Severin Konrad",
+      "issuer": {
+        "entities": [
+          {
+            "entity": {
+              "id": "63074953-290b-4dce-86ce-ea04b4187219",
+              "internationalize_badge_templates": false,
+              "name": "GitHub",
+              "share_to_ziprecruiter": true,
+              "twitter_url": "https://twitter.com/github",
+              "type": "Organization",
+              "url": "https://www.credly.com/api/v1/organizations/63074953-290b-4dce-86ce-ea04b4187219",
+              "vanity_url": "https://www.credly.com/org/github",
+              "verified": false
+            },
+            "label": "Issued by",
+            "primary": true
+          }
+        ],
+        "summary": "issued by GitHub"
+      },
+      "last_updated_at": "2025-04-17T07:39:37.666-05:00",
+      "locale": "en",
+      "printable": true,
+      "public": true,
+      "recommendations": [],
+      "state": "accepted",
+      "translate_metadata": false,
+      "updated_at": "2025-04-17T07:39:37.666-05:00",
+      "user_is_earner": false
     }
   ],
   "metadata": {
-    "count": 14,
+    "count": 16,
     "current_page": 1,
     "next_page_url": null,
     "per": 48,
     "previous_page_url": null,
-    "total_count": 14,
+    "total_count": 16,
     "total_pages": 1
   }
 }
