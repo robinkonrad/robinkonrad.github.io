@@ -6,9 +6,66 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 27 May 2025 19:30:40 Z",
+      "lastBuildDate": "Tue, 27 May 2025 21:45:10 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "491272"
+          },
+          "link": "https://azure.microsoft.com/updates?id=491272",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Build"
+          ],
+          "title": "[In preview] Public Preview: Microsoft DocumentDB Docker Image",
+          "description": "Introducing the Microsoft DocumentDB Docker Image, a local development environment you can use to build and test apps with DocumentDB. This image simulates the DocumentDB on your local machine, providing a fast, cost-effective, and isolated environment fo",
+          "pubDate": "Tue, 27 May 2025 21:45:10 Z",
+          "a10:updated": "2025-05-27T21:45:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "491267"
+          },
+          "link": "https://azure.microsoft.com/updates?id=491267",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Build"
+          ],
+          "title": "[In preview] Public Preview: Azure Cosmos DB for MongoDB (vCore) trigger and bindings for Azure Functions",
+          "description": "Integration between Azure Functions and Azure Cosmos DB for MongoDB (vCore) is now available in public preview. You can now respond to changes in your collections using Azure Functions triggers and bindings, enabling you to easily build real-time, event-d",
+          "pubDate": "Tue, 27 May 2025 21:45:10 Z",
+          "a10:updated": "2025-05-27T21:45:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "442638"
+          },
+          "link": "https://azure.microsoft.com/updates?id=442638",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Build"
+          ],
+          "title": "[Launched] Generally Available: Azure Cosmos DB JavaScript SDK 4.0",
+          "description": "The Azure Cosmos DB JavaScript SDK 4.0 is now generally available. This major update brings a range of enhancements to help you build more efficient and scalable applications, whether you're working with large datasets, securing sensitive information, or",
+          "pubDate": "Tue, 27 May 2025 21:45:10 Z",
+          "a10:updated": "2025-05-27T21:45:10Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3721,62 +3778,6 @@
           "description": "We’re\nexcited to announce the Private Preview of Azure Backup for AKS\nwith support for Azure file share-based Persistent Volumes! With this\nnew capability, customers can now enable snapshot-based backups for\nAKS applications using both Azure Disks and Azu",
           "pubDate": "Wed, 16 Apr 2025 18:00:13 Z",
           "a10:updated": "2025-04-16T18:00:13Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489009"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489009",
-          "category": [
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Functions – Durable Functions support for Netherite will end on March 31, 2028",
-          "description": "Netherite, one of several backend providers supported by Durable\nFunctions, will no\nlonger be supported after March 31, 2028.  For function apps that need the\nhigher throughput benefits previously offered by Netherite, it is recommended\nthat you start eva",
-          "pubDate": "Wed, 16 Apr 2025 17:30:50 Z",
-          "a10:updated": "2025-04-16T17:30:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "488759"
-          },
-          "link": "https://azure.microsoft.com/updates?id=488759",
-          "category": [
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Retirements",
-            "Management",
-            "SDK and Tools",
-            "Open Source"
-          ],
-          "title": "Retirement: HELM chart-based onboarding workflow for the Azure Monitor Container Insights agent is retiring on October 1, 2025",
-          "description": "Starting October 1, 2025, the HELM chart-based onboarding\nworkflow for the Container Insights agent will be retired. To ensure your clusters are secure and running smoothly, please migrate to\nAzure Arc Kubernetes Container Insights Extension by October 1,",
-          "pubDate": "Wed, 16 Apr 2025 17:30:50 Z",
-          "a10:updated": "2025-04-16T17:30:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490013"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490013",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Networking",
-            "Azure ExpressRoute",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Microsoft Azure Available from New Azure for U.S. Government Secret Cloud Region in the US",
-          "description": "A new Azure for U.S. Government Secret cloud region is now generally available.  With multiple geographically separate regions, Azure for U.S. Government Secret provides customers with multiple options for data residency, continuity of operations, and res",
-          "pubDate": "Wed, 16 Apr 2025 12:15:24 Z",
-          "a10:updated": "2025-04-16T12:15:24Z"
         }
       ]
     }
