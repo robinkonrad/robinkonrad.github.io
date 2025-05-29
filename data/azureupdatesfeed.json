@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 29 May 2025 15:15:41 Z",
+      "lastBuildDate": "Thu, 29 May 2025 16:00:12 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "493296"
+          },
+          "link": "https://azure.microsoft.com/updates?id=493296",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Destination Network Address Translation (DNAT) on Azure Firewall Private IP address",
+          "description": "Azure Firewall enhances the DNAT rule configuration to\nsupport port translations on its Private IP address. DNAT on Azure Firewall Private IP address helps connect\noverlapped IP networks, which is a common scenario for enterprises when\nonboarding new part",
+          "pubDate": "Thu, 29 May 2025 16:00:12 Z",
+          "a10:updated": "2025-05-29T16:00:12Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3768,23 +3786,6 @@
           "description": "Azure Backup now\nsupports transferring your Azure Data Lake Storage backups to the vault. A\nvault stores backups and recovery points created over time. You can define a\nbackup schedule with daily or weekly backups and specify retention settings for\nhow lo",
           "pubDate": "Wed, 16 Apr 2025 11:30:07 Z",
           "a10:updated": "2025-04-18T13:00:53Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489984"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489984",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Blob Storage",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: ACLs (Access Control Lists) for Local Users in Azure Blob Storage SFTP",
-          "description": "We are excited to announce the general availability of ACLs\n(Access Control Lists) for Azure Blob Storage SFTP local users. ACLs make it\nsimple and intuitive for administrators to manage fine-grained access control\nto blobs and directories for Azure Blob",
-          "pubDate": "Thu, 17 Apr 2025 18:00:44 Z",
-          "a10:updated": "2025-04-17T18:00:44Z"
         }
       ]
     }
