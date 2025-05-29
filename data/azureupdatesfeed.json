@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 29 May 2025 16:00:12 Z",
+      "lastBuildDate": "Thu, 29 May 2025 17:00:19 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495106"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495106",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Disk Storage",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Live Resize for Premium SSD v2 and Ultra NVMe Disks",
+          "description": "Announcing the public preview of Live Resize for Premium SSD v2 (Pv2)\nand Ultra NVMe Disks. This feature allows you to dynamically expand\nthe storage capacity of your disks without any disruption to your applications.\nTo optimize costs, you can start with",
+          "pubDate": "Thu, 29 May 2025 17:00:19 Z",
+          "a10:updated": "2025-05-29T17:00:19Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3766,26 +3783,6 @@
           "description": "All resource\nspecific log tables for Azure Firewall now support the Basic log\nplan which can reduce your logging costs by 80%. However, Policy\nAnalytics and Security\nCopilot integrations will not work with the Basic log plan.   Learn more: About this new",
           "pubDate": "Mon, 21 Apr 2025 17:00:21 Z",
           "a10:updated": "2025-04-21T17:00:21Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "488835"
-          },
-          "link": "https://azure.microsoft.com/updates?id=488835",
-          "category": [
-            "In preview",
-            "Management and governance",
-            "Storage",
-            "Azure Backup",
-            "Compliance",
-            "Security",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview:  Azure Backup enables vaulted backup for Azure Data Lake Storage for comprehensive data protection",
-          "description": "Azure Backup now\nsupports transferring your Azure Data Lake Storage backups to the vault. A\nvault stores backups and recovery points created over time. You can define a\nbackup schedule with daily or weekly backups and specify retention settings for\nhow lo",
-          "pubDate": "Wed, 16 Apr 2025 11:30:07 Z",
-          "a10:updated": "2025-04-18T13:00:53Z"
         }
       ]
     }
