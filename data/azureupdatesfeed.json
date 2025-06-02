@@ -6,9 +6,62 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 02 Jun 2025 16:00:58 Z",
+      "lastBuildDate": "Mon, 02 Jun 2025 17:00:21 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495755"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495755",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Migration",
+            "Azure Migrate",
+            "Management",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Migrate enhances resiliency by supporting ZRS Disks Migration",
+          "description": "Azure Migrate now supports migration to ZRS Disks. Zone-Redundant Storage (ZRS) for Azure Disks\nsynchronously replicates data across three physically separate availability\nzones within a region – each with independent power, cooling, and networking –\nenha",
+          "pubDate": "Mon, 02 Jun 2025 17:00:21 Z",
+          "a10:updated": "2025-06-02T17:00:21Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495546"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495546",
+          "category": [
+            "Launched",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Azure Storage Mover support for SMB source to Azure Blob target",
+          "description": "Azure Storage Mover can\nnow migrate your SMB shares to Azure Blob container.  Storage Mover is a fully\nmanaged migration service that enables you to migrate on-premises files and\nfolders to Azure Storage while minimizing downtime for your workload. Togeth",
+          "pubDate": "Mon, 02 Jun 2025 16:45:38 Z",
+          "a10:updated": "2025-06-02T16:45:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495231"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495231",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks",
+          "description": "Announcing the Public\nPreview of Azure Site Recovery (ASR) for Virtual Machines with Premium SSD v2\ndisks. ASR provides seamless disaster recovery for Virtual Machines across\nAzure Regions and from on-premises to Azure, helping organizations maintain\nbusi",
+          "pubDate": "Mon, 02 Jun 2025 16:45:38 Z",
+          "a10:updated": "2025-06-02T16:45:38Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3722,61 +3775,6 @@
           "description": "We are excited to announce that you can now use service principal Entra authentication to connect your Azure Database for PostgreSQL instance with Azure Synapse Analytics and Azure Data Factory. This feature enhances security and simplifies the authentica",
           "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
           "a10:updated": "2025-04-23T16:30:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489627"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489627",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Sharded DiskANN in Azure Cosmos DB for NoSQL",
-          "description": "Azure Cosmos DB for NoSQL introduces sharded DiskANN, a powerful feature enhancing your vector search experience. Sharding partitions a DiskANN vector index into smaller, more manageable segments. By simply defining the VectorIndexShardKey parameter in yo",
-          "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
-          "a10:updated": "2025-04-23T16:15:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489622"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489622",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Support for Mongo 8.0 on vCore-based Azure Cosmos DB for MongoDB",
-          "description": "You can now use MongoDB version 8.0 on vCore-based Azure Cosmos DB for MongoDB. This release provides access to the latest MongoDB features, helping you build and manage your applications more efficiently. Learn more.",
-          "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
-          "a10:updated": "2025-04-23T16:15:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "485989"
-          },
-          "link": "https://azure.microsoft.com/updates?id=485989",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Mobile",
-            "Web",
-            "Azure AI Search",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Easy service upgrade and change service tier in Azure AI Search",
-          "description": "Azure AI Search has two new self-serve options that make it easy to change or upgrade your service, directly from Azure portal or the management API.  Changing your service tier is now as easy as adding partitions or replicas; no rebuild required. Self-se",
-          "pubDate": "Wed, 23 Apr 2025 16:15:29 Z",
-          "a10:updated": "2025-04-23T16:15:29Z"
         }
       ]
     }
