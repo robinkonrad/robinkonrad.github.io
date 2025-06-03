@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 02 Jun 2025 17:00:21 Z",
+      "lastBuildDate": "Tue, 03 Jun 2025 16:00:11 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495600"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495600",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Internet of Things",
+            "Azure AI Foundry",
+            "Azure Machine Learning",
+            "Management"
+          ],
+          "title": "[Launched] Generally Available: Required role assignment for private endpoint approvals in AzureML workspaces and/or AI Foundry hubs with managed network",
+          "description": "Starting April 30, 2025, private endpoint approvals from the\nAzure Machine Learning and Azure AI Foundry managed network will no longer be\nhandled by the internal networking service. Moving forward, either the Azure AI\nEnterprise Network Connection Approv",
+          "pubDate": "Tue, 03 Jun 2025 16:00:11 Z",
+          "a10:updated": "2025-06-03T16:00:11Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3755,24 +3774,6 @@
           ],
           "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server",
           "description": "PostgreSQL minor versions 17.4, 16.8, 15.12, 14.17, and 13.20 are now supported by Azure Database for PostgreSQL – Flexible Server.   These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azure Database for",
-          "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
-          "a10:updated": "2025-04-23T16:30:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489649"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489649",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for PostgreSQL - Azure Data Factory service principal authentication",
-          "description": "We are excited to announce that you can now use service principal Entra authentication to connect your Azure Database for PostgreSQL instance with Azure Synapse Analytics and Azure Data Factory. This feature enhances security and simplifies the authentica",
           "pubDate": "Wed, 23 Apr 2025 16:30:16 Z",
           "a10:updated": "2025-04-23T16:30:16Z"
         }
