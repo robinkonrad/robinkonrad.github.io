@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 04 Jun 2025 21:00:06 Z",
+      "lastBuildDate": "Thu, 05 Jun 2025 15:15:26 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495140"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495140",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL - Azure Data Factory managed identity",
+          "description": "Announcing that you can now use user-assigned managed identity and system-assigned managed identity Entra authentication to connect your Azure Database for PostgreSQL instance with Azure Synapse Analytics and Azure Data Factory. This feature enhances secu",
+          "pubDate": "Thu, 05 Jun 2025 15:15:26 Z",
+          "a10:updated": "2025-06-05T15:15:26Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3757,24 +3775,6 @@
           "description": "This is useful for\ncustomers who operate shared cluster platforms using AKS. Customers need the\nability to configure container console log collection in a way that segregates\nlogs by different teams so that each has access to the container logs of the con",
           "pubDate": "Thu, 24 Apr 2025 16:00:08 Z",
           "a10:updated": "2025-04-24T17:15:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489246"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489246",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Services",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Avaialble: Azure NVads V710 v5-series virtual machines",
-          "description": "The NVads V710 v5-series virtual machines are designed for lightweight AI inferencing and graphics-intensive applications that demand cost-effective, high-performance GPUs with more memory and faster CPUs.  Powered by AMD Radeon™ Pro V710 GPUs and 4th gen",
-          "pubDate": "Thu, 24 Apr 2025 16:00:08 Z",
-          "a10:updated": "2025-04-24T16:00:08Z"
         }
       ]
     }
