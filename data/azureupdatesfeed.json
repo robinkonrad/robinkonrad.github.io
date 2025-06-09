@@ -6,9 +6,44 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 05 Jun 2025 16:00:17 Z",
+      "lastBuildDate": "Mon, 09 Jun 2025 17:00:57 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496109"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496109",
+          "category": [
+            "Launched",
+            "Storage",
+            "Archive Storage",
+            "Services",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Archive Access Tier Now Available in Italy North",
+          "description": "The\nArchive access tier for Azure Blob Storage is now generally available in the\nItaly North region.  \nWith this regional expansion, customers can now store infrequently accessed\ndata in the cost-effective Archive tier while meeting data residency and\ncom",
+          "pubDate": "Mon, 09 Jun 2025 17:00:57 Z",
+          "a10:updated": "2025-06-09T17:00:57Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495985"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495985",
+          "category": [
+            "In preview",
+            "Analytics",
+            "Azure Data Explorer",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Persistent Graph Semantics",
+          "description": "Azure Data Explorer now offers Persistent Graphs in\npublic preview, enabling durable graph data structures that persist beyond\nindividual query executions for enterprise-scale relationship analysis.\nUnlike transient\nGraphs which exist only in memory durin",
+          "pubDate": "Mon, 09 Jun 2025 17:00:57 Z",
+          "a10:updated": "2025-06-09T17:00:57Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3738,43 +3773,6 @@
           "description": "You\ncan now develop functions using Python 3.12 locally and deploy them to all\nAzure Functions plans.  Python\n3.12 builds on the performance enhancements that were first released with\nPython 3.11 and adds several performance and language readability featu",
           "pubDate": "Mon, 28 Apr 2025 18:00:03 Z",
           "a10:updated": "2025-04-28T18:00:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490327"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490327",
-          "category": [
-            "Launched",
-            "Compute",
-            "Azure Compute Fleet",
-            "Features",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Azure Compute Fleet",
-          "description": "Azure Compute Fleet is now generally available in all regions. Azure Compute Fleet allows users to easily obtain large amounts of compute capacity algorithmically mixing and matching a variety of available and VM sizes suitable to a user's workload, up to",
-          "pubDate": "Mon, 28 Apr 2025 16:30:27 Z",
-          "a10:updated": "2025-04-28T16:30:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490727"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490727",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Metrics Usage Insights",
-          "description": "Announcing the Public Preview of ‘metrics\nusage insights’, a feature currently designed for Azure\nManaged Prometheus users which will analyze all metrics ingested\nin Azure\nManaged Workspace (AMW), surfacing actionable insights\nto optimize your observabili",
-          "pubDate": "Thu, 24 Apr 2025 18:00:35 Z",
-          "a10:updated": "2025-04-24T18:30:13Z"
         }
       ]
     }
