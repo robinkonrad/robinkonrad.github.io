@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 12 Jun 2025 11:45:48 Z",
+      "lastBuildDate": "Thu, 12 Jun 2025 17:30:06 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "495809"
+          },
+          "link": "https://azure.microsoft.com/updates?id=495809",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Disk Storage",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Encrypt Premium SSD v2 and Ultra Disks with Cross Tenant Customer Managed Keys",
+          "description": "Cross-tenant customer\nmanaged keys (CMK) for Premium SSD v2 and Ultra Disks is now in public preview\nin select regions.   Encrypting managed disks\nwith cross-tenant CMK enables encrypting the disk with a CMK hosted in an Azure\nKey Vault in a different Mic",
+          "pubDate": "Thu, 12 Jun 2025 17:30:06 Z",
+          "a10:updated": "2025-06-12T17:30:06Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496481"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496481",
+          "category": [
+            "Launched",
+            "Compute",
+            "Virtual Machines",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: New storage optimized Laosv4, Lasv4, and Lsv4 Azure VM series",
+          "description": "The Laosv4 series and\nLasv4 storage optimized VMs, based on the 4th Gen AMD EPYC™ processor (Genoa),\nand the Lsv4-series VMs, based on the 5th Gen Intel® Xeon® processor (Emerald\nRapids), are now generally available.   Laosv4 VMs have sizes\nranging from 2",
+          "pubDate": "Thu, 12 Jun 2025 17:00:35 Z",
+          "a10:updated": "2025-06-12T17:00:35Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3733,44 +3769,6 @@
           "description": "Virtual network\nTAP enables customers to continuously stream virtual machine network traffic to\na network packet collector or analytics tool. Unlike traditional packet capture\nsolutions that require the deployment of additional agents or network\nappliance",
           "pubDate": "Tue, 29 Apr 2025 17:30:43 Z",
           "a10:updated": "2025-04-29T17:30:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490759"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490759",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure NetApp Files",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Cross-tenant customer-managed keys for Azure NetApp Files volume encryption",
-          "description": "Cross-tenant customer-managed keys for Azure NetApp Files volume encryption. This feature enables individual customers to manage their own keys across different tenancies. In scenarios such as SaaS provider/user configurations, it ensures that the end use",
-          "pubDate": "Tue, 29 Apr 2025 17:15:51 Z",
-          "a10:updated": "2025-04-29T17:15:51Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490854"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490854",
-          "category": [
-            "In preview",
-            "Networking",
-            "Security",
-            "Azure Front Door",
-            "Web Application Firewall",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Azure WAF CAPTCHA Challenge for Azure Front Door",
-          "description": "Announcing the public\npreview of CAPTCHA for Azure Web Application Firewall (WAF) with Azure\nFront Door.  Modern web applications face evolving\nthreats, including bots, web scrapers, and brute-force attacks, many of\nwhich can bypass traditional security c",
-          "pubDate": "Tue, 29 Apr 2025 17:00:28 Z",
-          "a10:updated": "2025-04-29T17:00:28Z"
         }
       ]
     }
