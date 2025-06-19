@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 18 Jun 2025 18:00:12 Z",
+      "lastBuildDate": "Thu, 19 Jun 2025 21:30:15 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496440"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496440",
+          "category": [
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Retirements"
+          ],
+          "title": "Retirement: skip-gpu-driver-install nodepool tag retirement om August 14, 2025",
+          "description": "On August 14 2025, Azure Kubernetes Service will no\nlonger support the skip-gpu-driver-install node pool tag to skip automatic\ndriver installation on GPU node pools. Starting on August 14 2025, you will no\nlonger be able to use this node pool tag at AKS n",
+          "pubDate": "Thu, 19 Jun 2025 21:30:15 Z",
+          "a10:updated": "2025-06-19T21:30:15Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3739,22 +3756,6 @@
           "description": "Azure NetApp Files support for Active Directory connection per NetApp account feature is now generally available. The feature allows each NetApp account to connect to its own Active Directory Forest and Domain, providing the ability to manage more than on",
           "pubDate": "Mon, 12 May 2025 20:30:43 Z",
           "a10:updated": "2025-05-12T20:30:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "language-understanding-retirement"
-          },
-          "link": "https://azure.microsoft.com/updates?id=language-understanding-retirement",
-          "category": [
-            "AI + machine learning",
-            "Language Understanding (LUIS)",
-            "Retirements"
-          ],
-          "title": "Retirement: Language Understanding (LUIS) retirement extended to October 31, 2025",
-          "description": "In\nSeptember 2022, we announced that Language Understanding (LUIS) would be\nretired on October 1, 2025. Based on feedback from you, we are extending the\nretirement date to October 31, 2025, to give you more time to plan for your\nmigration.  On October\n31,",
-          "pubDate": "Fri, 30 Sep 2022 23:00:37 Z",
-          "a10:updated": "2025-05-09T19:00:52Z"
         }
       ]
     }
