@@ -6,9 +6,71 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 20 Jun 2025 11:30:35 Z",
+      "lastBuildDate": "Fri, 20 Jun 2025 12:15:34 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496631"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496631",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Features",
+            "Services",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Azure Front Door now supports managed certificate for wildcard domains",
+          "description": "Azure Front Door standard and premium\nprofiles now support managed certificate for wildcard domains. Previously, you can only bring your own certificate for wildcard\ndomains on Azure Front Door.  This enables customers to secure multiple\nsubdomains with a",
+          "pubDate": "Fri, 20 Jun 2025 12:15:34 Z",
+          "a10:updated": "2025-06-20T12:15:34Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496536"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496536",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "AI + machine learning",
+            "Application Gateway",
+            "Azure Front Door",
+            "Microsoft Copilot for Security",
+            "Web Application Firewall",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Azure WAF integration in Microsoft Security Copilot",
+          "description": "Azure\nWeb Application Firewall (WAF) integration in Microsoft Copilot for Security\nhas reached general availability. This integration supports both Azure\nFront Door WAF and Azure Application Gateway WAF.  By\nintegrating Azure WAF with the Security Copilot",
+          "pubDate": "Fri, 20 Jun 2025 12:15:34 Z",
+          "a10:updated": "2025-06-20T12:15:34Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496415"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496415",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Functions enables OpenTelemetry support",
+          "description": "We're\nannouncing significant improvements to OpenTelemetry support in Azure\nFunctions, expanding on the limited preview announced last year.   These\nenhancements deliver better observability, improved performance, and more\ndetailed insights into your func",
+          "pubDate": "Wed, 18 Jun 2025 18:00:12 Z",
+          "a10:updated": "2025-06-20T12:15:34Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -94,25 +156,6 @@
           ],
           "title": "[Launched] Generally Available: Kubernetes v1.31 and v1.32 available as Long Term Support versions in AKS",
           "description": "Kubernetes versions 1.31 and 1.32 are now available in all regions as Long term Support (LTS) versions. Every Kubernetes version supported by community is now LTS compatible. Learn more.",
-          "pubDate": "Wed, 18 Jun 2025 18:00:12 Z",
-          "a10:updated": "2025-06-18T18:00:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496415"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496415",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Functions enables OpenTelemetry support",
-          "description": "We're announcing significant improvements to\nOpenTelemetry support in Azure Functions, expanding on the limited preview\nannounced last year. These enhancements deliver better observability, improved\nperformance, and more detailed insights into your functi",
           "pubDate": "Wed, 18 Jun 2025 18:00:12 Z",
           "a10:updated": "2025-06-18T18:00:12Z"
         },
@@ -3727,33 +3770,6 @@
           "description": "To provide a new flexible and cost-effective option for developers, Azure App Configuration now offers a Developer pricing plan.  This new plan is ideal for development teams looking for a reliable configuration store for development and testing, and for",
           "pubDate": "Tue, 13 May 2025 18:15:37 Z",
           "a10:updated": "2025-05-13T18:15:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492737"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492737",
-          "category": [
-            "In preview",
-            "Regions & Datacenters"
-          ],
-          "title": "[In preview] Public Preview: Perth - Azure Extended Zones",
-          "description": "We are announcing the public preview of the Perth Azure\nExtended Zone.  Azure Extended Zones are small-footprint extensions of Azure\nplaced in metros, industry centers, or a specific jurisdiction to serve low\nlatency and data residency workloads. They sup",
-          "pubDate": "Tue, 13 May 2025 18:00:02 Z",
-          "a10:updated": "2025-05-13T18:00:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492574"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492574",
-          "category": "Retirements",
-          "title": "Retirement: Bing Search APIs on August 11, 2025",
-          "description": "Bing Search APIs will be retired on  August 11,  2025. Any existing instances of Bing Search APIs will be decommissioned completely, and the product will no longer be available for usage or new customer signup. Note that this retirement will apply to part",
-          "pubDate": "Mon, 12 May 2025 21:15:58 Z",
-          "a10:updated": "2025-05-13T13:00:22Z"
         }
       ]
     }
