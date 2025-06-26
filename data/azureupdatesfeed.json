@@ -6,9 +6,67 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 26 Jun 2025 15:30:44 Z",
+      "lastBuildDate": "Thu, 26 Jun 2025 17:00:16 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497043"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497043",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure NetApp Files",
+            "Features",
+            "Compliance",
+            "SDK and Tools"
+          ],
+          "title": "[Launched] Generally Available: Transition existing platform-managed  keys (PMK) to customer-managed keys (CMK) for Azure NetApp Files volumes without data migration.",
+          "description": "Customers can now transition existing volumes from platform-managed keys (PMK) to customer-managed keys (CMK) seamlessly.  This provides customers flexibility of encryption key lifecycle (renewals, rotations) and additional security for regulated industry",
+          "pubDate": "Thu, 26 Jun 2025 17:00:16 Z",
+          "a10:updated": "2025-06-26T17:00:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496523"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496523",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Features",
+            "Security",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Draft & Deploy on Azure Firewall",
+          "description": "The new Draft &\nDeploy feature for Azure Firewall Policy introduces a streamlined, two-phase\napproach to managing firewall policies, significantly reducing deployment time\nand disruption. Traditionally, any policy update would trigger a full deployment\nof",
+          "pubDate": "Thu, 26 Jun 2025 17:00:16 Z",
+          "a10:updated": "2025-06-26T17:00:16Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "484347"
+          },
+          "link": "https://azure.microsoft.com/updates?id=484347",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure Virtual Network Manager",
+            "Features",
+            "Management",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Azure Virtual Network Manager IP address management",
+          "description": "Azure\nVirtual Network Manager IP address management feature, a feature designed to\nenhance your network management, is generally available. In\ncomplex network environments, managing IP addresses effectively is essential.\nThis feature centralizes IP planni",
+          "pubDate": "Thu, 26 Jun 2025 17:00:16 Z",
+          "a10:updated": "2025-06-26T17:00:16Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -28,7 +86,7 @@
           "title": "[In preview] Public Preview: Monitor ingestion issues with Azure Monitor Workspace",
           "description": "Azure Managed Prometheus sends metrics into Azure Monitor Workspace. Customers can now view and monitor issues with ingestion of Prometheus metrics as part of the platform metrics for the Azure Monitor Workspace. Ingestion errors are issues that occurred",
           "pubDate": "Thu, 26 Jun 2025 15:30:44 Z",
-          "a10:updated": "2025-06-26T15:30:44Z"
+          "a10:updated": "2025-06-26T16:45:37Z"
         },
         {
           "guid": {
@@ -3721,61 +3779,6 @@
           "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery",
           "pubDate": "Fri, 16 May 2025 22:15:06 Z",
           "a10:updated": "2025-05-16T22:15:06Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "493335"
-          },
-          "link": "https://azure.microsoft.com/updates?id=493335",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure NetApp Files",
-            "Features",
-            "SDK and Tools",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Azure NetApp Files cross-zone and cross-region replication across subscriptions",
-          "description": "Cross-subscription replication is a feature for Azure NetApp Files that allows replication across different subscriptions under the same tenant. This enhances disaster recovery and operational agility by leveraging NetApp SnapMirror technology, which ensu",
-          "pubDate": "Fri, 16 May 2025 22:15:06 Z",
-          "a10:updated": "2025-05-16T22:15:06Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492879"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492879",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Files",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure File Sync in Italy North",
-          "description": "Azure File\nSync enables seamless tiering of data from on-premises Windows Servers to Azure\nFiles for hybrid use cases and simplified migration. It also enables you to\nleverage the performance, flexibility and compatibility of your\non-premises File Server",
-          "pubDate": "Fri, 16 May 2025 17:00:41 Z",
-          "a10:updated": "2025-05-16T17:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492316"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492316",
-          "category": [
-            "Launched",
-            "Compute",
-            "Mobile",
-            "Web",
-            "App Service",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: App Service Webjobs on Linux",
-          "description": "WebJobs allow for the execution of background tasks and scheduled processes, which unlike traditional web applications, are not triggered by HTTP requests. The WebJobs feature is now generally available (GA) for Linux code and container scenarios, bringin",
-          "pubDate": "Wed, 14 May 2025 23:00:01 Z",
-          "a10:updated": "2025-05-14T23:00:01Z"
         }
       ]
     }
