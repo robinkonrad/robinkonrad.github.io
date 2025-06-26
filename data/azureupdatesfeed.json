@@ -6,9 +6,30 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 24 Jun 2025 18:15:30 Z",
+      "lastBuildDate": "Thu, 26 Jun 2025 15:30:44 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497085"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497085",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "DevOps",
+            "Management and governance",
+            "Azure Kubernetes Service (AKS)",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Monitor ingestion issues with Azure Monitor Workspace",
+          "description": "Azure Managed Prometheus sends metrics into Azure Monitor Workspace. Customers can now view and monitor issues with ingestion of Prometheus metrics as part of the platform metrics for the Azure Monitor Workspace. Ingestion errors are issues that occurred",
+          "pubDate": "Thu, 26 Jun 2025 15:30:44 Z",
+          "a10:updated": "2025-06-26T15:30:44Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3753,21 +3774,6 @@
           ],
           "title": "[Launched] Generally Available: App Service Webjobs on Linux",
           "description": "WebJobs allow for the execution of background tasks and scheduled processes, which unlike traditional web applications, are not triggered by HTTP requests. The WebJobs feature is now generally available (GA) for Linux code and container scenarios, bringin",
-          "pubDate": "Wed, 14 May 2025 23:00:01 Z",
-          "a10:updated": "2025-05-14T23:00:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "489716"
-          },
-          "link": "https://azure.microsoft.com/updates?id=489716",
-          "category": [
-            "In preview",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: MongoDB Atlas—an Azure Native Integration",
-          "description": "MongoDB Atlas is now available as an Azure Native Integration, offering a fully managed document database with native vector search capabilities and direct integration with the Azure ecosystem. Developed through collaboration between Microsoft and MongoDB",
           "pubDate": "Wed, 14 May 2025 23:00:01 Z",
           "a10:updated": "2025-05-14T23:00:01Z"
         }
