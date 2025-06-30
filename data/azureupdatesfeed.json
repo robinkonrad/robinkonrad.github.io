@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 30 Jun 2025 17:45:57 Z",
+      "lastBuildDate": "Mon, 30 Jun 2025 19:00:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497661"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497661",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Files",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Encryption in Transit (EiT) for Azure Files NFS shares",
+          "description": "Azure Files NFS shares now support\nEncryption in Transit (EiT) using TLS 1.3 to secure all NFS traffic, ensuring\nconfidentiality, integrity, and authentication. This layer of added security\nhelps enterprises meet end-to-end compliance needs while maintain",
+          "pubDate": "Mon, 30 Jun 2025 19:00:02 Z",
+          "a10:updated": "2025-06-30T19:00:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3759,25 +3777,6 @@
           ],
           "title": "[In preview] Public Preview: PostgreSQL extension for Visual Studio Code with GitHub Copilot",
           "description": "We are thrilled to announce the public preview of the PostgreSQL extension for Visual Studio Code. With this powerful tool, you can connect to PostgreSQL Database instances, run queries, create and manage connection profiles, and take advantage of Entra I",
-          "pubDate": "Mon, 19 May 2025 16:00:41 Z",
-          "a10:updated": "2025-05-19T16:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491161"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491161",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Apache AGE extension for Azure Database for PostgreSQL",
-          "description": "We are excited to announce the general availability of the Apache AGE extension for Azure Database for PostgreSQL. With this release, you can unlock powerful graph database capabilities, enabling you to efficiently manage and analyze complex relationships",
           "pubDate": "Mon, 19 May 2025 16:00:41 Z",
           "a10:updated": "2025-05-19T16:00:41Z"
         }
