@@ -6,9 +6,81 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 02 Jul 2025 17:45:14 Z",
+      "lastBuildDate": "Wed, 02 Jul 2025 19:30:06 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497248"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497248",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL flexible server",
+          "description": "PostgreSQL\nminor versions 17.5, 16.9, 15.13, 14.18, and 13.21 are now supported by\nAzure Database for PostgreSQL flexible server.    These\nminor version upgrades are automatically performed as part of the monthly\nplanned maintenance in Azure Database for",
+          "pubDate": "Wed, 02 Jul 2025 19:30:06 Z",
+          "a10:updated": "2025-07-02T19:30:06Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497535"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497535",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure DNS",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Azure DNS security policy",
+          "description": "DNS security policy is now\ngenerally available. This release brings visibility of DNS traffic at the VNET\nlevel with the flexibility to send logs to storage account, log analytics\nworkspace, or event hubs. It also includes DNS filtering based on lists of",
+          "pubDate": "Wed, 02 Jul 2025 18:00:55 Z",
+          "a10:updated": "2025-07-02T18:00:55Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "470102"
+          },
+          "link": "https://azure.microsoft.com/updates?id=470102",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Secondary users for Azure Cosmos DB for MongoDB (vCore)",
+          "description": "We are excited to announce that Azure Cosmos DB for MongoDB (vCore) clusters now support secondary users, enabling more flexible and granular access control for your database. Previously, each cluster could have only one user with full privileges, limitin",
+          "pubDate": "Thu, 21 Nov 2024 17:30:38 Z",
+          "a10:updated": "2025-07-02T18:00:55Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "467663"
+          },
+          "link": "https://azure.microsoft.com/updates?id=467663",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: PostgreSQL 17 with in-place upgrade on Azure Database for PostgreSQL flexible server",
+          "description": "You can now use PostgreSQL 17 on Azure Database for PostgreSQL flexible server. With this release, you gain access to the latest PostgreSQL features along with the ability to perform seamless in-place upgrades from previous PostgreSQL versions—all without",
+          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
+          "a10:updated": "2025-07-02T18:00:55Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3694,86 +3766,6 @@
           ],
           "title": "[Launched] Generally Available: OpenTelemetry agent in Azure Container Apps",
           "description": "OpenTelemetry agent in Azure Container\nApps is now generally available. This feature enables you to use open-source\nstandards to send your app’s data without setting up the OpenTelemetry\ncollector yourself. You can use the managed agent to choose where to",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T17:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492071"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492071",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Durable functions v3 in Azure Functions",
-          "description": "Durable functions extension v3 in Azure Functions is now\ngenerally available. Major improvements in this new major\nversion include improved cost efficiency for usage of Azure Storage v2 accounts\nand an upgrade to the latest Azure Storage SDKs, as well as",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T17:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492062"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492062",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: SDK type bindings in Azure Functions for Azure Blob Storage, Azure Service Bus, Azure Cosmos DB and Azure Event Hubs",
-          "description": "Azure\nFunctions triggers and bindings enable you to easily integrate event and data\nsources with function applications. This feature enables you to use types from\nservice SDKs and frameworks, providing more capability beyond what is currently\noffered.",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T17:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492057"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492057",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Azure Functions support for HTTP streams in Python",
-          "description": "Azure\nFunctions support for HTTP streams in Python is now GA. With\nthis feature, customers can stream HTTP requests to and responses from their\nFunction Apps, using function exposed FastAPI request and response APIs.  Previously with HTTP requests, the am",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T17:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492052"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492052",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: SDK type bindings for Azure Blob Storage with Azure Functions in Python",
-          "description": "Azure\nFunctions triggers and bindings enable you to easily integrate event and data\nsources with function applications. This feature enables you to use types from\nservice SDKs and frameworks, providing more capability beyond what is currently\noffered.   S",
           "pubDate": "Mon, 19 May 2025 17:00:33 Z",
           "a10:updated": "2025-05-19T17:00:33Z"
         }
