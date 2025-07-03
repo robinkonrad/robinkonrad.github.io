@@ -105,16 +105,10 @@
         "skills": [
           {
             "canonical": false,
-            "faethm_id": "FS000175",
-            "id": "377d1202-560c-467b-b263-3bbb637667a4",
-            "name": "Agile",
-            "vanity_slug": "agile"
-          },
-          {
-            "canonical": false,
-            "id": "c68e36c2-21f4-48d7-b9d2-f0177683c170",
-            "name": "PSM",
-            "vanity_slug": "psm"
+            "faethm_id": "FS006582",
+            "id": "0ad1d84f-f647-4f9e-9796-0463cd667baa",
+            "name": "Scrum Master",
+            "vanity_slug": "scrum-master"
           },
           {
             "canonical": true,
@@ -125,10 +119,16 @@
           },
           {
             "canonical": false,
-            "faethm_id": "FS006582",
-            "id": "0ad1d84f-f647-4f9e-9796-0463cd667baa",
-            "name": "Scrum Master",
-            "vanity_slug": "scrum-master"
+            "id": "c68e36c2-21f4-48d7-b9d2-f0177683c170",
+            "name": "PSM",
+            "vanity_slug": "psm"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS000175",
+            "id": "377d1202-560c-467b-b263-3bbb637667a4",
+            "name": "Agile",
+            "vanity_slug": "agile"
           }
         ],
         "time_to_earn": null,
@@ -204,6 +204,13 @@
           },
           {
             "activity_type": "Education Experience",
+            "id": "e73fee9a-0734-49f9-810c-7ea16a2447d0",
+            "required_badge_template_id": null,
+            "title": "IBM Clients: Complete the Architectural Thinking course. Note: This workshop is scheduled on demand when a company engages IBM to hold the workshop for its Architects. To request a workshop for your company please contact your IBM Client Representative.",
+            "url": null
+          },
+          {
+            "activity_type": "Education Experience",
             "id": "a80c5d4f-6396-4c02-873c-f5df2b3c1550",
             "required_badge_template_id": null,
             "title": "IBM Employees: Alternatively, complete the Architectural Thinking Online Community learning plan.",
@@ -215,13 +222,6 @@
             "required_badge_template_id": null,
             "title": "IBM Employees: Click here for additional information.",
             "url": "https://w3.ibm.com/w3publisher/ibm-architect-profession/education#Architectural_Thinking"
-          },
-          {
-            "activity_type": "Education Experience",
-            "id": "e73fee9a-0734-49f9-810c-7ea16a2447d0",
-            "required_badge_template_id": null,
-            "title": "IBM Clients: Complete the Architectural Thinking course. Note: This workshop is scheduled on demand when a company engages IBM to hold the workshop for its Architects. To request a workshop for your company please contact your IBM Client Representative.",
-            "url": null
           }
         ],
         "badge_template_earnable": false,
@@ -283,52 +283,37 @@
         "skills": [
           {
             "canonical": false,
-            "faethm_id": "FS008261",
-            "id": "fa5bd95f-42a3-420c-93e2-d495b44d1f7d",
-            "name": "Architects Tools",
-            "vanity_slug": "architects-tools"
+            "id": "768acbb7-a246-4eb9-9dea-f388a920ce70",
+            "name": "PWID-B0234500",
+            "vanity_slug": "pwid-b0234500"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS005248",
+            "id": "f5013a70-fb01-460e-ba6b-4838c78bab7c",
+            "name": "Operational Models",
+            "vanity_slug": "operational-models"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS008227",
+            "id": "d7525888-b2dc-4493-a4eb-b764f5265bf6",
+            "name": "Non-functional Requirements",
+            "vanity_slug": "non-functional-requirements"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS008184",
+            "id": "22d01ee5-4f38-44d6-935d-0fec6d8c616f",
+            "name": "Component Models",
+            "vanity_slug": "component-models"
           },
           {
             "canonical": false,
             "faethm_id": "FS008261",
-            "id": "e2836954-3790-44b6-a476-23ccd0a89ae8",
-            "name": "Architectural Assets",
-            "vanity_slug": "architectural-assets"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS008261",
-            "id": "9b244b5d-2c19-42d5-b5d2-dc9aae7d395e",
-            "name": "Architecture Concepts",
-            "vanity_slug": "architecture-concepts"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS008261",
-            "id": "a515b1d7-5397-4d6d-a550-5afbb32a20eb",
-            "name": "Architecture Decision",
-            "vanity_slug": "architecture-decision"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS008261",
-            "id": "e40e381a-9cfb-4d6b-bbeb-b861830b8bc5",
-            "name": "Architecture Industry Standards",
-            "vanity_slug": "architecture-industry-standards"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS008261",
-            "id": "6cd96a80-78b6-4739-afc7-79940c14716e",
-            "name": "Architecture Life Cycle",
-            "vanity_slug": "architecture-life-cycle"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS008261",
-            "id": "75d6cf88-bb91-4b6c-b5da-065d550a96de",
-            "name": "Architecture Overview",
-            "vanity_slug": "architecture-overview"
+            "id": "e7fbfd3d-fdc3-48a0-a744-08e55f24e7cc",
+            "name": "Architecture Requirements",
+            "vanity_slug": "architecture-requirements"
           },
           {
             "canonical": false,
@@ -340,36 +325,51 @@
           {
             "canonical": false,
             "faethm_id": "FS008261",
-            "id": "e7fbfd3d-fdc3-48a0-a744-08e55f24e7cc",
-            "name": "Architecture Requirements",
-            "vanity_slug": "architecture-requirements"
+            "id": "75d6cf88-bb91-4b6c-b5da-065d550a96de",
+            "name": "Architecture Overview",
+            "vanity_slug": "architecture-overview"
           },
           {
             "canonical": false,
-            "faethm_id": "FS008184",
-            "id": "22d01ee5-4f38-44d6-935d-0fec6d8c616f",
-            "name": "Component Models",
-            "vanity_slug": "component-models"
+            "faethm_id": "FS008261",
+            "id": "6cd96a80-78b6-4739-afc7-79940c14716e",
+            "name": "Architecture Life Cycle",
+            "vanity_slug": "architecture-life-cycle"
           },
           {
             "canonical": false,
-            "faethm_id": "FS008227",
-            "id": "d7525888-b2dc-4493-a4eb-b764f5265bf6",
-            "name": "Non-functional Requirements",
-            "vanity_slug": "non-functional-requirements"
+            "faethm_id": "FS008261",
+            "id": "e40e381a-9cfb-4d6b-bbeb-b861830b8bc5",
+            "name": "Architecture Industry Standards",
+            "vanity_slug": "architecture-industry-standards"
           },
           {
             "canonical": false,
-            "faethm_id": "FS005248",
-            "id": "f5013a70-fb01-460e-ba6b-4838c78bab7c",
-            "name": "Operational Models",
-            "vanity_slug": "operational-models"
+            "faethm_id": "FS008261",
+            "id": "a515b1d7-5397-4d6d-a550-5afbb32a20eb",
+            "name": "Architecture Decision",
+            "vanity_slug": "architecture-decision"
           },
           {
             "canonical": false,
-            "id": "768acbb7-a246-4eb9-9dea-f388a920ce70",
-            "name": "PWID-B0234500",
-            "vanity_slug": "pwid-b0234500"
+            "faethm_id": "FS008261",
+            "id": "e2836954-3790-44b6-a476-23ccd0a89ae8",
+            "name": "Architectural Assets",
+            "vanity_slug": "architectural-assets"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS008261",
+            "id": "fa5bd95f-42a3-420c-93e2-d495b44d1f7d",
+            "name": "Architects Tools",
+            "vanity_slug": "architects-tools"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS008261",
+            "id": "9b244b5d-2c19-42d5-b5d2-dc9aae7d395e",
+            "name": "Architecture Concepts",
+            "vanity_slug": "architecture-concepts"
           },
           {
             "canonical": false,
@@ -443,18 +443,11 @@
         "alignments": [],
         "badge_template_activities": [
           {
-            "activity_type": "Application",
-            "id": "9b4699e9-e548-499d-ba76-239302e50439",
+            "activity_type": "Credential",
+            "id": "c0552ad6-03c9-481b-904b-2cebd92f5e9a",
             "required_badge_template_id": null,
-            "title": "Certification is open to all applicants – there is no requirement for any previous certification.",
-            "url": null
-          },
-          {
-            "activity_type": "Education Experience",
-            "id": "c66a54dc-4427-4f13-a488-97bba8c9dd05",
-            "required_badge_template_id": null,
-            "title": "To achieve certification to the TOGAF 9 Certified Body of Knowledge a Candidate must complete the 13 Level 1 Learning Units  and the 27 Level 2 Learning Units defined in the Conformance Requirements Document and pass the TOGAF 9 Part 1 and the TOGAF 9 Part 2 examinations.",
-            "url": "http://www.opengroup.org/bookstore/catalog/x111.htm"
+            "title": "See here for the official Directory of Certified individuals.",
+            "url": "https://togaf9-cert.opengroup.org/certified-individuals"
           },
           {
             "activity_type": "Assessment",
@@ -464,11 +457,18 @@
             "url": "http://certification.opengroup.org/examinations/togaf"
           },
           {
-            "activity_type": "Assessment",
-            "id": "569905b0-f501-4040-9674-c01d2e81d340",
+            "activity_type": "Education Experience",
+            "id": "c66a54dc-4427-4f13-a488-97bba8c9dd05",
             "required_badge_template_id": null,
-            "title": "Details of the learning paths and applicable examinations: for candidates who want to do stepwise learning two separate exams can be taken — for candidates who want to achieve this certification in one step, they can take a single exam.",
-            "url": "https://www.opengroup.org/certifications/togaf-individual-certification"
+            "title": "To achieve certification to the TOGAF 9 Certified Body of Knowledge a Candidate must complete the 13 Level 1 Learning Units  and the 27 Level 2 Learning Units defined in the Conformance Requirements Document and pass the TOGAF 9 Part 1 and the TOGAF 9 Part 2 examinations.",
+            "url": "http://www.opengroup.org/bookstore/catalog/x111.htm"
+          },
+          {
+            "activity_type": "Application",
+            "id": "9b4699e9-e548-499d-ba76-239302e50439",
+            "required_badge_template_id": null,
+            "title": "Certification is open to all applicants – there is no requirement for any previous certification.",
+            "url": null
           },
           {
             "activity_type": "Other",
@@ -478,11 +478,11 @@
             "url": null
           },
           {
-            "activity_type": "Credential",
-            "id": "c0552ad6-03c9-481b-904b-2cebd92f5e9a",
+            "activity_type": "Assessment",
+            "id": "569905b0-f501-4040-9674-c01d2e81d340",
             "required_badge_template_id": null,
-            "title": "See here for the official Directory of Certified individuals.",
-            "url": "https://togaf9-cert.opengroup.org/certified-individuals"
+            "title": "Details of the learning paths and applicable examinations: for candidates who want to do stepwise learning two separate exams can be taken — for candidates who want to achieve this certification in one step, they can take a single exam.",
+            "url": "https://www.opengroup.org/certifications/togaf-individual-certification"
           }
         ],
         "badge_template_earnable": true,
@@ -563,6 +563,18 @@
         "show_skill_tag_links": true,
         "skills": [
           {
+            "canonical": false,
+            "id": "c66366d7-489f-46da-a346-6e79d5d5be1e",
+            "name": "TOGAF Standard",
+            "vanity_slug": "togaf-standard"
+          },
+          {
+            "canonical": false,
+            "id": "a31abc0c-b6a4-4211-84c8-614f2042c31f",
+            "name": "Enterprise Architecture Method",
+            "vanity_slug": "enterprise-architecture-method"
+          },
+          {
             "canonical": true,
             "faethm_id": "FS002619",
             "id": "96ed22b4-e21a-4c19-b009-642559e23876",
@@ -578,12 +590,6 @@
           },
           {
             "canonical": false,
-            "id": "a31abc0c-b6a4-4211-84c8-614f2042c31f",
-            "name": "Enterprise Architecture Method",
-            "vanity_slug": "enterprise-architecture-method"
-          },
-          {
-            "canonical": false,
             "id": "cf9e1c31-7f2d-45d7-bd43-efd7460425f8",
             "name": "TOGAF ADM",
             "vanity_slug": "togaf-adm"
@@ -593,12 +599,6 @@
             "id": "ef109b63-ab3b-412e-8648-0322794419c7",
             "name": "TOGAF Enterprise Architecture",
             "vanity_slug": "togaf-enterprise-architecture"
-          },
-          {
-            "canonical": false,
-            "id": "c66366d7-489f-46da-a346-6e79d5d5be1e",
-            "name": "TOGAF Standard",
-            "vanity_slug": "togaf-standard"
           }
         ],
         "time_to_earn": null,
@@ -665,6 +665,13 @@
         ],
         "badge_template_activities": [
           {
+            "activity_type": "Education Experience",
+            "id": "0f95f8af-5af1-4f16-b6df-66372e8197a5",
+            "required_badge_template_id": null,
+            "title": "or (3) the earner has earned the TOGAF 9 Certified badge after November 1, 2019",
+            "url": null
+          },
+          {
             "activity_type": "Other",
             "id": "a094279b-31db-4f13-8b51-2aed6f28d2cb",
             "required_badge_template_id": null,
@@ -683,13 +690,6 @@
             "id": "eb5536ed-6b7e-4931-a5dd-4948d1f62acf",
             "required_badge_template_id": null,
             "title": "or (2) the earner has earned the TOGAF 9 Certified badge and has  completed an accredited training course for the TOGAF Standard, Version 9.2",
-            "url": null
-          },
-          {
-            "activity_type": "Education Experience",
-            "id": "0f95f8af-5af1-4f16-b6df-66372e8197a5",
-            "required_badge_template_id": null,
-            "title": "or (3) the earner has earned the TOGAF 9 Certified badge after November 1, 2019",
             "url": null
           }
         ],
@@ -772,15 +772,15 @@
         "skills": [
           {
             "canonical": false,
-            "id": "cf9e1c31-7f2d-45d7-bd43-efd7460425f8",
-            "name": "TOGAF ADM",
-            "vanity_slug": "togaf-adm"
-          },
-          {
-            "canonical": false,
             "id": "b210bfd1-7ffa-48ad-a976-246c78189278",
             "name": "TOGAF Standard, Version 9.2",
             "vanity_slug": "togaf-standard-version-9-2"
+          },
+          {
+            "canonical": false,
+            "id": "cf9e1c31-7f2d-45d7-bd43-efd7460425f8",
+            "name": "TOGAF ADM",
+            "vanity_slug": "togaf-adm"
           }
         ],
         "time_to_earn": null,
@@ -840,13 +840,6 @@
         "alignments": [],
         "badge_template_activities": [
           {
-            "activity_type": "Credential",
-            "id": "724711a8-7510-4141-b762-2aaba44e8759",
-            "required_badge_template_id": null,
-            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
-            "url": null
-          },
-          {
             "activity_type": "Assessment",
             "id": "76d035de-8b9d-4eb2-82b2-4a0502225273",
             "required_badge_template_id": null,
@@ -855,9 +848,9 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "2f0d2415-f4fc-4ab4-9122-49f1866e3f34",
+            "id": "9a1b8213-c852-432d-a9a5-44266874347b",
             "required_badge_template_id": null,
-            "title": "- Implement Management and Security Solutions",
+            "title": "- Implement and Manage Data Platforms",
             "url": null
           },
           {
@@ -869,9 +862,16 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "9a1b8213-c852-432d-a9a5-44266874347b",
+            "id": "2f0d2415-f4fc-4ab4-9122-49f1866e3f34",
             "required_badge_template_id": null,
-            "title": "- Implement and Manage Data Platforms",
+            "title": "- Implement Management and Security Solutions",
+            "url": null
+          },
+          {
+            "activity_type": "Credential",
+            "id": "724711a8-7510-4141-b762-2aaba44e8759",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
             "url": null
           }
         ],
@@ -923,30 +923,17 @@
         "skills": [
           {
             "canonical": false,
-            "id": "b11385f4-1937-4499-8436-3e38d829cd76",
-            "name": "Automation And Deployment",
-            "vanity_slug": "automation-and-deployment"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS004775",
-            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
-            "name": "Azure",
-            "vanity_slug": "azure"
+            "faethm_id": "FS001339",
+            "id": "069c9097-511a-4671-b167-36824826bc7d",
+            "name": "Cloud Networking",
+            "vanity_slug": "cloud-networking"
           },
           {
             "canonical": true,
-            "faethm_id": "FS001334",
-            "id": "abfd0cf0-7586-4cb8-9f23-0398da99a4cb",
-            "name": "Cloud Architecture",
-            "vanity_slug": "cloud-architecture"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS001335",
-            "id": "0e41a668-bed9-4c4e-9c3c-160ab9bda3cc",
-            "name": "Cloud Governance",
-            "vanity_slug": "cloud-governance"
+            "faethm_id": "FS001342",
+            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
+            "name": "Cloud Storage",
+            "vanity_slug": "cloud-storage"
           },
           {
             "canonical": true,
@@ -957,6 +944,19 @@
           },
           {
             "canonical": false,
+            "faethm_id": "FS001622",
+            "id": "50e69c1c-1952-451d-abe5-29395e7663ca",
+            "name": "Containers",
+            "vanity_slug": "containers"
+          },
+          {
+            "canonical": false,
+            "id": "b11385f4-1937-4499-8436-3e38d829cd76",
+            "name": "Automation And Deployment",
+            "vanity_slug": "automation-and-deployment"
+          },
+          {
+            "canonical": false,
             "faethm_id": "FS001335",
             "id": "8bb097e5-dccd-4c1d-abfa-278e63a44673",
             "name": "Cloud Monitoring",
@@ -964,10 +964,24 @@
           },
           {
             "canonical": false,
-            "faethm_id": "FS001339",
-            "id": "069c9097-511a-4671-b167-36824826bc7d",
-            "name": "Cloud Networking",
-            "vanity_slug": "cloud-networking"
+            "faethm_id": "FS001335",
+            "id": "0e41a668-bed9-4c4e-9c3c-160ab9bda3cc",
+            "name": "Cloud Governance",
+            "vanity_slug": "cloud-governance"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS007832",
+            "id": "35abc0ba-fd68-400c-a55f-e3fce62267b6",
+            "name": "Virtualization",
+            "vanity_slug": "virtualization"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001334",
+            "id": "abfd0cf0-7586-4cb8-9f23-0398da99a4cb",
+            "name": "Cloud Architecture",
+            "vanity_slug": "cloud-architecture"
           },
           {
             "canonical": false,
@@ -984,25 +998,11 @@
             "vanity_slug": "cloud-services"
           },
           {
-            "canonical": true,
-            "faethm_id": "FS001342",
-            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
-            "name": "Cloud Storage",
-            "vanity_slug": "cloud-storage"
-          },
-          {
             "canonical": false,
-            "faethm_id": "FS001622",
-            "id": "50e69c1c-1952-451d-abe5-29395e7663ca",
-            "name": "Containers",
-            "vanity_slug": "containers"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS007832",
-            "id": "35abc0ba-fd68-400c-a55f-e3fce62267b6",
-            "name": "Virtualization",
-            "vanity_slug": "virtualization"
+            "faethm_id": "FS004775",
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
           }
         ],
         "time_to_earn": null,
@@ -1062,20 +1062,6 @@
         "alignments": [],
         "badge_template_activities": [
           {
-            "activity_type": "Credential",
-            "id": "9eba13af-e1a3-4b73-b696-940291f06e65",
-            "required_badge_template_id": null,
-            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
-            "url": null
-          },
-          {
-            "activity_type": "Assessment",
-            "id": "f0b44e78-7c64-4836-ba0d-e17fb4aabe74",
-            "required_badge_template_id": null,
-            "title": "- Design monitoring",
-            "url": null
-          },
-          {
             "activity_type": "Assessment",
             "id": "6a43a52b-5b7d-4795-aef3-53ff17d0f358",
             "required_badge_template_id": null,
@@ -1087,6 +1073,20 @@
             "id": "dfd6fb15-65f5-4bee-9d50-c5279dd308ce",
             "required_badge_template_id": null,
             "title": "- Design data storage",
+            "url": null
+          },
+          {
+            "activity_type": "Credential",
+            "id": "9eba13af-e1a3-4b73-b696-940291f06e65",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "f0b44e78-7c64-4836-ba0d-e17fb4aabe74",
+            "required_badge_template_id": null,
+            "title": "- Design monitoring",
             "url": null
           },
           {
@@ -1152,6 +1152,13 @@
         "skills": [
           {
             "canonical": false,
+            "faethm_id": "FS001335",
+            "id": "a9865ca5-bf4f-4b94-98e5-af0243f09144",
+            "name": "Cloud Technologies",
+            "vanity_slug": "cloud-technologies"
+          },
+          {
+            "canonical": false,
             "faethm_id": "FS004775",
             "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
             "name": "Azure",
@@ -1159,31 +1166,10 @@
           },
           {
             "canonical": true,
-            "faethm_id": "FS001334",
-            "id": "abfd0cf0-7586-4cb8-9f23-0398da99a4cb",
-            "name": "Cloud Architecture",
-            "vanity_slug": "cloud-architecture"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS001339",
-            "id": "d787423d-a2c2-4515-953d-52a42e946fd9",
-            "name": "Cloud Infrastructure",
-            "vanity_slug": "cloud-infrastructure"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS001340",
-            "id": "7fe77620-7241-41d0-9312-255ab0bd8d76",
-            "name": "Cloud Migration",
-            "vanity_slug": "cloud-migration"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS001339",
-            "id": "069c9097-511a-4671-b167-36824826bc7d",
-            "name": "Cloud Networking",
-            "vanity_slug": "cloud-networking"
+            "faethm_id": "FS010103",
+            "id": "f056df54-cafe-4713-bdc5-d4ac6734d76c",
+            "name": "Cloud Services",
+            "vanity_slug": "cloud-services"
           },
           {
             "canonical": false,
@@ -1194,31 +1180,31 @@
           },
           {
             "canonical": true,
+            "faethm_id": "FS001334",
+            "id": "abfd0cf0-7586-4cb8-9f23-0398da99a4cb",
+            "name": "Cloud Architecture",
+            "vanity_slug": "cloud-architecture"
+          },
+          {
+            "canonical": true,
             "faethm_id": "FS001341",
             "id": "68fab466-80d0-441e-8db4-a036d2e711eb",
             "name": "Cloud Security",
             "vanity_slug": "cloud-security"
           },
           {
-            "canonical": true,
-            "faethm_id": "FS010103",
-            "id": "f056df54-cafe-4713-bdc5-d4ac6734d76c",
-            "name": "Cloud Services",
-            "vanity_slug": "cloud-services"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS001342",
-            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
-            "name": "Cloud Storage",
-            "vanity_slug": "cloud-storage"
-          },
-          {
             "canonical": false,
-            "faethm_id": "FS001335",
-            "id": "a9865ca5-bf4f-4b94-98e5-af0243f09144",
-            "name": "Cloud Technologies",
-            "vanity_slug": "cloud-technologies"
+            "faethm_id": "FS001339",
+            "id": "069c9097-511a-4671-b167-36824826bc7d",
+            "name": "Cloud Networking",
+            "vanity_slug": "cloud-networking"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001340",
+            "id": "7fe77620-7241-41d0-9312-255ab0bd8d76",
+            "name": "Cloud Migration",
+            "vanity_slug": "cloud-migration"
           },
           {
             "canonical": false,
@@ -1233,6 +1219,20 @@
             "id": "8c64155e-9641-482c-b938-e50321141afe",
             "name": "Data Integration",
             "vanity_slug": "data-integration"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001339",
+            "id": "d787423d-a2c2-4515-953d-52a42e946fd9",
+            "name": "Cloud Infrastructure",
+            "vanity_slug": "cloud-infrastructure"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001342",
+            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
+            "name": "Cloud Storage",
+            "vanity_slug": "cloud-storage"
           }
         ],
         "time_to_earn": null,
@@ -1292,31 +1292,10 @@
         "alignments": [],
         "badge_template_activities": [
           {
-            "activity_type": "Credential",
-            "id": "4a356797-4b61-4422-9427-49398549b924",
-            "required_badge_template_id": null,
-            "title": "PASS EXAM AZ-305 AND ONE OF THE FOLLOWING EXAMS: AZ-103* OR AZ-100* OR AZ-104 OR AZ-303*",
-            "url": null
-          },
-          {
-            "activity_type": "Credential",
-            "id": "e0d3200e-f2f4-4b51-85c2-2eb8fac69b64",
-            "required_badge_template_id": null,
-            "title": "OR PASS EXAM 70-533* AND AZ-102* AND AZ-305",
-            "url": null
-          },
-          {
             "activity_type": "Assessment",
             "id": "85642301-105a-46b5-ac29-270170d7891e",
             "required_badge_template_id": null,
             "title": "- Exam 533: Implementing Microsoft Azure Infrastructure Solutions (*Exam now retired.)",
-            "url": null
-          },
-          {
-            "activity_type": "Assessment",
-            "id": "a214c229-5875-4d7a-91f2-0229ffb7dbc8",
-            "required_badge_template_id": null,
-            "title": "- Exam AZ-100: Microsoft Azure Infrastructure and Deployment (*Exam now retired.)",
             "url": null
           },
           {
@@ -1328,10 +1307,24 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "3b4c4dfa-761b-4f71-9fd1-6669cb2ee97f",
+            "id": "b55e3fb0-4dc5-41e6-9368-3bd7dc61f233",
             "required_badge_template_id": null,
-            "title": "- Exam AZ-103: Microsoft Azure Administrator (*Exam now retired.)",
-            "url": null
+            "title": "- Exam AZ-301: Microsoft Azure Architect Design (*Exam now retired.)",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-301"
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "c1bd4a92-b7f1-4699-a655-c72892c56091",
+            "required_badge_template_id": null,
+            "title": "- Exam AZ-300: Microsoft Azure Architect Technologies (*Exam now retired.)",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-300"
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "45d69d07-5e0f-46b4-bf52-32501f804f2c",
+            "required_badge_template_id": null,
+            "title": "- Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-305"
           },
           {
             "activity_type": "Assessment",
@@ -1342,23 +1335,30 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "fe77c5ed-86ed-44b4-ad12-c355f312c79a",
+            "id": "a214c229-5875-4d7a-91f2-0229ffb7dbc8",
             "required_badge_template_id": null,
-            "title": "- Exam AZ-303: Microsoft Azure Architect Technologies (*Exam now retired.)",
-            "url": "https://docs.microsoft.com/learn/certifications/exams/az-303"
+            "title": "- Exam AZ-100: Microsoft Azure Infrastructure and Deployment (*Exam now retired.)",
+            "url": null
           },
           {
             "activity_type": "Assessment",
-            "id": "45d69d07-5e0f-46b4-bf52-32501f804f2c",
+            "id": "3b4c4dfa-761b-4f71-9fd1-6669cb2ee97f",
             "required_badge_template_id": null,
-            "title": "- Exam AZ-305: Designing Microsoft Azure Infrastructure Solutions",
-            "url": "https://docs.microsoft.com/learn/certifications/exams/az-305"
+            "title": "- Exam AZ-103: Microsoft Azure Administrator (*Exam now retired.)",
+            "url": null
           },
           {
             "activity_type": "Credential",
-            "id": "bc3c5ae2-e13e-40e4-a6d4-7559bb728785",
+            "id": "e0d3200e-f2f4-4b51-85c2-2eb8fac69b64",
             "required_badge_template_id": null,
-            "title": "PASS EITHER EXAM AZ-300* OR EXAM AZ-303* AND EXAM AZ-301* OR EXAM AZ-304*:",
+            "title": "OR PASS EXAM 70-533* AND AZ-102* AND AZ-305",
+            "url": null
+          },
+          {
+            "activity_type": "Credential",
+            "id": "4a356797-4b61-4422-9427-49398549b924",
+            "required_badge_template_id": null,
+            "title": "PASS EXAM AZ-305 AND ONE OF THE FOLLOWING EXAMS: AZ-103* OR AZ-100* OR AZ-104 OR AZ-303*",
             "url": null
           },
           {
@@ -1370,17 +1370,10 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "c1bd4a92-b7f1-4699-a655-c72892c56091",
+            "id": "7115cc01-e1f7-42ab-be14-66848bbcea9f",
             "required_badge_template_id": null,
-            "title": "- Exam AZ-300: Microsoft Azure Architect Technologies (*Exam now retired.)",
-            "url": "https://docs.microsoft.com/learn/certifications/exams/az-300"
-          },
-          {
-            "activity_type": "Assessment",
-            "id": "b55e3fb0-4dc5-41e6-9368-3bd7dc61f233",
-            "required_badge_template_id": null,
-            "title": "- Exam AZ-301: Microsoft Azure Architect Design (*Exam now retired.)",
-            "url": "https://docs.microsoft.com/learn/certifications/exams/az-301"
+            "title": "- Exam AZ-304: Microsoft Azure Architect Design (*Exam now retired.)",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-304"
           },
           {
             "activity_type": "Assessment",
@@ -1390,11 +1383,18 @@
             "url": "https://docs.microsoft.com/learn/certifications/exams/az-303"
           },
           {
-            "activity_type": "Assessment",
-            "id": "7115cc01-e1f7-42ab-be14-66848bbcea9f",
+            "activity_type": "Credential",
+            "id": "bc3c5ae2-e13e-40e4-a6d4-7559bb728785",
             "required_badge_template_id": null,
-            "title": "- Exam AZ-304: Microsoft Azure Architect Design (*Exam now retired.)",
-            "url": "https://docs.microsoft.com/learn/certifications/exams/az-304"
+            "title": "PASS EITHER EXAM AZ-300* OR EXAM AZ-303* AND EXAM AZ-301* OR EXAM AZ-304*:",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "fe77c5ed-86ed-44b4-ad12-c355f312c79a",
+            "required_badge_template_id": null,
+            "title": "- Exam AZ-303: Microsoft Azure Architect Technologies (*Exam now retired.)",
+            "url": "https://docs.microsoft.com/learn/certifications/exams/az-303"
           },
           {
             "activity_type": "Assessment",
@@ -1452,10 +1452,10 @@
         "skills": [
           {
             "canonical": false,
-            "faethm_id": "FS004775",
-            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
-            "name": "Azure",
-            "vanity_slug": "azure"
+            "faethm_id": "FS001339",
+            "id": "069c9097-511a-4671-b167-36824826bc7d",
+            "name": "Cloud Networking",
+            "vanity_slug": "cloud-networking"
           },
           {
             "canonical": true,
@@ -1466,38 +1466,10 @@
           },
           {
             "canonical": true,
-            "faethm_id": "FS001335",
-            "id": "f8e4fd7f-3cf6-40bd-95a0-b832e21c2f8f",
-            "name": "Cloud Computing",
-            "vanity_slug": "cloud-computing"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS001336",
-            "id": "37229bc7-1a4e-478d-b834-17402ba02862",
-            "name": "Cloud Data",
-            "vanity_slug": "cloud-data"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS001335",
-            "id": "e39b02b6-da5a-43dd-a1f2-370581747653",
-            "name": "Cloud Developer",
-            "vanity_slug": "cloud-developer"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS001339",
-            "id": "d787423d-a2c2-4515-953d-52a42e946fd9",
-            "name": "Cloud Infrastructure",
-            "vanity_slug": "cloud-infrastructure"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS001339",
-            "id": "069c9097-511a-4671-b167-36824826bc7d",
-            "name": "Cloud Networking",
-            "vanity_slug": "cloud-networking"
+            "faethm_id": "FS001341",
+            "id": "68fab466-80d0-441e-8db4-a036d2e711eb",
+            "name": "Cloud Security",
+            "vanity_slug": "cloud-security"
           },
           {
             "canonical": false,
@@ -1508,10 +1480,24 @@
           },
           {
             "canonical": true,
-            "faethm_id": "FS001341",
-            "id": "68fab466-80d0-441e-8db4-a036d2e711eb",
-            "name": "Cloud Security",
-            "vanity_slug": "cloud-security"
+            "faethm_id": "FS001339",
+            "id": "d787423d-a2c2-4515-953d-52a42e946fd9",
+            "name": "Cloud Infrastructure",
+            "vanity_slug": "cloud-infrastructure"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001335",
+            "id": "f8e4fd7f-3cf6-40bd-95a0-b832e21c2f8f",
+            "name": "Cloud Computing",
+            "vanity_slug": "cloud-computing"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001342",
+            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
+            "name": "Cloud Storage",
+            "vanity_slug": "cloud-storage"
           },
           {
             "canonical": true,
@@ -1521,11 +1507,25 @@
             "vanity_slug": "cloud-services"
           },
           {
-            "canonical": true,
-            "faethm_id": "FS001342",
-            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
-            "name": "Cloud Storage",
-            "vanity_slug": "cloud-storage"
+            "canonical": false,
+            "faethm_id": "FS004775",
+            "id": "89898f70-0bf1-4dcd-bb88-57f48fde2d43",
+            "name": "Azure",
+            "vanity_slug": "azure"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS001335",
+            "id": "e39b02b6-da5a-43dd-a1f2-370581747653",
+            "name": "Cloud Developer",
+            "vanity_slug": "cloud-developer"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS001336",
+            "id": "37229bc7-1a4e-478d-b834-17402ba02862",
+            "name": "Cloud Data",
+            "vanity_slug": "cloud-data"
           }
         ],
         "time_to_earn": null,
@@ -1671,10 +1671,9 @@
         "skills": [
           {
             "canonical": false,
-            "faethm_id": "FS000713",
-            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
-            "name": "Bigdata",
-            "vanity_slug": "bigdata"
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
           },
           {
             "canonical": false,
@@ -1684,15 +1683,16 @@
           },
           {
             "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
-          },
-          {
-            "canonical": false,
             "id": "2606fe78-100e-4207-9585-714ca032bfed",
             "name": "Kusto Query Language",
             "vanity_slug": "kusto-query-language"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS000713",
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
           }
         ],
         "time_to_earn": null,
@@ -1837,19 +1837,6 @@
         "show_skill_tag_links": true,
         "skills": [
           {
-            "canonical": true,
-            "faethm_id": "FS000713",
-            "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
-            "name": "Big Data",
-            "vanity_slug": "big-data"
-          },
-          {
-            "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
-          },
-          {
             "canonical": false,
             "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
             "name": "Kusto",
@@ -1860,6 +1847,19 @@
             "id": "2606fe78-100e-4207-9585-714ca032bfed",
             "name": "Kusto Query Language",
             "vanity_slug": "kusto-query-language"
+          },
+          {
+            "canonical": false,
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS000713",
+            "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
+            "name": "Big Data",
+            "vanity_slug": "big-data"
           }
         ],
         "time_to_earn": null,
@@ -2004,6 +2004,18 @@
         "show_skill_tag_links": true,
         "skills": [
           {
+            "canonical": false,
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          },
+          {
+            "canonical": false,
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
             "canonical": true,
             "faethm_id": "FS000713",
             "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
@@ -2015,18 +2027,6 @@
             "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
             "name": "Detective",
             "vanity_slug": "detective"
-          },
-          {
-            "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
-          },
-          {
-            "canonical": false,
-            "id": "2606fe78-100e-4207-9585-714ca032bfed",
-            "name": "Kusto Query Language",
-            "vanity_slug": "kusto-query-language"
           }
         ],
         "time_to_earn": null,
@@ -2171,6 +2171,18 @@
         "show_skill_tag_links": true,
         "skills": [
           {
+            "canonical": false,
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "canonical": false,
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
+          },
+          {
             "canonical": true,
             "faethm_id": "FS000713",
             "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
@@ -2182,18 +2194,6 @@
             "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
             "name": "Detective",
             "vanity_slug": "detective"
-          },
-          {
-            "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
-          },
-          {
-            "canonical": false,
-            "id": "2606fe78-100e-4207-9585-714ca032bfed",
-            "name": "Kusto Query Language",
-            "vanity_slug": "kusto-query-language"
           }
         ],
         "time_to_earn": null,
@@ -2346,12 +2346,6 @@
           },
           {
             "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
-          },
-          {
-            "canonical": false,
             "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
             "name": "Kusto",
             "vanity_slug": "kusto"
@@ -2361,6 +2355,12 @@
             "id": "2606fe78-100e-4207-9585-714ca032bfed",
             "name": "Kusto Query Language",
             "vanity_slug": "kusto-query-language"
+          },
+          {
+            "canonical": false,
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
           }
         ],
         "time_to_earn": null,
@@ -2505,6 +2505,12 @@
         "show_skill_tag_links": false,
         "skills": [
           {
+            "canonical": false,
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
             "canonical": true,
             "faethm_id": "FS000713",
             "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
@@ -2513,21 +2519,15 @@
           },
           {
             "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
           },
           {
             "canonical": false,
             "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
             "name": "Kusto",
             "vanity_slug": "kusto"
-          },
-          {
-            "canonical": false,
-            "id": "2606fe78-100e-4207-9585-714ca032bfed",
-            "name": "Kusto Query Language",
-            "vanity_slug": "kusto-query-language"
           }
         ],
         "time_to_earn": null,
@@ -2673,6 +2673,12 @@
         "skills": [
           {
             "canonical": false,
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
+          },
+          {
+            "canonical": false,
             "faethm_id": "FS000713",
             "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
             "name": "Bigdata",
@@ -2680,21 +2686,15 @@
           },
           {
             "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
-          },
-          {
-            "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
-          },
-          {
-            "canonical": false,
             "id": "2606fe78-100e-4207-9585-714ca032bfed",
             "name": "Kusto Query Language",
             "vanity_slug": "kusto-query-language"
+          },
+          {
+            "canonical": false,
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
           }
         ],
         "time_to_earn": null,
@@ -2754,17 +2754,10 @@
         "alignments": [],
         "badge_template_activities": [
           {
-            "activity_type": "Credential",
-            "id": "a5459bbf-9dad-4d3c-ac2c-9a6c9c389d6b",
-            "required_badge_template_id": null,
-            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
-            "url": null
-          },
-          {
             "activity_type": "Assessment",
-            "id": "c1f61037-a10f-47eb-8459-6fb3c65eabe7",
+            "id": "868f274d-1630-48df-aabc-ef318371c8c9",
             "required_badge_template_id": null,
-            "title": "Introduction to Git and GitHub",
+            "title": "Collaboration Features",
             "url": null
           },
           {
@@ -2776,23 +2769,23 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "868f274d-1630-48df-aabc-ef318371c8c9",
+            "id": "c1f61037-a10f-47eb-8459-6fb3c65eabe7",
             "required_badge_template_id": null,
-            "title": "Collaboration Features",
+            "title": "Introduction to Git and GitHub",
+            "url": null
+          },
+          {
+            "activity_type": "Credential",
+            "id": "a5459bbf-9dad-4d3c-ac2c-9a6c9c389d6b",
+            "required_badge_template_id": null,
+            "title": "VALIDATE SKILLS IN THE FOLLOWING AREAS:",
             "url": null
           },
           {
             "activity_type": "Assessment",
-            "id": "ef971571-e953-42e7-9d69-0d510b2dfc58",
+            "id": "c48888d6-4f59-4989-9d3b-2323ea1e8eb3",
             "required_badge_template_id": null,
-            "title": "Modern Development",
-            "url": null
-          },
-          {
-            "activity_type": "Assessment",
-            "id": "3c9bdc14-04ec-4842-bea6-620e6997862c",
-            "required_badge_template_id": null,
-            "title": "Project Management",
+            "title": "Benefits of the GitHub Community",
             "url": null
           },
           {
@@ -2804,9 +2797,16 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "c48888d6-4f59-4989-9d3b-2323ea1e8eb3",
+            "id": "3c9bdc14-04ec-4842-bea6-620e6997862c",
             "required_badge_template_id": null,
-            "title": "Benefits of the GitHub Community",
+            "title": "Project Management",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "ef971571-e953-42e7-9d69-0d510b2dfc58",
+            "required_badge_template_id": null,
+            "title": "Modern Development",
             "url": null
           }
         ],
@@ -2889,10 +2889,31 @@
         "skills": [
           {
             "canonical": false,
-            "faethm_id": "FS000859",
-            "id": "1349859b-7d0a-4bd9-9757-5182d2f84f9e",
-            "name": "Build Pipeline",
-            "vanity_slug": "build-pipeline"
+            "faethm_id": "FS003258",
+            "id": "041eebbd-c559-4a39-a1d7-8d1d4a39d0ee",
+            "name": "GitHub Actions",
+            "vanity_slug": "github-actions"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS003258",
+            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
+            "name": "GitHub",
+            "vanity_slug": "github"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS002131",
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS001650",
+            "id": "93b07372-e738-4386-a699-f8ac77f7a8ac",
+            "name": "Continuous Integration",
+            "vanity_slug": "continuous-integration"
           },
           {
             "canonical": false,
@@ -2903,31 +2924,10 @@
           },
           {
             "canonical": false,
-            "faethm_id": "FS001650",
-            "id": "93b07372-e738-4386-a699-f8ac77f7a8ac",
-            "name": "Continuous Integration",
-            "vanity_slug": "continuous-integration"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS002131",
-            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
-            "name": "DevOps",
-            "vanity_slug": "devops"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS003258",
-            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
-            "name": "GitHub",
-            "vanity_slug": "github"
-          },
-          {
-            "canonical": false,
-            "faethm_id": "FS003258",
-            "id": "041eebbd-c559-4a39-a1d7-8d1d4a39d0ee",
-            "name": "GitHub Actions",
-            "vanity_slug": "github-actions"
+            "faethm_id": "FS000859",
+            "id": "1349859b-7d0a-4bd9-9757-5182d2f84f9e",
+            "name": "Build Pipeline",
+            "vanity_slug": "build-pipeline"
           },
           {
             "canonical": false,
@@ -3002,16 +3002,9 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "acb87d32-67d2-448f-8fea-0c965f0d5394",
+            "id": "5681c2df-b14b-4bc3-abd0-2f04832370dd",
             "required_badge_template_id": null,
-            "title": "Manage user identities and GitHub authentication",
-            "url": null
-          },
-          {
-            "activity_type": "Assessment",
-            "id": "1dfe36cb-e64d-4e5c-8aa7-bd6be7a400a5",
-            "required_badge_template_id": null,
-            "title": "Manage access and permissions based on membership",
+            "title": "Manage GitHub Actions and GitHub Packages",
             "url": null
           },
           {
@@ -3023,9 +3016,16 @@
           },
           {
             "activity_type": "Assessment",
-            "id": "5681c2df-b14b-4bc3-abd0-2f04832370dd",
+            "id": "1dfe36cb-e64d-4e5c-8aa7-bd6be7a400a5",
             "required_badge_template_id": null,
-            "title": "Manage GitHub Actions and GitHub Packages",
+            "title": "Manage access and permissions based on membership",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "acb87d32-67d2-448f-8fea-0c965f0d5394",
+            "required_badge_template_id": null,
+            "title": "Manage user identities and GitHub authentication",
             "url": null
           }
         ],
@@ -3107,11 +3107,10 @@
         "show_skill_tag_links": true,
         "skills": [
           {
-            "canonical": true,
-            "faethm_id": "FS002131",
-            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
-            "name": "DevOps",
-            "vanity_slug": "devops"
+            "canonical": false,
+            "id": "145fe419-9db8-497f-bd56-97920e612b55",
+            "name": "GHES",
+            "vanity_slug": "ghes"
           },
           {
             "canonical": false,
@@ -3120,17 +3119,18 @@
             "vanity_slug": "ghec"
           },
           {
-            "canonical": false,
-            "id": "145fe419-9db8-497f-bd56-97920e612b55",
-            "name": "GHES",
-            "vanity_slug": "ghes"
+            "canonical": true,
+            "faethm_id": "FS002131",
+            "id": "8180c403-010f-4e4f-bdae-c0d0b01079bb",
+            "name": "DevOps",
+            "vanity_slug": "devops"
           },
           {
             "canonical": true,
-            "faethm_id": "FS003258",
-            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
-            "name": "GitHub",
-            "vanity_slug": "github"
+            "faethm_id": "FS007247",
+            "id": "f7284e83-463a-450a-a31a-39a8ea4722f7",
+            "name": "System Administration",
+            "vanity_slug": "system-administration"
           },
           {
             "canonical": false,
@@ -3141,10 +3141,10 @@
           },
           {
             "canonical": true,
-            "faethm_id": "FS007247",
-            "id": "f7284e83-463a-450a-a31a-39a8ea4722f7",
-            "name": "System Administration",
-            "vanity_slug": "system-administration"
+            "faethm_id": "FS003258",
+            "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
+            "name": "GitHub",
+            "vanity_slug": "github"
           }
         ],
         "time_to_earn": "Days",
