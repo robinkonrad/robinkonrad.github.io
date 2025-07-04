@@ -1062,20 +1062,6 @@
         "alignments": [],
         "badge_template_activities": [
           {
-            "activity_type": "Assessment",
-            "id": "6a43a52b-5b7d-4795-aef3-53ff17d0f358",
-            "required_badge_template_id": null,
-            "title": "- Design identity and security",
-            "url": null
-          },
-          {
-            "activity_type": "Assessment",
-            "id": "dfd6fb15-65f5-4bee-9d50-c5279dd308ce",
-            "required_badge_template_id": null,
-            "title": "- Design data storage",
-            "url": null
-          },
-          {
             "activity_type": "Credential",
             "id": "9eba13af-e1a3-4b73-b696-940291f06e65",
             "required_badge_template_id": null,
@@ -1087,6 +1073,20 @@
             "id": "f0b44e78-7c64-4836-ba0d-e17fb4aabe74",
             "required_badge_template_id": null,
             "title": "- Design monitoring",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "6a43a52b-5b7d-4795-aef3-53ff17d0f358",
+            "required_badge_template_id": null,
+            "title": "- Design identity and security",
+            "url": null
+          },
+          {
+            "activity_type": "Assessment",
+            "id": "dfd6fb15-65f5-4bee-9d50-c5279dd308ce",
+            "required_badge_template_id": null,
+            "title": "- Design data storage",
             "url": null
           },
           {
@@ -1151,6 +1151,27 @@
         "show_skill_tag_links": true,
         "skills": [
           {
+            "canonical": true,
+            "faethm_id": "FS001927",
+            "id": "8c64155e-9641-482c-b938-e50321141afe",
+            "name": "Data Integration",
+            "vanity_slug": "data-integration"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001339",
+            "id": "d787423d-a2c2-4515-953d-52a42e946fd9",
+            "name": "Cloud Infrastructure",
+            "vanity_slug": "cloud-infrastructure"
+          },
+          {
+            "canonical": true,
+            "faethm_id": "FS001342",
+            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
+            "name": "Cloud Storage",
+            "vanity_slug": "cloud-storage"
+          },
+          {
             "canonical": false,
             "faethm_id": "FS001335",
             "id": "a9865ca5-bf4f-4b94-98e5-af0243f09144",
@@ -1212,27 +1233,6 @@
             "id": "1dcad759-5cb5-4f15-942e-5f5ca88c67a5",
             "name": "Cost Optimization",
             "vanity_slug": "cost-optimization"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS001927",
-            "id": "8c64155e-9641-482c-b938-e50321141afe",
-            "name": "Data Integration",
-            "vanity_slug": "data-integration"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS001339",
-            "id": "d787423d-a2c2-4515-953d-52a42e946fd9",
-            "name": "Cloud Infrastructure",
-            "vanity_slug": "cloud-infrastructure"
-          },
-          {
-            "canonical": true,
-            "faethm_id": "FS001342",
-            "id": "3dbe6ef4-5675-4a81-82e1-a67d9965bb4e",
-            "name": "Cloud Storage",
-            "vanity_slug": "cloud-storage"
           }
         ],
         "time_to_earn": null,
@@ -1671,15 +1671,10 @@
         "skills": [
           {
             "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
-          },
-          {
-            "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
+            "faethm_id": "FS000713",
+            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
+            "name": "Bigdata",
+            "vanity_slug": "bigdata"
           },
           {
             "canonical": false,
@@ -1689,10 +1684,15 @@
           },
           {
             "canonical": false,
-            "faethm_id": "FS000713",
-            "id": "ea9ea319-cdc3-4c85-9bc6-9f8fa20970cc",
-            "name": "Bigdata",
-            "vanity_slug": "bigdata"
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "canonical": false,
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
           }
         ],
         "time_to_earn": null,
@@ -1838,9 +1838,9 @@
         "skills": [
           {
             "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
           },
           {
             "canonical": false,
@@ -1850,9 +1850,9 @@
           },
           {
             "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
           },
           {
             "canonical": true,
@@ -2005,12 +2005,6 @@
         "skills": [
           {
             "canonical": false,
-            "id": "2606fe78-100e-4207-9585-714ca032bfed",
-            "name": "Kusto Query Language",
-            "vanity_slug": "kusto-query-language"
-          },
-          {
-            "canonical": false,
             "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
             "name": "Kusto",
             "vanity_slug": "kusto"
@@ -2021,6 +2015,12 @@
             "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
             "name": "Big Data",
             "vanity_slug": "big-data"
+          },
+          {
+            "canonical": false,
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
           },
           {
             "canonical": false,
@@ -2172,6 +2172,12 @@
         "skills": [
           {
             "canonical": false,
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
+          },
+          {
+            "canonical": false,
             "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
             "name": "Kusto",
             "vanity_slug": "kusto"
@@ -2188,12 +2194,6 @@
             "id": "ac74afa2-899c-4387-a0dc-0c2275f77fcc",
             "name": "Big Data",
             "vanity_slug": "big-data"
-          },
-          {
-            "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
           }
         ],
         "time_to_earn": null,
@@ -2346,15 +2346,15 @@
           },
           {
             "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
-          },
-          {
-            "canonical": false,
             "id": "2606fe78-100e-4207-9585-714ca032bfed",
             "name": "Kusto Query Language",
             "vanity_slug": "kusto-query-language"
+          },
+          {
+            "canonical": false,
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
           },
           {
             "canonical": false,
@@ -2506,9 +2506,9 @@
         "skills": [
           {
             "canonical": false,
-            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
-            "name": "Detective",
-            "vanity_slug": "detective"
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
           },
           {
             "canonical": true,
@@ -2519,9 +2519,9 @@
           },
           {
             "canonical": false,
-            "id": "2606fe78-100e-4207-9585-714ca032bfed",
-            "name": "Kusto Query Language",
-            "vanity_slug": "kusto-query-language"
+            "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
+            "name": "Detective",
+            "vanity_slug": "detective"
           },
           {
             "canonical": false,
@@ -2673,9 +2673,9 @@
         "skills": [
           {
             "canonical": false,
-            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
-            "name": "Kusto",
-            "vanity_slug": "kusto"
+            "id": "2606fe78-100e-4207-9585-714ca032bfed",
+            "name": "Kusto Query Language",
+            "vanity_slug": "kusto-query-language"
           },
           {
             "canonical": false,
@@ -2686,15 +2686,15 @@
           },
           {
             "canonical": false,
-            "id": "2606fe78-100e-4207-9585-714ca032bfed",
-            "name": "Kusto Query Language",
-            "vanity_slug": "kusto-query-language"
-          },
-          {
-            "canonical": false,
             "id": "27d7b214-fdd6-4546-afe7-f6fc073baeb3",
             "name": "Detective",
             "vanity_slug": "detective"
+          },
+          {
+            "canonical": false,
+            "id": "2aa63c95-2be4-4d8d-a160-91eb2f6e8520",
+            "name": "Kusto",
+            "vanity_slug": "kusto"
           }
         ],
         "time_to_earn": null,
@@ -3133,18 +3133,18 @@
             "vanity_slug": "system-administration"
           },
           {
-            "canonical": false,
-            "faethm_id": "FS003258",
-            "id": "aa00351c-a29e-4d23-a259-30b532003f2d",
-            "name": "GitHub Enterprise",
-            "vanity_slug": "github-enterprise"
-          },
-          {
             "canonical": true,
             "faethm_id": "FS003258",
             "id": "4e9557a6-7a67-4f0c-a6b6-0d860b3ed957",
             "name": "GitHub",
             "vanity_slug": "github"
+          },
+          {
+            "canonical": false,
+            "faethm_id": "FS003258",
+            "id": "aa00351c-a29e-4d23-a259-30b532003f2d",
+            "name": "GitHub Enterprise",
+            "vanity_slug": "github-enterprise"
           }
         ],
         "time_to_earn": "Days",
