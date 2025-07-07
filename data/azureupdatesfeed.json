@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 02 Jul 2025 19:30:06 Z",
+      "lastBuildDate": "Mon, 07 Jul 2025 17:30:52 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497461"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497461",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Blob Storage",
+            "Features",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Azure Storage Mover adds free, direct AWS S3-to-Azure Blob migration",
+          "description": "Azure Storage Mover—a free, fully managed service—\nnow supports data transfers from Amazon Web Services (AWS) S3 to Azure Blob\nStorage, ideal for multi-cloud architectures or full migrations to Azure. The\nnew Cloud-to-Cloud migration capability enables si",
+          "pubDate": "Mon, 07 Jul 2025 17:30:52 Z",
+          "a10:updated": "2025-07-07T17:30:52Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3748,24 +3766,6 @@
           ],
           "title": "[Launched] Generally Available: Aspire Dashboard in Azure Container Apps",
           "description": "Azure\nContainer Apps .NET 8’s Aspire dashboard is now generally available, so\nyou can access live data about your project and containers in the cloud to\nevaluate the performance of your applications and debug errors with\ncomprehensive logs, metrics, trace",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T17:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492094"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492094",
-          "category": [
-            "Launched",
-            "Containers",
-            "Azure Container Apps",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: OpenTelemetry agent in Azure Container Apps",
-          "description": "OpenTelemetry agent in Azure Container\nApps is now generally available. This feature enables you to use open-source\nstandards to send your app’s data without setting up the OpenTelemetry\ncollector yourself. You can use the managed agent to choose where to",
           "pubDate": "Mon, 19 May 2025 17:00:33 Z",
           "a10:updated": "2025-05-19T17:00:33Z"
         }
