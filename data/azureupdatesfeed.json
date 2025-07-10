@@ -6,9 +6,103 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 10 Jul 2025 00:30:03 Z",
+      "lastBuildDate": "Thu, 10 Jul 2025 14:45:50 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497971"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497971",
+          "category": [
+            "Launched",
+            "Management and governance",
+            "Automation",
+            "Management",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Automation supports PowerShell 7.4 & Python 3.10 runbooks and Runtime environment",
+          "description": "Azure Automation is pleased to announce a series\nof releases:\n General\n     Availability of in-support PowerShell 7.4 and Python 3.10 runbooks\n Runtime\n     Environment GA, enabling customers to\n     seamlessly upgrade their outdated scripts to supported",
+          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
+          "a10:updated": "2025-07-10T14:45:50Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497962"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497962",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Files",
+            "Features",
+            "Management"
+          ],
+          "title": "[Launched] Generally Available:  Granular Role-Based Access Control (RBAC) for Azure File Sync",
+          "description": "Azure File Sync now\noffers two dedicated,\nbuilt-in RBAC roles, designed to enhance security and operational efficiency\nfor businesses managing file synchronization across on-premises and cloud\nenvironments. These new roles, Azure File Sync Administrator a",
+          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
+          "a10:updated": "2025-07-10T14:45:50Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497402"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497402",
+          "category": [
+            "In development",
+            "Compute",
+            "Virtual Machine Scale Sets",
+            "Features",
+            "Security",
+            "Services"
+          ],
+          "title": "[In development] Private Preview: Enable Trusted launch on existing Virtual machine Flex scale set",
+          "description": "Announcing preview support to enable Trusted launch on existing Virtual machine Flex scale set by upgrading the scale set\nresource to Gen2-Trusted launch. This will help improve the foundational security of existing\nAzure Virtual machine Flex scale set re",
+          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
+          "a10:updated": "2025-07-10T14:45:50Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497393"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497393",
+          "category": [
+            "Launched",
+            "Compute",
+            "Virtual Machine Scale Sets",
+            "Security",
+            "Services",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Enable Trusted launch on existing Virtual machine Uniform scale set",
+          "description": "Announcing general availability of support to enable Trusted launch on existing Virtual machine Uniform scale sets by upgrading the scale\nset resource to Gen2-Trusted launch. This will help improve the foundational security of existing\nAzure Virtual machi",
+          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
+          "a10:updated": "2025-07-10T14:45:50Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497388"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497388",
+          "category": [
+            "In preview",
+            "Compute",
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Security",
+            "Features",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Trusted launch default for new Gen2 VMs & Scale sets",
+          "description": "Announcing public preview for key security enhancement in Azure: Trusted Launch as default (TLaD) for new deployments of Gen2 Virtual Machines\n(VMs), Virtual Machine Scale Sets (Scale set) and Azure Compute Gallery (ACG)\nresources. This will help enhance",
+          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
+          "a10:updated": "2025-07-10T14:45:50Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3669,102 +3763,6 @@
           "description": "You can now use phrase search in Azure Cosmos DB for NoSQL to find exact sequences of words. This capability makes your full-text search more precise and powerful. With phrase search, your applications can match entire phrases rather than just individual",
           "pubDate": "Mon, 19 May 2025 17:15:23 Z",
           "a10:updated": "2025-05-19T17:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491223"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491223",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Multiple-language full-text search in Azure Cosmos DB for NoSQL",
-          "description": "You can now perform full-text search and scoring in multiple languages with Azure Cosmos DB for NoSQL. Previously limited to English, full-text indexing and BM25-based ranking now support a growing set of languages, enabling you to build intelligent, mult",
-          "pubDate": "Mon, 19 May 2025 17:15:23 Z",
-          "a10:updated": "2025-05-19T17:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491214"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491214",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Fuzzy text search in Azure Cosmos DB for NoSQL",
-          "description": "You can now use fuzzy search in Azure Cosmos DB for NoSQL to deliver more flexible and forgiving search experiences—directly within your database. With fuzzy search in public preview, your applications can return relevant results even when users make typo",
-          "pubDate": "Mon, 19 May 2025 17:15:23 Z",
-          "a10:updated": "2025-05-19T17:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490611"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490611",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Microsoft Entra ID for Azure Cosmos DB for MongoDB (vCore)",
-          "description": "Azure Cosmos DB for MongoDB (vCore) now supports authentication via Microsoft Entra ID, enhancing security and simplifying identity management. With this update, you can now add Entra ID accounts directly to your MongoDB vCore clusters and use them for se",
-          "pubDate": "Mon, 19 May 2025 17:15:23 Z",
-          "a10:updated": "2025-05-19T17:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490601"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490601",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Migrate from Azure Cosmos DB Mongo DB RU-based to vCore-based via Azure portal",
-          "description": "We are introducing a cost-effective, simple, and efficient solution for migrating from RU-based Azure Cosmos DB for MongoDB to vCore-based. You can now move to vCore-based Azure Cosmos DB for MongoDB at no cost using the Azure portal, with no additional r",
-          "pubDate": "Mon, 19 May 2025 17:15:23 Z",
-          "a10:updated": "2025-05-19T17:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492632"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492632",
-          "category": [
-            "In preview",
-            "Developer tools",
-            "DevOps",
-            "Virtual desktop infrastructure",
-            "Microsoft Dev Box",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Empower AI development with new features in Microsoft Dev Box",
-          "description": "With the new capabilities in Dev Box, developers can build AI\napps effectively with quick, controlled access to serverless GPU resources,\nstreamlined project-based configurations, and new AI-powered workflows.  Ready-to-code environments for AI developmen",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T17:00:33Z"
         }
       ]
     }
