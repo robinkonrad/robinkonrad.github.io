@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 14 Jul 2025 16:45:47 Z",
+      "lastBuildDate": "Mon, 14 Jul 2025 17:00:47 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498361"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498361",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Networking",
+            "Azure ExpressRoute",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Hosted-On-Behald-Of (HOBO) Public IP model for ExpressRoute Gateways",
+          "description": "All newly deployed ExpressRoute Virtual Network Gateways\nwill use the Hosted-On-Behalf-Of (HOBO) Public IP model. This change simplifies\ngateway configuration by removing the requirement to explicitly assign a Public\nIP address. The HOBO model streamlines",
+          "pubDate": "Mon, 14 Jul 2025 17:00:47 Z",
+          "a10:updated": "2025-07-14T17:00:47Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3737,25 +3756,6 @@
           ],
           "title": "[In preview] Public Preview: Visual Studio Code extension for DocumentDB",
           "description": "The DocumentDB Visual Studio Code extension is now available in public preview. This free, open-source extension integrates seamlessly into VS Code, giving you a powerful and intuitive graphical user interface for managing databases across various environ",
-          "pubDate": "Mon, 19 May 2025 17:15:23 Z",
-          "a10:updated": "2025-05-19T17:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491257"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491257",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Azure Cosmos DB global secondary index",
-          "description": "The Azure Cosmos DB global secondary index public preview now offers more functionality to optimize queries and help you get started. Previously known as materialized views, global secondary indexes are read-only containers that automatically sync data fr",
           "pubDate": "Mon, 19 May 2025 17:15:23 Z",
           "a10:updated": "2025-05-19T17:15:23Z"
         }
