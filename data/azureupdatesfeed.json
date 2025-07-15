@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 15 Jul 2025 18:15:05 Z",
+      "lastBuildDate": "Tue, 15 Jul 2025 20:45:14 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497263"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497263",
+          "category": [
+            "Analytics",
+            "Azure HDInsight on Azure Kubernetes Service (AKS)",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure HDInsight – Enterprise Security Package",
+          "description": "On July 31, 2026, Support for\nEnterprise Security Package on Azure HDInsight will end, clusters running ESP\non HDInsight will start facing service disruptions, as they would\nbe deleted and associated data will be lost.   Required Action    To avoid potent",
+          "pubDate": "Tue, 15 Jul 2025 20:45:14 Z",
+          "a10:updated": "2025-07-15T20:45:14Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3740,24 +3756,6 @@
           "description": "You can now easily create AI agents in Azure AI Foundry with Azure Databricks data. Using the new Azure Databricks Azure AI Foundry connector, you can:   Connect Azure AI Foundry agents with Azure Databricks for real-time data processing.    Build and dep",
           "pubDate": "Mon, 19 May 2025 17:45:02 Z",
           "a10:updated": "2025-05-19T18:45:26Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492089"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492089",
-          "category": [
-            "In preview",
-            "Containers",
-            "Azure Container Apps",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Durable task scheduler support in Azure Container Apps",
-          "description": "Durable task scheduler, a fully managed backend for durable\nexecution, is now available in public preview in Azure Container Apps. The\ndurable task scheduler features a managed workflow engine responsible for\nscheduling workflow execution and persisting w",
-          "pubDate": "Mon, 19 May 2025 18:30:40 Z",
-          "a10:updated": "2025-05-19T18:30:40Z"
         }
       ]
     }
