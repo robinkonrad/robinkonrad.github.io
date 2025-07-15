@@ -6,9 +6,31 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 14 Jul 2025 17:00:47 Z",
+      "lastBuildDate": "Tue, 15 Jul 2025 15:45:46 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498522"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498522",
+          "category": [
+            "Networking",
+            "Security",
+            "Media",
+            "Web",
+            "Azure Front Door",
+            "Content Delivery Network",
+            "Features",
+            "Retirements",
+            "Services"
+          ],
+          "title": "Retirement: Azure Front Door (classic) and Azure CDN from Microsoft Classic SKU ending CNAME based domain validation and new domain/profile creations by August 15, 2025",
+          "description": "Starting August\n15, 2025, Azure Front Door (classic) and Azure CDN from Microsoft Classic SKUs\nwill no longer support new domain onboarding or profile creation. Additionally, DigiCert is deprecating\nCNAME-based Domain Control Validation (DCV) on the same",
+          "pubDate": "Tue, 15 Jul 2025 15:45:46 Z",
+          "a10:updated": "2025-07-15T15:45:46Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3737,25 +3759,6 @@
           ],
           "title": "[Launched] Generally Available: DiskANN in vCore-based Azure Cosmos DB for MongoDB",
           "description": "DiskANN is now generally available in vCore-based Azure Cosmos DB for MongoDB, giving you powerful vector search capabilities directly within your database. This means you can now build intelligent applications that search across high-dimensional vector d",
-          "pubDate": "Mon, 19 May 2025 17:15:23 Z",
-          "a10:updated": "2025-05-19T17:15:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491262"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491262",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Visual Studio Code extension for DocumentDB",
-          "description": "The DocumentDB Visual Studio Code extension is now available in public preview. This free, open-source extension integrates seamlessly into VS Code, giving you a powerful and intuitive graphical user interface for managing databases across various environ",
           "pubDate": "Mon, 19 May 2025 17:15:23 Z",
           "a10:updated": "2025-05-19T17:15:23Z"
         }
