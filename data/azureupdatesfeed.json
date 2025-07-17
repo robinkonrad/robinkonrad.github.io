@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 17 Jul 2025 11:45:08 Z",
+      "lastBuildDate": "Thu, 17 Jul 2025 17:00:17 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498247"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498247",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Node auto-provisioning support in AKS",
+          "description": "Managing dynamic workloads in Kubernetes\ncan often lead to overprovisioning, idle resources, and additional operational\noverhead from maintaining pre-configured node pools. To address this, Node\nAuto-Provisioning (NAP) support in AKS is now generally avai",
+          "pubDate": "Thu, 17 Jul 2025 17:00:17 Z",
+          "a10:updated": "2025-07-17T17:00:17Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3733,25 +3751,6 @@
           "title": "[Launched] Generally Available: Full text and hybrid search in Azure Cosmos DB for NoSQL",
           "description": "Native full-text and hybrid search capabilities in Azure Cosmos DB for NoSQL are now generally available. You can now seamlessly build advanced search and GenAI scenarios without relying on external search services.  Key capabilities include: Full-text se",
           "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2025-05-19T21:45:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "public-preview-change-from-serverless-to-provisioned-capacity-mode"
-          },
-          "link": "https://azure.microsoft.com/updates?id=public-preview-change-from-serverless-to-provisioned-capacity-mode",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Change capacity mode from serverless to provisioned throughput in Azure Cosmos DB",
-          "description": "You can now change the capacity mode of an Azure Cosmos DB account from serverless to provisioned capacity in-place using the Azure portal or Azure CLI. This new capability makes it easy for you to transition to the performance and comprehensive service-l",
-          "pubDate": "Tue, 21 May 2024 16:00:18 Z",
           "a10:updated": "2025-05-19T21:45:03Z"
         }
       ]
