@@ -6,9 +6,83 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 16 Jul 2025 16:00:23 Z",
+      "lastBuildDate": "Thu, 17 Jul 2025 11:45:08 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498149"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498149",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Durable Functions PowerShell SDK as a standalone module",
+          "description": "The\nDurable Functions PowerShell SDK is now available as a standalone module in the\nPowerShell Gallery: AzureFunctions.PowerShell.Durable.SDK. This SDK is\nnow generally\navailable and is the recommended approach for authoring Durable\nFunctions apps with Po",
+          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
+          "a10:updated": "2025-07-17T11:45:08Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498144"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498144",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Orchestration versioning for Durable Functions and durable task SDKs",
+          "description": "When\nbuilding Durable\nFunctions apps, it’s inevitable that orchestrations need to be changed. You\nmight need to modify or remove activity functions, or maybe even completely\nrewrite the orchestration logic. Without any functionality built around\nversionin",
+          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
+          "a10:updated": "2025-07-17T11:45:08Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498139"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498139",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Functions Kafka trigger support in Consumption plan",
+          "description": "Kafka Extension for Azure Functions in Consumption\nplan is now in public preview. This extension enables you to detect and respond  to real time messages streaming into Kafka\nTopics, or write to a Kafka Topic through the output binding.  You can now focus",
+          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
+          "a10:updated": "2025-07-17T11:45:08Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498054"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498054",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Blob Storage",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: AZNFS (3.0) for BlobNFS with FUSE for superior performance",
+          "description": "For customers requiring NFS 3.0\nprotocol support or POSIX compliance, Azure Blob Storage natively supports\nNFSv3 (aka BlobNFS). BlobNFS\nis accessed via the Linux NFS client with our AZNFS mount\nhelper package, which streamlines mounting and reliably conne",
+          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
+          "a10:updated": "2025-07-17T11:45:08Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3679,84 +3753,6 @@
           "description": "You can now change the capacity mode of an Azure Cosmos DB account from serverless to provisioned capacity in-place using the Azure portal or Azure CLI. This new capability makes it easy for you to transition to the performance and comprehensive service-l",
           "pubDate": "Tue, 21 May 2024 16:00:18 Z",
           "a10:updated": "2025-05-19T21:45:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "484834"
-          },
-          "link": "https://azure.microsoft.com/updates?id=484834",
-          "category": [
-            "In preview",
-            "Compute",
-            "Virtual Machines",
-            "Pricing & Offerings",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Network Optimized Azure Virtual Machines - Dnsv6, Dndsv6, Dnlsv6, Dnldsv6, Ensv6 and Endsv6",
-          "description": "Azure\nannounces the public preview of our very first Network Optimized\nVMs built on the new 5th Gen Intel® Xeon® Platinum 8537C (Emerald\nRapids) offering unparalleled performance and flexibility. These\nIntel-based VMs come with three different memory-to-c",
-          "pubDate": "Mon, 19 May 2025 20:30:01 Z",
-          "a10:updated": "2025-05-19T20:30:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492076"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492076",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Azure Functions MCP extension now supports additional capabilities",
-          "description": "The Model\nContext Protocol (MCP) is a way for apps to provide capabilities and context to\na large language model. Azure Functions recently introduced an\nMCP extension as an early preview to enable conversations with the\ncommunity. The extension makes it e",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T20:00:30Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492047"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492047",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: New regions for Azure Functions Flex consumption",
-          "description": "Beyond the already generally available regions,\nyou can now create Flex Consumption apps in the following regions: Australia\nSoutheast  Brazil\nSouth Canada\nCentral Central\nIndia Central\nUS France\nCentral Germany\nWest Central Italy\nNorth Japan\nEast Korea\nC",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T19:45:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491414"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491414",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Open Source",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Azure Monitor dashboards with Grafana",
-          "description": "Starting on May 19, 2025 you can create and edit Grafana\ndashboards directly in the Azure Portal without any additional cost and less\nadministrative overhead than self-hosting Grafana or using managed Grafana\nservices.  Grafana\ndashboards for Azure Kubern",
-          "pubDate": "Mon, 19 May 2025 17:00:33 Z",
-          "a10:updated": "2025-05-19T19:45:50Z"
         }
       ]
     }
