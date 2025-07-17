@@ -6,9 +6,41 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 17 Jul 2025 18:00:35 Z",
+      "lastBuildDate": "Thu, 17 Jul 2025 20:15:19 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498484"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498484",
+          "category": [
+            "Launched",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: GRS and CRR support for Azure VMs using Premium SSD v2 in Azure Backup availability in Norway and Japan",
+          "description": "Premium SSD v2 delivers high-performance block storage with sub-millisecond latency, high IOPS, and throughput—at a low cost. With Geo Redundant Storage (GRS) and Cross-Region Restore (CRR) support, you can safeguard VMs against data loss and perform on-d",
+          "pubDate": "Thu, 17 Jul 2025 20:15:19 Z",
+          "a10:updated": "2025-07-17T20:15:19Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "491538"
+          },
+          "link": "https://azure.microsoft.com/updates?id=491538",
+          "category": [
+            "Launched",
+            "Analytics",
+            "Event Hubs",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Geo-Replication for Azure Event Hubs Premium and Dedicated",
+          "description": "The Geo-Replication feature for Azure Event Hubs in the premium and dedicated tier is now generally available. The Event Hubs Geo-Replication feature is one of the options to insulate Azure Event Hubs client applications against outages and disasters, pro",
+          "pubDate": "Thu, 17 Jul 2025 20:15:19 Z",
+          "a10:updated": "2025-07-17T20:15:19Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3713,44 +3745,6 @@
           "description": "Copilot in SQL Server Management Studio (SSMS) is an AI assistant to help with writing, editing, and fixing T-SQL queries using natural language. Copilot in SSMS grounds its responses in database context, providing responses customized to your environment",
           "pubDate": "Mon, 19 May 2025 22:15:41 Z",
           "a10:updated": "2025-05-19T22:15:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491287"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491287",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Filtered vector search in Azure Cosmos DB for MongoDB (vCore)",
-          "description": "Filtered vector search is now generally available in Azure Cosmos DB for MongoDB (vCore). With this release, you can narrow down your search space, filtering before running a vector search to make results more accurate and performance significantly faster",
-          "pubDate": "Mon, 19 May 2025 22:00:41 Z",
-          "a10:updated": "2025-05-19T22:00:41Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491180"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491180",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: At-scale Insights dashboard for Azure Cosmos DB",
-          "description": "The redesign of the At-scale Insights dashboard for Azure Cosmos DB provides a central view for monitoring Azure Cosmos DB workloads, along with new features and integrations to help you manage your resources at scale. The updated dashboard enables you to",
-          "pubDate": "Mon, 19 May 2025 22:00:41 Z",
-          "a10:updated": "2025-05-19T22:00:41Z"
         }
       ]
     }
