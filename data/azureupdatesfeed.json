@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 22 Jul 2025 16:00:45 Z",
+      "lastBuildDate": "Wed, 23 Jul 2025 06:30:03 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498462"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498462",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Search Job Enhancements in Log Analytics",
+          "description": "A Search Job is an asynchronous query that runs on any data in your Log Analytics workspace, including data from the long-term retention period, making the results available for further queries in a new Analytics table within your workspace.  We’ve recent",
+          "pubDate": "Wed, 23 Jul 2025 06:30:03 Z",
+          "a10:updated": "2025-07-23T06:30:03Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3733,25 +3751,6 @@
           ],
           "title": "[In preview] Public Preview: MSSQL Extension Integrates GitHub Copilot in VS Code",
           "description": "The MSSQL extension for Visual Studio Code now works with GitHub Copilot, bringing AI-powered SQL assistance directly into your development workflow. This integration enables you to work with your database schema using GitHub Copilot. With just a few clic",
-          "pubDate": "Mon, 19 May 2025 23:00:56 Z",
-          "a10:updated": "2025-05-19T23:00:56Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490596"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490596",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Per Partition Automatic Failover for Azure Cosmos DB",
-          "description": "Azure Cosmos DB is renowned for its active-active resiliency, allowing write operations to any region by trading off consistency for 99.999% availability. We are pleased to announce that we have now expanded active-active support to strong consistency thr",
           "pubDate": "Mon, 19 May 2025 23:00:56 Z",
           "a10:updated": "2025-05-19T23:00:56Z"
         }
