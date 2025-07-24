@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 23 Jul 2025 14:45:55 Z",
+      "lastBuildDate": "Thu, 24 Jul 2025 11:15:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498558"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498558",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Log Analytics Summary rules",
+          "description": "Announcing the general availability of Summary rules in Log Analytics. Summary rules let you summarize high-ingestion-rate streams across Analytics, Basic, or Auxiliary plans, providing robust analysis, dashboarding, and long-term reporting experiences on",
+          "pubDate": "Thu, 24 Jul 2025 11:15:02 Z",
+          "a10:updated": "2025-07-24T11:15:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3733,25 +3751,6 @@
           "description": "You can control your application's throughput consumption by configuring throughput buckets in a container and specifying a maximum throughput percentage for each one. When a bucket exceeds its assigned limit, incoming requests are throttled to maintain i",
           "pubDate": "Mon, 19 May 2025 23:15:54 Z",
           "a10:updated": "2025-05-19T23:15:54Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "494265"
-          },
-          "link": "https://azure.microsoft.com/updates?id=494265",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: JSON Index",
-          "description": "In mid-May 2025, the following updates and enhancements were made to Azure SQL:New JSON index can be used to index JSON documents stored in a column of JSON type. JSON index allows for efficient searching of JSON documents using JSON functions and relatio",
-          "pubDate": "Mon, 19 May 2025 23:00:56 Z",
-          "a10:updated": "2025-05-19T23:00:56Z"
         }
       ]
     }
