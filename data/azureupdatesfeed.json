@@ -6,9 +6,94 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 30 Jul 2025 16:00:44 Z",
+      "lastBuildDate": "Wed, 30 Jul 2025 17:00:36 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498948"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498948",
+          "category": [
+            "In preview",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: New SQL Server database migration in Azure Arc",
+          "description": "You can now streamline the entire SQL Server migration journey—from assessment to provisioning to cutover—within a single Azure portal experience. The new Azure Arc migration experience powered by Azure Database Migration service gives you a centralized,",
+          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
+          "a10:updated": "2025-07-30T17:00:36Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498943"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498943",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure SQL updates for late-July 2025",
+          "description": "In late-July, the following updates and enhancements were made to Azure SQL:  Use the UNISTR intrinsic function to define Unicode string literals using Unicode encoding values in a string. Use the ANSI SQL concatenation operator (||) to concatenate charac",
+          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
+          "a10:updated": "2025-07-30T17:00:36Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498938"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498938",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Database for PostgreSQL cascading read replica",
+          "description": "You can now use cascading read replicas in Azure Database for PostgreSQL flexible server, available in Public Preview. With this new capability, you can create additional read replicas from an existing one. A read replica can act as the source for new rep",
+          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
+          "a10:updated": "2025-07-30T17:00:36Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498933"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498933",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Accelerated logs now available for General Purpose tier in Azure Database for MySQL - Flexible Server",
+          "description": "Now available for the General Purpose tier, accelerated logs in Azure Database for MySQL - Flexible Server give you the performance benefits previously available only in the Business Critical tier.   Accelerated logs boost performance for a broader range",
+          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
+          "a10:updated": "2025-07-30T17:00:36Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498928"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498928",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Configure backup interval for Azure Database for MySQL automated backups",
+          "description": "Azure Database for MySQL now enables you to configure the backup interval for the automatic backups taken by the system to improve restore speed. This new feature optimizes the process by introducing more frequent snapshots, thereby reducing the number of",
+          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
+          "a10:updated": "2025-07-30T17:00:36Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3666,100 +3751,6 @@
           "description": "The new Premium v4 offering\nprovides faster processors, NVMe local storage, and memory-optimized options,\nrunning on the latest Azure hardware. Premium v4 includes sizes starting from 1\nvCPU and 4GB of memory all the way up to 32 vCPU and 256GB memory. Le",
           "pubDate": "Tue, 20 May 2025 17:30:18 Z",
           "a10:updated": "2025-05-20T17:30:18Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491364"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491364",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Smarter Troubleshooting in Azure Monitor with AI-powered Investigation",
-          "description": "These capabilities enhance your troubleshooting experience and streamline diagnosing and resolving health degradation of your application and infrastructure. AI-powered Investigations enable fast troubleshooting, diagnosing and resolving problems efficien",
-          "pubDate": "Tue, 20 May 2025 16:45:48 Z",
-          "a10:updated": "2025-05-20T16:45:48Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491656"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491656",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[In preview] Private Preview: Customizable Email Subjects for Log Search Alerts V2",
-          "description": "We are thrilled to announce the launch of a new feature in Azure Monitor: Customizable Email Subjects for Log Search Alerts V2, available during May.Key Benefits:Personalized Alert Emails: This feature enables customers to personalize the subject lines of",
-          "pubDate": "Tue, 20 May 2025 16:30:08 Z",
-          "a10:updated": "2025-05-20T16:30:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491651"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491651",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Simple Log Alerts in Azure Monitor",
-          "description": "We are excited to announce the Public Preview of Simple Log Alerts in Azure Monitor, available starting in mid-May. This new feature is designed to provide a simplified and more intuitive experience for monitoring and alerting, enhancing your ability to d",
-          "pubDate": "Tue, 20 May 2025 16:30:08 Z",
-          "a10:updated": "2025-05-20T16:30:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491576"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491576",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Storage",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Backup",
-            "Azure Database for PostgreSQL",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Vaulted Backups by Azure Backup for Azure Database for PostgreSQL – Flexible Server in all regions",
-          "description": "Announcing the general\navailability (GA) of vaulted backups by Azure\nBackup for Azure Database for PostgreSQL - flexible server, a robust and\nscalable backup solution designed to meet the needs of enterprises and\ndevelopers alike. Key features include pol",
-          "pubDate": "Tue, 20 May 2025 15:30:04 Z",
-          "a10:updated": "2025-05-20T15:30:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492547"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492547",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Disk Storage",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Premium SSD v2 and Ultra Disk are now available in Indonesia Central",
-          "description": "Azure Premium SSD v2 and Ultra Disk are now available in Indonesia Central region. Azure Ultra Disks are the highest-performing storage option for Azure virtual machines (VMs), offering high throughput, high IOPS, and consistent low sub-millisecond latenc",
-          "pubDate": "Tue, 20 May 2025 14:15:16 Z",
-          "a10:updated": "2025-05-20T14:15:16Z"
         }
       ]
     }
