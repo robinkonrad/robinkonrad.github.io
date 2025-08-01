@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 01 Aug 2025 16:00:17 Z",
+      "lastBuildDate": "Fri, 01 Aug 2025 18:45:04 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498452"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498452",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Files",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure File Sync Arc Extension",
+          "description": "Azure File Sync Arc Extension is now generally available,\nenabling seamless deployment and management of Azure File Sync on Arc-enabled\nWindows Servers. This extension brings hybrid file sync capabilities to a\nbroader range of on-premises and multi-cloud",
+          "pubDate": "Fri, 01 Aug 2025 18:45:04 Z",
+          "a10:updated": "2025-08-01T18:45:04Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3727,24 +3744,6 @@
           ],
           "title": "[Launched] Generally Available: Dedicated GPU in Azure Container Apps",
           "description": "Dedicated GPU support in Azure Container Apps is now generally available. Dedicated GPUs provide additional\ncompute options tailored for AI applications, making them ideal for AI\nscenarios which require continuous availability and don’t scale to zero.   T",
-          "pubDate": "Wed, 21 May 2025 03:30:39 Z",
-          "a10:updated": "2025-05-21T03:30:39Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492104"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492104",
-          "category": [
-            "In preview",
-            "Containers",
-            "Azure Container Apps",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Azure Container Apps serverless GPUs now support Azure AI Foundry models",
-          "description": "Azure\nContainer Apps serverless GPUs now support Azure AI Foundry models in public\npreview. Azure AI Foundry Models have two deployment options - serverless APIs\nand managed compute. Azure Container Apps serverless GPU offers a balanced\ndeployment option",
           "pubDate": "Wed, 21 May 2025 03:30:39 Z",
           "a10:updated": "2025-05-21T03:30:39Z"
         }
