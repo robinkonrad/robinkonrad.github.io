@@ -6,9 +6,333 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 05 Aug 2025 17:00:21 Z",
+      "lastBuildDate": "Wed, 06 Aug 2025 04:00:09 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499274"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499274",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: AKS support for Advanced Container Networking: L7 Policies",
+          "description": "AKS now supports Layer 7 (L7) network policies in Advanced\nContainer Networking Services + Cilium clusters, enabling fine-grained control\nover application traffic. With L7 policies, customers can define security rules\nbased on application-layer attributes",
+          "pubDate": "Wed, 06 Aug 2025 04:00:09 Z",
+          "a10:updated": "2025-08-06T04:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499377"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499377",
+          "category": [
+            "In development",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In development] Private Preview: Agentic experience for AKS in the Azure CLI",
+          "description": "The Azure Kubernetes Service (AKS)\nteam is introducing a new agentic AI-powered CLI experience through\nthe “az aks agent” command. This feature brings the\nintelligence of agentic reasoning directly into the Azure CLI, enabling\ndevelopers and operators to",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499371"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499371",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Managed Namespaces in AKS",
+          "description": "Managed namespaces for AKS allows users\nto get a list of namespaces they have access to across a subscription, resource\ngroup, and cluster, and then retrieve credentials that will give them the\nability to deploy to those namespaces. Users can configure ma",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499366"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499366",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: AKS Security Dashboard",
+          "description": "The AKS Security Dashboard provides a\ncentralized view of security posture and runtime threat protection\nfor your AKS cluster within the Azure Portal. It highlights software\nvulnerabilities, critical security issues, compliance gaps, and\nactive threats, h",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499361"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499361",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Virtual Network Verifier for AKS (VNV) for AKS",
+          "description": "Azure Virtual Network Verifier for AKS,\nnow in public preview and available through the Azure Portal, is a tool which allows\nyou to detect and troubleshoot outbound connectivity issues in your AKS\ncluster.   You can use the Virtual Network Verifier featur",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499356"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499356",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Multiple Standard Load Balancers support in AKS",
+          "description": "AKS now supports multiple Standard Load\nBalancers (SLBs) per cluster in public preview. This feature allows customers\nto scale beyond the 300 inbound rule limit per node NIC and isolate traffic by\nassigning different SLBs to different agent pools and work",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499351"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499351",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Static egress gateway public prefix support in AKS",
+          "description": "Static egress gateway public prefix\nsupport in AKS is now generally available. This feature allows AKS customers to\ncreate a dedicated gateway node pool that routes outbound traffic from\nannotated pods through a static public IP prefix (/28 to /31). It en",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499346"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499346",
+          "category": [
+            "In preview",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Increase ingestion quota for Azure Managed Prometheus with an ARM API",
+          "description": "Azure Monitor workspaces have\ndefault limits and quotas for ingestion. Customers can now request for an\nincrease in quota for ingestion of Managed Prometheus metrics into Azure\nMonitor Workspace using an Azure Resource Manager API. The API supports reques",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499341"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499341",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: LocalDNS for AKS",
+          "description": "LocalDNS\nfor Azure Kubernetes Service (AKS) is now available in public preview.With LocalDNS,\na DNS proxy is deployed on each node, which enables faster, more reliable DNS\nresolution. It removes DNS bottlenecks in large clusters, lowers query latency\nvia",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499335"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499335",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview : Azure Bastion integration with AKS",
+          "description": "Azure\nBastion integration for AKS is now available in public preview. This\nintegration enables continuous secure access to private AKS clusters and also\napplies to AKS public clusters with API server authorized IP ranges. This integration introduces a\nsea",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499326"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499326",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: AKS Model Context Protocol (MCP) server",
+          "description": "Model Context Protocol (MCP) server for AKS is\nnow available as an open source release. This foundational component enables AI\nagents to interact with AKS clusters and simplifies cluster management.  AKS MCP server\noffers a standardized interface to orche",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499313"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499313",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Control Plane Improvements in AKS",
+          "description": "We are making improvements to API server\nresiliency per Kubernetes\nEnhancement Proposal (KEP) 5116 – Streaming Encoding for LIST Responses.  This enhancement\nsignificantly reduces API server memory usage by approximately 10x during large\nLIST calls to the",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499308"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499308",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Web Application Firewall on Application Gateway for Containers",
+          "description": "Application Gateway for Containers now\nsupports Web Application Firewall (WAF) policy in public preview. Using WAF’s\nDefault Ruleset, Azure Kubernetes Service (AKS) administrators and developers\ncan protect their workloads against malicious attacks and ex",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499299"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499299",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Deployment safeguards in AKS",
+          "description": "Misconfigurations during\nKubernetes development can lead to bugs and deployment issues. Azure Kubernetes\nService (AKS) now offers generally available deployment safeguards to help\nprevent these problems by enforcing Kubernetes best practices.   These safe",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499294"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499294",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Encryption in Transit for Azure Files NFS shares in AKS",
+          "description": "Azure Kubernetes Service (AKS) now supports Encryption in Transit\n(EiT) for Azure Files NFS v4.1 volumes via the Azure File CSI driver.  This builds on the recent General Availability (GA) of EiT for Azure\nFiles NFS shares in June, which introduced TLS 1.",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499289"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499289",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Confidential VMs for Ubuntu 24.04 in AKS",
+          "description": "Confidential Virtual Machines (CVM) offer strong security\nand confidentiality for tenants. Now generally available, CVM for Ubuntu 24.04\nin AKS enables node pools with CVM to target the migration of highly sensitive\ncontainer workloads to AKS without any",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499284"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499284",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Confidential VMs for Azure Linux",
+          "description": "Confidential Virtual Machines (CVM) offer strong security\nand confidentiality for tenants. CVM for Azure Linux in AKS is now in public\npreview and enables node pools with CVM to target the migration of highly\nsensitive container workloads to AKS without a",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499279"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499279",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Disable HTTP proxy",
+          "description": "The HTTP proxy feature adds HTTP proxy support to AKS\nclusters, exposing a straightforward interface that you can use to secure\nAKS-required network traffic in proxy-dependent environments. With this\nfeature, both AKS nodes and pods are configured to use",
+          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
+          "a10:updated": "2025-08-06T03:30:15Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3389,374 +3713,6 @@
           "description": "Custom certificate authority (CA) support in AKS is now generally\navailable.  CAs allow you to establish trust between your Azure\nKubernetes Service (AKS) cluster and your workloads as private registries,\nproxies, and firewalls. A Kubernetes secret is use",
           "pubDate": "Wed, 21 May 2025 12:15:47 Z",
           "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491880"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491880",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: HTTP proxy can now be enabled on an existing AKS cluster",
-          "description": "The HTTP proxy\nfeature adds HTTP proxy support to AKS clusters, exposing a straightforward\ninterface that you can use to secure AKS-required network traffic in\nproxy-dependent environments. With this feature, both AKS nodes and pods are\nconfigured to use",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491875"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491875",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Automated deployments in AKS now supports Azure DevOps (ADO), AKS-ready templates and service connectors",
-          "description": "Automated deployments in AKS now supports the following features:Azure DevOps support: You can now easily generate Azure DevOps (ADO) pipelines to\ndeploy your applications to Azure Kubernetes Service (AKS). Automated deployments\nalso helps you containeriz",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491865"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491865",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Entity Tags (eTags) for Concurrency Control in AKS",
-          "description": "Cluster operators and platform teams managing\nshared Azure Kubernetes Service (AKS) environments often face challenges with\nconflicting update requests—especially when multiple users or systems interact\nwith the same resource simultaneously. This can resu",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491855"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491855",
-          "category": [
-            "In preview",
-            "Hybrid + multicloud",
-            "Security",
-            "Compute",
-            "Containers",
-            "Microsoft Defender for Cloud",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Onboarding of individual AKS clusters in Microsoft Defender for Cloud",
-          "description": "Microsoft Defender for Cloud now\nsupports, in public preview, onboarding of individual AKS clusters. Instead of\nhaving a pre-requisite for onboarding an entire subscription, Microsoft\nDefender for Cloud now allows for resource level onboarding for AKS clu",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491850"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491850",
-          "category": [
-            "In preview",
-            "Hybrid + multicloud",
-            "Security",
-            "Compute",
-            "Containers",
-            "Microsoft Defender for Cloud",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: AKS security dashboard (Microsoft Defender for Cloud)",
-          "description": "The Azure Kubernetes Service (AKS) security dashboard, now\nin public preview, provides comprehensive visibility and automated remediation\ncapabilities for security issues through the Azure portal, empowering platform\nengineering teams to secure their Kube",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491840"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491840",
-          "category": [
-            "In preview",
-            "Hybrid + multicloud",
-            "Security",
-            "Compute",
-            "Containers",
-            "Microsoft Defender for Cloud",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Vulnerability assessment and malware detection for AKS nodes (Microsoft Defender for Cloud)",
-          "description": "Microsoft Defender for Cloud now offers, in preview,\nvulnerability assessments and malware detection for nodes within Azure\nKubernetes Service (AKS). By securing these Kubernetes nodes, organizations can\nenhance their overall security posture, maintain co",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491825"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491825",
-          "category": [
-            "In preview",
-            "Hybrid + multicloud",
-            "Security",
-            "Compute",
-            "Containers",
-            "Microsoft Defender for Cloud",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Gating vulnerable deployments in AKS (Microsoft Defender for Cloud)",
-          "description": "Microsoft Defender for Cloud gating\nvulnerable deployments feature for Azure Kubernetes Service (AKS) is now in\npublic preview. This feature allows you to evaluate deployments in Kubernetes\nand ensure each image is safe before deployment, based on Vulnera",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491830"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491830",
-          "category": [
-            "In preview",
-            "Hybrid + multicloud",
-            "Security",
-            "Compute",
-            "Containers",
-            "Microsoft Defender for Cloud",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Agentless runtime vulnerability assessment for AKS-owned images (Microsoft Defender for Cloud)",
-          "description": "Microsoft Defender for Cloud provides\ncomprehensive runtime vulnerability assessment and guided remediation for\nvulnerable container images that are owned, maintained, and deployed by a cloud\nservice, including those in Azure Kubernetes Service. Remediati",
-          "pubDate": "Wed, 21 May 2025 12:00:10 Z",
-          "a10:updated": "2025-05-21T12:00:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491533"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491533",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build",
-            "Management",
-            "SDK and Tools",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Send a Custom Event from the Azure Monitor OpenTelemetry Distro",
-          "description": "Custom Events offer developers a way to track user or system actions that matter to their business or observability objectives. For example, a developer may want to track an end-user action such as selecting a button, submitting a form, or completing a pu",
-          "pubDate": "Wed, 21 May 2025 12:00:10 Z",
-          "a10:updated": "2025-05-21T12:00:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491437"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491437",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Networking",
-            "Compute",
-            "Azure Monitor",
-            "Network Watcher",
-            "Virtual Machines",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: VM Network Troubleshooter",
-          "description": "Customers can identify blocked ports faster with the Azure Portal's latest enhancement. The VM Overview blade in the Azure Portal has a new troubleshooter tool allowing users to run network diagnostics and check for common ports being blocked. This greatl",
-          "pubDate": "Wed, 21 May 2025 12:00:10 Z",
-          "a10:updated": "2025-05-21T12:00:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492200"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492200",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features",
-            "Microsoft Build",
-            "Open Source"
-          ],
-          "title": "[In preview] Public Preview: Managed Prometheus visualizations in Azure Monitor for Arc-enabled Kubernetes clusters",
-          "description": "Container insights visualizations were previously powered by\nmetric data from Log Analytics. This new feature offers customers the option to\npower these visualizations using managed Prometheus data, offering a more\ncost-efficient and performant solution.",
-          "pubDate": "Wed, 21 May 2025 11:45:29 Z",
-          "a10:updated": "2025-05-21T11:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492195"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492195",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features",
-            "Microsoft Build",
-            "Open Source"
-          ],
-          "title": "[Launched] Generally Available: Managed Prometheus visualizations and enhanced monitoring experience in Azure Monitor for AKS",
-          "description": "Managed Prometheus visualizations in Azure Monitor are now\ngenerally available, along with an enhanced, unified monitoring experience for\nAzure Kubernetes Service (AKS). This release brings comprehensive monitoring capabilities\ninto a single, streamlined",
-          "pubDate": "Wed, 21 May 2025 11:45:29 Z",
-          "a10:updated": "2025-05-21T11:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492190"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492190",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features",
-            "Microsoft Build",
-            "Open Source"
-          ],
-          "title": "[In preview] Public Preview: Azure Monitor introduces Prometheus community recommended alerts for Azure Arc-enabled Kubernetes",
-          "description": "Azure Monitor now offers one-click enablement of Prometheus\nrecommended alerts directly in the Azure Portal for Azure Arc-enabled\nKubernetes clusters. These alerts, based on enhanced Prometheus community\nrules, provide comprehensive coverage across cluste",
-          "pubDate": "Wed, 21 May 2025 11:45:29 Z",
-          "a10:updated": "2025-05-21T11:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492185"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492185",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features",
-            "Microsoft Build",
-            "Open Source"
-          ],
-          "title": "[Launched] Generally Available: Azure Monitor Prometheus community recommended alerts for AKS",
-          "description": "Azure Monitor now offers one-click enablement of Prometheus\nrecommended alerts directly in the Azure Portal for AKS clusters. These alerts, based on\nenhanced Prometheus community rules, provide comprehensive coverage across\ncluster, node, and pod levels.",
-          "pubDate": "Wed, 21 May 2025 11:45:29 Z",
-          "a10:updated": "2025-05-21T11:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491953"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491953",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Log Analytics cross-regional Workspace Replication",
-          "description": "We are pleased to announce the general availability of Log Analytics Workspace Replication. Cross-regional workspace replication enhances resilience to regional incidents by enabling workspace owners to switch over to another region as necessary. A copy o",
-          "pubDate": "Wed, 21 May 2025 11:45:29 Z",
-          "a10:updated": "2025-05-21T11:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491567"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491567",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Monitor Log Analytics UI query limit increased to 100K records",
-          "description": "Azure Monitor Log Analytics UI now supports up to 100,000 records per query, a significant increase from the previous 30,000-record limit. This enhancement enables deeper investigations and broader data analysis directly within the portal, allowing users",
-          "pubDate": "Wed, 21 May 2025 11:45:29 Z",
-          "a10:updated": "2025-05-21T11:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "490961"
-          },
-          "link": "https://azure.microsoft.com/updates?id=490961",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Granular RBAC in Azure Monitor Log Analytics",
-          "description": "Many organizations emphasize the need to segregate and control access to data in a granular manner, while maintaining a centralized logging platform. On top of the existing capabilities of Azure Monitor Log Analytics Workspace and table level access, you",
-          "pubDate": "Wed, 21 May 2025 11:45:29 Z",
-          "a10:updated": "2025-05-21T11:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "493829"
-          },
-          "link": "https://azure.microsoft.com/updates?id=493829",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Azure Functions integration with Azure AI Foundry Agent Service",
-          "description": "Azure Functions integration with AI Foundry Agent service is now generally available. Integrating Azure Functions with AI Foundry Agent service enables you to build intelligent, event-driven applications that are scalable, secure, and cost-efficient. Azur",
-          "pubDate": "Wed, 21 May 2025 03:30:39 Z",
-          "a10:updated": "2025-05-21T03:30:39Z"
         }
       ]
     }
