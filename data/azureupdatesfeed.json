@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 06 Aug 2025 04:00:09 Z",
+      "lastBuildDate": "Wed, 06 Aug 2025 15:00:18 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499143"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499143",
+          "category": [
+            "In preview",
+            "Storage",
+            "Storage Accounts",
+            "Features",
+            "Management",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Azure Storage Discovery",
+          "description": "Azure Storage Discovery provides enterprise-wide visibility into your Azure Storage data estate. Insights that weren’t available before are now at your fingertips. Deeply analyze used capacity and activity, optimize costs, enhance security, and drive oper",
+          "pubDate": "Wed, 06 Aug 2025 15:00:18 Z",
+          "a10:updated": "2025-08-06T15:00:18Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3692,25 +3711,6 @@
           ],
           "title": "[Launched] Generally Available: Core Kubernetes extensions for AKS",
           "description": "Core Kubernetes\nextensions for AKS offers an ARM-driven experience for the installation and\nlifecycle management of essential components that can be integrated into your\nAKS cluster to enhance its functionality. Compared to the existing cluster\nextension",
-          "pubDate": "Wed, 21 May 2025 12:15:47 Z",
-          "a10:updated": "2025-05-21T12:15:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491885"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491885",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Custom certificate authority support in AKS",
-          "description": "Custom certificate authority (CA) support in AKS is now generally\navailable.  CAs allow you to establish trust between your Azure\nKubernetes Service (AKS) cluster and your workloads as private registries,\nproxies, and firewalls. A Kubernetes secret is use",
           "pubDate": "Wed, 21 May 2025 12:15:47 Z",
           "a10:updated": "2025-05-21T12:15:47Z"
         }
