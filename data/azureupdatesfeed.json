@@ -6,9 +6,46 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 11 Aug 2025 15:15:03 Z",
+      "lastBuildDate": "Mon, 11 Aug 2025 17:00:31 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500203"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500203",
+          "category": [
+            "In preview",
+            "Developer tools",
+            "DevOps",
+            "Azure Load Testing",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Introducing Azure App Testing: Scalable End-to-end App Validation",
+          "description": "Azure App Testing now enables developers and QA teams to run large-scale functional and performance tests to pinpoint issues in their applications, across frameworks like Playwright, JMeter, or Locust. It brings together two powerful testing capabilities—",
+          "pubDate": "Mon, 11 Aug 2025 17:00:31 Z",
+          "a10:updated": "2025-08-11T17:00:31Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499998"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499998",
+          "category": [
+            "Launched",
+            "Compute",
+            "Mobile",
+            "Web",
+            "App Service",
+            "Features"
+          ],
+          "title": "[Launched] General Available: App Service Inbound IPv6 Support",
+          "description": "Inbound IPv6 support on public multi-tenant App Service is now generally available across all public Azure regions for multi-tenant apps on all Basic, Standard, and Premium SKUs, Functions Consumption, Functions Elastic Premium, and Logic Apps Standard.",
+          "pubDate": "Mon, 11 Aug 2025 17:00:31 Z",
+          "a10:updated": "2025-08-11T17:00:31Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3673,44 +3710,6 @@
           "description": "This capability provides\ncomprehensive vulnerability assessment and remediation for container images,\nregardless of their registry source. With this, organizations expand\nvulnerability assessment coverage to include running containers with images\nfrom any",
           "pubDate": "Wed, 21 May 2025 13:15:08 Z",
           "a10:updated": "2025-05-21T13:15:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "494317"
-          },
-          "link": "https://azure.microsoft.com/updates?id=494317",
-          "category": [
-            "In preview",
-            "Developer tools",
-            "DevOps",
-            "Azure Load Testing",
-            "Microsoft Build",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: AI-powered actionable insights in Azure Load Testing",
-          "description": "Azure Load Testing now offers AI-driven actionable insights (Preview) to help you identify and resolve performance issues more quickly and confidently. This new capability automatically analyzes test run data to detect regressions, highlight bottlenecks,",
-          "pubDate": "Wed, 21 May 2025 12:30:29 Z",
-          "a10:updated": "2025-05-21T12:30:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491890"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491890",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Track AKS supported Kubernetes version regional updates in AKS release tracker",
-          "description": "AKS supported Kubernetes version release updates are available in AKS release tracker. Users can check current in-support Kubernetes\nversions and LTS versions for a specific region and track new patches version\nrelease progress with release tracker. Learn",
-          "pubDate": "Wed, 21 May 2025 12:30:29 Z",
-          "a10:updated": "2025-05-21T12:30:29Z"
         }
       ]
     }
