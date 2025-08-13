@@ -6,9 +6,62 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 13 Aug 2025 12:15:34 Z",
+      "lastBuildDate": "Wed, 13 Aug 2025 16:00:27 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499753"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499753",
+          "category": [
+            "In preview",
+            "Databases",
+            "Azure Managed Instance for Apache Cassandra",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Managed Instance for Apache Cassandra v5.0",
+          "description": "You can now use Cassandra 5.0 in Azure Managed Instance for Apache Cassandra, available in public preview. This release gives you access to the latest Cassandra features—like better performance and new indexing—without the hassle of managing infrastructur",
+          "pubDate": "Wed, 13 Aug 2025 16:00:27 Z",
+          "a10:updated": "2025-08-13T16:00:27Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499679"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499679",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Malaysia West",
+          "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the Malaysia West Azure region.   Learn more.",
+          "pubDate": "Wed, 13 Aug 2025 16:00:27 Z",
+          "a10:updated": "2025-08-13T16:00:27Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499670"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499670",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Cosmos DB for MongoDB (vCore) encryption with customer-managed key",
+          "description": "Data stored in your Azure Cosmos DB for MongoDB (vCore) cluster is automatically and seamlessly encrypted with keys managed by Microsoft. Now, in addition to this service-managed key encryption (SMK), you have the option to add another layer of security b",
+          "pubDate": "Wed, 13 Aug 2025 16:00:27 Z",
+          "a10:updated": "2025-08-13T16:00:27Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3643,66 +3696,6 @@
           ],
           "title": "[Launched] Generally Available: Connected registry in Azure Container Registry (ACR)",
           "description": "Connected registry\nin Azure Container Registry (ACR) is now generally available. Connected\nregistry is a local resource managed using a cloud-based ACR registry. It can\nbe deployed via the Azure Portal and Command Line Interface (CLI) as an Arc extension",
-          "pubDate": "Wed, 21 May 2025 13:15:08 Z",
-          "a10:updated": "2025-05-21T13:15:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491938"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491938",
-          "category": [
-            "In preview",
-            "Containers",
-            "Compute",
-            "Azure Kubernetes Fleet Manager",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager now supports DNS-based public load balancing",
-          "description": "Azure Kubernetes Fleet Manager now\nsupports DNS-based public load balancing, delivered via a Kubernetes-native\nintegration with Azure Traffic Manager. Kubernetes services placed on multiple\nclusters in a fleet can be included in a TrafficManagerBackend wh",
-          "pubDate": "Wed, 21 May 2025 13:15:08 Z",
-          "a10:updated": "2025-05-21T13:15:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491933"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491933",
-          "category": [
-            "In preview",
-            "Containers",
-            "Compute",
-            "Azure Kubernetes Fleet Manager",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager now supports placement drift detection and takeover",
-          "description": "Azure Kubernetes Fleet Manager’s cluster resource\nplacement has two new preview features to provide more control over placement\nconflict resolution.   Using the new “applyStrategy”, an\noperator can define how Fleet Manager resolves conflicts when attempti",
-          "pubDate": "Wed, 21 May 2025 13:15:08 Z",
-          "a10:updated": "2025-05-21T13:15:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491928"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491928",
-          "category": [
-            "In preview",
-            "Containers",
-            "Compute",
-            "Azure Kubernetes Fleet Manager",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[In preview] Public Preview: Automated deployments support in Azure Kubernetes Fleet Manager",
-          "description": "Azure Kubernetes Fleet Manager now\nsupports automated deployments in public preview. This feature adds support for\nattaching GitHub repositories to a Fleet Manager hub cluster, allowing the\napplication to be built and staged ready for placement.  Automate",
           "pubDate": "Wed, 21 May 2025 13:15:08 Z",
           "a10:updated": "2025-05-21T13:15:08Z"
         }
