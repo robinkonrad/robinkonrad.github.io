@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 11 Aug 2025 20:00:08 Z",
+      "lastBuildDate": "Wed, 13 Aug 2025 12:15:34 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500198"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500198",
+          "category": [
+            "Launched",
+            "Management and governance",
+            "Automation",
+            "Management"
+          ],
+          "title": "[Launched] Generally Available: Deployment resumption - Azure Automation revised Service and Subscription limits",
+          "description": "After a brief hiatus, Azure Automation is resuming deployments of the revised Service and Subscription limits from August 11, 2025. This update will ensure fair distribution of cloud resources across all customers and further improve reliability and perfo",
+          "pubDate": "Wed, 13 Aug 2025 12:15:34 Z",
+          "a10:updated": "2025-08-13T12:15:34Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -60,8 +77,8 @@
             "App Service",
             "Features"
           ],
-          "title": "[Launched] General Available: App Service Inbound IPv6 Support",
-          "description": "Inbound IPv6 support on public multi-tenant App Service is now generally available across all public Azure regions for multi-tenant apps on all Basic, Standard, and Premium SKUs, Functions Consumption, Functions Elastic Premium, and Logic Apps Standard.",
+          "title": "[Launched] Generally Available: App Service Inbound IPv6 Support",
+          "description": "Inbound IPv6 support on public multi-tenant App\nService is now generally available across all public Azure regions for\nmulti-tenant apps on all Basic, Standard, and Premium SKUs, Functions\nConsumption, Functions Elastic Premium, and Logic Apps Standard. L",
           "pubDate": "Mon, 11 Aug 2025 17:00:31 Z",
           "a10:updated": "2025-08-11T17:00:31Z"
         },
@@ -3686,25 +3703,6 @@
           ],
           "title": "[In preview] Public Preview: Automated deployments support in Azure Kubernetes Fleet Manager",
           "description": "Azure Kubernetes Fleet Manager now\nsupports automated deployments in public preview. This feature adds support for\nattaching GitHub repositories to a Fleet Manager hub cluster, allowing the\napplication to be built and staged ready for placement.  Automate",
-          "pubDate": "Wed, 21 May 2025 13:15:08 Z",
-          "a10:updated": "2025-05-21T13:15:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "491923"
-          },
-          "link": "https://azure.microsoft.com/updates?id=491923",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Smart VM defaults in AKS",
-          "description": "Smart VM defaults are now generally available in AKS. Smart\nVM defaults automatically select the optimal default VM SKU based on available\ncapacity and quota. This feature ensures that deployments are matched with the\nbest possible SKU, enhancing performa",
           "pubDate": "Wed, 21 May 2025 13:15:08 Z",
           "a10:updated": "2025-05-21T13:15:08Z"
         }
