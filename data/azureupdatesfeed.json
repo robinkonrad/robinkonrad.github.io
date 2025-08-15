@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 14 Aug 2025 16:00:43 Z",
+      "lastBuildDate": "Fri, 15 Aug 2025 16:30:50 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500695"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500695",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Files",
+            "Features",
+            "Pricing & Offerings"
+          ],
+          "title": "[Launched] Generally Available: Azure Files provisioned v2 billing model for SSD (premium)",
+          "description": "Azure Files\nnow supports the provisioned v2 billing model on the SSD (premium) media tier. Provisioned\nv2 enables independent provisioning of storage, IOPS, and throughput, allowing\nyou to create a file share that meets your exact storage and performance",
+          "pubDate": "Fri, 15 Aug 2025 16:30:50 Z",
+          "a10:updated": "2025-08-15T16:30:50Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3679,25 +3697,6 @@
           "description": "Azure SQL Managed Instance is a scalable cloud database service that's always running on the latest stable version of the Microsoft SQL Server database engine. You get an updated operating system with 99.99% high availability and close to 100% feature com",
           "pubDate": "Wed, 21 May 2025 16:00:03 Z",
           "a10:updated": "2025-05-21T16:00:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "492579"
-          },
-          "link": "https://azure.microsoft.com/updates?id=492579",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Every AKS version is now long term support (LTS) compatible",
-          "description": "The Kubernetes community releases a new minor\nversion approximately every four months, with a support window for each version\nfor one year. In Azure Kubernetes Service (AKS), this support window is called\ncommunity support. AKS supports versions of Kubern",
-          "pubDate": "Wed, 21 May 2025 13:15:08 Z",
-          "a10:updated": "2025-05-21T13:15:08Z"
         }
       ]
     }
