@@ -6,9 +6,65 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 21 Aug 2025 15:30:02 Z",
+      "lastBuildDate": "Thu, 21 Aug 2025 17:00:04 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501017"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501017",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Application Gateway adds MaxSurge support for zero-capacity-impact upgrades",
+          "description": "Azure Application Gateway now\nsupports MaxSurge, enabling new instances to be provisioned during rolling\nupgrades without taking existing ones offline. This allows customers to\ntransition to newer gateway versions without any capacity degradation,\nensurin",
+          "pubDate": "Thu, 21 Aug 2025 17:00:04 Z",
+          "a10:updated": "2025-08-21T17:00:04Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500879"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500879",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[Launched] Generally, Available: Search Job in Log Analytics - Now Supporting Up to 100 Million Results",
+          "description": "Search Job lets you run asynchronous queries across all your workspace data, including long-term retention, and delivers results in new Analytics tables for further exploration.We’re excited to announce that the maximum number of records returned by a Sea",
+          "pubDate": "Thu, 21 Aug 2025 16:45:10 Z",
+          "a10:updated": "2025-08-21T16:45:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500760"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500760",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure NetApp Files",
+            "Features",
+            "SDK and Tools",
+            "Regions & Datacenters",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Azure NetApp Files file access logs",
+          "description": "Azure NetApp Files file access logs feature is now generally available, delivering enterprise-grade visibility into file-level operations across SMB, NFSv4.1, and dual-protocol volumes. This feature empowers organizations to enhance their security posture",
+          "pubDate": "Thu, 21 Aug 2025 16:30:27 Z",
+          "a10:updated": "2025-08-21T16:30:27Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3649,59 +3705,6 @@
           "description": "Azure AI Foundry supports Reinforcement Fine-Tuning (RFT) with the o4-mini model in Azure OpenAI, enabling adaptive learning for context-aware applications. Alongside RFT, we introduced Global Training, allowing fine-tuning from 12+ Azure regions at reduc",
           "pubDate": "Thu, 22 May 2025 16:00:23 Z",
           "a10:updated": "2025-05-22T16:00:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "494654"
-          },
-          "link": "https://azure.microsoft.com/updates?id=494654",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Azure AI Foundry",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Azure AI Foundry Agent Service",
-          "description": "Azure AI Foundry Agent Service is now generally available,\nempowering developers to design, deploy, and scale enterprise-grade AI agents.\nIt supports multi-agent workflows, allowing specialized agents to handle\ncomplex tasks, accelerate decisions, and boo",
-          "pubDate": "Thu, 22 May 2025 16:00:23 Z",
-          "a10:updated": "2025-05-22T16:00:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "494297"
-          },
-          "link": "https://azure.microsoft.com/updates?id=494297",
-          "category": [
-            "Hybrid + multicloud",
-            "Azure Modular Datacenter",
-            "Regions & Datacenters",
-            "Retirements"
-          ],
-          "title": "Retirement: MICROSOFT AZURE OPERATED BY 21VIANET - Action required to migrate to Azure China North 3 region by July 1, 2026 due to China North 1 and China East 1 region retirement",
-          "description": "Over the\npast decade, Microsoft Azure operated by 21Vianet (Azure in China) has been\nexpanding the Azure cloud infrastructure in China, demonstrating long-term\ninvestment in the market. Azure in China is committed to building a\ncompliant, flexible, and in",
-          "pubDate": "Thu, 22 May 2025 01:00:05 Z",
-          "a10:updated": "2025-05-22T01:45:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467264"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467264",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Cache for Redis",
-            "Features",
-            "Microsoft Build"
-          ],
-          "title": "[Launched] Generally Available: Azure Managed Redis",
-          "description": "Now generally available, Azure Managed Redis brings the latest Redis innovations with enhanced availability and cost-effective operations. Azure Managed Redis boosts AI application performance, supports session management, and interoperates seamlessly wit",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 Z",
-          "a10:updated": "2025-05-21T19:30:03Z"
         }
       ]
     }
