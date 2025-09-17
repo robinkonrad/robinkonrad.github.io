@@ -6,9 +6,50 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 17 Sep 2025 15:45:39 Z",
+      "lastBuildDate": "Wed, 17 Sep 2025 16:30:45 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503617"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503617",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure DDoS Protection",
+            "Azure Firewall",
+            "Azure Firewall Manager",
+            "Web Application Firewall",
+            "Services",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Introducing the new Network Security Hub experience",
+          "description": "The Azure Firewall Manager\nexperience has been expanded and rebranded as the Network Security Hub—a\ncentralized interface that brings together Azure Firewall, Web\nApplication Firewall (WAF), and DDoS Protection. This change is part\nof a broader effort to",
+          "pubDate": "Wed, 17 Sep 2025 16:30:45 Z",
+          "a10:updated": "2025-09-17T16:30:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503408"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503408",
+          "category": [
+            "In preview",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Databricks One in Azure Databricks",
+          "description": "Databricks One in Azure Databricks delivers a unified, simplified experience that brings together data engineering, analytics, and AI development in a single, governed platform. By integrating collaborative workflows, enterprise-grade governance, and perf",
+          "pubDate": "Wed, 17 Sep 2025 16:30:45 Z",
+          "a10:updated": "2025-09-17T16:30:45Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3627,40 +3668,6 @@
           "description": "The first cloud region in Chile is now available with Azure Availability Zones and provides organizations across the globe with access to scalable, highly available, and resilient Microsoft Cloud services, confirming its commitment to promoting cloud tran",
           "pubDate": "Wed, 18 Jun 2025 15:00:49 Z",
           "a10:updated": "2025-06-18T16:00:51Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496401"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496401",
-          "category": [
-            "Launched",
-            "Containers",
-            "Azure Red Hat OpenShift",
-            "Open Source",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Red Hat OpenShift Version 4.17 Now Available with Enhanced Features",
-          "description": "Azure\nRed Hat OpenShift version 4.17 is now available as an installation option. This\nlatest release brings enhanced capabilities and improved performance for\nenterprise workloads running on the Azure cloud platform.   Additionally,\nAzure Red Hat OpenShif",
-          "pubDate": "Wed, 18 Jun 2025 15:15:27 Z",
-          "a10:updated": "2025-06-18T15:15:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access"
-          },
-          "link": "https://azure.microsoft.com/updates?id=default-outbound-access-for-vms-in-azure-will-be-retired-transition-to-a-new-method-of-internet-access",
-          "category": [
-            "Conversational language understanding",
-            "Retirements",
-            "Features"
-          ],
-          "title": "Feature Update: Default behavior for newly created virtual networks will be private",
-          "description": "In September 2023, we announced that new virtual networks will default to requiring explicit outbound connectivity methods instead of having a fallback to default outbound access connectivity. Based on your feedback, the default behavior change will now a",
-          "pubDate": "Fri, 29 Sep 2023 23:00:36 Z",
-          "a10:updated": "2025-06-18T11:15:05Z"
         }
       ]
     }
