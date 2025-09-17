@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 16 Sep 2025 21:30:32 Z",
+      "lastBuildDate": "Wed, 17 Sep 2025 15:45:39 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500795"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500795",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Confidential computing for Azure Database for PostgreSQL flexible server",
+          "description": "Announcing support for confidential computing in Azure Database for PostgreSQL flexible server. Azure Confidential Computing encrypts data in hardware-based trusted execution environments (TEEs), processing data only when the cloud environment has been ve",
+          "pubDate": "Wed, 17 Sep 2025 15:45:39 Z",
+          "a10:updated": "2025-09-17T15:45:39Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3643,24 +3661,6 @@
           "description": "In September 2023, we announced that new virtual networks will default to requiring explicit outbound connectivity methods instead of having a fallback to default outbound access connectivity. Based on your feedback, the default behavior change will now a",
           "pubDate": "Fri, 29 Sep 2023 23:00:36 Z",
           "a10:updated": "2025-06-18T11:15:05Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "485077"
-          },
-          "link": "https://azure.microsoft.com/updates?id=485077",
-          "category": [
-            "Compute",
-            "Mobile",
-            "Web",
-            "App Service",
-            "Retirements"
-          ],
-          "title": "Retirement: Support for .NET 9 (STS) ends on May 12, 2026",
-          "description": "On May 12, 2026, support for .NET 9 (STS) will end. Your apps that are hosted on App\nService will continue to run, but security updates will no longer be available\nand we’ll no longer provide customer service for .NET 9 (STS). Learn more\nabout App\nService",
-          "pubDate": "Thu, 05 Jun 2025 16:00:17 Z",
-          "a10:updated": "2025-06-17T20:00:18Z"
         }
       ]
     }
