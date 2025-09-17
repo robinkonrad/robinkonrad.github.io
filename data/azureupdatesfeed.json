@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 17 Sep 2025 16:30:45 Z",
+      "lastBuildDate": "Wed, 17 Sep 2025 17:15:04 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503134"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503134",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Functions .NET 10 support",
+          "description": "Azure Functions now supports .NET 10 in Public Preview. To use\n.NET 10, adjust the target framework in your Functions project, and update\nreferences to Microsoft.Azure.Functions.Worker.Sdk to version 2.0.5 or later. .NET 10 projects can be deployed to app",
+          "pubDate": "Wed, 17 Sep 2025 17:15:04 Z",
+          "a10:updated": "2025-09-17T17:15:04Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3650,23 +3669,6 @@
           "title": "[In preview] Public Preview: Azure Site Recovery Support for Virtual Machines with Ultra disks",
           "description": "Announcing  the Public Preview of Azure Site Recovery (ASR) for Virtual\nMachines with Ultra disks. ASR provides seamless disaster recovery for Virtual\nMachines across Azure Regions and from on-premises to Azure, helping\norganizations maintain business con",
           "pubDate": "Wed, 18 Jun 2025 16:00:51 Z",
-          "a10:updated": "2025-06-18T16:00:51Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496642"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496642",
-          "category": [
-            "Launched",
-            "Regions & Datacenters",
-            "Services",
-            "Features"
-          ],
-          "title": "[Launched] General Available: Microsoft Azure now available from new cloud region in Chile",
-          "description": "The first cloud region in Chile is now available with Azure Availability Zones and provides organizations across the globe with access to scalable, highly available, and resilient Microsoft Cloud services, confirming its commitment to promoting cloud tran",
-          "pubDate": "Wed, 18 Jun 2025 15:00:49 Z",
           "a10:updated": "2025-06-18T16:00:51Z"
         }
       ]
