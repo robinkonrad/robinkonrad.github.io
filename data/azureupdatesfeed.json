@@ -6,9 +6,66 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 19 Sep 2025 17:30:11 Z",
+      "lastBuildDate": "Mon, 22 Sep 2025 17:00:22 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503909"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503909",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Management",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Using Server-sent events with Application Gateway",
+          "description": "Azure Application Gateway supports use of Server-sent events in general\navailability, enabling real-time data streaming from server to client.\nServer-sent events utilize server push technology on a persistent HTTP\nconnection for seamless updates to the cl",
+          "pubDate": "Mon, 22 Sep 2025 17:00:22 Z",
+          "a10:updated": "2025-09-22T17:00:22Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501169"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501169",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Signed request on Azure Front Door",
+          "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
+          "pubDate": "Mon, 22 Sep 2025 17:00:22 Z",
+          "a10:updated": "2025-09-22T17:00:22Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503806"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503806",
+          "category": [
+            "Launched",
+            "Management and governance",
+            "Storage",
+            "Azure Backup",
+            "Management",
+            "Security",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Vaulted backup for Azure Files (Premium)",
+          "description": "Announcing the General availability of vaulted backup for Azure Files shares premium!  Azure Backup brings vaulted protection to Azure Files shares premium, to ensure business\ncontinuity and compliance, even in the face of accidental deletion, malicious\na",
+          "pubDate": "Mon, 22 Sep 2025 16:15:14 Z",
+          "a10:updated": "2025-09-22T16:15:14Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -115,7 +172,7 @@
             "Features"
           ],
           "title": "[Launched] Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs)",
-          "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North, Korea Central, West Central US, South Africa North, Switzerland North and UK South regions with 4th generation AM",
+          "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North and Korea Central regions with 4th generation AMD EPYC™ processors. Featuring Secure Encrypted Virtualization – Se",
           "pubDate": "Thu, 18 Sep 2025 19:00:07 Z",
           "a10:updated": "2025-09-18T19:00:07Z"
         },
@@ -1441,8 +1498,8 @@
             "Application Gateway",
             "Features"
           ],
-          "title": "[Launched] Generally Available: Application Gateway adds MaxSurge support for zero-capacity-impact upgrades",
-          "description": "Azure Application Gateway now\nsupports MaxSurge, enabling new instances to be provisioned during rolling\nupgrades without taking existing ones offline. This allows customers to\ntransition to newer gateway versions without any capacity degradation,\nensurin",
+          "title": "[Launched] Generally Available: Application Gateway upgrades with no performance impact",
+          "description": "Azure Application\nGateway now performs upgrades without any degradation in performance. During an\nupgrade, it automatically provisions new gateway instances to maintain the same\npre-upgrade capacity. This ensures: \n No impact on performance \n Full traffic",
           "pubDate": "Thu, 21 Aug 2025 17:00:04 Z",
           "a10:updated": "2025-08-21T17:00:04Z"
         },
@@ -3623,59 +3680,6 @@
           "description": "Azure Premium SSD v2 and Ultra Disk are now available in Malaysia West region. Azure Ultra Disks are the highest-performing storage option for Azure virtual machines (VMs), offering high throughput, high IOPS, and consistent low sub-millisecond latency. U",
           "pubDate": "Fri, 20 Jun 2025 11:30:35 Z",
           "a10:updated": "2025-06-20T11:30:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496440"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496440",
-          "category": [
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Retirements"
-          ],
-          "title": "Retirement: skip-gpu-driver-install nodepool tag retirement om August 14, 2025",
-          "description": "On August 14 2025, Azure Kubernetes Service will no\nlonger support the skip-gpu-driver-install node pool tag to skip automatic\ndriver installation on GPU node pools. Starting on August 14 2025, you will no\nlonger be able to use this node pool tag at AKS n",
-          "pubDate": "Thu, 19 Jun 2025 21:30:15 Z",
-          "a10:updated": "2025-06-19T21:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496445"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496445",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Ubuntu 24.04 for AKS",
-          "description": "Ubuntu 24.04 is now available on\nAKS in Kubernetes version 1.32 and above. Containerd 2.0 is enabled by default.\nAKS now supports Ubuntu 24.04 as a separate OS SKU, meaning that you can create\nnew node pools or update existing node pools to Ubuntu 24.04 b",
-          "pubDate": "Wed, 18 Jun 2025 18:00:12 Z",
-          "a10:updated": "2025-06-18T18:00:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496435"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496435",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Linux now also supports AKS LTS with Kubernetes v1.28 & above",
-          "description": "Azure Linux now also supports AKS\nLTS starting with Kubernetes version 1.28 and above. This means you can now\npair a stable, enterprise-grade node operating system with the extended\nlifecycle benefits of AKS LTS — providing a consistent, secure, and well-",
-          "pubDate": "Wed, 18 Jun 2025 18:00:12 Z",
-          "a10:updated": "2025-06-18T18:00:12Z"
         }
       ]
     }
