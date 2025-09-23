@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 23 Sep 2025 16:00:30 Z",
+      "lastBuildDate": "Tue, 23 Sep 2025 17:30:13 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "502998"
+          },
+          "link": "https://azure.microsoft.com/updates?id=502998",
+          "category": [
+            "Launched",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery",
+            "Features",
+            "Management"
+          ],
+          "title": "[Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks",
+          "description": "Announcing the General Availability of Azure Site Recovery (ASR) for Virtual Machines with Premium SSD v2 disks. ASR provides seamless disaster recovery for Virtual Machines across Azure Regions and from on-premises to Azure, helping organizations maintai",
+          "pubDate": "Tue, 23 Sep 2025 17:30:13 Z",
+          "a10:updated": "2025-09-23T17:30:13Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -16,7 +35,7 @@
           },
           "link": "https://azure.microsoft.com/updates?id=500573",
           "category": "Retirements",
-          "title": "Retirement: NVv3-series Azure Virtual Machines will be retired on September 30,2026",
+          "title": "Retirement: NVv3-series Azure Virtual Machines will be retired on September 30 ,2026",
           "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, and Standard_NV48s_v3 virtual machines (VMs) in the NVv3-series virtual machines (VMs). To avoid any d",
           "pubDate": "Tue, 23 Sep 2025 16:00:30 Z",
           "a10:updated": "2025-09-23T16:00:30Z"
@@ -3652,25 +3671,6 @@
           "title": "[Launched] Generally Available: Azure WAF integration in Microsoft Security Copilot",
           "description": "Azure\nWeb Application Firewall (WAF) integration in Microsoft Copilot for Security\nhas reached general availability. This integration supports both Azure\nFront Door WAF and Azure Application Gateway WAF.  By\nintegrating Azure WAF with the Security Copilot",
           "pubDate": "Fri, 20 Jun 2025 12:15:34 Z",
-          "a10:updated": "2025-06-20T12:15:34Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496415"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496415",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Functions enables OpenTelemetry support",
-          "description": "We're\nannouncing significant improvements to OpenTelemetry support in Azure\nFunctions, expanding on the limited preview announced last year.   These\nenhancements deliver better observability, improved performance, and more\ndetailed insights into your func",
-          "pubDate": "Wed, 18 Jun 2025 18:00:12 Z",
           "a10:updated": "2025-06-20T12:15:34Z"
         }
       ]
