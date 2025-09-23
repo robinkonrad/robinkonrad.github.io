@@ -6,9 +6,21 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 23 Sep 2025 15:00:40 Z",
+      "lastBuildDate": "Tue, 23 Sep 2025 16:00:30 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500573"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500573",
+          "category": "Retirements",
+          "title": "Retirement: NVv3-series Azure Virtual Machines will be retired on September 30,2026",
+          "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, and Standard_NV48s_v3 virtual machines (VMs) in the NVv3-series virtual machines (VMs). To avoid any d",
+          "pubDate": "Tue, 23 Sep 2025 16:00:30 Z",
+          "a10:updated": "2025-09-23T16:00:30Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -40,24 +52,6 @@
           ],
           "title": "[Launched] Generally Available: Using Server-sent events with Application Gateway",
           "description": "Azure Application Gateway supports use of Server-sent events in general\navailability, enabling real-time data streaming from server to client.\nServer-sent events utilize server push technology on a persistent HTTP\nconnection for seamless updates to the cl",
-          "pubDate": "Mon, 22 Sep 2025 17:00:22 Z",
-          "a10:updated": "2025-09-22T17:00:22Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501169"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501169",
-          "category": [
-            "In preview",
-            "Networking",
-            "Security",
-            "Azure Front Door",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Signed request on Azure Front Door",
-          "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
           "pubDate": "Mon, 22 Sep 2025 17:00:22 Z",
           "a10:updated": "2025-09-22T17:00:22Z"
         },
