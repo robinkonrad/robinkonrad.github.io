@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 23 Sep 2025 17:30:13 Z",
+      "lastBuildDate": "Wed, 24 Sep 2025 11:45:14 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "493779"
+          },
+          "link": "https://azure.microsoft.com/updates?id=493779",
+          "category": [
+            "Compute",
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Disk Encryption",
+          "description": "Azure\nDisk Encryption will be retired on September 15, 2028 and we recommend you transition to Encryption\nat Host by that date.   Alternate disk encryption solutions such as\nEncryption At Host and CVM OS disk encryption offer broader operating system\nsupp",
+          "pubDate": "Wed, 24 Sep 2025 11:45:14 Z",
+          "a10:updated": "2025-09-24T11:45:14Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3647,29 +3664,6 @@
           ],
           "title": "[Launched] Generally Available: Azure Front Door now supports managed certificate for wildcard domains",
           "description": "Azure Front Door standard and premium\nprofiles now support managed certificate for wildcard domains. Previously, you can only bring your own certificate for wildcard\ndomains on Azure Front Door.  This enables customers to secure multiple\nsubdomains with a",
-          "pubDate": "Fri, 20 Jun 2025 12:15:34 Z",
-          "a10:updated": "2025-06-20T12:15:34Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496536"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496536",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "AI + machine learning",
-            "Application Gateway",
-            "Azure Front Door",
-            "Microsoft Copilot for Security",
-            "Web Application Firewall",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Azure WAF integration in Microsoft Security Copilot",
-          "description": "Azure\nWeb Application Firewall (WAF) integration in Microsoft Copilot for Security\nhas reached general availability. This integration supports both Azure\nFront Door WAF and Azure Application Gateway WAF.  By\nintegrating Azure WAF with the Security Copilot",
           "pubDate": "Fri, 20 Jun 2025 12:15:34 Z",
           "a10:updated": "2025-06-20T12:15:34Z"
         }
