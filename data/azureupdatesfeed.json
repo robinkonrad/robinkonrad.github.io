@@ -6,9 +6,44 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 24 Sep 2025 11:45:14 Z",
+      "lastBuildDate": "Wed, 24 Sep 2025 17:00:24 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503641"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503641",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Discover and assess PostgreSQL in Azure Migrate",
+          "description": "Planning the next move for your PostgreSQL workloads just got easier. Azure Migrate now enables you to discover and assess PostgreSQL resources across VMware, Hyper‑V, physical servers, and other cloud environments. Azure Migrate provides a centralized hu",
+          "pubDate": "Wed, 24 Sep 2025 17:00:24 Z",
+          "a10:updated": "2025-09-24T17:00:24Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503622"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503622",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Delete on-demand backup in Azure DB for MySQL - Flexible Server",
+          "description": "You can now manually trigger on-demand backups in Azure DB for MySQL - Flexible Server instead of solely relying on the system-initiated automated backups and schedule. As part of August 2025 release, you can delete on-demand backups that are no longer ne",
+          "pubDate": "Wed, 24 Sep 2025 17:00:24 Z",
+          "a10:updated": "2025-09-24T17:00:24Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3627,45 +3662,6 @@
           "description": "Azure\nAdvisor has improved its VM right-sizing recommendations by extending coverage\nfor newer VM series. This broader SKU coverage across the D, E, and F VM\nfamilies enables a more comprehensive evaluation of CPU performance, providing\nyour teams with re",
           "pubDate": "Mon, 23 Jun 2025 17:30:54 Z",
           "a10:updated": "2025-06-23T17:30:54Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467635"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467635",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Azure SQL Managed Instance",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: New vector data type and functions in Azure SQL",
-          "description": "Azure SQL now supports vector data types for efficient storage, querying of embeddings, and semantic search, making it an ideal database for AI. Now you can integrate advanced AI capabilities into your applications, resulting in smarter and more responsiv",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2025-06-20T16:30:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496631"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496631",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Front Door",
-            "Features",
-            "Services",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Azure Front Door now supports managed certificate for wildcard domains",
-          "description": "Azure Front Door standard and premium\nprofiles now support managed certificate for wildcard domains. Previously, you can only bring your own certificate for wildcard\ndomains on Azure Front Door.  This enables customers to secure multiple\nsubdomains with a",
-          "pubDate": "Fri, 20 Jun 2025 12:15:34 Z",
-          "a10:updated": "2025-06-20T12:15:34Z"
         }
       ]
     }
