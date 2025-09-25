@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 25 Sep 2025 12:00:02 Z",
+      "lastBuildDate": "Thu, 25 Sep 2025 17:00:08 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503687"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503687",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure NetApp Files",
+            "Features",
+            "Pricing & Offerings",
+            "SDK and Tools"
+          ],
+          "title": "[Launched] Generally Available: Azure NetApp Files Flexible service level",
+          "description": "Flexible service level allows you to independently configure storage capacity and throughput, optimizing costs and performance by right-sizing based on your needs. This new service level avoids overprovisioning by supporting a customizable throughput whic",
+          "pubDate": "Thu, 25 Sep 2025 17:00:08 Z",
+          "a10:updated": "2025-09-25T17:00:08Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3643,24 +3662,6 @@
           "description": "Azure Managed Prometheus sends metrics into Azure Monitor Workspace. Customers can now view and monitor issues with ingestion of Prometheus metrics as part of the platform metrics for the Azure Monitor Workspace. Ingestion errors are issues that occurred",
           "pubDate": "Thu, 26 Jun 2025 15:30:44 Z",
           "a10:updated": "2025-06-26T16:45:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496981"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496981",
-          "category": [
-            "In preview",
-            "Management and governance",
-            "Migration",
-            "Microsoft Cost Management",
-            "Management"
-          ],
-          "title": "[In preview] Public Preview: Microsoft Cost Management adds support for FOCUS 1.2",
-          "description": "Microsoft Cost Management now\nsupports exporting cost and usage data in the FinOps Open Cost and Usage\nSpecification (FOCUS) 1.2 schema. This update introduces key enhancements that\nhelp FinOps teams streamline reporting, unify billing data across clouds,",
-          "pubDate": "Tue, 24 Jun 2025 18:15:30 Z",
-          "a10:updated": "2025-06-24T18:15:30Z"
         }
       ]
     }
