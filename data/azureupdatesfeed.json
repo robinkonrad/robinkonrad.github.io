@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 24 Sep 2025 17:00:24 Z",
+      "lastBuildDate": "Thu, 25 Sep 2025 12:00:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "497368"
+          },
+          "link": "https://azure.microsoft.com/updates?id=497368",
+          "category": [
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Retirements"
+          ],
+          "title": "Retirement: The Insights blade in AKS is now called Monitor",
+          "description": "The Insights blade in AKS has been renamed to Monitor and relocated\nfrom the Monitoring section to the top level of the table of contents for\nincreased visibility. You’ll continue to have access to the same monitoring\ndata and features—there are no change",
+          "pubDate": "Thu, 25 Sep 2025 12:00:02 Z",
+          "a10:updated": "2025-09-25T12:00:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3644,24 +3661,6 @@
           "description": "Microsoft Cost Management now\nsupports exporting cost and usage data in the FinOps Open Cost and Usage\nSpecification (FOCUS) 1.2 schema. This update introduces key enhancements that\nhelp FinOps teams streamline reporting, unify billing data across clouds,",
           "pubDate": "Tue, 24 Jun 2025 18:15:30 Z",
           "a10:updated": "2025-06-24T18:15:30Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "493047"
-          },
-          "link": "https://azure.microsoft.com/updates?id=493047",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Azure Advisor",
-            "Management",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Advisor VM Right-Sizing Update – Expanded SKU support and series coverage",
-          "description": "Azure\nAdvisor has improved its VM right-sizing recommendations by extending coverage\nfor newer VM series. This broader SKU coverage across the D, E, and F VM\nfamilies enables a more comprehensive evaluation of CPU performance, providing\nyour teams with re",
-          "pubDate": "Mon, 23 Jun 2025 17:30:54 Z",
-          "a10:updated": "2025-06-23T17:30:54Z"
         }
       ]
     }
