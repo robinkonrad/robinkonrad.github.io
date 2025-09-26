@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 25 Sep 2025 17:00:08 Z",
+      "lastBuildDate": "Fri, 26 Sep 2025 11:45:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500016"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500016",
+          "category": [
+            "Compute",
+            "Mobile",
+            "Web",
+            "App Service",
+            "Retirements",
+            "Features"
+          ],
+          "title": "Retirement: Azure App Service on Azure Arc enabled Kubernetes",
+          "description": "Beginning on September 30th 2025, Azure App Service on Azure Arc enabled Kubernetes will be retired, and customers will no longer be able to install the extension.To continue to host your application workloads, we request you migrate to other solutions su",
+          "pubDate": "Fri, 26 Sep 2025 11:45:02 Z",
+          "a10:updated": "2025-09-26T11:45:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3641,27 +3660,6 @@
           "description": "Azure\nVirtual Network Manager IP address management feature, a feature designed to\nenhance your network management, is generally available. In\ncomplex network environments, managing IP addresses effectively is essential.\nThis feature centralizes IP planni",
           "pubDate": "Thu, 26 Jun 2025 17:00:16 Z",
           "a10:updated": "2025-06-26T17:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497085"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497085",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "DevOps",
-            "Management and governance",
-            "Azure Kubernetes Service (AKS)",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Monitor ingestion issues with Azure Monitor Workspace",
-          "description": "Azure Managed Prometheus sends metrics into Azure Monitor Workspace. Customers can now view and monitor issues with ingestion of Prometheus metrics as part of the platform metrics for the Azure Monitor Workspace. Ingestion errors are issues that occurred",
-          "pubDate": "Thu, 26 Jun 2025 15:30:44 Z",
-          "a10:updated": "2025-06-26T16:45:37Z"
         }
       ]
     }
