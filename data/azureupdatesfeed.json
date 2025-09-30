@@ -6,9 +6,30 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 30 Sep 2025 17:30:02 Z",
+      "lastBuildDate": "Tue, 30 Sep 2025 19:30:35 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "506886"
+          },
+          "link": "https://azure.microsoft.com/updates?id=506886",
+          "category": [
+            "In preview",
+            "Compute",
+            "Azure VM Image Builder",
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Gallery",
+            "Features",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
+          "description": "The Soft Delete feature in Azure Compute Gallery lets you recover accidentally deleted images within a 7-day retention period. This grace period gives users time to restore any images that were mistakenly deleted. Learn more.",
+          "pubDate": "Tue, 30 Sep 2025 19:30:35 Z",
+          "a10:updated": "2025-09-30T19:30:35Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3619,25 +3640,6 @@
           "description": "Dependency\nAgent and VM\nInsights Map will be retired on June 30, 2028 and no\nlonger be supported.   With\nthis retirement, all functionality associated with the VM\nInsights Map and the Dependency Agent will be completely\nretired.  After this\ndate, customer",
           "pubDate": "Wed, 02 Jul 2025 04:15:12 Z",
           "a10:updated": "2025-07-02T04:15:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497428"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497428",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Firewall",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: FQDN Filtering in DNAT rules in Azure Firewall",
-          "description": "Azure Firewall supports the use\nof Fully Qualified Domain Names (FQDNs) in DNAT (Destination Network\nAddress Translation) rules, allowing inbound traffic to be routed to backend\nresources using domain names instead of static IP addresses.   This feature i",
-          "pubDate": "Mon, 30 Jun 2025 17:45:57 Z",
-          "a10:updated": "2025-07-01T21:00:19Z"
         }
       ]
     }
