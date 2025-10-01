@@ -6,9 +6,63 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 01 Oct 2025 16:00:52 Z",
+      "lastBuildDate": "Wed, 01 Oct 2025 17:30:57 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503646"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503646",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Analytics",
+            "Azure SQL Database",
+            "Microsoft Fabric",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: MSSQL extension integration with Microsoft Fabric",
+          "description": "The MSSQL extension for Visual Studio Code (VS Code) now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity option in the Connection Dialog, you can sign in using Microsoft Entra ID, browse your Fabric",
+          "pubDate": "Wed, 01 Oct 2025 17:30:57 Z",
+          "a10:updated": "2025-10-01T17:30:57Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501692"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501692",
+          "category": [
+            "AI + machine learning",
+            "Internet of Things",
+            "Azure Machine Learning",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Machine Learning - Data labeling Deprecation",
+          "description": "On September 30, 2026, Azure Machine data labeling will be retired. Please transition to 3rd party data labeling providers by 30 September 2026.  From today to September 30, 2026, you can continue to use data labelling without disruption. On September 30,",
+          "pubDate": "Wed, 01 Oct 2025 17:30:57 Z",
+          "a10:updated": "2025-10-01T17:30:57Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500268"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500268",
+          "category": [
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Network Policy Manager (NPM) for Linux nodes on AKS to Be Retired by September 30, 2028",
+          "description": "On September 30, 2028, we’ll end support for Azure Network Policy Manager (NPM) on Linux nodes in AKS. To avoid disruptions, migrate AKS clusters running Linux nodes from NPM to Cilium Network Policy by that date.      Transitioning to Cilium Network Poli",
+          "pubDate": "Wed, 01 Oct 2025 17:15:18 Z",
+          "a10:updated": "2025-10-01T17:15:18Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3587,60 +3641,6 @@
           "description": "We are excited to announce that Azure Cosmos DB for MongoDB (vCore) clusters now support secondary users, enabling more flexible and granular access control for your database. Previously, each cluster could have only one user with full privileges, limitin",
           "pubDate": "Thu, 21 Nov 2024 17:30:38 Z",
           "a10:updated": "2025-07-02T18:00:55Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "467663"
-          },
-          "link": "https://azure.microsoft.com/updates?id=467663",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: PostgreSQL 17 with in-place upgrade on Azure Database for PostgreSQL flexible server",
-          "description": "You can now use PostgreSQL 17 on Azure Database for PostgreSQL flexible server. With this release, you gain access to the latest PostgreSQL features along with the ability to perform seamless in-place upgrades from previous PostgreSQL versions—all without",
-          "pubDate": "Thu, 07 Nov 2024 18:30:03 Z",
-          "a10:updated": "2025-07-02T18:00:55Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497253"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497253",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure SQL updates for early-July 2025",
-          "description": "In early-July 2025, the following updates and enhancements were made to Azure SQL: Convert Azure SQL database to Hyperscale while keeping existing active geo-replication or failover group configurations. Learn more. Try the mssql-python driver with new pl",
-          "pubDate": "Wed, 02 Jul 2025 17:45:14 Z",
-          "a10:updated": "2025-07-02T17:45:14Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497258"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497258",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure SQL updates for early-July 2025",
-          "description": "In early-July 2025, the following updates and enhancements were made to Azure SQL:  Enhanced server audit for Azure SQL Database boosts performance, availability, and reliability. Learn more.  Server audit action groups are now available to achieve compli",
-          "pubDate": "Wed, 02 Jul 2025 17:15:42 Z",
-          "a10:updated": "2025-07-02T17:15:42Z"
         }
       ]
     }
