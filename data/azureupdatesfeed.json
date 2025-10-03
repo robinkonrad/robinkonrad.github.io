@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 03 Oct 2025 16:15:04 Z",
+      "lastBuildDate": "Fri, 03 Oct 2025 16:45:25 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503258"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503258",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: CLI command for migration from Availability Sets and basic load balancer on AKS",
+          "description": "Availability Sets and the basic load\nbalancer are being deprecated on September 30 2025. AKS now supports, a simple\nAzure CLI command that will automatically migrate your AKS cluster from\nAvailability Sets to the new Virtual Machines node pool and upgrade",
+          "pubDate": "Fri, 03 Oct 2025 16:45:25 Z",
+          "a10:updated": "2025-10-03T16:45:25Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3615,26 +3633,6 @@
           ],
           "title": "[Launched] Generally Available: Enable Trusted launch on existing Virtual machine Uniform scale set",
           "description": "Announcing general availability of support to enable Trusted launch on existing Virtual machine Uniform scale sets by upgrading the scale\nset resource to Gen2-Trusted launch. This will help improve the foundational security of existing\nAzure Virtual machi",
-          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
-          "a10:updated": "2025-07-10T14:45:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497388"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497388",
-          "category": [
-            "In preview",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Virtual Machines",
-            "Security",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Trusted launch default for new Gen2 VMs & Scale sets",
-          "description": "Announcing public preview for key security enhancement in Azure: Trusted Launch as default (TLaD) for new deployments of Gen2 Virtual Machines\n(VMs), Virtual Machine Scale Sets (Scale set) and Azure Compute Gallery (ACG)\nresources. This will help enhance",
           "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
           "a10:updated": "2025-07-10T14:45:50Z"
         }
