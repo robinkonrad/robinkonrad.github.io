@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 02 Oct 2025 16:36:44 Z",
+      "lastBuildDate": "Fri, 03 Oct 2025 14:15:21 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "496964"
+          },
+          "link": "https://azure.microsoft.com/updates?id=496964",
+          "category": [
+            "Storage",
+            "Storage Accounts",
+            "Retirements"
+          ],
+          "title": "Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts",
+          "description": "As part of our ongoing efforts to streamline the Azure Storage portfolio and deliver enhanced performance, scalability, and cost efficiency, we are announcing the retirement of all General purpose v1 (GPv1) storage accounts. This includes legacy blob stor",
+          "pubDate": "Fri, 03 Oct 2025 14:15:21 Z",
+          "a10:updated": "2025-10-03T14:15:21Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3624,24 +3640,6 @@
           "description": "PostgreSQL\nminor versions 17.5, 16.9, 15.13, 14.18, and 13.21 are now supported by\nAzure Database for PostgreSQL flexible server.    These\nminor version upgrades are automatically performed as part of the monthly\nplanned maintenance in Azure Database for",
           "pubDate": "Wed, 02 Jul 2025 19:30:06 Z",
           "a10:updated": "2025-07-02T19:30:06Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497535"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497535",
-          "category": [
-            "Launched",
-            "Networking",
-            "Azure DNS",
-            "Features",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Azure DNS security policy",
-          "description": "DNS security policy is now\ngenerally available. This release brings visibility of DNS traffic at the VNET\nlevel with the flexibility to send logs to storage account, log analytics\nworkspace, or event hubs. It also includes DNS filtering based on lists of",
-          "pubDate": "Wed, 02 Jul 2025 18:00:55 Z",
-          "a10:updated": "2025-07-02T18:00:55Z"
         }
       ]
     }
