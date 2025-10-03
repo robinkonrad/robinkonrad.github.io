@@ -6,9 +6,77 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 03 Oct 2025 14:15:21 Z",
+      "lastBuildDate": "Fri, 03 Oct 2025 16:15:04 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501340"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501340",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure NetApp Files",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Cross-tenant customer-managed keys for Azure NetApp Files volume encryption",
+          "description": "Cross-tenant Customer-Managed Keys (CMK) for Azure NetApp Files volume encryption is now generally available, empowering customers to manage their own encryption keys across different Azure tenancies. This capability enhances control and flexibility in mu",
+          "pubDate": "Fri, 03 Oct 2025 16:15:04 Z",
+          "a10:updated": "2025-10-03T16:15:04Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500848"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500848",
+          "category": [
+            "Compute",
+            "Web",
+            "Static Web Apps",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Static Web Apps database connection feature",
+          "description": "Due to changes in underlying infrastructure, the database connections feature of Static Web Apps this feature (currently in public preview), will be deprecated effective November 30, 2025. \nTo avoid issues in deployments using this feature you can refacto",
+          "pubDate": "Fri, 03 Oct 2025 16:15:04 Z",
+          "a10:updated": "2025-10-03T16:15:04Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "508748"
+          },
+          "link": "https://azure.microsoft.com/updates?id=508748",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure NetApp Files",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview:  Azure NetApp Files Support for OpenLDAP, FreeIPA, and Red Hat Directory Server LDAP services",
+          "description": "Azure NetApp Files now supports integration with FreeIPA, OpenLDAP, and Red Hat Directory Server—available in public preview. This LDAP integration enables secure LDAP over TLS connectivity for NFSv3 and NFSv4.1 volumes, allowing enterprises to use these",
+          "pubDate": "Fri, 03 Oct 2025 16:01:01 Z",
+          "a10:updated": "2025-10-03T16:01:01Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "499923"
+          },
+          "link": "https://azure.microsoft.com/updates?id=499923",
+          "category": [
+            "Networking",
+            "Security",
+            "VPN Gateway",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure VPN Gateway support for SSTP Protocol will be retired on March 31, 2027",
+          "description": "Due to its limited\nscalability and suboptimal performance, support for SSTP will be phased out. We\nstrongly recommend transitioning to IKEv2 or OpenVPN, which offer\nsignificantly enhanced capabilities—including support for up to 10,000\nconnections and 10",
+          "pubDate": "Fri, 03 Oct 2025 16:01:01 Z",
+          "a10:updated": "2025-10-03T16:01:01Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3569,77 +3637,6 @@
           "description": "Announcing public preview for key security enhancement in Azure: Trusted Launch as default (TLaD) for new deployments of Gen2 Virtual Machines\n(VMs), Virtual Machine Scale Sets (Scale set) and Azure Compute Gallery (ACG)\nresources. This will help enhance",
           "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
           "a10:updated": "2025-07-10T14:45:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "493954"
-          },
-          "link": "https://azure.microsoft.com/updates?id=493954",
-          "category": [
-            "In preview",
-            "Features",
-            "Management",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Azure Virtual Network Manager high-scale private endpoints in connected groups",
-          "description": "Azure Virtual Network Manager high-scale private endpoints\nin connected groups is now in public preview, delivering enhanced scalability\nfor complex Azure network environments. As organizations grow, the need to support large numbers of\nprivate endpoints",
-          "pubDate": "Tue, 13 May 2025 21:15:04 Z",
-          "a10:updated": "2025-07-10T00:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497160"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497160",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Firewall",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Customer controlled maintenance for Azure Firewall",
-          "description": "Azure\nFirewall enables users to set a maintenance window with a minimum duration of 5\nhours, recurring daily, to best accommodate their requirements and minimize\nunexpected downtime. Firewalls with an associated maintenance configuration\nwill not undergo",
-          "pubDate": "Wed, 09 Jul 2025 16:15:40 Z",
-          "a10:updated": "2025-07-09T16:15:40Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497461"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497461",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure Blob Storage",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Azure Storage Mover adds free, direct AWS S3-to-Azure Blob migration",
-          "description": "Azure Storage Mover—a free, fully managed service—\nnow supports data transfers from Amazon Web Services (AWS) S3 to Azure Blob\nStorage, ideal for multi-cloud architectures or full migrations to Azure. The\nnew Cloud-to-Cloud migration capability enables si",
-          "pubDate": "Mon, 07 Jul 2025 17:30:52 Z",
-          "a10:updated": "2025-07-07T17:30:52Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497248"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497248",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL flexible server",
-          "description": "PostgreSQL\nminor versions 17.5, 16.9, 15.13, 14.18, and 13.21 are now supported by\nAzure Database for PostgreSQL flexible server.    These\nminor version upgrades are automatically performed as part of the monthly\nplanned maintenance in Azure Database for",
-          "pubDate": "Wed, 02 Jul 2025 19:30:06 Z",
-          "a10:updated": "2025-07-02T19:30:06Z"
         }
       ]
     }
