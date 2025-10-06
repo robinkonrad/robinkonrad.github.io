@@ -6,9 +6,39 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 03 Oct 2025 18:15:20 Z",
+      "lastBuildDate": "Mon, 06 Oct 2025 20:45:03 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503636"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503636",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server",
+          "description": "PostgreSQL minor versions 17.6, 16.10, 15.14, 14.19, 13.22, and 18 Beta 3 are now supported by Azure Database for PostgreSQL – Flexible Server.      These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azu",
+          "pubDate": "Mon, 06 Oct 2025 20:45:03 Z",
+          "a10:updated": "2025-10-06T20:45:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "azure-unmanaged-disks-will-be-retired-on-30-september-2025"
+          },
+          "link": "https://azure.microsoft.com/updates?id=azure-unmanaged-disks-will-be-retired-on-30-september-2025",
+          "category": "Retirements",
+          "title": "Azure unmanaged disks will be retired on 31 March 2026 (formerly 30 September 2025)",
+          "description": "In 2017, we launched Azure Managed Disks. Since then, we've been enhancing our capabilities. We will begin deprecating unmanaged disks on September 30, 2022, because Azure Managed Disks now have full capabilities of unmanaged disks and other advancements.",
+          "pubDate": "Fri, 23 Sep 2022 23:00:56 Z",
+          "a10:updated": "2025-10-06T20:45:03Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3594,43 +3624,6 @@
           ],
           "title": "[Launched] Generally Available: Azure Automation supports PowerShell 7.4 & Python 3.10 runbooks and Runtime environment",
           "description": "Azure Automation is pleased to announce a series\nof releases:\n General\n     Availability of in-support PowerShell 7.4 and Python 3.10 runbooks\n Runtime\n     Environment GA, enabling customers to\n     seamlessly upgrade their outdated scripts to supported",
-          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
-          "a10:updated": "2025-07-10T14:45:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497962"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497962",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Files",
-            "Features",
-            "Management"
-          ],
-          "title": "[Launched] Generally Available:  Granular Role-Based Access Control (RBAC) for Azure File Sync",
-          "description": "Azure File Sync now\noffers two dedicated,\nbuilt-in RBAC roles, designed to enhance security and operational efficiency\nfor businesses managing file synchronization across on-premises and cloud\nenvironments. These new roles, Azure File Sync Administrator a",
-          "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
-          "a10:updated": "2025-07-10T14:45:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497402"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497402",
-          "category": [
-            "In development",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Features",
-            "Security",
-            "Services"
-          ],
-          "title": "[In development] Private Preview: Enable Trusted launch on existing Virtual machine Flex scale set",
-          "description": "Announcing preview support to enable Trusted launch on existing Virtual machine Flex scale set by upgrading the scale set\nresource to Gen2-Trusted launch. This will help improve the foundational security of existing\nAzure Virtual machine Flex scale set re",
           "pubDate": "Thu, 10 Jul 2025 14:45:50 Z",
           "a10:updated": "2025-07-10T14:45:50Z"
         }
