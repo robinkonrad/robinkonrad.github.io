@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 07 Oct 2025 16:30:20 Z",
+      "lastBuildDate": "Tue, 07 Oct 2025 21:30:21 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500273"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500273",
+          "category": [
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026",
+          "description": "On September 30, 2026, we’ll end support for Azure Network Policy Manager (NPM) on Windows nodes in AKS. To ensure your setup continues to receive support, security updates, and deployment compatibility, please explore alternative options, such as using N",
+          "pubDate": "Tue, 07 Oct 2025 21:30:21 Z",
+          "a10:updated": "2025-10-07T21:30:21Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3608,23 +3625,6 @@
           "description": "Announcing the general availability of Mirroring for Azure Databricks Unity Catalog in Microsoft Fabric—a secure, high-performance integration that\n provides seamless access to Azure Databricks tables from Fabric.  With Fabric and Azure Databricks, we are",
           "pubDate": "Tue, 15 Jul 2025 18:15:05 Z",
           "a10:updated": "2025-07-15T18:15:05Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497993"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497993",
-          "category": [
-            "Launched",
-            "Features",
-            "Services",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Microsoft Azure Cloud HSM",
-          "description": "Azure Cloud HSM is a FIPS 140-3 Level 3,\nhighly available, single-tenant Hardware Security Module (HSM) service built to\nmeet the most stringent security and compliance requirements. It provides\ncustomers with full administrative control over their HSMs,",
-          "pubDate": "Tue, 15 Jul 2025 16:15:41 Z",
-          "a10:updated": "2025-07-15T16:15:41Z"
         }
       ]
     }
