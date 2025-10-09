@@ -6,9 +6,46 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 09 Oct 2025 14:15:20 Z",
+      "lastBuildDate": "Thu, 09 Oct 2025 17:30:09 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503627"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503627",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Custom port support for Azure Database for MySQL – Flexible Server",
+          "description": "You can now configure a custom port (25001–26000) during server creation for both public and private access-enabled servers—enabling you to integrate more easily with existing applications and improve alignment with security postures. By default, MySQL se",
+          "pubDate": "Thu, 09 Oct 2025 17:30:09 Z",
+          "a10:updated": "2025-10-09T17:30:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512875"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512875",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Azure Firewall Manager",
+            "Security",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Firewall updates - Customer provided public IP address support in secured hubs",
+          "description": "Azure Firewall in Virtual WAN\nsecured hubs now supports the use of customer-provided public IP addresses.\nThis capability enables organizations to bring their own public IP addresses\nwhen deploying Azure Firewall in a secured Virtual WAN hub, providing gr",
+          "pubDate": "Thu, 09 Oct 2025 17:00:43 Z",
+          "a10:updated": "2025-10-09T17:00:43Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3577,44 +3614,6 @@
           ],
           "title": "[Launched] Generally Available: Durable Functions PowerShell SDK as a standalone module",
           "description": "The\nDurable Functions PowerShell SDK is now available as a standalone module in the\nPowerShell Gallery: AzureFunctions.PowerShell.Durable.SDK. This SDK is\nnow generally\navailable and is the recommended approach for authoring Durable\nFunctions apps with Po",
-          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
-          "a10:updated": "2025-07-17T11:45:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498144"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498144",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Orchestration versioning for Durable Functions and durable task SDKs",
-          "description": "When\nbuilding Durable\nFunctions apps, it’s inevitable that orchestrations need to be changed. You\nmight need to modify or remove activity functions, or maybe even completely\nrewrite the orchestration logic. Without any functionality built around\nversionin",
-          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
-          "a10:updated": "2025-07-17T11:45:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498139"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498139",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Functions Kafka trigger support in Consumption plan",
-          "description": "Kafka Extension for Azure Functions in Consumption\nplan is now in public preview. This extension enables you to detect and respond  to real time messages streaming into Kafka\nTopics, or write to a Kafka Topic through the output binding.  You can now focus",
           "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
           "a10:updated": "2025-07-17T11:45:08Z"
         }
