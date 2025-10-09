@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 09 Oct 2025 12:45:35 Z",
+      "lastBuildDate": "Thu, 09 Oct 2025 14:15:20 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512201"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512201",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Azure Arc",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Firmware analysis enabled by Azure Arc",
+          "description": "Firmware analysis enabled by Azure Arc is now generally available. Firmware analysis brings deep visibility into the software that powers IoT/OT and network devices—systems that often operate as “black boxes” with limited insight into their security postu",
+          "pubDate": "Thu, 09 Oct 2025 14:15:20 Z",
+          "a10:updated": "2025-10-09T14:15:20Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3598,23 +3615,6 @@
           ],
           "title": "[In preview] Public Preview: Azure Functions Kafka trigger support in Consumption plan",
           "description": "Kafka Extension for Azure Functions in Consumption\nplan is now in public preview. This extension enables you to detect and respond  to real time messages streaming into Kafka\nTopics, or write to a Kafka Topic through the output binding.  You can now focus",
-          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
-          "a10:updated": "2025-07-17T11:45:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498054"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498054",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure Blob Storage",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: AZNFS (3.0) for BlobNFS with FUSE for superior performance",
-          "description": "For customers requiring NFS 3.0\nprotocol support or POSIX compliance, Azure Blob Storage natively supports\nNFSv3 (aka BlobNFS). BlobNFS\nis accessed via the Linux NFS client with our AZNFS mount\nhelper package, which streamlines mounting and reliably conne",
           "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
           "a10:updated": "2025-07-17T11:45:08Z"
         }
