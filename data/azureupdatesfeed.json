@@ -6,9 +6,29 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 13 Oct 2025 16:00:05 Z",
+      "lastBuildDate": "Mon, 13 Oct 2025 16:30:27 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "513074"
+          },
+          "link": "https://azure.microsoft.com/updates?id=513074",
+          "category": [
+            "In preview",
+            "Integration",
+            "Internet of Things",
+            "Mobile",
+            "Web",
+            "API Management",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Environmental sustainability features in Azure API Management",
+          "description": "Azure API Management now supports environmental sustainability features in public preview. These capabilities help organizations minimize the carbon footprint of their API infrastructure by making API traffic and policy behavior carbon-aware.With these ne",
+          "pubDate": "Mon, 13 Oct 2025 16:30:27 Z",
+          "a10:updated": "2025-10-13T16:30:27Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3592,24 +3612,6 @@
           ],
           "title": "[In preview] Public Preview: CLI command for migration from Availability Sets and Basic load balancer on AKS",
           "description": "Availability\nSets and the Basic load balancer are being deprecated on September 30 2025. AKS now supports, in public preview, a simple Azure CLI\ncommand that will automatically migrate your AKS cluster from Availability Sets\nto the new Virtual Machines no",
-          "pubDate": "Thu, 17 Jul 2025 18:00:35 Z",
-          "a10:updated": "2025-07-17T18:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498258"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498258",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Virtual Machines node pools support in AKS",
-          "description": "Virtual Machines node pools support in AKS is now generally\navailable. With Virtual Machines node pools, Azure Kubernetes Services directly\nmanages the provisioning and bootstrapping of every single node.    When deploying a workload onto Azure Kubernetes",
           "pubDate": "Thu, 17 Jul 2025 18:00:35 Z",
           "a10:updated": "2025-07-17T18:00:35Z"
         }
