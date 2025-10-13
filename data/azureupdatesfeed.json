@@ -6,24 +6,9 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 13 Oct 2025 18:00:28 Z",
+      "lastBuildDate": "Mon, 13 Oct 2025 16:30:27 Z",
       "ttl": "1440",
       "item": [
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503268"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503268",
-          "category": [
-            "Launched",
-            "Open Source"
-          ],
-          "title": "[Launched] Generally Available: Open-Source - Containerization Assist MCP Server",
-          "description": "Containerization Assist solves the\nchallenge of manual, error-prone containerization by automating Dockerfile creation\nand Kubernetes manifest generation. Unlike basic AI coding tools, it is a full\ncontainerization platform built on AKS Draft’s proven rea",
-          "pubDate": "Mon, 13 Oct 2025 18:00:28 Z",
-          "a10:updated": "2025-10-13T18:00:28Z"
-        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3611,6 +3596,24 @@
           "description": "The Geo-Replication feature for Azure Event Hubs in the premium and dedicated tier is now generally available. The Event Hubs Geo-Replication feature is one of the options to insulate Azure Event Hubs client applications against outages and disasters, pro",
           "pubDate": "Thu, 17 Jul 2025 20:15:19 Z",
           "a10:updated": "2025-07-17T20:15:19Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "498263"
+          },
+          "link": "https://azure.microsoft.com/updates?id=498263",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: CLI command for migration from Availability Sets and Basic load balancer on AKS",
+          "description": "Availability\nSets and the Basic load balancer are being deprecated on September 30 2025. AKS now supports, in public preview, a simple Azure CLI\ncommand that will automatically migrate your AKS cluster from Availability Sets\nto the new Virtual Machines no",
+          "pubDate": "Thu, 17 Jul 2025 18:00:35 Z",
+          "a10:updated": "2025-07-17T18:00:35Z"
         }
       ]
     }
