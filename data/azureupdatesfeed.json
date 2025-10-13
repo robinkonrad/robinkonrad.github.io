@@ -6,9 +6,44 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 09 Oct 2025 17:30:09 Z",
+      "lastBuildDate": "Mon, 13 Oct 2025 15:30:40 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503325"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503325",
+          "category": [
+            "In preview",
+            "Security",
+            "Features",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Azure Integrated HSM",
+          "description": "We\nare announcing the release of Azure\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\naccelerator designed to enhance the security and performance of cryptographic\noperations in virtual machines. For customers who heavily rely on\ncrypto",
+          "pubDate": "Mon, 13 Oct 2025 15:30:40 Z",
+          "a10:updated": "2025-10-13T15:30:40Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "508413"
+          },
+          "link": "https://azure.microsoft.com/updates?id=508413",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET",
+          "description": "You can now access code samples for Entra ID token refresh using Python and .NET in Azure Database for PostgreSQL. These samples are designed to help you securely manage authentication tokens when connecting to your PostgreSQL database with Entra ID, ensu",
+          "pubDate": "Mon, 13 Oct 2025 15:00:46 Z",
+          "a10:updated": "2025-10-13T15:00:46Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3579,43 +3614,6 @@
           "description": "Extension Manager, the core component responsible for\nmanaging the lifecycle of AKS\ncluster extensions, has been moved from customer worker nodes to the AKS\ncontrol plane. This transition enhances security, simplifies networking, and\nreduces operational o",
           "pubDate": "Thu, 17 Jul 2025 18:00:35 Z",
           "a10:updated": "2025-07-17T18:00:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498247"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498247",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Node auto-provisioning support in AKS",
-          "description": "Managing dynamic workloads in Kubernetes\ncan often lead to overprovisioning, idle resources, and additional operational\noverhead from maintaining pre-configured node pools. To address this, Node\nAuto-Provisioning (NAP) support in AKS is now generally avai",
-          "pubDate": "Thu, 17 Jul 2025 17:00:17 Z",
-          "a10:updated": "2025-07-17T17:00:17Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498149"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498149",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Durable Functions PowerShell SDK as a standalone module",
-          "description": "The\nDurable Functions PowerShell SDK is now available as a standalone module in the\nPowerShell Gallery: AzureFunctions.PowerShell.Durable.SDK. This SDK is\nnow generally\navailable and is the recommended approach for authoring Durable\nFunctions apps with Po",
-          "pubDate": "Thu, 17 Jul 2025 11:45:08 Z",
-          "a10:updated": "2025-07-17T11:45:08Z"
         }
       ]
     }
