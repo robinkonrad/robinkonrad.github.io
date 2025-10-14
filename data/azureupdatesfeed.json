@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 13 Oct 2025 16:30:27 Z",
+      "lastBuildDate": "Tue, 14 Oct 2025 10:30:39 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "513518"
+          },
+          "link": "https://azure.microsoft.com/updates?id=513518",
+          "category": [
+            "Launched",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Site Recovery support for Ultra Disks",
+          "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
+          "pubDate": "Tue, 14 Oct 2025 10:30:39 Z",
+          "a10:updated": "2025-10-14T10:30:39Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3596,24 +3614,6 @@
           "description": "The Geo-Replication feature for Azure Event Hubs in the premium and dedicated tier is now generally available. The Event Hubs Geo-Replication feature is one of the options to insulate Azure Event Hubs client applications against outages and disasters, pro",
           "pubDate": "Thu, 17 Jul 2025 20:15:19 Z",
           "a10:updated": "2025-07-17T20:15:19Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498263"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498263",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: CLI command for migration from Availability Sets and Basic load balancer on AKS",
-          "description": "Availability\nSets and the Basic load balancer are being deprecated on September 30 2025. AKS now supports, in public preview, a simple Azure CLI\ncommand that will automatically migrate your AKS cluster from Availability Sets\nto the new Virtual Machines no",
-          "pubDate": "Thu, 17 Jul 2025 18:00:35 Z",
-          "a10:updated": "2025-07-17T18:00:35Z"
         }
       ]
     }
