@@ -6,9 +6,29 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 15 Oct 2025 17:00:38 Z",
+      "lastBuildDate": "Wed, 15 Oct 2025 18:00:12 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512379"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512379",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features",
+            "Regions & Datacenters"
+          ],
+          "title": "[Launched] Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption",
+          "description": "You can now enable\navailability zones for your Azure Functions Flex Consumption apps during both\ncreation and post-deployment. When enabled, instances are automatically\ndistributed across zones, enhancing reliability and fault tolerance. New Region\nSuppor",
+          "pubDate": "Wed, 15 Oct 2025 18:00:12 Z",
+          "a10:updated": "2025-10-15T18:00:12Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3585,24 +3605,6 @@
           "title": "[Launched] Public Preview: Modernizing Azure Resource Manager Throttling for Sovereign Clouds",
           "description": "Following our 2024 announcement to modernize Azure Resource Manager throttling, we are announcing that Azure Resource Manager will be bringing parity between public and sovereign clouds by the end of 2026. This update will ensure that the same throttling",
           "pubDate": "Fri, 25 Jul 2025 10:30:26 Z",
-          "a10:updated": "2025-07-25T10:30:26Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498462"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498462",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Search Job Enhancements in Log Analytics",
-          "description": "A Search Job is an asynchronous query that runs on any data in your Log Analytics workspace, including data from the long-term retention period, making the results available for further queries in a new Analytics table within your workspace.  We’ve recent",
-          "pubDate": "Wed, 23 Jul 2025 06:30:03 Z",
           "a10:updated": "2025-07-25T10:30:26Z"
         }
       ]
