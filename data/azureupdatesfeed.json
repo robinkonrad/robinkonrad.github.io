@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 15 Oct 2025 18:00:12 Z",
+      "lastBuildDate": "Wed, 15 Oct 2025 22:15:50 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "500775"
+          },
+          "link": "https://azure.microsoft.com/updates?id=500775",
+          "category": [
+            "Launched",
+            "Databases",
+            "Migration",
+            "Azure Database Migration Service",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service",
+          "description": "Announcing the general availability (GA) of automation support for Azure Database Migration Service (DMS) through PowerShell, custom cmdlets, and the Python SDK. Using Azure PowerShell Az.DataMigration or Azure CLI az datamigration, you can migrate databa",
+          "pubDate": "Wed, 15 Oct 2025 22:15:50 Z",
+          "a10:updated": "2025-10-15T22:15:50Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3588,24 +3606,6 @@
           "description": "All newly deployed\nExpressRoute Virtual Network Gateways will use auto-assigned Public IPs.  This change simplifies\ngateway configuration by removing the requirement to explicitly assign a Public\nIP address. This model streamlines deployment and improves",
           "pubDate": "Mon, 14 Jul 2025 17:00:47 Z",
           "a10:updated": "2025-07-25T10:45:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498893"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498893",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Azure Resource Manager",
-            "Features",
-            "Management"
-          ],
-          "title": "[Launched] Public Preview: Modernizing Azure Resource Manager Throttling for Sovereign Clouds",
-          "description": "Following our 2024 announcement to modernize Azure Resource Manager throttling, we are announcing that Azure Resource Manager will be bringing parity between public and sovereign clouds by the end of 2026. This update will ensure that the same throttling",
-          "pubDate": "Fri, 25 Jul 2025 10:30:26 Z",
-          "a10:updated": "2025-07-25T10:30:26Z"
         }
       ]
     }
