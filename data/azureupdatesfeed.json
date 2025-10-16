@@ -6,9 +6,65 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 15 Oct 2025 22:15:50 Z",
+      "lastBuildDate": "Thu, 16 Oct 2025 16:15:32 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "515452"
+          },
+          "link": "https://azure.microsoft.com/updates?id=515452",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Prescaling in Azure Firewall",
+          "description": "Azure Firewall now supports prescaling, a feature that enables admins to provision and reserve capacity units in advance to handle expected traffic loads – such as seasonal peaks or planned business events. This helps to ensure consistent throughput, fast",
+          "pubDate": "Thu, 16 Oct 2025 16:15:32 Z",
+          "a10:updated": "2025-10-16T16:15:32Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "502044"
+          },
+          "link": "https://azure.microsoft.com/updates?id=502044",
+          "category": [
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features",
+            "Retirements"
+          ],
+          "title": "Retirement: Confidential Containers preview on AKS is Closing Down",
+          "description": "The public preview of Confidential Containers on AKS will be shutting down.This feature has been available in preview since 2023, and as part of our commitment to delivering secure and reliable services, we are streamlining our confidential computing offe",
+          "pubDate": "Thu, 16 Oct 2025 16:15:32 Z",
+          "a10:updated": "2025-10-16T16:15:32Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "516002"
+          },
+          "link": "https://azure.microsoft.com/updates?id=516002",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Observed capacity metric in Azure Firewall",
+          "description": "Azure Firewall\nnow includes the observed capacity metric — a new observability signal designed\nto help administrators understand how their firewalls are scaling in practice.\nObserved capacity tracks the number of capacity units actively utilized over\ntime",
+          "pubDate": "Thu, 16 Oct 2025 16:00:55 Z",
+          "a10:updated": "2025-10-16T16:00:55Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3542,70 +3598,6 @@
           "description": "You can now use Microsoft Entra ID authentication to connect to Azure Database for PostgreSQL from Power BI Desktop. This update simplifies access management, enhances security, and helps you support your organization’s broader Entra-based authentication",
           "pubDate": "Wed, 30 Jul 2025 16:00:44 Z",
           "a10:updated": "2025-07-30T16:00:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499396"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499396",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Networking",
-            "Security",
-            "Azure ExpressRoute",
-            "Virtual WAN",
-            "VPN Gateway",
-            "Features",
-            "Management",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Customer-controlled maintenance",
-          "description": "Customers can use configurable\nmaintenance windows to schedule gateway maintenance for Point-to-Site VPN\nGateway (P2S VPN) in Virtual WAN Service. With P2S VPN in Virtual WAN\nservice now being generally available, customers can now configure maintenance w",
-          "pubDate": "Tue, 29 Jul 2025 17:00:48 Z",
-          "a10:updated": "2025-07-29T17:00:48Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498522"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498522",
-          "category": [
-            "Networking",
-            "Security",
-            "Media",
-            "Web",
-            "Azure Front Door",
-            "Content Delivery Network",
-            "Features",
-            "Retirements",
-            "Services"
-          ],
-          "title": "Retirement: Azure Front Door (classic) and Azure CDN from Microsoft Classic SKU ending CNAME based domain validation and new domain/profile creations by August 15, 2025",
-          "description": "Starting August\n15, 2025, Azure Front Door (classic) and Azure CDN from Microsoft Classic SKUs\nwill no longer support new domain onboarding or profile creation. Additionally, DigiCert is deprecating\nCNAME-based Domain Control Validation (DCV) on the same",
-          "pubDate": "Tue, 15 Jul 2025 15:45:46 Z",
-          "a10:updated": "2025-07-29T14:30:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498361"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498361",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Networking",
-            "Azure ExpressRoute",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: ExpressRoute - Auto-assigned Public IP for ExpressRoute Gateways",
-          "description": "All newly deployed\nExpressRoute Virtual Network Gateways will use auto-assigned Public IPs.  This change simplifies\ngateway configuration by removing the requirement to explicitly assign a Public\nIP address. This model streamlines deployment and improves",
-          "pubDate": "Mon, 14 Jul 2025 17:00:47 Z",
-          "a10:updated": "2025-07-25T10:45:12Z"
         }
       ]
     }
