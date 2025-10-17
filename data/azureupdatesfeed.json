@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 16 Oct 2025 16:15:32 Z",
+      "lastBuildDate": "Fri, 17 Oct 2025 15:00:03 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512374"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512374",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Functions support for Python 3.13",
+          "description": "You can now\ndevelop functions using Python 3.13 locally and deploy them to Azure Functions.   Starting with\nPython 3.13, Functions introduces runtime version control, a new opt-in\nfeature that lets you target specific versions of the Functions Python runt",
+          "pubDate": "Fri, 17 Oct 2025 15:00:03 Z",
+          "a10:updated": "2025-10-17T15:00:03Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3580,24 +3599,6 @@
           "description": "Azure Database for MySQL now enables you to configure the backup interval for the automatic backups taken by the system to improve restore speed. This new feature optimizes the process by introducing more frequent snapshots, thereby reducing the number of",
           "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
           "a10:updated": "2025-07-30T17:00:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498175"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498175",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for PostgreSQL Entra authentication for Power BI Desktop",
-          "description": "You can now use Microsoft Entra ID authentication to connect to Azure Database for PostgreSQL from Power BI Desktop. This update simplifies access management, enhances security, and helps you support your organization’s broader Entra-based authentication",
-          "pubDate": "Wed, 30 Jul 2025 16:00:44 Z",
-          "a10:updated": "2025-07-30T16:00:44Z"
         }
       ]
     }
