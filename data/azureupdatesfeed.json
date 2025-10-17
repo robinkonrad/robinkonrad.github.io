@@ -6,9 +6,47 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 17 Oct 2025 15:00:03 Z",
+      "lastBuildDate": "Fri, 17 Oct 2025 15:15:35 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "513752"
+          },
+          "link": "https://azure.microsoft.com/updates?id=513752",
+          "category": [
+            "In development",
+            "Hybrid + multicloud",
+            "Compute",
+            "Azure Modular Datacenter",
+            "Cloud Services",
+            "Regions & Datacenters"
+          ],
+          "title": "[In development] Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3)",
+          "description": "Microsoft is expanding its digital infrastructure footprint further with a new datacenter region, Southeast Asia 3, planned in Malaysia. This datacenter region will feature Microsoft's most comprehensive and strategic cloud services, designed to support a",
+          "pubDate": "Fri, 17 Oct 2025 15:15:35 Z",
+          "a10:updated": "2025-10-17T15:15:35Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512396"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512396",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: New OS SKU enum to migrate to Azure Linux 3.0",
+          "description": "You can now\nmigrate to Azure Linux 3.0 with a new OS SKU enum, ‘AzureLinux3’, in Kubernetes\nversion 1.28-1.36.   This new\noption provides increased control over OS upgrades by decoupling them from Kubernetes\nupgrades. Customers using LTS version 1.28-1.31",
+          "pubDate": "Fri, 17 Oct 2025 15:15:35 Z",
+          "a10:updated": "2025-10-17T15:15:35Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3563,40 +3601,6 @@
           ],
           "title": "[In preview] Public Preview: Azure Database for PostgreSQL cascading read replica",
           "description": "You can now use cascading read replicas in Azure Database for PostgreSQL flexible server, available in Public Preview. With this new capability, you can create additional read replicas from an existing one. A read replica can act as the source for new rep",
-          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
-          "a10:updated": "2025-07-30T17:00:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498933"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498933",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Database for MySQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Accelerated logs now available for General Purpose tier in Azure Database for MySQL - Flexible Server",
-          "description": "Now available for the General Purpose tier, accelerated logs in Azure Database for MySQL - Flexible Server give you the performance benefits previously available only in the Business Critical tier.   Accelerated logs boost performance for a broader range",
-          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
-          "a10:updated": "2025-07-30T17:00:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498928"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498928",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Database for MySQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Configure backup interval for Azure Database for MySQL automated backups",
-          "description": "Azure Database for MySQL now enables you to configure the backup interval for the automatic backups taken by the system to improve restore speed. This new feature optimizes the process by introducing more frequent snapshots, thereby reducing the number of",
           "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
           "a10:updated": "2025-07-30T17:00:36Z"
         }
