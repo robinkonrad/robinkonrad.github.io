@@ -6,9 +6,41 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 20 Oct 2025 17:15:20 Z",
+      "lastBuildDate": "Mon, 20 Oct 2025 21:00:03 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "514653"
+          },
+          "link": "https://azure.microsoft.com/updates?id=514653",
+          "category": [
+            "Launched",
+            "Services",
+            "Features",
+            "Microsoft Ignite"
+          ],
+          "title": "[Launched] Generally Available: Cloud-to-Cloud migration made simple with Azure Storage Mover",
+          "description": "Azure Storage Mover’s new AWS S3 to Azure Blob migration feature\nis now generally available, empowering organizations to move data directly from\nAWS to Azure securely, reliably, and at scale. With this\nrelease, customers can eliminate manual pipelines and",
+          "pubDate": "Mon, 20 Oct 2025 21:00:03 Z",
+          "a10:updated": "2025-10-20T21:00:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "503268"
+          },
+          "link": "https://azure.microsoft.com/updates?id=503268",
+          "category": [
+            "Launched",
+            "Open Source"
+          ],
+          "title": "[Launched] Open Source: Containerization Assist MCP Server",
+          "description": "Containerization Assist solves the\nchallenge of manual, error-prone containerization by automating Dockerfile creation\nand Kubernetes manifest generation. Unlike basic AI coding tools, it is a full\ncontainerization platform built on AKS Draft’s proven rea",
+          "pubDate": "Mon, 20 Oct 2025 21:00:03 Z",
+          "a10:updated": "2025-10-20T21:00:03Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3576,38 +3608,6 @@
           "description": "Tags in Azure confidential ledger\nserve as secondary keys that enhance data organization and retrieval within\ncollections. By allowing users to assign up to five tags per transaction, these\ntags provide an additional layer of categorization, making it eas",
           "pubDate": "Thu, 31 Jul 2025 17:00:19 Z",
           "a10:updated": "2025-07-31T17:00:19Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498759"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498759",
-          "category": [
-            "Launched",
-            "Storage",
-            "Storage Accounts",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Log or block shared access signature (SAS) tokens for Azure Storage based on expiration policy",
-          "description": "Azure Storage’s SAS expiration policy (validity interval) allows\nyou to set an upper limit for the period for validity of SAS tokens. Up until\nnow, administrators could set how long a SAS should be valid through the SAS\nexpiration policy, however, it was",
-          "pubDate": "Thu, 31 Jul 2025 17:00:19 Z",
-          "a10:updated": "2025-07-31T17:00:19Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498948"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498948",
-          "category": [
-            "In preview",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: New SQL Server database migration in Azure Arc",
-          "description": "You can now streamline the entire SQL Server migration journey—from assessment to provisioning to cutover—within a single Azure portal experience. The new Azure Arc migration experience powered by Azure Database Migration service gives you a centralized,",
-          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
-          "a10:updated": "2025-07-30T17:00:36Z"
         }
       ]
     }
