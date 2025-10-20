@@ -6,9 +6,50 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 17 Oct 2025 15:15:35 Z",
+      "lastBuildDate": "Mon, 20 Oct 2025 17:15:20 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "516897"
+          },
+          "link": "https://azure.microsoft.com/updates?id=516897",
+          "category": [
+            "In preview",
+            "Compute",
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Services",
+            "Pricing & Offerings",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Sharing Capacity Reservation Groups",
+          "description": "The ability to share Capacity Reservation\nGroups (CRGs) with subscriptions is now in Public Preview.  Previously, customers could deploy VMs in a Capacity\nReservation Group within the same subscription only. On-demand Capacity\nReservation Group (CRG) can",
+          "pubDate": "Mon, 20 Oct 2025 17:15:20 Z",
+          "a10:updated": "2025-10-20T17:15:20Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "517027"
+          },
+          "link": "https://azure.microsoft.com/updates?id=517027",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Features",
+            "Services",
+            "Security",
+            "Management"
+          ],
+          "title": "[Launched] Generally Available: Enhanced cloning and Public IP retention scripts for Azure Application Gateway migration",
+          "description": "Azure Application\nGateway introduces two new PowerShell scripts to simplify migration from V1\n(Standard or WAF) to V2 (Standard_V2 or WAF_V2) services.  As V1 SKUs’ is scheduled to retire by April 2026, we advise\nmigrating early and take advantage of Appl",
+          "pubDate": "Mon, 20 Oct 2025 17:00:28 Z",
+          "a10:updated": "2025-10-20T17:00:28Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3565,42 +3606,6 @@
           ],
           "title": "[In preview] Public Preview: New SQL Server database migration in Azure Arc",
           "description": "You can now streamline the entire SQL Server migration journey—from assessment to provisioning to cutover—within a single Azure portal experience. The new Azure Arc migration experience powered by Azure Database Migration service gives you a centralized,",
-          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
-          "a10:updated": "2025-07-30T17:00:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498943"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498943",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure SQL updates for late-July 2025",
-          "description": "In late-July, the following updates and enhancements were made to Azure SQL:  Use the UNISTR intrinsic function to define Unicode string literals using Unicode encoding values in a string. Use the ANSI SQL concatenation operator (||) to concatenate charac",
-          "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
-          "a10:updated": "2025-07-30T17:00:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498938"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498938",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Database for PostgreSQL cascading read replica",
-          "description": "You can now use cascading read replicas in Azure Database for PostgreSQL flexible server, available in Public Preview. With this new capability, you can create additional read replicas from an existing one. A read replica can act as the source for new rep",
           "pubDate": "Wed, 30 Jul 2025 17:00:36 Z",
           "a10:updated": "2025-07-30T17:00:36Z"
         }
