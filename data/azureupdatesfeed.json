@@ -6,9 +6,24 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 22 Oct 2025 16:30:07 Z",
+      "lastBuildDate": "Wed, 22 Oct 2025 17:15:22 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "516990"
+          },
+          "link": "https://azure.microsoft.com/updates?id=516990",
+          "category": [
+            "In preview",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: VM vCore customization features disabling simultaneous multi-threading (SMT/HT) and constrained cores",
+          "description": "Azure announces the public preview of VM Customization\nfeatures, a new capability that gives customers greater control over virtual CPU\nconfigurations to optimize performance and licensing costs. This feature\nintroduces two powerful options: Disable Simul",
+          "pubDate": "Wed, 22 Oct 2025 17:15:22 Z",
+          "a10:updated": "2025-10-22T17:15:22Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3586,23 +3601,6 @@
           "description": "Microsoft is announcing the planned\nretirement of Azure Dedicated HSM, which will be succeeded by the Azure Cloud HSM service. Microsoft will provide full support for\nall existing Azure Dedicated HSM customers until July 31, 2028. During this\nsupport wind",
           "pubDate": "Fri, 01 Aug 2025 11:15:51 Z",
           "a10:updated": "2025-08-01T11:15:51Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "495106"
-          },
-          "link": "https://azure.microsoft.com/updates?id=495106",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Disk Storage",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Live Resize for Premium SSD v2 and Ultra NVMe Disks",
-          "description": "Announcing the General\nAvailability of Live Resize for Premium\nSSD v2 (Pv2) and Ultra NVMe Disks. This feature allows you to\ndynamically expand the storage capacity of your disks without any\ndisruption to your applications. To optimize costs, you can\nstar",
-          "pubDate": "Thu, 29 May 2025 17:00:19 Z",
-          "a10:updated": "2025-07-31T17:15:08Z"
         }
       ]
     }
