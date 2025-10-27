@@ -6,9 +6,44 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 27 Oct 2025 16:45:57 Z",
+      "lastBuildDate": "Mon, 27 Oct 2025 18:45:01 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "514658"
+          },
+          "link": "https://azure.microsoft.com/updates?id=514658",
+          "category": [
+            "Launched",
+            "Services",
+            "Features",
+            "Microsoft Ignite"
+          ],
+          "title": "[Launched] Generally Available: Azure Storage Mover support for NFS source to Azure File Share (NFS 4.1) target",
+          "description": "Azure Storage Mover can now migrate your NFS File shares to Azure File Shares (NFS 4.1). Storage Mover is a fully managed migration service that enables you to migrate on-premises files and folders to Azure Storage while minimizing downtime for your workl",
+          "pubDate": "Mon, 27 Oct 2025 18:45:01 Z",
+          "a10:updated": "2025-10-27T18:45:01Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "513254"
+          },
+          "link": "https://azure.microsoft.com/updates?id=513254",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: PgBouncer 1.23.1 support in Azure Database for PostgreSQL – Flexible Server",
+          "description": "PgBouncer 1.23.1 is now generally available in Azure Database for PostgreSQL – Flexible Server. As a built-in connection pooling feature, PgBouncer helps you scale to thousands of connections with low overhead by efficiently managing idle and short-lived",
+          "pubDate": "Mon, 27 Oct 2025 18:30:05 Z",
+          "a10:updated": "2025-10-27T18:30:05Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3556,46 +3591,6 @@
           "description": "Announcing the general\navailability of Domain Name System Security Extensions (DNSSEC) for\nAzure DNS Public Zones in US Gov and China regions. With this\nrelease you can now enable DNSSEC on all existing and new public DNS Zones\nhosted on Azure DNS. This s",
           "pubDate": "Mon, 04 Aug 2025 18:00:01 Z",
           "a10:updated": "2025-08-04T18:00:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499799"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499799",
-          "category": [
-            "Launched",
-            "Storage",
-            "Analytics",
-            "Azure Blob Storage",
-            "Azure Data Lake Storage",
-            "Azure Storage Actions",
-            "Storage Accounts",
-            "Features",
-            "Services",
-            "Regions & Datacenters"
-          ],
-          "title": "[Launched] Generally Available: Azure Storage Actions is now in 22 more regions",
-          "description": "Azure Storage Actions is now available in several more Azure\nregions, enabling expanded global access and greater data residency options.\nThis includes regions where the service was previously in preview. Additional regions where the service is now genera",
-          "pubDate": "Mon, 04 Aug 2025 16:00:40 Z",
-          "a10:updated": "2025-08-04T16:30:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498452"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498452",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Files",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure File Sync Arc Extension",
-          "description": "Azure File Sync Arc Extension is now generally available,\nenabling seamless deployment and management of Azure File Sync on Arc-enabled\nWindows Servers. This extension brings hybrid file sync capabilities to a\nbroader range of on-premises and multi-cloud",
-          "pubDate": "Fri, 01 Aug 2025 18:45:04 Z",
-          "a10:updated": "2025-08-01T18:45:04Z"
         }
       ]
     }
