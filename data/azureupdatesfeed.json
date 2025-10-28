@@ -6,9 +6,29 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 28 Oct 2025 14:15:20 Z",
+      "lastBuildDate": "Tue, 28 Oct 2025 16:45:07 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512751"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512751",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Web Application Firewall",
+            "Security",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure WAF CAPTCHA Challenge for Azure Front Door",
+          "description": "Announcing the General Availability of CAPTCHA for Azure Web Application Firewall (WAF) with Azure Front Door.Modern web applications face evolving threats, including bots, web scrapers, and brute-force attacks, many of which can bypass traditional securi",
+          "pubDate": "Tue, 28 Oct 2025 16:45:07 Z",
+          "a10:updated": "2025-10-28T16:45:07Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3568,27 +3588,6 @@
           "description": "Network security perimeter allows\norganizations to define a logical network isolation boundary for PaaS resources\n(for example, Azure Storage account and SQL Database server) that are deployed\noutside your organization’s virtual networks. It restricts pub",
           "pubDate": "Tue, 05 Aug 2025 17:00:21 Z",
           "a10:updated": "2025-08-05T17:00:21Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499782"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499782",
-          "category": [
-            "In preview",
-            "Networking",
-            "Azure Virtual Network Manager",
-            "Features",
-            "Management",
-            "Services",
-            "Regions & Datacenters",
-            "Pricing & Offerings"
-          ],
-          "title": "[In preview] Public Preview: Azure Virtual Network Manager mesh now supports 5,000 virtual networks",
-          "description": "Azure Virtual Network Manager mesh connectivity is\nnow in public preview, enabling you to group up to 5,000 virtual networks in\nsupported regions. A mesh topology creates bi‑directional connectivity between every virtual\nnetwork in a mesh connectivity con",
-          "pubDate": "Tue, 05 Aug 2025 16:00:50 Z",
-          "a10:updated": "2025-08-05T16:00:50Z"
         }
       ]
     }
