@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 28 Oct 2025 16:45:07 Z",
+      "lastBuildDate": "Tue, 28 Oct 2025 18:00:34 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501169"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501169",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Signed request on Azure Front Door",
+          "description": "We’re announcing the public preview of Azure Front Door signed request, a powerful new feature designed to enhance access control for content delivery. This capability allows organizations to restrict access to their content—such as media streams, file do",
+          "pubDate": "Tue, 28 Oct 2025 18:00:34 Z",
+          "a10:updated": "2025-10-28T18:00:34Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3568,26 +3586,6 @@
           "description": "The HTTP proxy feature adds HTTP proxy support to AKS\nclusters, exposing a straightforward interface that you can use to secure\nAKS-required network traffic in proxy-dependent environments. With this\nfeature, both AKS nodes and pods are configured to use",
           "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
           "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496002"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496002",
-          "category": [
-            "Launched",
-            "Networking",
-            "Azure Private Link",
-            "Compliance",
-            "Management",
-            "Security",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Network security perimeter",
-          "description": "Network security perimeter allows\norganizations to define a logical network isolation boundary for PaaS resources\n(for example, Azure Storage account and SQL Database server) that are deployed\noutside your organization’s virtual networks. It restricts pub",
-          "pubDate": "Tue, 05 Aug 2025 17:00:21 Z",
-          "a10:updated": "2025-08-05T17:00:21Z"
         }
       ]
     }
