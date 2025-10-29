@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 28 Oct 2025 18:00:34 Z",
+      "lastBuildDate": "Wed, 29 Oct 2025 21:00:13 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501663"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501663",
+          "category": [
+            "AI + machine learning",
+            "Internet of Things",
+            "Azure Machine Learning",
+            "Retirements",
+            "Features"
+          ],
+          "title": "Retirement: Remove dependency on these preview features before March 31, 2026",
+          "description": "On March 31, 2026, the following preview features will be retired:  Group multiple steps as a whole to better organize complex pipelines  Compare pipeline jobs to debug failures or unexpected issues  Import data into a data labelling project  Use v2 data",
+          "pubDate": "Wed, 29 Oct 2025 21:00:13 Z",
+          "a10:updated": "2025-10-29T21:00:13Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3566,24 +3584,6 @@
           ],
           "title": "[In preview] Public Preview: Confidential VMs for Azure Linux",
           "description": "Confidential Virtual Machines (CVM) offer strong security\nand confidentiality for tenants. CVM for Azure Linux in AKS is now in public\npreview and enables node pools with CVM to target the migration of highly\nsensitive container workloads to AKS without a",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499279"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499279",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Disable HTTP proxy",
-          "description": "The HTTP proxy feature adds HTTP proxy support to AKS\nclusters, exposing a straightforward interface that you can use to secure\nAKS-required network traffic in proxy-dependent environments. With this\nfeature, both AKS nodes and pods are configured to use",
           "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
           "a10:updated": "2025-08-06T03:30:15Z"
         }
