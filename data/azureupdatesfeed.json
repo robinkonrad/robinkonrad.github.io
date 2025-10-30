@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 30 Oct 2025 16:30:43 Z",
+      "lastBuildDate": "Thu, 30 Oct 2025 18:00:45 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520822"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520822",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption",
+          "description": "Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  Instead of forcefully restarting all instances during code or configuration updates, the platform graceful",
+          "pubDate": "Thu, 30 Oct 2025 18:00:45 Z",
+          "a10:updated": "2025-10-30T18:00:45Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3562,24 +3580,6 @@
           ],
           "title": "[In preview] Public Preview: Web Application Firewall on Application Gateway for Containers",
           "description": "Application Gateway for Containers now\nsupports Web Application Firewall (WAF) policy in public preview. Using WAF’s\nDefault Ruleset, Azure Kubernetes Service (AKS) administrators and developers\ncan protect their workloads against malicious attacks and ex",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499299"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499299",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Deployment safeguards in AKS",
-          "description": "Misconfigurations during\nKubernetes development can lead to bugs and deployment issues. Azure Kubernetes\nService (AKS) now offers generally available deployment safeguards to help\nprevent these problems by enforcing Kubernetes best practices.   These safe",
           "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
           "a10:updated": "2025-08-06T03:30:15Z"
         }
