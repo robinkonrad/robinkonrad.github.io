@@ -6,9 +6,59 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 29 Oct 2025 21:00:13 Z",
+      "lastBuildDate": "Thu, 30 Oct 2025 16:30:43 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522813"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522813",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure Private Link"
+          ],
+          "title": "[Launched] Generally Available: High Scale Private Endpoints",
+          "description": "You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limits are restricted to 1,000 private endpoints per Virtual Network. Any attempts to create additional endpo",
+          "pubDate": "Thu, 30 Oct 2025 16:30:43 Z",
+          "a10:updated": "2025-10-30T16:30:43Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520805"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520805",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Disk Storage"
+          ],
+          "title": "[In preview] Public Preview: Instant Access Snapshots for Azure Premium SSD v2 and Ultra Disks Storage",
+          "description": "Announcing the Public Preview of Instant Access Snapshots for Premium\nSSD v2 (Pv2) and Ultra Disks. This new capability enables you to\nrestore new disks immediately after creating snapshots of Pv2 and Ultra disks. Restore\ndisks deliver high performance in",
+          "pubDate": "Thu, 30 Oct 2025 16:00:54 Z",
+          "a10:updated": "2025-10-30T16:00:54Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "502957"
+          },
+          "link": "https://azure.microsoft.com/updates?id=502957",
+          "category": [
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Retirements"
+          ],
+          "title": "Retirement: Support for Node.js 20 ends on April 30, 2026 – upgrade your apps to Node.js 22",
+          "description": "In alignment with the end of community\nsupport, on April 30, 2026, support for Node.js 20 in Azure Functions will end.\nYour apps that are hosted on Functions will continue to run, but security\nupdates and performance optimizations will no longer be availa",
+          "pubDate": "Thu, 30 Oct 2025 16:00:54 Z",
+          "a10:updated": "2025-10-30T16:00:54Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3530,60 +3580,6 @@
           ],
           "title": "[Launched] Generally Available: Deployment safeguards in AKS",
           "description": "Misconfigurations during\nKubernetes development can lead to bugs and deployment issues. Azure Kubernetes\nService (AKS) now offers generally available deployment safeguards to help\nprevent these problems by enforcing Kubernetes best practices.   These safe",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499294"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499294",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Encryption in Transit for Azure Files NFS shares in AKS",
-          "description": "Azure Kubernetes Service (AKS) now supports Encryption in Transit\n(EiT) for Azure Files NFS v4.1 volumes via the Azure File CSI driver.  This builds on the recent General Availability (GA) of EiT for Azure\nFiles NFS shares in June, which introduced TLS 1.",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499289"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499289",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Confidential VMs for Ubuntu 24.04 in AKS",
-          "description": "Confidential Virtual Machines (CVM) offer strong security\nand confidentiality for tenants. Now generally available, CVM for Ubuntu 24.04\nin AKS enables node pools with CVM to target the migration of highly sensitive\ncontainer workloads to AKS without any",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499284"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499284",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Confidential VMs for Azure Linux",
-          "description": "Confidential Virtual Machines (CVM) offer strong security\nand confidentiality for tenants. CVM for Azure Linux in AKS is now in public\npreview and enables node pools with CVM to target the migration of highly\nsensitive container workloads to AKS without a",
           "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
           "a10:updated": "2025-08-06T03:30:15Z"
         }
