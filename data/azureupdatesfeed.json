@@ -6,9 +6,43 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 05 Nov 2025 12:00:29 Z",
+      "lastBuildDate": "Wed, 05 Nov 2025 16:30:07 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525429"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525429",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Networking",
+            "Azure ExpressRoute"
+          ],
+          "title": "[Launched] Generally Available: ExpressRoute resiliency validation",
+          "description": "Resiliency validation is a capability designed to assess\nthe resiliency of network connectivity for ExpressRoute-enabled workloads. This\nfeature allows you to perform site failovers for your Virtual Network Gateway,\nhelping to evaluate network resiliency",
+          "pubDate": "Wed, 05 Nov 2025 16:30:07 Z",
+          "a10:updated": "2025-11-05T16:30:07Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520686"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520686",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Open Source: Announcing the DocumentDB Kubernetes Operator",
+          "description": "Now you can use the open-source DocumentDB Kubernetes Operator to run DocumentDB on Kubernetes. DocumentDB is a Mongo-DB–compatible, open-source document database built on PostgreSQL. The operator extends Kubernetes with custom resource definitions (CRDs)",
+          "pubDate": "Wed, 05 Nov 2025 16:00:17 Z",
+          "a10:updated": "2025-11-05T16:00:17Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3543,42 +3577,6 @@
           ],
           "title": "[In preview] Public Preview : Azure Bastion integration with AKS",
           "description": "Azure\nBastion integration for AKS is now available in public preview. This\nintegration enables continuous secure access to private AKS clusters and also\napplies to AKS public clusters with API server authorized IP ranges. This integration introduces a\nsea",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499326"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499326",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: AKS Model Context Protocol (MCP) server",
-          "description": "Model Context Protocol (MCP) server for AKS is\nnow available as an open source release. This foundational component enables AI\nagents to interact with AKS clusters and simplifies cluster management.  AKS MCP server\noffers a standardized interface to orche",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499313"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499313",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Control Plane Improvements in AKS",
-          "description": "We are making improvements to API server\nresiliency per Kubernetes\nEnhancement Proposal (KEP) 5116 – Streaming Encoding for LIST Responses.  This enhancement\nsignificantly reduces API server memory usage by approximately 10x during large\nLIST calls to the",
           "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
           "a10:updated": "2025-08-06T03:30:15Z"
         }
