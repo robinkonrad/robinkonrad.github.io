@@ -6,9 +6,93 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 05 Nov 2025 16:30:07 Z",
+      "lastBuildDate": "Wed, 05 Nov 2025 17:00:26 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525442"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525442",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Networking",
+            "Azure ExpressRoute"
+          ],
+          "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
+          "description": "Connection Monitor integration streamlines the setup of end-to-end\nmonitoring for ExpressRoute workloads. With this capability, you can now enable\nConnection Monitor directly while creating or updating your ExpressRoute\nconnections. This removes the need",
+          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
+          "a10:updated": "2025-11-05T17:00:26Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525424"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525424",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Networking",
+            "Azure ExpressRoute"
+          ],
+          "title": "[Launched] Generally Available: ExpressRoute resiliency insights",
+          "description": "Resiliency\ninsights is an assessment capability designed to measure your network's\nreliability for ExpressRoute workloads. At the core of this capability is the resiliency\nindex, a percentage score calculated based on factors such as route\nresilience, zon",
+          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
+          "a10:updated": "2025-11-05T17:00:26Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520705"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520705",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for MySQL – Flexible Server now supports high availability with dedicated Azure Standard Load Balancer",
+          "description": "Announcing the general availability of a dedicated Azure Standard Load Balancer in Azure Database for MySQL - Flexible Server for high availability-enabled servers. With this feature, a high availability configuration gets the benefit of a dedicated Stand",
+          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
+          "a10:updated": "2025-11-05T17:00:26Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520696"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520696",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Query Advisor in Azure Cosmos DB",
+          "description": "Azure Cosmos DB for NoSQL includes Query Advisor, now generally available in the .NET SDK. Query Advisor helps you write faster, more efficient queries by analyzing your query structure and providing clear, actionable recommendations. It identifies ways t",
+          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
+          "a10:updated": "2025-11-05T17:00:26Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520691"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520691",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: ORDER BY ST_DISTANCE in Azure Cosmos DB for NoSQL Geospatial Queries",
+          "description": "Azure Cosmos DB for NoSQL now supports ORDER BY ST_DISTANCE for geospatial queries, now generally available. With this feature, you can sort query results by their distance from a given point or GeoJSON object directly within Azure Cosmos DB. You no longe",
+          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
+          "a10:updated": "2025-11-05T17:00:26Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3487,96 +3571,6 @@
           ],
           "title": "[In preview] Public Preview: Azure Virtual Network Verifier for AKS (VNV) for AKS",
           "description": "Azure Virtual Network Verifier for AKS,\nnow in public preview and available through the Azure Portal, is a tool which allows\nyou to detect and troubleshoot outbound connectivity issues in your AKS\ncluster.   You can use the Virtual Network Verifier featur",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499356"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499356",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Multiple Standard Load Balancers support in AKS",
-          "description": "AKS now supports multiple Standard Load\nBalancers (SLBs) per cluster in public preview. This feature allows customers\nto scale beyond the 300 inbound rule limit per node NIC and isolate traffic by\nassigning different SLBs to different agent pools and work",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499351"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499351",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Static egress gateway public prefix support in AKS",
-          "description": "Static egress gateway public prefix\nsupport in AKS is now generally available. This feature allows AKS customers to\ncreate a dedicated gateway node pool that routes outbound traffic from\nannotated pods through a static public IP prefix (/28 to /31). It en",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499346"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499346",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Increase ingestion quota for Azure Managed Prometheus with an ARM API",
-          "description": "Azure Monitor workspaces have\ndefault limits and quotas for ingestion. Customers can now request for an\nincrease in quota for ingestion of Managed Prometheus metrics into Azure\nMonitor Workspace using an Azure Resource Manager API. The API supports reques",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499341"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499341",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: LocalDNS for AKS",
-          "description": "LocalDNS\nfor Azure Kubernetes Service (AKS) is now available in public preview.With LocalDNS,\na DNS proxy is deployed on each node, which enables faster, more reliable DNS\nresolution. It removes DNS bottlenecks in large clusters, lowers query latency\nvia",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499335"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499335",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview : Azure Bastion integration with AKS",
-          "description": "Azure\nBastion integration for AKS is now available in public preview. This\nintegration enables continuous secure access to private AKS clusters and also\napplies to AKS public clusters with API server authorized IP ranges. This integration introduces a\nsea",
           "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
           "a10:updated": "2025-08-06T03:30:15Z"
         }
