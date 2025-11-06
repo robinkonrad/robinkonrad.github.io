@@ -6,9 +6,97 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 05 Nov 2025 22:30:04 Z",
+      "lastBuildDate": "Thu, 06 Nov 2025 16:00:54 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520201"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520201",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Blob Storage"
+          ],
+          "title": "[Launched] Generally Available: Object Replication Metrics",
+          "description": "Blob storage Object Replication metrics for pending operations and pending bytes are now generally available in all regions. These replication metrics will empower you to optimize the performance, troubleshoot replication delays, and maintain high availab",
+          "pubDate": "Thu, 06 Nov 2025 16:00:54 Z",
+          "a10:updated": "2025-11-06T16:00:54Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526881"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526881",
+          "category": [
+            "Launched",
+            "Compute",
+            "Mobile",
+            "Web",
+            "AI + machine learning",
+            "Containers",
+            "DevOps",
+            "Analytics",
+            "App Service",
+            "Azure AI Foundry",
+            "Azure Container Apps",
+            "GitHub Enterprise",
+            "Microsoft Fabric"
+          ],
+          "title": "[Launched] Generally Available: Azure MCP Server",
+          "description": "Give your agents the power of cloud and redefining how developers interact with Azure. Built on Model Context Protocol (MCP), it can create a secure, standards-based bridge between Azure services—like AKS, ACA, App Service, Cosmos DB, SQL, AI Foundry, and",
+          "pubDate": "Thu, 06 Nov 2025 15:45:17 Z",
+          "a10:updated": "2025-11-06T15:45:17Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520729"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520729",
+          "category": "In preview",
+          "title": "[In preview] Public Preview: GitHub Copilot in SQL Server Management Studio (SSMS)",
+          "description": "GitHub Copilot in SQL Server Management Studio (SSMS) is now available in public preview. GitHub Copilot in SSMS helps you write Transact-SQL (T-SQL) faster and with greater accuracy. Using database and connection context, it can also answer general SQL q",
+          "pubDate": "Thu, 06 Nov 2025 15:45:17 Z",
+          "a10:updated": "2025-11-06T15:45:17Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520715"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520715",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL updates for early November 2025",
+          "description": "In early November 2025, the following updates and enhancements were made to Azure SQL:  Azure SQL Hyperscale now supports multiple geo-secondary replicas, making it easier to design and deploy disaster recovery topology spanning multiple regions. Learn mo",
+          "pubDate": "Thu, 06 Nov 2025 15:45:17 Z",
+          "a10:updated": "2025-11-06T15:45:17Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520710"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520710",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[In preview] Public Preview: Azure Database for PostgreSQL read replicas with Premium SSD v2",
+          "description": "You can now configure read replicas (in-region and geo-replicas) with Premium SSD v2 storage tier in Azure Database for PostgreSQL flexible server. Read replicas enable you to scale out read-heavy workloads and improve performance by offloading read opera",
+          "pubDate": "Thu, 06 Nov 2025 15:45:17 Z",
+          "a10:updated": "2025-11-06T15:45:17Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3480,97 +3568,6 @@
           "description": "These new VM sizes offer up to 192 vCPUs and 1832 GiB of RAM, making them ideal for enterprise-scale applications such as in-memory analytics, large relational databases, and in-memory cache workloads. With Intel® Total Memory Encryption (Intel TME) and N",
           "pubDate": "Thu, 07 Aug 2025 16:00:43 Z",
           "a10:updated": "2025-08-07T16:00:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499945"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499945",
-          "category": [
-            "Launched",
-            "Migration",
-            "Storage",
-            "Azure Data Box",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Data Box Next Gen is now generally available in additional regions",
-          "description": "Azure Data Box Next Gen is now Generally Available in NEW regions including Australia, Japan, Singapore, Brazil, Hong Kong, UAE, Switzerland and Norway.With these new additions, we now have Both - Azure Data box 120TB and 525 TB generally available (GA) i",
-          "pubDate": "Wed, 06 Aug 2025 16:00:45 Z",
-          "a10:updated": "2025-08-06T16:00:45Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499143"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499143",
-          "category": [
-            "In preview",
-            "Storage",
-            "Storage Accounts",
-            "Features",
-            "Management",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Azure Storage Discovery",
-          "description": "Azure Storage Discovery provides enterprise-wide visibility into your Azure Storage data estate. Insights that weren’t available before are now at your fingertips. Deeply analyze used capacity and activity, optimize costs, enhance security, and drive oper",
-          "pubDate": "Wed, 06 Aug 2025 15:00:18 Z",
-          "a10:updated": "2025-08-06T15:00:18Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499377"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499377",
-          "category": [
-            "In development",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In development] Private Preview: Agentic experience for AKS in the Azure CLI",
-          "description": "The Azure Kubernetes Service (AKS)\nteam is introducing a new agentic AI-powered CLI experience through\nthe “az aks agent” command. This feature brings the\nintelligence of agentic reasoning directly into the Azure CLI, enabling\ndevelopers and operators to",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499371"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499371",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Managed Namespaces in AKS",
-          "description": "Managed namespaces for AKS allows users\nto get a list of namespaces they have access to across a subscription, resource\ngroup, and cluster, and then retrieve credentials that will give them the\nability to deploy to those namespaces. Users can configure ma",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499366"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499366",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: AKS Security Dashboard",
-          "description": "The AKS Security Dashboard provides a\ncentralized view of security posture and runtime threat protection\nfor your AKS cluster within the Azure Portal. It highlights software\nvulnerabilities, critical security issues, compliance gaps, and\nactive threats, h",
-          "pubDate": "Wed, 06 Aug 2025 03:30:15 Z",
-          "a10:updated": "2025-08-06T03:30:15Z"
         }
       ]
     }
