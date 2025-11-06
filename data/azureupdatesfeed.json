@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 06 Nov 2025 16:00:54 Z",
+      "lastBuildDate": "Thu, 06 Nov 2025 17:00:51 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526635"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526635",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Disk Storage"
+          ],
+          "title": "[Launched] Generally Available: Ultra Disk’s new flexible provisioning model",
+          "description": "Announcing the General Availability of\nUltra Disk’s new flexible provisioning model. This enhancement gives you\nthe freedom to configure capacity, IOPS, and throughput (MBPS) more independently—so\nyou can tailor performance to your workload needs and opti",
+          "pubDate": "Thu, 06 Nov 2025 17:00:51 Z",
+          "a10:updated": "2025-11-06T17:00:51Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -109,7 +125,7 @@
             "Azure Blob Storage"
           ],
           "title": "[Launched] Generally Available: Planned Failover for Azure Storage",
-          "description": "Planned\nFailover is a customer-managed failover that provides the ability to failover\nyour geo-redundant storage account while keeping geo-redundancy and data durability. You can seamlessly swap the\nprimary and secondary storage endpoints of your geo-redu",
+          "description": "Planned Failover is a customer-managed failover that\nprovides the ability to failover your geo-redundant storage account while\nkeeping geo-redundancy and data durability. You can seamlessly swap the\nprimary and secondary storage endpoints of your geo-redu",
           "pubDate": "Wed, 05 Nov 2025 22:30:04 Z",
           "a10:updated": "2025-11-05T22:30:04Z"
         },
@@ -3551,23 +3567,6 @@
           "description": "Application Gateway v2 is announcing general availability of Private Application Gateway, which is a collection of new capabilities to the Application Gateway v2 SKU to further enhance control over network exposure.The following capabilities are now gener",
           "pubDate": "Fri, 08 Aug 2025 17:00:36 Z",
           "a10:updated": "2025-08-08T17:00:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499918"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499918",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure 128 & 192 vCPU sizes for the Esv6 and Edsv6 series VMs",
-          "description": "These new VM sizes offer up to 192 vCPUs and 1832 GiB of RAM, making them ideal for enterprise-scale applications such as in-memory analytics, large relational databases, and in-memory cache workloads. With Intel® Total Memory Encryption (Intel TME) and N",
-          "pubDate": "Thu, 07 Aug 2025 16:00:43 Z",
-          "a10:updated": "2025-08-07T16:00:43Z"
         }
       ]
     }
