@@ -6,9 +6,30 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 07 Nov 2025 19:00:43 Z",
+      "lastBuildDate": "Mon, 10 Nov 2025 17:00:17 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525419"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525419",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Compute",
+            "Containers",
+            "Application Gateway",
+            "Azure Kubernetes Service (AKS)",
+            "Web Application Firewall"
+          ],
+          "title": "[Launched] Generally Available: Application Gateway for Containers with Web Application Firewall (WAF)",
+          "description": "Announcing Azure\nWeb\nApplication Firewall (WAF) support for Azure\nApplication\nGateway for Containers is now generally available. Application Gateway for Containers is the\nnext evolution of Application Gateway + Application Gateway Ingress Controller.\nWith",
+          "pubDate": "Mon, 10 Nov 2025 17:00:17 Z",
+          "a10:updated": "2025-11-10T17:00:17Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3542,24 +3563,6 @@
           "description": "Introducing Tenant-Level Service Health\nAlerts - a new preview capability in Azure Monitor that enables customers to receive\nproactive notifications about service health issues impacting their entire\ntenant, not just individual subscriptions. With this fe",
           "pubDate": "Mon, 11 Aug 2025 20:00:08 Z",
           "a10:updated": "2025-08-11T20:00:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500203"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500203",
-          "category": [
-            "In preview",
-            "Developer tools",
-            "DevOps",
-            "Azure Load Testing",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Introducing Azure App Testing: Scalable End-to-end App Validation",
-          "description": "Azure App Testing now enables developers and QA teams to run large-scale functional and performance tests to pinpoint issues in their applications, across frameworks like Playwright, JMeter, or Locust. It brings together two powerful testing capabilities—",
-          "pubDate": "Mon, 11 Aug 2025 17:00:31 Z",
-          "a10:updated": "2025-08-11T17:00:31Z"
         }
       ]
     }
