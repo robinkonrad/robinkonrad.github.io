@@ -6,9 +6,58 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 10 Nov 2025 17:00:17 Z",
+      "lastBuildDate": "Mon, 10 Nov 2025 19:30:03 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522072"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522072",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Blob Storage"
+          ],
+          "title": "[Launched] Generally Available: Object Replication Priority Replication for Azure Blob",
+          "description": "Object replication priority replication will\nallow users to obtain prioritized replication from the source to the\ndestination storage account of their replication policy. When you enable\npriority replication, you can benefit from the associated Service Le",
+          "pubDate": "Mon, 10 Nov 2025 19:30:03 Z",
+          "a10:updated": "2025-11-10T19:30:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522059"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522059",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Blob Storage"
+          ],
+          "title": "[Launched] Generally Available: Geo Priority Replication for Azure Blob",
+          "description": "Geo\npriority replication enhances the replication process for GRS and GZRS storage\naccounts by enabling accelerated data replication between the primary and\nsecondary regions. This feature is backed by a Service Level Agreement (SLA),\nensuring the Last Sy",
+          "pubDate": "Mon, 10 Nov 2025 19:30:03 Z",
+          "a10:updated": "2025-11-10T19:30:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "528969"
+          },
+          "link": "https://azure.microsoft.com/updates?id=528969",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall"
+          ],
+          "title": "[Launched] Generally Available: Troubleshoot Azure Firewall using packet capture",
+          "description": "Packet capture is meant to capture specific flows for customers which can be filtered based on protocol, flags and filters. Packet captures can be initiated via a portal experience or via code using PowerShell.Learn more:For more information on how to use",
+          "pubDate": "Mon, 10 Nov 2025 18:45:51 Z",
+          "a10:updated": "2025-11-10T18:45:51Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3509,60 +3558,6 @@
           "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the Malaysia West Azure region.   Learn more.",
           "pubDate": "Wed, 13 Aug 2025 16:00:27 Z",
           "a10:updated": "2025-08-13T16:00:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499670"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499670",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Cosmos DB for MongoDB (vCore) encryption with customer-managed key",
-          "description": "Data stored in your Azure Cosmos DB for MongoDB (vCore) cluster is automatically and seamlessly encrypted with keys managed by Microsoft. Now, in addition to this service-managed key encryption (SMK), you have the option to add another layer of security b",
-          "pubDate": "Wed, 13 Aug 2025 16:00:27 Z",
-          "a10:updated": "2025-08-13T16:00:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500198"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500198",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Automation",
-            "Management"
-          ],
-          "title": "[Launched] Generally Available: Deployment resumption - Azure Automation revised Service and Subscription limits",
-          "description": "After a brief hiatus, Azure Automation is resuming deployments of the revised Service and Subscription limits from August 11, 2025. This update will ensure fair distribution of cloud resources across all customers and further improve reliability and perfo",
-          "pubDate": "Wed, 13 Aug 2025 12:15:34 Z",
-          "a10:updated": "2025-08-13T12:15:34Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499776"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499776",
-          "category": [
-            "In preview",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Azure Service Health",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Announcing Tenant-Level Service Health Alerts in Azure Monitor",
-          "description": "Introducing Tenant-Level Service Health\nAlerts - a new preview capability in Azure Monitor that enables customers to receive\nproactive notifications about service health issues impacting their entire\ntenant, not just individual subscriptions. With this fe",
-          "pubDate": "Mon, 11 Aug 2025 20:00:08 Z",
-          "a10:updated": "2025-08-11T20:00:08Z"
         }
       ]
     }
