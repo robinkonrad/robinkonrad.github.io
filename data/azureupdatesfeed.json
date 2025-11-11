@@ -6,9 +6,115 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 10 Nov 2025 19:30:03 Z",
+      "lastBuildDate": "Tue, 11 Nov 2025 17:16:01 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523975"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523975",
+          "category": [
+            "Launched",
+            "Storage",
+            "Management and governance",
+            "Archive Storage",
+            "Azure Backup"
+          ],
+          "title": "[Launched] Generally Available: Vaulted Backup for Azure Data Lake Storage (ADLS)",
+          "description": "Azure Backup vaulted protection\nfor ADLS Gen2 delivers secure, off‑site backups to help organizations meet\nresilience and compliance goals. Vaulted backups maintain an independent copy\nof your data, isolated from the source account - providing protection",
+          "pubDate": "Tue, 11 Nov 2025 17:16:01 Z",
+          "a10:updated": "2025-11-11T17:16:01Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526720"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526720",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Firewall"
+          ],
+          "title": "[Launched] Generally Available: DNS flow trace logs for Azure Firewall",
+          "description": "Azure Firewall now\nsupports DNS flow trace logs — a new logging capability that gives you deep,\nend-to-end visibility into DNS traffic and name resolution paths. This\nenhancement provides richer telemetry to help you troubleshoot, validate, and\nsecure DNS",
+          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
+          "a10:updated": "2025-11-11T17:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523172"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523172",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Azure Linux OS Guard for AKS",
+          "description": "Cloud-native workloads face increasingly sophisticated\nthreats—from rootkits and container escapes to unauthorized code execution—that\ndemand stronger security guarantees. To address these challenges, Microsoft has\nintroduced Azure Linux with OS Guard, no",
+          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
+          "a10:updated": "2025-11-11T17:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523067"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523067",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Flatcar Container Linux for AKS",
+          "description": "Maintaining consistent and secure node configurations in\nKubernetes environments can be challenging due to issues like configuration\ndrift, manual changes, and complex upgrade paths. These challenges often lead\nto unpredictable behavior and increased oper",
+          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
+          "a10:updated": "2025-11-11T17:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523062"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523062",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Agentic CLI for AKS",
+          "description": "Diagnosing and resolving issues in Kubernetes clusters can\nbe complex and time-consuming, especially when navigating logs, telemetry, and\ndiagnostics manually. To simplify this experience, Azure Kubernetes Service is\nintroducing a new agentic AI-powered C",
+          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
+          "a10:updated": "2025-11-11T17:00:09Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "513802"
+          },
+          "link": "https://azure.microsoft.com/updates?id=513802",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Azure Front Door",
+            "Web Application Firewall",
+            "Security",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure WAF JavaScript challenge on Azure Front Door",
+          "description": "Announcing the general availability of JavaScript (JS) challenge for Azure Web Application Firewall (WAF) with Azure\nFront Door To strengthen bot mitigation strategies,\nAzure WAF now introduces JS challenge as a new security feature. The\nJS challenge prov",
+          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
+          "a10:updated": "2025-11-11T17:00:09Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3450,114 +3556,6 @@
           "description": "We continuously assess our services to uphold the high standards of protection and reliability for our customers.\nAfter a thorough evaluation, we have determined that due to increasing infrastructure and\noperational complexity, it is no longer feasible to",
           "pubDate": "Wed, 20 Aug 2025 16:30:32 Z",
           "a10:updated": "2025-08-20T16:30:32Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498749"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498749",
-          "category": [
-            "Hybrid + multicloud",
-            "Security",
-            "Microsoft Defender for Cloud",
-            "Retirements"
-          ],
-          "title": "Retirement: Microsoft Defender for Cloud Deprecation in Microsoft Azure Operated by 21Vianet Announcement",
-          "description": "We continuously assess our services to uphold the high standards of protection and reliability for our customers.\nAfter a thorough evaluation, we have determined that due to increasing infrastructure and operational\ncomplexity, it is no longer feasible to",
-          "pubDate": "Wed, 20 Aug 2025 16:30:32 Z",
-          "a10:updated": "2025-08-20T16:30:32Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500630"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500630",
-          "category": [
-            "Launched",
-            "Storage",
-            "Archive Storage",
-            "Azure Blob Storage",
-            "Storage Accounts",
-            "Features",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Azure Blob Storage Archive Tier Now in Malaysia West",
-          "description": "The Archive access tier for Azure Blob Storage is now generally available in the Malaysia West region.With this regional expansion, customers in Malaysia can now store infrequently accessed data in the cost-effective Archive tier, while meeting data resid",
-          "pubDate": "Mon, 18 Aug 2025 15:00:19 Z",
-          "a10:updated": "2025-08-18T15:00:19Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500695"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500695",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Files",
-            "Features",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Azure Files provisioned v2 billing model for SSD (premium)",
-          "description": "Azure Files\nnow supports the provisioned v2 billing model on the SSD (premium) media tier. Provisioned\nv2 enables independent provisioning of storage, IOPS, and throughput, allowing\nyou to create a file share that meets your exact storage and performance",
-          "pubDate": "Fri, 15 Aug 2025 16:30:50 Z",
-          "a10:updated": "2025-08-15T16:30:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500583"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500583",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Analytics",
-            "Azure Databricks",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Databricks connector for Microsoft Power Platform",
-          "description": "Azure Databricks connector for Power Platform is now generally available. You can easily connect Azure Databricks with Microsoft Power Apps in several new ways. The new connector enables you to:  Support real-time data access without the need for data cop",
-          "pubDate": "Thu, 14 Aug 2025 16:00:43 Z",
-          "a10:updated": "2025-08-14T16:00:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499753"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499753",
-          "category": [
-            "In preview",
-            "Databases",
-            "Azure Managed Instance for Apache Cassandra",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Managed Instance for Apache Cassandra v5.0",
-          "description": "You can now use Cassandra 5.0 in Azure Managed Instance for Apache Cassandra, available in public preview. This release gives you access to the latest Cassandra features—like better performance and new indexing—without the hassle of managing infrastructur",
-          "pubDate": "Wed, 13 Aug 2025 16:00:27 Z",
-          "a10:updated": "2025-08-13T16:00:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499679"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499679",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Malaysia West",
-          "description": "Now you can deploy Azure Database for PostgreSQL flexible server in the Malaysia West Azure region.   Learn more.",
-          "pubDate": "Wed, 13 Aug 2025 16:00:27 Z",
-          "a10:updated": "2025-08-13T16:00:27Z"
         }
       ]
     }
