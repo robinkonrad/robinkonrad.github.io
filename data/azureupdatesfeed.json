@@ -6,9 +6,76 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 11 Nov 2025 20:30:22 Z",
+      "lastBuildDate": "Wed, 12 Nov 2025 17:15:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526895"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526895",
+          "category": [
+            "Launched",
+            "Developer tools",
+            "Visual Studio",
+            "Visual Studio Code"
+          ],
+          "title": "[Launched] Generally Available: .NET 10",
+          "description": ".NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and security across the stack—while C# 14 introduces refinements that make coding more natural and expressive. With",
+          "pubDate": "Wed, 12 Nov 2025 17:15:02 Z",
+          "a10:updated": "2025-11-12T17:15:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523787"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523787",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL"
+          ],
+          "title": "[Launched] General Availability: Server Parameters support for lower_case_table_names in Azure Database for MySQL- Flexible Server",
+          "description": "We are thrilled to announce the General Availability of a highly requested feature: Self-serve configuration of the lower_case_table_names server parameter during server creation. For MySQL version 8.0+ you can configure lower_case_table_names only when y",
+          "pubDate": "Wed, 12 Nov 2025 17:00:15 Z",
+          "a10:updated": "2025-11-12T17:00:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523134"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523134",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Scheduler profile configuration for AKS",
+          "description": "Organizations running complex workloads on Kubernetes often face\nchallenges in optimizing pod placement for performance, cost, or resource\nefficiency. To address this, Azure Kubernetes Service now offers scheduler\nprofile configuration with in-tree plugin",
+          "pubDate": "Wed, 12 Nov 2025 17:00:15 Z",
+          "a10:updated": "2025-11-12T17:00:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "508390"
+          },
+          "link": "https://azure.microsoft.com/updates?id=508390",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for MySQL Triggers for Azure Functions",
+          "description": "Azure Database for MySQL triggers for Azure Functions are now generally available, enabling you to set up change tracking and develop event-driven applications at scale on any MySQL table. You can trigger a function when a row in a MySQL table is created,",
+          "pubDate": "Wed, 12 Nov 2025 17:00:15 Z",
+          "a10:updated": "2025-11-12T17:00:15Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3476,84 +3543,6 @@
           "description": "Search Job lets you run asynchronous queries across all your workspace data, including long-term retention, and delivers results in new Analytics tables for further exploration.We’re excited to announce that the maximum number of records returned by a Sea",
           "pubDate": "Thu, 21 Aug 2025 16:45:10 Z",
           "a10:updated": "2025-08-21T16:45:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500760"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500760",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure NetApp Files",
-            "Features",
-            "SDK and Tools",
-            "Regions & Datacenters",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Azure NetApp Files file access logs",
-          "description": "Azure NetApp Files file access logs feature is now generally available, delivering enterprise-grade visibility into file-level operations across SMB, NFSv4.1, and dual-protocol volumes. This feature empowers organizations to enhance their security posture",
-          "pubDate": "Thu, 21 Aug 2025 16:30:27 Z",
-          "a10:updated": "2025-08-21T16:30:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500369"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500369",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Functions Flex Consumption plan now supports 512 MB instance size and diagnostic settings",
-          "description": "Azure\nFunctions now allows you to choose 512 MB in addition to 2048 MB and 4096 MB as\nthe memory instance size for your Flex Consumption apps. This enables you to further cost optimize\nyour apps that require less\nresources,\nand allows your apps to scale o",
-          "pubDate": "Thu, 21 Aug 2025 15:30:02 Z",
-          "a10:updated": "2025-08-21T15:30:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500996"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500996",
-          "category": [
-            "In preview",
-            "Networking",
-            "Security",
-            "Compute",
-            "Containers",
-            "Azure Bastion",
-            "Azure Kubernetes Service (AKS)",
-            "Security",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Bastion now supports connectivity to private AKS clusters via tunneling",
-          "description": "With this release, you can now establish a secure tunnel from your local machine—via Azure Bastion—directly to your AKS API server using your standard Kubernetes tooling. This enables seamless access to both private clusters and public clusters with API s",
-          "pubDate": "Wed, 20 Aug 2025 17:45:19 Z",
-          "a10:updated": "2025-08-20T17:45:19Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500712"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500712",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure NetApp Files Flexible service level now supports cool access",
-          "description": "Flexible service level in Azure NetApp Files allows customers to\nindependently configure storage capacity and throughput, making it ideal for\nworkloads with unique performance and sizing requirements—such as high-capacity\nvolumes with low throughput or lo",
-          "pubDate": "Wed, 20 Aug 2025 17:30:35 Z",
-          "a10:updated": "2025-08-20T17:30:35Z"
         }
       ]
     }
