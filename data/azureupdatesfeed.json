@@ -6,9 +6,41 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 12 Nov 2025 17:15:02 Z",
+      "lastBuildDate": "Thu, 13 Nov 2025 17:00:24 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526160"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526160",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure Virtual Network Manager"
+          ],
+          "title": "[Launched] Generally Available: Azure Virtual Network Manager IP Address Management Pool Association Recommendation",
+          "description": "Azure Virtual Network Manager\nIP Address Management (IPAM) – Pool Association Recommendation is now generally\navailable,\nbringing intelligent, large-scale automation to IP address management in Azure. As\norganizations expand their network footprint across",
+          "pubDate": "Thu, 13 Nov 2025 17:00:24 Z",
+          "a10:updated": "2025-11-13T17:00:24Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526155"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526155",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure Virtual Network Manager"
+          ],
+          "title": "[Launched] Generally Available: Azure Virtual Network Manager peering compliance",
+          "description": "Azure Virtual Network Manager peering\ncompliance is now generally available, providing a secure and compliant mechanism to\nprotect network connectivity managed by Azure Virtual Network Manager. In\nlarge-scale environments, it’s essential to prevent uninte",
+          "pubDate": "Thu, 13 Nov 2025 17:00:24 Z",
+          "a10:updated": "2025-11-13T17:00:24Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3507,42 +3539,6 @@
           "description": "Azure\nMigrate now supports migration to Zone-Redundant Storage (ZRS) disks. With\nthe introduction of this new feature in Azure Migrate, you can now select ZRS\nas the redundancy option during server migration. This automatically\nprovisions a disk with ZRS",
           "pubDate": "Fri, 22 Aug 2025 11:00:33 Z",
           "a10:updated": "2025-08-22T11:00:33Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501017"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501017",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Application Gateway upgrades with no performance impact",
-          "description": "Azure Application\nGateway now performs upgrades without any degradation in performance. During an\nupgrade, it automatically provisions new gateway instances to maintain the same\npre-upgrade capacity. This ensures: \n No impact on performance \n Full traffic",
-          "pubDate": "Thu, 21 Aug 2025 17:00:04 Z",
-          "a10:updated": "2025-08-21T17:00:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500879"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500879",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[Launched] Generally, Available: Search Job in Log Analytics - Now Supporting Up to 100 Million Results",
-          "description": "Search Job lets you run asynchronous queries across all your workspace data, including long-term retention, and delivers results in new Analytics tables for further exploration.We’re excited to announce that the maximum number of records returned by a Sea",
-          "pubDate": "Thu, 21 Aug 2025 16:45:10 Z",
-          "a10:updated": "2025-08-21T16:45:10Z"
         }
       ]
     }
