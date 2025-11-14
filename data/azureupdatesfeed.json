@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 14 Nov 2025 16:00:47 Z",
+      "lastBuildDate": "Fri, 14 Nov 2025 16:30:37 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523086"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523086",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Pod CIDR expansion in Azure CNI Overlay for AKS",
+          "description": "Pod CIDR expansion in Azure CNI\nOverlay for AKS is now available in public preview. To meet the growing demands of dynamic and large-scale\nKubernetes workloads, Azure Kubernetes Service now offers Pod CIDR Expansion in\npublic preview for clusters using Az",
+          "pubDate": "Fri, 14 Nov 2025 16:30:37 Z",
+          "a10:updated": "2025-11-14T16:30:37Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3518,22 +3535,6 @@
           "description": "Durable\nFunctions running in the .NET isolated model now has support for the Roslyn\nAnalyzer, a real-time code analyzer that helps developers adhere to durable\norchestrations’ coding constraints. This analyzer is enabled by\ndefault to analyze Durable Func",
           "pubDate": "Mon, 25 Aug 2025 16:00:39 Z",
           "a10:updated": "2025-08-25T16:00:39Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500650"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500650",
-          "category": [
-            "Launched",
-            "Features",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Microsoft Azure now available from cloud region in Austria",
-          "description": "Microsoft announces\nthe opening of its cloud region in Austria to accelerate digital transformation\nand AI innovation. The cloud region will enable companies and public\nadministration in Austria to store and process their data securely, in\ncompliance with",
-          "pubDate": "Mon, 25 Aug 2025 13:00:07 Z",
-          "a10:updated": "2025-08-25T13:00:07Z"
         }
       ]
     }
