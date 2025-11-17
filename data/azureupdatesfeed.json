@@ -6,9 +6,77 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 14 Nov 2025 21:15:14 Z",
+      "lastBuildDate": "Mon, 17 Nov 2025 16:30:12 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530092"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530092",
+          "category": [
+            "Launched",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery"
+          ],
+          "title": "[Launched] Generally Available: Seamless failback for HyperV-to-Azure: Managed Disk support in Azure Site Recovery",
+          "description": "Azure Site Recovery now enables failback from Azure VMs to on-premises Hyper-V, even if replication from on-premises to Azure happened to storage account and the failed-over Azure VM uses managed disks. Learn more.",
+          "pubDate": "Mon, 17 Nov 2025 16:30:12 Z",
+          "a10:updated": "2025-11-17T16:30:12Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530087"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530087",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery"
+          ],
+          "title": "[In preview] Public Preview: Support for Linux major OS upgrades with Azure Site Recovery",
+          "description": "You can now perform major Linux OS version upgrades — without disabling Azure Site Recovery, interrupting their replication, or losing existing recovery points. This is supported on RHEL and SLES. (e.g. update from RHEL 8 to RHEL 9). This simplifies the O",
+          "pubDate": "Mon, 17 Nov 2025 16:30:12 Z",
+          "a10:updated": "2025-11-17T16:30:12Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530078"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530078",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery"
+          ],
+          "title": "[In preview] Public Preview: Support 5x churn in Azure Site Recovery",
+          "description": "Azure Site Recovery now supports up to 5x churn (500 MB/s per VM). This major enhancement empowers customers to confidently run high IOPS workloads with Azure Site Recovery, ensuring robust disaster recovery for even the most demanding applications like d",
+          "pubDate": "Mon, 17 Nov 2025 16:30:12 Z",
+          "a10:updated": "2025-11-17T16:30:12Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530073"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530073",
+          "category": [
+            "Launched",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery"
+          ],
+          "title": "[Launched] Generally Available: Capacity guidance for Azure Site Recovery",
+          "description": "Azure Site Recovery now offers alternative VM Size recommendations during ASR failover when the current target VM Size may have limited allocation availability due to capacity constraints. This feature enhances disaster recovery by providing guidance on s",
+          "pubDate": "Mon, 17 Nov 2025 16:30:12 Z",
+          "a10:updated": "2025-11-17T16:30:12Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3453,80 +3521,6 @@
           "description": "Announcing that Azure DMS now supports schema migration for Azure SQL Database—making your cloud migration journey smoother and more efficient than ever.  With just a single checkbox, you can now migrate missing schema objects along with your data. This i",
           "pubDate": "Wed, 27 Aug 2025 16:00:53 Z",
           "a10:updated": "2025-08-27T16:00:53Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500755"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500755",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Cosmos DB for MongoDB (vCore)—add shards and rebalance data",
-          "description": "Now you can add physical shards as your Azure Cosmos DB for MongoDB (vCore) clusters grow. Thanks to the elasticity of compute and storage configurations in Azure Cosmos DB for MongoDB (vCore), a single physical shard (node) typically delivers the desired",
-          "pubDate": "Wed, 27 Aug 2025 16:00:53 Z",
-          "a10:updated": "2025-08-27T16:00:53Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496287"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496287",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Blob Storage",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Entra ID and RBAC support for GetAccountInfo and other supplemental APIs for Azure Storage",
-          "description": "To align with security best practices, Entra ID and RBAC support is now generally available for the following APIs for Azure Storage: Get Account InformationGet Container ACLSet Container ACLGet Queue ACLSet Queue ACLGet Table ACLSet Table ACL To learn mo",
-          "pubDate": "Tue, 26 Aug 2025 17:45:29 Z",
-          "a10:updated": "2025-08-26T17:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501323"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501323",
-          "category": [
-            "In preview",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Web Application Firewall",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Custom block response code and body for Application Gateway WAF",
-          "description": "Announcing the public preview of custom block response code and body for WAF integrated with Application Gateway.Azure WAF integrated with Application Gateway now supports customizable response status codes and bodies for blocked requests, enabling greate",
-          "pubDate": "Tue, 26 Aug 2025 17:00:18 Z",
-          "a10:updated": "2025-08-26T17:00:18Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500991"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500991",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Services",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: CNI Overlay for Application Gateway for Containers and AGIC",
-          "description": "Azure CNI Overlay with Application Gateway for Containers and AGIC is now generally available.Azure CNI Overlay enables AKS clusters to use pod IPs from a separate CIDR, conserving VNet IP space and simplifying multi-cluster deployments. Paired with Appli",
-          "pubDate": "Tue, 26 Aug 2025 16:00:15 Z",
-          "a10:updated": "2025-08-26T16:00:15Z"
         }
       ]
     }
