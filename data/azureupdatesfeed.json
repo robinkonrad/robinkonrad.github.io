@@ -6,9 +6,59 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 18 Nov 2025 08:00:28 Z",
+      "lastBuildDate": "Tue, 18 Nov 2025 14:00:03 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "527181"
+          },
+          "link": "https://azure.microsoft.com/updates?id=527181",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Blob Storage"
+          ],
+          "title": "[Launched] Generally Available: The Archive access tier for Azure Blob Storage is now generally available in the Taiwan North region",
+          "description": "The Archive access tier for Azure Blob Storage is now generally available in the Taiwan North region.With this regional expansion, customers in Taiwan can now store infrequently accessed data in the cost-effective Archive tier, while meeting data residenc",
+          "pubDate": "Tue, 18 Nov 2025 14:00:03 Z",
+          "a10:updated": "2025-11-18T14:00:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "516656"
+          },
+          "link": "https://azure.microsoft.com/updates?id=516656",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure NetApp Files",
+            "Features"
+          ],
+          "title": "[In preview] Public preview: Support for large volume breakthrough mode",
+          "description": "Breakthrough mode in Azure NetApp Files enables extreme performance and scalability for demanding HPC and EDA workloads. It supports large volumes up to 2PiB, delivering throughput up to 50GiBps, depending on workload characteristics. Breakthrough mode us",
+          "pubDate": "Tue, 18 Nov 2025 14:00:03 Z",
+          "a10:updated": "2025-11-18T14:00:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "520454"
+          },
+          "link": "https://azure.microsoft.com/updates?id=520454",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Storage",
+            "Azure Backup"
+          ],
+          "title": "[In preview] Public Preview: Threat Detection in Azure Backup powered by MDC",
+          "description": "Azure Backup has introduced threat detection capabilities for Azure VM backups, powered by Microsoft Defender for Cloud (MDC). This new capability enables customers to assess the health of their Azure VM backup restore points (RPs) by identifying maliciou",
+          "pubDate": "Tue, 18 Nov 2025 13:45:04 Z",
+          "a10:updated": "2025-11-18T13:45:04Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3460,65 +3510,6 @@
           "description": "Ultra Disks are the most performant block storage option for\nAzure virtual machines offering consistent low sub-millisecond latency,\nextremely high performance. This makes Ultra disk ideal for a broad spectrum of\nthe most demanding enterprise production w",
           "pubDate": "Tue, 02 Sep 2025 17:00:13 Z",
           "a10:updated": "2025-09-02T17:00:13Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500374"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500374",
-          "category": [
-            "Launched",
-            "Compute",
-            "Mobile",
-            "Web",
-            "App Service",
-            "Features",
-            "Services",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Azure App Service - New Premium v4 Offering",
-          "description": "The new Premium v4 offering provides faster processors, NVMe local storage, and memory-optimized options, running on the latest Azure hardware. Premium v4 is available for both Windows and Linux customers, and includes sizes starting from 1 vCPU and 4GB o",
-          "pubDate": "Mon, 01 Sep 2025 15:00:58 Z",
-          "a10:updated": "2025-09-01T15:00:58Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501200"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501200",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Front Door",
-            "Services",
-            "Regions & Datacenters",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: Azure Front Door Standard and Premium are now available in Azure China.",
-          "description": "Azure Front Door Standard and Premium are now\ngenerally available in the Azure China regions (China North 3 and China East\n3), operated by 21Vianet. With this release, customers in China can deliver\nsecure, reliable, and high-performance applications usin",
-          "pubDate": "Mon, 01 Sep 2025 10:00:54 Z",
-          "a10:updated": "2025-09-01T10:00:54Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500790"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500790",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Database for PostgreSQL Entra ID group login using user credentials",
-          "description": "The public preview of Entra ID group login using user credentials, now available on newly provisioned servers. This anticipated feature simplifies user management and improves security within the Azure Database for PostgreSQL Flexible Server environments.",
-          "pubDate": "Thu, 28 Aug 2025 14:45:15 Z",
-          "a10:updated": "2025-08-28T14:45:15Z"
         }
       ]
     }
