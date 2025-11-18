@@ -6,9 +6,1406 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 18 Nov 2025 16:30:36 Z",
+      "lastBuildDate": "Tue, 18 Nov 2025 17:30:44 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "527713"
+          },
+          "link": "https://azure.microsoft.com/updates?id=527713",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Files"
+          ],
+          "title": "[In preview] Public Preview: Entra-only identities support with Azure Files SMB",
+          "description": "Azure Files now supports Entra-only identities, enabling customers to retire on-premises domain controllers while maintaining secure SMB access to file shares. This feature delivers a fully cloud-native authentication model using Microsoft Entra Kerberos",
+          "pubDate": "Tue, 18 Nov 2025 17:30:44 Z",
+          "a10:updated": "2025-11-18T17:30:44Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530661"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530661",
+          "category": "In development",
+          "title": "[In development] Private Preview: Azure Boost confidential device",
+          "description": "The\nAzure Boost confidential device feature is now in preview. Azure Boost\nis a Microsoft Azure system that offloads virtualization tasks—such as\nnetworking, storage, and host management—from the hypervisor and host OS to\npurpose-built hardware and softwa",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530609"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530609",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Azure DDoS Protection",
+            "Web Application Firewall"
+          ],
+          "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset 1.0 on Application Gateway WAF v2",
+          "description": "Announcing the public preview\nof the HTTP DDoS Ruleset for Application Gateway WAF v2. HTTP-layer DDoS attacks remain a leading cause of\napplication downtime, and traditional static controls often fall short against\nevolving botnets. The new HTTP DDoS Rul",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530287"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530287",
+          "category": "In development",
+          "title": "[In development] Private Preview: Azure Boost remote storage throughput and network bandwidth enhancements",
+          "description": "Remote storage throughput and network bandwidth performance\nenhancements for the latest Azure Boost architecture are now in preview. Azure\nBoost is a Microsoft Azure system that offloads virtualization tasks—such as\nnetworking, storage, and host managemen",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "530208"
+          },
+          "link": "https://azure.microsoft.com/updates?id=530208",
+          "category": [
+            "In preview",
+            "Compute",
+            "Virtual Machines"
+          ],
+          "title": "[In preview] Public Preview: NVv6 Virtual Machines",
+          "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\navailable on Azure.\nNvidia RTC PRO 6000 BSE GPUs are designed to accelerate a wide array of\nworkloads including v",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "529944"
+          },
+          "link": "https://azure.microsoft.com/updates?id=529944",
+          "category": "In preview",
+          "title": "[In preview] Public Preview: New integration and extensibility capabilities to Azure SRE Agent",
+          "description": "Azure SRE Agent is an AI-driven solution that unifies operational workflows into a single, prompt-based automation layer—eliminating complexity and reducing overhead for modern cloud operations. Unlike traditional, static automation solutions, SRE Agent l",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "529519"
+          },
+          "link": "https://azure.microsoft.com/updates?id=529519",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor"
+          ],
+          "title": "[Launched] Generally Available: Advanced sampling and richer data collection in Azure Monitor OpenTelemetry Distro",
+          "description": "Azure continues to embrace open standards by adding new capabilities to the Azure Monitor OpenTelemetry Distro that powers Azure Monitor Application Insights. New Capabilities:Rate-limited sampling and\ntrace-based log sampling:  New sampling options in\nth",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "527815"
+          },
+          "link": "https://azure.microsoft.com/updates?id=527815",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Management and governance",
+            "Networking",
+            "Azure Kubernetes Service (AKS)",
+            "Network Watcher"
+          ],
+          "title": "[In preview] Public Preview: Azure Network Watcher Topology – Agentless Connection Troubleshoot",
+          "description": "Azure Kubernetes Service (AKS) visualization in\nNetwork Watcher Topology (Public Preview) delivers end-to-end visibility of AKS\nclusters directly within the Azure networking experience. Customers can now\nexplore their Kubernetes environments, including th",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "527810"
+          },
+          "link": "https://azure.microsoft.com/updates?id=527810",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Management and governance",
+            "Networking",
+            "Azure Kubernetes Service (AKS)",
+            "Network Watcher"
+          ],
+          "title": "[In preview] Public Preview: Azure Network Watcher Topology – AKS Visualization",
+          "description": "Azure Kubernetes Service (AKS) visualization in\nNetwork Watcher Topology (Public Preview) delivers end-to-end visibility of AKS\nclusters directly within the Azure networking experience. Customers can now\nexplore their Kubernetes environments, including th",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "527805"
+          },
+          "link": "https://azure.microsoft.com/updates?id=527805",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Networking",
+            "Network Watcher"
+          ],
+          "title": "[In preview] Public Preview: Azure VNet Flow Log - Filtering",
+          "description": "VNet Flow Log captures IP\ntraffic flowing through VNets, Subnets, & NICs for monitoring, troubleshooting,\nnetwork optimization, security, and compliance needs. This release introduces advanced filtering\ncapabilities in VNet Flow Logs, empowering users wit",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526729"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526729",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Networking",
+            "Azure ExpressRoute",
+            "Features",
+            "Services",
+            "Microsoft Ignite"
+          ],
+          "title": "[Launched] Generally Available: ExpressRoute Scalable Gateway",
+          "description": "ExpressRoute Scalable Gateway (ErGwScale) is our\nnext-generation offering that brings flexibility, performance, and operational\nsimplicity to Virtual Network Gateway deployments. With this release, you can\ndynamically scale gateway infrastructure to meet",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526644"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526644",
+          "category": [
+            "Launched",
+            "Containers",
+            "Azure Container Registry"
+          ],
+          "title": "[Launched] Generally Available: Azure Container Registry Repository Permissions with Attribute-based Access Control (ABAC)",
+          "description": "Organizations\noperating Azure Container Registries (ACR) require least-privilege permissions\nover which Microsoft Entra identities can publish or consume container images.\nWith ACR repository permissions using attribute-based access control (ABAC),\nadmini",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526242"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526242",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Azure Kubernetes Service desktop",
+          "description": "AKS desktop delivers a modern, application-centric\nexperience for deploying and managing workloads on Azure Kubernetes Service.\nBuilt on supported AKS features, best practices, and the open-source Headlamp\nproject, it offers a guided, self-service interfa",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526237"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526237",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Pod sandboxing on AKS",
+          "description": "Running\ncontainerized workloads in shared environments can raise concerns around\nsecurity and workload isolation. To address this, AKS now supports pod\nsandboxing, enabling customers to run containers in per-workload pod VMs. Each\npod VM is isolated from",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526232"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526232",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Managed namespaces on AKS",
+          "description": "Managing\nnamespace configurations across AKS clusters has traditionally required manual\nsetup and ongoing maintenance, creating complexity and potential for\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\nenables users to ea",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526227"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526227",
+          "category": [
+            "In preview",
+            "Containers",
+            "Compute",
+            "Azure Kubernetes Fleet Manager",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager for Arc-enabled clusters",
+          "description": "Managing\nKubernetes clusters across hybrid and multi-cloud environments can be complex\nand fragmented. To simplify this, Azure Kubernetes Fleet Manager now supports\nAzure Arc-enabled Kubernetes, enabling organizations to seamlessly manage any\nCNCF-complia",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526213"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526213",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Windows Server 2025 on AKS",
+          "description": "Organizations running Windows-based\nworkloads on Azure Kubernetes Service (AKS) face increasing pressure to\nmodernize as support timelines for older Windows Server versions approach\nretirement. To help customers prepare, AKS now offers preview support for",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526208"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526208",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: AKS Automatic pod readiness SLA",
+          "description": "Azure Kubernetes Service (AKS) Automatic\nclusters now come with a pod readiness SLA, guaranteeing that eligible pods meet\nreadiness criteria within five minutes at the 99.9th percentile.\nThis empowers customers to confidently deploy mission critical workl",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526203"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526203",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: AKS Automatic managed system node pools",
+          "description": "Provisioning and maintaining system node pools in AKS\nrequires ongoing effort to ensure proper scaling, patching, and availability, tasks\nthat can divert resources from application development and delivery.\nManaged system node pools in AKS Automatic remov",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526179"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526179",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[In preview] Public Preview: Add durability to AI agents in Azure Functions using Microsoft Agent Framework",
+          "description": "You can now build and host reliable\nproduction-grade AI agents using the durable extension for\nMicrosoft Agent Framework. This integration combines the Microsoft Agent\nFramework with Azure Functions’ durable capabilities, delivering proven\norchestration a",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526174"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526174",
+          "category": [
+            "In preview",
+            "Networking",
+            "Azure Virtual Network Manager"
+          ],
+          "title": "[In preview] Public Preview: Cross region pool association support for Azure Virtual Network Manager IP address management",
+          "description": "Managing\nIP address spaces across multiple regions can be complex and error-prone.  With\nthis new capability, you can now associate a single IPAM pool with virtual\nnetworks in multiple regions, simplifying governance and ensuring\nconsistent CIDR allocatio",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526169"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526169",
+          "category": [
+            "Launched",
+            "Networking",
+            "Azure Virtual Network Manager"
+          ],
+          "title": "[Launched] Generally Available: Azure Virtual Network Manager address overlap prevention in mesh",
+          "description": "Azure Virtual Network Manager\naddress space overlap prevention in mesh is now generally available, bringing enhanced\nreliability and governance to multi-virtual network environments. Unintended\naddress overlap within mesh can lead to dropped traffic. This",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526077"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526077",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[In preview] Public Preview: Azure Functions support for Node.js 24",
+          "description": "You can now develop functions using Node.js 24 locally and deploy them\nto Azure Functions on Windows and Linux.   Note: Node.js 24 does not support\n32-bit systems on Windows. To ensure compatibility, new Windows Function Apps for\nNode.js 24 now default to",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526072"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526072",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[In preview] Public Preview: Azure Functions support for Java 25",
+          "description": "You can now develop functions using Java\n25 locally and deploy them to Azure Functions on Windows and Linux.  Upgrade your apps to Java 25 to take\nadvantage of enhanced security, a longer support window, and continued\ncompatibility with the Azure Function",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525893"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525893",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Compute",
+            "Containers",
+            "Application Gateway",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Application Gateway for Containers – Slow start",
+          "description": "Slow start is now\ngenerally available as a load balancing algorithm in Application Gateway for\nContainers. This feature improves stability and performance during backend\nscale-up by gradually increasing traffic to new pods over a configurable time\nwindow.",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525874"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525874",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Compute",
+            "Containers",
+            "Application Gateway",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Application Gateway for Containers Istio Service Mesh integration",
+          "description": "Application\nGateway for Containers now supports integration with Istio service mesh through\nan optional service mesh extension. This feature simplifies secure north-south\ncommunication between external clients and services within the service mesh. Single",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525549"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525549",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[In preview] Public Preview: Azure DocumentDB high-performance storage",
+          "description": "Now you can run bigger, faster workloads on fewer nodes using high-performance storage for Azure DocumentDB. This update delivers up to 64 TiB capacity, 80,000 IOPS, and 1,200 MB/s throughput per physical shard (node). Storage IOPS and throughput on Azure",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525523"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525523",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[Launched] Generally Available: Model Context Protocol (MCP) tool trigger for Azure Functions",
+          "description": "Model\nContext Protocol (MCP) is a way for apps to provide capabilities and context to\na large language model. A key feature of MCP is the ability to define tools\nthat AI agents can leverage to accomplish whatever tasks they’ve been given.\nMCP servers can",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525518"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525518",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[Launched] Generally Available: Azure Functions durable task scheduler Dedicated SKU (GA) & Consumption SKU (Public Preview)",
+          "description": "Earlier this year, we\nintroduced Azure Functions durable task scheduler, an orchestration engine\ndesigned for complex workflows and intelligent agents. It automatically\ncheckpoints progress and protects your orchestration state, enabling resilient\nand rel",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525505"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525505",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[In preview] Public Preview: Self-hosted remote MCP servers on Azure Functions",
+          "description": "We are introducing a new capability that allows you to host\nremote Model Context Protocol (MCP) servers built with the MCP SDKs on Functions. Some key benefits of hosting on the Functions platform include:  Built-in server authentication Automatic and bur",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525500"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525500",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[Launched] Announcing: Resources for migrating to Azure Functions Flex Consumption",
+          "description": "Azure Functions Flex Consumption is\nnow the recommended hosting plan for serverless workloads requiring advanced\nscaling, networking, and cost optimization. To support customers migrating from\nthe Azure Functions Consumption plan or from AWS Lambda, Micro",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525479"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525479",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions"
+          ],
+          "title": "[Launched] Generally Available: Azure Functions enables OpenTelemetry support",
+          "description": "Azure Functions now supports\nOpenTelemetry in general availability (GA), enabling developers to export logs,\ntraces, and metrics using open standards. This release builds on the public\npreview and delivers a production-ready observability experience for s",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525470"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525470",
+          "category": [
+            "In preview",
+            "Containers",
+            "Azure Container Apps"
+          ],
+          "title": "[In preview] Public Preview: Azure Container Apps adds support for agentic Docker Compose",
+          "description": "Azure Container Apps is bringing the familiar\ndeveloper workflow of Docker Compose directly to Azure Container Apps. As one\nof the most widely adopted tools among developers, Docker Compose simplifies\ndefining and running multi-container applications, and",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525465"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525465",
+          "category": [
+            "In preview",
+            "Containers",
+            "Azure Container Apps"
+          ],
+          "title": "[In preview] Public Preview: Azure Container Apps introduces flexible workload profile",
+          "description": "Flexible workload profile represents a new option\nthat blends the simplicity of consumption with many of the performance and\ncontrol characteristics of dedicated workload profiles. This offers the same\neasy-to-understand, pay-per-use serverless model as C",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525460"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525460",
+          "category": [
+            "Launched",
+            "Containers",
+            "Azure Container Apps"
+          ],
+          "title": "[Launched] Generally Available: Azure Container Apps serverless GPUs in additional regions",
+          "description": "To\nmeet growing demand for GPU-powered workloads, Azure Container Apps serverless GPUs are now generally\navailable in additional regions. This expansion enables developers to run AI\ninference, model training, and GPU-accelerated workloads with the simplic",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525455"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525455",
+          "category": [
+            "In preview",
+            "Containers",
+            "Azure Container Apps"
+          ],
+          "title": "[In preview] Public Preview: Confidential computing in Azure Container Apps",
+          "description": "Confidential\ncomputing support in Azure Container Apps is now in public preview. This\nrelease brings hardware-based Trusted Execution Environments (TEEs) to your\ncontainerized workloads. Azure already provides encryption of data at rest and\nin transit, an",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525405"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525405",
+          "category": [
+            "In preview",
+            "Networking",
+            "Azure NAT Gateway"
+          ],
+          "title": "[In preview] Public Preview: Standard V2 NAT Gateway and StandardV2 Public IPs",
+          "description": "StandardV2 SKU NAT Gateway is now in public preview, delivering next-generation capabilities for scalable and resilient outbound connectivity. New offerings: Zone-Redundancy: Built for high availability in availability zone supported regions. Traffic surv",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525388"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525388",
+          "category": [
+            "Launched",
+            "Analytics",
+            "Microsoft Fabric"
+          ],
+          "title": "[Launched] Generally Available: SQL database in Microsoft Fabric",
+          "description": "SQL database in Fabric is now generally available. Built on the trusted SQL Server and Azure SQL Database engine, this fully SaaS-native solution empowers developers and data professionals to unify operational and analytical workloads with speed, security",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523824"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523824",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[In preview] Public Preview: Support for Italian and Portuguese in Azure Cosmos DB for NoSQL full-text search",
+          "description": "Azure Cosmos DB for NoSQL now supports Italian and Portuguese languages in full-text search, available today in public preview. This update adds to the list of supported languages, enabling you to build rich, language-aware search experiences that underst",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523814"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523814",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[In preview] Public Preview: Azure Cosmos DB MCP ToolKit for Microsoft Foundry Agent Service",
+          "description": "Azure Cosmos DB for NoSQL now offers an MCP Toolkit that can be used with Microsoft Foundry  Agent Service, available today in public preview.  This new integration allows you to connect Microsoft Foundry Agents directly to data in Azure Cosmos DB. By dep",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523809"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523809",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Fuzzy search in Azure Cosmos DB for NoSQL full-text search",
+          "description": "Azure Cosmos DB for NoSQL now supports fuzzy search in full-text search. With fuzzy search, you can deliver typo-tolerant, error-resilient search experiences directly within Azure Cosmos DB, helping your users find the right results even when queries or t",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523803"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523803",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Vector indexing performance improvements in Azure Cosmos DB for NoSQL",
+          "description": "This release gives you faster vector inserts and index builds in Azure Cosmos DB for NoSQL, helping you reduce end-to-end ingestion and indexing times for large AI workloads. This improvement is powered by algorithmic enhancements to our vector indexing e",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523796"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523796",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Float16 data type for vector indexes in Azure Cosmos DB",
+          "description": "Azure Cosmos DB now supports float 16 data types for vector indexes. With this update, you can store and query vectors using half-precision floating-point numbers. Using float16 cuts storage usage in half compared to float32, while maintaining high retrie",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523782"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523782",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Azure Cosmos DB for Visual Studio Code",
+          "description": "Developers today are building more intelligent, connected, and autonomous applications than ever before. From personalized chatbots and copilots to dynamic content engines and decision systems, data is the foundation of these agentic experiences.  Azure C",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523773"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523773",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Azure Cosmos DB Mirroring in Microsoft Fabric",
+          "description": "Now generally available, Azure Cosmos DB Mirroring in Fabric enables you to seamlessly integrate your existing operational workloads with the analytical capabilities of Microsoft Fabric. You can take advantage of the innovations in Fabric, running SQL que",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523768"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523768",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Analytics",
+            "Azure Cosmos DB",
+            "Microsoft Fabric"
+          ],
+          "title": "[Launched] Generally Available: Cosmos DB in Microsoft Fabric",
+          "description": "Now generally available, Cosmos DB in Fabric enables you to build operational and analytical workloads in Microsoft Fabric. You can use the AI-features in Azure Cosmos DB plus the innovations in Fabric to run SQL queries over JSON data and build real-time",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523763"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523763",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[In preview] Public Preview: Index Advisor for Azure DocumentDB",
+          "description": "Integrated into the DocumentDB for VS Code extension, the Index Advisor enables you to view and debug database performance. It uses natural language to recommend optimal indexing and best practices for your MongoDB workloads.  Learn more.",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523754"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523754",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Priority-based execution in Azure Cosmos DB",
+          "description": "You can now enable priority-based execution in Azure Cosmos DB to ensure that high-priority requests are favored during periods of contention. The system will throttle low-priority requests first, allowing high-priority operations to proceed on a best-eff",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523745"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523745",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[In preview] Public Preview: Azure Cosmos DB Fleet Analytics",
+          "description": "You can now unify insights across your entire Azure Cosmos DB footprint using Azure Cosmos DB Fleet Analytics, available in public preview. Fleet Analytics helps you manage data across multiple accounts, subscriptions, and workloads, providing large-scale",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523740"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523740",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Azure Cosmos DB fleet pools",
+          "description": "Now you can more easily operate your Azure Cosmos DB accounts at scale. Azure Cosmos DB fleet pools give you new capabilities when building multitenant software as a service (SaaS) applications.  You can simplify capacity management by creating a pool of",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523735"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523735",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Azure DocumentDB - an open-source, MongoDB-compatible document database service for hybrid and multicloud",
+          "description": "Microsoft is announcing the general availability of Azure DocumentDB, a fully managed document database service built on the open-source, MongoDB-compatible DocumentDB, now governed by the Linux Foundation. Formerly known as Azure Cosmos DB for MongoDB (v",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523726"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523726",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[In preview] Public Preview: Dynamic data masking with Azure Cosmos DB",
+          "description": "You can now help protect sensitive data from unauthorized access using dynamic data masking (DDM), a server-side, policy-based security feature in Azure Cosmos DB. DDM dynamically masks data for non-privileged users, ensuring that sensitive information is",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523721"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523721",
+          "category": [
+            "In preview",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[In preview] Public Preview: Online and offline migrations in Azure DocumentDB Migration extension",
+          "description": "You can now migrate MongoDB workloads to Azure DocumentDB using the new Azure DocumentDB Migration extension for Visual Studio Code—now available in public preview. This seamless, zero-cost migration supports both online and offline modes, simplifying and",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523716"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523716",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB"
+          ],
+          "title": "[Launched] Generally Available: Online migration from Azure Cosmos DB for MongoDB RU to Azure DocumentDB",
+          "description": "Announcing the general availability of seamless, self-serve online migrations from Azure Cosmos DB for MongoDB RU to Azure DocumentDB—directly from the Azure portal. With this release, your organization can modernize its MongoDB workloads with zero downti",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523593"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523593",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[In preview] Public Preview: Oracle to PostgreSQL migration tooling in Visual Studio Code",
+          "description": "Migrating from Oracle to PostgreSQL is now simpler and faster with the new Oracle-to-PostgreSQL migration tooling, available directly in the Azure Database for PostgreSQL extension for Visual Studio Code.  This new tool helps you seamlessly convert your O",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523588"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523588",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: 2025 REST API for Azure Database for PostgreSQL",
+          "description": "Announcing the general availability of the 2025 REST API for Azure Database for PostgreSQL. This release adds support for PostgreSQL 17 and 18, so you can adopt new versions without changing your automation patterns. You can also now set the default datab",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523583"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523583",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: Elastic clusters on Azure Database for PostgreSQL – Flexible Server",
+          "description": "Now you can use elastic clusters to horizontally scale Azure Database for PostgreSQL through row-based and schema-based sharding. Elastic clusters make it easy to build multitenant apps by offloading shard management and operations—such as tenant isolatio",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523578"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523578",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[In preview] Public Preview: Native Microsoft Foundry support for Azure Database for PostgreSQL",
+          "description": "Announcing the public preview of Microsoft Foundry support for Azure Database for PostgreSQL. The Azure PostgreSQL MCP Server is now natively integrated with Microsoft Foundry.  This integration enables you to build AI agents to securely query and analyze",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523569"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523569",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server anon extension",
+          "description": "The anon extension is now generally available in Azure Database for PostgreSQL flexible server. This extension provides data anonymization tools. Learn more.",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523564"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523564",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Public Preview: Azure Database for PostgreSQL – Flexible Server v6 series VMs and AMD v6 Confidential Compute",
+          "description": "Now you can deploy general purpose and memory-optimized v6-series Azure Virtual Machines with local NVMe storage in Azure Database for PostgreSQL flexible server. The v6 series is available with either Intel or AMD processor options. Learn more.",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523559"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523559",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server pg_duckdb extension",
+          "description": "Now you can create pg_duckdb extensions in Azure Database for PostgreSQL flexible server, so you can accelerate analytics using DuckDB’s vectorized, columnar execution.  Learn more.",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523533"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523533",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL change event streaming",
+          "description": "You can now stream data changes in near real time from Azure SQL Database directly into Azure Event Hubs. With the public preview of change event streaming (CES), you can streamline data integration and support enhanced analytics, event-driven architectur",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523196"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523196",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: PostgreSQL 18 with in-place upgrade on Azure Database for PostgreSQL",
+          "description": "You can now use PostgreSQL 18 on Azure Database for PostgreSQL. This release introduces the latest PostgreSQL innovations along with seamless in-place upgrade support, allowing you to move from earlier versions without changing your server endpoint, recon",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523187"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523187",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: PostgreSQL extension for Visual Studio Code with GitHub Copilot",
+          "description": "Announcing that the PostgreSQL extension for Visual Studio Code is generally available. With this powerful tool, you can connect to PostgreSQL database instances, run queries, create and manage connection profiles, and take advantage of Microsoft Entra ID",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523177"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523177",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: Mirroring in Fabric for PostgreSQL Flexible Server",
+          "description": "You can now bring data together and simplify analytics using Microsoft Fabric mirroring for Azure Database for PostgreSQL flexible server, now generally available. Mirroring in Fabric unifies your organizational data in OneLake and supports network-isolat",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523167"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523167",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL storage extension support for Parquet",
+          "description": "Announcing that Azure Database for PostgreSQL flexible server now supports the Azure Storage extension with Parquet format and multiple compression options. You can seamlessly read and write Parquet files directly from your database, enabling faster data",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523125"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523125",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure SQL Managed Instance"
+          ],
+          "title": "[Launched] Generally Available: Azure SQL Managed Instance Next-gen General Purpose service tier",
+          "description": "The Next‑gen General Purpose tier delivers a major performance boost while preserving the cost advantages you expect. You get more power and compute flexibility without sacrificing the simplicity of a fully managed platform as a service (PaaS) experience.",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523110"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523110",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Azure SQL Managed Instance"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL Database DiskANN vector indexing",
+          "description": "Announcing the public preview of vector indexing using DiskANN in Azure SQL Database, Azure SQL Managed Instance and SQL database in Microsoft Fabric. DiskANN is an algorithm for efficient vector similarity search, making it ideal for product recommendati",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523105"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523105",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database"
+          ],
+          "title": "[In preview] Generally Available: MSSQL extension integration with GitHub Copilot in Visual Studio Code",
+          "description": "The MSSQL extension for Visual Studio Code now integrates GitHub Copilot, bringing AI-powered SQL assistance directly into your development workflow. Together, they help you reduce repetitive tasks, accelerate development, and design database schemas and",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523095"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523095",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database"
+          ],
+          "title": "[Launched] Generally Available: Azure SQL Database long-term retention (LTR) backup immutability",
+          "description": "You can now configure immutability for Azure SQL Database LTR backups to meet compliance and regulatory needs. Once immutability is configured, the backups can’t be edited or deleted until the specified retention expires, mitigating any potential ransomwa",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522586"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522586",
+          "category": "Launched",
+          "title": "[Launched] Generally Available: SQL Server Management Studio (SSMS) 22",
+          "description": "SQL Server Management Studio (SSMS) has long been the trusted tool for managing SQL databases, writing T-SQL, and troubleshooting issues. With SSMS 22, built on Visual Studio 2026, you get support for SQL Server 2025, improved integration with SQL databas",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522581"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522581",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database"
+          ],
+          "title": "[Launched] Generally Available: Microsoft Python driver for SQL Server",
+          "description": "Announcing that the mssql-python driver is now generally available. This milestone marks a major step forward in delivering a modern, high-performance, and developer-friendly experience for Python developers working with SQL Server, Azure SQL Database, an",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522572"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522572",
+          "category": [
+            "Launched",
+            "Hybrid + multicloud",
+            "Azure Arc"
+          ],
+          "title": "[Launched] Generally Available: New SQL Server migration in Azure Arc",
+          "description": "A new SQL Server migration in Azure Arc solution streamlines and accelerates your journey to Azure SQL Managed Instance. Powered by Azure Database Migration Service and assisted by Copilot, it delivers an automated, end-to-end migration process that inclu",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522559"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522559",
+          "category": "Launched",
+          "title": "[Launched] Generally Availabe: SQL Server 2025",
+          "description": "SQL Server 2025, the AI-ready enterprise database, is now generally available, marking a major milestone in Microsoft’s mission to modernize enterprise data platforms. This release introduces built-in AI capabilities, seamless integration with Microsoft F",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522523"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522523",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Azure SQL Managed Instance"
+          ],
+          "title": "[Launched] Generally Available: Azure SQL updates for November 2025",
+          "description": "In November 2025, the following updates and enhancements were made to Azure SQL:  Apply the reservation discount for a 1-year or 3-year reservation of a zone-redundant Azure SQL Managed Instance in the General Purpose tier to both the standard compute and",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522514"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522514",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Azure SQL Managed Instance"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL updates for November 2025",
+          "description": "In November 2025, the following updates and enhancements were made to Azure SQL: View, modify, insert rows in a table without manually writing T-SQL code using the interactive Edit Data interface in the MSSQL extension for Visual Studio Code. Learn more.",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512949"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512949",
+          "category": [
+            "In preview",
+            "Containers",
+            "Azure Container Apps",
+            "Features",
+            "Microsoft Ignite"
+          ],
+          "title": "[In preview] Public Preview: Dynamic sessions shell environment and MCP support in Azure Container Apps",
+          "description": "Azure Container Apps now supports dynamic shell sessions in public\npreview. A shell session is a platform-managed built-in container used to\nrun and execute common shell commands in an isolated sandboxed\nenvironment.  With Azure Container Apps dynamic ses",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512900"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512900",
+          "category": [
+            "In preview",
+            "Containers",
+            "Azure Container Apps",
+            "Features",
+            "Microsoft Ignite"
+          ],
+          "title": "[In preview] Public Preview: Deployment labels in Azure Container Apps",
+          "description": "Azure\nContainer Apps now supports deployment labels in public preview as a new\ndeployment mode. This feature simplifies environment management and enables\nadvanced deployment strategies for your applications by allowing you to assign\nmeaningful names—such",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512850"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512850",
+          "category": [
+            "Launched",
+            "Containers",
+            "Azure Container Apps",
+            "Features",
+            "Microsoft Ignite"
+          ],
+          "title": "[Launched] Generally Available: Rule-based routing in Azure Container Apps",
+          "description": "Azure Container Apps support for rule-based routing is now\ngenerally available. This feature provides greater flexibility and\ncomposability to your Azure Container Apps by simplifying your architecture for\nmicroservice applications, A/B testing, blue-gree",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512813"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512813",
+          "category": [
+            "Launched",
+            "Containers",
+            "Azure Container Apps",
+            "Features",
+            "Microsoft Ignite"
+          ],
+          "title": "[Launched] Generally Available: Premium Ingress in Azure Container Apps",
+          "description": "Azure\nContainer Apps support for premium ingress is now generally available. This\nfeature introduces environment-level ingress configuration options, with the\nprimary highlight being customizable ingress scaling. This capability supports\nthe scaling of th",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "489855"
+          },
+          "link": "https://azure.microsoft.com/updates?id=489855",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Features",
+            "Security",
+            "Microsoft Ignite"
+          ],
+          "title": "[In preview] Public Preview: JWT Validation in Azure Application Gateway",
+          "description": "Announcing the preview of JSON Web Token (JWT) validation in Azure Application Gateway — enabling authentication and token validation right at the Application gateway before traffic reaches your backend applications or APIs.Why It mattersProtect at the pe",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "488990"
+          },
+          "link": "https://azure.microsoft.com/updates?id=488990",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Features",
+            "Services",
+            "Microsoft Ignite"
+          ],
+          "title": "[Launched] Generally Available: Azure Application Gateway mTLS passthrough support",
+          "description": "Announcing a new mTLS enhancement in Azure Application Gateway for backend applications that perform client certificate and authorization header validation at the backend while still requiring web traffic inspection through the Web Application Firewall (W",
+          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
+          "a10:updated": "2025-11-18T17:01:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -149,22 +1546,6 @@
           ],
           "title": "[In development] Public Preview: User and group quota reports in Azure NetApp Files",
           "description": "For organizations leveraging individual user and group quotas in Azure NetApp Files to manage capacity on NFS, SMB, and dual-protocol volumes, the user and group quota reporting feature offers clear visibility into key metrics such as quota limits, used c",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527713"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527713",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure Files"
-          ],
-          "title": "[In preview] Public Preview: Entra-only identities support with Azure Files SMB",
-          "description": "Azure Files now supports Entra-only identities, enabling customers to retire on-premises domain controllers while maintaining secure SMB access to file shares. This feature delivers a fully cloud-native authentication model using Microsoft Entra Kerberos",
           "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
           "a10:updated": "2025-11-18T16:00:16Z"
         },
@@ -2015,1434 +3396,6 @@
           "description": "Azure Storage Mover’s new AWS S3 to Azure Blob migration feature\nis now generally available, empowering organizations to move data directly from\nAWS to Azure securely, reliably, and at scale. With this\nrelease, customers can eliminate manual pipelines and",
           "pubDate": "Mon, 20 Oct 2025 21:00:03 Z",
           "a10:updated": "2025-10-20T21:00:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503268"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503268",
-          "category": [
-            "Launched",
-            "Open Source"
-          ],
-          "title": "[Launched] Open Source: Containerization Assist MCP Server",
-          "description": "Containerization Assist solves the\nchallenge of manual, error-prone containerization by automating Dockerfile creation\nand Kubernetes manifest generation. Unlike basic AI coding tools, it is a full\ncontainerization platform built on AKS Draft’s proven rea",
-          "pubDate": "Mon, 20 Oct 2025 21:00:03 Z",
-          "a10:updated": "2025-10-20T21:00:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "516897"
-          },
-          "link": "https://azure.microsoft.com/updates?id=516897",
-          "category": [
-            "In preview",
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Virtual Machines",
-            "Services",
-            "Pricing & Offerings",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Sharing Capacity Reservation Groups",
-          "description": "The ability to share Capacity Reservation\nGroups (CRGs) with subscriptions is now in Public Preview.  Previously, customers could deploy VMs in a Capacity\nReservation Group within the same subscription only. On-demand Capacity\nReservation Group (CRG) can",
-          "pubDate": "Mon, 20 Oct 2025 17:15:20 Z",
-          "a10:updated": "2025-10-20T17:15:20Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "517027"
-          },
-          "link": "https://azure.microsoft.com/updates?id=517027",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Features",
-            "Services",
-            "Security",
-            "Management"
-          ],
-          "title": "[Launched] Generally Available: Enhanced cloning and Public IP retention scripts for Azure Application Gateway migration",
-          "description": "Azure Application\nGateway introduces two new PowerShell scripts to simplify migration from V1\n(Standard or WAF) to V2 (Standard_V2 or WAF_V2) services.  As V1 SKUs’ is scheduled to retire by April 2026, we advise\nmigrating early and take advantage of Appl",
-          "pubDate": "Mon, 20 Oct 2025 17:00:28 Z",
-          "a10:updated": "2025-10-20T17:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "513752"
-          },
-          "link": "https://azure.microsoft.com/updates?id=513752",
-          "category": [
-            "In development",
-            "Hybrid + multicloud",
-            "Compute",
-            "Azure Modular Datacenter",
-            "Cloud Services",
-            "Regions & Datacenters"
-          ],
-          "title": "[In development] Private Preview: New planned datacenter region in Malaysia (Southeast Asia 3)",
-          "description": "Microsoft is expanding its digital infrastructure footprint further with a new datacenter region, Southeast Asia 3, planned in Malaysia. This datacenter region will feature Microsoft's most comprehensive and strategic cloud services, designed to support a",
-          "pubDate": "Fri, 17 Oct 2025 15:15:35 Z",
-          "a10:updated": "2025-10-17T15:15:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "512396"
-          },
-          "link": "https://azure.microsoft.com/updates?id=512396",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: New OS SKU enum to migrate to Azure Linux 3.0",
-          "description": "You can now\nmigrate to Azure Linux 3.0 with a new OS SKU enum, ‘AzureLinux3’, in Kubernetes\nversion 1.28-1.36.   This new\noption provides increased control over OS upgrades by decoupling them from Kubernetes\nupgrades. Customers using LTS version 1.28-1.31",
-          "pubDate": "Fri, 17 Oct 2025 15:15:35 Z",
-          "a10:updated": "2025-10-17T15:15:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "512374"
-          },
-          "link": "https://azure.microsoft.com/updates?id=512374",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Functions support for Python 3.13",
-          "description": "You can now\ndevelop functions using Python 3.13 locally and deploy them to Azure Functions.   Starting with\nPython 3.13, Functions introduces runtime version control, a new opt-in\nfeature that lets you target specific versions of the Functions Python runt",
-          "pubDate": "Fri, 17 Oct 2025 15:00:03 Z",
-          "a10:updated": "2025-10-17T15:00:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "515452"
-          },
-          "link": "https://azure.microsoft.com/updates?id=515452",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Firewall",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Prescaling in Azure Firewall",
-          "description": "Azure Firewall now supports prescaling, a feature that enables admins to provision and reserve capacity units in advance to handle expected traffic loads – such as seasonal peaks or planned business events. This helps to ensure consistent throughput, fast",
-          "pubDate": "Thu, 16 Oct 2025 16:15:32 Z",
-          "a10:updated": "2025-10-16T16:15:32Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "502044"
-          },
-          "link": "https://azure.microsoft.com/updates?id=502044",
-          "category": [
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features",
-            "Retirements"
-          ],
-          "title": "Retirement: Confidential Containers preview on AKS is Closing Down",
-          "description": "The public preview of Confidential Containers on AKS will be shutting down.This feature has been available in preview since 2023, and as part of our commitment to delivering secure and reliable services, we are streamlining our confidential computing offe",
-          "pubDate": "Thu, 16 Oct 2025 16:15:32 Z",
-          "a10:updated": "2025-10-16T16:15:32Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "516002"
-          },
-          "link": "https://azure.microsoft.com/updates?id=516002",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Firewall",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Observed capacity metric in Azure Firewall",
-          "description": "Azure Firewall\nnow includes the observed capacity metric — a new observability signal designed\nto help administrators understand how their firewalls are scaling in practice.\nObserved capacity tracks the number of capacity units actively utilized over\ntime",
-          "pubDate": "Thu, 16 Oct 2025 16:00:55 Z",
-          "a10:updated": "2025-10-16T16:00:55Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500775"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500775",
-          "category": [
-            "Launched",
-            "Databases",
-            "Migration",
-            "Azure Database Migration Service",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: PowerShell, Az cmdlets, and Python SDK for Azure Database Migration Service",
-          "description": "Announcing the general availability (GA) of automation support for Azure Database Migration Service (DMS) through PowerShell, custom cmdlets, and the Python SDK. Using Azure PowerShell Az.DataMigration or Azure CLI az datamigration, you can migrate databa",
-          "pubDate": "Wed, 15 Oct 2025 22:15:50 Z",
-          "a10:updated": "2025-10-15T22:15:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "512379"
-          },
-          "link": "https://azure.microsoft.com/updates?id=512379",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features",
-            "Regions & Datacenters"
-          ],
-          "title": "[Launched] Generally Available: Availability Zones and network restricted Key Vault and App Configuration references for Flex Consumption",
-          "description": "You can now enable\navailability zones for your Azure Functions Flex Consumption apps during both\ncreation and post-deployment. When enabled, instances are automatically\ndistributed across zones, enhancing reliability and fault tolerance. New Region\nSuppor",
-          "pubDate": "Wed, 15 Oct 2025 18:00:12 Z",
-          "a10:updated": "2025-10-15T18:00:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "515479"
-          },
-          "link": "https://azure.microsoft.com/updates?id=515479",
-          "category": [
-            "Launched",
-            "Storage",
-            "Storage Accounts",
-            "Services",
-            "Features",
-            "Management"
-          ],
-          "title": "[Launched] Generally Available: Azure Storage Discovery",
-          "description": "Azure Storage Discovery provides enterprise-wide\nvisibility into your Azure Storage data estate. Insights that weren’t available before are now at\nyour fingertips. Deeply analyze\nused capacity and activity, optimize costs, enhance\nsecurity, and drive oper",
-          "pubDate": "Wed, 15 Oct 2025 17:00:38 Z",
-          "a10:updated": "2025-10-15T17:00:38Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "511743"
-          },
-          "link": "https://azure.microsoft.com/updates?id=511743",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Analytics",
-            "Azure Databricks",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: SAP Business Data Cloud Connect to Azure Databricks",
-          "description": "SAP Business Data Cloud (BDC) Connect to Azure Databricks is now generally available, enabling secure, bi-directional, zero-copy data sharing between SAP BDC and Azure Databricks using Delta Sharing, so teams can unify SAP and external data for analytics,",
-          "pubDate": "Wed, 15 Oct 2025 17:00:38 Z",
-          "a10:updated": "2025-10-15T17:00:38Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503988"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503988",
-          "category": [
-            "In preview",
-            "Networking",
-            "Azure Private Link",
-            "Features",
-            "Services",
-            "Security",
-            "Management"
-          ],
-          "title": "[In preview] Public Preview: Private Link Service Direct Connect",
-          "description": "Azure\nPrivate Link service\nallows you to make your applications available to your customers privately and\nsecurely. The current setup procedure requires you to configure a private link\nservice and place applications behind a standard load balancer. Privat",
-          "pubDate": "Wed, 15 Oct 2025 17:00:38 Z",
-          "a10:updated": "2025-10-15T17:00:38Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500682"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500682",
-          "category": "Retirements",
-          "title": "Retirement: The F, Fs, Fsv2, Lsv2, G, Gs, Av2, Amv2, and B series VMs are retiring in 2028",
-          "description": "The F, Fs, Fsv2, Lsv2, G, Gs, Av2, Amv2, and B series of Azure Virtual Machines will retire on November 15th, 2028. These VMs will no longer be able to be used or purchased after this date.   To ensure any applications and workloads running on these VMs w",
-          "pubDate": "Wed, 15 Oct 2025 16:15:01 Z",
-          "a10:updated": "2025-10-15T16:15:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "513376"
-          },
-          "link": "https://azure.microsoft.com/updates?id=513376",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Azure Resource Manager",
-            "Compliance",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Locations API Update for UK Azure Regions",
-          "description": "To align with evolving compliance and regulatory requirements, Azure is updating the geographyGroup and regionalDisplayName metadata for UK-based regions in the Locations API.  These changes will take effect this month, October 2025, and will apply to the",
-          "pubDate": "Wed, 15 Oct 2025 16:00:24 Z",
-          "a10:updated": "2025-10-15T16:00:24Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "513855"
-          },
-          "link": "https://azure.microsoft.com/updates?id=513855",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Event Grid",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Event Grid new capabilities",
-          "description": "Multiple new Azure Event Grid features have reached General Availability, supporting real-time\ntelemetry, automation, and hybrid workloads.Features now in General Availability:MQTT\nOAuth 2.0 Authentication Authenticate MQTT clients using JSON Web Tokens\n(",
-          "pubDate": "Tue, 14 Oct 2025 20:15:14 Z",
-          "a10:updated": "2025-10-14T20:15:14Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "511898"
-          },
-          "link": "https://azure.microsoft.com/updates?id=511898",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Spot Placement Score",
-          "description": "Today, we are announcing the general availability of Azure Spot Placement Score, a feature that allows you to assess the likelihood of deployment success for your Spot virtual machines. Spot availability can vary across different combinations of Azure loc",
-          "pubDate": "Tue, 14 Oct 2025 15:00:50 Z",
-          "a10:updated": "2025-10-14T15:00:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "513518"
-          },
-          "link": "https://azure.microsoft.com/updates?id=513518",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Migration",
-            "Azure Site Recovery",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Site Recovery support for Ultra Disks",
-          "description": "Announcing the General Availability of Azure Site Recovery (ASR) support for Virtual Machines with Ultra Disks. This release enables organizations to replicate, failover, and failback virtual machines with Ultra Disks across Azure regions with minimal imp",
-          "pubDate": "Tue, 14 Oct 2025 10:30:39 Z",
-          "a10:updated": "2025-10-14T10:30:39Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "513074"
-          },
-          "link": "https://azure.microsoft.com/updates?id=513074",
-          "category": [
-            "In preview",
-            "Integration",
-            "Internet of Things",
-            "Mobile",
-            "Web",
-            "API Management",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Environmental sustainability features in Azure API Management",
-          "description": "Azure API Management now supports environmental sustainability features in public preview. These capabilities help organizations minimize the carbon footprint of their API infrastructure by making API traffic and policy behavior carbon-aware.With these ne",
-          "pubDate": "Mon, 13 Oct 2025 16:30:27 Z",
-          "a10:updated": "2025-10-13T16:30:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "508403"
-          },
-          "link": "https://azure.microsoft.com/updates?id=508403",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: PostgreSQL 18 on Azure Database for PostgreSQL – Flexible Server",
-          "description": "You can now try PostgreSQL 18 in public preview on Azure Database for PostgreSQL – Flexible Server. PostgreSQL 18 introduces new performance, scalability, and developer productivity improvements. With this preview, you get early access to the latest commu",
-          "pubDate": "Mon, 13 Oct 2025 16:00:05 Z",
-          "a10:updated": "2025-10-13T16:00:05Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "502914"
-          },
-          "link": "https://azure.microsoft.com/updates?id=502914",
-          "category": [
-            "AI + machine learning",
-            "Azure AI Custom Vision",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Custom Vision will be retired on September 25, 2028",
-          "description": "Microsoft is announcing the planned retirement of the Azure Custom Vision service.  Microsoft will provide full support for all existing Azure Custom Vision customers until 9/25/2028. During this support window, customers are encouraged to begin planning",
-          "pubDate": "Mon, 13 Oct 2025 16:00:05 Z",
-          "a10:updated": "2025-10-13T16:00:05Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503325"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503325",
-          "category": [
-            "In preview",
-            "Security",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Azure Integrated HSM",
-          "description": "We\nare announcing the release of Azure\nIntegrated HSM, a Hardware Security Module (HSM) cache and crypto\naccelerator designed to enhance the security and performance of cryptographic\noperations in virtual machines. For customers who heavily rely on\ncrypto",
-          "pubDate": "Mon, 13 Oct 2025 15:30:40 Z",
-          "a10:updated": "2025-10-13T15:30:40Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "508413"
-          },
-          "link": "https://azure.microsoft.com/updates?id=508413",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Microsoft Entra ID token refresh code samples in Python and .NET",
-          "description": "You can now access code samples for Entra ID token refresh using Python and .NET in Azure Database for PostgreSQL. These samples are designed to help you securely manage authentication tokens when connecting to your PostgreSQL database with Entra ID, ensu",
-          "pubDate": "Mon, 13 Oct 2025 15:00:46 Z",
-          "a10:updated": "2025-10-13T15:00:46Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503627"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503627",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Database for MySQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Custom port support for Azure Database for MySQL – Flexible Server",
-          "description": "You can now configure a custom port (25001–26000) during server creation for both public and private access-enabled servers—enabling you to integrate more easily with existing applications and improve alignment with security postures. By default, MySQL se",
-          "pubDate": "Thu, 09 Oct 2025 17:30:09 Z",
-          "a10:updated": "2025-10-09T17:30:09Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "512875"
-          },
-          "link": "https://azure.microsoft.com/updates?id=512875",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Firewall",
-            "Azure Firewall Manager",
-            "Security",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Firewall updates - Customer provided public IP address support in secured hubs",
-          "description": "Azure Firewall in Virtual WAN\nsecured hubs now supports the use of customer-provided public IP addresses.\nThis capability enables organizations to bring their own public IP addresses\nwhen deploying Azure Firewall in a secured Virtual WAN hub, providing gr",
-          "pubDate": "Thu, 09 Oct 2025 17:00:43 Z",
-          "a10:updated": "2025-10-09T17:00:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "512201"
-          },
-          "link": "https://azure.microsoft.com/updates?id=512201",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Azure Arc",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Firmware analysis enabled by Azure Arc",
-          "description": "Firmware analysis enabled by Azure Arc is now generally available. Firmware analysis brings deep visibility into the software that powers IoT/OT and network devices—systems that often operate as “black boxes” with limited insight into their security postu",
-          "pubDate": "Thu, 09 Oct 2025 14:15:20 Z",
-          "a10:updated": "2025-10-09T14:15:20Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "502049"
-          },
-          "link": "https://azure.microsoft.com/updates?id=502049",
-          "category": "Retirements",
-          "title": "Retirement: Azure AI Health Insights and related models",
-          "description": "As part of a strategic review of our AI portfolio, Azure AI Health Insights service and the Clinical Trials Matcher and Radiology Insights models will be retired on December 31, 2025, and will no longer be available for use or integration. As a result, e",
-          "pubDate": "Thu, 09 Oct 2025 12:45:35 Z",
-          "a10:updated": "2025-10-09T12:45:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "508971"
-          },
-          "link": "https://azure.microsoft.com/updates?id=508971",
-          "category": [
-            "In preview",
-            "Management and governance",
-            "Storage",
-            "Azure Backup",
-            "Management"
-          ],
-          "title": "[In preview] Public Preview: Introducing Vaulted Backup for Azure Data Lake Storage",
-          "description": "Announcing the Public Preview of Vaulted Backup\nfor Azure Data Lake Storage (ADLS)!Azure Backup now\nsupports vaulted protection for ADLS, delivering secure, off-site backups that\nensure business continuity and compliance—even in cases of accidental deleti",
-          "pubDate": "Thu, 09 Oct 2025 00:00:23 Z",
-          "a10:updated": "2025-10-09T00:00:23Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499606"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499606",
-          "category": [
-            "Databases",
-            "Azure Cache for Redis",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Cache for Redis Enterprise is retiring on March 30, 2027",
-          "description": "Azure Cache for Redis Enterprise and Enterprise Flash tiers is retiring on March 31, 2027 and we recommend you migrate your workloads to use Azure Managed Redis by that date. Starting April 1, 2026, users will not be able to create new instances of Azure",
-          "pubDate": "Wed, 08 Oct 2025 23:15:04 Z",
-          "a10:updated": "2025-10-08T23:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499577"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499577",
-          "category": [
-            "Databases",
-            "Azure Cache for Redis",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Cache for Redis is retiring on September 30, 2028",
-          "description": "Azure Cache for Redis (Basic, Standard and Premium) will be retired on September 30, 2028 and we recommend you migrate your workloads to use Azure Managed Redis before September 30, 2028. Azure Cache for Redis instances that are not migrated by September",
-          "pubDate": "Wed, 08 Oct 2025 23:15:04 Z",
-          "a10:updated": "2025-10-08T23:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500273"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500273",
-          "category": [
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Network Policy Manager (NPM) for Windows nodes on AKS to Be Retired by September 30, 2026",
-          "description": "On September 30, 2026, we’ll end support for Azure Network Policy Manager (NPM) on Windows nodes in AKS. To ensure your setup continues to receive support, security updates, and deployment compatibility, please explore alternative options, such as using N",
-          "pubDate": "Tue, 07 Oct 2025 21:30:21 Z",
-          "a10:updated": "2025-10-07T21:30:21Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "511722"
-          },
-          "link": "https://azure.microsoft.com/updates?id=511722",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Firewall",
-            "Security",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Firewall Updates - IP Group limit increased to 600 per Firewall Policy",
-          "description": "Azure Firewall Policy now supports up to 600 IP Groups per policy, up from the previous limit of 200. This enhancement enables users to: Reduce rule complexity by replacing long lists of IPs with more well-organized IP Groups, making rule sets easier to m",
-          "pubDate": "Tue, 07 Oct 2025 16:30:20 Z",
-          "a10:updated": "2025-10-07T16:30:20Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503836"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503836",
-          "category": [
-            "Launched",
-            "Features"
-          ],
-          "title": "[Launched] Generally Avaialbe: Azure NetApp Files short-term clones",
-          "description": "Azure NetApp Files short-term clones enable space-efficient, instant read/write access to data by creating temporary thin clones from existing volume snapshots, eliminating the need for full data copies and enabling capacity savings. Ideal for software de",
-          "pubDate": "Tue, 07 Oct 2025 14:30:18 Z",
-          "a10:updated": "2025-10-07T14:30:18Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500853"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500853",
-          "category": [
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Retirements"
-          ],
-          "title": "Retirement: Legacy Authentication in Azure Monitor - Container Insights will be retired on September 30, 2026.",
-          "description": "Legacy Authentication in Azure Monitor - Container\nInsights will be retired on September 30, 2026.  Legacy authentication has been replaced by the\nmore secure Managed Identity\nauthentication method. Migrating to Managed Identity also gives customers\nacces",
-          "pubDate": "Tue, 07 Oct 2025 13:00:16 Z",
-          "a10:updated": "2025-10-07T13:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503263"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503263",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: AI toolchain operator add-on (KAITO) for AKS",
-          "description": "The AI toolchain operator add-on\n(KAITO) is now generally available on AKS, streamlining the deployment of AI\ninference and fine-tuning workflows using popular open-source frameworks. With\nvLLM as the default inference engine, this addon reduces managemen",
-          "pubDate": "Tue, 07 Oct 2025 12:00:49 Z",
-          "a10:updated": "2025-10-07T12:00:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503636"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503636",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server",
-          "description": "PostgreSQL minor versions 17.6, 16.10, 15.14, 14.19, 13.22, and 18 Beta 3 are now supported by Azure Database for PostgreSQL – Flexible Server.      These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azu",
-          "pubDate": "Mon, 06 Oct 2025 20:45:03 Z",
-          "a10:updated": "2025-10-06T20:45:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "azure-unmanaged-disks-will-be-retired-on-30-september-2025"
-          },
-          "link": "https://azure.microsoft.com/updates?id=azure-unmanaged-disks-will-be-retired-on-30-september-2025",
-          "category": "Retirements",
-          "title": "Azure unmanaged disks will be retired on 31 March 2026 (formerly 30 September 2025)",
-          "description": "In 2017, we launched Azure Managed Disks. Since then, we've been enhancing our capabilities. We will begin deprecating unmanaged disks on September 30, 2022, because Azure Managed Disks now have full capabilities of unmanaged disks and other advancements.",
-          "pubDate": "Fri, 23 Sep 2022 23:00:56 Z",
-          "a10:updated": "2025-10-06T20:45:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501673"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501673",
-          "category": [
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Monitor SCOM Managed Instance will be retired on Sep 30, 2026",
-          "description": "After\nSeptember 30, 2026, customers will no longer be able to access the\nservice. Please see our retirement\ndocumentation for more details. Recommended\naction If\nyour goal is to monitor on-premises workloads, please transition to Operations Manager\non-pre",
-          "pubDate": "Fri, 03 Oct 2025 18:15:20 Z",
-          "a10:updated": "2025-10-03T18:15:20Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503258"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503258",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: CLI command for migration from Availability Sets and basic load balancer on AKS",
-          "description": "Availability Sets and the basic load\nbalancer are being deprecated on September 30 2025. AKS now supports, a simple\nAzure CLI command that will automatically migrate your AKS cluster from\nAvailability Sets to the new Virtual Machines node pool and upgrade",
-          "pubDate": "Fri, 03 Oct 2025 16:45:25 Z",
-          "a10:updated": "2025-10-03T16:45:25Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501340"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501340",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Cross-tenant customer-managed keys for Azure NetApp Files volume encryption",
-          "description": "Cross-tenant Customer-Managed Keys (CMK) for Azure NetApp Files volume encryption is now generally available, empowering customers to manage their own encryption keys across different Azure tenancies. This capability enhances control and flexibility in mu",
-          "pubDate": "Fri, 03 Oct 2025 16:15:04 Z",
-          "a10:updated": "2025-10-03T16:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500848"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500848",
-          "category": [
-            "Compute",
-            "Web",
-            "Static Web Apps",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Static Web Apps database connection feature",
-          "description": "Due to changes in underlying infrastructure, the database connections feature of Static Web Apps this feature (currently in public preview), will be deprecated effective November 30, 2025. \nTo avoid issues in deployments using this feature you can refacto",
-          "pubDate": "Fri, 03 Oct 2025 16:15:04 Z",
-          "a10:updated": "2025-10-03T16:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "508748"
-          },
-          "link": "https://azure.microsoft.com/updates?id=508748",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview:  Azure NetApp Files Support for OpenLDAP, FreeIPA, and Red Hat Directory Server LDAP services",
-          "description": "Azure NetApp Files now supports integration with FreeIPA, OpenLDAP, and Red Hat Directory Server—available in public preview. This LDAP integration enables secure LDAP over TLS connectivity for NFSv3 and NFSv4.1 volumes, allowing enterprises to use these",
-          "pubDate": "Fri, 03 Oct 2025 16:01:01 Z",
-          "a10:updated": "2025-10-03T16:01:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499923"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499923",
-          "category": [
-            "Networking",
-            "Security",
-            "VPN Gateway",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure VPN Gateway support for SSTP Protocol will be retired on March 31, 2027",
-          "description": "Due to its limited\nscalability and suboptimal performance, support for SSTP will be phased out. We\nstrongly recommend transitioning to IKEv2 or OpenVPN, which offer\nsignificantly enhanced capabilities—including support for up to 10,000\nconnections and 10",
-          "pubDate": "Fri, 03 Oct 2025 16:01:01 Z",
-          "a10:updated": "2025-10-03T16:01:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "496964"
-          },
-          "link": "https://azure.microsoft.com/updates?id=496964",
-          "category": [
-            "Storage",
-            "Storage Accounts",
-            "Retirements"
-          ],
-          "title": "Retirement: General Purpose v1 (GPv1) and legacy blob storage accounts",
-          "description": "As part of our ongoing efforts to streamline the Azure Storage portfolio and deliver enhanced performance, scalability, and cost efficiency, we are announcing the retirement of all General purpose v1 (GPv1) storage accounts. This includes legacy blob stor",
-          "pubDate": "Fri, 03 Oct 2025 14:15:21 Z",
-          "a10:updated": "2025-10-03T14:15:21Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "509097"
-          },
-          "link": "https://azure.microsoft.com/updates?id=509097",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Networking",
-            "Traffic Manager",
-            "Services",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: New Health Check infrastructure for Azure Traffic Manager",
-          "description": "Azure Traffic Manager has\nintroduced new health check infrastructure to improve the resiliency and\nscalability of the service. This infrastructure is now available, and customers\nare being moved onto the new infrastructure. The rollout of the new probing",
-          "pubDate": "Thu, 02 Oct 2025 16:36:44 Z",
-          "a10:updated": "2025-10-02T16:36:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503646"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503646",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Analytics",
-            "Azure SQL Database",
-            "Microsoft Fabric",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: MSSQL extension integration with Microsoft Fabric",
-          "description": "The MSSQL extension for Visual Studio Code (VS Code) now brings SQL database in Fabric directly into your development workflow. With the new Fabric connectivity option in the Connection Dialog, you can sign in using Microsoft Entra ID, browse your Fabric",
-          "pubDate": "Wed, 01 Oct 2025 17:30:57 Z",
-          "a10:updated": "2025-10-01T17:30:57Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501692"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501692",
-          "category": [
-            "AI + machine learning",
-            "Internet of Things",
-            "Azure Machine Learning",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Machine Learning - Data labeling Deprecation",
-          "description": "On September 30, 2026, Azure Machine data labeling will be retired. Please transition to 3rd party data labeling providers by 30 September 2026.  From today to September 30, 2026, you can continue to use data labelling without disruption. On September 30,",
-          "pubDate": "Wed, 01 Oct 2025 17:30:57 Z",
-          "a10:updated": "2025-10-01T17:30:57Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500268"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500268",
-          "category": [
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Network Policy Manager (NPM) for Linux nodes on AKS to Be Retired by September 30, 2028",
-          "description": "On September 30, 2028, we’ll end support for Azure Network Policy Manager (NPM) on Linux nodes in AKS. To avoid disruptions, migrate AKS clusters running Linux nodes from NPM to Cilium Network Policy by that date.      Transitioning to Cilium Network Poli",
-          "pubDate": "Wed, 01 Oct 2025 17:15:18 Z",
-          "a10:updated": "2025-10-01T17:15:18Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503612"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503612",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure SQL updates for late September 2025",
-          "description": "In late September 2025, the following updates and enhancements were made to Azure SQL:  Protection from ransomware attacks to long-term retention (LTR) backups via immutability. Learn more.",
-          "pubDate": "Wed, 01 Oct 2025 16:00:52 Z",
-          "a10:updated": "2025-10-01T16:00:52Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "506886"
-          },
-          "link": "https://azure.microsoft.com/updates?id=506886",
-          "category": [
-            "In preview",
-            "Compute",
-            "Azure VM Image Builder",
-            "Virtual Machine Scale Sets",
-            "Virtual Machines",
-            "Gallery",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Soft Delete feature in Azure Compute Gallery",
-          "description": "The Soft Delete feature in Azure Compute Gallery lets you recover accidentally deleted images within a 7-day retention period. This grace period gives users time to restore any images that were mistakenly deleted. Learn more.",
-          "pubDate": "Tue, 30 Sep 2025 19:30:35 Z",
-          "a10:updated": "2025-09-30T19:30:35Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501528"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501528",
-          "category": "Retirements",
-          "title": "Retirement: Support for Service Connector (preview) on Azure Container Apps will end on March 30th, 2026",
-          "description": "Support for Service Connector (preview) on Azure Container Apps will end on March 30, 2026. After this date, Service Connector (preview) will no longer be supported on Azure Container Apps. If you created service connections using the Azure Portal, your e",
-          "pubDate": "Tue, 30 Sep 2025 17:30:02 Z",
-          "a10:updated": "2025-09-30T17:30:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500578"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500578",
-          "category": "Retirements",
-          "title": "Retirement: NVv4-series Azure Virtual Machines will be retired on September 30, 2026",
-          "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV4as_v4, Standard_NV4ahs_v4,Standard_NV8as_v4, Standard_NV8ahs_v4,Standard_NV16as_v4, Standard_NV16ahs_v4, Standard_NV32as_v4, and Standard_NV32ahs_v4 virtual machines (VMs) in the NVv4-seri",
-          "pubDate": "Tue, 30 Sep 2025 17:15:32 Z",
-          "a10:updated": "2025-09-30T17:15:32Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "502602"
-          },
-          "link": "https://azure.microsoft.com/updates?id=502602",
-          "category": [
-            "Analytics",
-            "Microsoft Fabric",
-            "Retirements"
-          ],
-          "title": "Retirement: Spark Native Connector for Semantic Link",
-          "description": "Starting October 1, 2025, the Spark native connector will be officially retired. This decision is based on internal analysis indicating low usage, high maintenance costs, and potential security vulnerabilities. To ensure continued support and improved sec",
-          "pubDate": "Tue, 30 Sep 2025 13:45:49 Z",
-          "a10:updated": "2025-09-30T13:45:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "506317"
-          },
-          "link": "https://azure.microsoft.com/updates?id=506317",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Azure Resource Manager",
-            "Features",
-            "Management",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Visualize New Azure Resource Manager Metrics through Azure Monitor",
-          "description": "We are announcing that Azure Resource Manager now offers enhanced integration with Azure Monitor Metrics for your subscriptions! You can now have deeper visibility and more granular monitoring capabilities for your Resource Manager operations.You can acce",
-          "pubDate": "Mon, 29 Sep 2025 15:30:44 Z",
-          "a10:updated": "2025-09-29T15:30:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503883"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503883",
-          "category": [
-            "Compute",
-            "Azure VMware Solution",
-            "Retirements"
-          ],
-          "title": "Azure VMware Solution AV36 Node Retirement on June 30, 2028",
-          "description": "Microsoft is announcing the retirement of the AV36 node type\non June 30, 2028. The terms of your current AV36 Reserved Instance (RI) are\nnot affected by this announcement. At this time, we recommend that you review your current AV36\nRI expiration timeline",
-          "pubDate": "Sat, 27 Sep 2025 00:30:39 Z",
-          "a10:updated": "2025-09-27T00:30:39Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499851"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499851",
-          "category": [
-            "AI + machine learning",
-            "Azure AI Language",
-            "Retirements",
-            "Services"
-          ],
-          "title": "Retirement: Entity Linking from Azure AI Language",
-          "description": "Microsoft\nis announcing the planned retirement of Entity Linking from Azure AI Language. We\nrecommend considering a replacement solution; Named\nEntity Recognition from Azure AI Language also supports entity\nidentification. Microsoft\nwill provide full supp",
-          "pubDate": "Fri, 26 Sep 2025 22:00:37 Z",
-          "a10:updated": "2025-09-26T22:00:37Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499451"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499451",
-          "category": [
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Retirements",
-            "Pricing & Offerings"
-          ],
-          "title": "Retirement: The Linux Consumption hosting plan of Azure Functions will be retired on September 30, 2028. Migrate to Flex Consumption.",
-          "description": "The Azure Functions Linux Consumption hosting plan is being retired. Customers are advised to migrate to the Flex Consumption plan, which offers faster scaling, advanced networking, cold start mitigation, and concurrency control. To identify affected reso",
-          "pubDate": "Fri, 26 Sep 2025 16:30:29 Z",
-          "a10:updated": "2025-09-26T16:30:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "498563"
-          },
-          "link": "https://azure.microsoft.com/updates?id=498563",
-          "category": [
-            "Storage",
-            "Azure Blob Storage",
-            "Retirements"
-          ],
-          "title": "Retirement: Upgrade BlobFuse v1 to latest version of Blobfuse v2",
-          "description": "We recommend upgrading from BlobFuse v1 to BlobFuse\nv2,as all future enhancements and innovations related to Azure Blob Storage file system access will be focused exclusively on BlobFuse v2. Please note that support for BlobFuse v1 will be discontinued ef",
-          "pubDate": "Fri, 26 Sep 2025 16:00:55 Z",
-          "a10:updated": "2025-09-26T16:00:55Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500016"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500016",
-          "category": [
-            "Compute",
-            "Mobile",
-            "Web",
-            "App Service",
-            "Retirements",
-            "Features"
-          ],
-          "title": "Retirement: Azure App Service on Azure Arc enabled Kubernetes",
-          "description": "Beginning on September 30th 2025, Azure App Service on Azure Arc enabled Kubernetes will be retired, and customers will no longer be able to install the extension.To continue to host your application workloads, we request you migrate to other solutions su",
-          "pubDate": "Fri, 26 Sep 2025 11:45:02 Z",
-          "a10:updated": "2025-09-26T11:45:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503687"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503687",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure NetApp Files",
-            "Features",
-            "Pricing & Offerings",
-            "SDK and Tools"
-          ],
-          "title": "[Launched] Generally Available: Azure NetApp Files Flexible service level",
-          "description": "Flexible service level allows you to independently configure storage capacity and throughput, optimizing costs and performance by right-sizing based on your needs. This new service level avoids overprovisioning by supporting a customizable throughput whic",
-          "pubDate": "Thu, 25 Sep 2025 17:00:08 Z",
-          "a10:updated": "2025-09-25T17:00:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "497368"
-          },
-          "link": "https://azure.microsoft.com/updates?id=497368",
-          "category": [
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Retirements"
-          ],
-          "title": "Retirement: The Insights blade in AKS is now called Monitor",
-          "description": "The Insights blade in AKS has been renamed to Monitor and relocated\nfrom the Monitoring section to the top level of the table of contents for\nincreased visibility. You’ll continue to have access to the same monitoring\ndata and features—there are no change",
-          "pubDate": "Thu, 25 Sep 2025 12:00:02 Z",
-          "a10:updated": "2025-09-25T12:00:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503641"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503641",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Discover and assess PostgreSQL in Azure Migrate",
-          "description": "Planning the next move for your PostgreSQL workloads just got easier. Azure Migrate now enables you to discover and assess PostgreSQL resources across VMware, Hyper‑V, physical servers, and other cloud environments. Azure Migrate provides a centralized hu",
-          "pubDate": "Wed, 24 Sep 2025 17:00:24 Z",
-          "a10:updated": "2025-09-24T17:00:24Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503622"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503622",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Database for MySQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Delete on-demand backup in Azure DB for MySQL - Flexible Server",
-          "description": "You can now manually trigger on-demand backups in Azure DB for MySQL - Flexible Server instead of solely relying on the system-initiated automated backups and schedule. As part of August 2025 release, you can delete on-demand backups that are no longer ne",
-          "pubDate": "Wed, 24 Sep 2025 17:00:24 Z",
-          "a10:updated": "2025-09-24T17:00:24Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "493779"
-          },
-          "link": "https://azure.microsoft.com/updates?id=493779",
-          "category": [
-            "Compute",
-            "Virtual Machine Scale Sets",
-            "Virtual Machines",
-            "Retirements"
-          ],
-          "title": "Retirement: Azure Disk Encryption",
-          "description": "Azure\nDisk Encryption will be retired on September 15, 2028 and we recommend you transition to Encryption\nat Host by that date.   Alternate disk encryption solutions such as\nEncryption At Host and CVM OS disk encryption offer broader operating system\nsupp",
-          "pubDate": "Wed, 24 Sep 2025 11:45:14 Z",
-          "a10:updated": "2025-09-24T11:45:14Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "502998"
-          },
-          "link": "https://azure.microsoft.com/updates?id=502998",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Migration",
-            "Azure Site Recovery",
-            "Features",
-            "Management"
-          ],
-          "title": "[Launched] Generally Available: Azure Site Recovery Support for Virtual Machines with Premium SSD v2 disks",
-          "description": "Announcing the General Availability of Azure Site Recovery (ASR) for Virtual Machines with Premium SSD v2 disks. ASR provides seamless disaster recovery for Virtual Machines across Azure Regions and from on-premises to Azure, helping organizations maintai",
-          "pubDate": "Tue, 23 Sep 2025 17:30:13 Z",
-          "a10:updated": "2025-09-23T17:30:13Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500573"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500573",
-          "category": "Retirements",
-          "title": "Retirement: NVv3-series Azure Virtual Machines will be retired on September 30 ,2026",
-          "description": "On September 30, 2026, Microsoft Azure will retire the Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, and Standard_NV48s_v3 virtual machines (VMs) in the NVv3-series virtual machines (VMs). To avoid any d",
-          "pubDate": "Tue, 23 Sep 2025 16:00:30 Z",
-          "a10:updated": "2025-09-23T16:00:30Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503603"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503603",
-          "category": [
-            "Launched",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: GitHub Copilot app modernization capabilities for Java and .NET are now available",
-          "description": "App modernization is essential for enterprises to stay\nsecure, scalable and innovative—but traditionally it requires a lot of effort\nthat can be redundant and complex. With GitHub Copilot app modernization,\ndevelopers can now stay focused on innovation wh",
-          "pubDate": "Tue, 23 Sep 2025 15:00:40 Z",
-          "a10:updated": "2025-09-23T15:00:40Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503909"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503909",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Management",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Using Server-sent events with Application Gateway",
-          "description": "Azure Application Gateway supports use of Server-sent events in general\navailability, enabling real-time data streaming from server to client.\nServer-sent events utilize server push technology on a persistent HTTP\nconnection for seamless updates to the cl",
-          "pubDate": "Mon, 22 Sep 2025 17:00:22 Z",
-          "a10:updated": "2025-09-22T17:00:22Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503806"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503806",
-          "category": [
-            "Launched",
-            "Management and governance",
-            "Storage",
-            "Azure Backup",
-            "Management",
-            "Security",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Vaulted backup for Azure Files (Premium)",
-          "description": "Announcing the General availability of vaulted backup for Azure Files shares premium!  Azure Backup brings vaulted protection to Azure Files shares premium, to ensure business\ncontinuity and compliance, even in the face of accidental deletion, malicious\na",
-          "pubDate": "Mon, 22 Sep 2025 16:15:14 Z",
-          "a10:updated": "2025-09-22T16:15:14Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503240"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503240",
-          "category": [
-            "In preview",
-            "Containers",
-            "Compute",
-            "Azure Kubernetes Fleet Manager",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – auto-upgrade target Kubernetes version channel",
-          "description": "Azure Kubernetes Fleet Manager has a new auto-upgrade channel that\nallows you to set a target Kubernetes minor version. Using this channel means\nclusters on the target Kubernetes minor continue to receive only patch updates\nuntil the minor reaches the end",
-          "pubDate": "Fri, 19 Sep 2025 17:30:11 Z",
-          "a10:updated": "2025-09-19T17:30:11Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503034"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503034",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: High Scale mode for Azure Monitor – Container Insights",
-          "description": "Container Insights is Azure Monitor’s solution for collecting logs from your Azure Kubernetes Service clusters.   Announcing  the general availability of High scale mode in Container Insights to help customers achieve a higher log collection throughput fr",
-          "pubDate": "Fri, 19 Sep 2025 13:30:10 Z",
-          "a10:updated": "2025-09-19T13:30:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503286"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503286",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "DevOps",
-            "Management and governance",
-            "Azure Kubernetes Service (AKS)",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Managed Service for Prometheus now includes native Grafana dashboards within the Azure portal",
-          "description": "Announcing the Azure Managed Service for\nPrometheus now includes native Grafana dashboards within the Azure portal at no\nadditional cost. This integration marks a major milestone in our mission to\nsimplify observability reducing the administrative overhea",
-          "pubDate": "Fri, 19 Sep 2025 13:00:39 Z",
-          "a10:updated": "2025-09-19T13:00:39Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503350"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503350",
-          "category": [
-            "Launched",
-            "Migration",
-            "Storage",
-            "Azure Data Box",
-            "Features",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Azure Data Box Next Gen is now generally available in additional regions",
-          "description": "Azure\nData Box Next Gen is now Generally Available in NEW regions including: India, Qatar, South Africa and Korea. With\nthis new addition, we now have:\n Both\n     Azure Data box 120TB and 525 TB generally available (GA) in the US, UK,\n     Europe, US Gov,",
-          "pubDate": "Fri, 19 Sep 2025 12:00:46 Z",
-          "a10:updated": "2025-09-19T12:00:46Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503878"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503878",
-          "category": [
-            "Compute",
-            "Azure VMware Solution",
-            "Retirements"
-          ],
-          "title": "Retirement: Licensing changes for future Azure VMware Solution subscriptions starting October 16, 2025.",
-          "description": "Broadcom\nannounced changes to their VMware licensing policies. The change now\nrequires new customers to bring their own portable VCF subscriptions when\nusing hyperscaler platforms. Our current Azure VMware Solution (AVS) customers\ncan continue to operate",
-          "pubDate": "Thu, 18 Sep 2025 20:45:29 Z",
-          "a10:updated": "2025-09-18T20:45:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "502874"
-          },
-          "link": "https://azure.microsoft.com/updates?id=502874",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: DCa/ECa v6 series AMD based confidential virtual machines (VMs)",
-          "description": "Microsoft is announcing the general availability of the new DCa/ECa v6 series AMD based confidential virtual machines (VMs) in the UAE North and Korea Central regions with 4th generation AMD EPYC™ processors. Featuring Secure Encrypted Virtualization – Se",
-          "pubDate": "Thu, 18 Sep 2025 19:00:07 Z",
-          "a10:updated": "2025-09-18T19:00:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503245"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503245",
-          "category": [
-            "In preview",
-            "Containers",
-            "Compute",
-            "Azure Kubernetes Fleet Manager",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager – update run approval gates",
-          "description": "Azure Kubernetes\nFleet Manager update runs now support approval gates. Gates can be placed before and after update\ngroups and stages and provide additional control over the flow of the update\nrun. Gates allow you to either manually approve the update run",
-          "pubDate": "Thu, 18 Sep 2025 17:30:18 Z",
-          "a10:updated": "2025-09-18T17:30:18Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503139"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503139",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Distributed tracing for Durable Functions",
-          "description": "Distributed tracing V2 for Durable Functions introduces a robust and comprehensive\ntracing model that enables developers to correlate operations in\norchestrations, activities, and durable entities. This capability is particularly\nuseful for Durable Functi",
-          "pubDate": "Thu, 18 Sep 2025 17:00:27 Z",
-          "a10:updated": "2025-09-18T17:00:27Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503134"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503134",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Functions .NET 10 support",
-          "description": "Azure Functions now supports .NET 10 in Public Preview. To use\n.NET 10, adjust the target framework in your Functions project, and update\nreferences to Microsoft.Azure.Functions.Worker.Sdk to version 2.0.5 or later. .NET 10 projects can be deployed to app",
-          "pubDate": "Wed, 17 Sep 2025 17:15:04 Z",
-          "a10:updated": "2025-09-17T17:15:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503617"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503617",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure DDoS Protection",
-            "Azure Firewall",
-            "Azure Firewall Manager",
-            "Web Application Firewall",
-            "Services",
-            "Features",
-            "Security"
-          ],
-          "title": "[Launched] Generally Available: Introducing the new Network Security Hub experience",
-          "description": "The Azure Firewall Manager\nexperience has been expanded and rebranded as the Network Security Hub—a\ncentralized interface that brings together Azure Firewall, Web\nApplication Firewall (WAF), and DDoS Protection. This change is part\nof a broader effort to",
-          "pubDate": "Wed, 17 Sep 2025 16:30:45 Z",
-          "a10:updated": "2025-09-17T16:30:45Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "503408"
-          },
-          "link": "https://azure.microsoft.com/updates?id=503408",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Analytics",
-            "Azure Databricks",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Databricks One in Azure Databricks",
-          "description": "Databricks One in Azure Databricks delivers a unified, simplified experience that brings together data engineering, analytics, and AI development in a single, governed platform. By integrating collaborative workflows, enterprise-grade governance, and perf",
-          "pubDate": "Wed, 17 Sep 2025 16:30:45 Z",
-          "a10:updated": "2025-09-17T16:30:45Z"
         }
       ]
     }
