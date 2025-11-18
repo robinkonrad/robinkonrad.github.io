@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 17 Nov 2025 20:00:46 Z",
+      "lastBuildDate": "Tue, 18 Nov 2025 08:00:28 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "518469"
+          },
+          "link": "https://azure.microsoft.com/updates?id=518469",
+          "category": [
+            "In preview",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Microsoft Ignite",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Query-based metric alerts in Azure Monitor",
+          "description": "Azure Monitor metric\nalerts now support all Azure metrics - including platform,\nPrometheus, and custom metrics - giving you complete coverage for your monitoring\nneeds. In addition, metric alerts now offer powerful query capabilities with PromQL, the indu",
+          "pubDate": "Tue, 18 Nov 2025 08:00:28 Z",
+          "a10:updated": "2025-11-18T08:00:28Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3498,24 +3517,6 @@
           ],
           "title": "[In preview] Public Preview: Azure Database for PostgreSQL Entra ID group login using user credentials",
           "description": "The public preview of Entra ID group login using user credentials, now available on newly provisioned servers. This anticipated feature simplifies user management and improves security within the Azure Database for PostgreSQL Flexible Server environments.",
-          "pubDate": "Thu, 28 Aug 2025 14:45:15 Z",
-          "a10:updated": "2025-08-28T14:45:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "500785"
-          },
-          "link": "https://azure.microsoft.com/updates?id=500785",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure SQL updates for late-August 2025",
-          "description": "In late August 2025, the following updates and enhancements were made to Azure SQL and SQL Server:  Easily spin up local SQL Server containers. Now generally available, the local SQL Server container enables container creation in the MSSQL extension for V",
           "pubDate": "Thu, 28 Aug 2025 14:45:15 Z",
           "a10:updated": "2025-08-28T14:45:15Z"
         }
