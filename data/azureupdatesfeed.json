@@ -6,9 +6,30 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 19 Nov 2025 17:30:18 Z",
+      "lastBuildDate": "Wed, 19 Nov 2025 17:45:05 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "515505"
+          },
+          "link": "https://azure.microsoft.com/updates?id=515505",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "DevOps",
+            "Management and governance",
+            "Azure Kubernetes Service (AKS)",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Recommended alerts for Azure Monitor Workspace",
+          "description": "Azure Monitor now offers one-click enablement of recommended alerts directly in the Azure Portal for Azure Monitor Managed service for Prometheus customers. These alerts enable you to monitor the ingestion limits for Azure Monitor Workspace and avoid metr",
+          "pubDate": "Wed, 19 Nov 2025 17:45:05 Z",
+          "a10:updated": "2025-11-19T17:45:05Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -284,7 +305,7 @@
             "Virtual Machines"
           ],
           "title": "[In preview] Public Preview: NCv6 Virtual Machines",
-          "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\navailable on Azure.\nNvidia RTC PRO 6000 BSE GPUs are designed to accelerate a wide array of\nworkloads including v",
+          "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\navailable on Azure.\nNvidia RTX PRO 6000 BSE GPUs are designed to accelerate a wide array of\nworkloads including v",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         },
@@ -3370,24 +3391,6 @@
           ],
           "title": "[In preview] Public Preview: Instant Access Snapshots for Azure Premium SSD v2 and Ultra Disks Storage",
           "description": "Announcing the Public Preview of Instant Access Snapshots\nfor Premium SSD v2 (Pv2) and Ultra Disks. This new capability enables you\nto restored new disks immediately after creating snapshots of Pv2 and Ultra\ndisks. Restore disks deliver high performance i",
-          "pubDate": "Thu, 30 Oct 2025 16:00:54 Z",
-          "a10:updated": "2025-10-30T16:00:54Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "502957"
-          },
-          "link": "https://azure.microsoft.com/updates?id=502957",
-          "category": [
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Retirements"
-          ],
-          "title": "Retirement: Support for Node.js 20 ends on April 30, 2026 – upgrade your apps to Node.js 22",
-          "description": "In alignment with the end of community\nsupport, on April 30, 2026, support for Node.js 20 in Azure Functions will end.\nYour apps that are hosted on Functions will continue to run, but security\nupdates and performance optimizations will no longer be availa",
           "pubDate": "Thu, 30 Oct 2025 16:00:54 Z",
           "a10:updated": "2025-10-30T16:00:54Z"
         }
