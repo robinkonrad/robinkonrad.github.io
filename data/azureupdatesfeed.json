@@ -6,9 +6,28 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 19 Nov 2025 17:45:05 Z",
+      "lastBuildDate": "Wed, 19 Nov 2025 20:00:49 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "529342"
+          },
+          "link": "https://azure.microsoft.com/updates?id=529342",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Managed Lustre",
+            "Features",
+            "Microsoft Ignite",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Auto-import for Azure Managed Lustre",
+          "description": "The Auto-import feature for Azure Managed Lustre (AMLFS) is now available in public preview. Auto-import enables seamless, policy-driven synchronization of data from Azure Blob Storage containers into AMLFS clusters, automatically reflecting new, changed,",
+          "pubDate": "Wed, 19 Nov 2025 20:00:49 Z",
+          "a10:updated": "2025-11-19T20:00:49Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3377,22 +3396,6 @@
           "description": "You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limits are restricted to 1,000 private endpoints per Virtual Network. Any attempts to create additional endpo",
           "pubDate": "Thu, 30 Oct 2025 16:30:43 Z",
           "a10:updated": "2025-10-30T16:30:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "520805"
-          },
-          "link": "https://azure.microsoft.com/updates?id=520805",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure Disk Storage"
-          ],
-          "title": "[In preview] Public Preview: Instant Access Snapshots for Azure Premium SSD v2 and Ultra Disks Storage",
-          "description": "Announcing the Public Preview of Instant Access Snapshots\nfor Premium SSD v2 (Pv2) and Ultra Disks. This new capability enables you\nto restored new disks immediately after creating snapshots of Pv2 and Ultra\ndisks. Restore disks deliver high performance i",
-          "pubDate": "Thu, 30 Oct 2025 16:00:54 Z",
-          "a10:updated": "2025-10-30T16:00:54Z"
         }
       ]
     }
