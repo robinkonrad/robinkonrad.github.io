@@ -6,9 +6,62 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 19 Nov 2025 20:00:49 Z",
+      "lastBuildDate": "Wed, 19 Nov 2025 21:00:38 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "529381"
+          },
+          "link": "https://azure.microsoft.com/updates?id=529381",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Managed Lustre"
+          ],
+          "title": "[Launched] Generally Available: Azure Managed Lustre Support for Azure MCP Server",
+          "description": "Azure Managed Lustre now offers full integration with Azure MCP Server, and this capability is generally available. Azure MCP Server enables developers and infrastructure teams to manage Azure resources—including Azure Managed Lustre file systems—using na",
+          "pubDate": "Wed, 19 Nov 2025 21:00:38 Z",
+          "a10:updated": "2025-11-19T21:00:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "529368"
+          },
+          "link": "https://azure.microsoft.com/updates?id=529368",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Managed Lustre",
+            "Features",
+            "Management",
+            "Open Source",
+            "Services",
+            "Microsoft Ignite"
+          ],
+          "title": "[Launched] Generally Available: CSI Dynamic Provisioning for Azure Managed Lustre",
+          "description": "CSI Dynamic Provisioning for Azure Managed Lustre (AMLFS) is now generally available. With dynamic provisioning, Kubernetes applications can request AMLFS-backed persistent volumes on demand using standard StorageClass and PersistentVolumeClaim objects—no",
+          "pubDate": "Wed, 19 Nov 2025 21:00:38 Z",
+          "a10:updated": "2025-11-19T21:00:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "529359"
+          },
+          "link": "https://azure.microsoft.com/updates?id=529359",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Managed Lustre"
+          ],
+          "title": "[In preview] Public Preview: 20 MB/s/TiB Performance Tier for Azure Managed Lustre",
+          "description": "Azure Managed Lustre now offers a new 20 MB/s/TiB performance tier in public preview, designed to meet the demands of large-scale AI and high-performance computing (HPC) workloads. This tier enables customers to provision file systems up to 25 PiB in a si",
+          "pubDate": "Wed, 19 Nov 2025 21:00:38 Z",
+          "a10:updated": "2025-11-19T21:00:38Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3345,57 +3398,6 @@
           "description": "Azure HBv5-series VM is now generally availalbe in the Azure South Central US region. HBv5 VMs are optimized for memory bandwidth-intensive HPC applications, such as computational fluid dynamics, automotive and aerospace simulations, weather modeling, ene",
           "pubDate": "Tue, 16 Sep 2025 17:45:04 Z",
           "a10:updated": "2025-11-05T12:00:29Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "516643"
-          },
-          "link": "https://azure.microsoft.com/updates?id=516643",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure NetApp Files Object REST API",
-          "description": "The Object REST API, an S3-compatible REST API, on Azure NetApp Files bridges the gap between traditional file-based storage and modern cloud services, enabling customers to use their existing data in new ways. By providing integration via Microsoft Fabri",
-          "pubDate": "Mon, 03 Nov 2025 17:30:04 Z",
-          "a10:updated": "2025-11-03T17:30:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "520822"
-          },
-          "link": "https://azure.microsoft.com/updates?id=520822",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions"
-          ],
-          "title": "[In preview] Public Preview: Azure Functions zero-downtime deployments with rolling updates in Flex Consumption",
-          "description": "Azure Functions now supports rolling updates in the Flex Consumption plan, delivering zero-downtime deployments with a simple configuration change.  Instead of forcefully restarting all instances during code or configuration updates, the platform graceful",
-          "pubDate": "Thu, 30 Oct 2025 18:00:45 Z",
-          "a10:updated": "2025-10-30T18:00:45Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "522813"
-          },
-          "link": "https://azure.microsoft.com/updates?id=522813",
-          "category": [
-            "Launched",
-            "Networking",
-            "Azure Private Link"
-          ],
-          "title": "[Launched] Generally Available: High Scale Private Endpoints",
-          "description": "You can now increase Azure Private Endpoint’s virtual network (VNet) limits by upgrading to High Scale Private Endpoints (HSPE). Today local VNet limits are restricted to 1,000 private endpoints per Virtual Network. Any attempts to create additional endpo",
-          "pubDate": "Thu, 30 Oct 2025 16:30:43 Z",
-          "a10:updated": "2025-10-30T16:30:43Z"
         }
       ]
     }
