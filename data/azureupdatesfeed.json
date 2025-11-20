@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 20 Nov 2025 13:45:47 Z",
+      "lastBuildDate": "Thu, 20 Nov 2025 15:00:59 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "529797"
+          },
+          "link": "https://azure.microsoft.com/updates?id=529797",
+          "category": [
+            "Launched",
+            "Compute",
+            "Virtual Machines"
+          ],
+          "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images",
+          "description": "Announcing that\nTrusted Launch supported Arm64 Images are now available in the Azure\nMarketplace. You can now get the dual benefit of cost and performance efficiencies\nof Arm64 in addition to the security benefits of Trusted Launch.  Arm64 VMs bring cost",
+          "pubDate": "Thu, 20 Nov 2025 15:00:59 Z",
+          "a10:updated": "2025-11-20T15:00:59Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3380,23 +3396,6 @@
           ],
           "title": "[Launched] Generally Available: Query Advisor in Azure Cosmos DB",
           "description": "Azure Cosmos DB for NoSQL includes Query Advisor, now generally available in the .NET SDK. Query Advisor helps you write faster, more efficient queries by analyzing your query structure and providing clear, actionable recommendations. It identifies ways t",
-          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
-          "a10:updated": "2025-11-05T17:00:26Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "520691"
-          },
-          "link": "https://azure.microsoft.com/updates?id=520691",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB"
-          ],
-          "title": "[Launched] Generally Available: ORDER BY ST_DISTANCE in Azure Cosmos DB for NoSQL Geospatial Queries",
-          "description": "Azure Cosmos DB for NoSQL now supports ORDER BY ST_DISTANCE for geospatial queries, now generally available. With this feature, you can sort query results by their distance from a given point or GeoJSON object directly within Azure Cosmos DB. You no longe",
           "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
           "a10:updated": "2025-11-05T17:00:26Z"
         }
