@@ -6,9 +6,76 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 20 Nov 2025 17:00:13 Z",
+      "lastBuildDate": "Thu, 20 Nov 2025 18:30:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523120"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523120",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS",
+          "description": "Cluster-wide Cilium network\npolicy for AKS clusters using Azure CNI powered by Cilium is now Generally\nAvailable.   Managing consistent network policies across Kubernetes\nnamespaces has long been a challenge for platform teams, especially in\nmulti-tenant",
+          "pubDate": "Thu, 20 Nov 2025 18:30:02 Z",
+          "a10:updated": "2025-11-20T18:30:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523081"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523081",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS",
+          "description": "Local redirect policy with Azure\nCNI powered by Cilium for AKS is now generally available. Customers running high-scale AKS workloads often experience\nlatency and performance bottlenecks due to cross-node traffic routing. The new local\nredirect policy add",
+          "pubDate": "Thu, 20 Nov 2025 18:30:02 Z",
+          "a10:updated": "2025-11-20T18:30:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523115"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523115",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS",
+          "description": "To address the growing need for granular traffic control in\nmicroservices architectures, Azure Container Networking Services now offers\nLayer 7 Policy as a generally available feature. This capability empowers\ncustomers to enforce fine-grained traffic con",
+          "pubDate": "Thu, 20 Nov 2025 18:15:25 Z",
+          "a10:updated": "2025-11-20T18:15:25Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522077"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522077",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure NetApp Files"
+          ],
+          "title": "[Launched] Generally Available: Azure NetApp Files single file restore from backup",
+          "description": "With Azure NetApp Files single file restore from backup, you can restore individual files from Azure NetApp Files backup vault without needing to restore an entire volume. By restoring only the necessary files, you can save time and cost needed for restor",
+          "pubDate": "Thu, 20 Nov 2025 18:15:25 Z",
+          "a10:updated": "2025-11-20T18:15:25Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -528,7 +595,7 @@
             "Network Watcher"
           ],
           "title": "[In preview] Public Preview: Azure Network Watcher Topology – Agentless Connection Troubleshoot",
-          "description": "Azure Kubernetes Service (AKS) visualization in\nNetwork Watcher Topology (Public Preview) delivers end-to-end visibility of AKS\nclusters directly within the Azure networking experience. Customers can now\nexplore their Kubernetes environments, including th",
+          "description": "Agentless Connection Troubleshoot (public preview)\nintroduces a faster, simpler, and fully agentless way to diagnose network\nconnectivity issues across Azure resources. Previously, running connectivity\nchecks required installing the Network Watcher Extens",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         },
@@ -2864,8 +2931,8 @@
             "Containers",
             "Azure Kubernetes Service (AKS)"
           ],
-          "title": "[In preview] Public Preview: eBPF host routing in Advanced Container Networking Services (ACNS) for AKS",
-          "description": "eBPF host routing in\nACNS for AKS is now available in public preview. As containerized applications scale across distributed environments,\ntraditional networking approaches can introduce latency and reduce throughput.\nTo address this, Azure CNI powered by",
+          "title": "[In preview] Public Preview: eBPF host routing in Advanced Container Networking Services for AKS",
+          "description": "eBPF host routing in Advanced Container Networking Services for AKS is now available in public preview. As containerized applications scale across distributed environments,\ntraditional networking approaches can introduce latency and reduce throughput.\nTo",
           "pubDate": "Fri, 14 Nov 2025 16:00:47 Z",
           "a10:updated": "2025-11-14T16:00:47Z"
         },
@@ -3330,73 +3397,6 @@
           "description": "In early November 2025, the following updates and enhancements were made to Azure SQL:  Azure SQL Hyperscale now supports multiple geo-secondary replicas, making it easier to design and deploy disaster recovery topology spanning multiple regions. Learn mo",
           "pubDate": "Thu, 06 Nov 2025 15:45:17 Z",
           "a10:updated": "2025-11-06T15:45:17Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "520710"
-          },
-          "link": "https://azure.microsoft.com/updates?id=520710",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
-          ],
-          "title": "[In preview] Public Preview: Azure Database for PostgreSQL read replicas with Premium SSD v2",
-          "description": "You can now configure read replicas (in-region and geo-replicas) with Premium SSD v2 storage tier in Azure Database for PostgreSQL flexible server. Read replicas enable you to scale out read-heavy workloads and improve performance by offloading read opera",
-          "pubDate": "Thu, 06 Nov 2025 15:45:17 Z",
-          "a10:updated": "2025-11-06T15:45:17Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "522086"
-          },
-          "link": "https://azure.microsoft.com/updates?id=522086",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Blob Storage"
-          ],
-          "title": "[Launched] Generally Available: Planned Failover for Azure Storage",
-          "description": "Planned Failover is a customer-managed failover that\nprovides the ability to failover your geo-redundant storage account while\nkeeping geo-redundancy and data durability. You can seamlessly swap the\nprimary and secondary storage endpoints of your geo-redu",
-          "pubDate": "Wed, 05 Nov 2025 22:30:04 Z",
-          "a10:updated": "2025-11-05T22:30:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525442"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525442",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Networking",
-            "Azure ExpressRoute"
-          ],
-          "title": "[Launched] Generally Available: Monitor end-to-end ExpressRoute connectivity with Connection Monitor",
-          "description": "Connection Monitor integration streamlines the setup of end-to-end\nmonitoring for ExpressRoute workloads. With this capability, you can now enable\nConnection Monitor directly while creating or updating your ExpressRoute\nconnections. This removes the need",
-          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
-          "a10:updated": "2025-11-05T17:00:26Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525424"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525424",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Networking",
-            "Azure ExpressRoute"
-          ],
-          "title": "[Launched] Generally Available: ExpressRoute resiliency insights",
-          "description": "Resiliency\ninsights is an assessment capability designed to measure your network's\nreliability for ExpressRoute workloads. At the core of this capability is the resiliency\nindex, a percentage score calculated based on factors such as route\nresilience, zon",
-          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
-          "a10:updated": "2025-11-05T17:00:26Z"
         }
       ]
     }
