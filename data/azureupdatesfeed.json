@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 20 Nov 2025 15:00:59 Z",
+      "lastBuildDate": "Thu, 20 Nov 2025 16:00:12 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "522390"
+          },
+          "link": "https://azure.microsoft.com/updates?id=522390",
+          "category": [
+            "Launched",
+            "Internet of Things",
+            "Azure Sphere"
+          ],
+          "title": "[Launched] Generally Available: Azure Sphere OS version 25.10 is now available",
+          "description": "Azure Sphere OS version 25.10 is now available in the Retail feed. This release includes updates to Azure Sphere OS only; it does not include an updated SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.Th",
+          "pubDate": "Thu, 20 Nov 2025 16:00:12 Z",
+          "a10:updated": "2025-11-20T16:00:12Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3379,23 +3395,6 @@
           ],
           "title": "[Launched] Generally Available: Azure Database for MySQL – Flexible Server now supports high availability with dedicated Azure Standard Load Balancer",
           "description": "Announcing the general availability of a dedicated Azure Standard Load Balancer in Azure Database for MySQL - Flexible Server for high availability-enabled servers. With this feature, a high availability configuration gets the benefit of a dedicated Stand",
-          "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
-          "a10:updated": "2025-11-05T17:00:26Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "520696"
-          },
-          "link": "https://azure.microsoft.com/updates?id=520696",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB"
-          ],
-          "title": "[Launched] Generally Available: Query Advisor in Azure Cosmos DB",
-          "description": "Azure Cosmos DB for NoSQL includes Query Advisor, now generally available in the .NET SDK. Query Advisor helps you write faster, more efficient queries by analyzing your query structure and providing clear, actionable recommendations. It identifies ways t",
           "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
           "a10:updated": "2025-11-05T17:00:26Z"
         }
