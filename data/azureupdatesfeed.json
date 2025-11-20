@@ -6,9 +6,41 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 20 Nov 2025 08:00:32 Z",
+      "lastBuildDate": "Thu, 20 Nov 2025 13:45:47 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "525620"
+          },
+          "link": "https://azure.microsoft.com/updates?id=525620",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure NetApp Files"
+          ],
+          "title": "[In preview] Public Preview: Azure NetApp Files migration assistant (portal support)",
+          "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
+          "pubDate": "Thu, 20 Nov 2025 13:45:47 Z",
+          "a10:updated": "2025-11-20T13:45:47Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "523917"
+          },
+          "link": "https://azure.microsoft.com/updates?id=523917",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure NetApp Files"
+          ],
+          "title": "[In preview] Public Preview: Azure NetApp Files cache volumes",
+          "description": "Azure NetApp Files cache volumes are now available in public preview. The cache volumes feature is a new capability built on NetApp’s ONTAP FlexCache technology that provides a persistent, high-performance cache in Azure for data stored on ONTAP-based sto",
+          "pubDate": "Thu, 20 Nov 2025 13:45:47 Z",
+          "a10:updated": "2025-11-20T13:45:47Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3367,40 +3399,6 @@
           "description": "Azure Cosmos DB for NoSQL now supports ORDER BY ST_DISTANCE for geospatial queries, now generally available. With this feature, you can sort query results by their distance from a given point or GeoJSON object directly within Azure Cosmos DB. You no longe",
           "pubDate": "Wed, 05 Nov 2025 17:00:26 Z",
           "a10:updated": "2025-11-05T17:00:26Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525429"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525429",
-          "category": [
-            "Launched",
-            "Hybrid + multicloud",
-            "Networking",
-            "Azure ExpressRoute"
-          ],
-          "title": "[Launched] Generally Available: ExpressRoute resiliency validation",
-          "description": "Resiliency validation is a capability designed to assess\nthe resiliency of network connectivity for ExpressRoute-enabled workloads. This\nfeature allows you to perform site failovers for your Virtual Network Gateway,\nhelping to evaluate network resiliency",
-          "pubDate": "Wed, 05 Nov 2025 16:30:07 Z",
-          "a10:updated": "2025-11-05T16:30:07Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "520686"
-          },
-          "link": "https://azure.microsoft.com/updates?id=520686",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB"
-          ],
-          "title": "[Launched] Open Source: Announcing the DocumentDB Kubernetes Operator",
-          "description": "Now you can use the open-source DocumentDB Kubernetes Operator to run DocumentDB on Kubernetes. DocumentDB is a Mongo-DB–compatible, open-source document database built on PostgreSQL. The operator extends Kubernetes with custom resource definitions (CRDs)",
-          "pubDate": "Wed, 05 Nov 2025 16:00:17 Z",
-          "a10:updated": "2025-11-05T16:00:17Z"
         }
       ]
     }
