@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 20 Nov 2025 20:00:10 Z",
+      "lastBuildDate": "Fri, 21 Nov 2025 19:15:38 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "512413"
+          },
+          "link": "https://azure.microsoft.com/updates?id=512413",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Custom handler support in Azure Functions Flex consumption",
+          "description": "Azure Functions now supports custom\nhandlers in Flex consumption. Custom handlers are lightweight web servers that\nreceive events from the Functions host. Any language that supports HTTP\nprimitives can implement a custom handler.  Custom handlers are best",
+          "pubDate": "Fri, 21 Nov 2025 19:15:38 Z",
+          "a10:updated": "2025-11-21T19:15:38Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501658"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501658",
+          "category": [
+            "AI + machine learning",
+            "Internet of Things",
+            "Azure Machine Learning",
+            "Retirements"
+          ],
+          "title": "Retirement: Migrate to dedicated VM for your compute clusters",
+          "description": "On September 30, 2025, Low-Priority VM will reach end of life. However, you will continue to be supported on Azure Machine Learning until March 31, 2026.  To ensure that your clusters are not automatically scaled down it is recommended to migrate to dedic",
+          "pubDate": "Fri, 21 Nov 2025 18:45:18 Z",
+          "a10:updated": "2025-11-21T18:45:18Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3358,48 +3394,6 @@
           "description": "Announcing the General Availability of\nUltra Disk’s new flexible provisioning model. This enhancement gives you\nthe freedom to configure capacity, IOPS, and throughput (MBPS) more independently—so\nyou can tailor performance to your workload needs and opti",
           "pubDate": "Thu, 06 Nov 2025 17:00:51 Z",
           "a10:updated": "2025-11-06T17:00:51Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "520201"
-          },
-          "link": "https://azure.microsoft.com/updates?id=520201",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Blob Storage"
-          ],
-          "title": "[Launched] Generally Available: Object Replication Metrics",
-          "description": "Blob storage Object Replication metrics for pending operations and pending bytes are now generally available in all regions. These replication metrics will empower you to optimize the performance, troubleshoot replication delays, and maintain high availab",
-          "pubDate": "Thu, 06 Nov 2025 16:00:54 Z",
-          "a10:updated": "2025-11-06T16:00:54Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526881"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526881",
-          "category": [
-            "Launched",
-            "Compute",
-            "Mobile",
-            "Web",
-            "AI + machine learning",
-            "Containers",
-            "DevOps",
-            "Analytics",
-            "App Service",
-            "Microsoft Foundry",
-            "Azure Container Apps",
-            "GitHub Enterprise",
-            "Microsoft Fabric"
-          ],
-          "title": "[Launched] Generally Available: Azure MCP Server",
-          "description": "Give your agents the power of cloud and redefining how developers interact with Azure. Built on Model Context Protocol (MCP), it can create a secure, standards-based bridge between Azure services—like AKS, ACA, App Service, Cosmos DB, SQL, Microsoft Found",
-          "pubDate": "Thu, 06 Nov 2025 15:45:17 Z",
-          "a10:updated": "2025-11-06T15:45:17Z"
         }
       ]
     }
