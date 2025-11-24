@@ -6,9 +6,78 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 21 Nov 2025 19:15:38 Z",
+      "lastBuildDate": "Mon, 24 Nov 2025 17:15:03 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "526018"
+          },
+          "link": "https://azure.microsoft.com/updates?id=526018",
+          "category": [
+            "In preview",
+            "Identity",
+            "Networking",
+            "Security",
+            "Microsoft Entra ID (formerly Azure AD)",
+            "Azure Bastion"
+          ],
+          "title": "[In preview] Public Preview: Entra ID support for RDP connections",
+          "description": "Announcing Azure Bastion now supports Microsoft Entra ID\nauthentication for RDP connections to Windows VMs directly in the portal. This update\nbrings two key benefits for RDP users connecting to their virtual machines: Enhanced Security: By eliminating lo",
+          "pubDate": "Mon, 24 Nov 2025 17:15:03 Z",
+          "a10:updated": "2025-11-24T17:15:03Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "532481"
+          },
+          "link": "https://azure.microsoft.com/updates?id=532481",
+          "category": [
+            "Launched",
+            "Developer tools",
+            "DevOps",
+            "Azure Load Testing"
+          ],
+          "title": "[Launched] Generally Available: Azure Load Testing in Italy North",
+          "description": "Azure Load Testing capability in Azure App Testing is now generally available in Italy North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance bottl",
+          "pubDate": "Mon, 24 Nov 2025 17:00:10 Z",
+          "a10:updated": "2025-11-24T17:00:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "532207"
+          },
+          "link": "https://azure.microsoft.com/updates?id=532207",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database"
+          ],
+          "title": "[Launched] Generally Available: Regex support in T-SQL",
+          "description": "Boost your SQL queries with powerful regular expressions (regex) support for advanced pattern matching. Now you can use native regex in T-SQL directly in Azure SQL and SQL Server 2025 queries—simplifying code, improving maintainability, and reducing depen",
+          "pubDate": "Mon, 24 Nov 2025 17:00:10 Z",
+          "a10:updated": "2025-11-24T17:00:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "532197"
+          },
+          "link": "https://azure.microsoft.com/updates?id=532197",
+          "category": [
+            "Launched",
+            "Databases",
+            "Azure Database for MySQL"
+          ],
+          "title": "[Launched] Generally Available: Azure MCP Server for Azure Database for MySQL",
+          "description": "Announcing that Azure MCP Server now supports Azure Database for MySQL. With this update, you can empower AI agents and applications to interact with your MySQL data using natural language through the open Model Context Protocol (MCP). Instead of writing",
+          "pubDate": "Mon, 24 Nov 2025 17:00:10 Z",
+          "a10:updated": "2025-11-24T17:00:10Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3328,72 +3397,6 @@
           "description": "Announcing Azure\nWeb\nApplication Firewall (WAF) support for Azure\nApplication\nGateway for Containers is now generally available. Application Gateway for Containers is the\nnext evolution of Application Gateway + Application Gateway Ingress Controller.\nWith",
           "pubDate": "Mon, 10 Nov 2025 17:00:17 Z",
           "a10:updated": "2025-11-10T17:00:17Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "522866"
-          },
-          "link": "https://azure.microsoft.com/updates?id=522866",
-          "category": [
-            "In preview",
-            "Analytics",
-            "Azure Data Explorer"
-          ],
-          "title": "[In preview] Public Preview: openCypher support for KQL graph semantics",
-          "description": "Announcing openCypher support for KQL graph semantics, bringing the widely adopted open-source graph query language to your graph data. This update allows you to run openCypher queries on any Fabric Eventhouse or Azure Data Explorer, making it easier to w",
-          "pubDate": "Fri, 07 Nov 2025 19:00:43 Z",
-          "a10:updated": "2025-11-07T19:00:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "522772"
-          },
-          "link": "https://azure.microsoft.com/updates?id=522772",
-          "category": [
-            "Launched",
-            "Analytics",
-            "Azure Data Explorer"
-          ],
-          "title": "[Launched] Generally Available: labels() function in KQL graph semantics",
-          "description": "The labels() function in KQL graph semantics is now generally available. This function enables you to retrieve, filter, and project label information for nodes and edges in your graph queries, making it easier to work with categorized graph data.The label",
-          "pubDate": "Fri, 07 Nov 2025 19:00:43 Z",
-          "a10:updated": "2025-11-07T19:00:43Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "508408"
-          },
-          "link": "https://azure.microsoft.com/updates?id=508408",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server availability zones expansion in Japan West",
-          "description": "Now you can deploy Azure Database for PostgreSQL flexible server in all three availability zones in Japan West.Learn more.",
-          "pubDate": "Fri, 07 Nov 2025 18:45:02 Z",
-          "a10:updated": "2025-11-07T18:45:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526635"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526635",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Disk Storage"
-          ],
-          "title": "[Launched] Generally Available: Ultra Disk’s new flexible provisioning model",
-          "description": "Announcing the General Availability of\nUltra Disk’s new flexible provisioning model. This enhancement gives you\nthe freedom to configure capacity, IOPS, and throughput (MBPS) more independently—so\nyou can tailor performance to your workload needs and opti",
-          "pubDate": "Thu, 06 Nov 2025 17:00:51 Z",
-          "a10:updated": "2025-11-06T17:00:51Z"
         }
       ]
     }
