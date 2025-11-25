@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 24 Nov 2025 20:30:10 Z",
+      "lastBuildDate": "Tue, 25 Nov 2025 16:45:50 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "534482"
+          },
+          "link": "https://azure.microsoft.com/updates?id=534482",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Networking",
+            "Network Watcher"
+          ],
+          "title": "[In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture",
+          "description": "VNET flow log captures IP\ntraffic flowing through VNETs, subnets, and NICs for monitoring, troubleshooting,\nnetwork optimization, security, and compliance needs and stores the logs in Azure\nStorage Traffic Analytics leverages\nVNET flow logs and aggregates",
+          "pubDate": "Tue, 25 Nov 2025 16:45:50 Z",
+          "a10:updated": "2025-11-25T16:45:50Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3373,22 +3390,6 @@
           ],
           "title": "[Launched] Generally Available: Object Replication Priority Replication for Azure Blob",
           "description": "Object replication priority replication will allow users to\nobtain prioritized replication from the source to the destination storage\naccount of their replication policy. When you enable priority replication, you\ncan benefit from the associated Service Le",
-          "pubDate": "Mon, 10 Nov 2025 19:30:03 Z",
-          "a10:updated": "2025-11-10T19:30:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "522059"
-          },
-          "link": "https://azure.microsoft.com/updates?id=522059",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Blob Storage"
-          ],
-          "title": "[Launched] Generally Available: Geo Priority Replication for Azure Blob",
-          "description": "Geo priority replication enhances the replication process\nfor GRS and GZRS storage accounts by enabling accelerated data replication\nbetween the primary and secondary regions. This feature is backed by a Service\nLevel Agreement (SLA), ensuring the Last Sy",
           "pubDate": "Mon, 10 Nov 2025 19:30:03 Z",
           "a10:updated": "2025-11-10T19:30:03Z"
         }
