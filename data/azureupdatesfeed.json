@@ -6,9 +6,93 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 01 Dec 2025 17:30:38 Z",
+      "lastBuildDate": "Wed, 03 Dec 2025 17:30:15 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "534523"
+          },
+          "link": "https://azure.microsoft.com/updates?id=534523",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central",
+          "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more",
+          "pubDate": "Wed, 03 Dec 2025 17:30:15 Z",
+          "a10:updated": "2025-12-03T17:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "534518"
+          },
+          "link": "https://azure.microsoft.com/updates?id=534518",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: Update pg_squeeze to version 1.9.1 in Azure Database for PostgreSQL Flexible Server",
+          "description": "Now you can upgrade the pg_squeeze extension to version 1.9.1 in Azure Database for PostgreSQL Flexible Server.  Learn more.",
+          "pubDate": "Wed, 03 Dec 2025 17:30:15 Z",
+          "a10:updated": "2025-12-03T17:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "534509"
+          },
+          "link": "https://azure.microsoft.com/updates?id=534509",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: The ip4r extension in Azure Database for PostgreSQL Flexible Server",
+          "description": "Now you can install the ip4r extension in Azure Database for PostgreSQL Flexible Server. Ip4r provides efficient storage and indexing functionality for IPv4 and IPv6 addresses and ranges.  Learn more",
+          "pubDate": "Wed, 03 Dec 2025 17:30:15 Z",
+          "a10:updated": "2025-12-03T17:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "534504"
+          },
+          "link": "https://azure.microsoft.com/updates?id=534504",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL"
+          ],
+          "title": "[Launched] Generally Available: The credcheck extension in Azure Database for PostgreSQL Flexible Server",
+          "description": "Now you can install the credcheck extension in Azure Database for PostgreSQL Flexible Server. The credcheck extension helps you to enforce password and credential validation policies directly within PostgreSQL. Learn more",
+          "pubDate": "Wed, 03 Dec 2025 17:30:15 Z",
+          "a10:updated": "2025-12-03T17:30:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "536747"
+          },
+          "link": "https://azure.microsoft.com/updates?id=536747",
+          "category": [
+            "Launched",
+            "Networking",
+            "Load Balancer"
+          ],
+          "title": "[Launched] Generally Available: Azure Load Balancer bandwidth metrics now support Protocol dimension",
+          "description": "Bandwidth metrics for\nAzure Load Balancer are now published with metric dimension Protocol. When\nretrieving or viewing Byte, Packet, and SYN Count metrics in the Azure portal,\nyou will now see the dimension Protocol. TCP traffic is denoted by Protocol=6,",
+          "pubDate": "Wed, 03 Dec 2025 17:00:27 Z",
+          "a10:updated": "2025-12-03T17:00:27Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3304,95 +3388,6 @@
           "description": "Azure Migrate now offers integrated Security insights, allowing customers to assess potential risks within their on-premises environment. The solution delivers actionable recommendations to effectively mitigate these risks as part of the migration plannin",
           "pubDate": "Tue, 11 Nov 2025 17:30:08 Z",
           "a10:updated": "2025-11-11T17:30:08Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523975"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523975",
-          "category": [
-            "Launched",
-            "Storage",
-            "Management and governance",
-            "Archive Storage",
-            "Azure Backup"
-          ],
-          "title": "[Launched] Generally Available: Vaulted Backup for Azure Data Lake Storage (ADLS)",
-          "description": "Azure Backup vaulted protection\nfor ADLS Gen2 delivers secure, off‑site backups to help organizations meet\nresilience and compliance goals. Vaulted backups maintain an independent copy\nof your data, isolated from the source account - providing protection",
-          "pubDate": "Tue, 11 Nov 2025 17:16:01 Z",
-          "a10:updated": "2025-11-11T17:16:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526720"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526720",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Firewall"
-          ],
-          "title": "[Launched] Generally Available: DNS flow trace logs for Azure Firewall",
-          "description": "Azure Firewall now\nsupports DNS flow trace logs — a new logging capability that gives you deep,\nend-to-end visibility into DNS traffic and name resolution paths. This\nenhancement provides richer telemetry to help you troubleshoot, validate, and\nsecure DNS",
-          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
-          "a10:updated": "2025-11-11T17:00:09Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523172"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523172",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)"
-          ],
-          "title": "[In preview] Public Preview: Azure Linux OS Guard for AKS",
-          "description": "Cloud-native workloads face increasingly sophisticated\nthreats—from rootkits and container escapes to unauthorized code execution—that\ndemand stronger security guarantees. To address these challenges, Microsoft has\nintroduced Azure Linux with OS Guard, no",
-          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
-          "a10:updated": "2025-11-11T17:00:09Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523067"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523067",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)"
-          ],
-          "title": "[In preview] Public Preview: Flatcar Container Linux for AKS",
-          "description": "Maintaining consistent and secure node configurations in\nKubernetes environments can be challenging due to issues like configuration\ndrift, manual changes, and complex upgrade paths. These challenges often lead\nto unpredictable behavior and increased oper",
-          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
-          "a10:updated": "2025-11-11T17:00:09Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "513802"
-          },
-          "link": "https://azure.microsoft.com/updates?id=513802",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Azure Front Door",
-            "Web Application Firewall",
-            "Security",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure WAF JavaScript challenge on Azure Front Door",
-          "description": "Announcing the general availability of JavaScript (JS) challenge for Azure Web Application Firewall (WAF) with Azure\nFront Door To strengthen bot mitigation strategies,\nAzure WAF now introduces JS challenge as a new security feature. The\nJS challenge prov",
-          "pubDate": "Tue, 11 Nov 2025 17:00:09 Z",
-          "a10:updated": "2025-11-11T17:00:09Z"
         }
       ]
     }
