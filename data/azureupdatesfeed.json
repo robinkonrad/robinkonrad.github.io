@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 03 Dec 2025 17:30:15 Z",
+      "lastBuildDate": "Wed, 03 Dec 2025 21:00:12 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "501668"
+          },
+          "link": "https://azure.microsoft.com/updates?id=501668",
+          "category": [
+            "AI + machine learning",
+            "Internet of Things",
+            "Azure Machine Learning",
+            "Retirements",
+            "Features"
+          ],
+          "title": "Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026",
+          "description": "On June 30, 2026, AzureML SDK V1 will reach end of life. The following SDKs which work in tandem with the AzureML SDK V1 will also be retired.  azureml-train-core  azureml-pipeline  azureml-pipeline-core  azureml-pipeline-internal  azureml-pipeline-steps",
+          "pubDate": "Wed, 03 Dec 2025 21:00:12 Z",
+          "a10:updated": "2025-12-03T21:00:12Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3371,23 +3389,6 @@
           "description": "LocalDNS for AKS is\nnow generally available.   Large-scale Kubernetes clusters often face DNS resolution\ndelays and reliability issues, especially during upstream outages or high query\nvolumes. To address this, Azure Kubernetes Service (AKS) now offers Lo",
           "pubDate": "Tue, 11 Nov 2025 17:45:46 Z",
           "a10:updated": "2025-11-11T17:45:46Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526468"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526468",
-          "category": [
-            "In preview",
-            "Management and governance",
-            "Migration",
-            "Azure Migrate"
-          ],
-          "title": "[In preview] Public Preview: Insights in Azure Migrate",
-          "description": "Azure Migrate now offers integrated Security insights, allowing customers to assess potential risks within their on-premises environment. The solution delivers actionable recommendations to effectively mitigate these risks as part of the migration plannin",
-          "pubDate": "Tue, 11 Nov 2025 17:30:08 Z",
-          "a10:updated": "2025-11-11T17:30:08Z"
         }
       ]
     }
