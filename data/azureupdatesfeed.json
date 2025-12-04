@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 04 Dec 2025 16:15:01 Z",
+      "lastBuildDate": "Thu, 04 Dec 2025 17:00:18 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "531889"
+          },
+          "link": "https://azure.microsoft.com/updates?id=531889",
+          "category": [
+            "Launched",
+            "Databases",
+            "Security",
+            "Storage",
+            "Azure confidential ledger"
+          ],
+          "title": "[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger",
+          "description": "The Azure MCP (Model Context Protocol) Server provides a\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\nnatural language prompts. This feature allows users to interact with confidential\nledger without the nee",
+          "pubDate": "Thu, 04 Dec 2025 17:00:18 Z",
+          "a10:updated": "2025-12-04T17:00:18Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3372,23 +3390,6 @@
           ],
           "title": "[In preview] Public Preview: Scheduler profile configuration for AKS",
           "description": "Organizations running complex workloads on Kubernetes often face\nchallenges in optimizing pod placement for performance, cost, or resource\nefficiency. To address this, Azure Kubernetes Service now offers scheduler\nprofile configuration with in-tree plugin",
-          "pubDate": "Wed, 12 Nov 2025 17:00:15 Z",
-          "a10:updated": "2025-11-12T17:00:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "508390"
-          },
-          "link": "https://azure.microsoft.com/updates?id=508390",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Database for MySQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for MySQL Triggers for Azure Functions",
-          "description": "Azure Database for MySQL triggers for Azure Functions are now generally available, enabling you to set up change tracking and develop event-driven applications at scale on any MySQL table. You can trigger a function when a row in a MySQL table is created,",
           "pubDate": "Wed, 12 Nov 2025 17:00:15 Z",
           "a10:updated": "2025-11-12T17:00:15Z"
         }
