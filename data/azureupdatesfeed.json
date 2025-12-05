@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 04 Dec 2025 22:30:44 Z",
+      "lastBuildDate": "Fri, 05 Dec 2025 21:45:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "541410"
+          },
+          "link": "https://azure.microsoft.com/updates?id=541410",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Files"
+          ],
+          "title": "[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.",
+          "description": "Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning storage accounts to a specific availability zone, enabling high availability, fault isolation, and predictabl",
+          "pubDate": "Fri, 05 Dec 2025 21:45:02 Z",
+          "a10:updated": "2025-12-05T21:45:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3375,22 +3391,6 @@
           "description": ".NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and security across the stack—while C# 14 introduces refinements that make coding more natural and expressive. With",
           "pubDate": "Wed, 12 Nov 2025 17:15:02 Z",
           "a10:updated": "2025-11-12T17:15:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523787"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523787",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure Database for MySQL"
-          ],
-          "title": "[Launched] General Availability: Server Parameters support for lower_case_table_names in Azure Database for MySQL- Flexible Server",
-          "description": "We are thrilled to announce the General Availability of a highly requested feature: Self-serve configuration of the lower_case_table_names server parameter during server creation. For MySQL version 8.0+ you can configure lower_case_table_names only when y",
-          "pubDate": "Wed, 12 Nov 2025 17:00:15 Z",
-          "a10:updated": "2025-11-12T17:00:15Z"
         }
       ]
     }
