@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 05 Dec 2025 21:45:02 Z",
+      "lastBuildDate": "Tue, 09 Dec 2025 13:15:11 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "536712"
+          },
+          "link": "https://azure.microsoft.com/updates?id=536712",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Application Gateway"
+          ],
+          "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs",
+          "description": "The Federal Information Processing Standard (FIPS) 140-2\nis a US government standard that defines minimum security requirements for\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,",
+          "pubDate": "Tue, 09 Dec 2025 13:15:11 Z",
+          "a10:updated": "2025-12-09T13:15:11Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3374,23 +3391,6 @@
           "description": "Azure Virtual Network Manager peering\ncompliance is now generally available, providing a secure and compliant mechanism to\nprotect network connectivity managed by Azure Virtual Network Manager. In\nlarge-scale environments, it’s essential to prevent uninte",
           "pubDate": "Thu, 13 Nov 2025 17:00:24 Z",
           "a10:updated": "2025-11-13T17:00:24Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526895"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526895",
-          "category": [
-            "Launched",
-            "Developer tools",
-            "Visual Studio",
-            "Visual Studio Code"
-          ],
-          "title": "[Launched] Generally Available: .NET 10",
-          "description": ".NET 10 delivers a faster, more secure, and more capable platform for modern development. This release enhances performance, productivity, and security across the stack—while C# 14 introduces refinements that make coding more natural and expressive. With",
-          "pubDate": "Wed, 12 Nov 2025 17:15:02 Z",
-          "a10:updated": "2025-11-12T17:15:02Z"
         }
       ]
     }
