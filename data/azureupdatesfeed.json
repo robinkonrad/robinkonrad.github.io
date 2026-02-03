@@ -6,9 +6,60 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 02 Feb 2026 18:15:39 Z",
+      "lastBuildDate": "Tue, 03 Feb 2026 20:30:31 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "555205"
+          },
+          "link": "https://azure.microsoft.com/updates?id=555205",
+          "category": [
+            "In development",
+            "Networking",
+            "Security",
+            "Web Application Firewall"
+          ],
+          "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
+          "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
+          "pubDate": "Tue, 03 Feb 2026 20:30:31 Z",
+          "a10:updated": "2026-02-03T20:30:31Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "553917"
+          },
+          "link": "https://azure.microsoft.com/updates?id=553917",
+          "category": [
+            "Launched",
+            "Containers",
+            "Compute",
+            "Azure Container Storage",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Azure Container Storage v2.1.0 now with Elastic SAN integration and on demand installation",
+          "description": "Azure Container Storage v2.1.0 is now generally available. This release adds native Elastic SAN support and introduces a lightweight, on-demand installation model to simplify deployment and operations for Kubernetes workloads on Azure. Elastic SAN Storage",
+          "pubDate": "Tue, 03 Feb 2026 20:30:31 Z",
+          "a10:updated": "2026-02-03T20:30:31Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "548198"
+          },
+          "link": "https://azure.microsoft.com/updates?id=548198",
+          "category": [
+            "In preview",
+            "Containers",
+            "Azure Kubernetes Fleet Manager"
+          ],
+          "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager namespace-scoped resource placement",
+          "description": "Namespace-scoped resource placement, now\nin preview for Azure Kubernetes Fleet Manager, delivers fine‑grained control\nover selection and propagation of individual namespace‑scoped resources across\nmultiple clusters.   This new capability means\nit is now p",
+          "pubDate": "Tue, 03 Feb 2026 20:30:31 Z",
+          "a10:updated": "2026-02-03T20:30:31Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3345,54 +3396,6 @@
           ],
           "title": "[In preview] Public Preview: Built-in memory in Foundry Agent Service",
           "description": "The new long-term memory in Foundry Agent Service gives developers a robust, scalable foundation for agents that can remember, adapt, and act coherently across sessions and workflows. Integrated directly into the Foundry runtime, memory provides a persist",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525999"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525999",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Microsoft Foundry"
-          ],
-          "title": "[In preview] Public Preview: Multi-agent workflows in Foundry Agent Service",
-          "description": "Developers can now\nbuild robust multi-agent workflows using both a visual designer and code-first\nAPI. These workflows provide structured orchestration, context sharing,\npersistent state, and error recovery for complex enterprise processes. The\nmodular de",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525994"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525994",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Microsoft Foundry"
-          ],
-          "title": "[In preview] Public Preview: Hosted agents in Foundry Agent Service",
-          "description": "Hosted agents in Foundry Agent Service make it effortless for teams to move\nfrom local experimentation to full-scale production.Developers can now deploy custom-code agents\nbuilt with Microsoft Agent Framework, LangGraph, CrewAI,\nor other open-source fram",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525985"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525985",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Microsoft Foundry"
-          ],
-          "title": "[Launched] Generally Available: Observability in Foundry Control Plane",
-          "description": "Observability in Foundry Control Plane now in public preview for agents with a GA pre-announcement for model evals is a comprehensive suite of capabilities that enable developers to evaluate, monitor, and optimize the quality, performance, and safety of m",
           "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
           "a10:updated": "2025-11-18T16:00:16Z"
         }
