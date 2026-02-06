@@ -6,9 +6,43 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 06 Feb 2026 19:00:01 Z",
+      "lastBuildDate": "Fri, 06 Feb 2026 23:00:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "555184"
+          },
+          "link": "https://azure.microsoft.com/updates?id=555184",
+          "category": [
+            "In development",
+            "Management and governance",
+            "Storage",
+            "Azure Backup"
+          ],
+          "title": "[In development] Private Preview: Vaulted Backups for Azure Disk",
+          "description": "Today, Azure Disk Backup protects data by taking regular, crash-consistent snapshots of Azure Disks. These snapshots are stored within your subscription and tenant in a resource group, referred to as the Operational Tier in Azure Backup. This enables fast",
+          "pubDate": "Fri, 06 Feb 2026 23:00:02 Z",
+          "a10:updated": "2026-02-06T23:00:02Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "555488"
+          },
+          "link": "https://azure.microsoft.com/updates?id=555488",
+          "category": [
+            "In preview",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor"
+          ],
+          "title": "[In preview] Public Preview: Azure Monitor pipeline data transformations",
+          "description": "Azure Monitor pipeline data transformations feature is now Public Preview! This feature enables users to shape telemetry before it’s ingested into Azure Monitor, helping them control ingestion costs, improve data quality, and simplify analytics at scale.B",
+          "pubDate": "Fri, 06 Feb 2026 22:45:47 Z",
+          "a10:updated": "2026-02-06T22:45:47Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3361,38 +3395,6 @@
           "category": "Launched",
           "title": "[Launched] Generally Available: GitHub Copilot app modernization expanded capabilities",
           "description": "Announcing new enhancements to GitHub Copilot App\nModernization that are Generally Available, making it easier than ever to modernize applications, databases,\ncontainers, and accelerate migration to Azure. Below capabilities are\nnow Generally Available: F",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526330"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526330",
-          "category": [
-            "Launched",
-            "AI + machine learning",
-            "Microsoft Foundry"
-          ],
-          "title": "[Launched] Generally Available: Model Router in Microsoft Foundry",
-          "description": "Model router in Microsoft Foundry is now generally\navailable. Model router is an AI orchestration layer dynamically selects the\noptimal model for each prompt. It now supports a broader range of models\nincluding: GPT-4 family, GPT-5 family, GPT-oss, Deepse",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526198"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526198",
-          "category": [
-            "In development",
-            "AI + machine learning",
-            "Microsoft Foundry"
-          ],
-          "title": "[In development] Private Preview: Foundry Local Android support",
-          "description": "Foundry Local now extends its capabilities to\nAndroid, in addition to Windows and Mac supporting\nadvanced on-device AI for smartphones, tablets, and IoT devices, while Whisper model integration delivers\nrobust, privacy-preserving speech and audio processi",
           "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
           "a10:updated": "2025-11-18T16:00:16Z"
         }
