@@ -75,7 +75,8 @@
             "In preview",
             "Networking",
             "Security",
-            "Application Gateway"
+            "Application Gateway",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Application Gateway for Containers - AKS managed add-on",
           "description": "We're announcing public preview of an AKS managed add-on that simplifies the deployment and lifecycle management of Application Gateway for Containers and its ALB Controller. With the managed AKS add-on, you can enable Application Gateway for Containers w",
@@ -92,7 +93,8 @@
             "In development",
             "Management and governance",
             "Storage",
-            "Azure Backup"
+            "Azure Backup",
+            "Features"
           ],
           "title": "[In development] Private Preview: Vaulted Backups for Azure Disk",
           "description": "Today, Azure Disk Backup protects data by taking regular, crash-consistent snapshots of Azure Disks. These snapshots are stored within your subscription and tenant in a resource group, referred to as the Operational Tier in Azure Backup. This enables fast",
@@ -109,7 +111,9 @@
             "In preview",
             "DevOps",
             "Management and governance",
-            "Azure Monitor"
+            "Azure Monitor",
+            "Security",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Monitor pipeline transformations",
           "description": "Azure Monitor pipeline transformations feature\nis now Public Preview! This feature enables users to shape telemetry before\nit’s ingested into Azure Monitor, helping them control ingestion costs, improve\ndata quality, and simplify analytics at scale.Built",
@@ -126,7 +130,8 @@
             "Launched",
             "AI + machine learning",
             "Analytics",
-            "Azure Databricks"
+            "Azure Databricks",
+            "Features"
           ],
           "title": "[Launched] ​Generally Available: Claude Opus 4.6 now available on Azure Databricks",
           "description": "Azure Databricks now supports Anthropic Claude Opus 4.6 through Mosaic AI Model serving. Claude Opus 4.6 is Anthropic's most advanced model, delivering state-of-the-art performance on agentic coding, complex reasoning, and knowledge work tasks. The model",
@@ -139,7 +144,10 @@
             "#text": "553999"
           },
           "link": "https://azure.microsoft.com/updates?id=553999",
-          "category": "In development",
+          "category": [
+            "In development",
+            "Regions & Datacenters"
+          ],
           "title": "[In development] Private Preview: New planned datacenter region in Thailand (Thailand South)",
           "description": "Microsoft is announcing our intent to establish\na new datacenter region in Thailand. The datacenter region will expand the\navailability of Microsoft’s hyperscale cloud services in the region,\nfacilitating enterprise-grade reliability, performance, and com",
           "pubDate": "Fri, 06 Feb 2026 19:00:01 Z",
@@ -154,7 +162,8 @@
           "category": [
             "Launched",
             "Compute",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Regions & Datacenters"
           ],
           "title": "[Launched] Generally Available: AMD v6 confidential VMs in new regions for January 2026",
           "description": "DCa/ECa v6 series AMD based confidential virtual machines are now generally available in 11 new regions: Canada Central, Canada East, Norway East, Norway West, Italy North, Germany North, France South, Australia East, West US, West US 3, Germany West Cent",
@@ -170,7 +179,10 @@
           "category": [
             "In preview",
             "Networking",
-            "Virtual Network"
+            "Virtual Network",
+            "Features",
+            "Services",
+            "Management"
           ],
           "title": "[In preview] Public Preview: Azure virtual network routing appliance",
           "description": "Azure Virtual\nNetwork routing appliance offers private connectivity\nfor workloads across virtual networks. Using specialized\nhardware, it delivers low latency and\nhigh throughput, and optimal performance compared\nto virtual machines.   Deployed into priva",
@@ -186,7 +198,8 @@
           "category": [
             "In preview",
             "AI + machine learning",
-            "Microsoft Foundry"
+            "Microsoft Foundry",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Claude Opus 4.6, Available on Microsoft Foundry",
           "description": "Claude Opus 4.6 is now available in Microsoft Foundry, bringing Anthropic’s most advanced reasoning model to a secure, enterprise-ready platform built on Azure. With support for complex coding, knowledge work, and agent-driven workflows, including long-co",
@@ -202,7 +215,10 @@
           "category": [
             "In preview",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features",
+            "Services",
+            "Pricing & Offerings"
           ],
           "title": "[In preview] Public Preview: Azure NetApp Files Elastic zone-redundant service level",
           "description": "Azure NetApp Files Elastic zone-redundant storage (ANF\nElastic ZRS) is an advanced high-availability service level for Azure NetApp\nFiles that provides continuous data access with zero data loss, even if an\nentire Azure Availability Zone goes offline. Bui",
@@ -219,7 +235,9 @@
             "In development",
             "Networking",
             "Security",
-            "Web Application Firewall"
+            "Web Application Firewall",
+            "Features",
+            "Security"
           ],
           "title": "[In development] Public Preview: X-Forwarded-For (XFF) grouping for rate limiting on Application Gateway WAF v2",
           "description": "Application Gateway Web Application Firewall (WAF) v2 now supports additional rate‑limiting GroupBy options based on the X‑Forwarded‑For (XFF) HTTP header. This enables customers running Application Gateway behind proxies or CDNs to apply rate limits usin",
@@ -237,7 +255,8 @@
             "Containers",
             "Compute",
             "Azure Container Storage",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Container Storage v2.1.0 now with Elastic SAN integration and on demand installation",
           "description": "Azure Container Storage v2.1.0 is now generally available. This release adds native Elastic SAN support and introduces a lightweight, on-demand installation model to simplify deployment and operations for Kubernetes workloads on Azure. Elastic SAN Storage",
@@ -253,7 +272,8 @@
           "category": [
             "In preview",
             "Containers",
-            "Azure Kubernetes Fleet Manager"
+            "Azure Kubernetes Fleet Manager",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager namespace-scoped resource placement",
           "description": "Namespace-scoped resource placement, now\nin preview for Azure Kubernetes Fleet Manager, delivers fine‑grained control\nover selection and propagation of individual namespace‑scoped resources across\nmultiple clusters.   This new capability means\nit is now p",
@@ -287,7 +307,8 @@
             "Launched",
             "AI + machine learning",
             "Analytics",
-            "Azure Databricks"
+            "Azure Databricks",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Serverless workspaces in Azure Databricks",
           "description": "Serverless workspaces in Azure Databricks are now generally available, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage. They deliver an enterprise-ready SaaS experience with zero infrastructure",
@@ -305,7 +326,9 @@
             "Networking",
             "Security",
             "Application Gateway",
-            "Web Application Firewall"
+            "Web Application Firewall",
+            "Security",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Default Ruleset 2.2 in WAF for Azure Application Gateway",
           "description": "Announcing the general availability of Default Rule Set (DRS) 2.2 for Web Application Firewall on Azure Application Gateway.The Azure-managed DRS provides active protection against common web vulnerabilities and exploits. It also includes Microsoft Threat",
@@ -321,7 +344,8 @@
           "category": [
             "DevOps",
             "Management and governance",
-            "Azure Monitor"
+            "Azure Monitor",
+            "Retirements"
           ],
           "title": "Retirement: \"Send data to Event Hubs & Storage (Preview)\" retiring July 31, 2026",
           "description": "On July 31, 2026, we'll retire preview feature “Send virtual machine client data to Event Hubs and Storage (Preview)” and it'll no longer be supported by Microsoft. You will not be able to create any new data collection rules using this feature, and any e",
@@ -338,7 +362,8 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Retirements"
           ],
           "title": "Retirement: Support for Python 3.10 ends on October 1, 2026 – upgrade your Azure Functions apps to Python 3.13",
           "description": "In alignment with the end of community support, on October 1, 2026, support for Python 3.10 in Azure Functions will end. Your\napps that are hosted on Functions will continue to run, but security updates\nand performance optimizations will no longer be avai",
@@ -354,7 +379,10 @@
           "category": [
             "Launched",
             "Compute",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Services",
+            "Features",
+            "Pricing & Offerings"
           ],
           "title": "[Launched] Generally Available: Azure AMD Turin Dasv7, Easv7, and Fasv7-series Virtual Machines",
           "description": "The general purpose Dasv7 and Dalsv7, memory-optimized Easv7, and compute-optimized Fasv7, Falsv7, Famsv7 VMs, are now generally available with and without local disk support. These VMs are available in the following Azure regions: Australia East, Central",
@@ -371,7 +399,8 @@
             "Launched",
             "AI + machine learning",
             "Analytics",
-            "Azure Databricks"
+            "Azure Databricks",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Databricks Agent Bricks Knowledge Assistant",
           "description": "Azure Databricks Agent Bricks knowledge assistant empowers you to create, deploy, and manage AI agents directly within the Azure Databricks platform, using unified data and AI capabilities. This feature simplifies agent development by providing prebuilt c",
@@ -388,7 +417,8 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Latest PostgreSQL minor versions supported by Azure Database for PostgreSQL – Flexible Server",
           "description": "PostgreSQL minor versions 18.1, 17.7, 16.11, 15.15, 14.20, and 13.23 are now supported by Azure Database for PostgreSQL – Flexible Server.    These minor version upgrades are automatically performed as part of the monthly planned maintenance in Azure Data",
@@ -404,7 +434,8 @@
           "category": [
             "In preview",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure NetApp Files support in OpenShift Virtualization",
           "description": "Azure NetApp Files now\nenables fast virtual machine (VM) provisioning, instant cloning, and live\nmigration in OpenShift Virtualization. It offers seamlessly scalable storage\nwith predictable performance and enterprise data management for VM workloads\nfrom",
@@ -420,7 +451,8 @@
           "category": [
             "In preview",
             "Compute",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Features"
           ],
           "title": "[In preview] Public Preview: 7th generation Intel-based VMs – Dlsv7/Dsv7/Esv7",
           "description": "Announcing the preview of new Azure Dlsv7/Dsv7 General Purpose and Esv7 Memory Optimized Virtual Machines (VMs) powered by the latest Intel® Xeon® 6 processors (Granite Rapids). The latest Azure Intel-based v7 VMs are designed to power ever increasing com",
@@ -444,7 +476,11 @@
             "Azure Container Instances",
             "Azure Kubernetes Service (AKS)",
             "Azure Red Hat OpenShift",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Microsoft Ignite",
+            "Features",
+            "Open Source",
+            "SDK and Tools"
           ],
           "title": "[In preview] Public Preview: Azure Command Launcher for Java",
           "description": "At Microsoft Ignite 2025, we announced the Public Preview of the Azure Command Launcher for Java, a new JVM launcher optimized specifically for Azure. This tool provides better default ergonomics for Java applications running in containers and virtual mac",
@@ -461,7 +497,8 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Deployment safeguards – pod security standard support in AKS",
           "description": "Organizations deploying workloads on Kubernetes often need a consistent way\nto enforce pod security configurations across clusters. Azure Kubernetes\nService (AKS) now supports Pod Security Standards within Deployment Safeguards,\nenabling centralized manag",
@@ -477,7 +514,9 @@
           "category": [
             "Launched",
             "Networking",
-            "Azure NAT Gateway"
+            "Azure NAT Gateway",
+            "Services",
+            "Regions & Datacenters"
           ],
           "title": "[Launched] Generally Available: StandardV2 NAT Gateway with zone-redundancy and StandardV2 public IPs",
           "description": "StandardV2 SKU NAT Gateway is now generally available, delivering enhanced resiliency, greater performance, and dual-stack connectivity, all at the same price as the Standard SKU.  StandardV2 Public IP addresses and prefixes are also generally available.",
@@ -494,7 +533,8 @@
             "Launched",
             "Developer tools",
             "DevOps",
-            "Azure Load Testing"
+            "Azure Load Testing",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Reporting in Playwright Workspaces (part of Azure App Testing)",
           "description": "Reporting capabilities are now live in Playwright Workspaces. The latest update brings you an integrated, flexible and collaborative reporting experience designed to make debugging tests in Playwright Workspaces easier, faster and more efficient. Customer",
@@ -511,7 +551,9 @@
             "Launched",
             "Developer tools",
             "DevOps",
-            "Azure Load Testing"
+            "Azure Load Testing",
+            "Features",
+            "Regions & Datacenters"
           ],
           "title": "[Launched] Generally Available: Azure Load Testing in Switzerland North",
           "description": "Azure Load Testing capability in Azure App Testing is now generally available in Switzerland North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance",
@@ -527,7 +569,8 @@
           "category": [
             "Launched",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Application volume group for Oracle create data protection volume group (API)",
           "description": "The functionality of application volume group for Oracle has been expanded with the ability to create data protection volumes in a volume group with the same anti-affinity layout as production volume groups. Customers benefit from this ability for creatin",
@@ -543,7 +586,8 @@
           "category": [
             "Launched",
             "Storage",
-            "Azure Files"
+            "Azure Files",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure File Sync in Israel Central",
           "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server",
@@ -560,7 +604,8 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS",
           "description": "Customers\nupgrading AKS clusters often need a clear and flexible path to adopt new OS\nversions without disrupting workloads. Ubuntu 24.04 is now generally\navailable on AKS starting with Kubernetes version 1.32, with containerd 2.0 enabled by default.  It",
@@ -579,7 +624,9 @@
             "Databases",
             "Azure Files",
             "Queue Storage",
-            "Table Storage"
+            "Table Storage",
+            "Features",
+            "Security"
           ],
           "title": "[In preview] Public Preview: User delegation SAS for Azure Tables, Azure Files, and Azure Queues",
           "description": "User delegation SAS for Azure Tables, Azure Files, and Azure Queues is now available in public preview. User delegation (UDK) SAS is already generally available for blobs, and this release extends that support to tables, files, and queues.User delegation",
@@ -596,7 +643,8 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Ubuntu 24.04 support in AKS",
           "description": "Ubuntu 24.04 is now generally available on AKS in Kubernetes\nversion 1.32 and above. Containerd 2.0 is enabled by default. Ubuntu 24.04 is\ndefault with `Ubuntu` OS Sku in kubernetes version 1.35 and above. There are two ways that Ubuntu 24.04 can be enabl",
@@ -613,7 +661,8 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Cosmos DB Mirroring with Private Endpoints",
           "description": "Available now in Public Preview, you can configure Azure Cosmos DB accounts with virtual networks or private endpoints to work with Microsoft Fabric mirroring. This feature allows you to preserve your enhanced network security and seamlessly replicate you",
@@ -630,7 +679,9 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Pricing & Offerings",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Cloud-native apps on Kubernetes pricing calculator scenario",
           "description": "The new cloud-native apps on\nKubernetes pricing calculator scenario allows teams to estimate the total cost\nof ownership for a production-ready AKS cluster with other key Azure services,\nincluding Azure Container Registry, Azure Monitoring, Microsoft Defe",
@@ -663,7 +714,8 @@
           "category": [
             "Launched",
             "Storage",
-            "Azure Disk Storage"
+            "Azure Disk Storage",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in Austria East and in a second Availability Zone in Japan West",
           "description": "Azure Premium SSD v2 is now available in Austria East and in a second Availability Zone in Japan West.  Azure Premium SSD v2, a next-generation general-purpose block storage solution, offers sub-millisecond latencies and exceptional price performance for",
@@ -696,7 +748,9 @@
             "In preview",
             "Migration",
             "Storage",
-            "Azure Storage Mover"
+            "Azure Storage Mover",
+            "Features",
+            "Services"
           ],
           "title": "[In preview] Public Preview: Azure Blob-to-Blob migration made simple with Azure Storage Mover",
           "description": "Azure Storage Mover’s new Azure Blob container-to-container\nmigration feature is now in Public Preview, empowering organizations to move\ndata between two Blob containers within the same or different storage accounts, subscriptions or Azure regions securel",
@@ -714,7 +768,8 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Service Bus SDK type bindings in Azure Functions for Node.js",
           "description": "Azure\nFunctions triggers and bindings enable you to easily integrate event and data\nsources with function applications.   Now that SDK\ntype bindings support for Azure Blob Storage is available, we’re also\nintroducing support for Service Bus SDK type bindi",
@@ -731,7 +786,8 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure SQL Database"
+            "Azure SQL Database",
+            "Features"
           ],
           "title": "[Launched] Generally Avaailable: Azure SQL updates for early December 2025",
           "description": "In mid-December 2025, the following updates and enhancements were made to Azure SQL:  Identify causes that auto-resume serverless workloads using Activity Log in Azure SQL Database to troubleshoot and optimize access patterns. Learn more.",
@@ -748,7 +804,8 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Use Azure SRE Agent with Azure Cosmos DB",
           "description": "You can now simplify how you diagnose and resolve issues in your applications running on Azure Cosmos DB with the introduction of the Azure Cosmos DB Site Reliability Engineering (SRE) Agent, built on the Azure SRE Agent platform. This new capability give",
@@ -764,7 +821,8 @@
           "category": [
             "In preview",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features"
           ],
           "title": "[In preview] Generally Available: Azure NetApp Files cross-zone-region replication (CZRR)",
           "description": "Cross-zone-region replication builds on the existing capabilities of cross-region replication and cross-zone replication. It enables you to replicate volumes across regions and across availability zones within the same region, combining disaster recovery",
@@ -780,7 +838,8 @@
           "category": [
             "In preview",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure NetApp Files advanced ransomware protection",
           "description": "Azure NetApp Files advanced ransomware protection (ANF ARP) is now in Public Preview.  ANF ARP is designed to help organizations proactively detect, respond to, and recover from ransomware threats on cloud volumes. ANF ARP monitors Azure NetApp Files volu",
@@ -813,7 +872,8 @@
             "In preview",
             "AI + machine learning",
             "Analytics",
-            "Azure Databricks"
+            "Azure Databricks",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Databricks Dashboard subscriptions now support Microsoft Teams",
           "description": "You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. This enhancement delivers timely, actionable data directly into team workflows, reducing the need to check e",
@@ -829,7 +889,8 @@
           "category": [
             "Launched",
             "Internet of Things",
-            "Azure Sphere"
+            "Azure Sphere",
+            "Operating System"
           ],
           "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
           "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
@@ -846,7 +907,11 @@
             "Launched",
             "Networking",
             "Security",
-            "Application Gateway"
+            "Application Gateway",
+            "Services",
+            "Security",
+            "Features",
+            "Compliance"
           ],
           "title": "[Launched] Generally Available: FIPS compliant mode for Application Gateway V2 SKUs",
           "description": "The Federal Information Processing Standard (FIPS) 140-2\nis a US government standard that defines minimum security requirements for\ncryptographic modules in information technology products and systems. Azure Application Gateway V2 now supports FIPS mode,",
@@ -862,7 +927,10 @@
           "category": [
             "Launched",
             "Storage",
-            "Azure Files"
+            "Azure Files",
+            "Microsoft Ignite",
+            "Features",
+            "SDK and Tools"
           ],
           "title": "[Launched] Generally Available: Zonal placement for Azure file shares Azure Files Premium LRS in select regions.",
           "description": "Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning storage accounts to a specific availability zone, enabling high availability, fault isolation, and predictabl",
@@ -878,7 +946,8 @@
           "category": [
             "In preview",
             "AI + machine learning",
-            "Microsoft Foundry"
+            "Microsoft Foundry",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Mistral Large 3 in Foundry",
           "description": "Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers enterprise-grade reliability, long-context comprehension, and multimodal reasoning—making it ideal for produ",
@@ -896,7 +965,11 @@
             "Databases",
             "Security",
             "Storage",
-            "Azure confidential ledger"
+            "Azure confidential ledger",
+            "Features",
+            "SDK and Tools",
+            "Security",
+            "Services"
           ],
           "title": "[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger",
           "description": "The Azure MCP (Model Context Protocol) Server provides a\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\nnatural language prompts. This feature allows users to interact with confidential\nledger without the nee",
@@ -913,7 +986,8 @@
             "In preview",
             "AI + machine learning",
             "Analytics",
-            "Azure Databricks"
+            "Azure Databricks",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Serverless workspaces in Azure Databricks",
           "description": "Serverless workspaces in Azure Databricks are now available in Public Preview, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage to deliver an enterprise-ready SaaS experience with minimal infrast",
@@ -967,7 +1041,8 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central",
           "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more.",
@@ -984,7 +1059,8 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Update pg_squeeze to version 1.9.1 in Azure Database for PostgreSQL Flexible Server",
           "description": "Now you can upgrade the pg_squeeze extension to version 1.9.1 in Azure Database for PostgreSQL Flexible Server.  Learn more.",
@@ -1001,7 +1077,8 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features"
           ],
           "title": "[Launched] Generally Available: The ip4r extension in Azure Database for PostgreSQL Flexible Server",
           "description": "Now you can install the ip4r extension in Azure Database for PostgreSQL Flexible Server. Ip4r provides efficient storage and indexing functionality for IPv4 and IPv6 addresses and ranges.  Learn more.",
@@ -1018,7 +1095,8 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features"
           ],
           "title": "[Launched] Generally Available: The credcheck extension in Azure Database for PostgreSQL Flexible Server",
           "description": "Now you can install the credcheck extension in Azure\nDatabase for PostgreSQL Flexible Server. The credcheck extension helps you to\nenforce password and credential validation policies directly within PostgreSQL.\n Learn\nmore.",
@@ -1034,7 +1112,9 @@
           "category": [
             "Launched",
             "Networking",
-            "Load Balancer"
+            "Load Balancer",
+            "Features",
+            "Services"
           ],
           "title": "[Launched] Generally Available: Azure Load Balancer bandwidth metrics now support Protocol dimension",
           "description": "Bandwidth metrics for Azure Load\nBalancer are now published with metric dimension Protocol. When retrieving or\nviewing Byte, Packet, and SYN Count metrics in the Azure portal, you will now\nsee the dimension Protocol. TCP traffic is denoted by Protocol=6,",
@@ -1047,7 +1127,11 @@
             "#text": "535363"
           },
           "link": "https://azure.microsoft.com/updates?id=535363",
-          "category": "Launched",
+          "category": [
+            "Launched",
+            "Services",
+            "Regions & Datacenters"
+          ],
           "title": "[Launched] Generally Available: Perth - Azure Extended Zones",
           "description": "We are announcing the general availability of the Perth\nAzure Extended Zone.   Azure Extended Zones are small-footprint extensions of Azure\nplaced in metro areas, industry centers, or specific jurisdictions, to serve\nlow latency and data residency workloa",
           "pubDate": "Mon, 01 Dec 2025 17:30:38 Z",
@@ -1084,7 +1168,12 @@
             "In preview",
             "Management and governance",
             "Networking",
-            "Network Watcher"
+            "Network Watcher",
+            "Security",
+            "Microsoft Ignite",
+            "Features",
+            "Management",
+            "Compliance"
           ],
           "title": "[In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture",
           "description": "VNET flow log captures IP\ntraffic flowing through VNETs, subnets, and NICs for monitoring, troubleshooting,\nnetwork optimization, security, and compliance needs and stores the logs in Azure\nStorage Traffic Analytics leverages\nVNET flow logs and aggregates",
@@ -1100,7 +1189,8 @@
           "category": [
             "In preview",
             "AI + machine learning",
-            "Microsoft Foundry"
+            "Microsoft Foundry",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry",
           "description": "Claude Opus 4.5 is now available in public preview on\nMicrosoft Foundry, bringing advanced coding, agentic workflows, and enterprise\nproductivity to Azure customers. Claude Opus 4.5 sets a new benchmark for performance\nand versatility, outperforming previ",
@@ -1116,7 +1206,9 @@
           "category": [
             "Launched",
             "Storage",
-            "Azure Files"
+            "Azure Files",
+            "Services",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
           "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server",
@@ -1135,7 +1227,11 @@
             "Networking",
             "Security",
             "Microsoft Entra ID (formerly Azure AD)",
-            "Azure Bastion"
+            "Azure Bastion",
+            "Microsoft Ignite",
+            "Features",
+            "Services",
+            "Security"
           ],
           "title": "[In preview] Public Preview: Entra ID support for RDP connections",
           "description": "Announcing Azure Bastion now supports Microsoft Entra ID\nauthentication for RDP connections to Windows VMs directly in the portal. This update\nbrings two key benefits for RDP users connecting to their virtual machines: Enhanced Security: By eliminating lo",
@@ -1152,7 +1248,9 @@
             "Launched",
             "Developer tools",
             "DevOps",
-            "Azure Load Testing"
+            "Azure Load Testing",
+            "Regions & Datacenters",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Load Testing in Italy North",
           "description": "Azure Load Testing capability in Azure App Testing is now generally available in Italy North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance bottl",
@@ -1169,7 +1267,8 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure SQL Database"
+            "Azure SQL Database",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Regex support in T-SQL",
           "description": "Boost your SQL queries with powerful regular expressions (regex) support for advanced pattern matching. Now you can use native regex in T-SQL directly in Azure SQL and SQL Server 2025 queries—simplifying code, improving maintainability, and reducing depen",
@@ -1238,7 +1337,8 @@
             "In preview",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Container network metrics filtering in Advanced Container Networking Services for (ACNS) for AKS",
           "description": "Container network metrics\nfiltering in Azure Container Networking Services (ACNS) is now available in\npublic preview. In\ncontainerized environments, the ingestion of excessive network metrics can lead\nto inflated storage costs and cluttered dashboards, ma",
@@ -1255,7 +1355,8 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: MCP support for AI toolchain operator add-on in AKS",
           "description": "MCP support for AI toolchain operator add-on is\nnow Generally Available.    The AI Toolchain Operator add-on now supports\nKAITO inference workspaces with integrated tool calling and Model Context\nProtocol (MCP), addressing key challenges around dynamic mo",
@@ -1272,7 +1373,8 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS",
           "description": "Cluster-wide Cilium network\npolicy for AKS clusters using Azure CNI powered by Cilium is now Generally\nAvailable.   Managing consistent network policies across Kubernetes\nnamespaces has long been a challenge for platform teams, especially in\nmulti-tenant",
@@ -1289,7 +1391,8 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Local redirect policy in Azure CNI powered by Cilium for AKS",
           "description": "Local redirect policy with Azure\nCNI powered by Cilium for AKS is now generally available. Customers running high-scale AKS workloads often experience\nlatency and performance bottlenecks due to cross-node traffic routing. The new local\nredirect policy add",
@@ -1306,7 +1409,8 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS",
           "description": "To address the growing need for granular traffic control in\nmicroservices architectures, Azure Container Networking Services now offers\nLayer 7 Policy as a generally available feature. This capability empowers\ncustomers to enforce fine-grained traffic con",
@@ -1322,7 +1426,10 @@
           "category": [
             "Launched",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features",
+            "Regions & Datacenters",
+            "Services"
           ],
           "title": "[Launched] Generally Available: Azure NetApp Files single file restore from backup",
           "description": "With Azure NetApp Files single file restore from backup, you can restore individual files from Azure NetApp Files backup vault without needing to restore an entire volume. By restoring only the necessary files, you can save time and cost needed for restor",
@@ -1338,7 +1445,11 @@
           "category": [
             "Launched",
             "Networking",
-            "Azure DNS"
+            "Azure DNS",
+            "Microsoft Ignite",
+            "Features",
+            "Services",
+            "Security"
           ],
           "title": "[Launched] Generally Available: DNS security policy Threat Intelligence feed",
           "description": "Azure\nDNS security policy Threat Intelligence feed is now generally available.\nProtect against known malicious domains with Microsoft’s managed Threat\nIntelligent feed.  Smart Protection  \n Almost all attacks begin with\n     a DNS query. Threat Intelligen",
@@ -1354,7 +1465,8 @@
           "category": [
             "Launched",
             "Internet of Things",
-            "Azure Sphere"
+            "Azure Sphere",
+            "Operating System"
           ],
           "title": "[Launched] Generally Available: Azure Sphere OS version 25.10 is now available",
           "description": "Azure Sphere OS version 25.10 is now available in the Retail feed. This release includes updates to Azure Sphere OS only; it does not include an updated SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.Th",
@@ -1370,7 +1482,11 @@
           "category": [
             "Launched",
             "Compute",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Operating System",
+            "Compliance",
+            "Security",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images",
           "description": "Announcing that\nTrusted Launch supported Arm64 Images are now available in the Azure\nMarketplace. You can now get the dual benefit of cost and performance efficiencies\nof Arm64 in addition to the security benefits of Trusted Launch.  Arm64 VMs bring cost",
@@ -1386,7 +1502,8 @@
           "category": [
             "In preview",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure NetApp Files migration assistant (portal support)",
           "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
@@ -1402,7 +1519,8 @@
           "category": [
             "In preview",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure NetApp Files cache volumes",
           "description": "Azure NetApp Files cache volumes are now available in public preview. The cache volumes feature is a new capability built on NetApp’s ONTAP FlexCache technology that provides a persistent, high-performance cache in Azure for data stored on ONTAP-based sto",
@@ -1424,7 +1542,9 @@
             "Management and governance",
             "Azure Arc",
             "Azure Kubernetes Service (AKS)",
-            "Azure Monitor"
+            "Azure Monitor",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Monitor for Azure Arc-enabled Kubernetes with OpenShift and Azure Red Hat OpenShift",
           "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor now supports Azure Arc-enabled Kubernetes with OpenShift",
@@ -1440,7 +1560,12 @@
           "category": [
             "Launched",
             "Storage",
-            "Azure Managed Lustre"
+            "Azure Managed Lustre",
+            "SDK and Tools",
+            "Microsoft Ignite",
+            "Features",
+            "Services",
+            "Management"
           ],
           "title": "[Launched] Generally Available: Azure Managed Lustre Support for Azure MCP Server",
           "description": "Azure Managed Lustre now offers full integration with Azure MCP Server, and this capability is generally available. Azure MCP Server enables developers and infrastructure teams to manage Azure resources—including Azure Managed Lustre file systems—using na",
@@ -1477,7 +1602,11 @@
           "category": [
             "In preview",
             "Storage",
-            "Azure Managed Lustre"
+            "Azure Managed Lustre",
+            "Microsoft Ignite",
+            "Features",
+            "Pricing & Offerings",
+            "Services"
           ],
           "title": "[In preview] Public Preview: 20 MB/s/TiB Performance Tier for Azure Managed Lustre",
           "description": "Azure Managed Lustre now offers a new 20 MB/s/TiB performance tier in public preview, designed to meet the demands of large-scale AI and high-performance computing (HPC) workloads. This tier enables customers to provision file systems up to 25 PiB in a si",
@@ -1533,7 +1662,9 @@
           "category": [
             "In preview",
             "AI + machine learning",
-            "Microsoft Foundry"
+            "Microsoft Foundry",
+            "Features",
+            "Microsoft Inspire"
           ],
           "title": "[In preview] Public Preview: Azure Managed Redis integration with Microsoft Foundry",
           "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
@@ -1550,7 +1681,10 @@
             "Launched",
             "Networking",
             "Security",
-            "Application Gateway"
+            "Application Gateway",
+            "Features",
+            "Services",
+            "Management"
           ],
           "title": "[Launched] Generally Available: TLS and TCP termination on Azure Application Gateway",
           "description": "Azure Application Gateway has introduced general availability support\nfor TLS and TCP protocol termination. This enhancement enables you to load\nbalance and securely process non-HTTP(S) traffic for applications that rely on\nTCP or TLS protocols. The gatew",
@@ -1567,7 +1701,9 @@
             "In preview",
             "AI + machine learning",
             "Analytics",
-            "Azure Databricks"
+            "Azure Databricks",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Microsoft Foundry data connection for Azure Databricks",
           "description": "Azure Databricks Genie is now integrated with Microsoft Foundry and in public preview. You can now connect Genie spaces directly to Microsoft Foundry agents using Model Context Protocol (MCP), giving you seamless access to trusted data for building intell",
@@ -1584,7 +1720,9 @@
             "In preview",
             "AI + machine learning",
             "Analytics",
-            "Azure Databricks"
+            "Azure Databricks",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Databricks Genie in Copilot Studio",
           "description": "Azure Databricks Genie is now available in Microsoft Copilot Studio, giving you direct access to intelligent, enterprise-grade AI answers across your full Azure Databricks data estate. This integration unlocks enterprise-grade, conversational analytics ac",
@@ -1603,7 +1741,9 @@
             "Internet of Things",
             "Mobile",
             "Web",
-            "API Management"
+            "API Management",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure API Management adds support for A2A Agent APIs",
           "description": "Announcing the public preview of A2A API support in Azure API Management.\nWith this new capability, organizations can manage and govern agent APIs\nalongside other API types — AI model APIs, Model Context Protocol (MCP) tools,\nand traditional APIs such as",
@@ -1619,7 +1759,9 @@
           "category": [
             "In preview",
             "AI + machine learning",
-            "Microsoft Foundry"
+            "Microsoft Foundry",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Claude in Microsoft Foundry",
           "description": "Claude models by Anthropic are now\navailable for Public Preview in Microsoft Foundry, expanding the platform’s unified ecosystem of\nfrontier AI. Enterprises can access Claude Sonnet 4.5, Opus 4.1, and Haiku 4.5\nfor advanced long-context reasoning, coding,",
@@ -1635,7 +1777,10 @@
           "category": [
             "In preview",
             "Management and governance",
-            "Azure Copilot"
+            "Azure Copilot",
+            "Services",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Copilot agents - a closer look at the deployment agent",
           "description": "Following our Azure Copilot announcement introducing agentic\ncapabilities, this update focuses on one of the six new agents: the deployment\nagent. The deployment agent helps you discover, plan, and deploy cloud\nworkloads faster and with confidence using n",
@@ -1648,7 +1793,11 @@
             "#text": "529806"
           },
           "link": "https://azure.microsoft.com/updates?id=529806",
-          "category": "In development",
+          "category": [
+            "In development",
+            "Microsoft Ignite",
+            "Features"
+          ],
           "title": "[In development] Private Preview: Azure HorizonDB",
           "description": "Engineered for performance, Azure HorizonDB for PostgreSQL delivers future-proof, autoscaling storage up to 128 TB, up to 3 times faster performance than open-source PostgreSQL, and rapid compute scalability to 3,072 vCores. Now in private preview, Azure",
           "pubDate": "Tue, 18 Nov 2025 18:00:28 Z",
@@ -1685,7 +1834,8 @@
             "Security",
             "DevOps",
             "Microsoft Defender for Cloud",
-            "GitHub Advanced Security for Azure DevOps"
+            "GitHub Advanced Security for Azure DevOps",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Microsoft Defender for Cloud + GitHub Advanced Security",
           "description": "With Microsoft Defender for Cloud and GitHub Advanced\nSecurity, protect cloud-native applications across the full app lifecycle from\ncode to cloud. This natively integrated solution helps unify developers and\nsecurity teams in one workflow while staying i",
@@ -1703,7 +1853,11 @@
             "Storage",
             "Analytics",
             "Azure Blob Storage",
-            "Azure Data Lake Storage"
+            "Azure Data Lake Storage",
+            "Microsoft Ignite",
+            "Features",
+            "Management",
+            "Pricing & Offerings"
           ],
           "title": "[In preview] Public Preview: Smart Tier account level tiering (Azure Blob Storage and ADLS)",
           "description": "Introducing smart tier Public Preview for account level\ntiering Announcing the public preview of smart\ntier for Azure Blob Storage and Azure Data Lake Storage (ADLS). Smart tier\nis a fully managed and automated data tiering solution, avoiding manual tier",
@@ -1721,7 +1875,9 @@
             "Compute",
             "Mobile",
             "Web",
-            "App Service"
+            "App Service",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Managed Instance on Azure App Service",
           "description": "Announcing Managed Instance on Azure App Service, now in Public Preview! This new capability makes it easy to move web apps to the cloud with minimal configuration—no code rewrites required. Whether your .NET apps run on-premises or in VMs, you can move t",
@@ -1731,10 +1887,33 @@
         {
           "guid": {
             "@isPermaLink": "false",
+            "#text": "527713"
+          },
+          "link": "https://azure.microsoft.com/updates?id=527713",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Files",
+            "Microsoft Ignite",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Entra-only identities support with Azure Files SMB",
+          "description": "Azure Files now supports Entra-only identities, enabling customers to retire on-premises domain controllers while maintaining secure SMB access to file shares. This feature delivers a fully cloud-native authentication model using Microsoft Entra Kerberos",
+          "pubDate": "Tue, 18 Nov 2025 17:30:44 Z",
+          "a10:updated": "2025-11-18T17:30:44Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
             "#text": "530661"
           },
           "link": "https://azure.microsoft.com/updates?id=530661",
-          "category": "In development",
+          "category": [
+            "In development",
+            "Microsoft Ignite",
+            "Features"
+          ],
           "title": "[In development] Private Preview: Azure Boost confidential device",
           "description": "The\nAzure Boost confidential device feature is now in preview. Azure Boost\nis a Microsoft Azure system that offloads virtualization tasks—such as\nnetworking, storage, and host management—from the hypervisor and host OS to\npurpose-built hardware and softwa",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
@@ -1752,7 +1931,10 @@
             "Security",
             "Application Gateway",
             "Azure DDoS Protection",
-            "Web Application Firewall"
+            "Web Application Firewall",
+            "Security",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Microsoft HTTP DDoS Ruleset 1.0 on Application Gateway WAF v2",
           "description": "Announcing the public preview\nof the HTTP DDoS Ruleset for Application Gateway WAF v2. HTTP-layer DDoS attacks remain a leading cause of\napplication downtime, and traditional static controls often fall short against\nevolving botnets. The new HTTP DDoS Rul",
@@ -1765,7 +1947,11 @@
             "#text": "530287"
           },
           "link": "https://azure.microsoft.com/updates?id=530287",
-          "category": "In development",
+          "category": [
+            "In development",
+            "Microsoft Ignite",
+            "Features"
+          ],
           "title": "[In development] Private Preview: Azure Boost remote storage throughput and network bandwidth enhancements",
           "description": "Remote storage throughput and network bandwidth performance\nenhancements for the latest Azure Boost architecture are now in preview. Azure\nBoost is a Microsoft Azure system that offloads virtualization tasks—such as\nnetworking, storage, and host managemen",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
@@ -1780,7 +1966,9 @@
           "category": [
             "In preview",
             "Compute",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Services",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: NCv6 Virtual Machines",
           "description": "We are announcing the public preview of NCv6 RTX PRO 6000 Blackwell\nServer Edition Virtual Machines, as the next enhancement of NC Series VMs\navailable on Azure.\nNvidia RTX PRO 6000 BSE GPUs are designed to accelerate a wide array of\nworkloads including v",
@@ -1793,7 +1981,12 @@
             "#text": "529944"
           },
           "link": "https://azure.microsoft.com/updates?id=529944",
-          "category": "In preview",
+          "category": [
+            "In preview",
+            "Services",
+            "Microsoft Ignite",
+            "Features"
+          ],
           "title": "[In preview] Public Preview: New integration and extensibility capabilities to Azure SRE Agent",
           "description": "Azure SRE Agent is an AI-driven solution that unifies operational workflows into a single, prompt-based automation layer—eliminating complexity and reducing overhead for modern cloud operations. Unlike traditional, static automation solutions, SRE Agent l",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
@@ -1809,7 +2002,10 @@
             "Launched",
             "DevOps",
             "Management and governance",
-            "Azure Monitor"
+            "Azure Monitor",
+            "Microsoft Ignite",
+            "Features",
+            "SDK and Tools"
           ],
           "title": "[Launched] Generally Available: Advanced sampling and richer data collection in Azure Monitor OpenTelemetry Distro",
           "description": "Azure continues to embrace open standards by adding new capabilities to the Azure Monitor OpenTelemetry Distro that powers Azure Monitor Application Insights. New Capabilities:Rate-limited sampling and\ntrace-based log sampling:  New sampling options in\nth",
@@ -1827,7 +2023,10 @@
             "Management and governance",
             "Networking",
             "Azure Kubernetes Service (AKS)",
-            "Network Watcher"
+            "Network Watcher",
+            "Microsoft Ignite",
+            "Features",
+            "Management"
           ],
           "title": "[In preview] Public Preview: Azure Network Watcher – Agentless Connection Troubleshoot",
           "description": "Agentless Connection Troubleshoot (public preview)\nintroduces a faster, simpler, and fully agentless way to diagnose network\nconnectivity issues across Azure resources. Previously, running connectivity\nchecks required installing the Network Watcher Extens",
@@ -1847,7 +2046,10 @@
             "Management and governance",
             "Networking",
             "Azure Kubernetes Service (AKS)",
-            "Network Watcher"
+            "Network Watcher",
+            "Management",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Network Watcher Topology – AKS Visualization",
           "description": "Azure Kubernetes Service (AKS) visualization in\nNetwork Watcher Topology (Public Preview) delivers end-to-end visibility of AKS\nclusters directly within the Azure networking experience. Customers can now\nexplore their Kubernetes environments, including th",
@@ -1864,7 +2066,11 @@
             "In preview",
             "Management and governance",
             "Networking",
-            "Network Watcher"
+            "Network Watcher",
+            "Microsoft Ignite",
+            "Features",
+            "Management",
+            "Compliance"
           ],
           "title": "[In preview] Public Preview: Azure VNet Flow Log - Filtering",
           "description": "VNet Flow Log captures IP\ntraffic flowing through VNets, Subnets, & NICs for monitoring, troubleshooting,\nnetwork optimization, security, and compliance needs. This release introduces advanced filtering\ncapabilities in VNet Flow Logs, empowering users wit",
@@ -1900,7 +2106,9 @@
           "category": [
             "Launched",
             "Containers",
-            "Azure Container Registry"
+            "Azure Container Registry",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Container Registry Repository Permissions with Attribute-based Access Control (ABAC)",
           "description": "Organizations\noperating Azure Container Registries (ACR) require least-privilege permissions\nover which Microsoft Entra identities can publish or consume container images.\nWith ACR repository permissions using attribute-based access control (ABAC),\nadmini",
@@ -1917,7 +2125,9 @@
             "In preview",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Kubernetes Service desktop",
           "description": "AKS desktop delivers a modern, application-centric\nexperience for deploying and managing workloads on Azure Kubernetes Service.\nBuilt on supported AKS features, best practices, and the open-source Headlamp\nproject, it offers a guided, self-service interfa",
@@ -1934,7 +2144,9 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Pod sandboxing on AKS",
           "description": "Running\ncontainerized workloads in shared environments can raise concerns around\nsecurity and workload isolation. To address this, AKS now supports pod\nsandboxing, enabling customers to run containers in per-workload pod VMs. Each\npod VM is isolated from",
@@ -1951,7 +2163,9 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Managed namespaces on AKS",
           "description": "Managing\nnamespace configurations across AKS clusters has traditionally required manual\nsetup and ongoing maintenance, creating complexity and potential for\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\nenables users to ea",
@@ -1969,7 +2183,9 @@
             "Containers",
             "Compute",
             "Azure Kubernetes Fleet Manager",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager for Arc-enabled clusters",
           "description": "Managing\nKubernetes clusters across hybrid and multi-cloud environments can be complex\nand fragmented. To simplify this, Azure Kubernetes Fleet Manager now supports\nAzure Arc-enabled Kubernetes, enabling organizations to seamlessly manage any\nCNCF-complia",
@@ -1986,7 +2202,9 @@
             "In preview",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Windows Server 2025 on AKS",
           "description": "Organizations running Windows-based\nworkloads on Azure Kubernetes Service (AKS) face increasing pressure to\nmodernize as support timelines for older Windows Server versions approach\nretirement. To help customers prepare, AKS now offers preview support for",
@@ -2003,7 +2221,9 @@
             "Launched",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: AKS Automatic pod readiness SLA",
           "description": "Azure Kubernetes Service (AKS) Automatic\nclusters now come with a pod readiness SLA, guaranteeing that eligible pods meet\nreadiness criteria within five minutes at the 99.9th percentile.\nThis empowers customers to confidently deploy mission critical workl",
@@ -2020,7 +2240,9 @@
             "In preview",
             "Compute",
             "Containers",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: AKS Automatic managed system node pools",
           "description": "Provisioning and maintaining system node pools in AKS\nrequires ongoing effort to ensure proper scaling, patching, and availability, tasks\nthat can divert resources from application development and delivery.\nManaged system node pools in AKS Automatic remov",
@@ -2038,7 +2260,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Add durability to AI agents in Azure Functions using Microsoft Agent Framework",
           "description": "You can now build and host reliable\nproduction-grade AI agents using the durable extension for\nMicrosoft Agent Framework. This integration combines the Microsoft Agent\nFramework with Azure Functions’ durable capabilities, delivering proven\norchestration a",
@@ -2054,7 +2278,11 @@
           "category": [
             "In preview",
             "Networking",
-            "Azure Virtual Network Manager"
+            "Azure Virtual Network Manager",
+            "Microsoft Ignite",
+            "Features",
+            "Services",
+            "Management"
           ],
           "title": "[In preview] Public Preview: Cross region pool association support for Azure Virtual Network Manager IP address management",
           "description": "Managing\nIP address spaces across multiple regions can be complex and error-prone.  With\nthis new capability, you can now associate a single IPAM pool with virtual\nnetworks in multiple regions, simplifying governance and ensuring\nconsistent CIDR allocatio",
@@ -2070,7 +2298,11 @@
           "category": [
             "Launched",
             "Networking",
-            "Azure Virtual Network Manager"
+            "Azure Virtual Network Manager",
+            "Management",
+            "Services",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Virtual Network Manager address overlap prevention in mesh",
           "description": "Azure Virtual Network Manager\naddress space overlap prevention in mesh is now generally available, bringing enhanced\nreliability and governance to multi-virtual network environments. Unintended\naddress overlap within mesh can lead to dropped traffic. This",
@@ -2088,7 +2320,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Functions support for Node.js 24",
           "description": "You can now develop functions using Node.js 24 locally and deploy them\nto Azure Functions on Windows and Linux.   Note: Node.js 24 does not support\n32-bit systems on Windows. To ensure compatibility, new Windows Function Apps for\nNode.js 24 now default to",
@@ -2106,7 +2340,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Functions support for Java 25",
           "description": "You can now develop functions using Java\n25 locally and deploy them to Azure Functions on Windows and Linux.  Upgrade your apps to Java 25 to take\nadvantage of enhanced security, a longer support window, and continued\ncompatibility with the Azure Function",
@@ -2126,7 +2362,10 @@
             "Compute",
             "Containers",
             "Application Gateway",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Services",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Application Gateway for Containers – Slow start",
           "description": "Slow start is now\ngenerally available as a load balancing algorithm in Application Gateway for\nContainers. This feature improves stability and performance during backend\nscale-up by gradually increasing traffic to new pods over a configurable time\nwindow.",
@@ -2146,7 +2385,10 @@
             "Compute",
             "Containers",
             "Application Gateway",
-            "Azure Kubernetes Service (AKS)"
+            "Azure Kubernetes Service (AKS)",
+            "Microsoft Ignite",
+            "Features",
+            "Services"
           ],
           "title": "[In preview] Public Preview: Application Gateway for Containers Istio Service Mesh integration",
           "description": "Application\nGateway for Containers now supports integration with Istio service mesh through\nan optional service mesh extension. This feature simplifies secure north-south\ncommunication between external clients and services within the service mesh. Single",
@@ -2163,7 +2405,9 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure DocumentDB high-performance storage",
           "description": "Now you can run bigger, faster workloads on fewer nodes using high-performance storage for Azure DocumentDB. This update delivers up to 64 TiB capacity, 80,000 IOPS, and 1,200 MB/s throughput per physical shard (node). Storage IOPS and throughput on Azure",
@@ -2181,7 +2425,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Model Context Protocol (MCP) tool trigger for Azure Functions",
           "description": "Model\nContext Protocol (MCP) is a way for apps to provide capabilities and context to\na large language model. A key feature of MCP is the ability to define tools\nthat AI agents can leverage to accomplish whatever tasks they’ve been given.\nMCP servers can",
@@ -2199,7 +2445,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Functions durable task scheduler Dedicated SKU (GA) & Consumption SKU (Public Preview)",
           "description": "Earlier this year, we\nintroduced Azure Functions durable task scheduler, an orchestration engine\ndesigned for complex workflows and intelligent agents. It automatically\ncheckpoints progress and protects your orchestration state, enabling resilient\nand rel",
@@ -2217,7 +2465,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Self-hosted remote MCP servers on Azure Functions",
           "description": "We are introducing a new capability that allows you to host\nremote Model Context Protocol (MCP) servers built with the MCP SDKs on Functions. Some key benefits of hosting on the Functions platform include:  Built-in server authentication Automatic and bur",
@@ -2235,7 +2485,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Announcing: Resources for migrating to Azure Functions Flex Consumption",
           "description": "Azure Functions Flex Consumption is\nnow the recommended hosting plan for serverless workloads requiring advanced\nscaling, networking, and cost optimization. To support customers migrating from\nthe Azure Functions Consumption plan or from AWS Lambda, Micro",
@@ -2253,7 +2505,9 @@
             "Compute",
             "Containers",
             "Internet of Things",
-            "Azure Functions"
+            "Azure Functions",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Functions enables OpenTelemetry support",
           "description": "Azure Functions now supports\nOpenTelemetry in general availability (GA), enabling developers to export logs,\ntraces, and metrics using open standards. This release builds on the public\npreview and delivers a production-ready observability experience for s",
@@ -2269,7 +2523,9 @@
           "category": [
             "In preview",
             "Containers",
-            "Azure Container Apps"
+            "Azure Container Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Container Apps adds support for agentic Docker Compose",
           "description": "Azure Container Apps is bringing the familiar\ndeveloper workflow of Docker Compose directly to Azure Container Apps. As one\nof the most widely adopted tools among developers, Docker Compose simplifies\ndefining and running multi-container applications, and",
@@ -2285,7 +2541,9 @@
           "category": [
             "In preview",
             "Containers",
-            "Azure Container Apps"
+            "Azure Container Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Container Apps introduces flexible workload profile",
           "description": "Flexible workload profile represents a new option\nthat blends the simplicity of consumption with many of the performance and\ncontrol characteristics of dedicated workload profiles. This offers the same\neasy-to-understand, pay-per-use serverless model as C",
@@ -2301,7 +2559,10 @@
           "category": [
             "Launched",
             "Containers",
-            "Azure Container Apps"
+            "Azure Container Apps",
+            "Microsoft Ignite",
+            "Features",
+            "Regions & Datacenters"
           ],
           "title": "[Launched] Generally Available: Azure Container Apps serverless GPUs in additional regions",
           "description": "To meet growing demand for GPU-powered workloads, Azure\nContainer Apps serverless GPUs are\nnow generally available in additional regions. This expansion enables\ndevelopers to run AI inference, model training, and GPU-accelerated workloads\nwith the simplic",
@@ -2317,7 +2578,9 @@
           "category": [
             "In preview",
             "Containers",
-            "Azure Container Apps"
+            "Azure Container Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Confidential computing in Azure Container Apps",
           "description": "Confidential\ncomputing support in Azure Container Apps is now in public preview. This\nrelease brings hardware-based Trusted Execution Environments (TEEs) to your\ncontainerized workloads. Azure already provides encryption of data at rest and\nin transit, an",
@@ -2333,7 +2596,10 @@
           "category": [
             "In preview",
             "Networking",
-            "Azure NAT Gateway"
+            "Azure NAT Gateway",
+            "Microsoft Ignite",
+            "Features",
+            "Services"
           ],
           "title": "[In preview] Public Preview: Standard V2 NAT Gateway and StandardV2 Public IPs",
           "description": "StandardV2 SKU NAT Gateway is now in public preview, delivering next-generation capabilities for scalable and resilient outbound connectivity. New offerings: Zone-Redundancy: Built for high availability in availability zone supported regions. Traffic surv",
@@ -2349,7 +2615,10 @@
           "category": [
             "Launched",
             "Analytics",
-            "Microsoft Fabric"
+            "Microsoft Fabric",
+            "Microsoft Ignite",
+            "Features",
+            "Pricing & Offerings"
           ],
           "title": "[Launched] Generally Available: SQL database in Microsoft Fabric",
           "description": "SQL database in Fabric is now generally available. Built on the trusted SQL Server and Azure SQL Database engine, this fully SaaS-native solution empowers developers and data professionals to unify operational and analytical workloads with speed, security",
@@ -2366,7 +2635,9 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Support for Italian and Portuguese in Azure Cosmos DB for NoSQL full-text search",
           "description": "Azure Cosmos DB for NoSQL now supports Italian and Portuguese languages in full-text search, available today in public preview. This update adds to the list of supported languages, enabling you to build rich, language-aware search experiences that underst",
@@ -2383,7 +2654,9 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Cosmos DB MCP ToolKit for Microsoft Foundry Agent Service",
           "description": "Azure Cosmos DB for NoSQL now offers an MCP Toolkit that can be used with Microsoft Foundry  Agent Service, available today in public preview.  This new integration allows you to connect Microsoft Foundry Agents directly to data in Azure Cosmos DB. By dep",
@@ -2400,7 +2673,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Fuzzy search in Azure Cosmos DB for NoSQL full-text search",
           "description": "Azure Cosmos DB for NoSQL now supports fuzzy search in full-text search. With fuzzy search, you can deliver typo-tolerant, error-resilient search experiences directly within Azure Cosmos DB, helping your users find the right results even when queries or t",
@@ -2417,7 +2692,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Vector indexing performance improvements in Azure Cosmos DB for NoSQL",
           "description": "This release gives you faster vector inserts and index builds in Azure Cosmos DB for NoSQL, helping you reduce end-to-end ingestion and indexing times for large AI workloads. This improvement is powered by algorithmic enhancements to our vector indexing e",
@@ -2434,7 +2711,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Float16 data type for vector indexes in Azure Cosmos DB",
           "description": "Azure Cosmos DB now supports float 16 data types for vector indexes. With this update, you can store and query vectors using half-precision floating-point numbers. Using float16 cuts storage usage in half compared to float32, while maintaining high retrie",
@@ -2451,7 +2730,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Cosmos DB for Visual Studio Code",
           "description": "Developers today are building more intelligent, connected, and autonomous applications than ever before. From personalized chatbots and copilots to dynamic content engines and decision systems, data is the foundation of these agentic experiences.  Azure C",
@@ -2468,7 +2749,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Cosmos DB Mirroring in Microsoft Fabric",
           "description": "Now generally available, Azure Cosmos DB Mirroring in Fabric enables you to seamlessly integrate your existing operational workloads with the analytical capabilities of Microsoft Fabric. You can take advantage of the innovations in Fabric, running SQL que",
@@ -2487,7 +2770,9 @@
             "Internet of Things",
             "Analytics",
             "Azure Cosmos DB",
-            "Microsoft Fabric"
+            "Microsoft Fabric",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Cosmos DB in Microsoft Fabric",
           "description": "Now generally available, Cosmos DB in Fabric enables you to build operational and analytical workloads in Microsoft Fabric. You can use the AI-features in Azure Cosmos DB plus the innovations in Fabric to run SQL queries over JSON data and build real-time",
@@ -2504,7 +2789,9 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Index Advisor for Azure DocumentDB",
           "description": "Integrated into the DocumentDB for VS Code extension, the Index Advisor enables you to view and debug database performance. It uses natural language to recommend optimal indexing and best practices for your MongoDB workloads.  Learn more.",
@@ -2521,7 +2808,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: Priority-based execution in Azure Cosmos DB",
           "description": "You can now enable priority-based execution in Azure Cosmos DB to ensure that high-priority requests are favored during periods of contention. The system will throttle low-priority requests first, allowing high-priority operations to proceed on a best-eff",
@@ -2538,7 +2827,9 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Cosmos DB Fleet Analytics",
           "description": "You can now unify insights across your entire Azure Cosmos DB footprint using Azure Cosmos DB Fleet Analytics, available in public preview. Fleet Analytics helps you manage data across multiple accounts, subscriptions, and workloads, providing large-scale",
@@ -2555,7 +2846,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Cosmos DB fleet pools",
           "description": "Now you can more easily operate your Azure Cosmos DB accounts at scale. Azure Cosmos DB fleet pools give you new capabilities when building multitenant software as a service (SaaS) applications.  You can simplify capacity management by creating a pool of",
@@ -2572,7 +2865,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure DocumentDB - an open-source, MongoDB-compatible document database service for hybrid and multicloud",
           "description": "Microsoft is announcing the general availability of Azure DocumentDB, a fully managed document database service built on the open-source, MongoDB-compatible DocumentDB, now governed by the Linux Foundation. Formerly known as Azure Cosmos DB for MongoDB (v",
@@ -2589,7 +2884,9 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Dynamic data masking with Azure Cosmos DB",
           "description": "You can now help protect sensitive data from unauthorized access using dynamic data masking (DDM), a server-side, policy-based security feature in Azure Cosmos DB. DDM dynamically masks data for non-privileged users, ensuring that sensitive information is",
@@ -2606,7 +2903,9 @@
             "In preview",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Online and offline migrations in Azure DocumentDB Migration extension",
           "description": "You can now migrate MongoDB workloads to Azure DocumentDB using the new Azure DocumentDB Migration extension for Visual Studio Code—now available in public preview. This seamless, zero-cost migration supports both online and offline modes, simplifying and",
@@ -2623,7 +2922,9 @@
             "Launched",
             "Databases",
             "Internet of Things",
-            "Azure Cosmos DB"
+            "Azure Cosmos DB",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: Online migration from Azure Cosmos DB for MongoDB RU to Azure DocumentDB",
           "description": "Announcing the general availability of seamless, self-serve online migrations from Azure Cosmos DB for MongoDB RU to Azure DocumentDB—directly from the Azure portal. With this release, your organization can modernize its MongoDB workloads with zero downti",
@@ -2640,7 +2941,9 @@
             "In preview",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Oracle to PostgreSQL migration tooling in Visual Studio Code",
           "description": "Migrating from Oracle to PostgreSQL is now simpler and faster with the new Oracle-to-PostgreSQL migration tooling, available directly in the Azure Database for PostgreSQL extension for Visual Studio Code.  This new tool helps you seamlessly convert your O",
@@ -2657,7 +2960,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: 2025 REST API for Azure Database for PostgreSQL",
           "description": "Announcing the general availability of the 2025 REST API for Azure Database for PostgreSQL. This release adds support for PostgreSQL 17 and 18, so you can adopt new versions without changing your automation patterns. You can also now set the default datab",
@@ -2674,7 +2979,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: Elastic clusters on Azure Database for PostgreSQL – Flexible Server",
           "description": "Now you can use elastic clusters to horizontally scale Azure Database for PostgreSQL through row-based and schema-based sharding. Elastic clusters make it easy to build multitenant apps by offloading shard management and operations—such as tenant isolatio",
@@ -2691,7 +2998,9 @@
             "In preview",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Native Microsoft Foundry support for Azure Database for PostgreSQL",
           "description": "Announcing the public preview of Microsoft Foundry support for Azure Database for PostgreSQL. The Azure PostgreSQL MCP Server is now natively integrated with Microsoft Foundry.  This integration enables you to build AI agents to securely query and analyze",
@@ -2708,7 +3017,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server anon extension",
           "description": "The anon extension is now generally available in Azure Database for PostgreSQL flexible server. This extension provides data anonymization tools. Learn more.",
@@ -2725,7 +3036,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Public Preview: Azure Database for PostgreSQL – Flexible Server v6 series VMs and AMD v6 Confidential Compute",
           "description": "Now you can deploy general purpose and memory-optimized v6-series Azure Virtual Machines with local NVMe storage in Azure Database for PostgreSQL flexible server. The v6 series is available with either Intel or AMD processor options. Learn more.",
@@ -2742,7 +3055,9 @@
             "In preview",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server pg_duckdb extension",
           "description": "Now you can create pg_duckdb extensions in Azure Database for PostgreSQL flexible server, so you can accelerate analytics using DuckDB’s vectorized, columnar execution.  Learn more.",
@@ -2759,7 +3074,9 @@
             "In preview",
             "Databases",
             "Hybrid + multicloud",
-            "Azure SQL Database"
+            "Azure SQL Database",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Azure SQL change event streaming",
           "description": "You can now stream data changes in near real time from Azure SQL Database directly into Azure Event Hubs. With the public preview of change event streaming (CES), you can streamline data integration and support enhanced analytics, event-driven architectur",
@@ -2776,7 +3093,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: PostgreSQL 18 with in-place upgrade on Azure Database for PostgreSQL",
           "description": "You can now use PostgreSQL 18 on Azure Database for PostgreSQL. This release introduces the latest PostgreSQL innovations along with seamless in-place upgrade support, allowing you to move from earlier versions without changing your server endpoint, recon",
@@ -2793,7 +3112,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: PostgreSQL extension for Visual Studio Code with GitHub Copilot",
           "description": "Announcing that the PostgreSQL extension for Visual Studio Code is generally available. With this powerful tool, you can connect to PostgreSQL database instances, run queries, create and manage connection profiles, and take advantage of Microsoft Entra ID",
@@ -2810,7 +3131,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: Mirroring in Fabric for PostgreSQL Flexible Server",
           "description": "You can now bring data together and simplify analytics using Microsoft Fabric mirroring for Azure Database for PostgreSQL flexible server, now generally available. Mirroring in Fabric unifies your organizational data in OneLake and supports network-isolat",
@@ -2827,7 +3150,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure Database for PostgreSQL"
+            "Azure Database for PostgreSQL",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure Database for PostgreSQL storage extension support for Parquet",
           "description": "Announcing that Azure Database for PostgreSQL flexible server now supports the Azure Storage extension with Parquet format and multiple compression options. You can seamlessly read and write Parquet files directly from your database, enabling faster data",
@@ -2843,7 +3168,9 @@
           "category": [
             "Launched",
             "Databases",
-            "Azure SQL Managed Instance"
+            "Azure SQL Managed Instance",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure SQL Managed Instance Next-gen General Purpose service tier",
           "description": "The Next‑gen General Purpose tier delivers a major performance boost while preserving the cost advantages you expect. You get more power and compute flexibility without sacrificing the simplicity of a fully managed platform as a service (PaaS) experience.",
@@ -2861,7 +3188,9 @@
             "Databases",
             "Hybrid + multicloud",
             "Azure SQL Database",
-            "Azure SQL Managed Instance"
+            "Azure SQL Managed Instance",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Azure SQL Database DiskANN vector indexing",
           "description": "Announcing the public preview of vector indexing using DiskANN in Azure SQL Database, Azure SQL Managed Instance and SQL database in Microsoft Fabric. DiskANN is an algorithm for efficient vector similarity search, making it ideal for product recommendati",
@@ -2878,7 +3207,9 @@
             "In preview",
             "Databases",
             "Hybrid + multicloud",
-            "Azure SQL Database"
+            "Azure SQL Database",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Generally Available: MSSQL extension integration with GitHub Copilot in Visual Studio Code",
           "description": "The MSSQL extension for Visual Studio Code now integrates GitHub Copilot, bringing AI-powered SQL assistance directly into your development workflow. Together, they help you reduce repetitive tasks, accelerate development, and design database schemas and",
@@ -2895,7 +3226,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure SQL Database"
+            "Azure SQL Database",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Azure SQL Database long-term retention (LTR) backup immutability",
           "description": "You can now configure immutability for Azure SQL Database LTR backups to meet compliance and regulatory needs. Once immutability is configured, the backups can’t be edited or deleted until the specified retention expires, mitigating any potential ransomwa",
@@ -2908,7 +3241,11 @@
             "#text": "522586"
           },
           "link": "https://azure.microsoft.com/updates?id=522586",
-          "category": "Launched",
+          "category": [
+            "Launched",
+            "Microsoft Ignite",
+            "Features"
+          ],
           "title": "[Launched] Generally Available: SQL Server Management Studio (SSMS) 22",
           "description": "SQL Server Management Studio (SSMS) has long been the trusted tool for managing SQL databases, writing T-SQL, and troubleshooting issues. With SSMS 22, built on Visual Studio 2026, you get support for SQL Server 2025, improved integration with SQL databas",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
@@ -2924,7 +3261,9 @@
             "Launched",
             "Databases",
             "Hybrid + multicloud",
-            "Azure SQL Database"
+            "Azure SQL Database",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Microsoft Python driver for SQL Server",
           "description": "Announcing that the mssql-python driver is now generally available. This milestone marks a major step forward in delivering a modern, high-performance, and developer-friendly experience for Python developers working with SQL Server, Azure SQL Database, an",
@@ -2940,7 +3279,9 @@
           "category": [
             "Launched",
             "Hybrid + multicloud",
-            "Azure Arc"
+            "Azure Arc",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: New SQL Server migration in Azure Arc",
           "description": "A new SQL Server migration in Azure Arc solution streamlines and accelerates your journey to Azure SQL Managed Instance. Powered by Azure Database Migration Service and assisted by Copilot, it delivers an automated, end-to-end migration process that inclu",
@@ -2953,7 +3294,11 @@
             "#text": "522559"
           },
           "link": "https://azure.microsoft.com/updates?id=522559",
-          "category": "Launched",
+          "category": [
+            "Launched",
+            "Features",
+            "Microsoft Ignite"
+          ],
           "title": "[Launched] Generally Availabe: SQL Server 2025",
           "description": "SQL Server 2025, the AI-ready enterprise database, is now generally available, marking a major milestone in Microsoft’s mission to modernize enterprise data platforms. This release introduces built-in AI capabilities, seamless integration with Microsoft F",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
@@ -2970,7 +3315,9 @@
             "Databases",
             "Hybrid + multicloud",
             "Azure SQL Database",
-            "Azure SQL Managed Instance"
+            "Azure SQL Managed Instance",
+            "Features",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: Azure SQL updates for November 2025",
           "description": "In November 2025, the following updates and enhancements were made to Azure SQL:  Apply the reservation discount for a 1-year or 3-year reservation of a zone-redundant Azure SQL Managed Instance in the General Purpose tier to both the standard compute and",
@@ -2988,7 +3335,9 @@
             "Databases",
             "Hybrid + multicloud",
             "Azure SQL Database",
-            "Azure SQL Managed Instance"
+            "Azure SQL Managed Instance",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Azure SQL updates for November 2025",
           "description": "In November 2025, the following updates and enhancements were made to Azure SQL: View, modify, insert rows in a table without manually writing T-SQL code using the interactive Edit Data interface in the MSSQL extension for Visual Studio Code. Learn more.",
@@ -3117,7 +3466,8 @@
             "In preview",
             "DevOps",
             "Management and governance",
-            "Azure Monitor"
+            "Azure Monitor",
+            "Microsoft Ignite"
           ],
           "title": "[In preview] Public Preview: Azure Copilot observability agent",
           "description": "Cloud operations need more than reactive troubleshooting, they demand intelligent observability that scales across resources and delivers actionable insights when services aren’t performing as expected.Introducing the Azure Copilot observability agent tha",
@@ -3134,7 +3484,9 @@
             "In development",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In development] Private Preview: ActiveMQ and JMS connector for Azure Logic Apps",
           "description": "Announcing private preview of Active MQ/JMS connector in Azure Logic Apps. With this capability, you can now connect to enterprise messaging systems built on ActiveMQ and JMS for advanced hybrid integration scenarios.",
@@ -3151,7 +3503,9 @@
             "In preview",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: New healthcare connectors for Azure Logic Apps",
           "description": "Announcing new capabilities in Azure Logic Apps that expand healthcare interoperability support through a rich set of connectors. The following connectors are now in public preview: HL7 connector: Enable seamless healthcare data exchange using HL7 messagi",
@@ -3167,7 +3521,8 @@
           "category": [
             "Launched",
             "Compute",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Microsoft Ignite"
           ],
           "title": "[Launched] Generally Available: Scheduled Actions",
           "description": "Schedule Actions gives the ability to manage the lifecycle of VMs at high scale on a periodic basis. Subscription throttling and retries due to transient errors are handled automatically to ensure that your operations succeed without additional overhead.W",
@@ -3180,7 +3535,11 @@
             "#text": "530614"
           },
           "link": "https://azure.microsoft.com/updates?id=530614",
-          "category": "Launched",
+          "category": [
+            "Launched",
+            "Microsoft Ignite",
+            "Features"
+          ],
           "title": "[Launched] Generally Available: Microsoft Marketplace",
           "description": "Microsoft Marketplace — your trusted source for cloud solutions, AI apps, and agents — is now globally available following its launch in the United States in September. All traffic from legacy storefronts (Azure Marketplace and AppSource) is now redirecte",
           "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
@@ -3227,7 +3586,9 @@
           "category": [
             "In preview",
             "Compute",
-            "Virtual Machines"
+            "Virtual Machines",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Industry-leading storage performance Ebsv6 VM series",
           "description": "Announcing the public preview of the new Azure Ebsv6 VM series, powered by 5th Generation Intel® Xeon® processors. The Ebsv6 and Ebdsv6 VMs deliver up to and industry leading 800,000 IOPS and 14 GBps of remote disk storage throughput, providing high-perfo",
@@ -3243,7 +3604,8 @@
           "category": [
             "In development",
             "Storage",
-            "Azure NetApp Files"
+            "Azure NetApp Files",
+            "Features"
           ],
           "title": "[In development] Public Preview: User and group quota reports in Azure NetApp Files",
           "description": "For organizations leveraging individual user and group quotas in Azure NetApp Files to manage capacity on NFS, SMB, and dual-protocol volumes, the user and group quota reporting feature offers clear visibility into key metrics such as quota limits, used c",
@@ -3260,7 +3622,9 @@
             "Launched",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: New Hybrid Integration Connectors for Azure Logic Apps",
           "description": "Announcing new capabilities in Azure Logic\nApps that expand hybrid integration through a rich set of connectors. The following connectors are now generally available: Confluent Kafka connector: Connect Logic Apps to\nConfluent Cloud for event streaming and",
@@ -3277,7 +3641,9 @@
             "In preview",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Redesigned designer experience for Azure Logic Apps [Standard]",
           "description": "Announcing the public preview of the\nredesigned designer experience for Azure Logic Apps (Standard), a major update\nthat makes building, editing, and managing workflows faster and more intuitive. The new designer brings run history and workflow editing\ncl",
@@ -3294,7 +3660,9 @@
             "In preview",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: New Agent Loop capabilities in Azure Logic Apps",
           "description": "Announcing a new set of capabilities for\nAgent Loop in Azure Logic Apps, now in public preview. These updates expand how\norganizations can build, secure, and deploy agentic workflows across their\nenterprise environments enabling more flexible AI orchestra",
@@ -3311,7 +3679,9 @@
             "In preview",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[In preview] Public Preview: Agent Loop in Azure Logic Apps [Consumption]",
           "description": "Announcing the public preview of Agent Loop\nin Azure Logic Apps (Consumption) — bringing agentic intelligence and adaptive\nworkflows to the serverless Logic Apps runtime. Agent Loop enables you to move beyond traditional, static\nautomation by creating goa",
@@ -3328,7 +3698,9 @@
             "Launched",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Agent Loop in Azure Logic Apps [Standard]",
           "description": "Announcing the general availability of Agent\nLoop in Azure Logic Apps (Standard), a breakthrough capability that redefines\nhow organizations design and automate business processes. Agent Loop enables you to move beyond traditional workflow\nautomation by b",
@@ -3345,7 +3717,9 @@
             "Launched",
             "Integration",
             "Internet of Things",
-            "Logic Apps"
+            "Logic Apps",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Automated Testing Framework for Logic Apps [Standard]",
           "description": "We’re pleased to\nannounce the general availability of automated testing for Azure Logic Apps\n(Standard) in the Visual Studio Code extension. This new capability empowers\ndevelopers and integration specialists to build more reliable workflows by\nsimplifyin",
@@ -3364,7 +3738,9 @@
             "Internet of Things",
             "Mobile",
             "Web",
-            "API Management"
+            "API Management",
+            "Microsoft Ignite",
+            "Features"
           ],
           "title": "[Launched] Generally Available: Govern Model Context Protocol (MCP) endpoints using Azure API Management",
           "description": "Model Context Protocol (MCP) governance in\nAzure API Management (APIM) is now generally available.This release extends Azure API Management’s proven\ngovernance, security, and observability model to a new generation of AI-driven\nworkloads. Enterprises can",
@@ -3390,25 +3766,6 @@
           ],
           "title": "[Launched] Announcing: API Center Standard now included at no additional cost for linked Azure API Management Standard and Premium tiers",
           "description": "API Center Standard,\npreviously a separate paid offering, is now included at no additional cost for\nall Azure API Management Standard and Premium customers, when an API Center\ninstance is linked with a corresponding Azure API Management service (for both",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527612"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527612",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Mobile",
-            "Web",
-            "API Management"
-          ],
-          "title": "[Launched] Generally Available: Premium v2 tier in Azure API Management",
-          "description": "Announcing the general availability of the Azure API Management Premium v2 tier,\nour most powerful and scalable option for managing APIs at enterprise scale. Premium v2\ndelivers superior performance, the highest entity limits, unlimited included\nAPI calls",
           "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
           "a10:updated": "2025-11-18T16:00:16Z"
         }
