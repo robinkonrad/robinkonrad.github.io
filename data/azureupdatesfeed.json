@@ -6,9 +6,99 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 18 Feb 2026 17:15:17 Z",
+      "lastBuildDate": "Wed, 18 Feb 2026 18:00:55 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557595"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557595",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Anthropic Claude Sonnet 4.6 is now available on Azure Databricks",
+          "description": "Azure Databricks now supports Anthropic Claude Sonnet 4.6\nthrough Azure Databricks AI\nModel Serving. Claude Sonnet 4.6\ndelivers frontier-level performance on complex coding, agentic\nworkflows, and professional knowledge work including reasoning at a\nlower",
+          "pubDate": "Wed, 18 Feb 2026 18:00:55 Z",
+          "a10:updated": "2026-02-18T18:00:55Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557223"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557223",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Unified tooling in the AKS MCP server",
+          "description": "Managing AKS MCP servers can be affected by the number of tools and the\namount of context required, which can increase latency and cost. The unified\ntooling for the AKS MCP Server introduces two new tools in public preview, call_az\nand call_kubectl, that",
+          "pubDate": "Wed, 18 Feb 2026 18:00:55 Z",
+          "a10:updated": "2026-02-18T18:00:55Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557218"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557218",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[In preview] Public Preview: Cluster mode for the agentic CLI for AKS",
+          "description": "Users often face security and\nmanageability challenges when diagnostic agents inherit broad user permissions,\nsuch as cluster-admin rights, and when each user must deploy their own\ninstance. Cluster mode for the agentic CLI for AKS, now in public preview,",
+          "pubDate": "Wed, 18 Feb 2026 18:00:55 Z",
+          "a10:updated": "2026-02-18T18:00:55Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "556008"
+          },
+          "link": "https://azure.microsoft.com/updates?id=556008",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Quota and deployment troubleshooting tools for Azure Functions Flex Consumption",
+          "description": "Azure Functions Flex Consumption introduces\nnew platform‑integrated tools that provide clearer insight into quota\navailability and deployment behavior.   The\nquota troubleshooting\nexperience surfaces Flex Consumption quota limits and related\nconstraints,",
+          "pubDate": "Wed, 18 Feb 2026 18:00:55 Z",
+          "a10:updated": "2026-02-18T18:00:55Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "556003"
+          },
+          "link": "https://azure.microsoft.com/updates?id=556003",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Functions .NET 10 support",
+          "description": "Azure Functions support for .NET 10 is generally\navailable, enabling production use of the latest .NET runtime for serverless\napplications. This support was introduced as part of the Azure Functions\nIgnite 2025 updates.  .NET 10 is supported using the iso",
+          "pubDate": "Wed, 18 Feb 2026 18:00:55 Z",
+          "a10:updated": "2026-02-18T18:00:55Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3658,98 +3748,6 @@
           ],
           "title": "[In preview] Public Preview: GitHub Copilot app modernization expanded capabilities",
           "description": "Announcing new enhancements to GitHub Copilot App\nModernization that are in Public Preview, making it easier than ever to modernize applications,\ndatabases, containers, and accelerate migration to Azure. Below are the new\ncapabilities in public preview.",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "529416"
-          },
-          "link": "https://azure.microsoft.com/updates?id=529416",
-          "category": [
-            "In preview",
-            "Compute",
-            "Virtual Machines",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Industry-leading storage performance Ebsv6 VM series",
-          "description": "Announcing the public preview of the new Azure Ebsv6 VM series, powered by 5th Generation Intel® Xeon® processors. The Ebsv6 and Ebdsv6 VMs deliver up to and industry leading 800,000 IOPS and 14 GBps of remote disk storage throughput, providing high-perfo",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "528899"
-          },
-          "link": "https://azure.microsoft.com/updates?id=528899",
-          "category": [
-            "In development",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[In development] Public Preview: User and group quota reports in Azure NetApp Files",
-          "description": "For organizations leveraging individual user and group quotas in Azure NetApp Files to manage capacity on NFS, SMB, and dual-protocol volumes, the user and group quota reporting feature offers clear visibility into key metrics such as quota limits, used c",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527683"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527683",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: New Hybrid Integration Connectors for Azure Logic Apps",
-          "description": "Announcing new capabilities in Azure Logic\nApps that expand hybrid integration through a rich set of connectors. The following connectors are now generally available: Confluent Kafka connector: Connect Logic Apps to\nConfluent Cloud for event streaming and",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527673"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527673",
-          "category": [
-            "In preview",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Redesigned designer experience for Azure Logic Apps [Standard]",
-          "description": "Announcing the public preview of the\nredesigned designer experience for Azure Logic Apps (Standard), a major update\nthat makes building, editing, and managing workflows faster and more intuitive. The new designer brings run history and workflow editing\ncl",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527663"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527663",
-          "category": [
-            "In preview",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: New Agent Loop capabilities in Azure Logic Apps",
-          "description": "Announcing a new set of capabilities for\nAgent Loop in Azure Logic Apps, now in public preview. These updates expand how\norganizations can build, secure, and deploy agentic workflows across their\nenterprise environments enabling more flexible AI orchestra",
           "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
           "a10:updated": "2025-11-18T16:00:16Z"
         }
