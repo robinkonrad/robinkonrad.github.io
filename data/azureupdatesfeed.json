@@ -6,9 +6,60 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 17 Feb 2026 17:00:32 Z",
+      "lastBuildDate": "Wed, 18 Feb 2026 17:15:17 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557208"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557208",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Node auto-provisioning support in Azure government and private cloud",
+          "description": "Node auto‑provisioning removes the\nneed for teams to manually size and manage compute resources for Kubernetes\nworkloads. Azure Kubernetes Service (AKS) now provides general availability\nsupport for node auto‑provisioning in Azure Government and private c",
+          "pubDate": "Wed, 18 Feb 2026 17:15:17 Z",
+          "a10:updated": "2026-02-18T17:15:17Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557203"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557203",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Node auto-provisioning enabled clusters in AKS now support LocalDNS",
+          "description": "Customers previously could not\nenable LocalDNS on clusters that used Node auto‑provisioning in AKS, limiting\ntheir ability to use this feature in those environments. LocalDNS is now\ngenerally available for AKS clusters with Node auto‑provisioning, providi",
+          "pubDate": "Wed, 18 Feb 2026 16:45:58 Z",
+          "a10:updated": "2026-02-18T16:45:58Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557213"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557213",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)"
+          ],
+          "title": "[Launched] Generally Available: Encryption at host & disk encryption sets support in node auto-provisioning",
+          "description": "Node auto-provisioning enabled clusters previously did not\nhave support for Encryption\nat Host and disk encryption sets. This limited users with certain\nsecurity requirements for their cluster to not be able to use node\nauto-provisioning.    Node auto-pro",
+          "pubDate": "Wed, 18 Feb 2026 16:30:06 Z",
+          "a10:updated": "2026-02-18T16:30:06Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -19,7 +70,7 @@
             "Launched",
             "Features"
           ],
-          "title": "[Launched] General Availability: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk",
+          "title": "[Launched] Generally Available: Instant access support for incremental snapshots of Azure Premium SSD v2 and Ultra Disk",
           "description": "Announcing the General Availability of instant access\nsupport for incremental snapshots of Premium SSD v2 (Pv2) and Ultra Disk. This\nnew capability enables you to restore new disks immediately after creating\nsnapshots of Pv2 and Ultra disks. Newly restore",
           "pubDate": "Tue, 17 Feb 2026 17:00:32 Z",
           "a10:updated": "2026-02-17T17:00:32Z"
@@ -3699,63 +3750,6 @@
           ],
           "title": "[In preview] Public Preview: New Agent Loop capabilities in Azure Logic Apps",
           "description": "Announcing a new set of capabilities for\nAgent Loop in Azure Logic Apps, now in public preview. These updates expand how\norganizations can build, secure, and deploy agentic workflows across their\nenterprise environments enabling more flexible AI orchestra",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527658"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527658",
-          "category": [
-            "In preview",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Agent Loop in Azure Logic Apps [Consumption]",
-          "description": "Announcing the public preview of Agent Loop\nin Azure Logic Apps (Consumption) — bringing agentic intelligence and adaptive\nworkflows to the serverless Logic Apps runtime. Agent Loop enables you to move beyond traditional, static\nautomation by creating goa",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527649"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527649",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Agent Loop in Azure Logic Apps [Standard]",
-          "description": "Announcing the general availability of Agent\nLoop in Azure Logic Apps (Standard), a breakthrough capability that redefines\nhow organizations design and automate business processes. Agent Loop enables you to move beyond traditional workflow\nautomation by b",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527644"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527644",
-          "category": [
-            "Launched",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Automated Testing Framework for Logic Apps [Standard]",
-          "description": "We’re pleased to\nannounce the general availability of automated testing for Azure Logic Apps\n(Standard) in the Visual Studio Code extension. This new capability empowers\ndevelopers and integration specialists to build more reliable workflows by\nsimplifyin",
           "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
           "a10:updated": "2025-11-18T16:00:16Z"
         }
