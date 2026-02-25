@@ -6,9 +6,63 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 23 Feb 2026 18:15:17 Z",
+      "lastBuildDate": "Wed, 25 Feb 2026 19:00:32 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557517"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557517",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure SQL updates for late-February 2026",
+          "description": "In late-February 2026,\nthe following updates and enhancements were made to Azure SQL:  \n Introducing Search Database Objects in the MSSQL\n     extension for Visual Studio Code. Instantly find tables, views,\n     functions, and procedures with full scripti",
+          "pubDate": "Wed, 25 Feb 2026 19:00:32 Z",
+          "a10:updated": "2026-02-25T19:00:32Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557522"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557522",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL updates for late-February 2026",
+          "description": "In late-February 2026,\nthe following updates and enhancements were made to Azure SQL: \n Manage your databases directly from the dialog using\n     actions such as Name, Rename, and Drop.  \n Import a flat file to your database in the\n     MSSQL Extension fo",
+          "pubDate": "Wed, 25 Feb 2026 18:45:40 Z",
+          "a10:updated": "2026-02-25T18:45:40Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557532"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557532",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Geo‑redundant backups for Premium SSD v2 in Azure Database for PostgreSQL",
+          "description": "You can now configure geo‑redundant backups with Premium SSD v2 disks for Azure Database for PostgreSQL, giving you an additional layer of disaster recovery for mission‑critical workloads. With this release, your automated backups are securely stored in a",
+          "pubDate": "Wed, 25 Feb 2026 18:30:06 Z",
+          "a10:updated": "2026-02-25T18:30:06Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3704,61 +3758,6 @@
           "description": "Cloud operations need more than reactive troubleshooting, they demand intelligent observability that scales across resources and delivers actionable insights when services aren’t performing as expected.Introducing the Azure Copilot observability agent tha",
           "pubDate": "Tue, 18 Nov 2025 16:30:36 Z",
           "a10:updated": "2025-11-18T16:30:36Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "531783"
-          },
-          "link": "https://azure.microsoft.com/updates?id=531783",
-          "category": [
-            "In development",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In development] Private Preview: ActiveMQ and JMS connector for Azure Logic Apps",
-          "description": "Announcing private preview of Active MQ/JMS connector in Azure Logic Apps. With this capability, you can now connect to enterprise messaging systems built on ActiveMQ and JMS for advanced hybrid integration scenarios.",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "531778"
-          },
-          "link": "https://azure.microsoft.com/updates?id=531778",
-          "category": [
-            "In preview",
-            "Integration",
-            "Internet of Things",
-            "Logic Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: New healthcare connectors for Azure Logic Apps",
-          "description": "Announcing new capabilities in Azure Logic Apps that expand healthcare interoperability support through a rich set of connectors. The following connectors are now in public preview: HL7 connector: Enable seamless healthcare data exchange using HL7 messagi",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "530797"
-          },
-          "link": "https://azure.microsoft.com/updates?id=530797",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Scheduled Actions",
-          "description": "Schedule Actions gives the ability to manage the lifecycle of VMs at high scale on a periodic basis. Subscription throttling and retries due to transient errors are handled automatically to ensure that your operations succeed without additional overhead.W",
-          "pubDate": "Tue, 18 Nov 2025 16:00:16 Z",
-          "a10:updated": "2025-11-18T16:00:16Z"
         }
       ]
     }
