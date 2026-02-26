@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 26 Feb 2026 00:30:50 Z",
+      "lastBuildDate": "Thu, 26 Feb 2026 19:45:06 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557694"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557694",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Blob Storage",
+            "Features",
+            "Security"
+          ],
+          "title": "[In preview] Public Preview: Restrict usage of user delegation SAS to an Entra ID identity",
+          "description": "We’re excited to announce the addition of enhanced\nsecure authentication in Azure Storage that combines the flexibility of\nuser-delegation shared access signature (SAS) with the user-bound access of\nEntra ID. User-bound user delegation SAS is now in previ",
+          "pubDate": "Thu, 26 Feb 2026 19:45:06 Z",
+          "a10:updated": "2026-02-26T19:45:06Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -23,7 +41,7 @@
             "Features"
           ],
           "title": "[In preview] Public Preview: Secure ingestion and pod placement for Azure Monitor pipeline",
-          "description": "We are announcing several\ncapabilities in public preview with Azure Monitor pipeline.  Secure\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\n     contr",
+          "description": "We are announcing several\ncapabilities in public preview with Azure Monitor pipeline. Secure\n     Ingress to Azure Monitor pipeline from external endpoints (TLS/mTLS) with\n     Bring Your Own Certificates: BYOC empowers enterprises to maintain\n     contro",
           "pubDate": "Thu, 26 Feb 2026 00:30:50 Z",
           "a10:updated": "2026-02-26T00:30:50Z"
         },
@@ -3736,26 +3754,6 @@
           ],
           "title": "[In preview] Public Preview: JWT Validation in Azure Application Gateway",
           "description": "Announcing the preview of JSON Web Token (JWT) validation in Azure Application Gateway — enabling authentication and token validation right at the Application gateway before traffic reaches your backend applications or APIs.Why It mattersProtect at the pe",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "488990"
-          },
-          "link": "https://azure.microsoft.com/updates?id=488990",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Application Gateway",
-            "Features",
-            "Services",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Azure Application Gateway mTLS passthrough support",
-          "description": "Announcing a new mTLS enhancement in Azure Application Gateway for backend applications that perform client certificate and authorization header validation at the backend while still requiring web traffic inspection through the Web Application Firewall (W",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
