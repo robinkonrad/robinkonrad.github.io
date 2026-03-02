@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 27 Feb 2026 23:15:13 Z",
+      "lastBuildDate": "Mon, 02 Mar 2026 19:15:14 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558060"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558060",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Databricks update workspace network configuration",
+          "description": "Azure\nDatabricks workspaces have two network configurations – Azure\nDatabricks-managed VNet and VNet Injection. The ability to update the Network\nConfiguration of your workspace is now generally available. This enhancement\nprovides greater flexibility and",
+          "pubDate": "Mon, 02 Mar 2026 19:15:14 Z",
+          "a10:updated": "2026-03-02T19:15:14Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557991"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557991",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Databricks Lakebase",
+          "description": "Today we’re announcing the General Availability of Azure Databricks Lakebase, a managed PostgreSQL environment with next generation separation of storage and compute for OLTP, providing instant availability, instant clones, and scale-to-zero. Lakebase let",
+          "pubDate": "Mon, 02 Mar 2026 19:15:14 Z",
+          "a10:updated": "2026-03-02T19:15:14Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -2798,8 +2834,7 @@
           "category": [
             "In preview",
             "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
+            "Azure DocumentDB",
             "Microsoft Ignite",
             "Features"
           ],
@@ -3182,8 +3217,7 @@
           "category": [
             "In preview",
             "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
+            "Azure DocumentDB",
             "Features",
             "Microsoft Ignite"
           ],
@@ -3258,8 +3292,7 @@
           "category": [
             "Launched",
             "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
+            "Azure DocumentDB",
             "Microsoft Ignite",
             "Features"
           ],
@@ -3296,8 +3329,7 @@
           "category": [
             "In preview",
             "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
+            "Azure DocumentDB",
             "Features",
             "Microsoft Ignite"
           ],
@@ -3715,44 +3747,6 @@
           ],
           "title": "[Launched] Generally Available: Azure SQL updates for November 2025",
           "description": "In November 2025, the following updates and enhancements were made to Azure SQL:  Apply the reservation discount for a 1-year or 3-year reservation of a zone-redundant Azure SQL Managed Instance in the General Purpose tier to both the standard compute and",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "522514"
-          },
-          "link": "https://azure.microsoft.com/updates?id=522514",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Azure SQL Managed Instance",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure SQL updates for November 2025",
-          "description": "In November 2025, the following updates and enhancements were made to Azure SQL: View, modify, insert rows in a table without manually writing T-SQL code using the interactive Edit Data interface in the MSSQL extension for Visual Studio Code. Learn more.",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "512949"
-          },
-          "link": "https://azure.microsoft.com/updates?id=512949",
-          "category": [
-            "In preview",
-            "Containers",
-            "Azure Container Apps",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Dynamic sessions shell environment and MCP support in Azure Container Apps",
-          "description": "Azure Container Apps now supports dynamic shell sessions in public\npreview. A shell session is a platform-managed built-in container used to\nrun and execute common shell commands in an isolated sandboxed\nenvironment.  With Azure Container Apps dynamic ses",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
