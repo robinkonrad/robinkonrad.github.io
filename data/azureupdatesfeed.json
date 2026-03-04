@@ -6,9 +6,25 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 03 Mar 2026 01:00:04 Z",
+      "lastBuildDate": "Wed, 04 Mar 2026 21:15:02 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558102"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558102",
+          "category": [
+            "Management and governance",
+            "Azure Policy",
+            "Compliance"
+          ],
+          "title": "Retirement: Azure Policy faster enforcement and retirement of login/logout workaround",
+          "description": "Over the years, we’ve made significant investments to improve the responsiveness of the Azure Policy service. As a result, policy assignment creation and updates for Resource Manager mode policies now get enforced within 5 minutes.In light of cache refres",
+          "pubDate": "Wed, 04 Mar 2026 21:15:02 Z",
+          "a10:updated": "2026-03-04T21:15:02Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3731,22 +3747,6 @@
           ],
           "title": "[Launched] Generally Available: New SQL Server migration in Azure Arc",
           "description": "A new SQL Server migration in Azure Arc solution streamlines and accelerates your journey to Azure SQL Managed Instance. Powered by Azure Database Migration Service and assisted by Copilot, it delivers an automated, end-to-end migration process that inclu",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "522559"
-          },
-          "link": "https://azure.microsoft.com/updates?id=522559",
-          "category": [
-            "Launched",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Availabe: SQL Server 2025",
-          "description": "SQL Server 2025, the AI-ready enterprise database, is now generally available, marking a major milestone in Microsoft’s mission to modernize enterprise data platforms. This release introduces built-in AI capabilities, seamless integration with Microsoft F",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
