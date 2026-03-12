@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 11 Mar 2026 18:00:35 Z",
+      "lastBuildDate": "Thu, 12 Mar 2026 21:15:25 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558656"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558656",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Summary rules in Log Analytics workspace now support manual “Retry bin”",
+          "description": "Summary rules run batch aggregation inside your Log\nAnalytics workspace and re-ingest the summarized results into a custom\ndestination table. When a bin fails, that can create gaps in your summarized\ndataset. “Retry bin” helps you remediate bin-level fail",
+          "pubDate": "Thu, 12 Mar 2026 21:15:25 Z",
+          "a10:updated": "2026-03-12T21:15:25Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558651"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558651",
+          "category": [
+            "In preview",
+            "Migration",
+            "Storage",
+            "Azure Storage Mover",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Storage Mover enables private data transfers from AWS S3 to Azure Blob",
+          "description": "Azure Storage Mover now enables direct, secure data\nmigration from AWS S3 data in Virtual Private Cloud to Azure Blob Storage with\nprivate networking. This update removes the need for manual pipelines or\nthird-party tools, supports automation through the",
+          "pubDate": "Thu, 12 Mar 2026 21:15:25 Z",
+          "a10:updated": "2026-03-12T21:15:25Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3709,44 +3745,6 @@
           ],
           "title": "[Launched] Generally Available: Azure Database for PostgreSQL storage extension support for Parquet",
           "description": "Announcing that Azure Database for PostgreSQL flexible server now supports the Azure Storage extension with Parquet format and multiple compression options. You can seamlessly read and write Parquet files directly from your database, enabling faster data",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523125"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523125",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure SQL Managed Instance",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure SQL Managed Instance Next-gen General Purpose service tier",
-          "description": "The Next‑gen General Purpose tier delivers a major performance boost while preserving the cost advantages you expect. You get more power and compute flexibility without sacrificing the simplicity of a fully managed platform as a service (PaaS) experience.",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523110"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523110",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Azure SQL Managed Instance",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Azure SQL Database DiskANN vector indexing",
-          "description": "Announcing the public preview of vector indexing using DiskANN in Azure SQL Database, Azure SQL Managed Instance and SQL database in Microsoft Fabric. DiskANN is an algorithm for efficient vector similarity search, making it ideal for product recommendati",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
