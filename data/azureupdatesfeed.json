@@ -6,9 +6,92 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 12 Mar 2026 21:15:25 Z",
+      "lastBuildDate": "Mon, 16 Mar 2026 18:45:11 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "549077"
+          },
+          "link": "https://azure.microsoft.com/updates?id=549077",
+          "category": [
+            "Compute",
+            "Batch",
+            "Retirements"
+          ],
+          "title": "Retirement: Support for Windows Server 2016 Marketplace images on Azure Batch pools will end on January 12, 2027",
+          "description": "Azure Batch periodically retires support for operating systems that reach end-of-life status. Support for Windows Server 2016 concluded on January 11, 2022, with extended support scheduled to end on January 12, 2027. Marketplace images for Windows Server",
+          "pubDate": "Mon, 16 Mar 2026 18:45:11 Z",
+          "a10:updated": "2026-03-16T18:45:11Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "543279"
+          },
+          "link": "https://azure.microsoft.com/updates?id=543279",
+          "category": [
+            "Compute",
+            "Batch",
+            "Retirements"
+          ],
+          "title": "Retirement: Migration of Azure Batch Low-Priority VMs to Spot VMs in early March",
+          "description": "Azure Batch had retired\nLow-Priority VMs on September 30, 2025 and will begin a system-initiated\nmigration to Spot VMs beginning March 1, 2026. This change aligns Batch with the broader\nAzure Spot infrastructure and simplifies the platform’s VM offering.",
+          "pubDate": "Mon, 16 Mar 2026 18:45:11 Z",
+          "a10:updated": "2026-03-16T18:45:11Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558662"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558662",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Blob Storage",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Entra ID-Based Access for Azure Blob Storage SFTP",
+          "description": "Microsoft Entra ID-based access for Azure Blob Storage SFTP\nis now in public preview. This new capability empowers you to use Microsoft\nEntra ID identities (including guest users via Entra External Identities) to\nsecurely connect to Azure Blob Storage via",
+          "pubDate": "Mon, 16 Mar 2026 18:30:34 Z",
+          "a10:updated": "2026-03-16T18:30:34Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "516070"
+          },
+          "link": "https://azure.microsoft.com/updates?id=516070",
+          "category": [
+            "Compute",
+            "Batch",
+            "Features",
+            "Retirements"
+          ],
+          "title": "Retirement: End of life reminder of NVv3 and NVv4-series Azure virtual machine in Azure Batch pools",
+          "description": "Microsoft Azure will retire support for NVv3 or NVv4-series VMs on September 30th, 2026, including NVv3 Series (NVIDIA Tesla M60 GPU): Standard_NV12s_v3, Standard_NV12hs_v3, Standard_NV24s_v3, Standard_NV24ms_v3, Standard_NV32ms_v3, Standard_NV48s_v3 NVv4",
+          "pubDate": "Mon, 16 Mar 2026 18:30:34 Z",
+          "a10:updated": "2026-03-16T18:30:34Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557929"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557929",
+          "category": [
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Retirements"
+          ],
+          "title": "Retirement: Flatcar Container Linux for AKS (preview)",
+          "description": "Azure Kubernetes\nService support for Flatcar Container Linux for AKS (preview) will be retired\non 8 June 2026, transition to a supported alternative by that date. From now to 7\nJune 2026, you can continue to use Flatcar Container Linux for AKS (preview)\nw",
+          "pubDate": "Mon, 16 Mar 2026 18:15:54 Z",
+          "a10:updated": "2026-03-16T18:15:54Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3650,101 +3733,6 @@
           ],
           "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server pg_duckdb extension",
           "description": "Now you can create pg_duckdb extensions in Azure Database for PostgreSQL flexible server, so you can accelerate analytics using DuckDB’s vectorized, columnar execution.  Learn more.",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523533"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523533",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Azure SQL change event streaming",
-          "description": "You can now stream data changes in near real time from Azure SQL Database directly into Azure Event Hubs. With the public preview of change event streaming (CES), you can streamline data integration and support enhanced analytics, event-driven architectur",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523196"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523196",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: PostgreSQL 18 with in-place upgrade on Azure Database for PostgreSQL",
-          "description": "You can now use PostgreSQL 18 on Azure Database for PostgreSQL. This release introduces the latest PostgreSQL innovations along with seamless in-place upgrade support, allowing you to move from earlier versions without changing your server endpoint, recon",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523187"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523187",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: PostgreSQL extension for Visual Studio Code with GitHub Copilot",
-          "description": "Announcing that the PostgreSQL extension for Visual Studio Code is generally available. With this powerful tool, you can connect to PostgreSQL database instances, run queries, create and manage connection profiles, and take advantage of Microsoft Entra ID",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523177"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523177",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Mirroring in Fabric for PostgreSQL Flexible Server",
-          "description": "You can now bring data together and simplify analytics using Microsoft Fabric mirroring for Azure Database for PostgreSQL flexible server, now generally available. Mirroring in Fabric unifies your organizational data in OneLake and supports network-isolat",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523167"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523167",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for PostgreSQL storage extension support for Parquet",
-          "description": "Announcing that Azure Database for PostgreSQL flexible server now supports the Azure Storage extension with Parquet format and multiple compression options. You can seamlessly read and write Parquet files directly from your database, enabling faster data",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
