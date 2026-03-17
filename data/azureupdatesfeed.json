@@ -6,9 +6,63 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 16 Mar 2026 18:45:11 Z",
+      "lastBuildDate": "Tue, 17 Mar 2026 17:45:45 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558016"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558016",
+          "category": [
+            "Launched",
+            "Networking",
+            "Security",
+            "Application Gateway",
+            "Azure Front Door",
+            "Web Application Firewall",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: Default Rule Set 2.2 and updates to ruleset support policy",
+          "description": "We are updating the managed ruleset support policy for Azure Web Application Firewall (WAF) following the general availability of Default Rule Set (DRS) 2.2 on Azure Application Gateway and Azure Front Door. This update provides a clearer, more predictabl",
+          "pubDate": "Tue, 17 Mar 2026 17:45:45 Z",
+          "a10:updated": "2026-03-17T17:45:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557141"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557141",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Microsoft Foundry",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Foundry Agent Service",
+          "description": "Announcing general availability (GA) of the next-gen Foundry Agent Service—a redesigned API format and runtime experience designed to help teams build and operate agents that can move from prototype to production with confidence. This GA moment is anchore",
+          "pubDate": "Tue, 17 Mar 2026 17:45:45 Z",
+          "a10:updated": "2026-03-17T17:45:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557094"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557094",
+          "category": [
+            "Compute",
+            "Azure VMware Solution",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure VMware Solution AV36P and AV52 node retirement on June 30, 2029",
+          "description": "Microsoft is announcing the retirement of the AV36P and AV52 Nodes on June 30, 2029. The terms of your current AV36P and AV52 Reserved Instance (RI) are not affected by this announcement. At this time, we recommend that you review your current RI expirati",
+          "pubDate": "Tue, 17 Mar 2026 17:30:11 Z",
+          "a10:updated": "2026-03-17T17:30:11Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3676,63 +3730,6 @@
           ],
           "title": "[In preview] Public Preview: Native Microsoft Foundry support for Azure Database for PostgreSQL",
           "description": "Announcing the public preview of Microsoft Foundry support for Azure Database for PostgreSQL. The Azure PostgreSQL MCP Server is now natively integrated with Microsoft Foundry.  This integration enables you to build AI agents to securely query and analyze",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523569"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523569",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for PostgreSQL – Flexible Server anon extension",
-          "description": "The anon extension is now generally available in Azure Database for PostgreSQL flexible server. This extension provides data anonymization tools. Learn more.",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523564"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523564",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Public Preview: Azure Database for PostgreSQL – Flexible Server v6 series VMs and AMD v6 Confidential Compute",
-          "description": "Now you can deploy general purpose and memory-optimized v6-series Azure Virtual Machines with local NVMe storage in Azure Database for PostgreSQL flexible server. The v6 series is available with either Intel or AMD processor options. Learn more.",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523559"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523559",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Database for PostgreSQL – Flexible Server pg_duckdb extension",
-          "description": "Now you can create pg_duckdb extensions in Azure Database for PostgreSQL flexible server, so you can accelerate analytics using DuckDB’s vectorized, columnar execution.  Learn more.",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
