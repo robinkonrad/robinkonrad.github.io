@@ -6,9 +6,126 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 18 Mar 2026 17:00:05 Z",
+      "lastBuildDate": "Wed, 18 Mar 2026 18:45:54 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558278"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558278",
+          "category": "Retirements",
+          "title": "Retirement: Emissions Impact Dashboard for Azure",
+          "description": "Effective March 31, 2027, the Emissions Impact Dashboard for Azure hosted by Power BI will be\nretired. After this date, the dashboard will no longer be accessible and\ntechnical support will be discontinued. We strongly encourage customers\nto export their",
+          "pubDate": "Wed, 18 Mar 2026 18:45:54 Z",
+          "a10:updated": "2026-03-18T18:45:54Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558121"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558121",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[Launched] General availability: Azure SQL updates for mid-March 2026",
+          "description": "In mid-March 2026, the\nfollowing updates and enhancements were made to Azure SQL:  \n Publish SQL database projects directly from\n     Visual Studio Code to streamline database deployment\n     workflows.  \n View and edit SQL table data directly in the MSSQ",
+          "pubDate": "Wed, 18 Mar 2026 18:30:05 Z",
+          "a10:updated": "2026-03-18T18:30:05Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557917"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557917",
+          "category": [
+            "Launched",
+            "Containers",
+            "Azure Red Hat OpenShift",
+            "Compliance",
+            "Management"
+          ],
+          "title": "[Launched] Generally Available: Azure Red Hat OpenShift Managed Identity and Workload Identity",
+          "description": "Azure Red Hat OpenShift now supports managed identities and workload identities as a generally available capability, enabling you to run OpenShift clusters and applications on Azure without long lived service principal credentials. This aligns Azure Red H",
+          "pubDate": "Wed, 18 Mar 2026 18:30:05 Z",
+          "a10:updated": "2026-03-18T18:30:05Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558169"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558169",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[In preview] Public preview: GitHub Copilot integration in Schema Designer for the MSSQL extension",
+          "description": "The MSSQL extension for Visual Studio Code now introduces GitHub Copilot integration in Schema Designer, expanding the visual schema design experience with AI-assisted capabilities. Based on developer feedback and evolving workflows, you can now understan",
+          "pubDate": "Wed, 18 Mar 2026 18:15:04 Z",
+          "a10:updated": "2026-03-18T18:15:04Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558155"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558155",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Database DevOps in SSMS powered by SQL projects",
+          "description": "Bring the benefits of schema-as-code to your database development workflow. SQL database projects enable you to source control your database schema, perform reliable deployments to any environment, and integrate code quality checks into your development p",
+          "pubDate": "Wed, 18 Mar 2026 18:15:04 Z",
+          "a10:updated": "2026-03-18T18:15:04Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558150"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558150",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: SQL MCP Server",
+          "description": "Announcing SQL MCP Server, our Model Context Protocol (MCP) connector for production databases. SQL MCP Server is a feature rich component of data API builder (DAB) that gives you a simple, predictable, secure way to bring AI agents into your data workflo",
+          "pubDate": "Wed, 18 Mar 2026 18:15:04 Z",
+          "a10:updated": "2026-03-18T18:15:04Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558134"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558134",
+          "category": [
+            "Launched",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: GitHub Copilot in SQL Server Management Studio 22",
+          "description": "GitHub Copilot is now generally available in SQL Server Management Studio (SSMS) 22, bringing AI‑powered assistance directly into the application that you use every day.  With GitHub Copilot in SSMS, you can use natural language to develop, explain, fix,",
+          "pubDate": "Wed, 18 Mar 2026 18:15:04 Z",
+          "a10:updated": "2026-03-18T18:15:04Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3596,137 +3713,6 @@
           ],
           "title": "[Launched] Generally Available: Priority-based execution in Azure Cosmos DB",
           "description": "You can now enable priority-based execution in Azure Cosmos DB to ensure that high-priority requests are favored during periods of contention. The system will throttle low-priority requests first, allowing high-priority operations to proceed on a best-eff",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523745"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523745",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Cosmos DB Fleet Analytics",
-          "description": "You can now unify insights across your entire Azure Cosmos DB footprint using Azure Cosmos DB Fleet Analytics, available in public preview. Fleet Analytics helps you manage data across multiple accounts, subscriptions, and workloads, providing large-scale",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523740"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523740",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Cosmos DB fleet pools",
-          "description": "Now you can more easily operate your Azure Cosmos DB accounts at scale. Azure Cosmos DB fleet pools give you new capabilities when building multitenant software as a service (SaaS) applications.  You can simplify capacity management by creating a pool of",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523735"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523735",
-          "category": [
-            "Launched",
-            "Databases",
-            "Azure DocumentDB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure DocumentDB - an open-source, MongoDB-compatible document database service for hybrid and multicloud",
-          "description": "Microsoft is announcing the general availability of Azure DocumentDB, a fully managed document database service built on the open-source, MongoDB-compatible DocumentDB, now governed by the Linux Foundation. Formerly known as Azure Cosmos DB for MongoDB (v",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523726"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523726",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Dynamic data masking with Azure Cosmos DB",
-          "description": "You can now help protect sensitive data from unauthorized access using dynamic data masking (DDM), a server-side, policy-based security feature in Azure Cosmos DB. DDM dynamically masks data for non-privileged users, ensuring that sensitive information is",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523721"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523721",
-          "category": [
-            "In preview",
-            "Databases",
-            "Azure DocumentDB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Online and offline migrations in Azure DocumentDB Migration extension",
-          "description": "You can now migrate MongoDB workloads to Azure DocumentDB using the new Azure DocumentDB Migration extension for Visual Studio Code—now available in public preview. This seamless, zero-cost migration supports both online and offline modes, simplifying and",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523716"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523716",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Online migration from Azure Cosmos DB for MongoDB RU to Azure DocumentDB",
-          "description": "Announcing the general availability of seamless, self-serve online migrations from Azure Cosmos DB for MongoDB RU to Azure DocumentDB—directly from the Azure portal. With this release, your organization can modernize its MongoDB workloads with zero downti",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523593"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523593",
-          "category": [
-            "In preview",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Oracle to PostgreSQL migration tooling in Visual Studio Code",
-          "description": "Migrating from Oracle to PostgreSQL is now simpler and faster with the new Oracle-to-PostgreSQL migration tooling, available directly in the Azure Database for PostgreSQL extension for Visual Studio Code.  This new tool helps you seamlessly convert your O",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
