@@ -6,9 +6,75 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 18 Mar 2026 18:45:54 Z",
+      "lastBuildDate": "Thu, 19 Mar 2026 17:00:53 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558927"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558927",
+          "category": [
+            "In preview",
+            "AI + machine learning",
+            "Analytics",
+            "Azure Databricks",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Databricks OneLake Catalog Federation",
+          "description": "You can now enable OneLake catalog federation in Azure Databricks to query Microsoft Fabric OneLake data without copying or moving it. By connecting Unity Catalog to a OneLake catalog, Azure Databricks automatically syncs schemas and tables so Fabric Lake",
+          "pubDate": "Thu, 19 Mar 2026 17:00:53 Z",
+          "a10:updated": "2026-03-19T17:00:53Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "548543"
+          },
+          "link": "https://azure.microsoft.com/updates?id=548543",
+          "category": [
+            "Compute",
+            "Virtual Machines",
+            "Retirements"
+          ],
+          "title": "Retirement: HC-series Azure Virtual Machines will be retired on May 31, 2027",
+          "description": "On May 31, 2027, Microsoft Azure will retire the following HC-series virtual machine (VMs) sizes: Standard_HC44rs, Standard_HC44-16rs, and Standard_HC44-32rs. To ensure continuity and improved performance, we recommend transitioning to one of the current‑",
+          "pubDate": "Thu, 19 Mar 2026 16:30:27 Z",
+          "a10:updated": "2026-03-19T16:30:27Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "548525"
+          },
+          "link": "https://azure.microsoft.com/updates?id=548525",
+          "category": [
+            "Compute",
+            "Virtual Machines",
+            "Retirements"
+          ],
+          "title": "Retirement: HBv2-series Azure Virtual Machines will be retired on May 31, 2027",
+          "description": "On May 31, 2027, Microsoft Azure will retire the following HBv2-series virtual machine (VMs) sizes: Standard_HB120rs_v2, Standard_HB120-96rs_v2, Standard_HB120-64rs_v2, Standard_HB120-32rs_v2, and Standard_HB120-16rs_v2.  To ensure continuity and improved",
+          "pubDate": "Thu, 19 Mar 2026 16:30:27 Z",
+          "a10:updated": "2026-03-19T16:30:27Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "548497"
+          },
+          "link": "https://azure.microsoft.com/updates?id=548497",
+          "category": [
+            "Compute",
+            "Virtual Machines",
+            "Retirements"
+          ],
+          "title": "Retirement: NP-series Azure Virtual Machines will be retired on May 31, 2027",
+          "description": "On May 31, 2027, Microsoft Azure will retire the follow NP-series virtual machine (VMs) sizes: Standard_NP10s, Standard_NP20s, and Standard_NP40s. To ensure continuity and optimal performance, we recommend transitioning to one of the following Azure GPU V",
+          "pubDate": "Thu, 19 Mar 2026 16:30:27 Z",
+          "a10:updated": "2026-03-19T16:30:27Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3636,83 +3702,6 @@
           ],
           "title": "[Launched] Generally Available: Azure Cosmos DB for Visual Studio Code",
           "description": "Developers today are building more intelligent, connected, and autonomous applications than ever before. From personalized chatbots and copilots to dynamic content engines and decision systems, data is the foundation of these agentic experiences.  Azure C",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523773"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523773",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Cosmos DB Mirroring in Microsoft Fabric",
-          "description": "Now generally available, Azure Cosmos DB Mirroring in Fabric enables you to seamlessly integrate your existing operational workloads with the analytical capabilities of Microsoft Fabric. You can take advantage of the innovations in Fabric, running SQL que",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523768"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523768",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Analytics",
-            "Azure Cosmos DB",
-            "Microsoft Fabric",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Cosmos DB in Microsoft Fabric",
-          "description": "Now generally available, Cosmos DB in Fabric enables you to build operational and analytical workloads in Microsoft Fabric. You can use the AI-features in Azure Cosmos DB plus the innovations in Fabric to run SQL queries over JSON data and build real-time",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523763"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523763",
-          "category": [
-            "In preview",
-            "Databases",
-            "Azure DocumentDB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[In preview] Public Preview: Index Advisor for Azure DocumentDB",
-          "description": "Integrated into the DocumentDB for VS Code extension, the Index Advisor enables you to view and debug database performance. It uses natural language to recommend optimal indexing and best practices for your MongoDB workloads.  Learn more.",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523754"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523754",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Features",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Priority-based execution in Azure Cosmos DB",
-          "description": "You can now enable priority-based execution in Azure Cosmos DB to ensure that high-priority requests are favored during periods of contention. The system will throttle low-priority requests first, allowing high-priority operations to proceed on a best-eff",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
