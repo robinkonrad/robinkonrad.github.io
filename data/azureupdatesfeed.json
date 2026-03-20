@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 20 Mar 2026 17:15:50 Z",
+      "lastBuildDate": "Fri, 20 Mar 2026 19:15:35 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558116"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558116",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Azure SQL Managed Instance",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure SQL updates for mid-March 2026",
+          "description": "In mid-March 2026, the following updates and\nenhancements were made to Azure SQL:   \n Reduce\n     the consumption of storage space, I/O, and memory and improve performance\n     without investing time and effort into index maintenance jobs.  \n Configure",
+          "pubDate": "Fri, 20 Mar 2026 19:15:35 Z",
+          "a10:updated": "2026-03-20T19:15:35Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558086"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558086",
+          "category": [
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure SQL Elastic query - Shard_Map_Manager mode",
+          "description": "Starting March 31, 2027 Elastic query using Shard_Map_Manager external data source type reaches end of support.Existing workloads can continue to run using Azure SQL Elastic query - Shard_Map_Manager mode, but will no longer receive updates or support fro",
+          "pubDate": "Fri, 20 Mar 2026 19:00:50 Z",
+          "a10:updated": "2026-03-20T19:00:50Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3661,44 +3697,6 @@
           ],
           "title": "[Launched] Generally Available: Fuzzy search in Azure Cosmos DB for NoSQL full-text search",
           "description": "Azure Cosmos DB for NoSQL now supports fuzzy search in full-text search. With fuzzy search, you can deliver typo-tolerant, error-resilient search experiences directly within Azure Cosmos DB, helping your users find the right results even when queries or t",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523803"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523803",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Vector indexing performance improvements in Azure Cosmos DB for NoSQL",
-          "description": "This release gives you faster vector inserts and index builds in Azure Cosmos DB for NoSQL, helping you reduce end-to-end ingestion and indexing times for large AI workloads. This improvement is powered by algorithmic enhancements to our vector indexing e",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523796"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523796",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Float16 data type for vector indexes in Azure Cosmos DB",
-          "description": "Azure Cosmos DB now supports float 16 data types for vector indexes. With this update, you can store and query vectors using half-precision floating-point numbers. Using float16 cuts storage usage in half compared to float32, while maintaining high retrie",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
