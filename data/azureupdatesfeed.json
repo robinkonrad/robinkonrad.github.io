@@ -6,9 +6,83 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 24 Mar 2026 17:30:29 Z",
+      "lastBuildDate": "Tue, 24 Mar 2026 18:30:36 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557882"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557882",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: AKS managed GPU metrics in Azure Monitor",
+          "description": "Teams running GPU‑backed\nworkloads often lack integrated visibility into GPU utilization alongside\nKubernetes metrics. AKS managed GPU metrics automatically expose performance\nand utilization data from NVIDIA GPU‑enabled node pools into managed Prometheus",
+          "pubDate": "Tue, 24 Mar 2026 18:30:36 Z",
+          "a10:updated": "2026-03-24T18:30:36Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557877"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557877",
+          "category": [
+            "In preview",
+            "Containers",
+            "Compute",
+            "Azure Kubernetes Fleet Manager",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Cross-cluster networking in Azure Kubernetes Fleet Manager",
+          "description": "Organizations running applications across multiple\nKubernetes clusters often face challenges with performance, global service\ndiscovery, and observability due to the complexity of distributed microservice\nenvironments. Azure Kubernetes Fleet Manager now p",
+          "pubDate": "Tue, 24 Mar 2026 18:30:36 Z",
+          "a10:updated": "2026-03-24T18:30:36Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557912"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557912",
+          "category": [
+            "Launched",
+            "Containers",
+            "Compute",
+            "Azure Container Storage",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Container Storage v2.1.0 now with Elastic SAN integration and on demand installation",
+          "description": "Containerized workloads often\nrequire higher and more consistent storage performance without managing large\nnumbers of individual disks. Azure Container Storage integration with Elastic\nSAN allows Kubernetes clusters to consume storage from a shared pool",
+          "pubDate": "Tue, 24 Mar 2026 18:15:48 Z",
+          "a10:updated": "2026-03-24T18:15:48Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557892"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557892",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Container network logs in AKS",
+          "description": "Networking issues in Kubernetes\nenvironments can be difficult to diagnose due to limited visibility into\ntraffic flows and insufficient context around failures. Container network logs\nin Azure Kubernetes Service (AKS), now generally available, provide con",
+          "pubDate": "Tue, 24 Mar 2026 18:15:48 Z",
+          "a10:updated": "2026-03-24T18:15:48Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3619,80 +3693,6 @@
           ],
           "title": "[In preview] Public Preview: Azure Container Apps adds support for agentic Docker Compose",
           "description": "Azure Container Apps is bringing the familiar\ndeveloper workflow of Docker Compose directly to Azure Container Apps. As one\nof the most widely adopted tools among developers, Docker Compose simplifies\ndefining and running multi-container applications, and",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525465"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525465",
-          "category": [
-            "In preview",
-            "Containers",
-            "Azure Container Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Container Apps introduces flexible workload profile",
-          "description": "Flexible workload profile represents a new option\nthat blends the simplicity of consumption with many of the performance and\ncontrol characteristics of dedicated workload profiles. This offers the same\neasy-to-understand, pay-per-use serverless model as C",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525460"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525460",
-          "category": [
-            "Launched",
-            "Containers",
-            "Azure Container Apps",
-            "Microsoft Ignite",
-            "Features",
-            "Regions & Datacenters"
-          ],
-          "title": "[Launched] Generally Available: Azure Container Apps serverless GPUs in additional regions",
-          "description": "To meet growing demand for GPU-powered workloads, Azure\nContainer Apps serverless GPUs are\nnow generally available in additional regions. This expansion enables\ndevelopers to run AI inference, model training, and GPU-accelerated workloads\nwith the simplic",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525455"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525455",
-          "category": [
-            "In preview",
-            "Containers",
-            "Azure Container Apps",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Confidential computing in Azure Container Apps",
-          "description": "Confidential\ncomputing support in Azure Container Apps is now in public preview. This\nrelease brings hardware-based Trusted Execution Environments (TEEs) to your\ncontainerized workloads. Azure already provides encryption of data at rest and\nin transit, an",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525405"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525405",
-          "category": [
-            "In preview",
-            "Networking",
-            "Azure NAT Gateway",
-            "Microsoft Ignite",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Standard V2 NAT Gateway and StandardV2 Public IPs",
-          "description": "StandardV2 SKU NAT Gateway is now in public preview, delivering next-generation capabilities for scalable and resilient outbound connectivity. New offerings: Zone-Redundancy: Built for high availability in availability zone supported regions. Traffic surv",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
