@@ -6,9 +6,81 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 20 Mar 2026 19:15:35 Z",
+      "lastBuildDate": "Tue, 24 Mar 2026 17:30:29 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558825"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558825",
+          "category": [
+            "Launched",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Monitor Prometheus community recommended alerts for Azure Arc-enabled Kubernetes",
+          "description": "Azure Monitor now offers one-click enablement of Prometheus\nrecommended alerts directly in the Azure Portal for Azure Arc-enabled\nKubernetes clusters. These alerts, based on enhanced Prometheus community\nrules, provide comprehensive coverage across cluste",
+          "pubDate": "Tue, 24 Mar 2026 17:30:29 Z",
+          "a10:updated": "2026-03-24T17:30:29Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557927"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557927",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Application routing with meshless Istio in AKS",
+          "description": "Following the deprecation\nof ingress‑nginx, Kubernetes operators need a supported, standards‑aligned\nmigration path for ingress without the complexity of a full service mesh.\nApplication Routing with Meshless Istio enables adoption of the Kubernetes\nGatew",
+          "pubDate": "Tue, 24 Mar 2026 17:30:29 Z",
+          "a10:updated": "2026-03-24T17:30:29Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557922"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557922",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Microsoft Azure Kubernetes Application Network",
+          "description": "As Kubernetes environments scale\nacross regions and clusters, IP‑based networking becomes difficult to manage\nand provides limited application‑level visibility and security controls. Azure\nKubernetes Application Network introduces application‑layer abstra",
+          "pubDate": "Tue, 24 Mar 2026 17:30:29 Z",
+          "a10:updated": "2026-03-24T17:30:29Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559273"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559273",
+          "category": [
+            "In preview",
+            "DevOps",
+            "Management and governance",
+            "Azure Monitor",
+            "Open Source"
+          ],
+          "title": "[In preview] Public Preview: Ingest OTLP data into Azure Monitor with the OpenTelemetry Collector",
+          "description": "Azure Monitor now supports native ingestion of OpenTelemetry Protocol (OTLP) signals, enabling you to send telemetry data directly from OpenTelemetry-instrumented applications and platforms to Azure Monitor. You can configure your OpenTelemetry Collector",
+          "pubDate": "Tue, 24 Mar 2026 17:15:45 Z",
+          "a10:updated": "2026-03-24T17:15:45Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3621,82 +3693,6 @@
           ],
           "title": "[In preview] Public Preview: Standard V2 NAT Gateway and StandardV2 Public IPs",
           "description": "StandardV2 SKU NAT Gateway is now in public preview, delivering next-generation capabilities for scalable and resilient outbound connectivity. New offerings: Zone-Redundancy: Built for high availability in availability zone supported regions. Traffic surv",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525388"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525388",
-          "category": [
-            "Launched",
-            "Analytics",
-            "Microsoft Fabric",
-            "Microsoft Ignite",
-            "Features",
-            "Pricing & Offerings"
-          ],
-          "title": "[Launched] Generally Available: SQL database in Microsoft Fabric",
-          "description": "SQL database in Fabric is now generally available. Built on the trusted SQL Server and Azure SQL Database engine, this fully SaaS-native solution empowers developers and data professionals to unify operational and analytical workloads with speed, security",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523824"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523824",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Support for Italian and Portuguese in Azure Cosmos DB for NoSQL full-text search",
-          "description": "Azure Cosmos DB for NoSQL now supports Italian and Portuguese languages in full-text search, available today in public preview. This update adds to the list of supported languages, enabling you to build rich, language-aware search experiences that underst",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523814"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523814",
-          "category": [
-            "In preview",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Cosmos DB MCP ToolKit for Microsoft Foundry Agent Service",
-          "description": "Azure Cosmos DB for NoSQL now offers an MCP Toolkit that can be used with Microsoft Foundry  Agent Service, available today in public preview.  This new integration allows you to connect Microsoft Foundry Agents directly to data in Azure Cosmos DB. By dep",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523809"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523809",
-          "category": [
-            "Launched",
-            "Databases",
-            "Internet of Things",
-            "Azure Cosmos DB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Fuzzy search in Azure Cosmos DB for NoSQL full-text search",
-          "description": "Azure Cosmos DB for NoSQL now supports fuzzy search in full-text search. With fuzzy search, you can deliver typo-tolerant, error-resilient search experiences directly within Azure Cosmos DB, helping your users find the right results even when queries or t",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
