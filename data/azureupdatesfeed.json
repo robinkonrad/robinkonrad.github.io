@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 24 Mar 2026 21:45:26 Z",
+      "lastBuildDate": "Tue, 24 Mar 2026 23:00:18 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557902"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557902",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Container network metrics filtering for AKS",
+          "description": "Network\nobservability can generate large volumes of metrics, making it difficult for\nteams to focus on data that is operationally relevant. Container network\nmetrics filtering in Azure Container Networking Services (ACNS) allows\noperators to control which",
+          "pubDate": "Tue, 24 Mar 2026 23:00:18 Z",
+          "a10:updated": "2026-03-24T23:00:18Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3673,26 +3691,6 @@
           ],
           "title": "[Launched] Announcing: Resources for migrating to Azure Functions Flex Consumption",
           "description": "Azure Functions Flex Consumption is\nnow the recommended hosting plan for serverless workloads requiring advanced\nscaling, networking, and cost optimization. To support customers migrating from\nthe Azure Functions Consumption plan or from AWS Lambda, Micro",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525479"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525479",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Functions enables OpenTelemetry support",
-          "description": "Azure Functions now supports\nOpenTelemetry in general availability (GA), enabling developers to export logs,\ntraces, and metrics using open standards. This release builds on the public\npreview and delivers a production-ready observability experience for s",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
