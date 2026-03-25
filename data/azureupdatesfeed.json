@@ -6,9 +6,117 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 24 Mar 2026 23:00:18 Z",
+      "lastBuildDate": "Wed, 25 Mar 2026 17:45:33 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558841"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558841",
+          "category": [
+            "In preview",
+            "Databases",
+            "Azure Database for MySQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Fabric Mirroring integration for Azure Database for MySQL",
+          "description": "We are excited to announce the public preview of Fabric Mirroring integration for Azure Database for MySQL – Flexible Server. You can now replicate MySQL operational data into Microsoft Fabric in near real time, without building or maintaining ETL pipelin",
+          "pubDate": "Wed, 25 Mar 2026 17:45:33 Z",
+          "a10:updated": "2026-03-25T17:45:33Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558884"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558884",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure SQL Database",
+            "Azure SQL Managed Instance",
+            "Features"
+          ],
+          "title": "[Launched] Public Preview: Azure SQL Managed Instance change event streaming",
+          "description": "You can now stream row‑level data changes—inserts, updates, and deletes—from Azure SQL Managed Instance to Azure Event Hubs in near real time with change event streaming (CES). SQL publishes changes as transactions commit, reducing latency while minimizin",
+          "pubDate": "Wed, 25 Mar 2026 17:30:45 Z",
+          "a10:updated": "2026-03-25T17:30:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558870"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558870",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Custom time zone support for pg_cron via cron.timezone in Azure Database for PostgreSQL",
+          "description": "You can now modify the cron.timezone server parameter in Azure Database for PostgreSQL. This parameter controls the time zone used by pg_cron when evaluating scheduled jobs. By configuring cron.timezone, you can ensure scheduled jobs run according to your",
+          "pubDate": "Wed, 25 Mar 2026 17:30:45 Z",
+          "a10:updated": "2026-03-25T17:30:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558865"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558865",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: PostgreSQL migration service supports compatible EDB workloads into Azure Database for PostgreSQL",
+          "description": "We’re excited to announce that EDB PostgreSQL is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from EDB Postgres Extended Server to Azure using secure, reliable workflows des",
+          "pubDate": "Wed, 25 Mar 2026 17:30:45 Z",
+          "a10:updated": "2026-03-25T17:30:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558851"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558851",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: PostgreSQL migration service supports for Google AlloyDB into Azure Database for PostgreSQL",
+          "description": "We’re excited to announce that Google AlloyDB is now supported as a source for migration into Azure Database for PostgreSQL. You can migrate and consolidate PostgreSQL estates from Google AlloyDB to Azure using secure, reliable workflows designed for mini",
+          "pubDate": "Wed, 25 Mar 2026 17:30:45 Z",
+          "a10:updated": "2026-03-25T17:30:45Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558846"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558846",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Online migration now uses the pgoutput plugin",
+          "description": "You can now leverage pgoutput for online (minimal-downtime) migrations with improved reliability and performance. By aligning with PostgreSQL’s native logical replication framework, this update improves ecosystem compatibility with modern PostgreSQL deplo",
+          "pubDate": "Wed, 25 Mar 2026 17:30:45 Z",
+          "a10:updated": "2026-03-25T17:30:45Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3570,127 +3678,6 @@
           ],
           "title": "[Launched] Generally Available: Application Gateway for Containers – Slow start",
           "description": "Slow start is now\ngenerally available as a load balancing algorithm in Application Gateway for\nContainers. This feature improves stability and performance during backend\nscale-up by gradually increasing traffic to new pods over a configurable time\nwindow.",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525874"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525874",
-          "category": [
-            "In preview",
-            "Networking",
-            "Security",
-            "Compute",
-            "Containers",
-            "Application Gateway",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features",
-            "Services"
-          ],
-          "title": "[In preview] Public Preview: Application Gateway for Containers Istio Service Mesh integration",
-          "description": "Application\nGateway for Containers now supports integration with Istio service mesh through\nan optional service mesh extension. This feature simplifies secure north-south\ncommunication between external clients and services within the service mesh. Single",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525549"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525549",
-          "category": [
-            "In preview",
-            "Databases",
-            "Azure DocumentDB",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure DocumentDB high-performance storage",
-          "description": "Now you can run bigger, faster workloads on fewer nodes using high-performance storage for Azure DocumentDB. This update delivers up to 64 TiB capacity, 80,000 IOPS, and 1,200 MB/s throughput per physical shard (node). Storage IOPS and throughput on Azure",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525523"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525523",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Model Context Protocol (MCP) tool trigger for Azure Functions",
-          "description": "Model\nContext Protocol (MCP) is a way for apps to provide capabilities and context to\na large language model. A key feature of MCP is the ability to define tools\nthat AI agents can leverage to accomplish whatever tasks they’ve been given.\nMCP servers can",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525518"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525518",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Functions durable task scheduler Dedicated SKU (GA) & Consumption SKU (Public Preview)",
-          "description": "Earlier this year, we\nintroduced Azure Functions durable task scheduler, an orchestration engine\ndesigned for complex workflows and intelligent agents. It automatically\ncheckpoints progress and protects your orchestration state, enabling resilient\nand rel",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525505"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525505",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Self-hosted remote MCP servers on Azure Functions",
-          "description": "We are introducing a new capability that allows you to host\nremote Model Context Protocol (MCP) servers built with the MCP SDKs on Functions. Some key benefits of hosting on the Functions platform include:  Built-in server authentication Automatic and bur",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525500"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525500",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Announcing: Resources for migrating to Azure Functions Flex Consumption",
-          "description": "Azure Functions Flex Consumption is\nnow the recommended hosting plan for serverless workloads requiring advanced\nscaling, networking, and cost optimization. To support customers migrating from\nthe Azure Functions Consumption plan or from AWS Lambda, Micro",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
