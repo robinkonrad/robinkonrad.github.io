@@ -6,9 +6,45 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 25 Mar 2026 17:45:33 Z",
+      "lastBuildDate": "Wed, 25 Mar 2026 20:00:39 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558836"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558836",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Cosmos DB Mirroring in Microsoft Fabric with private endpoints",
+          "description": "We're excited to announce that private endpoint support for Azure Cosmos DB Mirroring in Microsoft Fabric is now generally available. You can now unlock powerful analytics on your operational data while keeping your enhanced network security posture intac",
+          "pubDate": "Wed, 25 Mar 2026 20:00:39 Z",
+          "a10:updated": "2026-03-25T20:00:39Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557862"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557862",
+          "category": [
+            "In preview",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Blue-green agent pool upgrade in AKS",
+          "description": "In‑place node pool upgrades can introduce risk by applying changes\ndirectly to running environments. Blue‑green agent pool upgrades create a\nparallel node pool with the new configuration, allowing validation before\nworkloads are shifted and providing a cl",
+          "pubDate": "Wed, 25 Mar 2026 20:00:39 Z",
+          "a10:updated": "2026-03-25T20:00:39Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3635,49 +3671,6 @@
           ],
           "title": "[In preview] Public Preview: Azure Functions support for Node.js 24",
           "description": "You can now develop functions using Node.js 24 locally and deploy them\nto Azure Functions on Windows and Linux.   Note: Node.js 24 does not support\n32-bit systems on Windows. To ensure compatibility, new Windows Function Apps for\nNode.js 24 now default to",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526072"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526072",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Functions support for Java 25",
-          "description": "You can now develop functions using Java\n25 locally and deploy them to Azure Functions on Windows and Linux.  Upgrade your apps to Java 25 to take\nadvantage of enhanced security, a longer support window, and continued\ncompatibility with the Azure Function",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525893"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525893",
-          "category": [
-            "Launched",
-            "Networking",
-            "Security",
-            "Compute",
-            "Containers",
-            "Application Gateway",
-            "Azure Kubernetes Service (AKS)",
-            "Services",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Application Gateway for Containers – Slow start",
-          "description": "Slow start is now\ngenerally available as a load balancing algorithm in Application Gateway for\nContainers. This feature improves stability and performance during backend\nscale-up by gradually increasing traffic to new pods over a configurable time\nwindow.",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
