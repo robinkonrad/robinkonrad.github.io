@@ -6,9 +6,21 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 30 Mar 2026 16:30:50 Z",
+      "lastBuildDate": "Mon, 30 Mar 2026 17:45:08 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "556085"
+          },
+          "link": "https://azure.microsoft.com/updates?id=556085",
+          "category": "Retirements",
+          "title": "Retirement: Azure Cosmos DB for PostgreSQL will retire on March 31, 2029",
+          "description": "On March 31, 2029, Azure Cosmos DB for PostgreSQL will be retired, and you'll need to migrate to Azure Database\nfor PostgreSQL Elastic Cluster by that date. Azure Database for PostgreSQL Elastic Cluster delivers the same\ndistributed PostgreSQL capabilitie",
+          "pubDate": "Mon, 30 Mar 2026 17:45:08 Z",
+          "a10:updated": "2026-03-30T17:45:08Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3649,26 +3661,6 @@
           ],
           "title": "[In preview] Public Preview: Add durability to AI agents in Azure Functions using Microsoft Agent Framework",
           "description": "You can now build and host reliable\nproduction-grade AI agents using the durable extension for\nMicrosoft Agent Framework. This integration combines the Microsoft Agent\nFramework with Azure Functions’ durable capabilities, delivering proven\norchestration a",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526174"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526174",
-          "category": [
-            "In preview",
-            "Networking",
-            "Azure Virtual Network Manager",
-            "Microsoft Ignite",
-            "Features",
-            "Services",
-            "Management"
-          ],
-          "title": "[In preview] Public Preview: Cross region pool association support for Azure Virtual Network Manager IP address management",
-          "description": "Managing\nIP address spaces across multiple regions can be complex and error-prone.  With\nthis new capability, you can now associate a single IPAM pool with virtual\nnetworks in multiple regions, simplifying governance and ensuring\nconsistent CIDR allocatio",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
