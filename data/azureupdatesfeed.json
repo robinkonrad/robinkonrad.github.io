@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 30 Mar 2026 21:30:50 Z",
+      "lastBuildDate": "Mon, 30 Mar 2026 21:45:47 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559322"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559322",
+          "category": [
+            "In preview",
+            "Compute",
+            "Virtual Machine Scale Sets",
+            "Virtual Machines",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Ephemeral OS Disk with full caching for VM/VMSS",
+          "description": "Ephemeral OS Disk with full caching is now available in public preview for Azure VM/VMSS, bringing significantly faster and more reliable OS disk performance to your workloads. By caching the entire OS disk image on local VM storage (cache disk, resource",
+          "pubDate": "Mon, 30 Mar 2026 21:45:47 Z",
+          "a10:updated": "2026-03-30T21:45:47Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3640,25 +3658,6 @@
           ],
           "title": "[In preview] Public Preview: Windows Server 2025 on AKS",
           "description": "Organizations running Windows-based\nworkloads on Azure Kubernetes Service (AKS) face increasing pressure to\nmodernize as support timelines for older Windows Server versions approach\nretirement. To help customers prepare, AKS now offers preview support for",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526208"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526208",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: AKS Automatic pod readiness SLA",
-          "description": "Azure Kubernetes Service (AKS) Automatic\nclusters now come with a pod readiness SLA, guaranteeing that eligible pods meet\nreadiness criteria within five minutes at the 99.9th percentile.\nThis empowers customers to confidently deploy mission critical workl",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
