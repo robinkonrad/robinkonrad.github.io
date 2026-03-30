@@ -6,9 +6,46 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 30 Mar 2026 17:45:08 Z",
+      "lastBuildDate": "Mon, 30 Mar 2026 21:30:50 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559552"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559552",
+          "category": [
+            "Launched",
+            "Containers",
+            "Azure Red Hat OpenShift",
+            "Open Source"
+          ],
+          "title": "[Launched] Generally Available: Azure Red Hat OpenShift in Indonesia Central",
+          "description": "Azure Red Hat OpenShift (ARO) is now generally available in\nthe Indonesia Central Azure region, expanding regional availability for\ncustomers running mission‑critical OpenShift workloads on Azure. This release\nenables organizations in Indonesia and the br",
+          "pubDate": "Mon, 30 Mar 2026 21:30:50 Z",
+          "a10:updated": "2026-03-30T21:30:50Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "550519"
+          },
+          "link": "https://azure.microsoft.com/updates?id=550519",
+          "category": [
+            "Compute",
+            "Containers",
+            "DevOps",
+            "Management and governance",
+            "Azure Kubernetes Service (AKS)",
+            "Azure Monitor",
+            "Retirements"
+          ],
+          "title": "Retirement: Deprecation of sidecar for remote-write for Azure Monitor managed service for Prometheus",
+          "description": "On March 31, 2027 Azure Monitor will be deprecating the sidecar for remote-write of Prometheus metrics to Azure Monitor Workspace. This is as part of our ongoing efforts to improve reliability and reduce complexity.We recommend configuring your self-hoste",
+          "pubDate": "Mon, 30 Mar 2026 21:30:50 Z",
+          "a10:updated": "2026-03-30T21:30:50Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3622,45 +3659,6 @@
           ],
           "title": "[Launched] Generally Available: AKS Automatic pod readiness SLA",
           "description": "Azure Kubernetes Service (AKS) Automatic\nclusters now come with a pod readiness SLA, guaranteeing that eligible pods meet\nreadiness criteria within five minutes at the 99.9th percentile.\nThis empowers customers to confidently deploy mission critical workl",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526203"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526203",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: AKS Automatic managed system node pools",
-          "description": "Provisioning and maintaining system node pools in AKS\nrequires ongoing effort to ensure proper scaling, patching, and availability, tasks\nthat can divert resources from application development and delivery.\nManaged system node pools in AKS Automatic remov",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526179"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526179",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Internet of Things",
-            "Azure Functions",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Add durability to AI agents in Azure Functions using Microsoft Agent Framework",
-          "description": "You can now build and host reliable\nproduction-grade AI agents using the durable extension for\nMicrosoft Agent Framework. This integration combines the Microsoft Agent\nFramework with Azure Functions’ durable capabilities, delivering proven\norchestration a",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
