@@ -6,9 +6,47 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 30 Mar 2026 21:45:47 Z",
+      "lastBuildDate": "Tue, 31 Mar 2026 16:45:33 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557395"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557395",
+          "category": [
+            "Networking",
+            "Security",
+            "VPN Gateway",
+            "Retirements",
+            "Security"
+          ],
+          "title": "Retirement: Manually registered Azure VPN Clients for ​Azure Government and ​Microsoft Azure operated by 21Vianet clouds will be retired on March 31, 2029",
+          "description": "On March 31, 2029, we’ll be retiring manually registered\nAzure VPN clients for point-to-site connections with Microsoft Entra ID\nauthentication for ​Azure\nGovernment and ​Microsoft\nAzure operated by 21Vianet clouds.  Recommended action: To prevent disrupt",
+          "pubDate": "Tue, 31 Mar 2026 16:45:33 Z",
+          "a10:updated": "2026-03-31T16:45:33Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559677"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559677",
+          "category": [
+            "Launched",
+            "Storage",
+            "Compute",
+            "Azure Disk Storage",
+            "Virtual Machines",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Azure Premium SSD v2 Disk is now available in US Gov Arizona",
+          "description": "Azure Premium SSD v2 is now available in US Gov Arizona (a\nregion without Availability Zone).  Azure Premium SSD v2 disk, a next-generation general-purpose\nblock storage option for Azure virtual machines, offers\nsub-millisecond latencies and exceptional p",
+          "pubDate": "Tue, 31 Mar 2026 16:30:51 Z",
+          "a10:updated": "2026-03-31T16:30:51Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3619,45 +3657,6 @@
           ],
           "title": "[Launched] Generally Available: Managed namespaces on AKS",
           "description": "Managing\nnamespace configurations across AKS clusters has traditionally required manual\nsetup and ongoing maintenance, creating complexity and potential for\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\nenables users to ea",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526227"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526227",
-          "category": [
-            "In preview",
-            "Containers",
-            "Compute",
-            "Azure Kubernetes Fleet Manager",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Kubernetes Fleet Manager for Arc-enabled clusters",
-          "description": "Managing\nKubernetes clusters across hybrid and multi-cloud environments can be complex\nand fragmented. To simplify this, Azure Kubernetes Fleet Manager now supports\nAzure Arc-enabled Kubernetes, enabling organizations to seamlessly manage any\nCNCF-complia",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526213"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526213",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Windows Server 2025 on AKS",
-          "description": "Organizations running Windows-based\nworkloads on Azure Kubernetes Service (AKS) face increasing pressure to\nmodernize as support timelines for older Windows Server versions approach\nretirement. To help customers prepare, AKS now offers preview support for",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
