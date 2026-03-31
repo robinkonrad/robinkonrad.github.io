@@ -6,9 +6,80 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 31 Mar 2026 16:45:33 Z",
+      "lastBuildDate": "Tue, 31 Mar 2026 17:45:46 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559695"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559695",
+          "category": [
+            "In preview",
+            "Features",
+            "Microsoft Build"
+          ],
+          "title": "[In preview] Public Preview: Azure Event Grid provides new capabilities for smarter, more secure event-driven architectures",
+          "description": "Azure Event Grid offers a variety of features in\nPublic Preview – intended to help you better manage large-scale, distributed\nsystems with improved interoperability and control.  Public Preview Features:  \n Cross-Tenant\n     Webhook Delivery: Enables secu",
+          "pubDate": "Tue, 31 Mar 2026 17:45:46 Z",
+          "a10:updated": "2026-03-31T17:45:46Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559535"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559535",
+          "category": [
+            "Launched",
+            "Storage",
+            "Databases",
+            "Azure Files",
+            "Queue Storage",
+            "Table Storage",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: User delegation SAS for Azure Tables, Azure Files, and Azure Queues",
+          "description": "User delegation SAS for Azure Tables, Azure Files, and Azure\nQueues is now generally available.  User delegation SAS allows users to create a more secure SAS\ntoken than account or service SAS by tying the SAS token to the delegator. This\nextension of UDK",
+          "pubDate": "Tue, 31 Mar 2026 17:30:08 Z",
+          "a10:updated": "2026-03-31T17:30:08Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "492542"
+          },
+          "link": "https://azure.microsoft.com/updates?id=492542",
+          "category": [
+            "Launched",
+            "Integration",
+            "Internet of Things",
+            "Event Grid",
+            "Features",
+            "Microsoft Build"
+          ],
+          "title": "[Launched] Generally Available: Azure Event Grid provides new capabilities for smarter, more secure event-driven architectures",
+          "description": "Azure Event Grid now offers a variety of new features intended\nto help you better manage large-scale, distributed systems with improved\ninteroperability and control.  Generally Available features:  \n MQTT Message Ordering:\n     Ensures in-order message de",
+          "pubDate": "Tue, 31 Mar 2026 17:30:08 Z",
+          "a10:updated": "2026-03-31T17:30:08Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559406"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559406",
+          "category": [
+            "Launched",
+            "Regions & Datacenters"
+          ],
+          "title": "[Launched] Generally Available: Microsoft Azure now available from new cloud region in Denmark",
+          "description": "Microsoft announces the opening of its cloud region in\nDenmark to accelerate digital transformation and AI innovation. The Denmark\nEast region provides Danish customers with local, secure cloud infrastructure,\nsupporting local data residency, low latency,",
+          "pubDate": "Tue, 31 Mar 2026 17:15:56 Z",
+          "a10:updated": "2026-03-31T17:15:56Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3582,81 +3653,6 @@
           ],
           "title": "[Launched] Generally Available: ExpressRoute Scalable Gateway",
           "description": "ExpressRoute Scalable Gateway (ErGwScale) is our\nnext-generation offering that brings flexibility, performance, and operational\nsimplicity to Virtual Network Gateway deployments. With this release, you can\ndynamically scale gateway infrastructure to meet",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526644"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526644",
-          "category": [
-            "Launched",
-            "Containers",
-            "Azure Container Registry",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Container Registry Repository Permissions with Attribute-based Access Control (ABAC)",
-          "description": "Organizations\noperating Azure Container Registries (ACR) require least-privilege permissions\nover which Microsoft Entra identities can publish or consume container images.\nWith ACR repository permissions using attribute-based access control (ABAC),\nadmini",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526242"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526242",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Kubernetes Service desktop",
-          "description": "AKS desktop delivers a modern, application-centric\nexperience for deploying and managing workloads on Azure Kubernetes Service.\nBuilt on supported AKS features, best practices, and the open-source Headlamp\nproject, it offers a guided, self-service interfa",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526237"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526237",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Pod sandboxing on AKS",
-          "description": "Running\ncontainerized workloads in shared environments can raise concerns around\nsecurity and workload isolation. To address this, AKS now supports pod\nsandboxing, enabling customers to run containers in per-workload pod VMs. Each\npod VM is isolated from",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526232"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526232",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Managed namespaces on AKS",
-          "description": "Managing\nnamespace configurations across AKS clusters has traditionally required manual\nsetup and ongoing maintenance, creating complexity and potential for\nmisconfiguration. With the general availability of Managed Namespaces, AKS now\nenables users to ea",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
