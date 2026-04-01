@@ -6,9 +6,60 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 31 Mar 2026 20:00:35 Z",
+      "lastBuildDate": "Wed, 01 Apr 2026 18:15:44 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559767"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559767",
+          "category": [
+            "Launched",
+            "Migration",
+            "Storage",
+            "Azure Data Box",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Data Box now supports Azure Files Provisioned v2",
+          "description": "Azure\nData Box now supports ingestion of data into Azure\nFiles Provisioned v2 storage accounts. Azure Files Provisioned v2\nis a billing model where customers provision and pay for specific capacity,\nIOPS, and throughput values; giving greater flexibility",
+          "pubDate": "Wed, 01 Apr 2026 18:15:44 Z",
+          "a10:updated": "2026-04-01T18:15:44Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559504"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559504",
+          "category": [
+            "In development",
+            "Storage",
+            "Azure NetApp Files",
+            "Features"
+          ],
+          "title": "[In development] Public Preview: Azure NetApp Files storage with cool access enhancement",
+          "description": "QoS update with cool\naccess enabled on Premium and Ultra service levels improves how Azure\nNetApp Files balances performance and cost for mixed hot and cool workloads.\nThroughput automatically adjusts as data moves to cool storage, maintaining hot‑tier\npe",
+          "pubDate": "Wed, 01 Apr 2026 18:15:44 Z",
+          "a10:updated": "2026-04-01T18:15:44Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557394"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557394",
+          "category": [
+            "AI + machine learning",
+            "Azure AI Language",
+            "Retirements"
+          ],
+          "title": "Retirement: Select Azure AI Language Features",
+          "description": "On March 20, 2027, Microsoft will retire the following eight Azure AI Language features: Key Phrase ExtractionSentiment Analysis and Opinion MiningCustom Text ClassificationConversational Language Understanding (CLU)Custom Question Answering (CQA)Orchestr",
+          "pubDate": "Wed, 01 Apr 2026 18:00:10 Z",
+          "a10:updated": "2026-04-01T18:00:10Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3584,70 +3635,6 @@
           ],
           "title": "[In preview] Public Preview: New integration and extensibility capabilities to Azure SRE Agent",
           "description": "Azure SRE Agent is an AI-driven solution that unifies operational workflows into a single, prompt-based automation layer—eliminating complexity and reducing overhead for modern cloud operations. Unlike traditional, static automation solutions, SRE Agent l",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "529519"
-          },
-          "link": "https://azure.microsoft.com/updates?id=529519",
-          "category": [
-            "Launched",
-            "DevOps",
-            "Management and governance",
-            "Azure Monitor",
-            "Microsoft Ignite",
-            "Features",
-            "SDK and Tools"
-          ],
-          "title": "[Launched] Generally Available: Advanced sampling and richer data collection in Azure Monitor OpenTelemetry Distro",
-          "description": "Azure continues to embrace open standards by adding new capabilities to the Azure Monitor OpenTelemetry Distro that powers Azure Monitor Application Insights. New Capabilities:Rate-limited sampling and\ntrace-based log sampling:  New sampling options in\nth",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527815"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527815",
-          "category": [
-            "In preview",
-            "Management and governance",
-            "Networking",
-            "Azure Kubernetes Service (AKS)",
-            "Network Watcher",
-            "Microsoft Ignite",
-            "Features",
-            "Management"
-          ],
-          "title": "[In preview] Public Preview: Azure Network Watcher – Agentless Connection Troubleshoot",
-          "description": "Agentless Connection Troubleshoot (public preview)\nintroduces a faster, simpler, and fully agentless way to diagnose network\nconnectivity issues across Azure resources. Previously, running connectivity\nchecks required installing the Network Watcher Extens",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527810"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527810",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "Management and governance",
-            "Networking",
-            "Azure Kubernetes Service (AKS)",
-            "Network Watcher",
-            "Management",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure Network Watcher Topology – AKS Visualization",
-          "description": "Azure Kubernetes Service (AKS) visualization in\nNetwork Watcher Topology (Public Preview) delivers end-to-end visibility of AKS\nclusters directly within the Azure networking experience. Customers can now\nexplore their Kubernetes environments, including th",
           "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
           "a10:updated": "2025-11-18T17:01:02Z"
         }
