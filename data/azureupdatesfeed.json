@@ -6,9 +6,43 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Wed, 01 Apr 2026 21:00:19 Z",
+      "lastBuildDate": "Thu, 02 Apr 2026 16:45:52 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558027"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558027",
+          "category": [
+            "Compute",
+            "Mobile",
+            "Web",
+            "App Service",
+            "Retirements"
+          ],
+          "title": "Retirement: Python support for Azure App Service and Azure Functions on Windows will be retired on March 31, 2027",
+          "description": "Starting March 31, 2027,\nPython applications hosted on Azure App Service on\nWindows and Azure Functions on Windows will no longer run. After\nthis date:  \n Your application configuration and content will\n     remain intact  \n Your apps will stop running",
+          "pubDate": "Thu, 02 Apr 2026 16:45:52 Z",
+          "a10:updated": "2026-04-02T16:45:52Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "558276"
+          },
+          "link": "https://azure.microsoft.com/updates?id=558276",
+          "category": [
+            "Storage",
+            "Azure Blob Storage",
+            "Retirements"
+          ],
+          "title": "Retirement: AzureDnsEndpoints for Azure storage accounts will be retired March 2027",
+          "description": "AzureDnsZone\nendpoints (preview) for Azure Blob storage accounts will enter\nretirement in March 2027. Customers leveraging AzureDnsZone endpoints (preview)\nshould transition to Standard endpoints for all new and existing blob storage\naccount deployments b",
+          "pubDate": "Thu, 02 Apr 2026 16:30:09 Z",
+          "a10:updated": "2026-04-02T16:30:09Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3603,41 +3637,6 @@
           "description": "Announcing Managed Instance on Azure App Service, now in Public Preview! This new capability makes it easy to move web apps to the cloud with minimal configuration—no code rewrites required. Whether your .NET apps run on-premises or in VMs, you can move t",
           "pubDate": "Tue, 18 Nov 2025 18:00:28 Z",
           "a10:updated": "2025-11-18T18:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "527713"
-          },
-          "link": "https://azure.microsoft.com/updates?id=527713",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure Files",
-            "Microsoft Ignite",
-            "Features",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Entra-only identities support with Azure Files SMB",
-          "description": "Azure Files now supports Entra-only identities, enabling customers to retire on-premises domain controllers while maintaining secure SMB access to file shares. This feature delivers a fully cloud-native authentication model using Microsoft Entra Kerberos",
-          "pubDate": "Tue, 18 Nov 2025 17:30:44 Z",
-          "a10:updated": "2025-11-18T17:30:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "530661"
-          },
-          "link": "https://azure.microsoft.com/updates?id=530661",
-          "category": [
-            "In development",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In development] Private Preview: Azure Boost confidential device",
-          "description": "The\nAzure Boost confidential device feature is now in preview. Azure Boost\nis a Microsoft Azure system that offloads virtualization tasks—such as\nnetworking, storage, and host management—from the hypervisor and host OS to\npurpose-built hardware and softwa",
-          "pubDate": "Tue, 18 Nov 2025 17:01:02 Z",
-          "a10:updated": "2025-11-18T17:01:02Z"
         }
       ]
     }
