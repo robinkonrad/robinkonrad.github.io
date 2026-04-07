@@ -6,9 +6,47 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 07 Apr 2026 17:00:23 Z",
+      "lastBuildDate": "Tue, 07 Apr 2026 17:45:41 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557857"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557857",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Disable HTTP proxy in AKS",
+          "description": "Organizations\nthat use HTTP proxies to control outbound traffic often need to change or\nremove those settings as network requirements evolve, which can be disruptive\nin running clusters. Azure Kubernetes Service allows administrators to disable\nHTTP proxy",
+          "pubDate": "Tue, 07 Apr 2026 17:45:41 Z",
+          "a10:updated": "2026-04-07T17:45:41Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559981"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559981",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Generally Available: Azure Functions now supports MCP resource triggers",
+          "description": "Developers\nbuilding MCP servers on Azure Functions can expose tools but not resources.\nNow, Azure Functions supports MCP resource triggers, enabling\ndevelopers to expose resources directly from an Azure Functions–hosted Model\nContext Protocol (MCP) server",
+          "pubDate": "Tue, 07 Apr 2026 17:15:12 Z",
+          "a10:updated": "2026-04-07T17:15:12Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3594,41 +3632,6 @@
           "description": "Following our Azure Copilot announcement introducing agentic\ncapabilities, this update focuses on one of the six new agents: the deployment\nagent. The deployment agent helps you discover, plan, and deploy cloud\nworkloads faster and with confidence using n",
           "pubDate": "Tue, 18 Nov 2025 20:15:19 Z",
           "a10:updated": "2025-11-18T20:15:19Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "529806"
-          },
-          "link": "https://azure.microsoft.com/updates?id=529806",
-          "category": [
-            "In development",
-            "Microsoft Ignite",
-            "Features"
-          ],
-          "title": "[In development] Private Preview: Azure HorizonDB",
-          "description": "Engineered for performance, Azure HorizonDB for PostgreSQL delivers future-proof, autoscaling storage up to 128 TB, up to 3 times faster performance than open-source PostgreSQL, and rapid compute scalability to 3,072 vCores. Now in private preview, Azure",
-          "pubDate": "Tue, 18 Nov 2025 18:00:28 Z",
-          "a10:updated": "2025-11-18T18:00:28Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526909"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526909",
-          "category": [
-            "Launched",
-            "Developer tools",
-            "Visual Studio Code",
-            "Features",
-            "SDK and Tools",
-            "Microsoft Ignite"
-          ],
-          "title": "[Launched] Generally Available: Private Marketplace for VS Code",
-          "description": "The VS Code Private Marketplace is a secure, enterprise-ready way to host and manage extensions internally—fully integrated with VS Code. Teams can self-host, deploy easily, and manage updates with flexibility and control.Learn more.",
-          "pubDate": "Tue, 18 Nov 2025 18:00:28 Z",
-          "a10:updated": "2025-11-18T18:00:28Z"
         }
       ]
     }
