@@ -6,9 +6,47 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 10 Apr 2026 17:00:41 Z",
+      "lastBuildDate": "Mon, 13 Apr 2026 17:15:23 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559395"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559395",
+          "category": [
+            "DevOps",
+            "Management and governance",
+            "Azure Managed Grafana",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Managed Grafana Essential SKU will retire on March 30, 2027",
+          "description": "Azure Managed Grafana Essential SKU will be retired on March 30, 2027.Customers using the Essential SKU are encouraged to transition to Azure Managed Grafana Standard SKU or Azure Monitor Dashboards with Grafana before the retirement date to avoid service",
+          "pubDate": "Mon, 13 Apr 2026 17:15:23 Z",
+          "a10:updated": "2026-04-13T17:15:23Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560207"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560207",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Networking",
+            "Azure Kubernetes Service (AKS)",
+            "Azure NAT Gateway",
+            "Features",
+            "Services"
+          ],
+          "title": "[Launched] Public Preview: StandardV2 NAT Gateway as an outbound type for AKS",
+          "description": "AKS now\nsupports managed and user-assigned StandardV2 NAT Gateway as an outbound type\nfor your AKS managed or BYO VNets. This unlocks zone-redundant outbound\nconnectivity, up to 100 Gbps outbound throughput, and IPv6 outbound support for\nAKS clusters.Lear",
+          "pubDate": "Mon, 13 Apr 2026 16:00:36 Z",
+          "a10:updated": "2026-04-13T16:00:36Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3585,45 +3623,6 @@
           "description": "The Auto-import feature for Azure Managed Lustre (AMLFS) is now available in public preview. Auto-import enables seamless, policy-driven synchronization of data from Azure Blob Storage containers into AMLFS clusters, automatically reflecting new, changed,",
           "pubDate": "Wed, 19 Nov 2025 20:00:49 Z",
           "a10:updated": "2025-11-19T20:00:49Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "515505"
-          },
-          "link": "https://azure.microsoft.com/updates?id=515505",
-          "category": [
-            "In preview",
-            "Compute",
-            "Containers",
-            "DevOps",
-            "Management and governance",
-            "Azure Kubernetes Service (AKS)",
-            "Azure Monitor",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Recommended alerts for Azure Monitor Workspace",
-          "description": "Azure Monitor now offers one-click enablement of recommended alerts directly in the Azure Portal for Azure Monitor Managed service for Prometheus customers. These alerts enable you to monitor the ingestion limits for Azure Monitor Workspace and avoid metr",
-          "pubDate": "Wed, 19 Nov 2025 17:45:05 Z",
-          "a10:updated": "2025-11-19T17:45:05Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "532188"
-          },
-          "link": "https://azure.microsoft.com/updates?id=532188",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Microsoft Foundry",
-            "Features",
-            "Microsoft Inspire"
-          ],
-          "title": "[In preview] Public Preview: Azure Managed Redis integration with Microsoft Foundry",
-          "description": "Azure Managed Redis is now available as part of the Microsoft Foundry MCP tools catalog, allowing customers to use Redis as a knowledge store or memory store for AI agents. This integration makes it simple to connect Redis to Foundry-based agents, enablin",
-          "pubDate": "Wed, 19 Nov 2025 17:30:18 Z",
-          "a10:updated": "2025-11-19T17:30:18Z"
         }
       ]
     }
