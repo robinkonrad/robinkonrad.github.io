@@ -6,9 +6,29 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 13 Apr 2026 18:00:56 Z",
+      "lastBuildDate": "Mon, 13 Apr 2026 18:45:30 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560162"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560162",
+          "category": [
+            "In preview",
+            "Networking",
+            "Security",
+            "Azure Bastion",
+            "Features",
+            "Security",
+            "Services"
+          ],
+          "title": "[In preview] Public Preview: Managed identity support for graphical session recording",
+          "description": "Today, we are announcing Azure Bastion now supports managed\nidentities for graphical session recording. Azure Bastion graphical session recording now supports write\naccess to storage accounts using managed identities. With this update, users\nhave the opti",
+          "pubDate": "Mon, 13 Apr 2026 18:45:30 Z",
+          "a10:updated": "2026-04-13T18:45:30Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -298,7 +318,7 @@
             "Services"
           ],
           "title": "[In preview] Public Preview: Rule impact analysis on Azure Network Watcher",
-          "description": "Rule impact\nanalysis on Azure Network Watcher enables you to preview the impact of security\nadmin rules before applying them to your environment. This feature helps you\nvalidate rule behavior, identify potential conflicts, and ensure that\nconnectivity req",
+          "description": "Rule impact analysis on Azure Network Watcher enables you to preview the impact of security admin rules and network security group (NSG) rules before applying them to your environment. This feature helps you validate rule behavior, identify potential conf",
           "pubDate": "Mon, 06 Apr 2026 16:15:40 Z",
           "a10:updated": "2026-04-06T16:15:40Z"
         },
@@ -3597,27 +3617,6 @@
           "description": "Azure Monitor provides a complete set of services for monitoring the health and performance of different layers of your Kubernetes infrastructure and the applications that depend on it.Azure Monitor now supports Azure Arc-enabled Kubernetes with OpenShift",
           "pubDate": "Thu, 20 Nov 2025 08:00:32 Z",
           "a10:updated": "2025-11-20T08:00:32Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "529381"
-          },
-          "link": "https://azure.microsoft.com/updates?id=529381",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Managed Lustre",
-            "SDK and Tools",
-            "Microsoft Ignite",
-            "Features",
-            "Services",
-            "Management"
-          ],
-          "title": "[Launched] Generally Available: Azure Managed Lustre Support for Azure MCP Server",
-          "description": "Azure Managed Lustre now offers full integration with Azure MCP Server, and this capability is generally available. Azure MCP Server enables developers and infrastructure teams to manage Azure resources—including Azure Managed Lustre file systems—using na",
-          "pubDate": "Wed, 19 Nov 2025 21:00:38 Z",
-          "a10:updated": "2025-11-19T21:00:38Z"
         }
       ]
     }
