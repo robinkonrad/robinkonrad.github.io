@@ -6,9 +6,47 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 14 Apr 2026 17:15:47 Z",
+      "lastBuildDate": "Tue, 14 Apr 2026 21:15:15 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560241"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560241",
+          "category": [
+            "In preview",
+            "Management and governance",
+            "Migration",
+            "Azure Site Recovery",
+            "Features",
+            "Management"
+          ],
+          "title": "[In preview] Public Preview: Azure Site Recovery support for Windows Azure VMs with NVMe disk controllers.",
+          "description": "Azure Site Recovery now supports replication and disaster recovery for Windows Azure Virtual Machines running on NVMe-enabled Generation 2 VM families, such as the Da/Ea/Fa v6-series and Ebsv5/Ebdsv5 in the Azure-to-Azure scenario. This enhancement allows",
+          "pubDate": "Tue, 14 Apr 2026 21:15:15 Z",
+          "a10:updated": "2026-04-14T21:15:15Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559756"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559756",
+          "category": [
+            "Launched",
+            "Storage",
+            "Analytics",
+            "Azure Blob Storage",
+            "Azure Data Lake Storage",
+            "Pricing & Offerings"
+          ],
+          "title": "[Launched] Announcing: Minimum billable object size for cooler storage tiers",
+          "description": "For storage accounts with Azure Blob or Data Lake Storage\n(ADLS) we are introducing a minimum billable object size for the cool, cold and\narchive access tiers of 128KiB. Objects on those tiers that are smaller than\n128 KiB will be billed as 128 KiB object",
+          "pubDate": "Tue, 14 Apr 2026 21:15:15 Z",
+          "a10:updated": "2026-04-14T21:15:15Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3573,43 +3611,6 @@
           "description": "Azure Sphere OS version 25.10 is now available in the Retail feed. This release includes updates to Azure Sphere OS only; it does not include an updated SDK. If your devices are connected to the internet, they will receive the updated OS from the cloud.Th",
           "pubDate": "Thu, 20 Nov 2025 16:00:12 Z",
           "a10:updated": "2025-11-20T16:00:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "529797"
-          },
-          "link": "https://azure.microsoft.com/updates?id=529797",
-          "category": [
-            "Launched",
-            "Compute",
-            "Virtual Machines",
-            "Operating System",
-            "Compliance",
-            "Security",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Trusted Launch is now supported for Arm64 Marketplace Images",
-          "description": "Announcing that\nTrusted Launch supported Arm64 Images are now available in the Azure\nMarketplace. You can now get the dual benefit of cost and performance efficiencies\nof Arm64 in addition to the security benefits of Trusted Launch.  Arm64 VMs bring cost",
-          "pubDate": "Thu, 20 Nov 2025 15:00:59 Z",
-          "a10:updated": "2025-11-20T15:00:59Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "525620"
-          },
-          "link": "https://azure.microsoft.com/updates?id=525620",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure NetApp Files migration assistant (portal support)",
-          "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
-          "pubDate": "Thu, 20 Nov 2025 13:45:47 Z",
-          "a10:updated": "2025-11-20T13:45:47Z"
         }
       ]
     }
