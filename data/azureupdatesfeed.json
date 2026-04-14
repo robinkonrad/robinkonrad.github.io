@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 13 Apr 2026 23:45:31 Z",
+      "lastBuildDate": "Tue, 14 Apr 2026 17:15:47 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559746"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559746",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Blob Storage",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Smart tier (Azure Blob and Data Lake Storage)",
+          "description": "Announcing the GA of smart tier for Azure Blob and Data Lake Storage (ADLS). Smart Tier is Generally Available (GA) today in nearly all zonal public cloud regions. (The Azure regions Israel Central, Qatar Central and UAE North are not part of this GA anno",
+          "pubDate": "Tue, 14 Apr 2026 17:15:47 Z",
+          "a10:updated": "2026-04-14T17:15:47Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3591,23 +3608,6 @@
           ],
           "title": "[In preview] Public Preview: Azure NetApp Files migration assistant (portal support)",
           "description": "Azure NetApp Files migration assistant (with SnapMirror) provides efficient and cost-effective data migration leveraging ONTAP's built-in replication engine for seamless transition from on-premises or CVO/other cloud providers to Azure NetApp Files (ANF).",
-          "pubDate": "Thu, 20 Nov 2025 13:45:47 Z",
-          "a10:updated": "2025-11-20T13:45:47Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523917"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523917",
-          "category": [
-            "In preview",
-            "Storage",
-            "Azure NetApp Files",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Azure NetApp Files cache volumes",
-          "description": "Azure NetApp Files cache volumes are now available in public preview. The cache volumes feature is a new capability built on NetApp’s ONTAP FlexCache technology that provides a persistent, high-performance cache in Azure for data stored on ONTAP-based sto",
           "pubDate": "Thu, 20 Nov 2025 13:45:47 Z",
           "a10:updated": "2025-11-20T13:45:47Z"
         }
