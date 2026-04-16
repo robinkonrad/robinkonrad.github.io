@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 16 Apr 2026 18:00:13 Z",
+      "lastBuildDate": "Thu, 16 Apr 2026 20:30:13 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "557928"
+          },
+          "link": "https://azure.microsoft.com/updates?id=557928",
+          "category": [
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Kubernetes Service support for Ubuntu 22.04",
+          "description": "On June 30, 2027, we'll retire Ubuntu 22.04 on Azure\nKubernetes Service. To avoid disruptions, transition to\nUbuntu 24.04 or later by that date. Newer\nsupported versions include kernel\nupdates and security improvements.   Until June 30, 2027, you can cont",
+          "pubDate": "Thu, 16 Apr 2026 20:30:13 Z",
+          "a10:updated": "2026-04-16T20:30:13Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3588,24 +3605,6 @@
           "description": "Local redirect policy with Azure\nCNI powered by Cilium for AKS is now generally available. Customers running high-scale AKS workloads often experience\nlatency and performance bottlenecks due to cross-node traffic routing. The new local\nredirect policy add",
           "pubDate": "Thu, 20 Nov 2025 18:30:02 Z",
           "a10:updated": "2025-11-20T18:30:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523115"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523115",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Layer 7 policy with Advanced Container Networking Services (ACNS) for AKS",
-          "description": "To address the growing need for granular traffic control in\nmicroservices architectures, Azure Container Networking Services now offers\nLayer 7 Policy as a generally available feature. This capability empowers\ncustomers to enforce fine-grained traffic con",
-          "pubDate": "Thu, 20 Nov 2025 18:15:25 Z",
-          "a10:updated": "2025-11-20T18:15:25Z"
         }
       ]
     }
