@@ -6,9 +6,27 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 17 Apr 2026 17:15:04 Z",
+      "lastBuildDate": "Fri, 17 Apr 2026 19:00:12 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559311"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559311",
+          "category": [
+            "Compute",
+            "Containers",
+            "Internet of Things",
+            "Azure Functions",
+            "Retirements"
+          ],
+          "title": "Retirement: Azure Functions runtime v3 on Linux Consumption will stop running September 30, 2026",
+          "description": "Azure Functions runtime v3 was retired on December\n13, 2022. As part of ongoing efforts to reduce reliance on legacy\ninfrastructure and focus investments on supported platforms, Azure will enforce\nthis retirement for Linux Consumption–based Function Apps",
+          "pubDate": "Fri, 17 Apr 2026 19:00:12 Z",
+          "a10:updated": "2026-04-17T19:00:12Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -75,7 +93,7 @@
             "Batch",
             "Retirements"
           ],
-          "title": "Retirement: End of lift reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
+          "title": "Retirement: End of life reminder of HBv2/HC-Series/NP-Series Azure Virtual Machine in Azure Batch Pool",
           "description": "Microsoft Azure will retire support for HBv2-series,\nHC-series, and NP-series VMs in Azure Batch pools on May 31, 2027,\nincluding:   \n HBv2-series: 120 AMD EPYC 7V12 vCPUs, 480 GB RAM, 200\n     Gb/s HDR InfiniBand  \n HC-series: 44 Intel Xeon Platinum 8168",
           "pubDate": "Wed, 15 Apr 2026 17:30:33 Z",
           "a10:updated": "2026-04-15T17:30:33Z"
@@ -3590,24 +3608,6 @@
           "description": "MCP support for AI toolchain operator add-on is\nnow Generally Available.    The AI Toolchain Operator add-on now supports\nKAITO inference workspaces with integrated tool calling and Model Context\nProtocol (MCP), addressing key challenges around dynamic mo",
           "pubDate": "Thu, 20 Nov 2025 18:45:04 Z",
           "a10:updated": "2025-11-20T18:45:04Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "523120"
-          },
-          "link": "https://azure.microsoft.com/updates?id=523120",
-          "category": [
-            "Launched",
-            "Compute",
-            "Containers",
-            "Azure Kubernetes Service (AKS)",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Cluster-wide Cilium network policy with Azure CNI powered by Cilium for AKS",
-          "description": "Cluster-wide Cilium network\npolicy for AKS clusters using Azure CNI powered by Cilium is now Generally\nAvailable.   Managing consistent network policies across Kubernetes\nnamespaces has long been a challenge for platform teams, especially in\nmulti-tenant",
-          "pubDate": "Thu, 20 Nov 2025 18:30:02 Z",
-          "a10:updated": "2025-11-20T18:30:02Z"
         }
       ]
     }
