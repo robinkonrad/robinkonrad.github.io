@@ -6,9 +6,119 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 21 Apr 2026 20:30:49 Z",
+      "lastBuildDate": "Wed, 22 Apr 2026 17:45:10 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560288"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560288",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Azure Database for PostgreSQL flexible server in Denmark East",
+          "description": "You can now\ndeploy Azure Database for PostgreSQL flexible server in the Denmark\nEast Azure region. Learn\nmore.",
+          "pubDate": "Wed, 22 Apr 2026 17:45:10 Z",
+          "a10:updated": "2026-04-22T17:45:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "559633"
+          },
+          "link": "https://azure.microsoft.com/updates?id=559633",
+          "category": [
+            "Launched",
+            "Databases",
+            "Internet of Things",
+            "Azure Cosmos DB",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Dynamic data masking with Azure Cosmos DB",
+          "description": "Dynamic data masking (DDM) is a\nserver-side, policy-based security feature in Azure Cosmos DB that\nhelps your organization protect sensitive data from unauthorized\naccess. DDM dynamically masks data for nonprivileged users, ensuring that\nsensitive informa",
+          "pubDate": "Wed, 22 Apr 2026 17:45:10 Z",
+          "a10:updated": "2026-04-22T17:45:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "513249"
+          },
+          "link": "https://azure.microsoft.com/updates?id=513249",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Logical replication slot sync Status metric for Azure PostgreSQL Flexible Server",
+          "description": "You can now monitor the synchronization status of\nyour logical replication slots in Azure Database for PostgreSQL – Flexible\nServer using the new logical_replication_slot_sync_status metric, now in\npublic preview. This Azure Monitor metric shows whether e",
+          "pubDate": "Wed, 22 Apr 2026 17:45:10 Z",
+          "a10:updated": "2026-04-22T17:45:10Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560336"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560336",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Premium SSD v2 for Azure Database for PostgreSQL",
+          "description": "We are excited to announce the general availability of Premium SSD v2 for Azure Database for PostgreSQL flexible server. With Premium SSD v2, you can achieve up to four times higher IOPS, significantly lower latency, and better price-performance for I/O-i",
+          "pubDate": "Wed, 22 Apr 2026 17:30:14 Z",
+          "a10:updated": "2026-04-22T17:30:14Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560298"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560298",
+          "category": [
+            "In preview",
+            "Databases",
+            "Hybrid + multicloud",
+            "Azure Database for PostgreSQL",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Migrating from virtual network-integrated to Private Endpoint–capable network configuration",
+          "description": "You can now migrate your Azure Database for PostgreSQL server from a virtual network‑integrated deployment to a network configuration that supports Private Endpoint connectivity. If you originally deployed your server inside a virtual network but now want",
+          "pubDate": "Wed, 22 Apr 2026 17:30:14 Z",
+          "a10:updated": "2026-04-22T17:30:14Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560293"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560293",
+          "category": [
+            "Launched",
+            "Databases",
+            "Hybrid + multicloud",
+            "Analytics",
+            "Azure Database for PostgreSQL",
+            "Microsoft Fabric",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Enhanced Mirroring Azure Database for PostgreSQL in Microsoft Fabric",
+          "description": "New capabilities make it easier to mirror real-world Azure Database for PostgreSQL workloads at scale in Microsoft Fabric and operate them with confidence.You can mirror native PostgreSQL data types such as JSON, JSONB and other commonly used types, so ri",
+          "pubDate": "Wed, 22 Apr 2026 17:30:14 Z",
+          "a10:updated": "2026-04-22T17:30:14Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3492,123 +3602,6 @@
           "description": "Announcing\nthe public preview of Model Context Protocol (MCP) support in Azure API\nManagement and Azure API Center. With this new capability, enterprises can\ntransform their existing APIs into dynamic, agent-ready tools, while improving\nsecurity and simpl",
           "pubDate": "Fri, 23 May 2025 15:00:30 Z",
           "a10:updated": "2025-11-25T20:30:17Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "534482"
-          },
-          "link": "https://azure.microsoft.com/updates?id=534482",
-          "category": [
-            "In preview",
-            "Management and governance",
-            "Networking",
-            "Network Watcher",
-            "Security",
-            "Microsoft Ignite",
-            "Features",
-            "Management",
-            "Compliance"
-          ],
-          "title": "[In preview] Public Preview: Managed Identity support in Network Watcher VNET flow log, traffic analytics and packet capture",
-          "description": "VNET flow log captures IP\ntraffic flowing through VNETs, subnets, and NICs for monitoring, troubleshooting,\nnetwork optimization, security, and compliance needs and stores the logs in Azure\nStorage Traffic Analytics leverages\nVNET flow logs and aggregates",
-          "pubDate": "Tue, 25 Nov 2025 16:45:50 Z",
-          "a10:updated": "2025-11-25T16:45:50Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "534541"
-          },
-          "link": "https://azure.microsoft.com/updates?id=534541",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Microsoft Foundry",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Claude Opus 4.5 Available in Microsoft Foundry",
-          "description": "Claude Opus 4.5 is now available in public preview on\nMicrosoft Foundry, bringing advanced coding, agentic workflows, and enterprise\nproductivity to Azure customers. Claude Opus 4.5 sets a new benchmark for performance\nand versatility, outperforming previ",
-          "pubDate": "Mon, 24 Nov 2025 20:30:10 Z",
-          "a10:updated": "2025-11-24T20:30:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "533437"
-          },
-          "link": "https://azure.microsoft.com/updates?id=533437",
-          "category": [
-            "Launched",
-            "Storage",
-            "Azure Files",
-            "Services",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure File Sync in New Zealand North",
-          "description": "Azure File Sync enables seamless tiering of data from on-premises Windows Servers to Azure Files for hybrid use cases and simplified migration. It also enables you to leverage the performance, flexibility and compatibility of your on-premises File Server",
-          "pubDate": "Mon, 24 Nov 2025 18:00:42 Z",
-          "a10:updated": "2025-11-24T18:00:42Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "526018"
-          },
-          "link": "https://azure.microsoft.com/updates?id=526018",
-          "category": [
-            "In preview",
-            "Identity",
-            "Networking",
-            "Security",
-            "Microsoft Entra ID (formerly Azure AD)",
-            "Azure Bastion",
-            "Microsoft Ignite",
-            "Features",
-            "Services",
-            "Security"
-          ],
-          "title": "[In preview] Public Preview: Entra ID support for RDP connections",
-          "description": "Announcing Azure Bastion now supports Microsoft Entra ID\nauthentication for RDP connections to Windows VMs directly in the portal. This update\nbrings two key benefits for RDP users connecting to their virtual machines: Enhanced Security: By eliminating lo",
-          "pubDate": "Mon, 24 Nov 2025 17:15:03 Z",
-          "a10:updated": "2025-11-24T17:15:03Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "532481"
-          },
-          "link": "https://azure.microsoft.com/updates?id=532481",
-          "category": [
-            "Launched",
-            "Developer tools",
-            "DevOps",
-            "Azure Load Testing",
-            "Regions & Datacenters",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Load Testing in Italy North",
-          "description": "Azure Load Testing capability in Azure App Testing is now generally available in Italy North. Customers can now use Azure Load Testing, a fully managed load-testing service to generate high scale load and run simulations, easily identify performance bottl",
-          "pubDate": "Mon, 24 Nov 2025 17:00:10 Z",
-          "a10:updated": "2025-11-24T17:00:10Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "532207"
-          },
-          "link": "https://azure.microsoft.com/updates?id=532207",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure SQL Database",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Regex support in T-SQL",
-          "description": "Boost your SQL queries with powerful regular expressions (regex) support for advanced pattern matching. Now you can use native regex in T-SQL directly in Azure SQL and SQL Server 2025 queries—simplifying code, improving maintainability, and reducing depen",
-          "pubDate": "Mon, 24 Nov 2025 17:00:10 Z",
-          "a10:updated": "2025-11-24T17:00:10Z"
         }
       ]
     }
