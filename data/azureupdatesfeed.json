@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Thu, 23 Apr 2026 16:45:55 Z",
+      "lastBuildDate": "Thu, 23 Apr 2026 18:30:11 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560919"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560919",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Elastic SAN",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Capacity Autoscaling",
+          "description": "Capacity\nAutoscaling support is now generally available on Elastic SAN. Customers can\navoid the constraints of overprovisioning and manual capacity management by\nsetting a policy to automatically expand SAN Capacity based on usage. Autoscaling\nprovides th",
+          "pubDate": "Thu, 23 Apr 2026 18:30:11 Z",
+          "a10:updated": "2026-04-23T18:30:11Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3587,24 +3604,6 @@
           "description": "Now you can install the credcheck extension in Azure\nDatabase for PostgreSQL Flexible Server. The credcheck extension helps you to\nenforce password and credential validation policies directly within PostgreSQL.\n Learn\nmore.",
           "pubDate": "Wed, 03 Dec 2025 17:30:15 Z",
           "a10:updated": "2025-12-03T17:30:15Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "536747"
-          },
-          "link": "https://azure.microsoft.com/updates?id=536747",
-          "category": [
-            "Launched",
-            "Networking",
-            "Load Balancer",
-            "Features",
-            "Services"
-          ],
-          "title": "[Launched] Generally Available: Azure Load Balancer bandwidth metrics now support Protocol dimension",
-          "description": "Bandwidth metrics for Azure Load\nBalancer are now published with metric dimension Protocol. When retrieving or\nviewing Byte, Packet, and SYN Count metrics in the Azure portal, you will now\nsee the dimension Protocol. TCP traffic is denoted by Protocol=6,",
-          "pubDate": "Wed, 03 Dec 2025 17:00:27 Z",
-          "a10:updated": "2025-12-03T17:00:27Z"
         }
       ]
     }
