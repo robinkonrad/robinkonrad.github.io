@@ -6,9 +6,79 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 24 Apr 2026 17:45:05 Z",
+      "lastBuildDate": "Fri, 24 Apr 2026 18:30:50 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560904"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560904",
+          "category": [
+            "In preview",
+            "Storage",
+            "Azure Elastic SAN",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Azure Backup for Elastic SAN",
+          "description": "Azure Backup now supports Elastic SAN, offering a fully\nmanaged solution for backing up and restoring Elastic SAN volumes. This\nintegration helps protect data against accidental deletions, ransomware\nattacks, and application updates by exporting Elastic S",
+          "pubDate": "Fri, 24 Apr 2026 18:30:50 Z",
+          "a10:updated": "2026-04-24T18:30:50Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560997"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560997",
+          "category": [
+            "In preview",
+            "AI + machine learning",
+            "Microsoft Foundry",
+            "Features"
+          ],
+          "title": "[In preview] Public Preview: Hosted Agents in Foundry Agent Service",
+          "description": "Hosted agents run in an isolated execution sandbox\nthat provides a dedicated, secure runtime per agent session. Sessions start\nwith a clean environment with no shared state between sessions, no\ncross-session data leakage, and strong compute boundaries bet",
+          "pubDate": "Fri, 24 Apr 2026 18:15:17 Z",
+          "a10:updated": "2026-04-24T18:15:17Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560987"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560987",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Microsoft Foundry",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Foundry Toolkit for Visual Studio Code (formerly AI Toolkit for VS Code)",
+          "description": "Foundry\nToolkit for VS Code is now generally available and provides VS Code tooling for\nMicrosoft Agent Framework, including agent creation from templates or via\nGitHub Copilot, local test/debug with visualization and traces, and direct\ndeployment to Foun",
+          "pubDate": "Fri, 24 Apr 2026 18:15:17 Z",
+          "a10:updated": "2026-04-24T18:15:17Z"
+        },
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560015"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560015",
+          "category": [
+            "Launched",
+            "Compute",
+            "Containers",
+            "Azure Kubernetes Service (AKS)",
+            "Features",
+            "Security"
+          ],
+          "title": "[Launched] Generally Available: WireGuard In‑Transit Encryption for Azure Kubernetes Service (AKS)",
+          "description": "WireGuard in‑transit encryption is now generally\navailable for Azure Kubernetes Service (AKS) clusters using Azure CNI\npowered by Cilium and Advanced Container Networking Services (ACNS). This capability enables transparent, node‑level encryption\nfor inte",
+          "pubDate": "Fri, 24 Apr 2026 18:15:17 Z",
+          "a10:updated": "2026-04-24T18:15:17Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3530,79 +3600,6 @@
           "description": "The Azure MCP (Model Context Protocol) Server provides a\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\nnatural language prompts. This feature allows users to interact with confidential\nledger without the nee",
           "pubDate": "Thu, 04 Dec 2025 17:00:18 Z",
           "a10:updated": "2025-12-04T17:00:18Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "536721"
-          },
-          "link": "https://azure.microsoft.com/updates?id=536721",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Analytics",
-            "Azure Databricks",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Serverless workspaces in Azure Databricks",
-          "description": "Serverless workspaces in Azure Databricks are now available in Public Preview, offering a fully managed workspace type that comes preconfigured with serverless compute and default storage to deliver an enterprise-ready SaaS experience with minimal infrast",
-          "pubDate": "Thu, 04 Dec 2025 16:15:01 Z",
-          "a10:updated": "2025-12-04T16:15:01Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "499438"
-          },
-          "link": "https://azure.microsoft.com/updates?id=499438",
-          "category": [
-            "Launched",
-            "Storage",
-            "Analytics",
-            "Azure Blob Storage",
-            "Azure Data Lake Storage",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Blob Storage SFTP - Resumable Uploads",
-          "description": "Announcing the general availability of resumable uploads for\nAzure Storage Blob SFTP. In the event of a failed partial transfer, this new\nfeature enables users to open the partial file and continue writing the\nremaining content. This capability optimizes",
-          "pubDate": "Thu, 04 Dec 2025 12:00:46 Z",
-          "a10:updated": "2025-12-04T12:00:46Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "501668"
-          },
-          "link": "https://azure.microsoft.com/updates?id=501668",
-          "category": [
-            "AI + machine learning",
-            "Internet of Things",
-            "Azure Machine Learning",
-            "Retirements",
-            "Features"
-          ],
-          "title": "Retirement: Remove dependency on these Azure ML SDKs before June 30, 2026",
-          "description": "On June 30, 2026, AzureML SDK V1 will reach end of life. The following SDKs which work in tandem with the AzureML SDK V1 will also be retired.  azureml-train-core  azureml-pipeline  azureml-pipeline-core  azureml-pipeline-internal  azureml-pipeline-steps",
-          "pubDate": "Wed, 03 Dec 2025 21:00:12 Z",
-          "a10:updated": "2025-12-03T21:00:12Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "534523"
-          },
-          "link": "https://azure.microsoft.com/updates?id=534523",
-          "category": [
-            "Launched",
-            "Databases",
-            "Hybrid + multicloud",
-            "Azure Database for PostgreSQL",
-            "Features"
-          ],
-          "title": "[Launched] Generally Available: Azure Database for PostgreSQL Flexible Server in Belgium Central",
-          "description": "Now you can deploy Azure Database for PostgreSQL Flexible Server in the Belgium Central Azure region.  Learn more.",
-          "pubDate": "Wed, 03 Dec 2025 17:30:15 Z",
-          "a10:updated": "2025-12-03T17:30:15Z"
         }
       ]
     }
