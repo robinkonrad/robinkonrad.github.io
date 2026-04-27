@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Mon, 27 Apr 2026 16:15:55 Z",
+      "lastBuildDate": "Mon, 27 Apr 2026 18:00:52 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "561002"
+          },
+          "link": "https://azure.microsoft.com/updates?id=561002",
+          "category": [
+            "Launched",
+            "AI + machine learning",
+            "Microsoft Foundry",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Bring your own AI Gateway in Foundry Agent Service",
+          "description": "Foundry\nAgent Service now supports bring‑your‑own‑model\nscenarios, allowing agents to use AI models deployed and managed outside of\nFoundry, including models hosted behind enterprise AI gateways such as Azure\nAPI Management. This enables organizations to",
+          "pubDate": "Mon, 27 Apr 2026 18:00:52 Z",
+          "a10:updated": "2026-04-27T18:00:52Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3573,23 +3590,6 @@
           "description": "Zonal Placement for Azure Files Premium LRS is now GA in select regions! This capability gives you explicit control over zone locality by pinning storage accounts to a specific availability zone, enabling high availability, fault isolation, and predictabl",
           "pubDate": "Fri, 05 Dec 2025 21:45:02 Z",
           "a10:updated": "2025-12-05T21:45:02Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "536937"
-          },
-          "link": "https://azure.microsoft.com/updates?id=536937",
-          "category": [
-            "In preview",
-            "AI + machine learning",
-            "Microsoft Foundry",
-            "Features"
-          ],
-          "title": "[In preview] Public Preview: Mistral Large 3 in Foundry",
-          "description": "Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers enterprise-grade reliability, long-context comprehension, and multimodal reasoning—making it ideal for produ",
-          "pubDate": "Thu, 04 Dec 2025 22:30:44 Z",
-          "a10:updated": "2025-12-04T22:30:44Z"
         }
       ]
     }
