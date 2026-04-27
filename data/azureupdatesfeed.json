@@ -6,9 +6,21 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Fri, 24 Apr 2026 18:30:50 Z",
+      "lastBuildDate": "Mon, 27 Apr 2026 16:15:55 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "502936"
+          },
+          "link": "https://azure.microsoft.com/updates?id=502936",
+          "category": "Retirements",
+          "title": "Retirement: Prompt Flow in Azure ML and Foundry",
+          "description": "Prompt Flow will be retired from Microsoft Foundry and Azure Machine\nLearning on April 20, 2027 and replaced by a single, modern orchestration\nplatform: Microsoft\nAgent Framework. This change unlocks powerful new capabilities,\nincluding a unified, future-",
+          "pubDate": "Mon, 27 Apr 2026 16:15:55 Z",
+          "a10:updated": "2026-04-27T16:15:55Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3578,28 +3590,6 @@
           "description": "Mistral Large 3, a frontier-class open-weight model with Apache 2.0 licensing, is now available in Microsoft Foundry on Azure. This model delivers enterprise-grade reliability, long-context comprehension, and multimodal reasoning—making it ideal for produ",
           "pubDate": "Thu, 04 Dec 2025 22:30:44 Z",
           "a10:updated": "2025-12-04T22:30:44Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "531889"
-          },
-          "link": "https://azure.microsoft.com/updates?id=531889",
-          "category": [
-            "Launched",
-            "Databases",
-            "Security",
-            "Storage",
-            "Azure confidential ledger",
-            "Features",
-            "SDK and Tools",
-            "Security",
-            "Services"
-          ],
-          "title": "[Launched] Generally Availaible: Azure MCP Server support for Azure confidential ledger",
-          "description": "The Azure MCP (Model Context Protocol) Server provides a\nstreamlined approach for managing Azure resources—including Azure confidential ledger—through\nnatural language prompts. This feature allows users to interact with confidential\nledger without the nee",
-          "pubDate": "Thu, 04 Dec 2025 17:00:18 Z",
-          "a10:updated": "2025-12-04T17:00:18Z"
         }
       ]
     }
