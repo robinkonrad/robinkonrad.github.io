@@ -6,9 +6,26 @@
       "title": "Azure service updates",
       "link": "https://www.microsoft.com/releasecommunications/api/v2/Azure/rss",
       "description": "Azure service updates",
-      "lastBuildDate": "Tue, 28 Apr 2026 17:45:04 Z",
+      "lastBuildDate": "Tue, 28 Apr 2026 20:30:56 Z",
       "ttl": "1440",
       "item": [
+        {
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "560914"
+          },
+          "link": "https://azure.microsoft.com/updates?id=560914",
+          "category": [
+            "Launched",
+            "Storage",
+            "Azure Elastic SAN",
+            "Features"
+          ],
+          "title": "[Launched] Generally Available: Connect to Elastic SAN from Windows VM via VM Extension",
+          "description": "Azure Elastic SAN now supports\nvolume connectivity for Windows Virtual Machines using the Elastic SAN VM\nextension, directly from the Azure Portal. This capability enables customers to\nconnect Elastic SAN volumes during virtual machine deployment, simplif",
+          "pubDate": "Tue, 28 Apr 2026 20:30:56 Z",
+          "a10:updated": "2026-04-28T20:30:56Z"
+        },
         {
           "guid": {
             "@isPermaLink": "false",
@@ -3574,23 +3591,6 @@
           "description": "You can now receive insights where collaboration happens—in Microsoft Teams—with expanded dashboard subscription capabilities in Azure Databricks. This enhancement delivers timely, actionable data directly into team workflows, reducing the need to check e",
           "pubDate": "Thu, 11 Dec 2025 20:30:24 Z",
           "a10:updated": "2025-12-11T20:30:24Z"
-        },
-        {
-          "guid": {
-            "@isPermaLink": "false",
-            "#text": "541784"
-          },
-          "link": "https://azure.microsoft.com/updates?id=541784",
-          "category": [
-            "Launched",
-            "Internet of Things",
-            "Azure Sphere",
-            "Operating System"
-          ],
-          "title": "[Launched] Generally Available: Azure Sphere OS version 25.12 is now available for evaluation",
-          "description": "Azure Sphere OS version 25.12 is now available for evaluation in the Retail Eval feed. Whilst this release encompasses no customer-facing changes, it represents significant under-the-hood build system changes, as such, this release will operate for an ext",
-          "pubDate": "Thu, 11 Dec 2025 18:00:36 Z",
-          "a10:updated": "2025-12-11T18:00:36Z"
         }
       ]
     }
